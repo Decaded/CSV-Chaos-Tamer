@@ -127,18 +127,33 @@ async function parseCsv(filePath) {
 			.pipe(
 				csv({
 					headers: likelyHasHeaders ? undefined : fallbackHeaders,
-					mapHeaders: ({ header, index }) => headerMap[normalizeHeader(header)] || headerMap[index] || null,
+					mapHeaders: likelyHasHeaders ? ({ header, index }) => headerMap[normalizeHeader(header)] || headerMap[index] || null : null,
 				}),
 			)
 			.on('data', row => {
 				const clean = { __source: path.basename(filePath, '.csv'), __line: rows.length + 1 };
-				for (const [key, rawVal] of Object.entries(row)) {
-					if (!key) continue;
-					const transform = transformMap[key];
-					const v = transform ? transform(rawVal) : rawVal;
-					if (key === 'chapter') hasChapterColumn = true;
-					clean[key] = v;
+
+				// If no headers, row keys are fallbackHeaders exactly, so normalize manually
+				if (!likelyHasHeaders) {
+					for (const keyRaw of fallbackHeaders) {
+						const keyNorm = headerMap[normalizeHeader(keyRaw)] || null;
+						if (!keyNorm) continue;
+						const val = row[keyRaw];
+						const transform = transformMap[keyNorm];
+						clean[keyNorm] = transform ? transform(val) : val;
+						if (keyNorm === 'chapter') hasChapterColumn = true;
+					}
+				} else {
+					// With headers, keys already normalized by mapHeaders
+					for (const [key, val] of Object.entries(row)) {
+						if (!key) continue;
+						const transform = transformMap[key];
+						const v = transform ? transform(val) : val;
+						if (key === 'chapter') hasChapterColumn = true;
+						clean[key] = v;
+					}
 				}
+
 				if (!hasChapterColumn || !clean.chapter) clean.chapter = chapterFromFile;
 				if (!clean.name || !clean.description) return;
 				if (clean.cost > maxCP) maxCP = clean.cost;
