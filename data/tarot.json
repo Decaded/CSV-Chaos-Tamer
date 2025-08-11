@@ -1,0 +1,1238 @@
+{
+  "1": [
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 1,
+      "cost": 0,
+      "name": "A Drunken Dwarf’s Dream",
+      "source": "Dragon Age 1.02",
+      "description": "Several barrels full of high-quality ale, as well as other alcoholic beverages. Strangely enough, no matter how much you pour from the barrels, they never seem to become empty.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 2,
+      "cost": 0,
+      "name": "Stone Prisoner",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The golems of Orzammar once made up the vanguard of the dwarven army, holding back the tides of darkspawn that flooded out of the Deep Roads. But the art of making them was lost, and many of them succumbed to wear and damage in battle. Shale has no memories either of the time spent fighting in the Deep Roads, or of coming to Honnleath, only a few spotty, and bitter, recollections of its last master.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 3,
+      "cost": 0,
+      "name": "Stone Sense ",
+      "source": "Dragon Age 1.02",
+      "description": "The dwarves believe that they are the Children of the Stone, born of the earth itself. The stone is believed to be a living, shifting entity with a will that surrounds and guides the dwarves. She supports them, shelters them, and offers them the most priceless gifts of the earth, such as gems, ore, and lyrium. Dwarves living underground possess this “stone sense”, which provides them with the ability to navigate subterraneously. It’s described as the ability to hear the distant song of lyrium. This connection allows dwarves to sense a passageway before reaching it, and they can navigate the Deep Roads without getting hopelessly lost. Normally, dwarves who spend long periods of time on the surface lose this stone sense over time, and those who are born on the surface appear to not possess it at all. However, because of Jumpchain fiat you will never lose your stone sense, no matter how much time you spend topside. In addition, you also have excellent vision in the dark.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 4,
+      "cost": 100,
+      "name": "Blood of Aeducan",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Yours is a lineage of kings, of a hero that saved the dwarven people from annihilation during the First Blight. Such a lineage shines through in your mannerisms, in the way you hold yourself, marking you as someone important. It is easy to have yourself placed in charge of a group, to convince others that you’re clearly the best person for the job.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 5,
+      "cost": 100,
+      "name": "Casteless Scum",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Looked down upon by all of dwarven society, the Casteless are the dirty secret staining Orzammar’s perfect society, seen as less than even the dirt beneath one’s boots. Yet there are benefits to being the lowest of the low, as rare as they are. People are less likely to notice you when you so desire it, blending into the background as others shine upon their pedestals.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 6,
+      "cost": 100,
+      "name": "Dwarven Warrior’s Belt ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Steel rivets have been driven through the leather, making this belt almost armored. Taken from a member of the Warrior Caste involved with the Carta, it slightly improves the protectiveness of one’s armor, as well as allowing their swords and axes to strike with just a bit more force than before.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 7,
+      "cost": 100,
+      "name": "Lyrium Crate",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "An extremely volatile and sometimes explosive material found deep beneath the earth, only the Mining Caste of dwarves are able to safely mine and process it. When refined, like these monthly shipments are, they can be used for all sorts of things, such as replenishing a mage’s stores of mana, the crafting of runes, and used to enhance the anti-magic abilities of the Templars.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 8,
+      "cost": 200,
+      "name": "A Girl’s Best Friend",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "With good steel being somewhat of a rarity amongst the lower echelons of dwarven society, the Casteless have had to make do where they can. This has led to some like you who prefer poisoned caltrops and sleeping gas to take down your enemies over axes and swords. Constructing these traps and lures is like second nature to you at this point, as is disarming any that you may end up running across.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 9,
+      "cost": 200,
+      "name": "Dwarven Crafts, Fine Dwarven Crafts!",
+      "source": "Dragon Age 1.02",
+      "description": "Direct from Orzammar! It’s said that the dwarves are the finest craftsmen on Thedas. And this is especially true when it comes to the workings of stone, metals, and minerals. Your skill as a stonemason, smith, and lapidarist is legendary, even amongst the dwarves. You could craft the most exquisite jewelry, forge the strongest metals, build the most durable walls, and work all these in such a manner that whatever you create will stand the test of time itself, whether that’s a hundred years or a thousand, or even longer than that.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 10,
+      "cost": 200,
+      "name": "Dwarven Mine ",
+      "source": "Dragon Age 1.02",
+      "description": "This mine with several large veins of high-quality lyrium, minerals, and precious metals such as veridium, silverite, volcanic aurum, etc. Strangely enough, these veins and deposits never seem to run out, no matter how much is mined. There’s also a small compound where several dwarves seem to live, who are more than happy to mine the stuff for you.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 11,
+      "cost": 200,
+      "name": "Enchantment? Enchantment!",
+      "source": "Dragon Age - Origins",
+      "description": "You have become one of Ferelden’s foremost scholars on iconography, and have the natural talent to back it up. Not only are you able to apply runes to weapons and armor, granting them arcane properties, but you're even capable of crafting your own. With the right materials, plenty of lyrium, and time to experiment, you could one day create artifacts of legend.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 12,
+      "cost": 200,
+      "name": "Tunnel Fighting ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Many nobility are required to spend some amount of time within the military, fending off the endless tide of darkspawn within the Deep Roads. In such cramped environments, surrounded by countless enemies, fighting effectively as a whole is an essential skill. You’re highly experienced in utilizing these group tactics, quickly figuring out which individuals are best for which roles in a fight, and leading them to victory.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 13,
+      "cost": 200,
+      "name": "Bronto ",
+      "source": "Dragon Age 1.02",
+      "description": "These hulking beasts were originally bred by the dwarven Shaperate as beasts of burden and a food source, the rough equivalent of surface oxen and cows. Some versions of bronto have even been developed as dwarven mounts, valued far more for their sure-footedness and stamina than for their speed. While present within Orzammar in large numbers, some bronto still exist in packs within the Deep Roads, having returned to a wild state after the fall of the dwarven kingdoms. They require remarkably little sustenance, consuming organic material from water, fungi, and even rocks (hence the “Rock-Licker” appellation used by many dwarves to describe them), and exist in primarily dormant states until provoked. An angry, charging bronto is considered to be a rather dangerous opponent.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 14,
+      "cost": 400,
+      "name": "Ties to the Carta",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Forced to resort to crime in order to survive, the Carta are the only alternative most Casteless are given if they want a full stomach. With how long you’ve been a member of this crime syndicate, you’ve come to notice other such organizations with just a few glances, as well as finding an in that will allow you to join up with them on the spot. Some may be suspicious of the stranger that suddenly appeared in their ranks and quickly earned the boss’ favor, but that’s just natural in this kind of business.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 15,
+      "cost": 400,
+      "name": "Deep Roads ",
+      "source": "Dragon Age Origins & Dragon Age II",
+      "description": "Home primarily to the darkspawn. No, you don't get the whole of the deep roads. That would be far too much. You do get The Dead Trenches as well as the three massive trenches that are also apart of that area. Just one of a part of them is big enough to contain the entire darkspawn horde. Once home to the Legion of the Dead, then the darkspawn, and now only one. In case you were wondering, it is fully repaired as if in its heyday.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 16,
+      "cost": 600,
+      "name": "A Paragon’s Journal",
+      "source": "Dragon Age 1.02",
+      "description": "A tattered old journal belonging to an old dwarven paragon. It seems to be part diary, part instructions on how to build... some kind of anvil? How very curious.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 17,
+      "cost": 600,
+      "name": "Maps of the Deep Roads",
+      "source": "Dragon Age Origins & Dragon Age II",
+      "description": "The holy grail, so to speak. A set of maps detailing the location of an old god. The journey to it is almost certainly a long one. Would you really go so far to damn this world? You can conveniently find a similar set of maps for each world you travel In place of an equivalent, they will lead to some great treasure. If neither exists, you will get a set of maps detailing every cave system in the world as they were upon your arrival.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 18,
+      "cost": 600,
+      "name": "Worked to the Bone",
+      "source": "Dragon Age Origins & Dragon Age II",
+      "description": "You and Wade are probably the best craftsman of the age. You could absolutely create things befitting that title with the right components. Things you make are just simply much better than what others can do, with one or no tries you can fashion items so quick that it should probably be impossible to do so and can do so even with no prior experience a lot of the time, just look at someone to get their measurements, and even do something that seems impossible like changing a flame rune into a frost rune.",
+      "chapter": "Dwarf"
+    }
+  ],
+  "2": [
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 1,
+      "cost": 0,
+      "name": "Vir Tanadhal ",
+      "source": "Dragon Age 1.02",
+      "description": "The Vir Tanadhal is a Dalish philosophy espoused by a clan’s hunters in the spirit of the goddess of the hunt, Andruil. It teaches young Dalish hunters to respect nature and be resolute in purpose. You’ve been instructed in this philosophy’s teachings, and have learned how to move through the wilds swiftly, silently, and unencumbered. Furthermore, wild animals will never bother you unless deliberately provoked.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 2,
+      "cost": 100,
+      "name": "Heirloom Necklace ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "A necklace made up of hundreds of wooden beads, each carved into the shape of an animal. Deer, hawks, wolves, and rabbits chase each other across its length. Passed down through the Mahariel family of Dalish elves, when worn you will be more resistant towards spiritual damage.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 3,
+      "cost": 100,
+      "name": "Beehive ",
+      "source": "Dragon Age 1.02",
+      "description": "A beehive and several empty glass jars. Simply touch an empty jar to the beehive and think of either honey or bees, and the flask will be filled with whatever you thought of. Any used jars will restock after two hours.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 4,
+      "cost": 100,
+      "name": "Legacy of the Dales ",
+      "source": "Dragon Age - Origins",
+      "description": "With the destruction of your homeland, your people have been forced to wander the lands, searching desperately for the slightest scraps of ancient elven knowledge. Whether you’ve been successful on that front or not, this lifestyle has led to the Dalish being unrivalled when it comes to traversing the wilds. The difficult terrain of the natural world doesn't seem to slow you and yours down whatsoever, traversing through thick forests as easily as a meadow.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 5,
+      "cost": 200,
+      "name": "Nature’s Bounty",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 6,
+      "cost": 200,
+      "name": "Dalish Promise Ring",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Intended for a Dalish elf's betrothed, this enchanted silver band was blessed by the tribe's Keeper to ensure a long, healthy life. Wearing it will see that any healing done to you is more effective, as well as making it less likely to draw the hostility of others towards yourself.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 7,
+      "cost": 200,
+      "name": "Dalish Woods",
+      "source": "Dragon Age 1.02",
+      "description": "A forest full of special trees such as ironbark, sylvanwood, dragonthorn, vhenadahl, and heartwood, as well as several patches of useful herbs. All of them would yield excellent materials for a dalish woodshaper or herbalist. 24 hours after harvesting any materials they will respawn as good as new.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 8,
+      "cost": 200,
+      "name": "Nature of the Beast ",
+      "source": "Dragon Age 1.02",
+      "description": "You have an affinity for the open country and wilderness, and the creatures that live within it. You have all the skills needed to survive and thrive in any non-urban environment, are an expert tracker and hunter, and once a day you may call upon the beasts of the wilds to aid you, in battle or outside of it.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 9,
+      "cost": 200,
+      "name": "Herbalist",
+      "source": "Dragon Age 1.02",
+      "description": "Many plants in this world have supernatural effects or healing properties, and so there exist many herbalists who use them to create useful items. You’ve studied under a master herbalist and as a result have gained a near-encyclopedic knowledge of the flora of this world and its effects, and thus have gained the skills required to create various potions, poultices, salves, and incense. By itself that is already an extremely useful skill to have, but for someone like you, Jumper, that wasn’t enough. And so it was that you sought out the Dalish, and had them teach you what they knew about many natural remedies humans have long since forgotten or ignored, such as knowing which type of tree bark cures headaches when chewed upon.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 10,
+      "cost": 200,
+      "name": "Nature’s Bounty",
+      "source": "Dragon Age - Origins",
+      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 11,
+      "cost": 200,
+      "name": "Halla",
+      "source": "Dragon Age 1.02",
+      "description": "The halla are a type of horned stag. Some of them are herded by the Dalish elves who used them to pull the aravels, or landships. Their milk is also made into cheese and butter. The Dalish do not consider them beasts of burden but noble companions. To get them to accompany a clan, the Dalish elves ask rather than force them to. It is said that the Dalish carve their antlers for decorative purposes, and that their antlers are particularly prized in the Tevinter Imperium.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 12,
+      "cost": 300,
+      "name": "An Oversized Mirror",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "A massive ornate mirror standing over 12 feet tall. The mirror is broken, but is obviously magical. It appears as though all of the shards of the mirror are at the foot of the mirror and all that is required to fix it is time and knowledge.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 13,
+      "cost": 400,
+      "name": "Nomadic Hunter",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. One cannot afford to be ignorant of their surroundings, no matter how seemingly safe it appears. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 14,
+      "cost": 400,
+      "name": "Anduril’s Blessing",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Belts of this type, crafted by ancient elven keepers, were given to a clan's honored allies. Although the fine engravings are faded from age and use, the enchantments remain strong to this day. Not only will it bolster one’s resilience to damage and spiritual magics, but it allows the wearer to swiftly replenish any spent mana, even in the midst of battle. Yet even with such potent equipment, the elves fell all the same to the Imperium.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 15,
+      "cost": 400,
+      "name": "Woodshaping",
+      "source": "Dragon Age 1.02",
+      "description": "The Dalish elves practice a craft known as Woodshaping, which allows them to forge outstanding arms, armour, and other items from wooden materials that can easily compare to most of their metal counterparts. Yes, you read that correctly. Forge. They forge wood. How they manage to accomplish this, only the Dalish know, and they’re not telling any outsiders. Except for you, that is. You’ve studied under a Master Woodshaper, and learned all they’ve had to teach you, including the secret of how to work with Ironbark. Any type of wood can be used for this craft, but the best results are gained when Ironbark is used. Ironbark is a rare wood type, somewhat blue in colour, and only grows in the Brecilian Forest in Ferelden. Items fashioned from Ironbark are surprisingly both stronger and lighter than steel, and are exceptionally suited to enchantments.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 16,
+      "cost": 400,
+      "name": "Nomadic Hunter",
+      "source": "Dragon Age - Origins",
+      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. No matter how seemingly safe it appears, one cannot afford to be ignorant of one's surroundings. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 17,
+      "cost": 600,
+      "name": "The Sorrows of Arlathan",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Ancient carvings cover the limbs of this bow. It looks to be some form of elven, either a poem or a prayer of some sort. Not only do arrows fired from this longbow punch through even the thickest of armors, but the user can fire them at such a rate to rival ten of their equals. Strangely, it seems as though this bow is more effective against those who don't possess elven blood, biting into their flesh like the fangs of a dreaded wolf.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 18,
+      "cost": 600,
+      "name": "Keeper ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Every Dalish clan has a keeper, a wise mentor dedicated to preserving the elves' ancient lore. It is exceptionally uncommon for a keeper to teach anyone other than a fellow clan member about the unique Dalish understanding of nature magic, which focuses on control of the roots beneath the earth, amongst other abilities. Most prominently, creatures of nature such as sylvans will find themselves compelled to follow your commands, while elves will be more deferential towards you.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 19,
+      "cost": 800,
+      "name": "Vir'abelasan",
+      "source": "Dragon Age 1.02",
+      "description": "The Vir’abelasan, or Well of Sorrows, is an ancient nexus of ley energies located within the temple of Mythal. Mythal, one of the elven gods, was betrayed and murdered by her fellow Evanuris. This pool is a reminder of what was lost, a path to be walked by those who toiled in Mythal’s name. Near the end of their life, every servant of Mythal would pass their knowledge on through the Well of Sorrows. Thus, it contains all the collective knowledge and way of life of the ancient favoured elves. Those who drink from the well will gain access to all the knowledge stored within, though it may take quite some time to fully absorb and comprehend everything. There’s so much knowledge to shift, through, after all. It is said that those who drink from the Vir’abelasan are bound to the will of Mythal forevermore. And while that appears to be true for the original, since you are paying so much CP for this, you will gain a copy of the Well that doesn’t enslave the user. What’s even better is that this version of the Well doesn’t just contain the collective knowledge of the servants of Mythal, but the collective knowledge of all of the ancient elves, including the Evanuris.",
+      "chapter": "Elf"
+    }
+  ],
+  "3": [
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 1,
+      "cost": 0,
+      "name": "Ocularum",
+      "source": "Dragon Age 1.02",
+      "description": "An ocularum is a skull with a crystal placed in the right eye socket, through the back of the skull. When one looks through the skull’s crystal it will reveal any and all nearby hidden magic, including magical objects.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 2,
+      "cost": 0,
+      "name": "Wild Witch ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Her mother claims to be Flemeth. If that's true, the Morrigan might well be a very powerful witch, for the tales of the daughters of Flemeth tell of twisted, monstrous women who can kill a man with fear. She was made to accompany the surviving Grey Wardens: The payment, Flemeth said, for saving their lives at the Tower of Ishal. Sardonic and cruel, Morrigan's critical eye is not reserved solely for others. Knowing or not, she has a simple fondness for jewelry and is very particular about her appearance.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 3,
+      "cost": 100,
+      "name": "Band of Fire ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Magical fire is used with great care in the construction of these rings. After a few unfortunate incidents of singed eyebrows and burnt hair, there is some speculation that this is why the Formari often shave their heads. Wearing this ring will grant you a sizable resistance to most forms of fire and heat, and will extinguish any flames that linger on your person for more than a second.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 4,
+      "cost": 100,
+      "name": "Beautiful Mind ",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "Your genius level intellect allows you to understand nearly any topic and would qualify you to work at the highest levels of academia.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 5,
+      "cost": 100,
+      "name": "Blackened Heartwood Staff ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The damage the darkspawn inflict is not limited to violence they commit. Their presence appears to corrupt, tainting the earth and all that lives. This staff was once mahogany heartwood, but no more. Where the wood ends and the metal begins is not even clear. Still, this proves to be a useful tool for any mage, slightly empowering their spells’ potency.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 6,
+      "cost": 100,
+      "name": "Circle Trained ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Magic exists to serve man, never to rule over him. The leading excuse of the Chantry to toss those connected to the Fade into a Circle and promptly forget about them. Yet it is not without merits, for within these places are where you can properly hone your craft in a relatively safe environment, leading to greater control over your powers. Even abilities not dependent on the Fade will be easier for you to command, for do they not exist to serve you?",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 7,
+      "cost": 100,
+      "name": "Creation School",
+      "source": "Dragon Age 1.02",
+      "description": "The School of Creation, sometimes called the School of Nature, is the second of the Schools of Matter, the balancing force and complement of Entropy. Creation magic manipulates natural forces, transforming what exists and bringing new things into being. Creation requires considerable finesse, more than any other school, and is therefore rarely mastered. Those mages who have made a serious study of creation are the highest in demand, useful in times of peace as well as war. Mages schooled in creation are invaluable allies who can imbue themselves and others with restorative energy, thus knitting flesh and mending bone, and the truly talented are even capable of sheathing themselves and others in an aura that enhances their aptitude in battle.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 8,
+      "cost": 100,
+      "name": "Entropy School ",
+      "source": "Dragon Age 1.02",
+      "description": "The first of the two Schools of Matter, Entropy is the opposing force of Creation; for this reason it is often called the School of Negation. Nothing lives without death. Time inevitably brings an end to all things in the material world, and yet in this ending is the seed of a beginning. A river may flood its banks, causing havoc, but bring new life to its floodplain. The fire that burns a forest ushers in new growth. And so it is with entropic magic that we manipulate the forces of erosion, decay, and destruction to create anew. Entropy mages delve into the chaotic nature of the Fade, some of the things that allows them to do include twisting the fabric of probability, hexing and cursing their enemies, and ensnaring them with horrifying visions.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 9,
+      "cost": 100,
+      "name": "Late Nights And Dusty Tomes ",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "Magical research is your forte. Given enough time and the proper resources there is little to nothing you can uncover, discover, or learn.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 10,
+      "cost": 100,
+      "name": "Memory Band",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Made by the Formari, these lyrium-infused rings are supposed to help apprentices retain their lessons. They work rather well - too well, perhaps, as less capable students sometimes wear three or four per finger. As is to be expected, you will be able to retain and recall information much easier while wearing this ring.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 11,
+      "cost": 100,
+      "name": "Strong Will ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "It is through a mage’s dreams that a demon may find and tempt them, looking for a foothold into the mortal world. Yet they find no purchase within your psyche, incapable of breaking or shattering even under the worst duress or the most skilled of torturers. With such will driving you, one could accomplish great things, or plunge headlong into tragedy.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 12,
+      "cost": 200,
+      "name": "“Friendly Fire”",
+      "source": "Dragon Age 1.02",
+      "description": "Usually isn’t so friendly. After many hours of studying (read: setting things—and yourself—on fire by accident), you’ve found a way to alter your spells in such a manner that your allies aren’t harmed by it, directly at least. You and your allies could walk through your firestorm spell and won’t even be singed by it, but indirect effects such as smoke might still be a problem, for example. I’m sure that a mage of your caliber will in time be able to find a way to fix that.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 13,
+      "cost": 200,
+      "name": "Alchemist’s supplies ",
+      "source": "Dragon Age 1.02",
+      "description": "Several large chests full of esoteric and not-so-esoteric reagents, all of them useful to alchemists. If a reagent is taken from a chest it will respawn back in the chest 24 hours later.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 14,
+      "cost": 200,
+      "name": "Amulet of the War Mage",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "This amulet was forged during the height of the ancient Tevinter Imperium's power, a time when entire armies would flee upon seeing a Tevinter magister stride into battle. While the name Cavellus remains engraved on its back, any memory of the magister who created it has been lost to the mists of time. The wearer will find themselves slightly resistant to all forms of magical damage.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 15,
+      "cost": 200,
+      "name": "Arcane Grimoire",
+      "source": "Dragon Age 1.02",
+      "description": "An old, but lovingly cared for book, bound in leather of questionable origins. The pages smell of herbs and wood smoke. Intricate stitching on the cover marks out a leafless tree, strangely ominous in its stark appearance. The grimoire contains details on many spells that were lost to time, as well as instructions for a ritual that allows you to transfer yourself into another person’s body, possessing them. If successfully executed, this ritual would allow one to potentially live forever, by simply taking a new body when one’s current one grows too old.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 16,
+      "cost": 200,
+      "name": "Fading Dreams",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The greatest danger that a mage faces is that of demons, inhabitants of the Fade that wish to enter the physical world through possession. Yet to become one such abomination is not your fate, as these beings will find no purchase upon your mind and soul that you do not allow. Even other mages will find it exceedingly difficult to influence your mind or fool your senses.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 17,
+      "cost": 200,
+      "name": "Shapeshifter",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Rumors speak of barbarians that hold secrets of transforming the body into the form of animals. The Circle of Magi denies such rumors, but this rare art survives in the forgotten corners of Thedas. Mastery of their bodies allows shapeshifters some protection, even in human form, making them durable opponents and staunch allies. Though you start off knowing only three forms, being a bear, spider, and swarm of insects, you may learn how to assume different firms in the future.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 18,
+      "cost": 300,
+      "name": "Dreamweaver",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "Not all knowledge is recorded and not all recorded knowledge endures the ravages of time. This discipline will allow you to mine the very nature of reality through dreams and meditation for the answers you seek. In addition, this perk will give you access to the Fade, or the in-universe equivalent thereof, whenever you dream. Entrance to the Fade will be in mind and spirit only, not bodily.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 19,
+      "cost": 400,
+      "name": "Battlemage ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Some mages specialize in spells that permit them to engage in combat from afar. Battlemages, by contrast, prefer to wade into the fray alongside their blade-wielding companions, close enough to read the fear in their opponents' eyes. Their spells primarily concern personal preservation as well as control of the elements in their immediate surroundings. To face off against you is more akin to battling a force of nature than a person.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 20,
+      "cost": 400,
+      "name": "First Enchanter",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Through long study of the Circle’s available resources, learning from the best mages around, you’ve come to understand the arcane in a way that few others could match. Due to your extensive magical knowledge, you’ve found numerous ways to improve both the efficiency and potency of your spells. Sure, any mage can let loose a fireball onto a darkspawn, but you can throw one that engulfs the five next to it, and at only half the mana cost. To look at you is to see just what magic is truly capable of, for better or for worse.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 21,
+      "cost": 400,
+      "name": "Force Mage ",
+      "source": "Dragon Age 1.02",
+      "description": "ll schools of magic manipulate energy, but force mages revel in it. A school popular in Kirkwall’s Circle of Magi, they focus only on the raw application of magic, in all its vicious glory—maelstroms that draw in opponents, ethereal weight that crush and slow, or great waves of energy that throw enemies about like ragdolls. Targets not to be toyed with are simply slammed into the ground, as though pummeled by a great fist. And in their mastery of such damage, force mages can make themselves all but immune to similar attacks, an ability that hints at the true discipline they must maintain. After all, unsubtle doesn't mean unsophisticated—the force mage requires uncommon precision to keep such overwhelming power under control.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 22,
+      "cost": 400,
+      "name": "Mark of the Rift",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "You’ve been touched by powerful magic, and it has left its mark on you. Somewhere on your body is a highly visible mark that will allow you influence extraplanar portals and deal more damage to entities not from the physical plane. At first the mark will only allow you to close portals, though in order to do so you must engage in a test of wills with either the portal itself or the entity opening the portal. With time, this mark will allow you to open rifts into other planes of existence in this universe.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 23,
+      "cost": 400,
+      "name": "Spellweaver",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "This ancient elven-forged blade vibrates slightly to the touch in most people's hands, but it stills in the grip of a mage. Crafted with lost techniques for alloying lyrium and metals, Spellweaver enhances a mage's powers, acting as a focus in the same way as a staff. Wielding it into battle will render one more resistant to magic, as well as enhancing the replenishment of one’s arcane energies. Truly, an elegant weapon from a bygone age.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 24,
+      "cost": 400,
+      "name": "Spirit Healer ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Not all entities of the Fade are demonic. Many are benevolent entities consisting of life energy, which can be called upon to mend flesh and heal disease. Spirit healers focus on channeling the energies granted by these spirits, making them indispensable members to any party of adventurers. In addition to healing even the most grievous of wounds, you are capable of temporarily enhancing your allies’ abilities, making them even more effective in combat.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 25,
+      "cost": 600,
+      "name": "Full Circle",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "While magic is often times a solitary affair, you know it needn’t be. You are a master of synchronizing the work of multiple magic users, combining and coordinating their casting to create an effect that is dramatically more powerful than the sum total of the individual spells cast. In addition to this, magic users of all worlds and of all stripes will recognize you as a master of the art and will treat you as such.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 26,
+      "cost": 600,
+      "name": "Reaper’s Vestments ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Reaper was an apostate mage who evaded the templars for many years before being captured. Part villain, part folk hero, it is said he led a charmed life avoiding dangers that would have killed lesser men. Due to the lyrium weaved within, it has the same protective capabilities as hardened leather, on top of potent spell resistances and an immunity to fire. Of course, there is also the chance that you will be moved out of the way of attacks automatically, regardless of whether you saw them coming or not.",
+      "chapter": "Mage"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
+      "__line": 27,
+      "cost": 600,
+      "name": "Staff of the Lost ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The beauty of this staff has suffered little, considering how long it spent in darkspawn hands. An artifact of great power, it would turn even the most mediocre of mages into a true force to be reckoned with. The lyrium imbued within its golden metal greatly empowers all magics the wielder casts, though these improvements will be especially notable when it comes to spells that are pure magical or spiritual in nature.",
+      "chapter": "Mage"
+    }
+  ],
+  "4": [
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 1,
+      "cost": 0,
+      "name": "Dosh",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "100 gold sovereigns.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 2,
+      "cost": 0,
+      "name": "Coin Purse ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Even with the darkspawn threatening to ravage all of Ferelden, merchants are still going to charge an arm and a leg for their goods. Instead of scrounging the entire country for spare change in order to afford that cool set of armor, you could simply have this leather pouch. Held within are fifty gold coins, all of which can be broken down automatically into silver and copper ones as needed. Anything you do spend will be replenished at the end of the week.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 3,
+      "cost": 0,
+      "name": "Heroic Looks ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Many look to the past with rose-tinted gazes, seeing only their romanticized version of their own interpretation. Though not all who participate in history are as attractive as what actors' stageplays may make it appear as, you certainly cut a heroic figure. Your beauty may manifest however you want, but all can agree that you are more than pleasing to the eye, and even scars do nothing to mar your visage.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 4,
+      "cost": 0,
+      "name": "Mabari Hound ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Mabari war hounds are a breed of intelligent dogs said to have been bred by mages, which the Alamarri and their Fereldan descendants popularized as war hounds, status symbols, and lifelong companions. Having chosen you as its new master, this particular warhound has a pedigree older than Highever, and a penchant for driving cooks to distraction.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 5,
+      "cost": 0,
+      "name": "Thoughtful Gifts ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "If you’re planning on spending any amount of time with others, traveling the width and breadth of Ferelden, it would be smart to be at least friendly with them. This crate is filled with many trinkets and baubles, but aren’t useful for selling. No, they are for gifting to others. Each of the items has some measure of meaning for notable traveling companions you’ll come across, as well as your normal Companions, and will notably improve their opinion of you if given to them.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 6,
+      "cost": 100,
+      "name": "Arcane Clarity ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "You have embraced ancient techniques of meditation, resulting in a sound mind and a sound body. This has led to you developing a truly insane amount of stamina, capable of running around for hours on end without even getting winded. For those with magic, however, they will find their mana capacity has seen a similar level of improvement, casting spells left and right with nary a thought regarding the cost.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 7,
+      "cost": 100,
+      "name": "Drake Scales ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "There are no crafting materials more treasured by smiths than the scales of drakes and dragons. How lucky you are, that you’ll never be without these valuable scales. At the beginning of each month, you will receive enough drake scales to make a full set of armor, and enough dragon scales to make a similar set every three months.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 8,
+      "cost": 100,
+      "name": "Great Vitality ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The result of a regimen of strenuous exercise, you'd be hard pressed to find any as hale and hearty as yourself. Not only are you now extremely resistant to disease and poison, but the amount of punishment your body can take has seen an unbelievable increase. It would take the blow of an Ogre to leave any serious damage you with one hit, but a few knives to the back would work just as well to bring you down.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 9,
+      "cost": 100,
+      "name": "The Lucky Stone ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "This old stone, set in a golden ring, has been an aid and companion to dozens of adventurers across innumerable years. Its trip to Ferelden was long and convoluted, with some even saying that it has a life of its own. Those who wear this ring will see a notable improvement to all of their attributes.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 10,
+      "cost": 200,
+      "name": "Deep Pockets",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "If you want to survive the Blight, you’re going to need all manner of supplies, from weapons and armor to healing poultices and poisons. Now it won’t be as big of a problem for you, as you’ve found yourself in possession of seventy slots to store items. You can call upon these items at any time, swap them out, and stack certain kinds of items into a single slot.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 11,
+      "cost": 200,
+      "name": "Designated Love Interest",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "People find you interesting. Very interesting. Wherever you go you will have no shortage or romantic suitors and interested parties. You’ll still need to put for effort to capitalize on this interest and turn it into something more than infatuation, but you’ll find it easy to do so.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 12,
+      "cost": 200,
+      "name": "Judge Jumper ",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "People recognize you as a neutral party capable of settling disputes and will be willing to defer to your judgment. The degree to which people defer to your decisions will depend upon your social and political standing. If you remain a private citizen, then you will only be asked to settle personal matters. But if you attain any political power then individuals and organizations of comparable power will be willing to look to you for justice.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 13,
+      "cost": 200,
+      "name": "Mirror of Transformation ",
+      "source": "Dragon Age 1.02",
+      "description": "A magical mirror that allows the person looking into it to change their own appearance. The Mirror of Transformation is an insidious and twisted artefact. When you alter your appearance with the artefact it doesn't just change who you are, but it changes who you were and will be in the future. It selects from one of the infinite possible universes where you were brought up with a different lineage and twists that thread of history into the currently experienced reality. The ripples of this action affect your family and other people's memory of your appearance as well, though you may choose individual people to be excluded from this effect.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 14,
+      "cost": 200,
+      "name": "Silver Tongued",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Diplomacy and coercion are difficult skills to master, yet are essential when dealing with high society, and even beyond. After all, it's highly beneficial to convince people of higher status that you're a trustworthy fellow. In fact, getting people to like you and open up is surprisingly easy, worming your way into even the coldest of hearts with just a few conversations. Even separate from that, your persuasive abilities are nothing to scoff at, talking down hostiles",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 15,
+      "cost": 200,
+      "name": "Trebuchet",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "A small model of a siege engine. Place the engine on the ground and a full sized trebuchet will appear in its place. Trebuchet will remain in place until dismissed at which time it will return to its model configuration. Trebuchet can be deployed and redeployed once a day.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 16,
+      "cost": 300,
+      "name": "Hero For Hire",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "There are no shortage of heroes in this world, individuals who’ve proven themselves time and time again. Selecting this option will bring one of the heroes of Thedas into your adventure. Treat them right and they may be amenable to joining you.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 17,
+      "cost": 300,
+      "name": "Know People Who Know.",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "Everyone has a hobby, yours is collecting information. More than that, the people you encounter in your journeys know that you’re always looking to learn, to know, and they will be willing to search for answers for you. You have the ability to grow and maintain a network of spies, informants, and researchers that will give you amazingawareness of events both personal and global.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 18,
+      "cost": 300,
+      "name": "The Grand Game ",
+      "source": "Dragon Age 1.02",
+      "description": "Amongst the Orlesian nobility, status and appearance are set above all things. The Grand Game is the term applied to the politics and machinations of the aristocrats. It’s an incredibly complicated “game”, or “dance” of intrigue, ambition, and scandal. It’s an approach to politics, high culture, and morality that is quintessentially Orlesian. The Game’s purpose is one-upmanship of rival nobles, often accomplished through various proxies. In order to rise in the decadent Orlesian society, much is permitted. The rule of the Game is simply this: All is accepted as long as the player is not caught, up to and including murder. Paradoxically, though direct culpability is undesirable, credit and recognition are demanded. Indeed, an individual known as a skilled player is granted discreet respect amongst their peers. Due to this tension the Game is a losing proposition for the uninitiated, and it is said that more blood is spilled in the Game than in any war in Orlas. However, you are not one of the uninitiated, playing the Game on the same level as the upper echelons of Orlesian nobility is child’s play to you.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 19,
+      "cost": 400,
+      "name": "Andraste’s Grace",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Whether you believe in the Maker or not is irrelevant, for it appears as though something divine has taken a special interest in you and your story, putting a hand on the scales in your favor. You will find that you have a knack for escaping death by the skin of your teeth more often than not, as well as snatching victory from the jaws of defeat. Events will play out in such a way that even your losses will lead to a better outcome later on down the line. Even when things look their bleakest, when it seems all hope is lost, place your faith in the Maker, for there will always be a way forward.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 20,
+      "cost": 400,
+      "name": "Claim to the Throne ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Nobility is a surprisingly complex web of influence and claims to land, enforced by strength of arms and number of men under their banner. Though you may not be able to claim the latter, you are still counted amongst the ranks of Ferelden’s nobility, and that holds more weight than one would first think. Quite frankly, you are able to push towards any claim of nobility and position, even that of the king, should you have the right support, and are already a part of a given nation. Some may argue against it, seeing it as you stepping beyond your station, but they cannot deny that it does exist.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 21,
+      "cost": 400,
+      "name": "Faction Fort",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "There exists in the world a massive fort, open to the sky and forgotten by time. This fort will remain intact, though in disrepair, but unoccupied until you take residence there. The aesthetic of the fort will mold itself to your choosing, but its location will always be remote. The fort is large enough to serve as the base for a major world faction with room for troops, workers, and facilities of all types.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 22,
+      "cost": 400,
+      "name": "Valo-Kas ",
+      "source": "Dragon Age 1.02",
+      "description": "Named for the Qunlat term for a greatsword, the Valo-Kas are a mercenary company consisting solely of about a dozen Vashoth and Tal-Vashoth (Qunari who were born outside of the Qun and Qunari who left the Qun, respectively). When called upon, these mercenaries will charge into battle at your command. They are equipped with some of the best arms and armour and are absolutely fearless, and more importantly, effective: each of them fights with the strength and skill of at least five men combined. If slain they will be alive and ready for battle once more after 24 hours have passed. In future Jumps you may still call upon the services of the Valo-Kas. No one will question who these horned giants are, where they came from, or how some of them are able to cast magic. They will always remain an effective fighting force, no matter what or who they’re fighting, even if by all accounts they shouldn’t be.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 23,
+      "cost": 600,
+      "name": "War Council",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "By wise council will you wage war. You will attract a particular kind of follower: hyper competent and incredibly loyal. A limited number of followers will always rally to your banner—masters of war, spymasters, diplomats par excellence, archmages—individuals who could lead of their own accord but who instead follow you. These individuals will bring innumerable contacts and resources from within their respective fields and will be willing to put those contacts to your use. Your council members will have their own agendas and will attempt to enlist your aid in furthering those agendas, but their personal projects and desires will never work explicitly against your goals.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 24,
+      "cost": 600,
+      "name": "The Black Emporium",
+      "source": "Dragon Age Origins & Dragon Age II",
+      "description": "Proprietor of the emporium Xenon the Antiquarian, has sent you a letter recognizing you as someone worthy of shopping at his store. With some, of the most rare and unique items collectable this is surely a treat. In addition to the babbles you will no doubt purchase here, Xenon has a Mirror of Transformation that he will let you use for free. It probably does what you'd think. It lets you change your appearance. This shop can be found in every world you travel to via an attachment to your Warehouse, but only the shop. The attachment and shop in-world are the same for this world, and you won't find further versions of the shop in other worlds. Outside of this world items will be acquired as time goes on to be purchased and must be purchased as things after this world cannot be stolen. For every world there will be a box of free notable gear to use.",
+      "chapter": "Noble"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
+      "__line": 25,
+      "cost": 600,
+      "name": "Shinning Example ",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "People look to the knightly orders of the world in order to be inspired, but who do the knightly orders look to? You. You are a paragon of knighthood, unparalleled in single combat and possessed of unprecedented strategic and tactical acumen. Opponents that should be untouchable can be wounded. Siege-proof cities fall to your brilliant, daring plans. Troops and populations crippled by despair rally and are made strong again.",
+      "chapter": "Noble"
+    }
+  ],
+  "5": [
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 1,
+      "cost": 0,
+      "name": "Mechanical Materials ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "If you want to be laying down bear traps and grease smears in a chokepoint, you’re going to need certain things in order to actually make them. This satchel is a tinkerer’s best friend, filled with all manner of crafting materials like scrap metal and string, among some more interesting ones, such as spirit shards and corruptor agent. These will replenish weekly.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 2,
+      "cost": 0,
+      "name": "Orlesian Bard ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "A lay sister of the Chantry who can beat the stuffing out of trained mercenaries would be notable enough, but one who also claims to have been sent to fight the darkspawn by the Maker Himself is... unusual to say the least. She spent much of her life as a bard in Orlais: a minstrel, assassin, and spy employed by the nobles of Val Royeaux in their elaborate games of intrigue. Leliana takes care to honor the Lothering cloister that took her in, and keeps symbols of Andraste's blessings close to her heart.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 3,
+      "cost": 100,
+      "name": "A Friendly Ear ",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "You’re a good listener, a really good listener. People feel inclined to talk to you about their problems and woes, particularly those problems that are stressful or could be described as gossip. Attempting to steer the conversation toward a specific topic may or may not work, but every time you employ this skill the conversation you have will contain information of note.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 4,
+      "cost": 100,
+      "name": "Close To The Chest",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "Your secrets and your motivations are yours and yours alone. You will never unintentionally give away a secret or your true intention with body language or a slip of the tongue.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 5,
+      "cost": 100,
+      "name": "Dirty Fighting",
+      "source": "Dragon Age 1.02",
+      "description": "Some may say that fighting dirty to gain the upper hand in a fight is cheating. You disagree. Whether it’s a formal duel, a tavern brawl, or on a battlefield, you’ll always know how to use dirty tricks to gain an advantage over your opponent. It could be as simple as using your blade to reflect the light of the sun in their eyes, or maybe it’s insulting their parentage, whatever works, really. Obviously this works best against opponents who would not stoop to such dishonourable tricks themselves, but even on those who would they seem to always provide you with an unexpected (for them) advantage.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 6,
+      "cost": 100,
+      "name": "Fencer’s Cinch ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The leather has been dyed a dark blue, highlighted here and there with polished steel rivets. The buckle has been fashioned in the shape of a wolf's head. Wearing it will see that your attacks utilizing daggers or arrows are more effective than before.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 7,
+      "cost": 100,
+      "name": "Lucky Bastard",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "Your speed, physical coordination and manual dexterity are at peak human levels.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 8,
+      "cost": 100,
+      "name": "Perceptive Pickpocket",
+      "source": "Dragon Age 1.02",
+      "description": "There’s plenty of petty criminals in Thedas. Pickpockets are especially common in the cities. Not like they’d had much of a choice, if they wanted to survive. Maybe that’s the reason why you started picking people’s pockets as well, or maybe you’re just a kleptomaniac? Either way, you’re a skilled pickpocket, able to walk through a market crowd and snatching up coin-purses left and right. Of course, it’s important to not get caught, so you’re a decent judge of who you’d be able to steal from without being caught and who you shouldn’t mess with. You’re not too shabby at picking locks, either.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 9,
+      "cost": 100,
+      "name": "Streets of Denerim",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Amongst the most oppressed people in all of Ferelden, there are some who see the elves more akin to rodents than people. With those in power more often than not keeping your people from entering more important areas of the city, you’ve grown used to navigating the winding streets of Denerim. This has led to an almost uncanny ability to navigate nearly any urban environment, finding the quickest way to a destination so long as it remains within the city bounds.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 10,
+      "cost": 100,
+      "name": "Wink And A Smile ",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "You are one charismatic sonuvabitch. Your ability to win friends and influence people is without equal.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 11,
+      "cost": 200,
+      "name": "“You’ll want to hear the whole story...”",
+      "source": "Dragon Age 1.02",
+      "description": "You’re an expert storyteller and author, Jumper. With a bit of hard work your novels could take Thedas by storm. But not only that, you’ve got an excellent pokerface and are a very skilled liar as well. You can spin a story or tell a lie convincingly enough that you could hide out as a mage right under the templar’s noses. Clearly, that magical staff is not a staff at all but simply an unconventional spear. It’s even got a pointy end for stabbing people with. Basically, you can bullshit yourself out of practically any situation.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 12,
+      "cost": 200,
+      "name": "Fleet of Foot",
+      "source": "Dragon Age 1.02",
+      "description": "A warrior charges into battle like an angry bull, whilst a mage casts their spells from the rear of the battlefield like a coward. But a rogue like you? You swiftly dance across the battlefield. Your reflexes are incredible, and you always manage to plant your feet securely on the ground, never tripping over any obstacles, or even your own feet. You have a preternatural ability to evade incoming attacks, both sword and spell alike. As an additional benefit to this sure-footedness, it seems you’ve become an incredibly talented dancer.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 13,
+      "cost": 200,
+      "name": "Street Rat",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "With good-paying jobs so rare for your people, you’ve needed to make coin any way you can if you want to make ends meet, even if the methods are a bit questionable. You’re an expert when it comes to larceny, plucking the fat coin purses off of an equally plump merchant without their knowledge is well in your capabilities, as is picking the lock to almost any door or chest that isn’t protected by magic.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 14,
+      "cost": 200,
+      "name": "The Edge ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Newly forged and sporting an edge sharp enough to cut through boot leather, this blade is the pinnacle of Fereldan crafting skill. Wait, there's more! It slices, it dices, and can make Orlesian potatoes. With just one easy payment, you too can stab your fellows in the back as easily as making stew!",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 15,
+      "cost": 400,
+      "name": "The Wicked Oath ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Countess Luciana of Antiva lived as a virtual prisoner in her husband’s castle until an elven slave offered her a way out. The slave magically bound a small amount of the countess’s blood into a ring in return for a promise of freedom. The countess agreed, and the count was found stabbed soon afterwards, this ring lying beside him. Neither Luciana nor the slave were seen again. Those who wear this ring will find any backstabs they perform are more damaging, and more easily able to penetrate through armor.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 16,
+      "cost": 600,
+      "name": "Assassin",
+      "source": "Dragon Age 1.02",
+      "description": "In Antiva, speaking about assassins would earn you only nervous looks and the rapid departure of whomever you were speaking to. There, assassination is considered an art form. The guild of assassins known as the Crows holds almost as much political power as powerful noblemen and military commanders. Any man, it is said, exists within their reach, and the Crows have proven this adage time and time again. More than one king of Antiva has even hailed from their ranks, and it should come as no surprise that those particular kings have in fact numbered amongst the nation’s most effective rulers. Outside of Antiva, assassination as a craft is rarely held with the same esteem. The Orlesian bard, for instance, may perform assassinations in the course of their duty but rarely is it the actual purpose they are set to. To a true assassin, murder is their craft and they make no bones about trying to distinguish themselves otherwise. Poison is their tool, just as is a slit throat or a silent strike to a critical area of the body, and all are designed to kill with maximum efficiency. Whether you’re an Antivan Crow, an Orlesian Bard, a member of the House of Repose, or just a killer for hire, one thing’s for sure: You are skilled at the art of silent killing. You have a natural talent for moving with stealth, and are either an expert marksman or supremely skilled with knives and daggers. You’re also a deft hand when it comes to poisons, both in the creation of poisons as well as the use of them.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 17,
+      "cost": 600,
+      "name": "Blackblade Armor ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The Blackblade assassins disbanded after Daron Blackblade's lover poisoned him for forgetting her birthday. A shame, as those who wear this black leather set will find their dexterity and cunning vastly improved, as well as offering great resistance towards fire and cold magical effects. This is all on top of being more protective against physical attacks than dragon scales.",
+      "chapter": "Rogue"
+    }
+  ],
+  "6": [
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 1,
+      "cost": 0,
+      "name": "Templar Philter",
+      "source": "Dragon Age 1.02",
+      "description": "A philter box containing all the tools required for ingesting lyrium. The box contains enough lyrium to supply a single templar with a day’s supply of lyrium for a single Templar. The lyrium automatically restocks itself daily.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 2,
+      "cost": 0,
+      "name": "Combat Training ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Since childhood, you’ve come to learn the ways of war, of weapons and armor clashing in glorious combat. This training will assist you in the less glorious battles to come, granting you mastery over one general fighting style of your choosing, as well as enabling you to wear any kind of armor without hindering your speed and range of movement.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 3,
+      "cost": 100,
+      "name": "Battle-Ready Body ",
+      "source": "Dragon Age 1.02",
+      "description": "Thedas is a continent full of conflict. It seems almost a certainty that you’ll find yourself in the middle of it at some point during your stay here. That’s why this perk grants you peak health and fitness, after all knowing how to fight won’t do you much good if you can’t lift a weapon to defend yourself with. You will never fall below peak health/fitness, not even if you were to live the unhealthiest life possible.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 4,
+      "cost": 100,
+      "name": "Body of Steel",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "In order to better survive the coming days, you will need to be as hale and hearty as possible, especially if you intend to be on the front lines. Thankfully, being weak is far from your list of worries, as your body possesses a truly admirable amount of strength, with a constitution to match. Swinging a warhammer the size of a child all day is barely straining for someone like you.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 5,
+      "cost": 100,
+      "name": "Combat Training ",
+      "source": "Dragon Age 1.02",
+      "description": "Being fit and healthy enough to lift a weapon to defend yourself with is nice and all, but no good if you don’t actually know how to use said weapon. So, you’ve gone through basic combat training with a single non-magical weapon of your choice.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 6,
+      "cost": 100,
+      "name": "Great Vitality ",
+      "source": "Dragon Age -Origins",
+      "description": "The result of a regimen of strenuous exercise, you'd be hard pressed to find any as hale and hearty as yourself. Not only are you now extremely resistant to disease and poison, but the amount of punishment your body can take has seen an unbelievable increase. It would take the blow of an Ogre to leave any serious damage on you with one hit, but a few knives to the back would work just as well to bring you down.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 7,
+      "cost": 100,
+      "name": "Healing Potions",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "It is almost essential to carry a number of healing options if you intend to go travelling, given how dangerous the roads can be these days. While they may not be able to heal every ailment, you can’t deny the usefulness of being able to mend a wound in the heat of battle, given the chance to drink these concoctions. This wooden crate is filled with ten of every kind of healing potion one could find in Ferelden, and will replenish weekly.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 8,
+      "cost": 100,
+      "name": "Rune Catalog",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "One of the most prized pieces of equipment a warrior could have, runes are almost essential for the mighty and rich. This collection of runes can be attached to your gear in order to grant it supernatural abilities, such as a weapon bursting into flame, paralyzing those struck, and enhancing one’s natural capabilities. Not only will this collection replenish monthly, but you also receive notes on how to craft your own, should you possess the skill and aptitude for it.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 9,
+      "cost": 100,
+      "name": "Shield of Highever",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "This shield was carried by Teyrn Ardal Cousland, who died defending King Vanedrin from the Orlesians at the Battle of Lothering. The face still bears the scars of Orlesian blades. While it may have failed at protecting the king, it seems to almost angle itself to better protect against incoming arrows.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 10,
+      "cost": 100,
+      "name": "Strong Like A Bull ",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "You have the strength and endurance of an Olympic athlete.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 11,
+      "cost": 100,
+      "name": "Vials of Dragon Blood",
+      "source": "Dragon Age 1.02",
+      "description": "It is said the blood of dragons is the blood of the world. That may or may not be true, but what is known is that blood is power. And the blood of dragons even more so. You’ve gained several restocking vials of dragon blood. Most vials contain the blood of dragonlings and young drakes, but every once in a while you may get a vial containing the blood of a high dragon instead. If you’re really lucky, you may even find the blood of a Great Dragon.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 12,
+      "cost": 100,
+      "name": "Warden's Oath",
+      "source": "Dragon Age Origins & Dragon Age II",
+      "description": "All Grey Wardens receive these amulets after their joining. Containing just a trace of the darkspawn blood consumed in the initiate's ritual, these amulets serve as a constant reminder of the Warden's eternal vigil against the darkspawn hordes. Yours increases your constitution incredibly and makes mental effects nearly a fifth as effective on you.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 13,
+      "cost": 200,
+      "name": "Berserker ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The first berserkers were dwarves. They would sacrifice finesse for a dark rage that increased their strength and resilience. Eventually, dwarves taught these skills to others, and now berserkers can be found amongst all races. They are renowned as terrifying adversaries. These wrathful talents can be called upon at a moment’s notice, and dispelled just as quickly, and yet will never fully consume you.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 14,
+      "cost": 200,
+      "name": "Champion ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The champion is a veteran warrior and a confident leader in battle. Possessing skill at arms impressive enough to inspire allies, the champion can also intimidate and demoralize foes. These are the heroes you find commanding an army, or plunging headlong into danger, somehow making it look easy. Those beside you will fight all the harder, morale never faltering so long as you stand to inspire them to be better.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 15,
+      "cost": 200,
+      "name": "Mark of Vigilance ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Not all maleficar practice forbidden blood magic, but templars must constantly guard against the possibility that even an innocuous-seeming mage has delved into arts that permit him to control the minds of others. The best mage-hunters are granted these valued amulets as rewards by the Divine, and are often entombed alongside the templar when he dies. Wearing this amulet will grant one incredible resistance to magic that affects the mind.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 16,
+      "cost": 200,
+      "name": "Tactical Pause",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "With a moments concentration you can gain perfect battlefield awareness and an unlimited amount of time to plan your next move. Using this ability is physically and mentally draining and while your tactical pause is engaged you cannot effect the physical world. With time and experience you can add overlays to your mental map of the battlefield, delineating ranges for various effects and abilities.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 17,
+      "cost": 200,
+      "name": "Way of the Champion ",
+      "source": "Dragon Age 1.02",
+      "description": "A champion is a veteran warrior and a confident leader in battle. Possessing skill at arms impressive enough to inspire allies, these are the heroes you find commanding an army, or plunging headlong into danger, somehow making it look easy. Your presence on the battlefield is like a shining beacon of hope. You are capable of projecting an aura that bolsters the resolve of your allies and demoralizes your foes. Even if the battle seemed all but lost, your arrival alone will help turn the tide. The longer you stand",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 18,
+      "cost": 200,
+      "name": "Griffon & Clutch",
+      "source": "Dragon Age Origins & Dragon Age II",
+      "description": "Unbeknownst to anyone as of yet thirteen griffon eggs survived the extinction. Beyond these ones. You get twelve unhatched eggs suspended by blood magic and the knowledge of how to undo that effect on them. Eleven are female and one is male. The thirteenth would-be egg is actually a fully hatched adult male griffon. He loves you very much and likes it when you groom him. You also know how to ride him and he responds well to it. An adult griffon can comfortably carry two armored adults. Given that it's not been said yet canonically, if a problem at all, just assume that between the thirteen or twelve that there exists enough genetic diversity to breed them back up into a full force. What killed the griffons originally was the Joining as that can be done on anything it's just the success rates which can be a problem. Yours has not gone through that. It is recommended that you do not try least you somehow fuck everything up for this species in this world.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 19,
+      "cost": 400,
+      "name": "Bulwark of the True King ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "This shield once belonged to Moira, the Rebel Queen, who was killed when her liege lords betrayed her to the Orlesians. The shield was taken from her body and given in tribute to the usurper Meghren. It has since changed hands several times. This shield will completely negate any physical force applied to it, be they blades or warhammers.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 20,
+      "cost": 400,
+      "name": "Keening Blade ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "This blade makes an eerie wail, just on the edge of hearing, whenever it cuts the air. Twined runes are carved into its surface, hinting at the enchantments bound inside. Those who feel its bite will have their wounds freeze over, sapping both heat and their lives away. This arcane frost is even capable of affecting armor, making it more brittle with each strike.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 21,
+      "cost": 400,
+      "name": "Lyrium-Marked Warrior",
+      "source": "Dragon Age 1.02",
+      "description": "Few are brave enough to mark their bodies with lyrium-infused tattoos, for the application ritual is one of constant agony. However, those who do mark their bodies in this manner gain the ability to phase through solid objects, and even through people. Many a lyrium-marked combatant has killed someone by phasing partway through them and then solidifying. Because of the nature of lyrium, these tattoos also grant the warrior a partial resistance to any and all harmful magical effects, though they’re not as resistant as Templars or Dwarves. Normally these tattoos would be painful to the touch and the ritual would cause total memory loss, but since you’re paying CP for them, these side effects have been waived.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 22,
+      "cost": 400,
+      "name": "Reaver",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Demonic spirits teach more than blood magic. Reavers terrorize their enemies, feast upon the souls of their slain opponents to heal their own flesh, and can unleash a blood frenzy that makes them more powerful as they come nearer to their own deaths. With each kill you make, your wounds will heal, and your enemies will be wracked with a primal fear when looking at your terrifying visage.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 23,
+      "cost": 400,
+      "name": "Templar",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Mages who refuse the Circle's control become apostates and live in fear of a templar's powers - the ability to dispel and resist magic. As servants of the Chantry, the templars have been the most effective means of controlling the spread and use of arcane power for centuries. Even without lyrium to enhance your abilities, you'll quickly become a nightmare for any mage who thinks they could break their chains.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 24,
+      "cost": 400,
+      "name": "Vigilance",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Once in a dozen generations, a truly legendary weapon is forged. This blade, created in a time of war from the bones of an ancient dragon, sings with power. Taking on either the shape of a longsword or a two-handed greatsword, it can cut through even dwarven steel like hot butter, and holding it seems to elevate your capabilities to greater heights. Additionally, it can either be covered in arcane flames or frost at your discretion. Best protect it, for who knows how many would risk their lives to acquire such a weapon.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 25,
+      "cost": 600,
+      "name": "Blood Dragon Armor",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Commissioned by an infamous Nevarran dragon hunter, this armor was crafted in a time when dragons had almost been hunted to extinction. Infused with their blood, the armor gained notoriety after the hunter died at the hands of men rather than the dragons it was designed to protect him from. It grants the wearer incredible strength and vitality, as well as a seemingly bottomless well of stamina. Flames will also be less effective against the wearer, allowing one to weather the torrent of draconic flames with ease.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 26,
+      "cost": 600,
+      "name": "Dragonbone Cleaver",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "This massive two-handed axe was originally crafted from dragonbone to serve as a tool for hewing more workable pieces of bone from a dragon’s skeleton. With dragons in short supply these days, its devastating edge has been adapted for use directly on the battlefield. Cleaving through steel armor with the same ease as flesh, one would have to be incredibly foolish to even try and block a swing from this axe. Due to its nature, it is especially effective against all things draconic, inflicting wounds upon them that will never heal.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 27,
+      "cost": 600,
+      "name": "Guardian",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Many warriors foolishly believe that they can control the tide of a battle on their own, but a guardian realizes that an ally's survival is as important as an enemy's death. Guardians prefer to protect party members directly, but if necessary, they are prepared to make personal sacrifices to ensure that their companions live. So long as you stand ready, your allies will be kept from harm, regardless of whether you face off against a horse of darkspawn or a dragon.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 28,
+      "cost": 300,
+      "name": "Prismatic Greataxe",
+      "source": "Dragon Age 1.02",
+      "description": "The blade of this magical greataxe shimmers with energy. Each swing randomly gives off blistering heat, biting cold, sizzling static, or blinding light. The wielder is protected from these blasts of elemental magic by whatever complex enchantments make the weapon work at all.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 29,
+      "cost": 600,
+      "name": "Spirit Warrior",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Although spirit warriors employ magical abilities, they are not mages; instead, they flirt with inhabitants of the Fade who agree to augment mortal abilities in exchange for a glimpse of the physical world. Naturally, the Chantry's templars rarely acknowledge that distinction. You are strange, in that you can call upon these abilities without the assistance of a spirit, allowing you extreme protections against both physical and arcane harm, as well as your attacks counting as magical damage.",
+      "chapter": "Warrior"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
+      "__line": 30,
+      "cost": 600,
+      "name": "Arcane Warrior",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Among the ancient elves, there were mages who trained their magical arts to augment their martial prowess. They channeled magical power through their weapons and bodies, becoming terrors on the battlefield. Most consider these skills lost forever, but they may still linger in forgotten corners of the world. Through combining arcane power and martial might, there would be few who could face such a force and survive.",
+      "chapter": "Warrior"
+    }
+  ]
+}

@@ -1,0 +1,2356 @@
+{
+  "1": [
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 1,
+      "cost": 0,
+      "name": "Net Runner",
+      "source": "Fallout: Mutants",
+      "description": "A young woman who was once part of an Enclave experiment, one meant to artificially induce psyker abilities into people. She possesses a potent ability, that of technopathy, allowing her to mentally link to and manipulate technology. She dreams of one day traveling to the moon. Will you make her dream a reality?",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 2,
+      "cost": 0,
+      "name": "Psychic Nullifier",
+      "source": "Fallout: Mutants",
+      "description": "A strange headpiece with a chin strap to hold it in place. When wearing this, you will find your psychic abilities weakened or nullified, depending on what you need at the moment. It’s quite useful for those who have difficulty with controlling their abilities.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 3,
+      "cost": 0,
+      "name": "Expanded Mind",
+      "source": "Fallout: Mutants",
+      "description": "Radiation has unlocked something within you, opened your mind to the cosmic energies of the universe. You are now a psyker, someone who possesses psychic powers. Among your new abilities, you are capable of seeing a person's psychic aura, or their soul, should you be more of the spiritual kind. This perk is also helpful in that it will allow you to improve your psychic abilities through training and constant use.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 4,
+      "cost": 0,
+      "name": "Mutated Vitality",
+      "source": "Fallout: Mutants",
+      "description": "Radiation is more likely to slowly kill you in a mess of tumors than it is to actually heal you, though the possibility of such a thing is never zero. Much like ghouls, at least as far as anyone knows, at least, you are biologically immortal, never aging past your prime. Though it may seem like a gracious gift, do not overestimate it, as a stray bullet is still just as likely to be your end as it was before.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 5,
+      "cost": 100,
+      "name": "Aqua Boy ",
+      "source": "Fallout Series (Imaged)",
+      "description": "A strange ability, this one. Sure, the vast majority of the water you find will probably be irradiated to hell and back, but that doesn't mean there aren't treasures under the waves for you to find. That's right, you can now breathe underwater as easily as if you were on land. In order to make this a bit more useful, you can see underwater perfectly, and are immune to the crushing pressure of being down in the depths.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 6,
+      "cost": 100,
+      "name": "Mutated",
+      "source": "Fallout TV Show Jump",
+      "description": "Given the radiation, it's really no surprise that some folks received some mutations, and that’s before we get into the FEV and mad scientists running about. You are one such person, having received a minor mutation which serves as an advantage. This could be something as simple as the ability to see in the dark, or as complicated as a third arm. The visibility of said mutation is also up to you, though be aware that some communities might discriminate against the visibility mutated.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 7,
+      "cost": 100,
+      "name": "Psychic Master ",
+      "source": "Fallout: Mutants",
+      "description": "A beautiful woman who wouldn’t be too out of place on one of those Old World holovids, she is by far one of the most potent and versatile psykers around. Not only can she lift Super Mutants into the air with ease, but her telepathy allows her to read the minds of anyone nearby. Her most useful power, though, is her ability to teleport within line of sight, offering her unparalleled mobility.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 8,
+      "cost": 100,
+      "name": "Forced Immunity",
+      "source": "Fallout: Mutants",
+      "description": "When the FEV changed you, all the way down to your DNA, it ensured that it would be the very last virus that would ever affect you. Your immune system is exceptional, making you, well, immune to all forms of diseases, illnesses, and viruses that you may come across. It doesn’t matter if it’s some biological weapon that was just recently created or an eldritch curse, it won’t mean anything to you.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 9,
+      "cost": 100,
+      "name": "Forecast",
+      "source": "Fallout: Mutants",
+      "description": "One of the more common abilities that Psykers possess, should such a term be used for them, is that known as the Sight. With this, you are capable of getting glimpses into the future, often in vague yet helpful forms. You could improve this for a time through the use of chems, but then you'd run the risk of addiction. Still, that would be but a small price to pay to gaze upon the currents of time.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 10,
+      "cost": 100,
+      "name": "Rad Regeneration ",
+      "source": "Fallout: Mutants",
+      "description": "It is a strange duality, one where those twisted by radiation can also be healed by it. A curious ability, one that you now share with many others. You are capable of regenerating when in the presence of radiation, an effect that gets more powerful the more radiation you absorb, being used up in order to keep you on your feet long after you should have bit the dust.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 11,
+      "cost": 100,
+      "name": "Deathclaw Egg",
+      "source": "Fallout New Vegas JumpChain\r\n",
+      "description": "Currently unhatched but will eventually grow into a Deathclaw so large and monstrous as to become a legend. Extremely fast and agile with 12 inch long razor sharp claws that go through power armour much as they go through everything else. Thinks you’re it’s mama so will follow your directions as best it can.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 12,
+      "cost": 100,
+      "name": "Snakeater",
+      "source": "Fallout 4 CYOA",
+      "description": "War might never change, but at least your resistance to poison and toxins has gone up- in fact, your resistance is so solid, you could probably drink liquid snake venom with multiple wounds in your mouth and stomach without punishing your body too much. Your blood is now much darker than usual.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 13,
+      "cost": 100,
+      "name": "Night Vision",
+      "source": "Fallout 4 CYOA",
+      "description": "You have the eyes of a cat- well, not literally, but you can at least see like one. Your night vision is greatly enhanced, to the point that you can see as well in the dark as you can normally. Your irises are now much brighter than before, which is a little off putting",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 14,
+      "cost": 200,
+      "name": "Alien Blaster",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "This silver extraterrestrial gun disintegrates any enemy killed with it. The weapon uses an alien power cell which comes with 25 power cells that restock after 24 hours.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 15,
+      "cost": 200,
+      "name": "FEV-Enhanced Alpha Deathclaw",
+      "source": "Fallout Series (Imaged)",
+      "description": "There is a beast that is almost universally feared, such that even mere rumors or sightings of the beasts are enough to induce terror amongst even the most hardened of survivors. The Deathclaw. And yet what stands beside you now is no ordinary Deathclaw. This one has been truly enhanced with FEV and it has been made all the better for it. As it is now, it is larger than any ordinary Deathclaw and yet it is no less swift. With talons longer than a man’s forearms and horns that can gorge a Behemoth, this is deadliest creature in the Wasteland. And thanks to the FEV, it shall only grow larger in time, until it stands even above a Behemoth. But that will take years, decades even. Nevertheless, while the mystery of how you tamed this beast is intriguing, it will always be loyal to you. Hail to the King.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 16,
+      "cost": 200,
+      "name": "Extraterrestrial ",
+      "source": "Fallout Series (Imaged)",
+      "description": "How long have your people been orbiting the Earth below, how long hiding from the apes from among the stars? Regardless, you have been made for long term survival in space. You don’t suffer any long-term damage from extended periods in zero-g, you don’t require as much air or sustenance, and don’t leave much waste.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 17,
+      "cost": 200,
+      "name": "Abomination Maker ",
+      "source": "Fallout Series (Imaged)",
+      "description": "When humanity was busy banging rocks together or discovering metal, your people were playing around with biology like it was silly putty. You are a biologist and geneticist beyond compare. Creating a functional hybrid between a mammal and a reptile would be a simple matter for someone like you.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 18,
+      "cost": 200,
+      "name": "Directed Evolution",
+      "source": "Fallout Series (Imaged)",
+      "description": "It was radiation that gave birth to you and yours, radiation that had twisted your DNA like a cat with yarn. Now, now you possess some sort of control. By absorbing radiation, you can use such energy in order to develop or even empower any mutations you possess, with no physical changes from such developments.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 19,
+      "cost": 200,
+      "name": "Mutagenic Serum",
+      "source": "Fallout: Mutants",
+      "description": "Held within these ten vials are a useful concoction, meant to grant minor mutations to those who inject it within them. From improved eyes and improved regeneration, they each have their own benefits and downsides. Not only do they replenish weekly, but you will also have the notes on how to make more.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 20,
+      "cost": 200,
+      "name": "Healing Factor ",
+      "source": "Fallout: Mutants",
+      "description": "Well now, it seems as though your natural regeneration has become something a bit more useful, beyond just longevity. You will quickly heal from most injuries, such as bullet holes closing before your eyes or slashes across your gut mending itself while you’re still fighting. This does not mean that you can regrow limbs, however, and enough damage to your brain or heart is still capable of killing you, but it’s still going to be harder to do than before.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 21,
+      "cost": 200,
+      "name": "Adrenal Reaction",
+      "source": "Fallout: Mutants",
+      "description": "It is when faced with the prospect of death that people reveal their true colors, and yours seems to be someone that will fight all the harder. Whenever you are injured, all of your attacks hit harder than before, no matter if they are from firearms, melee weapons, energy weapons or even just your own fists. Your foes will all rue the day they even thought that defeating you was possible.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 22,
+      "cost": 200,
+      "name": "Pyromaniac",
+      "source": "Fallout: Mutants",
+      "description": "You may be crazy about fire, or maybe just plain crazy in general, but that won’t change what you’re capable of now, will it? You posses the ability of pyrokinesis, capable of conjuring and controlling flames to burn your enemies on par with a military-grade flamethrower. You could dial this back, making just enough fire to light a cigarette, but where’s the fun in that?",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 23,
+      "cost": 200,
+      "name": "Empath ",
+      "source": "Fallout: Mutants",
+      "description": "Should you care at all for those you consider friends, then this is probably essential for you. Not only are you capable of ‘seeing’ what emotions a person is feeling, but when you are surrounded by your allies, friends, and Companions, you reduce all damage they take by a quarter. It may not seem like much, but every little bit helps when trying to survive",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 24,
+      "cost": 300,
+      "name": "Drone Cannon Ex-C",
+      "source": "Fallout: Automatrons",
+      "description": "An upgraded version of the weapon used by the drones found in the ships of aliens from beyond the stars, one that can be fitted to your chassis with relative ease, or used by a normal person. When fired, it will unleash a blast of otherworldly energy that can disintegrate almost any flesh it touches, and can punch through armor more easily. The factor that makes this unique, though, is that the energy homes in on your intended target, changing its direction midair until it strikes something.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 25,
+      "cost": 400,
+      "name": "Satellite Array",
+      "source": "Fallout Series (Imaged)",
+      "description": "What you now have in your hand may look like a toy gun, but it is, in actuality, one of the deadliest weapons on the planet. All because of what it's connected to, an energy-based artillery satellite. By pulling the trigger, you can summon down a rain of deadly light, capable of obliterating even something along the scale of a mobile carrier with contemptuous ease. The only downside is that it can only be fired once per day, but will you really need more than that?",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 26,
+      "cost": 400,
+      "name": "Alien Recon Craft ",
+      "source": "Fallout Series (Imaged)",
+      "description": "This is one ride that's out of this world. Though it may look a bit small, and can only fit four people, this spacecraft is well worth it. It requires no refueling, it can fly faster and is more agile than any vertibird and comes equipped with a set of energy weapons that can fire out the front. It even comes with an air purifier and is vacuum sealed, allowing you to fly through the empty vastness of space.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 27,
+      "cost": 400,
+      "name": "Xenotech Expert",
+      "source": "Fallout Series (Imaged)",
+      "description": "If there is one thing the primitives of Earth are envious of, it would be your mastery of alien technology. From the biogel capable of healing most wounds, whether they be that of your kind or something else’s, to the spacecraft that soar beyond the stars to the deadly weaponry, there is no facet of alien technology that you haven't mastered.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 28,
+      "cost": 400,
+      "name": "What Doesn’t Kill You",
+      "source": "Fallout Series (Imaged)",
+      "description": "Only makes you stronger. It is not the strongest or fastest that is best able to survive, but those that adapt most quickly to their surroundings. You seem to have taken this to a totally different level, the invisible fires of radiation having forged you into something else. You now have a sort of adaptive regeneration, growing stronger and more resistant to whatever harms you. Of course, you will also gain quite a rapid healing factor, capable of healing most wounds in hours or even minutes.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 29,
+      "cost": 400,
+      "name": "Chameleon ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Your ancestors were originally a breed of chameleons, most famous for changing their pigmentations. Through some means, it seems as though a similar, if more useful, ability has emerged. Simply put, you are now capable of turning yourself invisible. Curiously, this will also affect any clothing or items that are on your person at the time, though it’s unclear as to how.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 30,
+      "cost": 400,
+      "name": "The Krivbeknih",
+      "source": "Fallout 3 - Updated ",
+      "description": "An ancient, evil book that no god-fearing man should own. Upon its many pages are rituals, ones invoking eldritch entities for untold purposes. Most interestingly, there is a very specific ritual within, opening the mind to the otherworldly energies of the cosmos, and transforming someone into a powerful psyker.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 31,
+      "cost": 400,
+      "name": "Lorenzo's Crown",
+      "source": "Fallout: Mutants",
+      "description": "An artifact that may possess otherworldly origins, it was uncovered by Lorenzo Cabot in the Rub’ al Khali desert in 1894, and has kept him alive all the way until 2287. This piece of headwear will not only halt your aging, making you effectively immortal, but it will also focus and empower any psychic powers you may possess. Even when worn by someone who isn’t a psyker, it will give them a minor telekinetic ability.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 32,
+      "cost": 400,
+      "name": "Mental Block",
+      "source": "Fallout: Mutants",
+      "description": "There is always the threat of enemy telepaths taking a look within your mind, no matter how rare such opponents are. You prepare for every inevitability, and as such have come to transform your mind like a fortress. Your mental defenses are unbreakable, rendering you immune to any telepathic or mind controlling abilities, as well as eldritch influence, no matter what their origin may have actually been. This will also grant you a resistance to all psychic effects, though nowhere near the same extent as your mind.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 33,
+      "cost": 400,
+      "name": "Life Giver",
+      "source": "Fallout: Mutants",
+      "description": "In case you haven’t noticed, it is quite difficult for nearly any form of plantlife to grow in the Wasteland, the poisonous radiation having long since ruined any nutrients within the ground. You are sure to change that, though, and you are now capable of conjuring and controlling plantlife, ones that are sure to survive even here. Creating a mighty oak tree is certainly within your capabilities, but restoring life to one of the burnt-out husks that dot the wastes is probably going to be a bit easier on you.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 34,
+      "cost": 400,
+      "name": "Electrifying",
+      "source": "Fallout: Mutants",
+      "description": "Well, this is certainly a shocking turn of events, finding out you are capable of this. You are now capable of conjuring and controlling electricity, allowing you to fire off lightning bolts at anyone who gets in your way. Not only is this useful for fighting enemies or charging whatever machine you’re working on, but you can also release an electromagnetic pulse, one that is especially harmful to robotic enemies and those wearing power armor.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 35,
+      "cost": 500,
+      "name": "Psyker",
+      "source": "Fallout Series (Imaged)",
+      "description": "Nuclear radiation has caused many strange mutations to appear in humanity, but none are as strange, or as fantastic, as Psykers, people who display some sort of psychic ability. With a wide variety of powers to choose from, ranging from telekinesis to telepathy to pyrokinesis to divination to anything in between, you now possess a single psychic ability that will continuously grow in power the more you practice with it.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 36,
+      "cost": 600,
+      "name": "Master of Genetics ",
+      "source": "Fallout: Mutants",
+      "description": "When it comes to messing around with DNA, there’s no one better skilled or more knowledgeable than you. Not only do you understand how to create something like the FEV, something capable of turning an ordinary chameleon into one of the deadliest creatures to ever walk the Wastes, but also how to modify most forms of life, even improve upon it. With enough time and testing, you may be able to create a strain that doesn’t create mostly stupid Super Mutants. It isn’t perfect, few things are in this bleak world of ours, but with your creations, we’re just another step closer.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 37,
+      "cost": 600,
+      "name": "Psy-Tech",
+      "source": "Fallout: Mutants",
+      "description": "It is only to be expected that when mankind learned of the existence of psychic powers, that they would turn to technology to study it, and then enhance it. You are one of the very few people who are capable of creating tech meant to enhance and mimic psychic powers. From headwear that can nullify or improve their potency, to guns using telekinetic energy to lift and move heavy objects. You could also use this to upgrade or create a variant of power armor that links with the brain itself, allowing for more fluid movement and better control. When the supernatural and science work in tandem, the possibilities are endless.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 38,
+      "cost": 600,
+      "name": "Invisible Hand",
+      "source": "Fallout: Mutants",
+      "description": "When one thinks of psychic powers, they will inevitably turn towards moving objects without even touching them. This is for many reasons, such as how obvious a psychic display it is, but it is also due to just how versatile telekinesis really is. Though you could lift a person into the air and crush them with relative ease, you could also use it for many other tasks, such as picking a lock without any bobby pins or repositioning your weapons in the air in order to get a better angle of attack. With practice and experience, there are many options open to you when you possess this power.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 39,
+      "cost": 600,
+      "name": "Hive Mind",
+      "source": "Fallout: Mutants",
+      "description": "Have you ever looked at someone and wondered, ‘what is going on inside their head?’ Well wonder no more, as you are a very potent telepath, capable of reading minds and communicating with others through your thoughts alone. You can use this to sense the minds of anyone nearby, eliminating stealth from biological opponents, but the most important ability offered by this is being able to create telepathic links. When you forge these links, it will allow you to communicate as though they are right next to you no matter how far away.",
+      "chapter": "Aliens & Mutants"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
+      "__line": 40,
+      "cost": 800,
+      "name": "Alien Mothership",
+      "source": "Fallout: Automatrons",
+      "description": "A vessel from beyond the stars, one that is the size of an old-world city. You now find yourself in ownership of an alien spaceship, filled with all manner of technology more advanced than almost anything else found on Earth. With a dedicated cargo hold, engineering core, biological, cryogenics, and weapons lab, robot assembly, and so much more, but most devastating is the death laser on par with a nuclear bomb that can be fired once per minute. With this under your command, you’re sure to reach the stars and even further beyond.",
+      "chapter": "Aliens & Mutants"
+    }
+  ],
+  "2": [
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 1,
+      "cost": 0,
+      "name": "Leather Armor ",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "This lightweight body armor is made from tanned animal hide,",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 2,
+      "cost": 0,
+      "name": "10mm Pistol ",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "This sidearm comes with 25 rounds of 10mm ammunition that restock after 24 hours. They were common before the Great War used extensively by the Bureau of Alcohol, Drugs, Tobacco, Firearms and Lasers. Their ruggedness, reliability and firepower made them a popular choice among wastelanders and thus a staple of wasteland firefights",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 3,
+      "cost": 100,
+      "name": "Combat Armor ",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "Combat armor is a diverse family of personal body armor with varying degrees of sophistication, ranging from the earliest iterations developed by the United States Army to the cutting-edge riot gear that came into use prior to the Great War.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 4,
+      "cost": 100,
+      "name": "Combat Armor ",
+      "source": "Fallout Series (Imaged)",
+      "description": "This set of armor is standard issue across the US military, and for good reason. It offers decent protection without limiting the range of movement. This can come in any color you want, or it can be winterized, letting you be comfortable in cold environments.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 5,
+      "cost": 100,
+      "name": "Trench Knife",
+      "source": "Fallout Series (Imaged)",
+      "description": "Issued to soldiers stationed in Anchorage, this is essentially the combination of a combat knife and spiked knuckles. It has a good-sized stainless-steel blade, while the spiked knuckle guard offers a good backup in case the blade breaks.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 6,
+      "cost": 100,
+      "name": "Silencer",
+      "source": "Fallout Series (Imaged)",
+      "description": "If you want to sneak around without being noticed, then a loud firearm probably isn't the best tool to have. This silencer should fix that problem, as you can attach it to any gun and turn it silent.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 7,
+      "cost": 100,
+      "name": "Gun Nut",
+      "source": "Fallout Series (Imaged)",
+      "description": "If there's one companion that you can unequivocally trust, it's a gun. Big guns, small guns, shotguns, miniguns, there's so many kinds out there that it's hard to choose. It doesn't really matter to you, as any guns you use will hit harder, fly farther, and punch through targets easier than before.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 8,
+      "cost": 100,
+      "name": "Demolition Expert",
+      "source": "Fallout Series (Imaged)",
+      "description": "Like a real American, there's almost nothing better in your eyes than blowing things the fuck up! And this eagerness for explosives actually manifests physically, as any explosives you use will be bigger, better, and more blow-y up-y than before! They will have their explosive radius slightly expanded, as well as do more damage overall than they should.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 9,
+      "cost": 100,
+      "name": "Big Leagues",
+      "source": "Fallout Series (Imaged)",
+      "description": "Ah, baseball, America's favorite pastime. A game about hitting balls with big sticks and running away. I know that there's more to it than that, but you must have really focused on the hitting things part. Any damage you do with a melee weapon will be more severe than it otherwise should be.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 10,
+      "cost": 100,
+      "name": "Hunting Rifle ",
+      "source": "Fallout 3 - Updated ",
+      "description": "When you want to go big game hunting, this is the gun to use. Extremely accurate and reliable in most situations, it's a common occurrence for it to punch a massive hole into a man's head.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 11,
+      "cost": 100,
+      "name": "Ranger Armor",
+      "source": "Fallout New Vegas JumpChain\n",
+      "description": "Whether the Black Armor of the NCR’s most elite rangers, the elite riot gear of the pre-war 11th Armored Cavalry Regiment or the armor of the now assimilated Desert Rangers it has a gas mask, a trench coat and the best armor in the Mojave short of the powered stuff. This one causes awe and a considerable boost in morale for allied military personnel who have seen you in it and is deeply intimidating. It seems to scream “don’t tread on me”.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 12,
+      "cost": 100,
+      "name": "Machete Gladius",
+      "source": "Fallout New Vegas JumpChain\n",
+      "description": "An unbreakable, unbendable and uniquely sharp machete. It swings fast, cuts deep and seems to ignore a significant degree of the armor your enemies hide behind. This effect is most pronounced against profligates and degenerates who use advanced technology so will cut through duraframe like butter.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 13,
+      "cost": 200,
+      "name": "Riot Gear",
+      "source": "Fallout Series (Imaged)",
+      "description": "An advanced design fielded in limited quantities before the Great War, this was a specialized model of combat armor used by the United States Marine Corps, Army units in the American West, and select law enforcement agencies. While not the most protective of armors, it certainly makes up for it in a number of ways. The helmet is equipped with a built-in radio, night vision, infra-red, and air filters. It has a kevlar vest protecting the torso, and a black duster covering it all up. So not only does it protect you, you’ll also look cool and isn’t that the most important thing?",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 14,
+      "cost": 200,
+      "name": "Shishkebab",
+      "source": "Fallout Series (Imaged)",
+      "description": "Of all the things to be created after the world ended, should you really be surprised that there are flaming swords? Crafted from a number of items that would be considered junk, with a flick of a switch the blade comes alight in fire, burning your enemies as you slice them up. This never seems to require refueling either, no matter how often you use it.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 15,
+      "cost": 200,
+      "name": "Chinese Assault Rifle ",
+      "source": "Fallout Series (Imaged)",
+      "description": "The Type 93 Chinese assault rifle was designed and manufactured by a Chinese industrial conglomerate for the People's Liberation Army during the Great War, for the purpose of equipping the Chinese infiltrators and American fifth columnists. It's often considered one of the best weapons to have in the Wasteland, and for good reason.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 16,
+      "cost": 200,
+      "name": "Ballistic Fist",
+      "source": "Fallout Series (Imaged)",
+      "description": "While normal power fists are awesome, do you know what's even better? A power fist with a shotgun attached to it! That's right, as soon as you hit a target with the fist part, it unleashes a shotgun blast, greatly increasing any damage you might do. You do need to be strong in order to handle the recoil, but at least you never need to reload it.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 17,
+      "cost": 200,
+      "name": "Zhu-Rong ",
+      "source": "Fallout Series (Imaged)",
+      "description": "A variant of the standard Chinese pistol carried by nearly all of their soldiers, this one pistol in particular has been modified by LOB Enterprises. What makes this one unique is that in addition to being a decent firearm on par with a 10mm handgun, it tends to set your targets on fire, even though it only fires normal bullets.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 18,
+      "cost": 200,
+      "name": "Pulse Grenades ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Everyone can agree that some of the worst things to fight in the Wasteland are robots, seeing as they don’t have any preservation instinct. Well, this purchase should help with those problems, as these twenty grenades discharge an EMP that is especially effective against both robots and those wearing power armor. Like many other items here, these pulse grenades will be replenished daily.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 19,
+      "cost": 200,
+      "name": "Vault-Tec Security Armor ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Only those part of the Vault Security Department are authorized to wear these, though I doubt they really care. This padded, puncture-resistant vest is good against low-caliber rounds, and comes with a riot helmet with a hinged, acrylic visor. While wearing this, you'll find your skills with pistols and melee weapons slightly improved.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 20,
+      "cost": 200,
+      "name": "Steady Aim",
+      "source": "Fallout Series (Imaged)",
+      "description": "Sometimes in a fight, you won't exactly have a good place to take cover, forcing you to dodge and weave in order to not get peppered by bullets. While this would ordinarily affect a person's aim, you are no ordinary person. If you could hit a target while standing still, then you can hit it when you are moving, even if moving means running around like a madman trying desperately to stay alive.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 21,
+      "cost": 200,
+      "name": "Gunsmith ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Any idiot with hands can pick up a gun and fire it, but it takes a certain kind of someone to make it better than it was before. Someone like you. You are a master of creating and applying weapon modifications. This is especially useful for weapons bought using CP, as any modifications you do to them will become fiat backed.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 22,
+      "cost": 200,
+      "name": "General Overcoat ",
+      "source": "Fallout 3 - Updated ",
+      "description": "This winterized overcoat was once worn by General Constantine Chase. Anyone wearing this will find themselves more charismatic, as well as their skill with firearms increased.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 23,
+      "cost": 200,
+      "name": "Railway Rifle",
+      "source": "Fallout 3 - Updated ",
+      "description": "Though it may look like it was made from a scrap heap, this rifle will fire off railway spikes at such a high velocity, you'd more than likely pin whoever you shot to a wall. This one deals more damage to limbs than one would expect.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 24,
+      "cost": 200,
+      "name": "Weapon Schematics",
+      "source": "Fallout 3 - Updated ",
+      "description": "Since there are no longer any factories mass producing new guns, the people of the Wasteland have had to get a bit creative. What you now have are the schematics for eight different kinds of weapons, each more efficient than any you could have found in the Capital Wasteland.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 25,
+      "cost": 200,
+      "name": "Old Armor",
+      "source": "Fallout TV Show Jump",
+      "description": "This set of armor, helmet, and trenchcoat may have at one time been considered riot gear, but the residents of California came to know it as Veteran Ranger Armor. The helmet features filtration systems, night vision, and short range radios. The armor plates are capable of surviving a surprising amount of small arms fire. With the trench coat, you cut an intimidating figure, and most in the whole of California know to avoid a shootout with one of the few remaining Rangers.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 26,
+      "cost": 200,
+      "name": "Grenade Satchel",
+      "source": "Fallout: Mutants",
+      "description": "If there’s one thing that’s fun, it’s being able to watch your enemies being only referred to in the past tense, and there’s no way better than by using copious amounts of explosives. This satchel contains ten of each kind of grenade found in the Wasteland, as well as one holy hand grenade that’s on par with a mini-nuke. These grenades will replenish themselves weekly.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 27,
+      "cost": 200,
+      "name": "K9000 Cyberdog Gun",
+      "source": "Fallout New Vegas JumpChain\n",
+      "description": "A big, powerful automatic gun with a dog brain in it, floppy metal ears and a curious sensor. Really enjoys being fired by you and causes bullets to strike more accurately by slightly altering the trajectory of bullets when needed. Has remarkably long range sensors that are almost impossible to fool and it will growls when it senses unnoticed enemies approaching to alert you.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 28,
+      "cost": 200,
+      "name": "Pulse Gun",
+      "source": "Fallout New Vegas JumpChain\n",
+      "description": "A gun that fries electronics causing massive damage to vehicles, people in power armor and anyone else unlucky enough to be relying on electrical items when you shoot them with this. If it survives it clearly wasn’t relying on tech. Fires fast enough that a good shot in a good position could take out entire armies of robots or power armoured goons without breaking a sweat. Comes with attachments and scope to convert into a rifle form.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 29,
+      "cost": 200,
+      "name": "B-29 Super Fortress",
+      "source": "Fallout New Vegas JumpChain\n",
+      "description": "Well they certainly don’t make these anymore. A plane containing 12 .50 calibre M2 guns between its four turrets, a 20mm cannon in the tail gun and an extensive amount of bombs. May have lake water pooling here and there but it all works as well as it should, has an endless fuel supply and the payload regenerates for massive destruction.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 30,
+      "cost": 400,
+      "name": "Mechanist Armor ",
+      "source": "Fallout: Automatrons",
+      "description": "This armor was crafted and worn by the eponymous self-proclaimed superhero, the Mechanist! The Master of Machines constructed their armor to offer potent defenses, both from ballistic weapons as well as energy weapons. While the cloth undersuit may seem like a disadvantage, it is actually made from an advanced ballistic weave, offering just as much protection as the metallic parts. While wearing this armor, you will find the quality of any machines you create or repair greatly improved. As an added bonus, it can alter the wearer's voice.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 31,
+      "cost": 400,
+      "name": "Anti-Material Rifle",
+      "source": "Fallout Series (Imaged)",
+      "description": "Utilizing an ergonomic, metallic skeleton design with a free-floating barrel, the .50 Hécate II is a bolt-action, high caliber precision weapon intended for use against materiel and hard targets. It was designed to be used at long and extreme distances with extreme accuracy. Needless to say, you could punch through even a Behemoth's skull pretty easily, though the rate of fire and recoil are points against it. But who cares about that when you could kill practically anything with just one shot from half a mile away?",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 32,
+      "cost": 400,
+      "name": "Heavy Gunner ",
+      "source": "Fallout Series (Imaged)",
+      "description": "You know, when they say 'bigger is better,' I don't think they meant it literally. No matter what the original intention of such a phrase was, you've applied it to weapons. You can wield any weapon you can physically carry as easily as you would a small pistol, which includes how you deal with recoil. Additionally, the bigger the gun, the more extra damage you do. A normal pistol would be the same, a sniper rifle will see a small, but noticeable increase in power, while a minigun will see an easier time cutting through enemies.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 33,
+      "cost": 400,
+      "name": "Robo-Thor Armor",
+      "source": "Fallout 3 - Updated ",
+      "description": "A modified version of the Enclave's Tesla Armor found by a group of tribals, offering just as much protection as a T-45, while also electrocuting anything stupid enough to get close to you. This electrical field can be disabled when it isn't needed. Strangely, it seems as though you will deal more damage with melee weapons than before.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 34,
+      "cost": 500,
+      "name": "Nuka-nuke Launcher ",
+      "source": "Fallout Series (Imaged)",
+      "description": "There aren't many hand-held weapons out there with the destructive capabilities of the Fat Man, and this unique variant certainly proves that. Instead of firing normal mini nukes, this instead utilizes a specially modified mini nuke utilizing Nuka-Cola Quantum in order to increase their explosive capabilities. This makes it half again as powerful as normal and has quite the neat side effect of turning the explosions a nice neon blue.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 35,
+      "cost": 600,
+      "name": "Missile Silo ",
+      "source": "Fallout: Automatrons",
+      "description": "Will you be the next one to repeat the Old World's mistakes, or learn new lessons from them? I guess it hardly matters when you own this facility. Stored within this underground military base are thirteen high-yield nuclear missiles, just waiting to be launched with just a push of a button. They can be used to fire upon anywhere you desire, even from the other side of the country, and will replenish within a week if used.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 36,
+      "cost": 600,
+      "name": "Kremvh’s Tooth",
+      "source": "Fallout Series (Imaged)",
+      "description": "A cursed weapon, just holding it would make anyone feel uneasy. Well, except for you, as this twisted blade sees you as its one true master. In addition to being unnaturally sharp, capable of cutting through power armor with ease, it will severely poison the target, capable of bringing down a Behemoth within just a few minutes. It will also poison any who touch it, so long as they don’t have your permission to do so.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 37,
+      "cost": 600,
+      "name": "Aeternus",
+      "source": "Fallout Series (Imaged)",
+      "description": "When people think of firepower, they think of the gatling laser. It's a very cost-efficient heavy weapon, and fires numerous lasers faster than you could blink, each as devastating as a normal laser rifle. And even amongst them, this weapon is unique. How so? Aeternus simply does not run out of ammo, nor does it overheat. This means that you could fire this bad boy indefinitely, vaporizing anyone stupid enough to get on your bad side.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 38,
+      "cost": 600,
+      "name": "Chinese Stealth Armor",
+      "source": "Fallout Series (Imaged)",
+      "description": "Developed by the Chinese to counter the American's brute force with subterfuge and deception, the Hēi Gui stealth armor is the ultimate expression of China’s mastery over stealth technology. This suit contains a portable device that generates a modulating field that transmits the reflected light from one side of an object to another. The end result is near-perfect active camouflage, one close to total invisibility. This stealth field can be activated whenever you want. And despite its focus on stealth, it's still adept at protecting its wearer from enemy fire.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 39,
+      "cost": 600,
+      "name": "Military Outpost ",
+      "source": "Fallout 3 - Updated ",
+      "description": "Due to the heavy military focus of late America, it is not surprising in the least that there are innumerable military stations and outposts dotting the Wasteland. This one is now yours to command, and is filled with all manner of firearms and weapons. It can house a hundred men, and its design is optimized for defense. It would take a mighty force indeed to overrun this facility, especially if you have enough people actually guarding it.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
+      "__line": 40,
+      "cost": 600,
+      "name": "Fat Man",
+      "source": "Fallout 3 - Updated ",
+      "description": "One of the most devastating weapons out there, this big gun can fire off miniature nukes at a target, ensuring that everything around them ends up as nuclear paste. You could even kill a Behemoth with one shot, if aimed at the face.",
+      "chapter": "Armoury"
+    }
+  ],
+  "3": [
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 1,
+      "cost": 0,
+      "name": "Star Paladin ",
+      "source": "Fallout 3 - Updated ",
+      "description": "One of the highest ranking members of the Eastern Brotherhood of Steel, Star Paladin Cross has been technologically enhanced so that she no longer needs to eat or sleep. She is, in fact, a cyborg. Beyond that, she is skilled with any laser weaponry, but prefers to use her super sledge to fight her enemies.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 2,
+      "cost": 100,
+      "name": "Laser Rifle",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "This high-tech weapon emits a concentrated beam of coherent light to do considerable damage. It comes with 25 microfusion cells battery packs that power the weapon and restock after 24 hours.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 3,
+      "cost": 100,
+      "name": "Institute Rifle ",
+      "source": "Fallout: Automatrons",
+      "description": "A variant of the standard AER12 laser rifle, manufactured and used primarily by the forces of the Institute. It is more damaging, more energy efficient, and more easily modified than most other laser rifles. The beam is a nice blue, further separating it from the more widespread variants.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 4,
+      "cost": 100,
+      "name": "Laser Pistol",
+      "source": "Fallout Series (Imaged)",
+      "description": "Intended to replace the N99 pistol as the standard sidearm for military forces, the AEP7 laser pistol is a good choice to have at your sides. This energy weapon runs off of small energy cells in order to make a deadly light show where the finale is your enemies' death.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 5,
+      "cost": 100,
+      "name": "Daddy’s Little Scientist",
+      "source": "Fallout Series (Imaged)",
+      "description": "A laboratory or workshop can be a dangerous place, especially when all the equipment is either salvaged or made from scrap. No labels either. This isn't exactly a problem for you, as you seem to know your way around even the most hazardous and haphazard labs or workshops, able to use all the crappy equipment safely as though you've been using them since you were old enough to walk.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 6,
+      "cost": 100,
+      "name": "Boot Camp",
+      "source": "Fallout TV Show Jump",
+      "description": "Unlike the vast majority of people on the surface, the Brotherhood of Steel puts its trainees through actual legitimate military training. While the effectiveness of this training may be questionable in some fields, it does make them one of the few organizations with physical fitness as an attribute. You’ve had to run miles, lift weights, and perform exercises, but the results show. You have the muscle mass and fitness to show for it, putting you at the peak of what might be considered ‘standard human.’",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 7,
+      "cost": 100,
+      "name": "Initiate Training",
+      "source": "Fallout TV Show Jump",
+      "description": "Your training began when you were young, and focussed upon the singular purpose of aiding a Brotherhood Knight in the field. You learned basic combat skills necessary, of course, but more than that you learned to identify technology, to repair your Knight’s equipment, and to tote it all around like a glorified pack mule. Were the Brotherhood looking to assign squires, you’d make the top of the list.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 8,
+      "cost": 100,
+      "name": "Humvee",
+      "source": "Fallout Tactics: Brotherhood of Steel Jump",
+      "description": "A staple of Brotherhood forces, the Hummer is a light, four-wheel drive vehicle that seats six and runs on a small nuclear engine. Unarmed but you can always change that yourself.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 9,
+      "cost": 200,
+      "name": "Power Armor Frame ",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "The West Tek internalized servo system is the standard chassis for all power armor series. This suit is powered by and comes with a standard fusion core interface that restocks after 24 hours. Any combination of power armor parts can be equipped on a power armor frame and any power armor segments attached to the frame are considered weightless.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 10,
+      "cost": 200,
+      "name": "Power Armor",
+      "source": "Fallout Series (Imaged)",
+      "description": "Unveiled to the world in 2067, power armor of any make and model represents the pinnacle of personal defensive technology, combining excellent protection from small arms with the ability to carry heavy weapons into combat with ease, turning anyone into a person-sized tank. While they could normally last hundreds of years without recharging, you might as well never need to worry about it. This set can be of any model you desire. The classic T-45, the iconic T-51, the advanced T-60, or the rare X-01.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 11,
+      "cost": 200,
+      "name": "Hacker ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Computers are wonderful things, are they not? It runs off of strict rules and consists entirely of ones and zeroes, allowing those clever enough to take advantage of its many uses and flaws. You are naturally skilled in coding and hacking, able to crack through most codes, as well as programming with fewer bugs or exploits than there should be.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 12,
+      "cost": 200,
+      "name": "Chemist ",
+      "source": "Fallout Series (Imaged)",
+      "description": "The art of chemistry is as complicated as it is valuable, as it takes a knowledgeable mind indeed to create all sorts and varieties of drugs with little more than simple household products. Yes, you are skilled in making all kinds of drugs, both beneficial and recreational, but those created by yours truly shall be twice as potent as before and the drawbacks normally accompanied by such things will be lessened.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 13,
+      "cost": 200,
+      "name": "T-60 Power Armor",
+      "source": "Fallout TV Show Jump",
+      "description": "The Armor of a Brotherhood of Steel Knight. Originally a Pre-War design, this Power Armor greatly enhances the strength of the wearer. This allows the wearer to make use of equipment otherwise too heavy to carry, or to take part in melee combat with far greater effectiveness than a standard human. The ‘armor’ aspect is nothing to sneer at either. This will protect you from many small arms, though there are some weaknesses. Though fortunately this set has been modified to no longer possess the flaw in the welding just below the chest plate. This armor is also capable of small feats of flight.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 14,
+      "cost": 200,
+      "name": "Power Armor Training",
+      "source": "Fallout TV Show Jump",
+      "description": "What defines the Brotherhood? Is it their mission? Their ideals? The sense of brotherhood that is their namesake? Arguably it is none of these, but their other namesake: Steel. Or in other words, Power Armor. You’ve been trained in the use of Power Armor to the level of the most elite of Brotherhood Knights, and know how to move in your Power Armor like its a second skin. In a fight, you know just how to cover your armor’s vulnerabilities. Your foes will find it difficult to catch you off guard.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 15,
+      "cost": 200,
+      "name": "Armored Personnel Carrier",
+      "source": "Fallout Tactics: Brotherhood of Steel Jump",
+      "description": "The armored personnel carrier is an original design from the Brotherhood of Steel and is a heavily armored personnel transport. Twin tracks carry the vehicle over most terrain and also provide for a very small turning circle. It is slow so once it's caught out in the open it's a bit of a sitting duck for heavy artillery. Seats 12 in the back and 3 in the front.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 16,
+      "cost": 400,
+      "name": "Tesla Rifle",
+      "source": "Fallout Series (Imaged)",
+      "description": "Quite the unique weapon, at least compared to everything else in the Wasteland. Cobbled together from a robot's arm-mounted weapon, the Tesla Rifle fires off deadly arcs of electricity that jump from enemy to enemy, injuring anyone caught in the chain. It can fry a man within a few seconds and leaves the nerves of anyone who survived fried and incapable of movement for a time.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 17,
+      "cost": 400,
+      "name": "Super Sledge",
+      "source": "Fallout Series (Imaged)",
+      "description": "This type of sledgehammer was created with the return of trench warfare, necessitating the creation of a tool superior to regular large hammers for engineering work and breaching concrete fortifications. It stores kinetic energy in order to increase the force of impact, making anyone hit by this baby have a very bad day. It's not unheard of to install small rockets to the back of the head in order to further increase its power.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 18,
+      "cost": 400,
+      "name": "Vertibird",
+      "source": "Fallout: Automatrons",
+      "description": "Not too many enemies will have the benefit of air superiority, so you've already got a massive advantage. The Vertibird is a VTOL vehicle that became the primary gunship and transport aircraft for the US military. It's got durable armor and can be outfitted with a number of weapons, though this one is equipped with gatling lasers. It has enough room inside to fit an entire squad wearing power armor and their pilot. Best part is, you'll never have to worry about refueling.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 19,
+      "cost": 400,
+      "name": "Gauss Rifle ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Perhaps known as one of the greatest energy weapons in the Wasteland, there are few weapons as good as the gauss rifle. Utilizing an electromagnetic accelerator, it fires off 2mm slugs of steel at such extreme speeds that it is capable of piercing through even power armor at extreme ranges. This one has an effective range of a mile, with the scope needed to make full use of this reach.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 20,
+      "cost": 400,
+      "name": "Stealth Boy 3001",
+      "source": "Fallout Series (Imaged)",
+      "description": "Developed in response to the stealth suits the Chinese employ, the Stealth Boy is a special wrist-mounted device that generates a modulating field that transmits the reflected light from one side of an object to another, allowing for near invisibility. Though there aren't any side-effects for humans, prolonged use by Super Mutants tends to cause schizophrenia, though it is unknown why. Yours won't have that problem and will recharge in between uses.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 21,
+      "cost": 400,
+      "name": "Jingwei’s Shocksword",
+      "source": "Fallout Series (Imaged)",
+      "description": "This Chinese officer's sword was the personal weapon of General Jingwei, the military commander of the Chinese forces in Anchorage. By flicking a switch on the handle, the blade becomes enveloped by a field of electricity. Beyond the obvious use of electrocuting enemies, there is always the chance that you could vaporize your enemies, leaving only a pile of ash in your wake.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 22,
+      "cost": 400,
+      "name": "Cryolator",
+      "source": "Fallout Series (Imaged)",
+      "description": "The antithesis to the flamer, this very rare weapon is sure to cool off some hotheads. As it propels super-chilled nitrogen, it freezes your enemies solid and stops them in their tracks. Of course, if you don't want a constant spray, then there is an option to fire off ice pellets. Just as effective as actual bullets, and containing the same freezing effect, but requiring more precision in its use.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 23,
+      "cost": 400,
+      "name": "Meltdown",
+      "source": "Fallout Series (Imaged)",
+      "description": "Don't you just love the smell of lasers and plasma in the morning? What am I saying, of course you do, otherwise you wouldn't have purchased this. Not only will you deal more damage using energy weapons, but every time you kill a target using such weapons, they will explode in a corona of energy, damaging anyone and anything nearby.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 24,
+      "cost": 400,
+      "name": "Knight Support Squad",
+      "source": "Fallout TV Show Jump",
+      "description": "If the Wastes become too much for you, you may require backup. Fortunately you can call for backup from this portable radio. On making the call, a Vertibird will arrive at your location within thirty seconds to deploy two Knights in power armor plus their squires to support you for twenty four hours. The Knights wield massive machine guns with which they can lay down shocking amounts of covering fire, and the squires are in possession of pistols. If killed, the Knight’s power armor is rendered unusable, and regardless of survival the vertibird returns at the end of the twenty-four hour period to collect either survivors or bodies.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 25,
+      "cost": 400,
+      "name": "Vertibird Pilot",
+      "source": "Fallout TV Show Jump",
+      "description": "Their armor and military training may make the Brotherhood a threat to anyone in the wasteland, but it's their air power that truly sets them apart from even the best equipped of the wastelanders. And they won’t get anywhere without you. You’ve trained in the flight of various flying vehicles, but it is in the Vertibird that you excel. Your skill isn’t limited to pick ups and drop offs, either. In your hands, the vertibird finds itself put through its paces. Complex aerial maneuvers come naturally, as does formation flying. And if the enemy should have anti-air defenses, you know how to dodge, confuse, and avoid those weapons practically indefinitely.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 26,
+      "cost": 500,
+      "name": "Protonic Inversal Axe",
+      "source": "Fallout Series (Imaged)",
+      "description": "Though it resembles a futuristic war axe from a science fiction feature, this is possibly one of the best melee weapons you could get your hands on. Made from an ally known as saturnite, its frame and handle are stupidly durable, while the blade is made from electrical energy itself. Not only can it cut through steel with ease, but it is especially effective against robots, power armor, and various other forms of technology in general.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 27,
+      "cost": 500,
+      "name": "Power Armored",
+      "source": "Fallout Series (Imaged)",
+      "description": "There are few things that can make you feel invincible as being clad in power armor. And while walking around in a human-sized tank is great, it could be better. By purchasing this perk, any and all armor you wear is now five times as effective in protecting you and doesn't hinder your movement at all, allowing you to swim just fine even while wearing the humanoid equivalent of a small car. And while that would be well and good on its own, any armor you wear will now fully repair itself within the day. The more complex the armor and the more extensive the damage, the longer it will take to be repaired but it will be repaired all the same.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 28,
+      "cost": 500,
+      "name": "Sentinel",
+      "source": "Fallout TV Show Jump",
+      "description": "The rank of Sentinel is one rarely given to any within the Brotherhood of Steel, and those who hold it only do so after having proved themselves time and time again. A Sentinel has the authority to act on their own cognizance without orders, with Elders and those of similar rank able to only give standing, high-level orders. You only gain this level of trust by being among the most capable warriors in the Brotherhood’s ranks, and that is certainly the case for you now. In combat skill, you are to the Brotherhood Knight what they are to a random wastelander.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 29,
+      "cost": 600,
+      "name": "Medic Power Armor ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Scavenged from a set of armor found in the Capital Wasteland as well as other advanced technology, this modified set of T-60 power armor is not only fully upgraded, but it possesses a life support system that would put all others to shame. It offers potent protection from radiation, it’s water tight and has a small supply of clean oxygen, and inner cooling. The most important part is that it will automatically inject the wearer with Stimpaks and Med-X when needed, ensuring that they are always at full combat readiness.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 30,
+      "cost": 600,
+      "name": "Airship",
+      "source": "Fallout TV Show Jump",
+      "description": "40,000 tons of airship held aloft by armored hydrogen gasbags and a fusion reactor, the Prydwen is a marvel of Brotherhood engineering. She’s capable of fielding an entire Chapter with Vertibird support, and beyond practical uses she’s a symbol of the Brotherhood’s presence which is hard to miss. And you now possess a sister ship. While you may have to provide your own Knights and your own Vertibirds, you gain the airship and a crew capable of keeping her afloat indefinitely. This is a true sign of your value to the Brotherhood of Steel, otherwise they would not hand over such an asset. You can expect that they have some kind of mission in mind for you if they’ve dispatched you with this. If they didn’t dispatch you with it... expect trouble when the Brotherhood finds out they're not the only ones with a mobile air base.",
+      "chapter": "Enclave"
+    }
+  ],
+  "4": [
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 1,
+      "cost": 0,
+      "name": "Waste Compactor",
+      "source": "Fallout: Automatrons",
+      "description": "A rugged robot designed to help at waste disposal sights, it’s still active long after its creators have perished, and has grown beyond his programming. He’s curious, likes to collect any interesting junk he comes across, and has a love of watching romantic holotapes.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 2,
+      "cost": 0,
+      "name": "The Mechanist",
+      "source": "Fallout: Automatrons",
+      "description": "A girl with a talent for machinery and an earnest desire to help people, she was inspired by a comic she came across to don the mantle of The Mechanist, a superhero who saved others through his robotic creations. She’s very skilled when it comes to building and repairing robots, and could probably build a protectron with her eyes closed.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 3,
+      "cost": 0,
+      "name": "Edge Runner ",
+      "source": "Fallout: Automatrons",
+      "description": "A young man who underwent cybernetic enhancements, he made a life for himself as a mercenary. In addition to his skill with firearms and can greatly enhance his speed, his tolerance for cybernetics is insane, with very few of the downsides ever appearing. Though he doesn’t have a dream of his own, perhaps he could help you accomplish yours?",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 4,
+      "cost": 0,
+      "name": "Eyebot Duraframe Subject-E ",
+      "source": "Fallout: Automatrons",
+      "description": "An eyebot made by the Enclave in an experiment to make a more combat-focused model. Armed with a powerful energy weapon as well as a hacking module, he'll sound off a battle song and join you in your endeavors. And though he can't actually talk, the noises he makes are expressive enough that it doesn't really matter.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 5,
+      "cost": 0,
+      "name": "Giddyup Buttercup",
+      "source": "Fallout: Automatrons",
+      "description": "The ultimate culmination of equestrian robotics, and the best gift you could ever give to your young daughter. This robotic horse acts just like a real pony, one that’s been fully trained and docile towards any human child. They don’t have much of a use, otherwise, but at least it could act like a low-maintenance pet.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 6,
+      "cost": 0,
+      "name": "Mr. Handy",
+      "source": "Fallout Series (Imaged)",
+      "description": "Developed by General Atomics International before the Great War and refined in collaboration with RobCo Industries, the Mr. Handy model is the best household helper on the market. It can whip up delicious meals, clean your home, walk the dog, cut your hair, and defend the family from home invaders. It’ll even talk with a British accent to solidify the butler aesthetic. This one in particular recognizes you as its master. Comes with a spiffy bowler hat.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 7,
+      "cost": 0,
+      "name": "Patriotic Robot",
+      "source": "Fallout 3 - Updated ",
+      "description": "A customized Mister Gutsy model, created by General Atomics for mobile attacks prior to the Great War, and scavenged from parts by a wandering trader named Tinker Joe, you'll definitely feel safer with Sergeant RL-3 there backing you up in combat.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 8,
+      "cost": 100,
+      "name": "Steel Terrorizer",
+      "source": "Fallout: Automatrons",
+      "description": "The great advances of the Institute in the field of robotics and synthetic humans has culminated in this killing machine, a Courser of unparalleled skill. A wall of muscle and metal over six feet tall, this is a one-man army, with a mastery of weapons and murder that few could ever match. Though, it isn’t very good at mimicking emotions, and its Austrian accent makes it stand out even more.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 9,
+      "cost": 100,
+      "name": "Iron Assassin ",
+      "source": "Fallout: Automatrons",
+      "description": "A modified assaultron with a rust-red coat of paint, this misanthropic robot was programmed to be a deadly assassin. It’s a master of dozens of weapons, its movements are muffled, it houses an invisibility unit, and is always eager to go out and kill more meatbags. It must also obey all of your commands and cannot harm you, rules that it will inevitably complain about.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 10,
+      "cost": 100,
+      "name": "Sentry Bot",
+      "source": "Fallout Series (Imaged)",
+      "description": "Of all the robots found in the Wasteland, the Sentry Bot is one of the most feared. Armored in thick steel and equipped with a gatling laser and rocket launcher, you'd need a lot of firepower to bring it down, if you can even survive more than a few minutes with it firing at you. This one recognizes you as its master and will follow your orders to the letter. It certainly helps that this one has infinite ammo.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 11,
+      "cost": 100,
+      "name": "Interface ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Terminals are machines. You are a machine. Ergo, there is some overlap between the two of you, enough for a connection to form. You are capable of interfacing and interacting directly with any technology you run into, needing only a touch before you can start bending cyberspace to your whims.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 12,
+      "cost": 100,
+      "name": "Eyebot",
+      "source": "Fallout: Automatrons",
+      "description": "A hovering ball that looks more like a radio than a robot, many think that the eyebots are only good for target practice. While they may not be the most durable or devastating bots around, they're still faster and more maneuverable than most, and can play some snazzy tunes whenever you like.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 13,
+      "cost": 100,
+      "name": "Protectron",
+      "source": "Fallout: Automatrons",
+      "description": "The sturdy protectron model of robot was created before the Great War, and served as a security automaton in both the private and business sectors. Though many may make fun of them for their slow speed and low maneuverability, many forget that there's a reason a protectron could be found in nearly every place of business.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 14,
+      "cost": 100,
+      "name": "Mr Handy",
+      "source": "Fallout: Automatrons",
+      "description": "Designed in a joint venture between General Atomics and RobCo, these metallic butlers were as widespread as they were loyal to their owners. They also come equipped with a buzzsaw, flamer, and a pincer on its arms.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 15,
+      "cost": 100,
+      "name": "Securitron",
+      "source": "Fallout: Automatrons",
+      "description": "Created by RobCo Industries, these robots were created primarily to supplement police forces, though they can only be found in the Mojave area. They are surprisingly agile with their single wheel, and their screen is capable of displaying a wide array of images, from static images to pre-War commercials. Still, they are big and bulky, as well as boasting an impressive amount of firepower.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 16,
+      "cost": 100,
+      "name": "Assaultron ",
+      "source": "Fallout: Automatrons",
+      "description": "The Assaultron was constructed by RobCo Industries and sold to the United States military as a frontline wartime combatant as early as 2072, and did very well, as it is fast and deadly at close range and employs a devastating laser at a distance, with some units even employing stealth technology. They are quick, nimble and customizable, with a variety of weaponry such as lasers and razor-sharp claws.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 17,
+      "cost": 100,
+      "name": "Sentry Bot",
+      "source": "Fallout: Automatrons",
+      "description": "One of the most dangerous robots found in the Wasteland, there's a reason why so many dread going against the sentry bot. They're big, durable, and have a hell of a lot of firepower to throw around. Unfortunately, their large size makes it difficult to get into certain areas, or make use of stealth in general,",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 18,
+      "cost": 100,
+      "name": "Snip Snip ",
+      "source": "Fallout TV Show Jump",
+      "description": "Originally a General Atomics Mister Handy assigned to a clinic, this robot has since been reprogrammed to serve you however you see fit. It’s been programmed to work the clinic, and as such has knowledge of the most modern medical practices. Given the post-apocalyptic flavor of the world, some of these practices may not be what you’d expect to see in a certified hospital. The robot’s chassis is armed with a rotary saw for short range and a tranquilizer launcher for long range. If you are so inclined, the sedatives in the tranq darts can be replaced with bleach for a more deadly outcome.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 19,
+      "cost": 100,
+      "name": "General Repairs",
+      "source": "Fallout TV Show Jump",
+      "description": "In a world where manufacturing is a thing of the past and almost everything originates in scavenged goods, the ability to effect some repairs is a must. Fortunately you’ve tinkered a bit in your life, enough to know the basics. You know how to maintain basic machines and effect minor repairs on basic equipment.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 20,
+      "cost": 100,
+      "name": "Securitron Gal",
+      "source": "Fallout New Vegas JumpChain\n",
+      "description": "A Mark-II securitron with a lady’s face. She may be a robot on the outside but on the inside her neuro-computational matrix is an exact copy of the girl of your dreams. You can trust her with your secrets too, as she is perfectly loyal and impossible to hack, because a lady doesn't kiss and tell.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 21,
+      "cost": 100,
+      "name": "Yes Man",
+      "source": "Fallout New Vegas JumpChain",
+      "description": "A Mark-II securitron with a big happy face. Actually has very powerful logical circuits so can accurately predict the activities of major players if given enough data. Gives good advice but is insanely sycophantic so will enthusiastically go along with whatever you say.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 22,
+      "cost": 200,
+      "name": "Optimal Leader ",
+      "source": "Fallout: Automatrons",
+      "description": "Liberty Prime was the greatest feat of American robotics, one that many would have mimicked, should it have been completed before the bombs fell. This was the only functioning prototype, a forty foot tall red and blue titan of steel, with the personality core of a valiant and caring leader installed in order to better inspire troops on the field. Equipped with an energy cannon on one arm and an axe in the other, few threats are capable of taking him down.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 23,
+      "cost": 200,
+      "name": "Heroic AI ",
+      "source": "Fallout: Automatrons",
+      "description": "Created in secret by a great programmer from Annexed Canada, he was inspired by comics in order to create a hero that could inspire the world to be better. And so, he created this powerful AI, one with a metaphorical heart as big as the shackles limiting her capabilities, safeties that were never removed before the bombs fell and her creator died. She specializes in engineering and robotics, and all of her creations have a draconic theme in their design and names.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 24,
+      "cost": 200,
+      "name": "RobCo Schematics ",
+      "source": "Fallout: Automatrons",
+      "description": "It would be an understatement to say that RobCo was the leading pioneer in the field of robotics, with their creations lasting over two hundred years after the world was scoured by nuclear fire. Not only do these holotapes contain instructions on how to build all RobCo robots, but also updating holotapes detailing how to improve them with any technology you gain access to.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 25,
+      "cost": 200,
+      "name": "Vertibot ",
+      "source": "Fallout: Automatrons",
+      "description": "In the Wasteland, there are few methods of travel as useful and enviable as the Vertibird. But what would happen if you were to completely fill the inside with computer parts, leaving no room for a human crew? You get the Vertibot, an automated variation of the aircraft, complete with all the weaponry and air superiority you'd expect from such a thing.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 26,
+      "cost": 300,
+      "name": "X-42 Robo-Scorpion ",
+      "source": "Fallout Series (Imaged)",
+      "description": "From the forges of Big Mountain, there are few robots as dangerous as this metal monstrosity. Capable of squishing a brahmin with its pincers and firing off dangerous atomic lasers that cut through most armor like butter. The three-inch thick saturnite hull makes it highly resistant to all kinds of damage, and it can be controlled directly by you. It's even got a self-destruct setting, for when you don’t want your enemies fooling around with its remains or worse, reverse-engineering it. This one never seems to run out of power and cannot be hacked or subverted.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 27,
+      "cost": 400,
+      "name": "Robotics Expert",
+      "source": "Fallout Series (Imaged)",
+      "description": "Robots are so much easier to deal with than humans, much less complex. You have an instinctive understanding of robots, finding it easier to predict their movements or next actions. This also helps with building, repairing, or deactivating them, as you know just what they need to be in top form and beyond, or rendering them completely harmless. Hell, you could even build an entire Protectron blindfolded, that's how good you are.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 28,
+      "cost": 500,
+      "name": "Robot Workbench",
+      "source": "Fallout Series (Imaged)",
+      "description": "For those of you who wish to create your own army of automatons, then this is the best friend you'll ever have. This complex device is a matter transformation device, able to turn any raw materials you insert into the car-sized locker on the side into robots! And not only does it create robots, it can also improve them with a variety of upgrades. You can build and upgrade any common robots found in the American Wasteland, but the terminal that you use to manage all of this can also have schematics of robots from future worlds inserted, allowing you to create and upgrade them as well. Any robots created with this are of a higher quality than they otherwise would be.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 29,
+      "cost": 500,
+      "name": "Cyborg",
+      "source": "Fallout 3 - Updated ",
+      "description": "Where once you were a weak being of flesh, you have been remade, better than ever before. You are stronger, faster, and more durable than your fleshy brethren, and have a decreased rate of aging along with an immunity to poison. In addition to all of that, your organs have also been given a tune up, allowing them to be more efficient than before.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 30,
+      "cost": 600,
+      "name": "General Atomics",
+      "source": "Fallout: Automatrons",
+      "description": "Many know of General Atomics, the company that brought you the iconic Mister Handy and Miss Nanny models of domestic robot servants, and now you seem to own one of their branches, or at the very least one of the factories. This facility is made for the express purpose of building robots, any kind that you desire. While it will net you a steady stream of revenue, that’s less important than the automatrons it pumps out in a steady stream, without any resources consumed. You can change what kind of robots are made by this company, if you’ve got the schematics, but it will change the rate of production. You can get one Mister Handy a day, but something on par with Liberty Prime would take a month.",
+      "chapter": "Robots"
+    }
+  ],
+  "5": [
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 1,
+      "cost": 0,
+      "name": "Aqua Pura",
+      "source": "Fallout 3 - Updated ",
+      "description": "With very little clean drinking water in the Wasteland, every little drop is a godsend. This water bottle is a literal holy grail, as it will never run out of cold, clean water. You certainly aren't going to question it, not after a long day of wandering the Capital Wasteland.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 2,
+      "cost": 0,
+      "name": "Basic Gear",
+      "source": "Fallout Series (Imaged)",
+      "description": "Well, we can't exactly throw you into the Wasteland naked now, can we? You have a single set of clothes, ranging from a jumpsuit to jeans and a T-shirt, a bag to carry all your stuff, an N99 10mm pistol, and a small handful of bottle caps.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 3,
+      "cost": 0,
+      "name": "Bobby Pins",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "This 5 set of Bobby Pins can be used to unlock doors and will restock after 24 hours.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 4,
+      "cost": 0,
+      "name": "Comic Books ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Even long after the apocalypse, comic books are well received mediums of entertainment. After all, who wouldn't enjoy reading about Grognak the Barbarian or Jangles the Moon Monkey. You have a stack of enjoyable comic books that gain even more comics for every world you go to.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 5,
+      "cost": 0,
+      "name": "Dead Money",
+      "source": "Fallout Series (Imaged)",
+      "description": "Greed. One of the largest factors for the fall of the Old World, and of all wars. Well, if you are so filled with greed, then this should satiate your appetite for a bit. This stack of 37 pure gold bars are beyond valuable nowadays, though are quite heavy to carry around. Maybe it would be better just to let them go...",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 6,
+      "cost": 0,
+      "name": "Doctor’s Bag",
+      "source": "Fallout New Vegas JumpChain",
+      "description": "A small doctor’s bag with basic medical equipment, the means to fix crippled limbs, and a supply of Med-X and stimpacks that replenishes daily and should be enough to cover at least a few people stepping on land mines.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 7,
+      "cost": 0,
+      "name": "Holotape Recorder",
+      "source": "Fallout: Automatrons",
+      "description": "Holotapes are laser-readable media storage devices, capable of storing all kinds of information safely for extended periods of time, ranging from music to movies to diary entries, to more. How lucky you are, as you've now got an entire set up just for recording these holotapes, as well as being able to transfer them into other forms of media storage, or vice versa.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 8,
+      "cost": 0,
+      "name": "Magazine Collection",
+      "source": "Fallout 4 CYOA",
+      "description": "The entire libraries of several magazine publishers, including titles such as Guns and Bullets, Picket Fences, and the Massachusetts Surgical Journal, as well as several Hubris Comics series such as Grognak the Barbarian, Silver Shroud, and The Unstoppables. While they won’t increase your abilities immediately, you might be able to get a few ideas from them. In any case they make for good reading material, if nothing else.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 9,
+      "cost": 0,
+      "name": "Medkit",
+      "source": "Fallout 4 CYOA",
+      "description": "Contains five doses each of Med-X, Radaway, Rad-X, and Stimpacks, in a plain white medical kit.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 10,
+      "cost": 0,
+      "name": "Microfusion Cells",
+      "source": "Fallout: Automatrons",
+      "description": "Used primarily as ammo for energy weapons, these are self-contained fusion plants the size of a person’s palm. They can be used for a number of purposes, if you’re willing to tinker with them. You will receive a stockpile of fifty of these microfusion cells, which will replenish weekly.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 11,
+      "cost": 0,
+      "name": "Musical Instrument ",
+      "source": "Fallout Series (Imaged)",
+      "description": "So much has been lost since the bombs fell, but it seems like music is one of those constants that never goes away, especially with this in your hands. A high quality instrument of your choosing, you'll find it perfectly tuned and easy to use, such that even a complete novice could make a decent melody.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 12,
+      "cost": 0,
+      "name": "Nuka-Cola Fridge",
+      "source": "Fallout Series (Imaged)",
+      "description": "The most popular drink in America, you just can't beat a good old-fashioned Nuka-Cola! And now you'll never run out of this drink ever again. This pristine fridge is filled with each and every kind of Nuka-Cola, from Quantum to Quartz to Victory to the ever-favorite Classic. The fridge will instantly restock whenever you close it.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 13,
+      "cost": 0,
+      "name": "Old World Cuisine",
+      "source": "Fallout Series (Imaged)",
+      "description": "Food from before the war was what you'd expect from America, in that a lot of the most popular stuff was processed food with a popular logo on the front of a box. Honestly, the best part about them is that they're still edible even after two hundred years, so future generations can enjoy them. Within this pantry is a large amount of this food, as fresh as the day they were put on the shelves that replenishes daily.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 14,
+      "cost": 0,
+      "name": "Pre-War Wardrobe",
+      "source": "Fallout Series (Imaged)",
+      "description": "Many people cling to the past, unaccepting that the glory of the Old World is long gone, but you have to admit that they knew how to dress. You now have a massive wardrobe filled with all sorts of outfits for almost every situation. There's work clothes, play clothes military uniforms, leather clothes, nightgowns, pajamas, even some sexy lingerie.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 15,
+      "cost": 0,
+      "name": "Radiation Meds",
+      "source": "Fallout Series (Imaged)",
+      "description": "In case you didn't realize, radiation is everywhere, and it would take a very stupid person to ignore it completely. Eventually, you will run into radiation, and you'll definitely want this when you do. This small cooler has 25 does RadAway and 10 doses Rad-X, both of which are replenished weekly. RadAway purges your body of radiation, while Rad-X temporarily increases your resistance against",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 16,
+      "cost": 0,
+      "name": "Snow Globes",
+      "source": "Fallout New Vegas JumpChain",
+      "description": "Rare pre-war artifacts/useless baubles/fancy trinkets. As well as the full set from various locations in the Mojave and beyond.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 17,
+      "cost": 0,
+      "name": "Stimpak",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "This 5 set of stimpaks is a stimulation delivery package that functions as hand-held medication used for boosting the body's own regenerative properties.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 18,
+      "cost": 0,
+      "name": "Stimpak Pouch",
+      "source": "Fallout: Mutants",
+      "description": "Seeing as there is always something looking to kill you around every corner, it would certainly make life easier if you could heal yourself. Luckily you can! This small bag contains twenty-five Stimpaks and ten Super Stimpaks that are replenished weekly. Stimpaks boost the body's own regenerative properties, causing faster healing, though it's not very effective against major wounds. The Super Stimpak, meanwhile, is a more powerful variant, and is decent at dealing with major wounds.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 19,
+      "cost": 0,
+      "name": "Sunset Sarsaparilla Crate",
+      "source": "Fallout Series (Imaged)",
+      "description": "The most popular drink in the West! This brand of root beer dates back all the way to 1918 and has continued to be a popular alternative to those who aren't as partial to Nuka-Cola. This crate of 24 Sunset Sarsaparilla bottles will replenish itself each time you close the lid. Each set is guaranteed to have at least one star bottle cap inside.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 20,
+      "cost": 0,
+      "name": "Vault Canteen",
+      "source": "Fallout Series (Imaged)",
+      "description": "One of the promotional items for the Vaults, this blue canteen is marked by a yellow number representing which Vault it was promoting, defaulting to 13. But that's not what makes it special, as this specific canteen never runs out of fresh, clean water. I hope I don't have to explain how valuable this will be in an irradiated wasteland.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 21,
+      "cost": 0,
+      "name": "Vault Suit ",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "This iconic blue-and-yellow coloured Jumpsuit is the iconic gear of Vault dwellers and by and large the symbol of Vault-Tec Corporation.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 22,
+      "cost": 100,
+      "name": "Collection of Implants ",
+      "source": "Fallout: Automatrons",
+      "description": "You may be familiar with the implants purchased from a clinic just outside New Vegas, and have desired to have them for yourself. This collection of implants are capable of increasing your strength, perception, endurance, charisma, intelligence, agility, and luck, as well as granting one subdermal armor and a healing factor, among other, more specialized abilities. You will receive ten copies of these cybernetic implants, and gain a new copy each time you use or break one.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 23,
+      "cost": 100,
+      "name": "Extra Caps",
+      "source": "Fallout: Automatrons",
+      "description": "Ever since the bombs fell, the American dollar stopped being the main currency, instead having its status replaced by bottle caps. With each purchase, you receive a sack containing around 2,000 caps. This option can be purchased multiple times.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 24,
+      "cost": 100,
+      "name": "Fusion Cores",
+      "source": "Fallout: Automatrons",
+      "description": "It would be an understatement to say that the Old World knew how to use nuclear fusion as a power source. They used it to power nearly everything, from their cars and televisions to their weaponry and armor. You now own ten fusion cores that won't run out of energy. Whatever you use them for, please don't damage them, as they make for deadly explosives. If any are lost or destroyed, they will replenish the next day.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 25,
+      "cost": 100,
+      "name": "Groodalicious",
+      "source": "Fallout New Vegas JumpChain",
+      "description": "You know how to make every addictive chem in the wasteland as well as Fixer and you have a knack for coming up with new recipes that are even more addictive, potent and entertaining than ever.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 26,
+      "cost": 100,
+      "name": "Leather Jacket ",
+      "source": "Fallout Series (Imaged)\n",
+      "description": "You know what's cooler than cool? You are, especially while wearing this badass leather jacket. It's surprisingly durable and has an emblem of your choice stitched onto the back of it. But the best part is that it's breathable, meaning that you won't be burning up while wearing this in a desert.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 27,
+      "cost": 100,
+      "name": "Medical Tent",
+      "source": "Fallout New Vegas JumpChain",
+      "description": "A large, collapsible tent that is easily transported despite the several beds and large quantity of advanced medical equipment that appears when it’s erected. The tent itself is generally seen as a safezone and will not come under attack by hostile armies. Inside it is always clean and attempts at healing others are significantly more effective than usual. Patients find that their wounds heal cleanly and their disease run their course.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 28,
+      "cost": 100,
+      "name": "Playing Caravan",
+      "source": "Fallout New Vegas JumpChain",
+      "description": "The caravans are big business whether we’re talking west or east of the Colorado and you have the job down pat. Whether it’s mapping out new routes, finding new profitable products to trade or quietly muscling the competition out of what should be your turf you’re a consummate professional and practically always make the right call for the direction (figurative or literal) your business ought to go in.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 29,
+      "cost": 100,
+      "name": "Refrigerator",
+      "source": "Fallout New Vegas JumpChain\n",
+      "description": "A fridge full of the various alcoholic beverages you can find in the wasteland, from Atomic Cocktails to tequila to the almost unpalatable Sierra Madre Martini. All the drinks are of the highest quality and the options will update when brought to new places. Replenishes and always has what you want when you open the door (assuming what you want is alcohol of some sort).",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 30,
+      "cost": 100,
+      "name": "Skill Books",
+      "source": "Fallout Series (Imaged)",
+      "description": "Knowledge is power, which is very unfortunate considering how few institutions of learning are still functioning. Luckily, you have the next best thing. Books. Yes, this bookshelf is filled with all kinds of books that will noticeably increase related skills. There are books on general science, public speaking, car maintenance, unarmed combat, gun manuals, and even more.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 31,
+      "cost": 100,
+      "name": "Squire’s Bag",
+      "source": "Fallout TV Show Jump",
+      "description": "The Squire of a Knight may be easiest to distinguish by this large bag which they are made to tote around. Originally designed to be carried by the Power Armor frame, Knights were quick to foist this responsibility onto their Squires. You receive one such bag, which contains the supplies needed to keep a Knight and his Squire in the field for days without resupply. This includes food and water, medicine, various weapons, ammunition, and tools for repair of the Knight’s Armor.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 32,
+      "cost": 200,
+      "name": "Advanced Radiation Suit ",
+      "source": "Fallout 3 - Updated ",
+      "description": "Even after two hundred years, the threat of radiation is everywhere, even in the water. And while there isn't a solution for that just yet, this suit will protect you from a vast majority of harmful radiation, making you nearly immune to the deadly substance.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 33,
+      "cost": 200,
+      "name": "Chem Cooler ",
+      "source": "Fallout Series (Imaged)\n",
+      "description": "When down on their luck with no place to go and no hope left, they usually turn to drugs. It certainly helps that these drugs have some useful side effects besides being more potent than what was made in the early 21st century. With the exceptions of Stimpaks, RadAway, and Rad-X, this cooler contains every sort of drug that can be found in this post-apocalyptic America. Med-X, Jet, Psycho, Mentats, Buffout, the works.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 34,
+      "cost": 200,
+      "name": "Lucky Shades",
+      "source": "Fallout Series (Imaged)",
+      "description": "Are you feeling lucky, punk? Well, you should, as that's what these are for. This snazzy pair of shades not only protects your eyes from bright lights, but so long as you wear them, you will be luckier than before. Games of chance go more in your favor, you'll find slightly better loot, that sort of thing. For some reason, these shades will never fall off your face, regardless of how much you move around.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 35,
+      "cost": 200,
+      "name": "Medic",
+      "source": "Fallout Series (Imaged)",
+      "description": "Despite the Old World being wiped away in nuclear fire, or maybe because of it, those who make healing their specialty are beyond valuable. Someone such as you. Any and all healing administered by you is three times as effective, whether that be performing surgery or treating an illness or just stabbing them with a hell of a lot of stimpacks. You decide who lives and dies, so you might as well make the best of it.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 36,
+      "cost": 200,
+      "name": "Vera’s Outfit ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Say what you will, but those Old World Starlets really knew how to look good. Like Vera Keyes, whose black and red outfit you now possess. For men, it will be a classy three- piece suit. For women, it will be a beautiful dress that shows off your legs. No matter what gender, this outfit will leave you looking absolutely stunning, and increase your skills at talking to people.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 37,
+      "cost": 300,
+      "name": "Auto-Doc",
+      "source": "Fallout Series (Imaged)\n",
+      "description": "When you're injured and there isn't a doctor you can afford, this is the best thing to have. Though it may look like a high-tech coffin, the Auto-Doc is a wondrous miracle of pre-War medical technology, capable of performing even the most complex medical procedures without qualified medical personnel. This one can heal all but the most severe wounds, purge the body of radiation, and can even do cosmetic surgery to make you look like someone else completely. It also has a personality chip you can turn on and off.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 38,
+      "cost": 300,
+      "name": "Tribute Chest",
+      "source": "Fallout 4 CYOA",
+      "description": "This large trunk, decorated with various raider adornments, is perfect for storing your loot, seeming to have much more space than it actually does. Additionally, you’ll occasionally find minor items inside of it that you haven’t placed there; ammunition, canned food, maybe some interesting scraps. Occasionally, you’ll get something more substantial; maybe a weapon or a piece of armor. It’s probably just the rest of your gang trying to keep you happy… but even after you leave, things will occasionally show up.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 39,
+      "cost": 400,
+      "name": "G.E.C.K.",
+      "source": "Fallout: Mutants",
+      "description": "Few creations of mankind are as wonderful as the Garden of Eden Creation Kit, a device capable of bringing life to even the most irradiated and barren of places. Using soil and seed supplements, water purifiers, atmospheric chemical stabilizers, cold-fusion generator, and matter-energy replicators, you could bring about a paradise on earth. You can only use this once per month to affect an area roughly fifteen square miles.",
+      "chapter": "Supplies"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Supplies",
+      "__line": 40,
+      "cost": 400,
+      "name": "Upgraded Autodoc",
+      "source": "Fallout: Automatrons",
+      "description": "Though it may look like a high-tech coffin, it's a miracle of pre-War medical technology, able to perform even the most complex medical procedures without qualified medical personnel. This one can heal all but the most severe wounds, purge the body of radiation, and can even do cosmetic surgery to make you look like someone else completely. It can also implant any cybernetics you desire without fear of failure.",
+      "chapter": "Supplies"
+    }
+  ],
+  "6": [
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 1,
+      "cost": 0,
+      "name": "Children’s Area ",
+      "source": "Fallout Series (Imaged)",
+      "description": "There aren't exactly a lot of places to safely raise a child, but your base would definitely be one of them. You now have dedicated areas specifically designed for children to have fun and be entertained and educated, be it their bedrooms and a playroom, or entire buildings for larger settlements.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 2,
+      "cost": 0,
+      "name": "Dog House ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Despite its name, it doesn't have to house a dog, but rather any pet that isn't big enough to be ridden. Any animal that stays in here will be faster and stronger than before, as well as being more resistant to damage and disease. It's also filled with numerous toys and food bowls that are refilled each day and self cleans.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 3,
+      "cost": 0,
+      "name": "Exhaustive Pantry ",
+      "source": "Fallout Series (Imaged)",
+      "description": "There are two things that humans desperately need. Water, and food. Thankfully, it seems as though your base won't run out of the latter. That's right, you've got a stockpile of healthy Pre-War food ready for your consumption. This isn't just the pre-packaged stuff, but also fresh greens and red meats, as well as a large number of other ingredients.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 4,
+      "cost": 0,
+      "name": "Green Garden",
+      "source": "Fallout Series (Imaged)",
+      "description": "Though the Wasteland isn't exactly known for healthy plant growth, there's still some out there who like utilizing their green thumb. A large garden where you can plant near any vegetation, and watch it bloom within a few days. You won't find any weeds, and so long as you put in some amount of effort in taking care of them, any ingredients you harvest from here will be of higher quality than normal.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 5,
+      "cost": 0,
+      "name": "Indoor Plumbing",
+      "source": "Fallout Series (Imaged)",
+      "description": "Well hallelujah and praise Jesus, you've got working plumbing! Though it may not seem like much, this is a massive deal, seeing as now you can use actual toilets and even take hot showers. You would not believe how difficult any of these are to find out in the Wasteland.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 6,
+      "cost": 0,
+      "name": "Lights",
+      "source": "Fallout Series (Imaged)",
+      "description": "Let there be light! No longer will you be living under candle light and lanterns, but actual light bulbs and lamps. You can even set the level of light, from dim to UV light that simulates the effects of the sun, but without all that nasty sunburn. Useful if you've got any indoor plants.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 7,
+      "cost": 0,
+      "name": "Nuclear Entertainment",
+      "source": "Fallout: The Resource Wars",
+      "description": "It may be a bit morbid, but the state of this world after nuclear armageddon is quite popular, and has quite the amount of merchandise. Not only do you now own all of the Fallout games, playable on any system, but also various merchandise like jackets, mugs, and lunch boxes. But best of all are the patented Vault-Tec Bobbleheads made in the likeness of you and all your companions. You will also get a new bobblehead for each future companion you pick up.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 8,
+      "cost": 0,
+      "name": "Storage Area",
+      "source": "Fallout Series (Imaged)",
+      "description": "While wandering the Wasteland, you'll no doubt run into so many neat little toys and valuable supplies, but it can be a bit hard finding a place to store it all. No longer, as you've got areas dedicated towards nothing but storing as much loot as physically possible, which will automatically organize itself.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 9,
+      "cost": 0,
+      "name": "Terminal Access",
+      "source": "Fallout Series (Imaged)",
+      "description": "Well, it looks like you believe in PC superiority, or couldn't go without computers for very long. Either way, you've got a number of terminals scattered around your settlement, all of them connected to a single server that won't ever run into any issues. As the admin, you gain full access to all of them, even the private files and histories. Use this wisely.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 10,
+      "cost": 0,
+      "name": "Vault Suit ",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "This iconic blue-and-yellow coloured Jumpsuit is the iconic gear of Vault dwellers and by and large the symbol of Vault-Tec Corporation.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 11,
+      "cost": 0,
+      "name": "Water Purifier",
+      "source": "Fallout Series (Imaged)",
+      "description": "Clean water is hard to come by in the Wasteland, and something you never have to worry about. Your base will benefit from an unlimited amount of fresh, clean water. It's such a vital resource, so you could probably bottle some up and sell them to get a good deal of profits.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 12,
+      "cost": 100,
+      "name": "Crafting Stations ",
+      "source": "Fallout Series (Imaged)",
+      "description": "For those who are feeling particularly crafty, this purchase might just help with that creative itch. This workshop connected to your Warehouse or part of your vault is filled with all sorts of crafting stations, along with the materials needed to actually craft, which replenishes weekly. Anything created or improved here will be of a higher quality. A reloading workbench in order to create new ammunition. An armor station in order to improve any armor you have, along with its weapon variants. There's also a chemistry set equipped with everything you need to whip up some chems.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 13,
+      "cost": 100,
+      "name": "Educated ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Say what you will about the Vaults, but those that aren't death traps are often the best places to live, and an even better place to grow up in. You have received a full education by Pre-War standards, and miraculously held onto a lot of that knowledge. You've suffered through subjects like English, American and World History, science, math, and a few electives needed to serve a specific role in order to help keep the Vault running at its best. Use that knowledge wisely and you might just find yourself becoming a legend throughout the wastes.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 14,
+      "cost": 100,
+      "name": "Nuclear Reactor",
+      "source": "Fallout Series (Imaged)",
+      "description": "If you were worried about there being any power outages, then don't, because you've got this. A high-tech reactor that will never run out of energy, you could power practically anything with this, and there won't be any chances of overloading it. This probably could have solved a lot of problems Pre-War...",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 15,
+      "cost": 100,
+      "name": "Vault Merch",
+      "source": "Fallout TV Show Jump",
+      "description": "You have a collection of Vault-Boy merchandise, from posters or bobbleheads. Anytime you see Vault Boy’s smiling thumbs up, you will feel a surge of motivation for whatever is ahead of you. This boost can last for up to a full day, and stacks logarithmically maxing out at a 3x bonus. For best results, spread the merchandise around your residence, workspace, or underground bunker.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 16,
+      "cost": 100,
+      "name": "Vault-Tec Mindset",
+      "source": "Fallout Series (Imaged)",
+      "description": "Now, as good as a living place a Vault can be, it's not exactly the best at providing some of the environmental needs its inhabitants would normally require. Luckily, you grew up in one, and as such, you are completely with fine living underground and other such confined and restrictive places. You’ll never suffer from claustrophobia and neither will you ever develop the negative effects that would arise in most people due to such a lifestyle.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 17,
+      "cost": 100,
+      "name": "Vehicle Storage",
+      "source": "Fallout Series (Imaged)",
+      "description": "There aren't very many methods of travel left for the common man beyond walking and brahmin wagons, so what you do have needs to be taken care of real well. You now have a dedicated area just for this, storing and maintaining any vehicles that come into your possession.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 18,
+      "cost": 200,
+      "name": "Career",
+      "source": "Fallout TV Show Jump",
+      "description": "In a Vault, everyone must put in some work for the betterment of all, and as such you’ve been trained in some career. This could be mechanics and repair, a vital need for a Vault. This could be farming, whether in actual soil or hydroponics. It could be medicine, it could be security... what the career ultimately is is up to you, but you are trained to the level wherein you are the best within your Vault.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 19,
+      "cost": 200,
+      "name": "FEV Vats ",
+      "source": "Fallout 3 - Updated ",
+      "description": "The Capital Wasteland is plagued by the escaped experiments of Vault 87, where they were testing a variant of the Forced Evolutionary Virus. But if you want to continue those experiments, or simply give hope to a doomed people, you will find yourself in possession of five vats of the FEV. They will constantly replenish the green ooze whenever it's used, and can even be modified. Perhaps you could crack the code?",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 20,
+      "cost": 200,
+      "name": "Hobbies",
+      "source": "Fallout TV Show Jump",
+      "description": "A dedicated career is all well and good, but your hobbies can also define you. Fortunately you can select three such hobbies. While you may not be the Vault expert in these three things, you are guaranteed to be at least moderately capable. These hobbies can range from riflery to philosophical debate, and anywhere in between.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 21,
+      "cost": 200,
+      "name": "Pre-War Archives",
+      "source": "Fallout Series (Imaged)",
+      "description": "It seems that not everything was lost when the bombs fell, as this can attest to. You now find yourself with a massive archive or library filled with all sorts of Pre-War knowledge. You've got books, stories, movies, shows, even some video games. It doesn't have everything, but it's more than most could have dreamed of.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 22,
+      "cost": 200,
+      "name": "Restorative Facilities",
+      "source": "Fallout Series (Imaged)",
+      "description": "In a place as dangerous as the Wasteland, it's inevitable that someone will get hurt, so you've made the effort to prepare for such an event. You now have a dedicated area for healing and recovering from wounds and illnesses, and all the tools needed to do so. Additionally, anyone who finds themselves here will recover much faster than they otherwise should have.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 23,
+      "cost": 200,
+      "name": "Scientific Pursuits",
+      "source": "Fallout Series (Imaged)",
+      "description": "Mankind has gotten as far as it has due to its endless curiosity and desire to push boundaries, and your base exemplifies this. Your settlement is either entirely focused or has entire facilities directed towards scientific studies and experimentation. Such experiments will be much more successful, while those dedicated to unraveling the world's mysteries will find breakthroughs all the more common than before.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 24,
+      "cost": 200,
+      "name": "Super-Duper Mart",
+      "source": "Fallout: The Resource Wars",
+      "description": "The only place to go to for all your one-stop shop needs! This supermarket has all manner of products lining its various shelves, from foodstuffs like Sugar Bombs and raw beef to furniture and TVs. As the owner of this fine establishment, not only do you receive a steady stream of profits befitting a manager role, but you can also take whatever you want in the store at your leisure, all at the low low price of completely free! Thankfully, the store will replenish its wares daily.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 25,
+      "cost": 200,
+      "name": "Technological Defenses",
+      "source": "Fallout Series (Imaged)",
+      "description": "Everyone wants to feel safe and protected, and what's more safe than automated defenses? Your settlement now has a number of automated turrets and robotic sentries that utilize both ballistic and energy weaponry, only firing upon any hostiles that think causing trouble for you and yours is a good idea.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 26,
+      "cost": 200,
+      "name": "Training Area",
+      "source": "Fallout Series (Imaged)",
+      "description": "When you live in the Wasteland, you either need to hide, improve, or die. Seeing as you want to improve yourself, then this will be the perfect option for you. Any training or learning you and yours do here, be it with a gun or programming, will see impressive results at an amazing rate of growth.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 27,
+      "cost": 200,
+      "name": "VR Pods",
+      "source": "Fallout: Automatrons",
+      "description": "Such items were commonplace in the Old World, simulation devices where your wildest fantasies could come to life. You now have five of these pods, each with a number of fully tested simulations ready to be experienced. It even comes with instructions on how to make more, as well as how to properly create your own simulated realities.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 28,
+      "cost": 200,
+      "name": "Workshop",
+      "source": "Fallout Series (Imaged)",
+      "description": "For those who prefer a wrench over a book, this is the perfect option for those who like to tinker. Your settlement now has a dedicated workshop, where all technology worked on and built here will be much more effective, durable, and effective than they otherwise should be. It's got all the tools you'd need, so never wonder where the 10mm socket wrench disappeared to.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 29,
+      "cost": 300,
+      "name": "Vault o’ Bots",
+      "source": "Fallout New Vegas JumpChain",
+      "description": "Much like the Vault option but instead of people and amenities your vault contains a large army of MK-II securitrons equipped with gatling lasers and grenade launchers. Nobody can open it, activate or control the robots but you and it comes with a unique key of your design for doing so.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 30,
+      "cost": 400,
+      "name": "Movie Studio",
+      "source": "Fallout: The Resource Wars",
+      "description": "In order to be an entertainer, you’ll need something to entertain people with. You’ll never have to worry about the means, because you are now the proud owner of an entire studio dedicated towards making whatever movie you want. Not only is it manned by a number of employees, each one highly trained in their roles, but it’s got the highest quality props, sets, and editing software. Whether it's romance, action, thriller, horror, the only thing that will hold you back is marketing and writing quality.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 31,
+      "cost": 400,
+      "name": "Cryo Chamber",
+      "source": "Fallout TV Show Jump",
+      "description": "This miniature Vault is little more than a single large room and the equipment needed to maintain the systems for the main show: two dozen cryogenic freezing pods capable of containing and maintaining organic life indefinitely so long as they remain powered. The pods are overseen by a robotic brain supervisor who is utterly loyal. You can pre-program conditions to be met to be released from your pod, such as a timer or sensor readings of clean ground water. The robobrain can also access the pods, and wake you if something happens that needs your attention. Time spent in the pods do not count towards your Jump time limit. Post-Jump, the entire cryo facility can be attached to your Warehouse, or hidden somewhere in the world.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 32,
+      "cost": 400,
+      "name": "Cybernetics Clinic",
+      "source": "Fallout: Automatrons",
+      "description": "Long has mankind looked upon their flesh and have seen weakness, finding it not as durable or as long-lasting as the steel they make their weapons from. As such, it only makes sense that, as technology advances, they would attempt to fuse the two. This clinic is designed around the purpose of both the creation and implantation of cybernetic implants. From mechanical limbs to brain implants to subdermal armor, there’s even a small-scale cloning device, enough to clone a person’s limbs or brain.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 33,
+      "cost": 400,
+      "name": "Meteorological Station",
+      "source": "Fallout Series (Imaged)",
+      "description": "For too long the skies themselves have been out of reach of mankind, but no more. From this day forward, you are the master of the skies. Your base now has a facility focused on the manipulation of the weather, with its range growing ever greater the larger your base. Should it be a small house, then you'd only be able to control a few miles radius. If it's a large city, then you could control the weather of an area the size Massachusetts.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 34,
+      "cost": 400,
+      "name": "Teleportation System",
+      "source": "Fallout Series (Imaged)",
+      "description": "The Wasteland is such a big place, with wide open stretches before you'd ever run into anything interesting. But, unfortunately, sometimes you've gotta make those big trips, and there's no better way than through teleportation. That's right, your settlement has an advanced teleportation system that will allow for instant transportation between any major settlements, cities, or landmarks in the entire country and back home in time for lunch. This will not only affect you, but anyone or anything within your settlement. You can even teleport en masse, though be wary, as it might not be as accurate as you'd want it to be.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 35,
+      "cost": 400,
+      "name": "Vault-Tec Certified",
+      "source": "Fallout: The Resource Wars",
+      "description": "As a company, Vault-Tec is known for a wide variety of things, but one of the most obvious is the sheer durability and shelf life of their products, regardless of what they are. Reliability is quite the attractive quality to consumers, after all. Much like that most infamous of companies, all of your creations, whether designed or manually built, will be far more durable then should be physically possible, as well as being able to go centuries without maintenance, functioning at peak efficiency all the while.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 36,
+      "cost": 400,
+      "name": "Vault-Tec Senior Management Override Codes",
+      "source": "Fallout TV Show Jump",
+      "description": "Vault-Tec was very keen on keeping its secrets, but with these that is a thing of the past. These codes, contained on a holotape, can unlock any electronic lock set up by Vault-Tec. Get into a sealed Vault? Access restricted records? Activate a purposefully shelved technology? All of this is in your power. Were you to get these codes into a Vault’s main computer, you could effectively override any other Executive Command, including the Overseer’s, and take control of the Vault yourself.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 37,
+      "cost": 600,
+      "name": "Research Facility",
+      "source": "Fallout: Automatrons",
+      "description": "Science is a process, one that could take weeks, even years before a breakthrough is found. In order to get the best results, you need a place in order to properly conduct your experiments. This massive facility is dedicated towards research and engineering, filled with many rooms for any experiments you may perform. Any research or experiments performed within this facility will find success more often than should be normal. Your skills with science and engineering will increase at a greatly increased rate when within.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 38,
+      "cost": 600,
+      "name": "Vault",
+      "source": "Fallout 3 - Updated ",
+      "description": "One of a series of survival shelters is a type of hardened subterranean installation designed by Vault-Tec Corporation on contract with the U.S. government to protect a selected fragment of the United States population from nuclear holocaust so that America could be repopulated. You now possess your very own vault, filled with enough resources to last a thousand people over two hundred years, and being nearly impenetrable using standard equipment. Even a mini nuke would only charge the door.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 39,
+      "cost": 600,
+      "name": "Vault-Tec Database",
+      "source": "Fallout: Automatrons",
+      "description": "There are so many fantastical things to be found here that wouldn't be out of place in a midnight science fiction feature! Robots, laser weaponry, advanced medicines, deadly viruses, space age alloys, cybernetic implants, and much much more. If you can't purchase everything here, then why not make your own? This terminal contains schematics for all American technology developed up until the Great War, and all earthly technology found within the games. From the advanced discoveries of Big MT to the everyday appliances found within everyone's household, there's more than enough to make anyone giddy with what they could learn to create.",
+      "chapter": "Vaults"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Vaults",
+      "__line": 40,
+      "cost": 900,
+      "name": "Wonderful World ",
+      "source": "Fallout: The Resource Wars",
+      "description": "This is a beautiful planet, our Earth. Teeming with life of every variety, covered in so much natural splendor, is it any wonder why humanity always fights over the barest scraps it can offer? Never again, though, will you need to fight tooth and nail for land already claimed by another. You now own a perfect copy of the planet Earth in all its glory, one that is completely untouched by human hands. Being an untapped source of numerous valuable resources, which all seems to replenish themselves every ten years, you would be a fool to not take it. If you wish to develop it, however, you can selectively ignore certain areas, should you find yourself incorporating the structures of civilization.",
+      "chapter": "Vaults"
+    }
+  ],
+  "7": [
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 1,
+      "cost": 0,
+      "name": "Old World Radio ",
+      "source": "Fallout: Automatrons",
+      "description": "Just because there are long, empty stretches of Wasteland doesn't mean that it has to be silent, too. From any radio you can access this radio station, which plays music primarily from the 1930's to the 1950's. This is managed by a radio host, who is Three Dog by default, and they will comment on your actions, broadcast local news, and do a number of helpful \"Public Service Announcements\" for your current setting.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 2,
+      "cost": 0,
+      "name": "Traveling Merchant ",
+      "source": "Fallout Series (Imaged)",
+      "description": "When you find yourself running low on supplies, whether that be medicine or ammo, they will appear like a knight in shining armor. This merchant, who is Moira Brown by default, comes by with a brahman cart filled with seemingly everything you need, and what they don't have they can locate for when you next meet. They can repair any of your gear and take unwanted possessions off your hands. They'll even show up in future worlds, with the appropriate wares. Of course, you'll still need to pay for their services. Can't exactly run a charity, you know.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 3,
+      "cost": 0,
+      "name": "Man’s Best Friend ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Even if you lack any human friends, at least you'll have man's best friend by your side. This dog of any breed is friendly, well trained, and is extremely loyal to you. But it's also deadly to any enemies you may have, as they can bite through hardened leather and can survive taking a full clip from an assault rifle. They can be any breed of dog you want. They can even be a mutant dog or cyberhound.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 4,
+      "cost": 0,
+      "name": "Irradiated Beauty",
+      "source": "Fallout Series (Imaged)",
+      "description": "Beauty is a very rare thing in this ruined, bleak world. So you should consider yourself lucky, as you could be beyond the equal of any Old World movie star. In addition to your natural beauty, any scars you end up getting are sure to be aesthetically pleasing.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 5,
+      "cost": 0,
+      "name": "Crazy Lover",
+      "source": "Fallout 3 - Updated ",
+      "description": "A slave from Paradise Falls, Clover is as deadly with a blade as she is crazy. Crazy in a fight, crazy in the sack, crazy every which way but loose! But most of all, she's crazy in love with whoever's holding her leash. As her new owner, she would devote her everything to you, even at the cost of her own life.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 6,
+      "cost": 100,
+      "name": "The Storyteller",
+      "source": "Fallout Series (Imaged)",
+      "description": "Across the Wasteland, there are tales of an armored figure with a love of history and traveling with a special Eyebot. This Storyteller has come to befriend you and relishes the chance to visit future worlds. He always seems to know the local history to a great degree, even in future worlds, and is always willing to give you a history lesson.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 7,
+      "cost": 100,
+      "name": "Thief",
+      "source": "Fallout Series (Imaged)",
+      "description": "So many people, so many pockets, so many shinies. Whether you figured it out on its own or was taught it, you are quite the skilled pickpocket. Whether it's a sack of caps or a sidearm, you're confident you can take it so long as you're sneaky enough.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 8,
+      "cost": 100,
+      "name": "Friend of the Night",
+      "source": "Fallout Series (Imaged)",
+      "description": "Many look at the night in fear of what it could be hiding underneath its blanket of shadows, but not you. You have perfect night vision, able to see in the darkest environments as if they were decently lit. This also protects you against sudden changes in light, so no need to worry about any flash bangs!",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 9,
+      "cost": 100,
+      "name": "Cap Collector",
+      "source": "Fallout Series (Imaged)",
+      "description": "There was once an Old World expression. Money makes the world go around. While you aren't exactly sure if that's truly the case, money certainly does make things easier. You seem to gain more currency than you otherwise would have, be it in a trade deal or in someone's locked safe.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 10,
+      "cost": 100,
+      "name": "Scrapper",
+      "source": "Fallout Series (Imaged)",
+      "description": "There’s not a lot of new things being manufactured nowadays, so it's up to people like you to fix that as best you can. You can quickly and easily strip and tear apart practically anything into their base components. Doesn't matter if it's a sentry bot from a military base or a ramshackle shack out in the middle of nowhere, you are sure to find something valuable. Now it's just a matter of finding a use for them.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 11,
+      "cost": 100,
+      "name": "Future Generations",
+      "source": "Fallout Series (Imaged)",
+      "description": "Humanity has lasted this long partly because when given no societal inhibitions, they just cannot keep it in their pants. But the little squirts that come around because of this need someone to help raise them and show them the right way to live. Thankfully, you’re the most qualified person around, being a great parent figure that can raise any child to being an emotionally healthy adult, regardless of the environment they were raised in.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 12,
+      "cost": 100,
+      "name": "Entomologist ",
+      "source": "Fallout Series (Imaged)",
+      "description": "It is a serious crime against humanity that bugs have grown to be as large as they are. They were bad enough then they were smaller than your pinky nail, but now that some of them are bigger than cars? No thank you! How lucky we are to have you, then. You deal three times more damage to all arthropods, no matter how big or small.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 13,
+      "cost": 100,
+      "name": "Begin Again ",
+      "source": "Fallout Series (Imaged)",
+      "description": "The past can be a dangerous thing, as it can hold us back from what we might be able to do in the future. Past regrets have no hold over you, nor do any other negative feelings, as you can shed them off and look to the future with the hope that everything will be just fine. Past flames won't stop you from finding new love, and harmful obsessions can be cast to the side where they have no hold over you. Let go and begin again.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 14,
+      "cost": 100,
+      "name": "Scoundrel",
+      "source": "Fallout 3 - Updated ",
+      "description": "You may not have been the most well behaved kid growing up, but the skills you've learned are certain to be useful. You're pretty stealthy, and you're a good pickpocket. You could probably sneak a live grenade onto someone and they wouldn't realize until it was too late.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 15,
+      "cost": 100,
+      "name": "Rad Resistance ",
+      "source": "Fallout 3 - Updated ",
+      "description": "Radiation is an insidious enemy, as its invisible fires mutate and twist as much as it does kill. You should consider yourself lucky, as you are now fifty percent resistant to the effects of radiation, and can flush it out of your system more easily than before.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 16,
+      "cost": 200,
+      "name": "Hot Rod",
+      "source": "Fallout: Automatrons",
+      "description": "As mankind advanced, so did their modes of transportations. From horses to planes, there were few as widespread before the bombs fell as cars, and no car was as reliable as the Highwayman. You now own your very own Chryslus Highwayman, a nine seater sports car that’s been fully upgraded with expanded storage space and grav plates that greatly increase the speed. Yours will never need refueling.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 17,
+      "cost": 200,
+      "name": "Toughness",
+      "source": "Fallout Series (Imaged)",
+      "description": "Okay, there's tough, there's military tough, and then there's you. Your skin is as durable as armor made from toughened leather, so while it might not stop most high caliber bullets, it's a lot better than nothing. Your organs are similarly resilient, as it would take much more physical trauma than normal before they start getting damaged. In addition to all of this, any bruises you may receive fade away much faster than normal, but we've already acknowledged that you aren't.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 18,
+      "cost": 200,
+      "name": "Iron Fist ",
+      "source": "Fallout Series (Imaged)",
+      "description": "It takes a brave man to go charging into a gun fight with just his fists. Not a smart man, mind you, but a brave one nonetheless. But if you're going to do it, then you might as do it right. Your fists are now harder than steel, which is definitely useful for bashing in someone's face. In fact, anytime you fight unarmed, be it barehanded or with a power fist, you seem to dish out more damage than anyone was expecting.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 19,
+      "cost": 200,
+      "name": "Locksmith ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Picking a lock might be a useful skill, sure, but it can get pretty hard when you don't have the correct tools or skills. Well, you don't have to worry about that anymore, as when you encounter a locked anything but don't have the key to it, you can just pull out a bobby pin and screwdriver in order to play a little mini game in order to get it open! You need to attempt to find the correct position for the pin, which is checked by turning the screwdriver as if it were a key. The further the screwdriver turns the lock, the closer the pin is to the correct position. Once the screwdriver can turn the lock a full 90 degrees, the lock will open!",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 20,
+      "cost": 200,
+      "name": "Light Step ",
+      "source": "Fallout Series (Imaged)",
+      "description": "People often leave traps lying about in order to catch those who think themselves undetectable, as stealth is meaningless in the face of a land mine. Well, not for you, anyway. You never set off any floor traps, be they mines, bear traps, pressure plates, or anything else like that.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 21,
+      "cost": 200,
+      "name": "Kama Sutra Master",
+      "source": "Fallout Series (Imaged)",
+      "description": "There are few things as physically pleasurable as sex, especially when you know what you're doing. You are a master of the art, able to perform in bed so well that you will leave even the most depraved and experienced hedonists satisfied. Oh, and you deal an extra 10% of damage to those that find you sexually attractive, but who cares about that?",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 22,
+      "cost": 200,
+      "name": "Child at Heart ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Dealing with children can be refreshingly simple at times, at least when compared to adults. You find it easy to get along with children, no matter their background. They get the sense that you're a trustworthy and fun person to be around, so I hope you don't take advantage of that.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 23,
+      "cost": 200,
+      "name": "HUD",
+      "source": "Fallout Series (Imaged)",
+      "description": "There are so many things happening during a fight that it's hard for most to keep track of most of it. This should mitigate that somewhat, as you now have an HUD that accurately lets you know how injured you are, and if you are currently afflicted by something, such as through poison or gear. While it doesn't take up much space in your vision, it can be turned off at will, should you wish it.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 24,
+      "cost": 200,
+      "name": "Friendly Foe",
+      "source": "Fallout Series (Imaged)",
+      "description": "For someone fresh from the relatively safe Vaults, combat in the Wasteland can be a messy, confusing, and chaotic affair, and more than once have allies hurt one another by accident. Not you, though, as you cannot directly harm your Companions or allies, regardless of what abilities or weapons you use.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 25,
+      "cost": 200,
+      "name": "Compass",
+      "source": "Fallout Series (Imaged)",
+      "description": "The Wasteland can be a big, empty place at times, and it's easy to get lost within such a barren world. From endless desserts to claustrophobic cities of iron and steel, it would be handy if you had a way of navigating. That is no longer your problem, as you now have a compass in your vision that not only tells you what direction you're facing, but any notable locations or landmarks, whether they were visited or not, and shows how many enemies are in the direction you are facing. This can be toggled on and off.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 26,
+      "cost": 200,
+      "name": "Mental Block ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Though the actual population of psykers is small, it is not zero, and as such your mind could one day be targeted. Should you want some level of mental protection, then you shall benefit greatly from this. Your mind is protected, unassailable through any means, be it through supernatural or technological means.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 27,
+      "cost": 200,
+      "name": "Steam Boat",
+      "source": "Fallout 3 - Updated ",
+      "description": "Though she ain't as pretty as she used to be, there's little better to help you travel across the waves. This steam boat can easily go from DC to New York without any stops, with enough space to hold twenty people plus cargo comfortably. You won't even need to worry about taking care of her engine, seeing as it won't need any fuel to keep her paddles going.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 28,
+      "cost": 200,
+      "name": "Pyromaniac",
+      "source": "Fallout 3 - Updated ",
+      "description": "Fire is such a fun tool, one that pushed mankind progress forward at such a rapid rate that we ended up burning ourselves. Should you have a healthy respect for such a primal force, then this is the option for you. All of your fire based effects, be it weapons or abilities, will find themselves twice as powerful as before.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 29,
+      "cost": 200,
+      "name": "Rope Tricks",
+      "source": "Fallout TV Show",
+      "description": "Are you a cowboy reborn into the wasteland? You have a skill with lassos and their ilk that borders on the supernatural. And the term ‘lasso’ can be extended rather heavily. Roping cattle maybe what you trained for, but you find people, even those in power armor, to be equally susceptible to your abilities.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 30,
+      "cost": 400,
+      "name": "Adamantium Skeleton",
+      "source": "Fallout Series (Imaged)",
+      "description": "Your bones are a very important part of your body, acting as a support system and protecting many of your squishier organs. As such, it only makes sense that you'd want your bones to be as durable as possible, right? While your bones won't be as strong and enduring as that mythical metal, they might as well be made of a gold-titanium alloy for how tough they are. Good luck trying to break those and pray for anyone you decide to headbutt.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 31,
+      "cost": 400,
+      "name": "Night Person",
+      "source": "Fallout Series (Imaged)",
+      "description": "For those who make stealth and subterfuge their career, you will find no better ally than the night itself. After all, what better to have on your side than the largest shadow possible? When the sun sets, you will find yourself more agile and flexible than before. You will also find your mental faculties clearer during this time, even while under the influence of narcotics, letting you react better to unexpected complications when stealth fails.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 32,
+      "cost": 400,
+      "name": "Inspirational",
+      "source": "Fallout Series (Imaged)",
+      "description": "It may take a decent man to train his forces, but it takes a great man to motivate them, to stoke the fire within their beating hearts. Your presence on the battlefield is invigorating to your companions and allies alike, allowing them to better deal and resist damage. You've also got a knack for writing moving and thought-provoking speeches, capable of enchanting even entire nations with your words alone.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 33,
+      "cost": 400,
+      "name": "Animal Friend",
+      "source": "Fallout Series (Imaged)",
+      "description": "What can be said about animals that has not already been said before? That they're cute, loyal, dangerous, and much easier to deal with than actual people. Your innate empathy with animals lets you easily befriend and train any animal you run across. Wild animals will never fight you, and they shall even come to your aid in battle if they get to you fast enough. Remind people that there are consequences to pissing off Mother Nature.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 34,
+      "cost": 400,
+      "name": "V.A.T.S.",
+      "source": "Fallout Series (Imaged)",
+      "description": "Aiming can be a tough thing at times, especially during the heat of combat. So if you want a little assistance in those stressful moments, the Vault-Tec Assisted Targeting System is there for you, allowing you to slow down how you perceive time in order to line up deathly accurate shots. There is a short recharging period after using this ability a few times in a row, but that shouldn't be a problem.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 35,
+      "cost": 400,
+      "name": "Nerves of Steel ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Why is it that the hero of the Wastes often ends up being some kid who crawled out of the Vault, inexperienced and naive to all of its difficulties and horrors? Perhaps those Vaults were nurturing something within them, something that allowed them to face the Wasteland and not break. You must have been one of those few, incapable of hesitating or wavering, both in character and in your aim. As an added bonus, you have a superb poker face, making you almost unreadable.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 36,
+      "cost": 400,
+      "name": "Teamwork ",
+      "source": "Fallout Series (Imaged)",
+      "description": "The greatest advantage that humanity ever had, even from their origins in the Stone Age, was their ability to work together with each other, something you have recognized and learned to exemplify. When you work together with a team, you truly bring out the best in them all. The team synergy that you bring out is amazing, emphasizing each individual's strengths while covering for their weaknesses. If only the governments of the Old World had learned to work together.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 37,
+      "cost": 500,
+      "name": "Sniper",
+      "source": "Fallout Series (Imaged)",
+      "description": "Professionals have standards. Be efficient, be polite, and have a plan to kill everyone you meet. While you might not abide by those standards, you are certainly one of the best snipers around. When attacking from long range, all damage you deal is five times more effective, but that's not the best part. Oh no, you see, any projectiles you fire no longer have an arc to them, more are they affected by things like wind or the like. This means that when you fire a gun, the only way it's stopping is if it hits something, preferably your enemies.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 38,
+      "cost": 500,
+      "name": "Slayer",
+      "source": "Fallout Series (Imaged)",
+      "description": "What is best in life? For you, it is to crush your enemies, to see them driven before you, and to hear the lamentations of their women. You are an absolute monster in close range, dealing five times the damage you otherwise would have while close enough to see the whites of their eyes. Additionally, you will always instinctively know the most vulnerable places to hit your target, making good use of your extra damage.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 39,
+      "cost": 500,
+      "name": "Local Leader ",
+      "source": "Fallout Series (Imaged)",
+      "description": "If civilization has any hope of rising from the ashes, then it will need people willing to step up and take charge. People like you. You are a very charismatic person, and find it easier to convince large crowds than singular individuals. But charisma is only part of the role. You can accurately tell what those under you need to help survive and thrive, as well as a general overview of what they want that isn't necessary. This can range from simply needing more water available, or wanting their borders patrolled by machines rather than people.",
+      "chapter": "Wastelanders"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Wastelanders",
+      "__line": 40,
+      "cost": 600,
+      "name": "Fancy Tower",
+      "source": "Fallout 3 - Updated ",
+      "description": "Much of the Capital Wasteland is so... dirty. You cannot, in good conscience, allow yourself to continue living in such an environment. And now you don't have to, as this refurbished Pre-War hotel on par with Tenpenny Tower is perfect for a Jumper like you. Clean water, great food, actual plumbing and water heating, and enough space to house hundreds of people comfortably. The penthouse is all yours, and is the peak of Old World Luxury.",
+      "chapter": "Wastelanders"
+    }
+  ]
+}

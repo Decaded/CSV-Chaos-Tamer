@@ -1,0 +1,210 @@
+0,Perk Name,Cost,Description
+1,Builder's Might,1000 CP,"You have access to powers inspired by a player character from the Minecraft game. You have an inventory, can craft and gather resources with incredible speed and efficiency, and are capable of imbuing built structures with the ability to defy gravity (until they are disturbed too much). You also have enhanced physical capabilities and faster healing without scars, at the cost of increased hunger while healing or performing above human limitations. You can even respawn after death once every 24 hours in your last place of sleep, if its still intact, accessible and your soul is intact."
+2,Crating Book,100 CP,"You have access to a mental compendium containing blueprints for all craftable items from the Minecraft game. It doesn't grant you skill or knowledge of the intricate inner workings of what you build, nor does it include variations of the same blueprint - just a list of specific items you know how to craft. It provides step-by-step instructions, images, and parameters to keep in mind. It doesn't give you skill or ability to use your creations, nor does it grant access to brewing, enchanting, or other supernatural capabilities. You know the specific recipes, but you lack magic and skill."
+3,Vanilla Brewing,200 CP,"This perk gives you the ability to use magic for Minecraft-style brewing, along with talent in this craft and scholarly intuition - covering the general theory behind the process and how to actually apply potions in correct or unusual ways. It doesn't provide you with specific recipes but allows you to explore, test brews, and tweak existing blueprints in your possession beyond what the original game lets players do. You need this to use brewing stand effectively."
+4,Vanilla  Enchanting ,300 CP,"This perk gives you the ability to use magic for Minecraft-style enchantment art, along with talent in this craft and scholarly intuition - covering the general theory behind the process and how to actually apply enchanted items in correct or unusual ways. It doesn't provide you with specific recipes but allows you to explore, test, and apply enchantments to different items, and to tweak existing blueprints in your possession beyond what the original game permits. You need this perk to use the enchanting table effectively."
+5,Jack of Basic Trades,50 CP,"You have basic skills and knowledge in many areas: farming, animal rearing, riding, mining, map-making, fishing, etc. Whatever the player can do in the game, you can also do on a basic level. For example, it won't be too hard for you to chop down a tree, build a simple hut, or hunt down some wild animals. However, you are still an amateur in all these areas. Still better than having nothing."
+6,Villager Trades ,100 CP,"You gain an average level of skill in haggling and primitive commerce. Additionally, when you roll this perk, you gain average skill and knowledge in any one villager profession of your choice. You can pay an additional 100 CP or wait for this perk being rolled again to acquire more areas of expertise until you have them all. The list of villager professions includes: Armorer, Butcher, Cartographer, Cleric, Farmer, Fisherman, Fletcher, Leatherworker, Librarian, Mason, Shepherd, Toolsmith, and Weaponsmith."
+7,Structural Know-how,150 CP,You are a skillful architect and builder. You have expertise in building all Minecraft structures that generate naturally in the game and have blueprints of them. You can use your skills to design your own projects and bring them into reality as a professional builder. 
+8,Gate Making,600 CP,"You have the skills, theoretical knowledge, and actual capability to build functional portals into the Nether and the End, even if the world you are currently in cannot usually access these dimensions. However, you cannot build any custom variations of portals."
+9,Technically Infinite Dimensions,600 CP,"This perk gives you the ability to modify existing Nether portals to access variety of random dimensions from the April Fools Minecraft snapshot 20w14∞. You don't know what awaits you on the other side before checking things out. It can be good, it can be bad, but mostly weird, random, and chaotic. The beauty of wild magic!"
+10,Vanilla Golems,250 CP,"You have a supernatural ability, theoretical background knowledge and actual skill at building golems. Although, you only have blueprints for types present in the game. They listen to your orders and are generally aligned with you, although they are not very smart beyond their primary function and can be tricked easily. If they don't have any orders - they just follow their basic innate programming or become idle."
+11,Dungeon Armory,200 CP,"You have access to a mental compendium containing blueprints to create all craftable weapons and armor from the Minecraft Dungeons game. You also have a basic degree of skill to actually use your creations. Although, it might be problematic to craft/use some stuff without access to specific magics."
+12,Dunegon Artefacts ,400 CP,"You have the ability to craft and use all artifacts and consumables from the Minecraft Dungeons game. It provides knowledge about the usage and functions of each artifact/consumable, but not actual blueprints or theories. This is mostly tinker-bullshit."
+13,Dungeon Enchanting,200 CP,"This perk gives you the ability to use magic to do Minecraft Dungeons-style enchanting. It provides a few specific recipes, some basic theory, and expertise in the field. It works much better with the Vanilla Enchanting perk present but functions somewhat without it."
+14,What Are We Looking At,100 CP,"This thinker power gives you some basic information about the things you directly look at. It mainly provides details such as health, name, type of the item, the level of tools needed to harvest it effectively, and so on. These are some short and useful pieces of information to know, but nothing deep."
+15,Just Enough Items,400 CP,"This thinker power gives you the ability to obtain a mental blueprint to craft whatever object you are holding in your hands or currently exploring. It provides the simplest, most straightforward version of the blueprint first and uses your other perks and knowledge to provide it More complex items will require more time to obtain blueprints, or the power might not be able to give you a recipe if it’s unfeasible to create the item with the abilities you currently have. Creating a working instance of the object using the obtained blueprints can result in some new variations of the original blueprint, especially if you're lucky or if the power learns something important in the process. This is great for reverse engineering."
+16,Waystones,250 CP,"This perk adds the ability to craft and enchant waystone pillars (and all accessories to use them) that you can return to once they've been activated. Either through a Warp Scroll, a rechargeable Warp Stone, or by using an existing waystone to hop from one to the other. You have the necessary skills and abilities to create things, but do not actually know how they work."
+17,Extensive Automated Mapping,300 CP,"You have an ability, which is an amalgamation of functions from several minimap mods such as Xaero's Minimap or JourneyMap. This mental power gives you a customizable map that automatically updates, detects and categorizes creatures around you, and provides information like the time and other details. You can even create waypoints, but you don't have access to any fast travel functions."
+18,Create,350 CP,"You have access to all blueprints, expertise, and skills to create and use devices from the Create mod for Minecraft and several famous addons for it. It's mostly about mechanical devices, factories, and some tinker-bullshit stuff here and there. Addons on the list include: Steam 'n' Rails; Crafts & Additions; Big Cannons; New Age; Enchantment Industry; Utilities; etc. It takes more time and effort to explore addons to the original: further from the main theme - the harder and more vague things become."
+19,Thermal Expansion,500 CP,"This perk gives you access to all blueprints, expertise, and skills to create and operate machines from the Thermal Expansion Minecraft mod. It includes all main modules of this mod: Foundation; Cultivation; Dynamics; Innovation; Integration; Locomotion. It also includes various famous addons to the mod, but exploring these directions is more difficult, takes more time, and can be rather tedious. As you go further from the main theme of the mod and towards the addons, the tasks become harder and more vague."
+20,Applied Refined Storage,600 CP,"You have access to all blueprints, a theoretical base, and the skills to create and utilize concepts from Applied Energistics and Refined Storage mods and thier various addons. Conversion of matter and energy into digital form for storage, transportation, retrieval, and even processing - these are main themes of the mod. However, as you go further from the main theme of the mod and towards the addons, things become harder and more vague to understand and create reliably."
+21,Mekanism,400 CP,"You have access to blueprints of all craftable items, a theoretical base, and basic skills necessary to create machines and devices from the Mekanism mod and its various popular add-ons. This perk includes the contents of all Mekanism mod modules: Additions, Generators, and Tools. However, as you move further from the main theme of the mod and toward the add-ons, things become more complex and less straightforward to understand and create reliably."
+22,Immersive Engineering,250 CP,"You have access to blueprints of all craftable items, expertise to create and operate machines and devices from the Immersive Engineering mod and its various popular addons. It also provides you with an equivalent of a high-end professional education in the area of engineering by 20th-century standards. Addons are more vague, the further away they are from original mod."
+23,Botania,400 CP,"You gain access to magical abilities required to create items and structures from the Botania mod. You also gain basic theoretical background, starting blueprints, and the ability to explore more content of this mod through acts of creation, experimentation, and research. Progression and content also include some addons to the mod, but the further you go from the original theme, the more vague and tedious things become."
+24,Tinker's Construct,200 CP,"You gain the needed knowledge, blueprints of craftable items, skills, and abilities to produce items and machines from Tinker's Construct mod and its various addons and extensions. This power is partly magical, allowing you to bring out unique and exotic functionalities from even seemingly mundane materials. It's even possible for you to discover some new properties and combinations of materials that are not included in the original mod and its various addons."
+25,Doing Cool Stuff With Pressurised Air,150 CP,You gain access to blueprints for craftable items from the PneumaticCraft mod and significant talent in pneumatic technology overall. It doesn't include much actual practical skill but does provide education on pneumatic systems and their applied uses.
+26,Charging Gadgets,50 CP,"This is a very simple mod that adds a single block - the charging station. It is basically a full Tinkertech device, capable of recharging almost any other item from Minecraft mods, and it can even be tweaked/modified to charge other unrelated items. You don't know how it works, but you are sure it shouldn't work so well with such a simple design. On the other hand, it's an easy solution for recharging whatever devices you might have on hand. Maybe researching the thing in depth might help you to figure some little things out..."
+27,Extreme Reactors,250 CP,"This perk lets you build giant reactors (small by real reactor's standarts) to harness the power of the atom and mighty turbines to turn steam into energy. It mainly includes blueprints, a deep understanding with extensive expertise in maintenance and proper usage of this kind of technology (mostly specifically these reactors), and some required background theoretical information."
+28,Mystical Agriculture,400 CP,You gain a supernatural ability to craft and grow magical plants to produce resources from the Mystical Agriculture mod. It mainly includes items from Minecraft and various mods for the game. You have a great talent for gardening and intuition for magical flora.
+29,Vein Mining,300 CP,"This striker power is inspired by various mods, which allow players to mine extensive quantities of material at once. You can start chopping down a tree, activate this ability, and the whole tree will be disassembled into the needed materials much quicky by propagating effect. However, you require specific tools for each type of material/structure. It also makes you hungrier faster, and tools will break and proportionally use more energy/fuel to achieve efficient excavation for bigger quantites of material. Complex structures made from many different materials cannot be reliably broken down with vein mining and there is size limitations for each excavation. If you have a personal inventory, mined resources will go there. If not, they will be neatly piled nearby."
+30,The Aether,600 CP,"This perk gives you the ability to build a working Aether portal into the dimension of the same name, even if it shouldn't work in your current world. This dimension is inspired by various versions of the Aether mod for Minecraft. You gain basic knowledge about things on the other side, some information about materials and structures of interest, and great adaptability to high altitudes. You require to have glowstone or some really close-enough material to build this portal."
+31,Better Dimensions ,400 CP,"If you can build portals into the Nether and the End, you now can modify them to lead into their modded versions instead. You can mix and match different combinations of mods, such as Better Nether, to extensively modify each portal and the world on the other side. However, there is only one version of a dimension for each modified portal decided by the moment you firstly created specific variation of the gates. It takes time and resources to modify a portal, and you should be able to build vanilla Minecraft portals in the first place for this ability to work. Additionally, you have extensive and in-depth knowledge about all things from different mods to change the Nether and the End. You know materials, structures, creatures, flora, dangers, and useful tricks."
+32,Spartan Weaponry,100 CP,"This is an extension of blueprints for weapons, tools, and other items from vanilla Minecraft. You have enough knowledge and skills to craft items from the Spartan Weaponry and Spartan Shields mods. You also have the equivalent of extensive training to use each weapon from the mod with an above-average degree of finesse, along with great talent to easily advance these skills toward mastery."
+33,Draconic Evolution,800 CP,"This perk gives you knowledge, blueprints of craftable items, and skills to create and utilize things from the Draconic Evolution mod. It includes many high-tier items and is quite resource-intensive. It's more of a magitech creation capability. Don't accidentally explode yourself and your neighbors."
+34,Dis-Enchanting,100 CP,This perk gives you the ability to create and operate devices or machines for dis-enchanting work. You now have a way to recover enchantments from enchanted objects or books. It is mostly inspired by the mod of the same name as the perk. This works best for Minecraft-style and closely related types of enchanting. It is basically useless for other situations.
+35,Ore Generation,400(200) CP,"Congratulations! After acquiring this perk, you can force Minecraft-style ore generation into any landscape you target once. Within a radius of one thousand chunks (around 1,600 meters) around you, different ores from vanilla Minecraft will appear underground - ranging from coal and iron to amethyst geodes and redstone. All ores have unique properties inspired by their source game. You can hold this effect activation for as long as you want, until you find a place you like to target and use it. This perk can be rolled multiple times stockpiling activations in storage. Each additional roll after the first buy will be discounted to 200 CP."
+36,Cheap Storage Solutions,250 CP,"You have the ability to create chests, drawers, and other vessels to store an impossible quantity of items. Some of these are good at storing only objects of a specific type, while others can be filled with anything (which can lead to sorting problems). It includes some tools to assist with sorting and devices inspired by mods like Storage Drawers, Sophisticated Backpacks and Iron Chests allowing you to experiment with many functions. However, this perk is essentially tinkertech on maximum settings. Maybe later, you'll be able to create actual 'bigger on the inside' boxes without fiat reality warping enforcing things to just work."
+37,Tempad,300 CP,"This perk gives you access to blueprints for craftable items from the Tempad mod, along with specks of basic theory and skills to actually use all the devices provided by this perk. It is mainly about creating portals and instantly traveling within the world."
+38,EvilCraft,350 CP,"This perk gives you supernatural capabilities, basic knowledge, and starting blueprints to explore and utilize content inspired by the EvilCraft mod for Minecraft. You gain one Dark Gem from this perk for free, know how to use it in a ritual to obtain a special book. "
+39,Oritech,300 CP,"You gain access to blueprints for craftable items, methodologies, and levels of scientific knowledge to create, maintain, and use devices from the Oritech mod for Minecraft."
+40,Modular Force Field Systems,150 CP,"This perk gives you blueprints and skills to create, use, and maintain a variety of devices from the Modular Force Field Systems mod for Minecraft. It can be built relatively cheaply if you really go full tinkertech. However, you have almost no knowledge about how these forcefields function on fundamental level."
+41,Thaumcraft,500 CP,This perk gives you the ability to use Thaumcraft-style magic and conduct unusually fast and efficient research into the contents of this mod. The contents include various versions of the mod and famous addons for it as well. You can awaken ability to use magic in other people with this perk and some ingenuity.
+42,Ender IO,500 CP,"This perk gives you access to blueprints of all craftable items from the Ender IO Minecraft mod, as well as general theory and basic skills to utilize devices from this mod."
+43,Mining Gadgets,100 CP,"""Sometimes you want a quick change of pace when it comes to mining. Pickaxes. Drills. Bores. Robots. Quarries. These are all great options. Now you can use lasers too if you want."" You have blueprints to craft such tools and great skill in using them in practice. You can easily go full tinkertech with this perk."
+44,Iron Jetpacks,100 CP,"You can build and expertly use devices from the Iron Jetpacks mod. They are full-blown tinkertech machines, mostly without any actual theory or reasonable explanation of how they work."
+45,Tetra,100 CP,"You gain access to all the necessary skills and knowledge to modify tools and weapons in the style of the Tetra mod. This can even be applied to things beyond the scope of this mod, if you are creative."
+46,Biomancy,200 CP,"You have access to blueprints, knowledge, and the necessary magical ability to make devices and machines from the Biomancy mod."
+47,Industrial Craft,400 CP,"You have access to blueprints, knowledge, and basic skills to create machines and devices from the Industrial Craft mod, its different versions, and addons. The more you stray from the original mod's theme and into addons, the harder it becomes to make sense of things."
+48,,,
+49,,,
+50,,,
+51,,,
+52,,,
+53,,,
+54,,,
+55,,,
+56,,,
+57,,,
+58,,,
+59,,,
+60,,,
+61,,,
+62,,,
+63,,,
+64,,,
+65,,,
+66,,,
+67,,,
+68,,,
+69,,,
+70,,,
+71,,,
+72,,,
+73,,,
+74,,,
+75,,,
+76,,,
+77,,,
+78,,,
+79,,,
+80,,,
+81,,,
+82,,,
+83,,,
+84,,,
+85,,,
+86,,,
+87,,,
+88,,,
+89,,,
+90,,,
+91,,,
+92,,,
+93,,,
+94,,,
+95,,,
+96,,,
+97,,,
+98,,,
+99,,,
+100,,,
+101,,,
+102,,,
+103,,,
+104,,,
+105,,,
+106,,,
+107,,,
+108,,,
+109,,,
+110,,,
+111,,,
+112,,,
+113,,,
+114,,,
+115,,,
+116,,,
+117,,,
+118,,,
+119,,,
+120,,,
+121,,,
+122,,,
+123,,,
+124,,,
+125,,,
+126,,,
+127,,,
+128,,,
+129,,,
+130,,,
+131,,,
+132,,,
+133,,,
+134,,,
+135,,,
+136,,,
+137,,,
+138,,,
+139,,,
+140,,,
+141,,,
+142,,,
+143,,,
+144,,,
+145,,,
+146,,,
+147,,,
+148,,,
+149,,,
+150,,,
+151,,,
+152,,,
+153,,,
+154,,,
+155,,,
+156,,,
+157,,,
+158,,,
+159,,,
+160,,,
+161,,,
+162,,,
+163,,,
+164,,,
+165,,,
+166,,,
+167,,,
+168,,,
+169,,,
+170,,,
+171,,,
+172,,,
+173,,,
+174,,,
+175,,,
+176,,,
+177,,,
+178,,,
+179,,,
+180,,,
+181,,,
+182,,,
+183,,,
+184,,,
+185,,,
+186,,,
+187,,,
+188,,,
+189,,,
+190,,,
+191,,,
+192,,,
+193,,,
+194,,,
+195,,,
+196,,,
+197,,,
+198,,,
+199,,,
+200,,,
+201,,,
+202,,,
+203,,,
+204,,,
+205,,,
+206,,,
+207,,,
+208,,,
+209,,,

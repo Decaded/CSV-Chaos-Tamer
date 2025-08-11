@@ -1,0 +1,1432 @@
+{
+  "1": [
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 1,
+      "cost": 400,
+      "name": "Power Armor",
+      "source": "Age of Ultron",
+      "description": "You are in possession of armor with similar capabilities as Mark XLIII Iron Man Armor, although you can change the physical design as you see fit. You also possess schematics to make more, and an arc reactor to power the suit.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 2,
+      "cost": 100,
+      "name": "Custom Armor ",
+      "source": "Mass Effect: Andromeda",
+      "description": "This is your custom hardsuit, and you brought it with you from home (whether that be Milky Way or Andromeda). You may pick any armour that is in the Mass Effect universe. If you would rather pick a set of custom pieces instead of a single suit, go right ahead. You may want to make sure it will complement your preferred combat style. As a bonus, you will also get blueprints for your armour so you can make additional copies.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 3,
+      "cost": 200,
+      "name": "Mandalorian Armor",
+      "source": "The Force Unleashed",
+      "description": "No hunter is ready without a suit of armour to protect them, and you have something special indeed. A full suit of Mandalorian armour equipped with a heads-up display, jetpack, wrist weapons, etc, but best of all it’s made of Beskar Iron a virtually indestructible metal. While in the armor neither blaster bolts nor lightsabers will be able to harm you and it’ll take a great deal of firepower to pierce it. Of course, don’t get cocky: enough blunt force and the energy will kill you even if the armour remains inact Beyond that, you may customize the armor however you like",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 4,
+      "cost": 200,
+      "name": "Body Armor",
+      "source": "Star Trek - Enterprise",
+      "description": "You have MACO body armor that will let you survive a hit from a phaser-equivalent weapon set to kill, though you’ll likely still be out of the fight, and ignore the stun setting. It is also stab-resistant.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 5,
+      "cost": 300,
+      "name": "Kull Armor",
+      "source": "Stargate: SG1",
+      "description": "Become a black-clad juggernaut! Two layers of armor, practically bulletproof, and able to resist most energy weapons, this suit makes everyone realize who's the boss. As a plus it even comes with two energy repeater blasters that are slightly weaker than staff weapons, but able to fire much more rapidly. Be wary though, as kinetic force can still affect you and if fired at a high enough pressure, your suit can still be pierced...",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 6,
+      "cost": 400,
+      "name": "Personal Force-Field Device",
+      "source": "Stargate Atlantis",
+      "description": "A gem-like device that produces a personal force field and inertial dampening effect while still allowing filtered air to pass through it. You could be stabbed, shot, blasted, zatted, or thrown off a tall building – none of it would harm you – but it’s basically like walking around in a full-body oven mitt. It doesn't have an air supply so you can still suffocate without compatible air around you, and there’s a trick you have to figure out to eat or drink. The mental trigger that activates it locks it to your biometrics. However, if the shield is left on for too long, absorbs too much damage, or sustains repeated strikes, it will expend its power source and deactivate, unable to be reused until fully charged again.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 7,
+      "cost": 50,
+      "name": "Jetpack",
+      "source": "Destroy All Humans",
+      "description": "Unfolds from a very slim backpack into two powerful energy jets, which can lift a fully grown human 5 stories into the air. While it only has a few moments of use before it overheats and runs out of energy, it cools and recharges very quickly.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 8,
+      "cost": 100,
+      "name": "Personal Shield",
+      "source": "Destroy All Humans",
+      "description": "A small smartphone sized device that when activated surrounds the user with an energy shield that absorbs an impressive amount of kinetic and energy damage. If it absorbs too much it will collapse, leaving the user vulnerable, but after 15 seconds it will regenerate.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 9,
+      "cost": 100,
+      "name": "Super Environmental Suit ",
+      "source": "Orville",
+      "description": "A suit that protects the user from hazardous environmental effects such as extreme gravity, toxic atmosphere and scorching temperatures. Useful for anyone who wishes to explore or travel to hostile worlds. Furthermore, it will return to you if lost or destroyed in one hour, and you have blueprints to create more.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 10,
+      "cost": 50,
+      "name": "Stealth Suit",
+      "source": "Star Trek - Lower Decks",
+      "description": "A full-body outfit, including a face mask, which was able to mask body heat in order to avoid sensor detection. Colored black, the stealth suit allows the wearer to go largely undetected in shadows and other dark areas.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 11,
+      "cost": 50,
+      "name": "Tactical Suit",
+      "source": "MCU - 1",
+      "description": "A standard bodysuit made of a polymer blend with ten layers of treated composite materials, allowing for state of the art protection.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 12,
+      "cost": 200,
+      "name": "Power Armor",
+      "source": "Fallout 3",
+      "description": "Some of the best armor you could ask for in the Wasteland. While wearing this set of T-45b power armor, it wouldn't be untrue to call you a human sized tank. Wearing it will increase your strength, allowing you to go toe to toe with some of the worst the Wasteland has to offer, and stand victorious, as well as heavily resisting the effects of radiation.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 13,
+      "cost": 100,
+      "name": "Leather Armor",
+      "source": "Fallout 3",
+      "description": "It never pays to go into the Wasteland unprotected, especially when you're fresh from the Vault. A set of leather armor, not only does it provide decent protection, but it's easy to move in and breathable, making it perfect for wandering under the blazing sun.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 14,
+      "cost": 400,
+      "name": "Mechanist Armor",
+      "source": "Fallout 3",
+      "description": "Behold, the shining armor of the metallic superhero, the Mechanist! He had constructed his armor to offer potent defenses, with the cloth undersuit being made from an advanced ballistic weave. While wearing this armor, you will find the quality of any machines you create or repair greatly improved.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 15,
+      "cost": 600,
+      "name": "Chinese Stealth Armor ",
+      "source": "Fallout 3",
+      "description": "Developed by the Chinese to counter the American's brute force with subterfuge and deception, the Hei Gui suit is the ultimate expression of stealth technology. This suit contains a portable device that generates a modulating field that transmits the reflected light from one side of an object to another. The end result is near-perfect active camouflage, one close to total invisibility. This stealth field can be activated whenever you want. And despite its focus on stealth, it's still adept at protecting its wearer from enemy fire.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 16,
+      "cost": 50,
+      "name": "Utility Belt",
+      "source": "Star Wars: The Clone Wars",
+      "description": "A leather belt ringed with pockets and hooks. It comes with free ration capsules, a grappling hook, several medical packs, and a rebreather.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 17,
+      "cost": 600,
+      "name": "Reach Scarab",
+      "source": "DC - Young Justice",
+      "description": "You have a special Scarab implanted in your spine. Unlike other scarabs, yours is permanently “off mode”, preventing the Reach from taking you under their control, and, in addition to that, it can be removed from your spine without killing you. The Scarab grants its host several superhuman abilities: It is capable of constructing objects and shifting shape with nanotechnology, has highly advanced scanners capable of scanning for lifeforms through buildings and detecting when others are lying, translating seemingly any language, projecting holographic images, extreme durability, flight, and sonic and plasma weaponry.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 18,
+      "cost": 100,
+      "name": "Carapace Armor ",
+      "source": "Ciaphas Cain",
+      "description": "Given that grunts ending up in a lot of the worse situations it pays off to have some additional armor. This is a set of carapace armor worn underneath your uniform. It provides an additional layer of protection and may be the difference between life and death on the battlefield.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 19,
+      "cost": 100,
+      "name": "Grav-Chutes and Void Suits",
+      "source": "Imperial Guard",
+      "description": "Grav-chutes are the 40k equivalent of parachutes that utilises anti-gravity to make a safe landing, and your regiment is trained in orbital deployment. Like Environmental Suits, their equipment is necessarily sealed and protected against the cold void of space, though not chemical or biological weaponry.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 20,
+      "cost": 200,
+      "name": "Cloak of Shadows ",
+      "source": "Craftworld Eldar",
+      "description": "To confound or resist the aim of one's enemies and their ranged weapons is a tried-and-true tactic among the Eldar, and this robe which garbs its wearer in shadows to soften the blows of their shots is little different.",
+      "chapter": "Armoury"
+    },
+    {
+      "__source": "The Celestial Vault - Armoury",
+      "__line": 21,
+      "cost": 100,
+      "name": "Spy Mask ",
+      "source": "Imperial Assassins ",
+      "description": "A mask which inserts neural jacks to upload information directly into your mind. Can monitor temperature, wind conditions, thermal imaging and basic psychic disturbances.",
+      "chapter": "Armoury"
+    }
+  ],
+  "2": [
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 1,
+      "cost": 50,
+      "name": "Shotgun",
+      "source": "Doom 3",
+      "description": "This robust close-quarters weapon is very useful in the cramped confines of the UAC Mars base, and is frequently found in the hands of its security personnel. Firing a lethal blast of pellets capable of pulping flesh with ease, the Shotgun is a reliable, highly effective weapon at short range. Sporting an eight-round pump-action magazine, the need to insert each shell individually means that reloading a completely empty shotgun can be a somewhat lengthy process. Still, if you’re getting ‘up close and personal’, you’ll not find this weapon wanting. Its main downside is that the spread of its projectiles makes it nearly useless at longer ranges.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 2,
+      "cost": 50,
+      "name": "Double-Barrel Shotgun",
+      "source": "Doom 3",
+      "description": "(50CP) This classic design has remained popular for centuries - and for good reason. Though this weapon needs to be reloaded after each shot and its effective range is very small, it provides unmatched close-quarters firepower. No other weapon can hope to provide the kind of instantaneous stopping power this beast unleashes at point-blank range, with the possible exception of the BFG 9000… which would likely kill the user as well.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 3,
+      "cost": 50,
+      "name": "Chainsaw ",
+      "source": "Doom 3",
+      "description": "Delivered to Mars due to a supply mix-up, the Chainsaw is entirely useless as a tool (given Mars’ total lack of forestation). However, as a tool for demon-killing endeavors it is unmatched in close quarters combat potential. The teeth are honed to a razor’s edge, and they will never dull no matter how many demons you saw in half, and indeed you could probably use it to saw through solid steel without any noticeable drop in performance. It’s likewise guaranteed to never jam or get clogged (due to demon gore, for example), and the chain will never snap during use. Rev ‘em up, and send those demons running!",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 4,
+      "cost": 100,
+      "name": "Chaingun",
+      "source": "Doom 3",
+      "description": "This weapon is a heavy-duty automatic weapon capable of literally sawing a target in half. Firing large-calibre armour-piercing rounds with a high rate of fire, few guns can match the sheer might of this automatic weapon. Though accuracy can become a problem at the range, each round carries enough force that a mere handful of hits is often enough to eliminate even armoured targets.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 5,
+      "cost": 100,
+      "name": "Plasma Rifle",
+      "source": "Doom 3",
+      "description": "Part of the UAC’s next generation of handheld weaponry, the Plasma Rifle foregoes the use of bullets to instead send a stream of magnetically contained plasma at a target. Though its rate of fire is lower than that of the Machine Gun and Chaingun, each plasma bolt hits hard, and its ammo capacity is sufficient to saturate targets with a stream of blue fire.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 6,
+      "cost": 100,
+      "name": "Rocket Launcher",
+      "source": "Doom 3",
+      "description": "Originally meant for demolition work, this design of Rocket Launcher has been modified for military use. Dealing immense damage in a wide radius and sporting a five-round magazine, few targets can withstand a barrage from this weapon. However, the rockets themselves are not guided, and agile opponents might be able to dodge if they see the attack coming. Close-quarters use is not recommended.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 7,
+      "cost": 100,
+      "name": "Sakaaran Laser Rifle ",
+      "source": "Thor: Love and Thunder",
+      "description": "Tired of Asguardians swinging swords and hammers when they could just as easily go for ranged weapons? Those fools will tell you that their arms are “elegant weapons foa more civilized age.” Don’t listen to them. Why would you, when you can have the best of both worlds? This rifle, made on Sakaar, can fire powerful bolts of energy to fell your foes. Yet it’s also big and tough enough to swing around like a club if you’re strong enough.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 8,
+      "cost": 200,
+      "name": "Time Stick",
+      "source": "Loki",
+      "description": "The standard weapon used by the TVA to incapacitate and/or prune Variants. Collapsible and capable of lengthening to a longer-bladed staff-like shape, this device can seemingly disintegrate any organic or inorganic target, while transporting it to the Void. Yours can be configured to send a target elsewhere if desired. An additional function can briefly slow a target hit by this baton-like weapon to 1/16th of its speed while causing them to feel the pain in real time. Useful if you need to secure someone with far greater strength than you.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 9,
+      "cost": 100,
+      "name": "Trusted Blaster",
+      "source": "The Force Unleashed",
+      "description": "No bounty hunter is ready without a trusted sidearm. You may pick any blaster-type weapon within the Star Wars galaxy to use as a sidearm, within reason. It’ll never break or run out of ammunition and will always be in peak condition unless you want wear and tear. Another weapon may also be imported into this.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 10,
+      "cost": 100,
+      "name": "Bowcaster",
+      "source": "The Old Republic",
+      "description": "These bulky crossbow-railguns are the signature weapon of the Wookiees. While their woefully short 50 m max range, heavy recoil, slow fire rate, and 3-fold reliance on physical ammo, plasma gas, and energy packs make them impractical for military applications, the damage and penetration of the energy-infused metal quarrel are unmatched among handheld weapons, making them prized weapons for hunters of dangerous prey. Even the heaviest personal armour is unlikely to block a direct hit from a bowcaster bolt within the optimal range of 30 meters. Includes 3 35-round drum magazines and a power pack good for approximately 300 shots.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 11,
+      "cost": 50,
+      "name": "Phase Pistol",
+      "source": "Star Trek: Enterprise",
+      "description": "The preferred weapon of the 22nd Century, this compact energy weapon has virtually limitless shots and a stun setting.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 12,
+      "cost": 100,
+      "name": "SkyNet Chips",
+      "source": "Terminator",
+      "description": "Weapons are quite a necessity if you find yourself facing against the relentless hordes of machines SkyNet has at its disposal. It’s unfortunate then that most conventional weapons aren’t really that effective on SkyNet’s war machines. But that’s why you have this. Within this box are an endless amount of computer chips. By integrating this chips into your guns, you can improve their accuracy, fire rate, power, or clip size by 30% per chip. You can only integrate three chips per gun however, but you do have the ability to swap them for other chips whenever you aren’t in combat.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 13,
+      "cost": 100,
+      "name": "Isotope Weapon",
+      "source": "Terminator",
+      "description": "Designed by a time traveler known only as the “Engineer”, the isotope weapon is a rifle built from scavenged parts around 1963. It is, in a sense, a powerful plasma rifle that allows for a variety of firing modes. Through the magnets around the chamber, the plasma can be shaped into a cylinder, a bullet set to be fired off, one capable of blasting apart a T-888. And you have the choice to fire off the plasma as either a single slug or a pulse. You have not only the weapon but also the blueprints for it.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 14,
+      "cost": 100,
+      "name": "40-Watt Phased Plasma Rifle",
+      "source": "Terminator",
+      "description": "As mankind was quick to realize, ballistic weaponry proved to be less than effective against the machines that SkyNet had at its disposal. Which is why they had this. A plasma rifle. This plasma rifle fires off bolts of plasma at a speed over Mach 25 and with a rate of fire that far surpasses most common ballistic weapons. These bolts of plasma are capable of punching through over a quarter of a meter of case-hardened steel. A direct hit from this rifle is almost certainly guaranteed to put down any organic target, whether it be through the explosion caused by the plasma or the shot itself. Even a near miss is deadly, capable of inflicting 3rd-degree burns and any splash damage from it is about as dangerous as a traditional grenade. As for ammunition, you’ll never need to worry about that. This thing has unlimited ammunition. All you have to worry about is overheating which means it needs to cool off every one or two hundred shots. Still, this is a powerful weapon indeed. Go put down some Terminators, would you?",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 15,
+      "cost": 100,
+      "name": "M-134 Minigun",
+      "source": "Terminator",
+      "description": "Ah. The M-134 minigun. A classic staple of action movies everywhere. Now you get the chance to experience it all for yourself. Ordinarily, such a firearm would be far too heavy and unwieldy to fire without being mounted onto a vehicle, you’ll find that you’ll have no trouble lifting and firing this gun, being to practically weightless to you. Others will not have that luxury. Capable of firing 6,000 bullets a minute, bullets going over twice the speed of sound and capable of penetrating walls as easily as it blows holes in men. Not only that but you’ll also find that you never need to worry about reloading this gun. This thing has infinite ammunition. You can keep firing this until the barrel starts melting.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 16,
+      "cost": 50,
+      "name": "FN P90 Submachine Gun",
+      "source": "Stargate: SG-1",
+      "description": "A standard weapon for most humans as they explore the galaxy and the planets within it. It is a stable weapon for close-range skirmishes.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 17,
+      "cost": 200,
+      "name": "Staff Cannon ",
+      "source": "Stargate: SG-1",
+      "description": "A modified version of the Ma'Tok Staff Weapon, this cannon is normally mounted on a Death Glider or used as an anti-artillery weapon. Yours has been modified, however, and provided you have the strength you can walk around with it like it was an energy mini-gun. Go nuts!",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 18,
+      "cost": 50,
+      "name": "Wraith Stunner Pistol/Rifle",
+      "source": "Stargate Atlantis",
+      "description": "A wraith stunner pistol or rifle that incapacitates anyone it hits with a \"bolt\" of energy. One torso shot is usually enough to bring a person down; stronger humans may withstand up to three hits for a short period.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 19,
+      "cost": 200,
+      "name": "Particle Magnum",
+      "source": "Stargate Atlantis",
+      "description": "A handgun that fires bolts of energy and is styled remarkably like a revolver, used by the Travelers but sometimes found in the hands of others. The weapon has two selectors, one being the safety and the other deciding the power level: stun, kill and incinerate (explosive). This particular sidearm doesn’t need maintenance or recharging, and can have a different appearance if you like.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 20,
+      "cost": 50,
+      "name": "Zap o’ matic",
+      "source": "Destroy All Humans",
+      "description": "This rifle sized weapon fires a constant stream of electricity that arcs between targets and can wipe entire squads out in just a few seconds. Features a recharging battery that will top itself off with just a few moments pause.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 21,
+      "cost": 50,
+      "name": "Dislocator ",
+      "source": "Destroy All Humans",
+      "description": "Fires pink gravity defying energy disks that fling whatever it hits in a random direction. Like the Zap o' matic, the Dislocator has a recharging battery.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 22,
+      "cost": 100,
+      "name": "PM-44 ",
+      "source": "The Orville",
+      "description": "A small single-handed plasma weapon used by the Planetary Union for security and combat and can be holstered for easy carrying. It has 10 different settings which can stun or kill depending on the setting, as a setting of 1 can stun most humanoid species, but a Moclan requires a setting of at least 5 to be stunned and the PM-44 at maximum setting can kill a human a kilometer away. It can also be used as a cigarette lighter. Furthermore, it will return to you if lost or destroyed in one hour, and you have blueprints to create more.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 23,
+      "cost": 400,
+      "name": "Alien Blaster",
+      "source": "Fallout 3",
+      "description": "A strange weapon from beyond the stars, this silver and blue pistol will fire off azure blasts that seem to act like plasma, but function like lasers. It hits like a super sledge and can pierce through most armors. Even a single shot from this could vaporize a mole rat completely, so what do you think would happen if you shot it at another person?",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 24,
+      "cost": 600,
+      "name": "Fatman",
+      "source": "Fallout 3",
+      "description": "One of the most devastating weapons out there, this big gun can fire off miniature nukes at a target, ensuring that everything around them ends up as nuclear paste. You could even kill a Behemoth with one shot,",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 25,
+      "cost": 600,
+      "name": "Tesla Cannon ",
+      "source": "Fallout 3",
+      "description": "For when you need some big guns, look no further than the Tesla Cannon. It will fire off powerful blasts of electricity at a target, more than likely frying them with a single shot, though you will find it especially potent against robots and those wearing power armor.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 26,
+      "cost": 400,
+      "name": "Jingwei's Shocksword",
+      "source": "Fallout 3",
+      "description": "A unique variant of the swords typically given to Chinese officers. By flicking a switch on the handle, the blade becomes enveloped by a field of electricity. Beyond the obvious use of electrocuting enemies, there is always the chance that you could vaporize your enemies, leaving only a pile of ash in your wake.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 27,
+      "cost": 200,
+      "name": "The Darksaber",
+      "source": "The Mandolorian",
+      "description": "Because it really just isn't star wars without a lightsaber this Lightsaber was forged by the only Mandalorian Jedi, it's known for its blocky hilt and black angular blade that looks more like a traditional sword than a normal Lightsaber, traditionally held by the leader of the Mandalorian people",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 28,
+      "cost": 100,
+      "name": "GLOCK 22 ",
+      "source": "Harley Quinn",
+      "description": "You possess a pair of Glock 22s that never runs out of bullets, and never misfires, although the fire power of it is similar to a normal handgun.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 29,
+      "cost": 100,
+      "name": "Nth Metal Weapon",
+      "source": "Justice League Unlimted ",
+      "description": "A powerful piece of alien equipment. This melee weapon of choice cackles with high amounts of electricity from a small unnoticeable generator (It can be toggled on and off with but a thought.) It is stupidly durable able to even smack around powerful magic beings with relative ease due to its anti-magic properties. Like any weapon it's only as deadly as its user. Don't worry about it breaking down. It won't. For",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 30,
+      "cost": 200,
+      "name": "My Trusty Laspistol",
+      "source": "Ciaphas Canin",
+      "description": "While Cain is normally shown holding a bolt pistol he actually uses a laspistol most of the time. This is due to the lighter recoil and weight of the weapon. You receive an enhanced laspistol and chainsword. The laspistol has had its fire power increased to match that of an Inferno pistol. The chainsword similarly has been modified to be as strong as a power weapon. Should you lose these weapons or in the event they are destroyed they will reappear in your warehouse the next day.",
+      "chapter": "Arsenal"
+    },
+    {
+      "__source": "The Celestial Vault - Arsenal",
+      "__line": 31,
+      "cost": 200,
+      "name": "The Meltagun",
+      "source": "Ciaphas Canin",
+      "description": "The Meltagun is a powerful, short range anti-armour weapon that produces an intense, energetic beam of heat in the tens of thousands of degrees Centigrade. It is an incredibly dangerous tool capable of killing powerful foes such as Space Marines and higher level Tyranids.",
+      "chapter": "Arsenal"
+    }
+  ],
+  "3": [
+    {
+      "__source": "The Celestial Vault - Barracks",
+      "__line": 1,
+      "cost": 400,
+      "name": "Terror Force:",
+      "source": "The Force Unleashed",
+      "description": "A gift from the Empire to you, you now have ownership of a task force of the Empire’s Terror Droids. The force is equipped with four different types of droids: Terror Droids, which are smallspider-likee creations that use melee combat and grasp their opponents to launch vicious melee attacks; Terror Troopers, humanoid droids equipped with advanced stealth technology and weapons meant to quickly move in and out of dangerous situations without leaving a trace; Terror Bioroids, large hulking machines equipped with two bladed arms capable of posing a challenge to Jedi although they come with their own weaknesses; and finally the Terror Walkers; these monstrosities are four legged juggernauts equipped with energy projectors, shields, missiles, and sharpened legs, each one capable of slaughtering basic soldiers en masse or board an enemy ship with minimal support, and is typically viewed as nigh unstoppable.. You have within your possession a Task Force of these droids numbering a thousand, the majority will be the weaker droids and will with each level up they’ll be fewer of them but the exact composition is up to you.",
+      "chapter": "Barracks"
+    },
+    {
+      "__source": "The Celestial Vault - Barracks",
+      "__line": 2,
+      "cost": 400,
+      "name": "Minuteman Squad ",
+      "source": "Loki",
+      "description": "It seems you’ve been given command of a squad of TVA’s main forces. You might be the senior member if just a Minuteman, an active leader if a Hunter, or just overseeing them if you’re a Judge. If you’re not part of the TVA, perhaps they’ve gone rogue to join you. Either way, this squad of Followers are equipped with standard TVA armour and Time Sticks, and one member carries a Reset Charge. While they have TemPads as a necessity, it seems these are limited to creating Timedoors to and from your current time and location, making them better at rapid response at the cost of preventing them from going anywhere else in time and space. Still, when you need a backup that’s just a call away, these are the fastest responders you could expect. Should they or their equipment be lost, damaged or expended, they’ll be reinforced and resupplied within 48 hours relative to you.",
+      "chapter": "Barracks"
+    },
+    {
+      "__source": "The Celestial Vault - Barracks",
+      "__line": 3,
+      "cost": 200,
+      "name": "Sentries",
+      "source": "Age of Ultron",
+      "description": "You are in possession of a dozen Ultron Sentries, each of them are capable of posing a challenge to a Super Soldier, and are completely under your control. If any of the fiat-backed ones are destroyed, they will be replaced a month later. You also have the schematics to make more.",
+      "chapter": "Barracks"
+    },
+    {
+      "__source": "The Celestial Vault - Barracks",
+      "__line": 4,
+      "cost": 200,
+      "name": "PROXY",
+      "source": "The Force Unleashed",
+      "description": "This training droid is an identical copy of the same droid used by Starkiller and comes with a complete database of fighting styles for each setting you visit, the droid will also scale with you to ensure you’ll never be without a sparring partner. As an added bonus PROXY can play other supporting roles as needed as long as it has someone to mimic",
+      "chapter": "Barracks"
+    }
+  ],
+  "4": [
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 1,
+      "cost": 100,
+      "name": "Jet Ski",
+      "source": "Loki",
+      "description": "Wow, you have one of these? And a bunch of magazines about them, for when you don’t have time or permission to use the Jet Ski. The latter could be quite useful in learning how to use and maintain it, and we’ll throw in a proper life jacket so you can use it safely. You’re not really going to have any time to use it while you’re working for the TVA though.",
+      "chapter": "Garage"
+    },
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 2,
+      "cost": 400,
+      "name": " XJ-2 Airspeeder ",
+      "source": "Revenge of the Sith ",
+      "description": "Despite the red and silver colour scheme, this vehicle is actually an excellent choice for getting anywhere discretely. It is registered under a pseudonym, which will allow you to use it to travel without being monitored. Even if you’re not wearing any sort of disguise, or using it from your own home, as far as anyone can tell it’s just ‘Jun Perr’ going out for a drive and no person or system will notice its occupants. In the event you are somehow chased while driving it, you will find it has been modified for high speed and manoeuvrability, and the steering yoke is modified to allow for sharp turns. It has unlimited fuel and ammunition, and if destroyed or damaged you can summon another after a day has passed.",
+      "chapter": "Garage"
+    },
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 3,
+      "cost": 200,
+      "name": "Space Racer’s Bike ",
+      "source": "Invinicble",
+      "description": "You have received a perfect copy of Space Racer’s space motorcycle. It is a flying motorcycle that can fly extremely quickly, fast enough to keep up with a young Viltrumite, and is able to go FTL at the speed of full on capital ships.",
+      "chapter": "Garage"
+    },
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 4,
+      "cost": 50,
+      "name": "Car",
+      "source": "Smallville",
+      "description": "Might be an old jalopy, might be a fancy sports car. But this self-maintaining and repairing motor vehicle never runs out of gas and even if totally destroyed reappears in your Vault a week later.",
+      "chapter": "Garage"
+    },
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 5,
+      "cost": 100,
+      "name": "Punisher Party Van",
+      "source": "MCU - 1",
+      "description": "Pssst, hey kid. You want some goodies? Of course you do. That's why you need this van. Immune to small arms fire and coming with a peculiar costume with a skull on the front, this van is sure to bring the party no matter where you want to go or who you want to invite. It's even got a few racks to store some... party favors as it were. Which may or may not be small arms or automatic weapons.",
+      "chapter": "Garage"
+    },
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 6,
+      "cost": 200,
+      "name": "Atlas Mech ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "When there are giant monsters, when one man isn't enough, when all else fails, there will always be giant fighting robots. Okay, that might be an exaggeration, but this machine designed by the human terrorist organization Cerberus is an impressive piece of tech. It combines the deadly armour and firepower of a YMIR mech with the tactical superiority of a trained pilot. Equipped with a powerful rocket launcher and a high-power mass accelerator cannon, powerful kinetic shields and a polycrystalline composite hull, it's sure to be a terror on any battlefield.",
+      "chapter": "Garage"
+    },
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 7,
+      "cost": 200,
+      "name": "M35 Mako ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "This vehicle was designed by the Human Alliance for their frigates, made for rapid deployment, and can be deployed on virtually any world. It's armor is tough enough to withstand high drops, extreme heat and cold and rough terrain, with the suspension and propulsion system allowing the vehicle to adapt to various terrain. It's not unarmed either, as it is in possession of a 155mm mass accelerator and a mounted machine gun, it's perfect for both travel and combat.",
+      "chapter": "Garage"
+    },
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 8,
+      "cost": 200,
+      "name": "New Genesphere ",
+      "source": "DC - Young Justice",
+      "description": "A living New Genesis technology. She is a Sphere that is capable of adopting several forms, including that of a flying motorcycle, and a pill bug mode that can jam control signals, and take control of mechanized objects. She seems to enjoy your company and appears to be very loyal.",
+      "chapter": "Garage"
+    },
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 9,
+      "cost": 200,
+      "name": "War Wheel",
+      "source": "Justice League Unlimited",
+      "description": "One of the Nazi superweapons invented by Vandal Savage in WW2. A giant monowheel tank covered in spikes and armed with two heavy cannons. This thing will tear through even modern tanks and vehicles, but most superpowered individuals won't have any problem taking this thing down.",
+      "chapter": "Garage"
+    },
+    {
+      "__source": "The Celestial Vault - Garage",
+      "__line": 10,
+      "cost": 400,
+      "name": "Scout Salamander",
+      "source": "Ciaphas Cain",
+      "description": "Unfortunately this does not give you a Space Marine pal, but you get the next best thing: a car with a big gun. The Salamander is a small reconnaissance vehicle used by the Imperial Guard and based on the Chimera chassis. It is designed primarily for reconnaissance duties and is lightly armed and armoured but very fast. It possesses an Autocannon to defend itself and the engine can be overcharged if some extra speed is needed.",
+      "chapter": "Garage"
+    }
+  ],
+  "5": [
+    {
+      "__source": "The Celestial Vault - Kennel",
+      "__line": 1,
+      "cost": 200,
+      "name": "Drexyl",
+      "source": "Darth Bane Triology ",
+      "description": "Drexyls are animals native to the moon of Dxun. They’re migratory predators that have traditionally been tamed by the Beast Masters of Onderon for war and status. A full-grown adult has a wingspan of twenty metres and possesses a hide capable of resisting heavy-duty blaster weapons. This one is not only obedient but exceptionally intelligent and strong-willed, capable of understanding following advanced instructions, carrying out complex maneuvers and holding to battle plans. Its will is such that if Bane had encountered this one on Dxun, he may have never left the planet.",
+      "chapter": "Kennel"
+    },
+    {
+      "__source": "The Celestial Vault - Kennel",
+      "__line": 2,
+      "cost": 50,
+      "name": "Pet Neek",
+      "source": "Darth Bane Triology ",
+      "description": "Neeks are reptilian herbivores, averaging about thirty centimetres in height, indigenous to the planet Ambria. They are non-sentient, and can often be seen congregating in flocks of about half a dozen, banding together for protection against the larger, carnivorous creatures. Usually timid and scatty, this particular Neek seems to have imprinted on you as its mother. Why you would want a cute, herbivorous raptor of such an adorable stature is beyond me",
+      "chapter": "Kennel"
+    },
+    {
+      "__source": "The Celestial Vault - Kennel",
+      "__line": 3,
+      "cost": 100,
+      "name": "Man’s Best Friend",
+      "source": "Terminator",
+      "description": "Even before the written word, dogs have always been a part of man’s world. There is even evidence to suggest that dogs were the very first animals mankind ever domesticated. Across all of time and space, dogs will always be man’s best friend. Even after the apocalypse, dogs shall ever be mankind’s most loyal ally. It is only right then that you should have one such companion to stand by your side. This companion is a dog that shall forever be loyal to you and you alone. It will always be able to tell you apart from anything trying to fool it and not only that, but your good friend will always be able to determine whether or not someone is actually human. This good boy is free for Humans, and you may import a pet or creature you already own into this option. If you wish, you can bring a pet you once owned to take this dog’s place.",
+      "chapter": "Kennel"
+    },
+    {
+      "__source": "The Celestial Vault - Kennel",
+      "__line": 4,
+      "cost": 0,
+      "name": "Hamster ",
+      "source": "Mass Effect Legendary Edition",
+      "description": "Isn't he just the most adorable little thing? You are now the proud owner of this Earthling pet that is known for randomly killing itself. Luckily there's no way yours will suffer such a fate, and if he is killed then it will just be resurrected the next day. You receive a glass cage to hold it in, as well as the food needed to feed him.",
+      "chapter": "Kennel"
+    },
+    {
+      "__source": "The Celestial Vault - Kennel",
+      "__line": 5,
+      "cost": 50,
+      "name": "Varren",
+      "source": "Mass Effect Legendary Edition",
+      "description": "Native to the planet Tuchanka, these reptilian omnivores are savage survivors, and opportune scavengers. Their fangs and claws are very dangerous to unprotected flesh, and can easily adapt to most environments. This one has been trained, is extremely loyal to you, and acts much like any other dog you'd find on Earth.",
+      "chapter": "Kennel"
+    },
+    {
+      "__source": "The Celestial Vault - Kennel",
+      "__line": 6,
+      "cost": 200,
+      "name": "Alpha Predator",
+      "source": "Fallout 3",
+      "description": "Fewer creatures out there inspire such fear and dread as the mighty deathclaw. Running faster than a man ever could, with massive talons that can cut through even power armor with frightening ease, and a scaly hide that is resistant to damage, is it any wonder that this beast is so feared?",
+      "chapter": "Kennel"
+    },
+    {
+      "__source": "The Celestial Vault - Kennel",
+      "__line": 7,
+      "cost": 100,
+      "name": "Gyrinx",
+      "source": "Craftworld Eldar",
+      "description": "This graceful, cat-like creature is odd in many ways. Empathetic to a fault, and capable of forming a mighty mental bond with its owner, it can even improve the speed of its master's thoughts. In temperament, habit, and even (slightly) physicality, it will, as your bond grows, come to resemble you.",
+      "chapter": "Kennel"
+    },
+    {
+      "__source": "The Celestial Vault - Kennel",
+      "__line": 8,
+      "cost": 0,
+      "name": "Babel Fish",
+      "source": "Hitchhikers Guide To The Galaxy",
+      "description": "This is a small fish that goes in your ear. It can convert any spoken language into something you can understand. It looks like a goldfish and is so staggeringly useful that it (probably) disproves the existence of god. For 50 CP, you get a breeding pair.",
+      "chapter": "Kennel"
+    }
+  ],
+  "6": [
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 1,
+      "cost": 400,
+      "name": "Ravager Ship ",
+      "source": "Thor: Love and Thunder",
+      "description": "The M-ships are commonly used among the Ravagers, and they’re a favorite of the Guardians of the Galaxy. Why? Well, they’re excellent vessels. And now you have one. It’s a small spaceship that’s swift and agile enough to serve as a fighter craft, while big enough to serve as the living quarters of eight people. Eight, human-sized people. I don’t know how you’re going to squeeze into this thing if you’re an enormous shadow monster. Anyways, it has a flight deck capable of seating six people, living quarters below, and has a hyperdrive engine so you can jump interstellar distances from planet to planet. It’s also got armaments in the form of twin plasma cannons, a solid cache of futuristic guns onboard, a system to detect distress calls across the galaxy, and a small auxiliary pod with its own hyperdrive that can separate from the main ship.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 2,
+      "cost": 200,
+      "name": "Quinjet ",
+      "source": "Age of Ultron",
+      "description": "The small jet capable of transferring the group of Avengers in relative comfort over long distances in a short amount of time. You are now in possession of one of these jets. Good luck learning to fly one or maybe you can find a pilot.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 3,
+      "cost": 100,
+      "name": "Helicopter ",
+      "source": "Smallville",
+      "description": "Bird? Plane? No, it’s your own personal VTOL aircraft. Not as fast as a jet, but highly maneuverable, with the expected add-ons, unlimited fuel, self-repair, etc.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 4,
+      "cost": 200,
+      "name": "A Kryptonian spaceship,",
+      "source": "Smallville",
+      "description": "A Kryptonian spaceship, either a little one like Clark’s pod or a bigger one like Brainiac used. Unarmed, but can outperform any terrestrial aircraft easily and has a lot of utility functions and useful scanners.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 5,
+      "cost": 400,
+      "name": "Rogue Shadow",
+      "source": "The Force Unleahesd",
+      "description": "You have in your possession a perfect match for Galen Marek’s advanced stealth ship, the Rogue Shadow. The ship itself is a marvel of Imperial engineering and can easily travel undetected just about anywhere in the galaxy and is equipped with an advanced hyperdrive. To better avoid Imperial... entanglements. Comes with a version of Juno Eclipse.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 6,
+      "cost": 200,
+      "name": " X-Wing: ",
+      "source": "The Dark Empire",
+      "description": "A trusty craft, scarred by innumerable battles, but still ready for more, this T-65 X-Wing has served you well over the years despite its age. You’ll find it easy to upgrade over the coming years and even without upgrades it’ll do curiously well against the advancing technologies of the galaxy. Should you desire, one can exchange this for a differing fighter used by the Republic during this time period.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 7,
+      "cost": 200,
+      "name": "The Millenium Falcon",
+      "source": "The Dark Empire",
+      "description": "Not the actual ship but a copy of the famous heavily modified YT-1300 Freighter that’ll serve you just as well, if not better given it lacks the constant maintenance issues the real one has and plagues Han and Chewie so much. Should you desire you may pick a similar freighter type from this period to instead gain.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 8,
+      "cost": 300,
+      "name": "X-301 Interceptor ",
+      "source": "Stargate: SG1",
+      "description": "A human attempt at reverse engineering the Goa'uld 'Death Glider' fighter craft, this plane utilizes a propulsion system to get places, is capable of exiting the atmosphere under its own power, and somehow it even takes inertia out of the equation so the pilot doesn't need to worry about G-forces. As a bonus, it's armed with two staff cannon weapons and comes with its own shields.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 9,
+      "cost": 400,
+      "name": "Tel'tak",
+      "source": "Stargate: SG1",
+      "description": "comes with its own hyperspace drive, transportation rings, cloaking and even four escape pods. This one has been modified to come with its own shields, but it has no weapons to speak of. You may need to find those on your own.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 10,
+      "cost": 200,
+      "name": "Puddle Jumper ",
+      "source": "Stargate Atlantis",
+      "description": "Your very own no-frills flying Ancient ATV, this spacecraft is a bit smaller than a bus and designed to go through the Stargate. Looks a bit like a truncated cylinder, internally segmented into front and rear sealed compartments for crew and cargo. It has extensive sensors, an armament of 8 drones, a very zippy sublight engine, surprisingly good shielding, a cloaking device and amazing inertial dampeners. However, it has no hyperdrive or any kind of plumbing, so it's best for short trips only (well, for certain definitions of short, since it can cross an entire solar system in under 24 hours).",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 11,
+      "cost": 200,
+      "name": "Union Shuttle",
+      "source": "The Orville",
+      "description": "A standard issue shuttle craft used by the Planetary Union to transport cargo as well as personnel. It has seats for 6 human sized people including 2 for the pilots, but at maximum capacity can carry 32 human sized people. It is capable of travel at faster than light with its Quantum Drive and has a food synthesizer to create food, a cloaking device for stealth, deflector screens for protection which can also be used to protect the occupants from extremely strong gravity and a versatile docking port to allow for docking several different ports. If you don’t like the shoe shaped shuttle, then you can opt for the 3rd season redesign. Furthermore, it will return to you if lost or destroyed in one hour, and you have blueprints to create more.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 12,
+      "cost": 400,
+      "name": " Sith Infiltrator",
+      "source": "The Phantom Meance",
+      "description": "A fittingly fearsome vessel for a deadly pilot, this model is identical to the starship Scimitar belonging to Darth Maul. Like him, you can use this sleek ship to silently travel wherever you need to be. This heavily modified Star Courier is armed with concealed laser cannons, a torpedo launcher and a minelayer. It carries a compliment of 3 DRK-1 Dark Eye probe droids and a repulsorcraft speeder bike. You can choose the name of the ship and the bike.",
+      "chapter": "Landing Pad"
+    },
+    {
+      "__source": "The Celestial Vault - Landing Pad",
+      "__line": 13,
+      "cost": 400,
+      "name": "Vertibird",
+      "source": "Fallout 3",
+      "description": "Not too many enemies will have the benefit of air superiority, so you've already got a massive advantage by owning this flying tank.. It's got durable armor and can be outfitted with a number of weapons, though this one is equipped with gatling lasers. It has enough room inside to fit an entire squad wearing power armor and their pilot. The best part is, you'll never have to worry about refueling.",
+      "chapter": "Landing Pad"
+    }
+  ],
+  "7": [
+    {
+      "__source": "The Celestial Vault - Library",
+      "__line": 1,
+      "cost": 200,
+      "name": " Galaxy Map – Lost? ",
+      "source": "Revenge of the Sith",
+      "description": "The Galaxy is a big place, so this collection of maps in any form of media you want can help to locate where you are in the grander scope of things. Digital or physical, it will cover an area up to the size of a galaxy and down to a single region on a planet, marking where you are.",
+      "chapter": "Library"
+    },
+    {
+      "__source": "The Celestial Vault - Library",
+      "__line": 2,
+      "cost": 100,
+      "name": "Training Logs",
+      "source": "The Outer Worlds",
+      "description": "Everything an inspiring learner could ask for, besides an actual mentor to show you the ropes. These simple logs may fail in teaching you anything really advanced in whatever subject they cover, but they also make it where anyone can be and above a novice in said subject with enough time.",
+      "chapter": "Library"
+    },
+    {
+      "__source": "The Celestial Vault - Library",
+      "__line": 3,
+      "cost": 100,
+      "name": "Bookshelf",
+      "source": "Fallout 3",
+      "description": "Knowledge is power, and much has been lost since the bombs fell. Luckily, you have the next best thing. Books. Yes, this bookshelf is filled with all kinds of books that will noticeably increase related skills. There are books on general science, public speaking, car maintenance, unarmed combat, gun manuals, and even more.",
+      "chapter": "Library"
+    },
+    {
+      "__source": "The Celestial Vault - Library",
+      "__line": 4,
+      "cost": 400,
+      "name": "Inquisitorial Writ of Safe Passage",
+      "source": "Warhammer - Planetary Governor",
+      "description": "A valuable document that grants the bearer the right to travel through any Imperial territory, no matter how dangerous. It is stamped with the seal of the Inquisition and carries the weight of absolute authority. In future worlds, it continues to serve you in this capacity, adapting to appear to come from some unquestionable authority granting you the right of passage into even the most dangerous and forbidden areas of the world.",
+      "chapter": "Library"
+    }
+  ],
+  "8": [
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 1,
+      "cost": 100,
+      "name": "The Bar",
+      "source": "Mass Effect: Andromeda",
+      "description": "When the going gets tough, the tough...go out for drinks? You have a bar full of drinks manned by a skilled bartender, that the people working for you can gather at, wind down, have a good time, and maybe let slip how they feel about how things are going. The selection is constantly refilling, and both the drinks and the bartender’s skills expand/update as you and your people encounter new things. Find a plant that smells good. It’ll be a great garnish. An off-duty soldier discovers a hole-in-the-wall with a bartender with a bunch of new drink recipes. Your person at the bar will rapidly learn how to make them, with equal skill. They’ll also be very good at dispensing advice and “overhearing” conversations and will relay intel to you. Lastly, as a side benefit of owning the place, you get free drinks.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 2,
+      "cost": 100,
+      "name": "Sabaac Deck",
+      "source": "Darth Bane Triology ",
+      "description": "Sabaac is one of the most popular card games in this galaxy, having players from the miners of Apatros to the halls of power for both of the current galactic states. A sabacc deck comprised a number of face cards (including the Idiot, the Queen, the Evil One, and the Star) and four suits of fifteen pip cards (Flasks, Sabers, Staves, and Coins). The face value of the cards change at random in play but are locked as soon as the cards are placed on the sabacc tables suspension field. This in particular makes Sabacc a complex and unpredictable game, as a potential winning hand could turn into a losing one if not used at the right moment.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 3,
+      "cost": 100,
+      "name": "VR Stasis Pod",
+      "source": "Stargate Atlantis",
+      "description": "Puts a body into suspended animation while the mind is active in a real-time VR simulation. From the inside, the VR can be indistinguishable from reality, provided those inside don't remember going in or try to tax the system too badly. Comes with a free selection of preset virtual environments plus instructions for more.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 4,
+      "cost": 50,
+      "name": "The Game",
+      "source": "Stargate Atlantis",
+      "description": "A pair of Ancient ‘game’ consoles, which contains a Civilization-style RTS game where the players take on the roles of Oracles guiding their respective nations. It has a level of detail totally beyond any game the Tau’ri have – a level of detail that would make one wonder if the nations were more than just simulations. Fortunately these particular consoles are not linked up to a series of satellites over a distant planet.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 5,
+      "cost": 100,
+      "name": "Matter Synthesis",
+      "source": "The Orville",
+      "description": "This is a device that allows for the dematerialization of matter and the rematerialization of that matter as something else. This device allows it to reproduce nearly any amount of inorganic material when requested and has an advanced computer to allow for new materials to be reproduced with new instructions. The Synthesizer can create any inorganic material and even organic material such as food or beverages at virtually no cost, but cannot create power sources or fuel such as Dysonium as that entails a net energy loss. For example, you could use this device to create the structure and frame of something such as a smartphone, but the power for that smartphone must come from somewhere else as powering it using the Synthesizer will result in a net energy loss. This comes with blueprints to make more Matter Synthesizers.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 6,
+      "cost": 100,
+      "name": "Executive Poker Set",
+      "source": "Star Trek - Lower Decks",
+      "description": "The set includes a luxury leather box with soft velour interior, 300 clay poker chips, 5 poker dice, and 2 decks of starfleet branded playing cards",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 7,
+      "cost": 200,
+      "name": "AR Machine ",
+      "source": "Red Dwarf",
+      "description": "Alternate Reality machine allowing for highly accurate simulation, comes programmed with the Camelot Game, Zero G Kickboxing and Jane Austin World.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 8,
+      "cost": 300,
+      "name": "Rejuvenation Shower ",
+      "source": "Red Dwarf",
+      "description": "Restores the user to the prime of their youth. Will come as a flat pack and CANNOT be used to time travel, regardless how bad you are with an Alan key.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 9,
+      "cost": 200,
+      "name": "Jumper Corp Vending Machine",
+      "source": "The Outer Worlds",
+      "description": "Some would argue that convenience is a major factor or quality that people would love to have with buying the things they need for life... Like staple foods like protein-proving meats, biological minerals and vitamins in vegetables, and energy-producing carbohydrates. And maybe stuff for sugary treats and (cheap/fine) liquor, alongside possible weapons, armour, and other useful utility items. So why not tap into the market with your very own Vending Machine, albeit based on the ones seen in Halcyon. It can take all forms of currency and can even have things be sold in case of bartering situations.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 10,
+      "cost": 50,
+      "name": "Galactic Cuisine ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "All organics need some form of sustenance, from the familiar Human hamburger to the dextro-amino foods eaten by the Turians and Quarians. You receive a very large, replenishing pantry filled with all ingredients used in modern cooking used by the Citadel Races, as well as a comprehensive cookbook being downloaded to your omni-tool containing all recipes used.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 11,
+      "cost": 50,
+      "name": "Milky Way Media",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "Ever since sentient life could think, it's been trying to find ways to distract itself. Books, movies, and TV shows can be found in any species, and have only improved since they've left the confines of their homeworlds. You now have the largest media collection known to Citadel Space, containing every scrap of media created by its member races. Maybe after reading a suspenseful Salarian mystery novel you'll feel the need to curl up with your special someone and watch the popular Turian and Quarian romance film, \"Fleet and Flotilla.\"",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 12,
+      "cost": 50,
+      "name": "Vending Machine",
+      "source": "Fallout 3",
+      "description": "The most popular drink in America, you just can't beat Nuka-cola! And now you'll never run out of this drink ever again. This vending machine is always filled with Nuka-Cola, as well as Nuka-Cola Quantum. This will instantly restock whenever you close it.",
+      "chapter": "Living Space"
+    },
+    {
+      "__source": "The Celestial Vault - Living Space",
+      "__line": 13,
+      "cost": 50,
+      "name": "Beer Keg:",
+      "source": "Deep Rock Galactic ",
+      "description": "Our employees are dwarves, naturally they demand beer, and a lot of it. Each keg you purchase here of company standard beer contains enough repopulating inebriation to last a year if drunk in moderation. As you undoubtedly will not drink it in moderation you may purchase more kegs or different brews for additional charges of 50 CP. Because our specialty craft brews are far more expensive, kegs of Arkenstout, Mactera Brew, Blackout Stout, etcetera will cost you 100 CP.\"",
+      "chapter": "Living Space"
+    }
+  ],
+  "9": [
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 1,
+      "cost": 0,
+      "name": "PDA",
+      "source": "Doom 3",
+      "description": "The UAC’s standard PDA serves as a multi-purpose tool for all personal and administrative tasks. Holding an individual’s personal records, it can be used in place of any other form of I.D. (such as passports or access cards). It also serves as a mobile phone, provides access to the internet and personal emails, and it is capable of wirelessly downloading additional media such as instruction videos from nearby systems if such a service is provided. The PDA carries a biometric lock to prevent access to personal files by anyone other than the user, and this particular variant has been upgraded for maximum compatibility with any other computer system you might encounter in the future as well as effectively unlimited storage and memory. If lost or destroyed, you’ll find a replacement in your pocket the next time you reach for it, without any loss of data as a consequence of its previous incarnation’s untimely demise.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 2,
+      "cost": 0,
+      "name": "Flashlight ",
+      "source": "Doom 3",
+      "description": "Sporting a static transfer power supply, the Flashlight is effectively guaranteed to never need recharging. Providing a decent amount of light, it is a vital tool for the UAC Mars facility, where power failures and brownouts are common due to the varied but frequently high energy needs of scientific equipment in locations like the Alpha and Delta labs. Its robust construction also allows it to be used as a cudgel in case of emergencies.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 3,
+      "cost": 200,
+      "name": "Psychic Paper ",
+      "source": "Doctor Who",
+      "description": "Ah, now this is a bit more tricky. You now have a notebook’s worth of Psychic Paper, a Time Lord device that can tap the mental impressions of the reader to make him see an illusion of whatever document they’ve been told to expect to se. Very handy for convincing people you really do have valid identification or signed permission to be let in the building, or a contract as the latest consultant to their secret project, or whatever else you can think of. It doesn’t matter how many sheets of paper you tear out of your notebook, it will always have more. Even works on electronics... somehow. Exactly where the money comes from when you use it as a Credit Card is unknown, but you can. Unless you start drawing attention, that is. Besides that, this serves in place of biometrics, electric IDs, the lot. Since the Psychic Paper has to be able to read the subject’s mind in order to pull off the illusion, people who are particularly strong-willed or highly intelligent or possess sufficient psionic defenses can potentially see through it. Still, it should work handily enough on the vast majority of everyone you could reasonably expect to encounter.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 4,
+      "cost": 100,
+      "name": "Plausible ID",
+      "source": "Revenge of the Sith",
+      "description": "You have a form of identification that backs up whatever position you intend to have. This is all the paperwork, ID’s and records that would be needed to have a position in a society that has such records",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 5,
+      "cost": 100,
+      "name": "Omni-tool",
+      "source": "Mass Effect: Andromeda",
+      "description": "You get an omni-tool loaded up with programs and information that’d be best suited for unsupported colonization in a new galaxy. Because the Andromeda Initiative knew that they’d be going with a finite supply of ammo, medi-gel and power cells, each omni-tool can recover and repurpose appropriate resources to serve appropriate functions. For example, liquid coolant allows weapon heatsinks to be reused, and organic compounds can be refined into medi-gel. They can also convert consumable items into immediately usable forms. Finally, they do everything else regular omni-tools can: Communication, minifacturing fabricator, sensor analysis, and computer mainframe.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 6,
+      "cost": 100,
+      "name": "Protocol Droid:",
+      "source": "The Force Unleashed",
+      "description": "Your very own protocol droid, loyal to you and capable of acting as a head butler for your properties. Though most importantly for you whenever this droid is present it passively boosts your diplomatic abilities.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 7,
+      "cost": 100,
+      "name": "Astromech Droid",
+      "source": "Dark Empire",
+      "description": "A droid much like R2-D2 with the same capabilities and sentient status. As R2 was instrumental to Luke Skywalker’s success, this little one will surely contribute greatly to your journey. Will serve as a companion.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 8,
+      "cost": 100,
+      "name": "Communicator",
+      "source": "Star Trek: Enterprise ",
+      "description": "A device for speaking to ships in orbit or people on the other side of a planet without a lot of infrastructure. Can be used to summon starships if you purchase any, or to call for beam-up.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 9,
+      "cost": 50,
+      "name": "Cellphone",
+      "source": "Smallville",
+      "description": "A phone with limitless battery and perfect signal anywhere, cannot be lost or stolen or hacked. If you reach into your pocket, it will be there. Updates to match the capabilities of the latest model.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 10,
+      "cost": 50,
+      "name": "Lantean Detector",
+      "source": "Stargate Atlantis",
+      "description": "Detects life signs and the energy signatures of active tech (and possibly energy beings and biotech), but doesn't distinguish between human and Wraith, or even human and replicator. Also useful for finding the nearest puddle jumper or Stargate if you’ve lost your way. You do not need to Ancient Gene to make it work",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 11,
+      "cost": 50,
+      "name": "Turkey Sandwiches ",
+      "source": "Stargate Atlantis",
+      "description": "A brown paper lunch bag with a great turkey sandwich in it. In fact, its owner will always be able to find a great turkey sandwich inside the bag. If you ruin, lose, sell or give away the bag, it will only contain one last sandwich but a replacement bag will quickly turn up – certainly before lunchtime the next day – so please feel free to share. Your choice of mundane bread and condiments.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 12,
+      "cost": 100,
+      "name": "Perception Filter Key ",
+      "source": "Doctor Who",
+      "description": "A key from the TARDIS, this tiny little thing has been modified to extend a Perception Filter all around the wearer. A perception filter is a field that, as the name suggests, filters you from people’s perceptions. Unless someone is deliberately looking for you, or you do something to attract attention, you find that people simply don’t care about you all that much. Their eyes pass right over you, dismissing you as part of the scenery. Could be useful, this.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 13,
+      "cost": 400,
+      "name": "Pan-Dimensional Cellphone",
+      "source": "Doctor Who",
+      "description": "Exactly what it says on the tin. Normally all these can do is call, but this one is special even among them. Firstly, of course, this cellphone never runs out of battery power or encounters an error. It can hold any amount of data, and can never be physically damaged, hacked or corrupted. But all that’s just the side stuff. Mainly, this phone can operate perfectly fine, as if it was still in the best-connected spot on Earth, from any times and place in existence. Calling, messages, the internet, it all works just as well as it ever did, no matter where you end up. Yes, this includes the GPS. Somehow.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 14,
+      "cost": 200,
+      "name": " Storage Statues",
+      "source": "The Phantom Meance. ",
+      "description": "Need to hide some questionably legal items, but don’t have easy access to extradimensional storage space? Perhaps you just want some decoration? This takes the form of several sculptures and statues that both look quite nice and have concealed places for storage within them. When something is hidden inside the statues, no sensory abilities or technology will detect them, even if you were hiding artefacts that emitted an evil aura.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 15,
+      "cost": 200,
+      "name": "Walking Throne",
+      "source": "The Phantom Meance. ",
+      "description": "Sure, you could just walk... but then how could you show your superiority? You have a somewhat spider-like walking throne like the one belonging to Nute Gunray of the Trade Federation, allowing you to relax on your way to your destination.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 16,
+      "cost": 100,
+      "name": " Intimidating Sunglasses ",
+      "source": "Star Trek - Picard",
+      "description": "Even if your species is known to have a secondary eyelid developed from living on a desert planet that makes wearing sunglasses somewhat useless, sometimes you just need to look intimidating. This gives you a boost to intimidation while not actually making you any less capable of seeing. As a bonus, nobody wonders if you are really the species you are supposed to be if you wear these.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 17,
+      "cost": 50,
+      "name": "Fish Tank",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "As boring as they may be, most can agree that fishes are pretty to look at. What you have here is a massive tank filled with tropical, freshwater fishes from a number of planets, primarily from Earth. You will never have to worry about feeding them or cleaning out the tank, and the fish inside never seem to die. At the very least, it will look good in your office or bedroom.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 18,
+      "cost": 100,
+      "name": "Pip-Boy 3000",
+      "source": "Fallout 3",
+      "description": "A wrist mounted computer that can monitor its user's vitals, along with storing a large amount of information, record video and audio, automatically mapping out local terrain, an alarm function, a geiger counter, and can connect to other terminals. It can even play the radio.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 19,
+      "cost": 200,
+      "name": "Mother Box ",
+      "source": "Justice League Unlimited. ",
+      "description": "An alien computer connected to the Source capable of interfacing with a wide array of machinery, projecting holographic images, providing information about topics known to the people of New Genesis or Apokolips, and creating portals between planets vast distances apart. This device is so advanced that it could reprogram a machine on par with Brainiac, but you have to directly attach the Mother Box to whatever it is you want it to interface with in order for it to work.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 20,
+      "cost": 100,
+      "name": "25th Century Drone",
+      "source": "Justice League Unlimited. ",
+      "description": "A small levitating drone from the late 2400's. This cute little machine comes with a biometric scanner, a hologram projector capable of showing videos and animated images in mid-air, a virtual library of detailed information that it can instantly look up, and even a fan strong enough to quickly blow away smoke. In addition to all these features this thing will also serve as your own ever exuberant cheerleader, offering praise and encouragement whenever it can.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 21,
+      "cost": 0,
+      "name": "Servo Skulls",
+      "source": "Warhammer 40k - Adeptus Mechanicus",
+      "description": "A dozen servo skulls. Dull but reliable servants, coming equipped for a variety of tasks. The patterns of each are easy to re-fit for more specialized work.",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 22,
+      "cost": 200,
+      "name": "Salacious Seer ",
+      "source": "Craftworld Eldar",
+      "description": "This Seer, bearing both the Seer and Spirit Seer perks, appears to have an unhealthy interest in the concept of “love.” While romance is not unknown among the Eldar, this individual's propensity to use their gifts in a pursuit known as “matchmaking” is something of an annoyance to the Craftworld at large. Still, consider also that they seem to see a future together with you – regardless of any prior arrangements. The Craftworld's hope that you might be able to rein them in may well be unfounded...",
+      "chapter": "Overseer's Office"
+    },
+    {
+      "__source": "The Celestial Vault - Overseer's Office",
+      "__line": 23,
+      "cost": 200,
+      "name": "Fine Art Collection",
+      "source": "Warhammer 40k - Planetary Governor",
+      "description": "Your collection of rare and valuable art pieces is the envy of many, showcasing your refined taste and appreciation for beauty. The pieces are carefully curated and displayed in your personal chambers, serving as a source of inspiration and relaxation. Each piece tells a story and adds to the overall ambiance of your surroundings. Your fine art collection is not only a testament to your wealth and status, but also a reflection of your personality and character.",
+      "chapter": "Overseer's Office"
+    }
+  ],
+  "10": [
+    {
+      "__source": "The Celestial Vault - R&D",
+      "__line": 1,
+      "cost": 100,
+      "name": "The Ultimate Fishbowl",
+      "source": "Multiverse of Madness",
+      "description": "One of the things that ends up being ignored in most situations with multiversal travel is the issues that arise when arriving at new locations. Now I'm not talking about major stuff like collapsing reality, but minor things like diseases. This is a sealed chamber capable of analyzing anyone or thing placed inside. It will scan for any unknown diseases and other unique features that they possess in order to determine if their presence is harmful to any natives.",
+      "chapter": "R&D"
+    },
+    {
+      "__source": "The Celestial Vault - R&D",
+      "__line": 2,
+      "cost": 600,
+      "name": "The Shadowlight ",
+      "source": "Ciaphas Cain",
+      "description": "The Shadowlight is a powerful xeno artifact created by a race known as the Ancients. It was originally meant to be a powerful weapon meant to be used against the C’tan, but was destroyed. Despite this the relic is still incredibly powerful because of a side effect that it causes. Prolonged contact with the artifact can awaken psyker abilities in any individual and can increase the power of a psyker. This acts as both a passive and active boost. Meaning that slowly over time you will become stronger and while you are holding it your abilities will be boosted immensely.",
+      "chapter": "R&D"
+    }
+  ],
+  "11": [
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 1,
+      "cost": 200,
+      "name": "Dark Force Cage",
+      "source": "Dark Empire",
+      "description": "Sometimes you just want to transport a powerful prisoner without all the hassle of building a strong enough cage to contain them. That’s where this comes in; the Dark Force Cage serves as a solution to this age-old dark lord problem. Prisoners placed within its crackling confines will find all their abilities simply cease to function; the Force refuses to answer, and so on. Makes for a handy and portable solution given its ability to transport itself.",
+      "chapter": "Security"
+    },
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 2,
+      "cost": 200,
+      "name": "Robot Detector Machine",
+      "source": "Loki",
+      "description": "Please confirm to your knowledge that you are not a fully robotic being, were born an organic creature and do in fact possess what many cultures would call a soul. Not sure? Would you like to test this? This archway will scan anything passing through it, determine the nature of the being, presence of features such as a soul, and create a printout of their temporal aura. By default, this device will also proceed to melt the being from the inside out if it is a robot, but your version can switch this feature off if desired. If you wanted to weed out robotic duplicates, Life Model Decoys and other cybernetic infiltrators this might come in handy. Just be prepared to clear up the mess.",
+      "chapter": "Security"
+    },
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 3,
+      "cost": 400,
+      "name": " Time Twister",
+      "source": "Loki",
+      "description": "A security device used by the TVA to control and evade their prisoners when necessary. It can be used to temporally loop whoever it is secured to, which can be used to return a prisoner to their original position by a few seconds and prevent them from being able to successfully run away or attack. It can also be used to transport the target to a set location. It comes in the form of a collar to go on the prisoner and a remote control for the one guarding them, but unlike the standard model this collar can’t be removed or disabled by anyone you place it onto, and the mechanism won’t activate against your will. This might be useful for avoiding a prisoner successfully removing the collar and using the device on you. Just bear in mind that the Time Twister just loops whoever it is placed on, not anything else, so if furniture has been moved since the wearer was last sitting on it, they will fall to the ground if looped back to when they were in that position.",
+      "chapter": "Security"
+    },
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 4,
+      "cost": 200,
+      "name": "Jumpers Guard",
+      "source": "Revenge of the Sith",
+      "description": "You have been allowed your own set of private guards. This squad of red-clad soldiers are elite bodyguards for you. It seems these have been given the same training regime that has been proposed for future guards of the leader of the government, utterly loyal to you and highly skilled in various forms of martial arts, including Echani. They are equipped with vibroswords and force pikes, in addition to heavy blaster pistols for ranged combat. If you keep them around, you will find they are quite adept when it comes to anyone weaker than you are. They are less useful against those who would overpower or equally match you, and in such situations, you might be better off fleeing or fighting personally rather than relying on your guards to deal with them. While they will not dramatically pose unless you instruct them otherwise, they are exceptionally good at protecting or avenging you and are particularly effective against opponents whose combat abilities favour style over substance. Since they are intended to protect you at all times, all you need to do is call for them and at least two will step into view from obscured areas. This appearing and vanishing capability will not be regarded as unusual, though their sudden appearance can still take those that threaten you by surprise. They have unlimited ammunition for their weapons, and if killed or injured you can summon them again after one hour.",
+      "chapter": "Security"
+    },
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 5,
+      "cost": 100,
+      "name": "T-900 Infiltrator ",
+      "source": "Terminator",
+      "description": "Despite primarily being designed for infiltration, many T-800 models are not very... convincing. They are often robotic and emotionless, acting in ways that would very much raise eyebrows within modern society, let alone within the paranoia-filled Resistance cells that the T-800 is supposed to infiltrate. But that’s why this was built. Unlike its predecessor, the T-900 is truly human-like. A T-900 could infiltrate human society for years on end and most people will never consider their behavior to be anything other than human. Emotions, tears, everything really. And now, a T-900 has made it her life’s mission to protect and follow you. She is extremely knowledgeable with a multitude of information downloaded right into her database, and she will, to the best of her ability, use all that she is to serve you. Treat her well.",
+      "chapter": "Security"
+    },
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 6,
+      "cost": 50,
+      "name": "FENRIS Mech ",
+      "source": "Mass Effect -Legendary Edition ",
+      "description": "Designed by Hahne-Kedar specifically for security, this robotic canine is very friendly to its owner and their allies, while being a terror to its enemies. Their advanced sensors can detect weapons and narcotics, used in the same manner bomb and drug-sniffing dogs would, and this one is not hackable, meaning that pesky programmers won't be able to turn your beloved pet against you.",
+      "chapter": "Security"
+    },
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 7,
+      "cost": 0,
+      "name": "Friendly Mutant",
+      "source": "Fallout 3",
+      "description": "An intelligent super mutant who retained his intellect, Fawkes was held captive and tormented within Vault 87 for his entire existence. But you have come along and freed him, and for that, he's eternally grateful. With his mutant biology and a giant gatling laser, there's little that could stop him.",
+      "chapter": "Security"
+    },
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 8,
+      "cost": 200,
+      "name": "Assassin Droid",
+      "source": "The Mandolorian ",
+      "description": "Former assassin droids were reprogrammed to work as bounty hunters for a number of reasons they were efficient they had no conscious and they were cheap, you now have one of your own pre programmed to obey and protect you at any cost, this one is immune to reprogramming",
+      "chapter": "Security"
+    },
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 9,
+      "cost": 200,
+      "name": "Inhibitor Collar",
+      "source": "DC - Young Justice",
+      "description": "A special control collar designed to prevent the wearer from accessing their superhuman abilities, it can also apply enough electric shock to render a person unconscious. The collars must be pre-programmed for an individual's specific abilities. You receive a shiny new set of this collar, and blueprints on how to program them, and build more.",
+      "chapter": "Security"
+    },
+    {
+      "__source": "The Celestial Vault - Security",
+      "__line": 10,
+      "cost": 400,
+      "name": "Canoptek Spyder",
+      "source": "Necron",
+      "description": "Not all troops in the Necron arsenal were once Necrontyr. The Canoptek constructs bear the distinction of being entirely robotic in nature. One of the most important of these constructs is the Canoptek Spyder, meant to oversee Necron tombs while its inhabitants sleep. To aid in this purpose, the Canoptek Spyders are able to manufacture swarms of Canoptek Scarabs and direct them towards intruders, ripping them to shreds before they even have a chance to scream. Additionally, they are capable of repairing Necrons who are damaged beyond even Necrodermis' ability to repair.",
+      "chapter": "Security"
+    }
+  ],
+  "12": [
+    {
+      "__source": "The Celestial Vault - Vault",
+      "__line": 1,
+      "cost": 800,
+      "name": "UAC Mars Facility",
+      "source": "Doom 3",
+      "description": "One of the most advanced scientific research stations in the solar system, the UAC’s Mars facilities work on everything from energy production and terraforming to Archaeology and teleportation. It is one of the pinnacles of human achievement… and now, it is yours. Or at least, a copy of it is - perhaps one far enough away from the original that it’s safe from the coming demonic invasion? Coming with a full complement of (mostly) competent staff as well as a wide variety of interesting technologies, the facility now operates under your command. Whether you decide to take a more active hand in their research or simply leave them to their own interests, they’re guaranteed to come up with interesting ideas over time - usually in areas involving physics, weapons development, and so on. In future worlds, you’ll likewise become the owner of a large, productive center of scientific learning, though it doesn’t need to be on Mars as such.",
+      "chapter": "Vault"
+    },
+    {
+      "__source": "The Celestial Vault - Vault",
+      "__line": 2,
+      "cost": 600,
+      "name": "TVA Holoprojector",
+      "source": "Loki",
+      "description": "It seems you’ve acquired your own TVA Holoprojector, viewing room optional and attaching itself to any property you own or accessible via your Vault. Using this device, you can look up the records of how the lives of any individual should go without any interference. You can review their past, present and future, easily navigating to any specific point in their lives even if they’re thousands of years old. You seem to be the only one absent from the records, which might be due to either a filing error or your unusual nature. Curiously enough, hitting the device hard enough to crack the screen seems to create a peculiar error in the records, causing it to generate a variety of scenarios that could have occurred due to minor differences in events. Not particularly useful for the purposes of the TVA, but it could be interesting if you ever wondered... what if?",
+      "chapter": "Vault"
+    },
+    {
+      "__source": "The Celestial Vault - Vault",
+      "__line": 3,
+      "cost": 400,
+      "name": " Private Meeting Room",
+      "source": "Revenge of the Sith",
+      "description": "– Even if you and others share concerns about constitutional amendments that weaken the legislature or the potential rise of a dictatorship, actually meeting to discuss such developments can be dangerous. Now you have somewhere to meet without the fear of being arrested as traitors or spied upon. This room, which can be attached to any property you own, protects those within it from any attempts at monitoring or otherwise spying on the room and what occurs within it. It will not appear as a blank spot to any sensory technologies or abilities either, just generating generic but believable conversations and events to such comprehensive monitoring efforts that will be overlooked. Any agreements by those within it to keep secrets will be enforced, so once someone verbally agrees to keep a secret, even if they don’t want to, they will not even reveal it to their family or loved ones.",
+      "chapter": "Vault"
+    },
+    {
+      "__source": "The Celestial Vault - Vault",
+      "__line": 4,
+      "cost": 200,
+      "name": "Hall of Victories",
+      "source": "Mass Effect: Andromeda",
+      "description": "You now have a place to show off your successes, and maybe even include those of your subordinates. Any time you or your subordinates have a noteworthy victory, there will be another display piece here going over what happened, and how you (or your subordinate(s)) were critical. You can open up this hall to whoever you wish, inspiring those who visit, improving your fame, and improving their confidence and belief in you. People who have heard of you because of your improved fame will be more open to listening to you. You can also choose specific things to display, such as trophies or prototypes, or maybe even holographic displays of the important men and women who call you boss.",
+      "chapter": "Vault"
+    },
+    {
+      "__source": "The Celestial Vault - Vault",
+      "__line": 5,
+      "cost": 200,
+      "name": "Meditation Chamber",
+      "source": "Darth Bane Trilogy",
+      "description": "Both the Jedi and the Sith seem to share a love of meditating. The particularities of how they do it vary yes, but it’s well known that immersing oneself in the Force when alone has a plethora of benefits associated with it. This is your meditation chamber, a room for solitude and reflection. Mediation here brings with it great clarity of thought and the necessary rest sleep would otherwise bring to you.",
+      "chapter": "Vault"
+    },
+    {
+      "__source": "The Celestial Vault - Vault",
+      "__line": 6,
+      "cost": 200,
+      "name": "Lantean Control Chair ",
+      "source": "Stargate Atlantis",
+      "description": "Allows a person sitting in it to mentally control any technology hooked up to it - such as a starship or a defense network. No need for invasive cybernetic implants or cables jacking into your head - just sit in the chair and let your mind do the controlling. Such chairs are normally locked to the ATA gene, but you can lock this one to whatever conditions you like. As a special offer, you can also (dis)connect this particular chair to anything you bought with CP just by picking it up and putting it in or on that thing.",
+      "chapter": "Vault"
+    },
+    {
+      "__source": "The Celestial Vault - Vault",
+      "__line": 7,
+      "cost": 100,
+      "name": "Asgardian Armory",
+      "source": "",
+      "description": "When you have a collection of rare items, dangerous artifacts, or powerful weapons you want to show off... look no further. Gilded in gold and stone, this Vault Attachment has plenty of pedestals to place items of your choice up for display to prove your superiority or power over others. As a bonus, this place will continue to grow more resplendent and better reflect the items you place in here and the power you wielded to get them while holding plaques that give tales of their procurement. For an additional +200CP, items you place in here can be summoned to your person upon mentally commanding it while the Armory itself is protected and maintained by three Destroyer Units that are designed in a manner of your choosing.",
+      "chapter": "Vault"
+    },
+    {
+      "__source": "The Celestial Vault - Vault",
+      "__line": 8,
+      "cost": 400,
+      "name": "The Forge",
+      "source": "Deep Rock Galactic",
+      "description": "\"Of course, we are dwarves. Gone may be the days of hammering heated lumps of metal on an anvil but our creative spark has certainly not waned. Take a weapon to this marvel of technology and, for a modest exchange of specialized Minerals you can fabricate your own Overclocks for that weapon or piece of equipment. Such modifications can simply offer a small boost to what the piece already does well, offer a larger boost at a balanced detriment, or completely evolve how you use that piece of gear. The strength of the object you are attempting to modify will naturally affect the amount of Minerals you need to use for an upgrade, and what kinds of Minerals.\"",
+      "chapter": "Vault"
+    },
+    {
+      "__source": "The Celestial Vault - Vault",
+      "__line": 9,
+      "cost": 200,
+      "name": "Red Room",
+      "source": "MCU - 3",
+      "description": "holding cells and security systems in this grim structure belie it’s true purpose: Indoctrination into the Black Widow project. Vats full of pheromones within can be Red Room used to implant inhuman loyalty in those trained here, while the cold-eyed Widows already instilled in the project relentlessly instil in recruits the same fighting techniques that Natasha Romanov herself picked up-and perhaps a particularly talented student could even surpass her. Conveniently, this particular facility also produces the antidote to the pheromones if you ever need leverage...or have that peculiar Western affliction called “mercy” the Soviet Union long excised from itself in its pursuit of supersoldier excellence.",
+      "chapter": "Vault"
+    }
+  ],
+  "13": [
+    {
+      "__source": "The Celestial Vault - Workshop",
+      "__line": 1,
+      "cost": 100,
+      "name": "Holo Desk ",
+      "source": "Age of Ultron",
+      "description": "A table shaped device that can create holographic models perfect for study, analysis and reconstruction of a vast array of items, weapons and events. Come in any design and colour of your choice.",
+      "chapter": "Workshop"
+    },
+    {
+      "__source": "The Celestial Vault - Workshop",
+      "__line": 2,
+      "cost": 400,
+      "name": "Junkyard",
+      "source": "Mass Effect: Andromeda",
+      "description": "Junk to some is treasure to others. You get a doorway that leads to a small pocket universe that is filled with the local area’s lost, broken and/or discarded items. You might find broken gear, ruined vehicles, or maybe a pristine limited edition item that someone just forgot about. Everything in here will be somewhat useful to you, but you get to decide if its use is as a source of resources, or if something is worth fixing. The doorway takes the appearance of an expandable hula hoop that opens a portal to the pocket universe. The pocket universe will refill with junk as you travel, or as the local area around you generates junk that will be siphoned off. In addition.",
+      "chapter": "Workshop"
+    },
+    {
+      "__source": "The Celestial Vault - Workshop",
+      "__line": 3,
+      "cost": 200,
+      "name": "Toolkit ",
+      "source": "New Jedi Order",
+      "description": "A portable kit that happens to contain whatever you need for nonviolent use. From the most sophisticated of first aid kits to a hydrospanner to a delicate artisans tool.",
+      "chapter": "Workshop"
+    },
+    {
+      "__source": "The Celestial Vault - Workshop",
+      "__line": 4,
+      "cost": 200,
+      "name": "Pristine Crux 2000 Workbench",
+      "source": "The Outerworlds",
+      "description": "Normally, a Crux 2000 Workbench is a machine you’d see out there in Halcyon where you need to make upgrades, installing/removing mods, repair work on your equipment and so on, but this one is ‘different’. For one, it looks about as clean and factory new compared to other copies out there, so it’ll hopefully look nice wherever you place it. Another major difference is that anything repaired here will also somehow get this rather ‘Pristine’ quality added. This special quality makes the item in question vastly more durable and also just makes them look far nicer and far more valuable if one would wish to part the item for Bits. Oh, and the last one being that it can be easily modified to work on non-Haclyon tech as well, while still offering this special quality to make them ‘Pristine’ as well.",
+      "chapter": "Workshop"
+    },
+    {
+      "__source": "The Celestial Vault - Workshop",
+      "__line": 5,
+      "cost": 50,
+      "name": "Dum-E and U",
+      "source": "MCU -1",
+      "description": "Okay these robots may not do much, but they've got spirit! ...whatever passes for spirit in robots. Taking the form of single robot arms on treads, they try to do their best to aid you around your home and fulfill your wishes. Along with excellent pattern recognition they're unusually good at assisting with fabrication and mechanical construction of electrinics. Just be mindful that you need to word things properly .",
+      "chapter": "Workshop"
+    },
+    {
+      "__source": "The Celestial Vault - Workshop",
+      "__line": 6,
+      "cost": 400,
+      "name": "Delilah the Dark Elf",
+      "source": "MCU -1",
+      "description": "Not everyone agreed with the homicidal views of Malekith and his horde of Dark Elves in regard to the light in the universe. A rare few such as Deliah felt that their time had come and gone, and would resign themselves to seeing what this new state of creation could offer. She's very curious as a result, and it's a good idea not to leave her alone with any technology for more than ten minutes if you don't want it disassembled and in the process of being studied. She's very meticulous at recording anything she finds though, so perhaps it might be good to let her work.",
+      "chapter": "Workshop"
+    },
+    {
+      "__source": "The Celestial Vault - Workshop",
+      "__line": 7,
+      "cost": 100,
+      "name": "Engine-sister",
+      "source": "Warhammer 40k - Adeptus Mechanicus",
+      "description": "voluminous red robes cannot hide the curves beneath, to this woman's eternal embarrassment. Friendly and perky in conversation to both man and machine, she is torn between her desire to be closer to the machine and her attachment to humanity. The possibility of a harmonious union between the two has inspired her to follow you. She has all 100, 200, and 400cp enginseer perks. She also has 'subtle bionics' 'artisan' and one pick of 'magos designation.'",
+      "chapter": "Workshop"
+    },
+    {
+      "__source": "The Celestial Vault - Workshop",
+      "__line": 8,
+      "cost": 200,
+      "name": "Huragok Ally",
+      "source": "Halo",
+      "description": "Something of a surprise and most definitely an attention-grabber, a Huragok is supposed to be one of the members of the Covenant Homogeny and has normally been seen only in their presence. Yet Huragok, also known by those in the UNSC as 'Engineers', are primarily pacifistic and dedicate themselves purely to repairing and working on any technology around them. This particular one seems to have gotten lost and ended up deciding to follow you for the sake of making sure your technology was functioning. Aside from melodic whistling sounds that sound slightly similar to Earth whales, Huragoks communicate using either sign language with their tendrils or through text messaging thanks to their penchant of being biological supercomputers. Huragok are highly prized for being able to fix almost anything they touch, and you should expect a lot of questioning if someone spots you with one.",
+      "chapter": "Workshop"
+    }
+  ]
+}

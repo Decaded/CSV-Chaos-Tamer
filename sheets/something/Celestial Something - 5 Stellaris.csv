@@ -1,0 +1,213 @@
+0,Perk Name,Cost,Description
+1,Scientific Method,50 CP,"""Testable predictions of observable phenomena."" - You gain the equivalent of higher education in a field of scientific methodology. You know how to apply methodologies from societies many years ahead of humanity to your scientific research. It should help you in many small ways. Your skills and knowledge are average by the standards of this futuristic society. However, you have many blank spaces for knowledge and context lying beond scientific methodology field."
+2,Computing Tree,500(250) CP,"This perk gives you the ability to research and discover technologies from the Computing Tech Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+3,Field Manipulation Tree,500(250) CP,"This perk gives you the ability to research and discover technologies from the Field Manipulation Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+4,Particles Tree,400(200) CP,"This perk gives you the ability to research and discover technologies from the Particles Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 200 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+5,Biology Tree,500(250) CP,"This perk gives you the ability to research and discover technologies from the Biology Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+6,Military Theory Tree,400(200) CP,"This perk gives you the ability to research and discover technologies from the Military Theory Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+7,New Worlds Tree,400(200) CP,"This perk gives you the ability to research and discover technologies from the New Worlds Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+8,Statecraft Tree,600(300) CP,"This perk gives you the ability to research and discover technologies from the Statecraft Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+9,Psionics Tree,600(300) CP,"This perk gives you the ability to research and discover technologies from the Psionics Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Events."
+10,Archaeostudies Tree,600(300) CP,"This perk gives you the ability to research and discover technologies from the Archaeostudies Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Events."
+11,Cybrex Mining Hub,300 CP,"""To build their ring world, the Cybrex relied on highly efficient mining drones to survey and harvest orbital resources. Cybrex-made memory chips and sensors could outfit our own mining drones, so that we might put their millennia old algorithms to good use."""
+12,Irassian Naval Yards,300 CP,"""The Irassian astronaval tradition was unmatched in their time. Their shipyards produced a constant stream of ships for their navy and merchant fleets, which would ultimately be their downfall. With so many ships, and such a high reliance on them, the Irassians were powerless to quarantine the disease that would claim their empire."""
+13,Yuht Astronomical Interferometer,250 CP,"""The Yuht were a paradoxical society, obsessed with the idea of finding other sentient species, yet refusing to accept that they were not alone. They were so focused on disproving any claim of alien life, that their bias found a way into their technology. However, with the proper modifications and calibrations, we could certainly fix their powerful detection arrays."""
+14,	Zroni Storm Caster,400 CP,"""Zro is a fascinating element, prone to chaotic bursts of energy. We believe that with the right artifacts, we could use it to fuel spatial storms over entire solar systems."""
+15,First League Filing Offices,400 CP,"""The sprawling empire of the First League dwarfed our own at its peak, and relied on implacable bureaucracy to keep the wheels of the state in motion. The quantic filing arrays they used afforded them unprecedented efficiency in the sorting and storing of documents."""
+16,Baol Organic Plant,500 CP,"""The Baol Organism had a unique way of producing tools. Given the species' relative slowness, they would simply grow them out of organic matter in locations that were half orchard, half factory. With the proper genetic adjustments, we could also grow various commodities and tools alongside our regular crops."""
+17,Vultaum Reality Computer,500 CP,"""The reality computers of the Vultaums were unique processing units, dedicated to analyzing existence itself, not quite through physics, but rather by trying to reverse engineer reality's source code and find the glitch that would finally allow the Vultaums to take down the simulation where they believed they lived."""
+18,Industry Tree,600(300) CP,"This perk gives you the ability to research and discover technologies from the Industry Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+19,Materials Tree,600(300) CP,"This perk gives you the ability to research and discover technologies from the Materials Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+20,Propulsion Tree,400(200) CP,"This perk gives you the ability to research and discover technologies from the Propulsion Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 200 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+21,Voidcraft Tree,500(250) CP,"This perk gives you the ability to research and discover technologies from the Voidcraft Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events."
+22,Active Countermeasures,100 CP,"""The best defense is a good offense."" This perks make you an expert in planning and building relatively primitive Sentinel Point-Defense systems."
+23,High-Energy Capacitors,100 CP,"""Capacitors capable of storing vast amounts of energy is one of the cornerstones for any modern civilization."" You posess a theoretical knowledge and a few variations of blueprints to make High-Energy Capacitors, and a degree of skill to produce and use them"
+24,Deflectors,100 CP,"""Energy deflector screens can stop a limited amount of incoming enemy fire before overloading. Their main drawback is that they consume large amounts of power."" You gain insight into Deflector technology, theory behind it and several blueprints to apply it."
+25,Fission Power,50 CP,"""This energy source generates power for ships through induced fission, but it also produces harmful nuclear waste."" You gain the equivalent of higher education in the field of fission power. Your skills and knowledge are average by the standards of this futuristic society. However, you have many gaps in your knowledge and context beyond the fission power field."
+26,Reactor Boosters,50 CP,"""Additional power generation systems increase the ship's reactor output."" You gain blueprints and a basic theoretical understanding sufficient to construct Reactor Boosters yourself."
+27,"Hyperspace Travel
+",250 CP,"""Like the strands of a spider web, the extra-dimensional realm of hyperspace runs between the gravity wells of most stars. Faster-than-light travel is theoretically possible along these hyperlanes."" You gain insight into the theory of hyperspace travel and a few blueprints of devices to experimentally prove parts of it."
+28,Red Lasers,150 CP,"""Laser weapons fire focused beams of light at targets, causing damage through the generation of intense heat."" You are a skillful engineer specializing in the maintenance and construction of Red Laser weapons."
+29,Subspace Drive,250 CP,"""An insight born of a desperate desire to leave our home, these Subspace Drive engines were designed to facilitate limited interstellar travel. While only allowing small-scale jumps, they provide a unique opportunity to jump-start our galactic exploration."" You gain a blueprint and just enough skill to start and complete the Subspace Drive engine megaproject, but nearly no theoretical context beyond needed."
+30,Fruit Gardens,200 CP,"""Vacuum gardens full of bio-engineered fruits, genetically enhanced to attract spaceborne fauna."" You know how to build such gardens and bio-engineer a variety of organisms for them."
+31,Medical Care,100 CP,"""A micro-unit of prevention is worth a macro-unit of cure. However, sometimes both are needed."" You are a doctor with education from a future society with average level of capability by thier standarts."
+32,Industrial Agriculture,50 CP,"""Large-scale industrial farms growing nutrient-rich produce allow a civilization to increase its population manifold."" You have the expertise of someone who used to run and oversee the construction of such large-scale industrial farms."
+33,Energy Burster,50 CP,"""Fires bio-projectiles that emit bursts of energy upon impact, subtly enhancing the maneuverability of our vessels."" Blueprints and skills to grow/create such devices are in your mental library."
+34,Vector Lock Cannon,50 CP,"""Biologically enhanced projectiles are fired, countering evasive maneuvers and striking agile targets."" Blueprints and skills to grow/create such devices are in your mental library."
+35,Maulers,200 CP,"""Breakthroughs in bio-engineering have allowed the growth of space-faring, FTL-capable craft with military applications."" 
+Blueprints and skills to grow/create such devices are in your mental library along with average skills to pilot one."
+36,Weavers,200 CP,"""Building on the foundations of early bio-engineering, Weavers are crafted to balance agility with increased combat capabilities."" Blueprints and skills to grow/create such devices are in your mental library along with average skills to pilot one."
+37,Planetary Defenses,100 CP,"""There may come a time when intellects, vast and cool and unsympathetic, regard our worlds with envy and draw plans against us. We must be ready."" You are an expert of average skill in planetary defence planning and overseeing."
+38,New Worlds Protocol,50 CP,"""Calculating required resources and gear required to establish a planetary colony allows us to herd brave pioneers into grand ""ark ships"", confident that they will survive the long voyage across the stars to a new home."" You know new world protocols and have basic skills to apply them."
+39,Planetary Germination,100 CP,"""To spread our roots to a new world, we first need to prepare the seedbed. By terraforming a planet, we can ensure that our colonies get off to a healthy start."" You are an expert of average skill, who oversees and help planning terraforming colonization projects."
+40,Planetary Government,100 CP,"""Once a colony has been firmly established and pioneers turn into citizens, the need for a strong local government providing stability trumps the colonial need for flexibility."" You are an expert in the field of planetary governing with an average level of education according to future individualist society standards. "
+41,Planetary Plexus,100 CP,"""Our colonies would wither to naught without the stable projection of our collective self. Our effortless presence ensures a flourishing hive."" You have theoretical knowledge and talent at planetary governing practices of hive mind type of future society."
+42,Planetary Instantiation,100 CP,"""Our colonies would never achieve stable operation without infrastructure dedicated to our networked self."" You have theoretical knowledge and talent at planetary governing practices of hive mind type of machine intelligence type of future society."
+43,Holo-Entertainment,50 CP,"""The latest in holographic entertainment. Entire worlds built out of photons and energy fields."" You are an average-skilled expert in holo-engineering and design."
+44,Interplanetary Commerce,50 CP,"""With new planetary markets comes new opportunities for commerce. Business will be booming."" You are an average-skilled expert in interplanetary commerce."
+45,Sociocultural History,50 CP,"""An understanding of a shared past is necessary in order to make any significant strides into the future."" You are an expert historian and monument builder of average skill from future society."
+46,Synaptic Structures,150 CP,"""Through the development of macroscopic synaptic nodes, the will of the Hive will be strengthened."" You have blueprints on how to build and instructions on how to operate various synaptic structures of hive-mind-type future society."
+47,Industrial Base,300 CP,"""The basic industrial infrastructure that is required to become a spacefaring civilization."" You have an extensive theoretical base and exceptional talent in planning and building basic industrial infrastructure at the level of a future society. Although, no specific blueprints."
+48,Offworld Construction,250 CP,"""Construction in space presents our engineers with new design challenges that must be solved before we can build orbital stations above other worlds."" You have an extensive theoretical base and exceptional talent in offworld construction planning and building at the level of a future society. Although, no specific blueprints."
+49,Mechanized Mining,200 CP,"""The basic industrial infrastructure that is required to become a spacefaring civilization."" You have a mental compendium of blueprints and instructions on how to plan, build, operate, and maintain the basic industrial infrastructure of a future civilization. However, you have no practical skills."
+50,Nanocomposite Materials,100 CP,"""Reinforced nanocomposite hull plating can provide an extra layer of protection that could be the difference between life and death in a combat situation."" You are an expert in a field of nanocomposite materials. You know how to make and apply them, and some theory behind how they fundamentally work."
+51,Chemical Thrusters,100 CP,"""Simple yet moderately effective chemical thrusters that rely on combustible propellant to function.""
+You have a mental compendium of blueprints and instructions on how to plan, build, operate, and maintain chemical thrusters of a future civilization level technology. However, you have no practical skills."
+52,Flak Battery,150 CP,"""Gun batteries that fire shrapnel rounds at close range. They are particularly lethal to enemy strike craft, but can also defend against missiles."" You have a mental compendium of blueprints and instructions on how to plan, build, operate, and maintain flak battery weaponary of a future civilization level technology. However, you have no practical skills."
+53,Nuclear Missiles,150 CP,"""Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range."" You have a mental compendium of blueprints and instructions on how to plan, build, operate, and maintain space-to-space nuclear missiles weaponary of a future civilization level technology. However, you have no practical skills."
+54,Mass Drivers,150 CP,"""These electromagnetic projectile launchers use magnets to accelerate armor-piercing rounds towards targets at high speeds."" You can build one from scratch and modify them in a few ways, but you don't actually know how they work fundamentally. Just how to make, operate and maintain them."
+55,	Space Exploration,200 CP,"""The Science Ship is used as a base of operations for a top Scientist, ready to explore the vastness of space."" You can build, maintain, and operate such a ship with suitable tools on hand, but you lack an extensive theoretical background about why it is constructed this way."
+56,Interplanetary Expeditionary Forces,50 CP,"""The invasion of another world is a staggering enterprise. There are immense logistical challenges that must be overcome before we can muster our first interplanetary armies."" You have education in military logistics of interplanetary forces."
+57,Deep Space Defenses,150 CP,"""This will enable the construction of defensive deep space platforms to protect our Starbases."" You know how to build, operate, maintain and modify simple defensive deep space platforms."
+58,Orbital Energy Conversion,150 CP,"""Advances in solar panel technology could offset the operating costs of our starbases. The panels would require an entire starbase module to generate enough energy, however."" You know how to build, operate, maintain and modify such panels, and also basic theory behind thier inner working."
+59,Starbase Construction,200 CP,"""A centralized space installation built in close orbit around the system primary is necessary to make full use of the resources in a star system."" You can build, maintain, and operate such a base with suitable tools on hand, but you lack an extensive theoretical background about why it is constructed this way."
+60,Starport,200 CP,"""The earliest starbases were little more than makeshift outposts. Permanent starports will enable us to maintain a firmer grip on star systems."" You can build, maintain, and operate such a base with suitable tools on hand, but you lack an extensive theoretical background about why it is constructed this way."
+61,Corvettes,150 CP,"""The Corvette is the most basic military ship, armed and ready in the event of hostile contacts."" You can build, maintain, and operate such a base with suitable tools on hand, but you lack an extensive theoretical background about why it is constructed this way."
+62,Event Computing Technologies,600 CP,"This perk gives you one randomly chosen Event Computing Technology to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP."
+63,Event Field Manipulation Ttechnologies,600 CP,"This perk gives you one randomly chosen Event Field Manipulation Ttechnologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP."
+64,Event Particles Technologies,600 CP,"This perk gives you one randomly chosen Event Particles Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP."
+65,Biology Event Technologies,600 CP,"This perk gives you one randomly chosen Biology Event Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP."
+66,Predatory Tactics,300 CP,"""Just like how clever pre-FTLs move to conceal each other as they approach an enemy, so too can our pilots move faster without disrupting their cloaking field."""
+67,Alien Topography,300 CP,"""Civilizations flourish in locations that promotes growth, and by analyzing where the majority of pre-FTL settlements thrive we can gain more out of our colonies."""
+68,Statecraft Event Technologies,600 CP,"This perk gives you one randomly chosen Statecraft Event Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP."
+69,Psionics Event Technologies,600 CP,"This perk gives you one randomly chosen Psionics Event Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP."
+70,Lost Building Methods,300 CP,"""Any civilization with a long enough history has examples of great wonders built by forgotten ancients which can no longer be replicated. Luckily for us we have documented these great ancients when they appeared on pre-FTL worlds."""
+71,Leviathan Tech Genesis,500 CP,"""Utilizing the received knowledge seized from Leviathans, we now have access to new improvements for our frames."""
+72,Event Materials Technologies,600 CP,"This perk gives you one randomly chosen Event Materials Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP."
+73,Event Propulsion Technologies,600 CP,"This perk gives you one randomly chosen Event Propulsion Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP."
+74,Event Voidcraft Technologies,600 CP,"This perk gives you one randomly chosen Event Voidcraft Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP."
+75,,,
+76,,,
+77,,,
+78,,,
+79,,,
+80,,,
+81,,,
+82,,,
+83,,,
+84,,,
+85,,,
+86,,,
+87,,,
+88,,,
+89,,,
+90,,,
+91,,,
+92,,,
+93,,,
+94,,,
+95,,,
+96,,,
+97,,,
+98,,,
+99,,,
+100,,,
+101,,,
+102,,,
+103,,,
+104,,,
+105,,,
+106,,,
+107,,,
+108,,,
+109,,,
+110,,,
+111,,,
+112,,,
+113,,,
+114,,,
+115,,,
+116,,,
+117,,,
+118,,,
+119,,,
+120,,,
+121,,,
+122,,,
+123,,,
+124,,,
+125,,,
+126,,,
+127,,,
+128,,,
+129,,,
+130,,,
+131,,,
+132,,,
+133,,,
+134,,,
+135,,,
+136,,,
+137,,,
+138,,,
+139,,,
+140,,,
+141,,,
+142,,,
+143,,,
+144,,,
+145,,,
+146,,,
+147,,,
+148,,,
+149,,,
+150,,,
+151,,,
+152,,,
+153,,,
+154,,,
+155,,,
+156,,,
+157,,,
+158,,,
+159,,,
+160,,,
+161,,,
+162,,,
+163,,,
+164,,,
+165,,,
+166,,,
+167,,,
+168,,,
+169,,,
+170,,,
+171,,,
+172,,,
+173,,,
+174,,,
+175,,,
+176,,,
+177,,,
+178,,,
+179,,,
+180,,,
+181,,,
+182,,,
+183,,,
+184,,,
+185,,,
+186,,,
+187,,,
+188,,,
+189,,,
+190,,,
+191,,,
+192,,,
+193,,,
+194,,,
+195,,,
+196,,,
+197,,,
+198,,,
+199,,,
+200,,,
+201,,,
+202,,,
+203,,,
+204,,,
+205,,,
+206,,,
+207,,,
+208,,,
+209,,,

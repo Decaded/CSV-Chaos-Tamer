@@ -1,0 +1,1587 @@
+{
+  "1": [
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 1,
+      "id": 1,
+      "name": "Builder's Might",
+      "cost": 1000,
+      "description": "You have access to powers inspired by a player character from the Minecraft game. You have an inventory, can craft and gather resources with incredible speed and efficiency, and are capable of imbuing built structures with the ability to defy gravity (until they are disturbed too much). You also have enhanced physical capabilities and faster healing without scars, at the cost of increased hunger while healing or performing above human limitations. You can even respawn after death once every 24 hours in your last place of sleep, if its still intact, accessible and your soul is intact.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 2,
+      "id": 2,
+      "name": "Crating Book",
+      "cost": 100,
+      "description": "You have access to a mental compendium containing blueprints for all craftable items from the Minecraft game. It doesn't grant you skill or knowledge of the intricate inner workings of what you build, nor does it include variations of the same blueprint - just a list of specific items you know how to craft. It provides step-by-step instructions, images, and parameters to keep in mind. It doesn't give you skill or ability to use your creations, nor does it grant access to brewing, enchanting, or other supernatural capabilities. You know the specific recipes, but you lack magic and skill.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 3,
+      "id": 3,
+      "name": "Vanilla Brewing",
+      "cost": 200,
+      "description": "This perk gives you the ability to use magic for Minecraft-style brewing, along with talent in this craft and scholarly intuition - covering the general theory behind the process and how to actually apply potions in correct or unusual ways. It doesn't provide you with specific recipes but allows you to explore, test brews, and tweak existing blueprints in your possession beyond what the original game lets players do. You need this to use brewing stand effectively.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 4,
+      "id": 4,
+      "name": "Vanilla  Enchanting ",
+      "cost": 300,
+      "description": "This perk gives you the ability to use magic for Minecraft-style enchantment art, along with talent in this craft and scholarly intuition - covering the general theory behind the process and how to actually apply enchanted items in correct or unusual ways. It doesn't provide you with specific recipes but allows you to explore, test, and apply enchantments to different items, and to tweak existing blueprints in your possession beyond what the original game permits. You need this perk to use the enchanting table effectively.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 5,
+      "id": 5,
+      "name": "Jack of Basic Trades",
+      "cost": 50,
+      "description": "You have basic skills and knowledge in many areas: farming, animal rearing, riding, mining, map-making, fishing, etc. Whatever the player can do in the game, you can also do on a basic level. For example, it won't be too hard for you to chop down a tree, build a simple hut, or hunt down some wild animals. However, you are still an amateur in all these areas. Still better than having nothing.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 6,
+      "id": 6,
+      "name": "Villager Trades ",
+      "cost": 100,
+      "description": "You gain an average level of skill in haggling and primitive commerce. Additionally, when you roll this perk, you gain average skill and knowledge in any one villager profession of your choice. You can pay an additional 100 CP or wait for this perk being rolled again to acquire more areas of expertise until you have them all. The list of villager professions includes: Armorer, Butcher, Cartographer, Cleric, Farmer, Fisherman, Fletcher, Leatherworker, Librarian, Mason, Shepherd, Toolsmith, and Weaponsmith.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 7,
+      "id": 7,
+      "name": "Structural Know-how",
+      "cost": 150,
+      "description": "You are a skillful architect and builder. You have expertise in building all Minecraft structures that generate naturally in the game and have blueprints of them. You can use your skills to design your own projects and bring them into reality as a professional builder.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 8,
+      "id": 8,
+      "name": "Gate Making",
+      "cost": 600,
+      "description": "You have the skills, theoretical knowledge, and actual capability to build functional portals into the Nether and the End, even if the world you are currently in cannot usually access these dimensions. However, you cannot build any custom variations of portals.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 9,
+      "id": 9,
+      "name": "Technically Infinite Dimensions",
+      "cost": 600,
+      "description": "This perk gives you the ability to modify existing Nether portals to access variety of random dimensions from the April Fools Minecraft snapshot 20w14∞. You don't know what awaits you on the other side before checking things out. It can be good, it can be bad, but mostly weird, random, and chaotic. The beauty of wild magic!",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 10,
+      "id": 10,
+      "name": "Vanilla Golems",
+      "cost": 250,
+      "description": "You have a supernatural ability, theoretical background knowledge and actual skill at building golems. Although, you only have blueprints for types present in the game. They listen to your orders and are generally aligned with you, although they are not very smart beyond their primary function and can be tricked easily. If they don't have any orders - they just follow their basic innate programming or become idle.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 11,
+      "id": 11,
+      "name": "Dungeon Armory",
+      "cost": 200,
+      "description": "You have access to a mental compendium containing blueprints to create all craftable weapons and armor from the Minecraft Dungeons game. You also have a basic degree of skill to actually use your creations. Although, it might be problematic to craft/use some stuff without access to specific magics.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 12,
+      "id": 12,
+      "name": "Dunegon Artefacts ",
+      "cost": 400,
+      "description": "You have the ability to craft and use all artifacts and consumables from the Minecraft Dungeons game. It provides knowledge about the usage and functions of each artifact/consumable, but not actual blueprints or theories. This is mostly tinker-bullshit.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 13,
+      "id": 13,
+      "name": "Dungeon Enchanting",
+      "cost": 200,
+      "description": "This perk gives you the ability to use magic to do Minecraft Dungeons-style enchanting. It provides a few specific recipes, some basic theory, and expertise in the field. It works much better with the Vanilla Enchanting perk present but functions somewhat without it.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 14,
+      "id": 14,
+      "name": "What Are We Looking At",
+      "cost": 100,
+      "description": "This thinker power gives you some basic information about the things you directly look at. It mainly provides details such as health, name, type of the item, the level of tools needed to harvest it effectively, and so on. These are some short and useful pieces of information to know, but nothing deep.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 15,
+      "id": 15,
+      "name": "Just Enough Items",
+      "cost": 400,
+      "description": "This thinker power gives you the ability to obtain a mental blueprint to craft whatever object you are holding in your hands or currently exploring. It provides the simplest, most straightforward version of the blueprint first and uses your other perks and knowledge to provide it More complex items will require more time to obtain blueprints, or the power might not be able to give you a recipe if it’s unfeasible to create the item with the abilities you currently have. Creating a working instance of the object using the obtained blueprints can result in some new variations of the original blueprint, especially if you're lucky or if the power learns something important in the process. This is great for reverse engineering.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 16,
+      "id": 16,
+      "name": "Waystones",
+      "cost": 250,
+      "description": "This perk adds the ability to craft and enchant waystone pillars (and all accessories to use them) that you can return to once they've been activated. Either through a Warp Scroll, a rechargeable Warp Stone, or by using an existing waystone to hop from one to the other. You have the necessary skills and abilities to create things, but do not actually know how they work.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 17,
+      "id": 17,
+      "name": "Extensive Automated Mapping",
+      "cost": 300,
+      "description": "You have an ability, which is an amalgamation of functions from several minimap mods such as Xaero's Minimap or JourneyMap. This mental power gives you a customizable map that automatically updates, detects and categorizes creatures around you, and provides information like the time and other details. You can even create waypoints, but you don't have access to any fast travel functions.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 18,
+      "id": 18,
+      "name": "Create",
+      "cost": 350,
+      "description": "You have access to all blueprints, expertise, and skills to create and use devices from the Create mod for Minecraft and several famous addons for it. It's mostly about mechanical devices, factories, and some tinker-bullshit stuff here and there. Addons on the list include: Steam 'n' Rails; Crafts & Additions; Big Cannons; New Age; Enchantment Industry; Utilities; etc. It takes more time and effort to explore addons to the original: further from the main theme - the harder and more vague things become.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 19,
+      "id": 19,
+      "name": "Thermal Expansion",
+      "cost": 500,
+      "description": "This perk gives you access to all blueprints, expertise, and skills to create and operate machines from the Thermal Expansion Minecraft mod. It includes all main modules of this mod: Foundation; Cultivation; Dynamics; Innovation; Integration; Locomotion. It also includes various famous addons to the mod, but exploring these directions is more difficult, takes more time, and can be rather tedious. As you go further from the main theme of the mod and towards the addons, the tasks become harder and more vague.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 20,
+      "id": 20,
+      "name": "Applied Refined Storage",
+      "cost": 600,
+      "description": "You have access to all blueprints, a theoretical base, and the skills to create and utilize concepts from Applied Energistics and Refined Storage mods and thier various addons. Conversion of matter and energy into digital form for storage, transportation, retrieval, and even processing - these are main themes of the mod. However, as you go further from the main theme of the mod and towards the addons, things become harder and more vague to understand and create reliably.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 21,
+      "id": 21,
+      "name": "Mekanism",
+      "cost": 400,
+      "description": "You have access to blueprints of all craftable items, a theoretical base, and basic skills necessary to create machines and devices from the Mekanism mod and its various popular add-ons. This perk includes the contents of all Mekanism mod modules: Additions, Generators, and Tools. However, as you move further from the main theme of the mod and toward the add-ons, things become more complex and less straightforward to understand and create reliably.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 22,
+      "id": 22,
+      "name": "Immersive Engineering",
+      "cost": 250,
+      "description": "You have access to blueprints of all craftable items, expertise to create and operate machines and devices from the Immersive Engineering mod and its various popular addons. It also provides you with an equivalent of a high-end professional education in the area of engineering by 20th-century standards. Addons are more vague, the further away they are from original mod.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 23,
+      "id": 23,
+      "name": "Botania",
+      "cost": 400,
+      "description": "You gain access to magical abilities required to create items and structures from the Botania mod. You also gain basic theoretical background, starting blueprints, and the ability to explore more content of this mod through acts of creation, experimentation, and research. Progression and content also include some addons to the mod, but the further you go from the original theme, the more vague and tedious things become.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 24,
+      "id": 24,
+      "name": "Tinker's Construct",
+      "cost": 200,
+      "description": "You gain the needed knowledge, blueprints of craftable items, skills, and abilities to produce items and machines from Tinker's Construct mod and its various addons and extensions. This power is partly magical, allowing you to bring out unique and exotic functionalities from even seemingly mundane materials. It's even possible for you to discover some new properties and combinations of materials that are not included in the original mod and its various addons.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 25,
+      "id": 25,
+      "name": "Doing Cool Stuff With Pressurised Air",
+      "cost": 150,
+      "description": "You gain access to blueprints for craftable items from the PneumaticCraft mod and significant talent in pneumatic technology overall. It doesn't include much actual practical skill but does provide education on pneumatic systems and their applied uses.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 26,
+      "id": 26,
+      "name": "Charging Gadgets",
+      "cost": 50,
+      "description": "This is a very simple mod that adds a single block - the charging station. It is basically a full Tinkertech device, capable of recharging almost any other item from Minecraft mods, and it can even be tweaked/modified to charge other unrelated items. You don't know how it works, but you are sure it shouldn't work so well with such a simple design. On the other hand, it's an easy solution for recharging whatever devices you might have on hand. Maybe researching the thing in depth might help you to figure some little things out...",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 27,
+      "id": 27,
+      "name": "Extreme Reactors",
+      "cost": 250,
+      "description": "This perk lets you build giant reactors (small by real reactor's standarts) to harness the power of the atom and mighty turbines to turn steam into energy. It mainly includes blueprints, a deep understanding with extensive expertise in maintenance and proper usage of this kind of technology (mostly specifically these reactors), and some required background theoretical information.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 28,
+      "id": 28,
+      "name": "Mystical Agriculture",
+      "cost": 400,
+      "description": "You gain a supernatural ability to craft and grow magical plants to produce resources from the Mystical Agriculture mod. It mainly includes items from Minecraft and various mods for the game. You have a great talent for gardening and intuition for magical flora.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 29,
+      "id": 29,
+      "name": "Vein Mining",
+      "cost": 300,
+      "description": "This striker power is inspired by various mods, which allow players to mine extensive quantities of material at once. You can start chopping down a tree, activate this ability, and the whole tree will be disassembled into the needed materials much quicky by propagating effect. However, you require specific tools for each type of material/structure. It also makes you hungrier faster, and tools will break and proportionally use more energy/fuel to achieve efficient excavation for bigger quantites of material. Complex structures made from many different materials cannot be reliably broken down with vein mining and there is size limitations for each excavation. If you have a personal inventory, mined resources will go there. If not, they will be neatly piled nearby.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 30,
+      "id": 30,
+      "name": "The Aether",
+      "cost": 600,
+      "description": "This perk gives you the ability to build a working Aether portal into the dimension of the same name, even if it shouldn't work in your current world. This dimension is inspired by various versions of the Aether mod for Minecraft. You gain basic knowledge about things on the other side, some information about materials and structures of interest, and great adaptability to high altitudes. You require to have glowstone or some really close-enough material to build this portal.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 31,
+      "id": 31,
+      "name": "Better Dimensions ",
+      "cost": 400,
+      "description": "If you can build portals into the Nether and the End, you now can modify them to lead into their modded versions instead. You can mix and match different combinations of mods, such as Better Nether, to extensively modify each portal and the world on the other side. However, there is only one version of a dimension for each modified portal decided by the moment you firstly created specific variation of the gates. It takes time and resources to modify a portal, and you should be able to build vanilla Minecraft portals in the first place for this ability to work. Additionally, you have extensive and in-depth knowledge about all things from different mods to change the Nether and the End. You know materials, structures, creatures, flora, dangers, and useful tricks.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 32,
+      "id": 32,
+      "name": "Spartan Weaponry",
+      "cost": 100,
+      "description": "This is an extension of blueprints for weapons, tools, and other items from vanilla Minecraft. You have enough knowledge and skills to craft items from the Spartan Weaponry and Spartan Shields mods. You also have the equivalent of extensive training to use each weapon from the mod with an above-average degree of finesse, along with great talent to easily advance these skills toward mastery.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 33,
+      "id": 33,
+      "name": "Draconic Evolution",
+      "cost": 800,
+      "description": "This perk gives you knowledge, blueprints of craftable items, and skills to create and utilize things from the Draconic Evolution mod. It includes many high-tier items and is quite resource-intensive. It's more of a magitech creation capability. Don't accidentally explode yourself and your neighbors.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 34,
+      "id": 34,
+      "name": "Dis-Enchanting",
+      "cost": 100,
+      "description": "This perk gives you the ability to create and operate devices or machines for dis-enchanting work. You now have a way to recover enchantments from enchanted objects or books. It is mostly inspired by the mod of the same name as the perk. This works best for Minecraft-style and closely related types of enchanting. It is basically useless for other situations.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 35,
+      "id": 35,
+      "name": "Ore Generation",
+      "cost": 0,
+      "description": "Congratulations! After acquiring this perk, you can force Minecraft-style ore generation into any landscape you target once. Within a radius of one thousand chunks (around 1,600 meters) around you, different ores from vanilla Minecraft will appear underground - ranging from coal and iron to amethyst geodes and redstone. All ores have unique properties inspired by their source game. You can hold this effect activation for as long as you want, until you find a place you like to target and use it. This perk can be rolled multiple times stockpiling activations in storage. Each additional roll after the first buy will be discounted to 200 CP.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 36,
+      "id": 36,
+      "name": "Cheap Storage Solutions",
+      "cost": 250,
+      "description": "You have the ability to create chests, drawers, and other vessels to store an impossible quantity of items. Some of these are good at storing only objects of a specific type, while others can be filled with anything (which can lead to sorting problems). It includes some tools to assist with sorting and devices inspired by mods like Storage Drawers, Sophisticated Backpacks and Iron Chests allowing you to experiment with many functions. However, this perk is essentially tinkertech on maximum settings. Maybe later, you'll be able to create actual 'bigger on the inside' boxes without fiat reality warping enforcing things to just work.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 37,
+      "id": 37,
+      "name": "Tempad",
+      "cost": 300,
+      "description": "This perk gives you access to blueprints for craftable items from the Tempad mod, along with specks of basic theory and skills to actually use all the devices provided by this perk. It is mainly about creating portals and instantly traveling within the world.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 38,
+      "id": 38,
+      "name": "EvilCraft",
+      "cost": 350,
+      "description": "This perk gives you supernatural capabilities, basic knowledge, and starting blueprints to explore and utilize content inspired by the EvilCraft mod for Minecraft. You gain one Dark Gem from this perk for free, know how to use it in a ritual to obtain a special book.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 39,
+      "id": 39,
+      "name": "Oritech",
+      "cost": 300,
+      "description": "You gain access to blueprints for craftable items, methodologies, and levels of scientific knowledge to create, maintain, and use devices from the Oritech mod for Minecraft.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 40,
+      "id": 40,
+      "name": "Modular Force Field Systems",
+      "cost": 150,
+      "description": "This perk gives you blueprints and skills to create, use, and maintain a variety of devices from the Modular Force Field Systems mod for Minecraft. It can be built relatively cheaply if you really go full tinkertech. However, you have almost no knowledge about how these forcefields function on fundamental level.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 41,
+      "id": 41,
+      "name": "Thaumcraft",
+      "cost": 500,
+      "description": "This perk gives you the ability to use Thaumcraft-style magic and conduct unusually fast and efficient research into the contents of this mod. The contents include various versions of the mod and famous addons for it as well. You can awaken ability to use magic in other people with this perk and some ingenuity.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 42,
+      "id": 42,
+      "name": "Ender IO",
+      "cost": 500,
+      "description": "This perk gives you access to blueprints of all craftable items from the Ender IO Minecraft mod, as well as general theory and basic skills to utilize devices from this mod.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 43,
+      "id": 43,
+      "name": "Mining Gadgets",
+      "cost": 100,
+      "description": "\"Sometimes you want a quick change of pace when it comes to mining. Pickaxes. Drills. Bores. Robots. Quarries. These are all great options. Now you can use lasers too if you want.\" You have blueprints to craft such tools and great skill in using them in practice. You can easily go full tinkertech with this perk.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 44,
+      "id": 44,
+      "name": "Iron Jetpacks",
+      "cost": 100,
+      "description": "You can build and expertly use devices from the Iron Jetpacks mod. They are full-blown tinkertech machines, mostly without any actual theory or reasonable explanation of how they work.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 45,
+      "id": 45,
+      "name": "Tetra",
+      "cost": 100,
+      "description": "You gain access to all the necessary skills and knowledge to modify tools and weapons in the style of the Tetra mod. This can even be applied to things beyond the scope of this mod, if you are creative.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 46,
+      "id": 46,
+      "name": "Biomancy",
+      "cost": 200,
+      "description": "You have access to blueprints, knowledge, and the necessary magical ability to make devices and machines from the Biomancy mod.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 47,
+      "id": 47,
+      "name": "Industrial Craft",
+      "cost": 400,
+      "description": "You have access to blueprints, knowledge, and basic skills to create machines and devices from the Industrial Craft mod, its different versions, and addons. The more you stray from the original mod's theme and into addons, the harder it becomes to make sense of things.",
+      "chapter": "Minecraft"
+    }
+  ],
+  "2": [
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 1,
+      "id": 1,
+      "name": "Red Science",
+      "cost": 100,
+      "description": "You gain the ability to gradually acquire both theoretical and practical knowledge of Factorio-style automation. You start with basic stuff from the perk and need to build and use devices, as well as proactively automate processes, to push this ability further and further until you reach a limit of the perk decided by Factorio game content.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 2,
+      "id": 2,
+      "name": "Green Science",
+      "cost": 100,
+      "description": "You gain the ability to gradually acquire both theoretical and practical knowledge of Factorio-style logistics. You start with basic stuff from the perk and need to build and use devices, as well as proactively utilise industrial logistics, to push this ability further and further until you reach a limit of the perk decided by Factorio game content.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 3,
+      "id": 3,
+      "name": "Gray Science",
+      "cost": 150,
+      "description": "You gain the ability to gradually acquire both theoretical and practical knowledge of Factorio-style military production. You start with basic stuff from the perk and need to build and use military devices, to push this ability further and further until you reach a limit of the perk decided by Factorio game content. Conflict using devices created by your play a big role in progressing this tech-tree. You need actual battles for the best returns.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 4,
+      "id": 4,
+      "name": "Blue Science",
+      "cost": 150,
+      "description": "You gain the ability to gradually acquire both theoretical and practical knowledge of Factorio-style chemical science and production. You start with basic stuff from the perk and need to build and use devices, as well as proactively utilise chemical science to push this ability further and further until you reach a limit of the perk decided by Factorio game content.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 5,
+      "id": 5,
+      "name": "Purple Science",
+      "cost": 200,
+      "description": "You gain the ability to gradually acquire both theoretical and practical knowledge of Factorio-style production. You start with basic stuff from the perk and need to build and use devices, as well as proactively produce variety of things using knowledge from this perk, to push this ability further and further until you reach a limit of the perk decided by Factorio game content.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 6,
+      "id": 6,
+      "name": "Yellow Science",
+      "cost": 200,
+      "description": "You gain the ability to gradually acquire both theoretical and practical knowledge of Factorio-style high tech and utility. You start with basic stuff from the perk and need to build and use devices, as well as proactively produce variety of things using knowledge from this perk, to push this ability further and further until you reach a limit of the perk decided by Factorio game content.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 7,
+      "id": 7,
+      "name": "White Science",
+      "cost": 250,
+      "description": "You gain the ability to gradually acquire both theoretical and practical knowledge of Factorio-style space technology. You start with basic stuff from the perk and need to build and use devices, as well as proactively explore and travel space using knowledge from this perk, to push this ability further and further until you reach a limit of the perk decided by Factorio game content. Space exploration and travel are needed to achieve the best returns for this perk.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 8,
+      "id": 8,
+      "name": "Space Age",
+      "cost": 600,
+      "description": "You gain a mental compendium of theoretical scientific knowledge and blueprints of craftable items from the Space Age expansion pack for Factorio. Applying these blueprints and knowledge in practice will help you gain expertise in the usage and creation of technologies from this expansion at an incredibly rapid rate, gaining actual skills in leaps.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 9,
+      "id": 9,
+      "name": "Biters and Other Pests",
+      "cost": 400,
+      "description": "You have a mental compendium of research on various enemies from the Factorio game, including the Space Age expansion. You also possess tactical skills to fight and exploit these different creatures. You are talented at researching alien hostile life and producing countermeasures against such biological dangers.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 10,
+      "id": 10,
+      "name": "Shield Projector",
+      "cost": 50,
+      "description": "You are capable of creating a device that projects an energy shield in an arc - a wall that only needs energy to sustain itself. This device can be built relatively easily if you go full tinkertech. You gain only basic scientific knowledge and one blueprint of a specific device from this perk. It is inspired by the mod of the same name.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 11,
+      "id": 11,
+      "name": " Advanced Autonomous Industries",
+      "cost": 600,
+      "description": "This perk includes blueprints for all craftable items and machines from the Advanced Autonomous Industries mod, along with its various modules and addons. It also provides you with just enough scientific knowledge to somewhat understand your creations, as well as the skills to utilize, build, and reliably maintain this kind of technology.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 12,
+      "id": 12,
+      "name": "Factory Planner",
+      "cost": 50,
+      "description": "This perk includes programs and simple devices ideal for planning your production in advance, specifying the recipes and machines that make up each assembly line. Basically tools for planning automated factory, enough computer science and design skills to actually create and use these programs.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 13,
+      "id": 13,
+      "name": "Repair Turret",
+      "cost": 100,
+      "description": "You are capable of creating a tower-like structure that uses energy beams to repair your structures, spending energy and repair kits to do so. This device can be built relatively easily if you go full tinkertech. You gain only basic scientific knowledge and one blueprint of a specific device from this perk, but you don't actually know how it works or if it's even possible to build it using completely mundane science and tech without cheating. It is inspired by the mod of the same name.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 14,
+      "id": 14,
+      "name": "Pyanodons Addons",
+      "cost": 800,
+      "description": "This perk includes blueprints for all craftable items and machines from the Pyanodons mods, along with its various modules and addons. It also provides you with just enough scientific knowledge to somewhat understand your creations, as well as the skills to utilize, build, and reliably maintain this kind of technology.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 15,
+      "id": 15,
+      "name": "Modular Turrets",
+      "cost": 50,
+      "description": "Perk inspired by the Modular Turrets mod for Factorio. You have the blueprints and enough skills to build, operate, and maintain turrets from the mod. You can go full tinkertech with them to make things very cheap, or go full true tech. Modularity is not the only flexibility these machines provide.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 16,
+      "id": 16,
+      "name": "Infinite Source",
+      "cost": 0,
+      "description": "Once you buy this perk, you can choose one existing resource deposit nearby to apply a replenishing quality to it. This resource source will become endlessly replenishable, as long as you don't mine it too actively. There is a limit to how fast it will replenish, depending on the nature of the material, and there is an upper limit on how large or complex the targeted deposit can be. Coal replenishes much faster than something like redstone, for instance. The farther away the resource is from Factorio-style materials, the less effective this shaker effect becomes. This perk can be purchased multiple times, and its effects can be stockpiled in your inventory until you find a suitable target and spend them. Second and all subsequent purchases will cost only 400 CP.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 17,
+      "id": 17,
+      "name": "Electric Weapons",
+      "cost": 100,
+      "description": "Perk inspired by the mod of the same name. It adds several blueprints of electric weapons to your mental compendium, along with in-depth scientific knowledge about how they work, and a degree of skill to use and modify them.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 18,
+      "id": 18,
+      "name": "Robot Army",
+      "cost": 250,
+      "description": "Perk inspired by the mod of the same name. It lets you manufacture and deploy automated robot soldiers to attack your foes and defend your factory! You have blueprints for craftable items from the mod, and you know how to program and command these machines.",
+      "chapter": "Factorio"
+    }
+  ],
+  "3": [
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 1,
+      "id": 1,
+      "name": "Electromagnetism",
+      "cost": 50,
+      "description": "\"Maxwell's equations poetically describe electricity and magnetism intertwining. With a deeper understanding, machines can be created for acquiring and using electrical energy with high efficiency.\" - This perk gives you scientific knowledge and blueprtints to create devices unlocked by the technology of the same name from the DSP game.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 2,
+      "id": 2,
+      "name": "Tier Two Technology",
+      "cost": 100,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Two technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 3,
+      "id": 3,
+      "name": "Tier Three Technology",
+      "cost": 150,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Three technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 4,
+      "id": 4,
+      "name": "Tier Four Technology",
+      "cost": 200,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Four technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 5,
+      "id": 5,
+      "name": "Tier Five Technology",
+      "cost": 250,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Five technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 6,
+      "id": 6,
+      "name": "Tier Six Technology ",
+      "cost": 300,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Six technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 7,
+      "id": 7,
+      "name": "Tier Seven Technology",
+      "cost": 350,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Seven technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 8,
+      "id": 8,
+      "name": "Tier Eight Technology",
+      "cost": 400,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Eight technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 9,
+      "id": 9,
+      "name": "Tier Nine Technology",
+      "cost": 450,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Nine technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 10,
+      "id": 10,
+      "name": "Tier Ten Technology",
+      "cost": 500,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Ten technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 11,
+      "id": 11,
+      "name": "Tier Eleven Technology",
+      "cost": 550,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Eleven technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 12,
+      "id": 12,
+      "name": "Tier Twelve Technology",
+      "cost": 600,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Twelve technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 13,
+      "id": 13,
+      "name": "End Game Technology",
+      "cost": 700,
+      "description": "This perk gives you a mental compendium of scientific knowledge and blueprints to understand, craft, and maintain all devices and structures of Tier Thirteen and above technology from the DSP game. You can obtain this perk without perks for previous Tiers, but there will be expected holes in your understanding. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 14,
+      "id": 14,
+      "name": " Icarus",
+      "cost": 200,
+      "description": "You have the ability to build the basic Icarus mecha from DSP. You have the blueprint and extensive skills to maintain and use this machine, but you don't have complete knowledge of its inner workings. It has high tinkertech cheating potential to cut corners to create this mecha.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 15,
+      "id": 15,
+      "name": "Exploration Upgrades",
+      "cost": 0,
+      "description": "This perk gives you the thinker ability to search for and view resources around you. It cannot highlight every kind of resources - only works best with DSP and related types of materials. This perk can be purchased four times in total, costing 100 CP more for each purchase.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 16,
+      "id": 16,
+      "name": "Mecha Upgrades I",
+      "cost": 50,
+      "description": "You gain blueprints and skills to implement Tier One upgrades for the Icarus Mecha. It includes a basic level of scientific understanding, but it is very limited. Yes, it can be tinkertech-cheated relatively easily.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 17,
+      "id": 17,
+      "name": "Mecha Upgrades II",
+      "cost": 50,
+      "description": "You gain blueprints and skills to implement Tier Two upgrades for the Icarus Mecha. It includes a basic level of scientific understanding, but it is very limited. Yes, it can be tinkertech-cheated relatively easily. You can buy this perk without having previous ones, but there will be expected gaps in your knowledge and abilities. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 18,
+      "id": 18,
+      "name": "Mecha Upgrades III",
+      "cost": 100,
+      "description": "You gain blueprints and skills to implement Tier Three upgrades for the Icarus Mecha. It includes a basic level of scientific understanding, but it is very limited. Yes, it can be tinkertech-cheated relatively easily. You can buy this perk without having previous ones, but there will be expected gaps in your knowledge and abilities. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 19,
+      "id": 19,
+      "name": "Mecha Upgrades IV",
+      "cost": 100,
+      "description": "You gain blueprints and skills to implement Tier Four upgrades for the Icarus Mecha. It includes a basic level of scientific understanding, but it is very limited. Yes, it can be tinkertech-cheated relatively easily. You can buy this perk without having previous ones, but there will be expected gaps in your knowledge and abilities. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 20,
+      "id": 20,
+      "name": "Mecha Upgrades V",
+      "cost": 150,
+      "description": "You gain blueprints and skills to implement Tier Five upgrades for the Icarus Mecha. It includes a basic level of scientific understanding, but it is very limited. Yes, it can be tinkertech-cheated relatively easily. You can buy this perk without having previous ones, but there will be expected gaps in your knowledge and abilities. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 21,
+      "id": 21,
+      "name": "Mecha Upgrades VI",
+      "cost": 150,
+      "description": "You gain blueprints and skills to implement Tier Six upgrades for the Icarus Mecha. It includes a basic level of scientific understanding, but it is very limited. Yes, it can be tinkertech-cheated relatively easily. You can buy this perk without having previous ones, but there will be expected gaps in your knowledge and abilities. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 22,
+      "id": 22,
+      "name": "Mecha Upgrades VII+",
+      "cost": 300,
+      "description": "You gain blueprints and skills to implement Tier Seven and above upgrades for the Icarus Mecha. It includes a basic level of scientific understanding, but it is very limited. Yes, it can be tinkertech-cheated relatively easily. You can buy this perk without having previous ones, but there will be expected gaps in your knowledge and abilities. You can reroll this perk for free.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 23,
+      "id": 23,
+      "name": "Building Upgrades",
+      "cost": 350,
+      "description": "This mental compendium of blueprints and the necessary knowledge allows you to create and implement building upgrades from the DSP game. It works much better with DSP technology. You can reverse engineer upgradable buildings using only this perk in theory, but it would be tedious, awkward, and would take a lot of time and testing. Infinite Tiers become more and more vague, incomplete, until unrecognizable in the compendium of this perk.",
+      "chapter": "Dyson Sphere Program"
+    },
+    {
+      "__source": "Celestial Something - 3 Dyson Sphere Program",
+      "__line": 24,
+      "id": 24,
+      "name": "Combat Upgrades",
+      "cost": 350,
+      "description": "This mental compendium of blueprints and the necessary knowledge allows you to create and implement combat upgrades from the DSP game. It works much better with DSP technology. You can reverse engineer upgradable items and structures using only this perk in theory, but it would be tedious, awkward, and would take a lot of time and testing. Infinite Tiers become more and more vague, incomplete, until unrecognizable in the compendium of this perk.",
+      "chapter": "Dyson Sphere Program"
+    }
+  ],
+  "4": [
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 1,
+      "id": 1,
+      "name": "Neolithic Projects",
+      "cost": 50,
+      "description": "You gain knowledge and all the necessary skills to build and create things by completing Neolithic Research Projects in the RimWorld game. It includes both specific blueprints and basic level of skills. Doesn't include DLCs content.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 2,
+      "id": 2,
+      "name": "Medieval Projects",
+      "cost": 250,
+      "description": "You gain knowledge and all the necessary skills to build and create things by completing Medieval Research Projects in the RimWorld game. It includes both specific blueprints and basic level of skills. Doesn't include DLCs content.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 3,
+      "id": 3,
+      "name": "Industrial Projects",
+      "cost": 500,
+      "description": "You gain knowledge and all the necessary skills to build and create things by completing Industrial Research Projects in the RimWorld game. It includes both specific blueprints and basic level of skills. Doesn't include DLCs content.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 4,
+      "id": 4,
+      "name": "Spacer Projects",
+      "cost": 750,
+      "description": "You gain knowledge and all the necessary skills to build and create things by completing Spacer Research Projects in the RimWorld game. It includes both specific blueprints and basic level of skills. Doesn't include DLCs content.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 5,
+      "id": 5,
+      "name": "Biotech ",
+      "cost": 400,
+      "description": "This perk provides you with the necessary scientific base, basic skills, and blueprints for specific pieces of technology/projects to create items and do various projects from the Biotech DLC for the RimWorld game.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 6,
+      "id": 6,
+      "name": "Royalty ",
+      "cost": 400,
+      "description": "This perk provides you with the necessary scientific base, basic skills, degree of psycasting potential and blueprints for specific pieces of technology/projects to create items and do various things from the Royalty DLC for the RimWorld game.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 7,
+      "id": 7,
+      "name": "Odyssey ",
+      "cost": 300,
+      "description": "This perk provides you with the necessary scientific base, basic skills and blueprints for specific pieces of technology/projects to create items and do various things from the Odyssey DLC for the RimWorld game.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 8,
+      "id": 8,
+      "name": "Anomaly ",
+      "cost": 800,
+      "description": "This perk provides you with the necessary scientific base, basic skills and blueprints for specific pieces of technology/projects to create items and do various things from the Anomaly DLC for the RimWorld game. All potential infohazards from the perk are hidden from you, if it would hurt you to know.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 9,
+      "id": 9,
+      "name": "Ideology ",
+      "cost": 400,
+      "description": "This perk provides you with the necessary scientific base, basic skills, degree of supernatural ability and blueprints for specific pieces of technology/projects to create items and do various things from the Ideology DLC for the RimWorld game. All potential infohazards from the perk are hidden from you, if it would hurt you to know. This perk makes you more socially adept and more talented in all talented in social sciences.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 10,
+      "id": 10,
+      "name": "Redistribute Passion",
+      "cost": 150,
+      "description": "This perk gives you three metaphorical charges, which you can use to temporarily gain Passion towards some skill from the list of existing in RimWorld game. You can invest one charge to become Interested or two to gain Burning status. It doesn't actually make you more skillful, but it allows you to take pleasure in doing something and provides a multiplier on experience gain. Charges reset every 24 hours and need to be re-applied. You can also apply them to other people, but they only return to you after 24 hours have passed. You must use all three charges at the same time when activating this perk. Beware of unintended psychological effects.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 11,
+      "id": 11,
+      "name": "Obtain Traits ",
+      "cost": 200,
+      "description": "After buying this perk, you can choose any trait from the list of existing traits in the RimWorld game. You will have this one chosen trait in reserve, waiting to be used by you. You can apply it to yourself or to another person you touch. It takes a few minutes to apply the chosen trait. The effect causes permanent changes to the target. Same traits do not stack, but may cause unpredictable consequences when applied. This perk can be rolled multiple times. Beware of unintended psychological/physiological effects.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 12,
+      "id": 12,
+      "name": "Acquire Skills",
+      "cost": 150,
+      "description": "After buying this perk, you can choose any skill from the list of existing skills in the RimWorld game. You will have this chosen skill in reserve, waiting to be used by you. You can apply it to yourself or another person you touch to gain or give two levels of the skill (maximum of 20). It takes a few minutes to apply chosen skill. This perk can be rolled multiple times.",
+      "chapter": "RimWorld"
+    }
+  ],
+  "5": [
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 1,
+      "id": 1,
+      "name": "Scientific Method",
+      "cost": 50,
+      "description": "\"Testable predictions of observable phenomena.\" - You gain the equivalent of higher education in a field of scientific methodology. You know how to apply methodologies from societies many years ahead of humanity to your scientific research. It should help you in many small ways. Your skills and knowledge are average by the standards of this futuristic society. However, you have many blank spaces for knowledge and context lying beond scientific methodology field.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 2,
+      "id": 2,
+      "name": "Computing Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Computing Tech Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 3,
+      "id": 3,
+      "name": "Field Manipulation Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Field Manipulation Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 4,
+      "id": 4,
+      "name": "Particles Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Particles Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 200 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 5,
+      "id": 5,
+      "name": "Biology Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Biology Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 6,
+      "id": 6,
+      "name": "Military Theory Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Military Theory Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 7,
+      "id": 7,
+      "name": "New Worlds Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the New Worlds Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 8,
+      "id": 8,
+      "name": "Statecraft Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Statecraft Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 9,
+      "id": 9,
+      "name": "Psionics Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Psionics Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 10,
+      "id": 10,
+      "name": "Archaeostudies Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Archaeostudies Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 11,
+      "id": 11,
+      "name": "Cybrex Mining Hub",
+      "cost": 300,
+      "description": "\"To build their ring world, the Cybrex relied on highly efficient mining drones to survey and harvest orbital resources. Cybrex-made memory chips and sensors could outfit our own mining drones, so that we might put their millennia old algorithms to good use.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 12,
+      "id": 12,
+      "name": "Irassian Naval Yards",
+      "cost": 300,
+      "description": "\"The Irassian astronaval tradition was unmatched in their time. Their shipyards produced a constant stream of ships for their navy and merchant fleets, which would ultimately be their downfall. With so many ships, and such a high reliance on them, the Irassians were powerless to quarantine the disease that would claim their empire.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 13,
+      "id": 13,
+      "name": "Yuht Astronomical Interferometer",
+      "cost": 250,
+      "description": "\"The Yuht were a paradoxical society, obsessed with the idea of finding other sentient species, yet refusing to accept that they were not alone. They were so focused on disproving any claim of alien life, that their bias found a way into their technology. However, with the proper modifications and calibrations, we could certainly fix their powerful detection arrays.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 14,
+      "id": 14,
+      "name": "\tZroni Storm Caster",
+      "cost": 400,
+      "description": "\"Zro is a fascinating element, prone to chaotic bursts of energy. We believe that with the right artifacts, we could use it to fuel spatial storms over entire solar systems.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 15,
+      "id": 15,
+      "name": "First League Filing Offices",
+      "cost": 400,
+      "description": "\"The sprawling empire of the First League dwarfed our own at its peak, and relied on implacable bureaucracy to keep the wheels of the state in motion. The quantic filing arrays they used afforded them unprecedented efficiency in the sorting and storing of documents.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 16,
+      "id": 16,
+      "name": "Baol Organic Plant",
+      "cost": 500,
+      "description": "\"The Baol Organism had a unique way of producing tools. Given the species' relative slowness, they would simply grow them out of organic matter in locations that were half orchard, half factory. With the proper genetic adjustments, we could also grow various commodities and tools alongside our regular crops.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 17,
+      "id": 17,
+      "name": "Vultaum Reality Computer",
+      "cost": 500,
+      "description": "\"The reality computers of the Vultaums were unique processing units, dedicated to analyzing existence itself, not quite through physics, but rather by trying to reverse engineer reality's source code and find the glitch that would finally allow the Vultaums to take down the simulation where they believed they lived.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 18,
+      "id": 18,
+      "name": "Industry Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Industry Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 19,
+      "id": 19,
+      "name": "Materials Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Materials Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 300 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 20,
+      "id": 20,
+      "name": "Propulsion Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Propulsion Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 200 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 21,
+      "id": 21,
+      "name": "Voidcraft Tree",
+      "cost": 0,
+      "description": "This perk gives you the ability to research and discover technologies from the Voidcraft Tree of the Stellaris game unnaturally fast. Progression is semi-random, utilizes a card shuffle approach, and requires you to create and use various devices, explore the technologies of others and being proactive. Your actions make details from some technologies more probable to appear than others the next time inspiration strikes. You can pay an additional 250 CP now or the next time you roll this perk to instantly unlock a portion of the tree. You can do this as many times as you want if you have points to spare. Each time, it grants you an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest technologies still ahead of you in this tree (usually between one and two). It doesn't include Starter Technologies and Events.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 22,
+      "id": 22,
+      "name": "Active Countermeasures",
+      "cost": 100,
+      "description": "\"The best defense is a good offense.\" This perks make you an expert in planning and building relatively primitive Sentinel Point-Defense systems.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 23,
+      "id": 23,
+      "name": "High-Energy Capacitors",
+      "cost": 100,
+      "description": "\"Capacitors capable of storing vast amounts of energy is one of the cornerstones for any modern civilization.\" You posess a theoretical knowledge and a few variations of blueprints to make High-Energy Capacitors, and a degree of skill to produce and use them",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 24,
+      "id": 24,
+      "name": "Deflectors",
+      "cost": 100,
+      "description": "\"Energy deflector screens can stop a limited amount of incoming enemy fire before overloading. Their main drawback is that they consume large amounts of power.\" You gain insight into Deflector technology, theory behind it and several blueprints to apply it.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 25,
+      "id": 25,
+      "name": "Fission Power",
+      "cost": 50,
+      "description": "\"This energy source generates power for ships through induced fission, but it also produces harmful nuclear waste.\" You gain the equivalent of higher education in the field of fission power. Your skills and knowledge are average by the standards of this futuristic society. However, you have many gaps in your knowledge and context beyond the fission power field.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 26,
+      "id": 26,
+      "name": "Reactor Boosters",
+      "cost": 50,
+      "description": "\"Additional power generation systems increase the ship's reactor output.\" You gain blueprints and a basic theoretical understanding sufficient to construct Reactor Boosters yourself.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 27,
+      "id": 27,
+      "name": "Hyperspace Travel\n",
+      "cost": 250,
+      "description": "\"Like the strands of a spider web, the extra-dimensional realm of hyperspace runs between the gravity wells of most stars. Faster-than-light travel is theoretically possible along these hyperlanes.\" You gain insight into the theory of hyperspace travel and a few blueprints of devices to experimentally prove parts of it.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 28,
+      "id": 28,
+      "name": "Red Lasers",
+      "cost": 150,
+      "description": "\"Laser weapons fire focused beams of light at targets, causing damage through the generation of intense heat.\" You are a skillful engineer specializing in the maintenance and construction of Red Laser weapons.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 29,
+      "id": 29,
+      "name": "Subspace Drive",
+      "cost": 250,
+      "description": "\"An insight born of a desperate desire to leave our home, these Subspace Drive engines were designed to facilitate limited interstellar travel. While only allowing small-scale jumps, they provide a unique opportunity to jump-start our galactic exploration.\" You gain a blueprint and just enough skill to start and complete the Subspace Drive engine megaproject, but nearly no theoretical context beyond needed.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 30,
+      "id": 30,
+      "name": "Fruit Gardens",
+      "cost": 200,
+      "description": "\"Vacuum gardens full of bio-engineered fruits, genetically enhanced to attract spaceborne fauna.\" You know how to build such gardens and bio-engineer a variety of organisms for them.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 31,
+      "id": 31,
+      "name": "Medical Care",
+      "cost": 100,
+      "description": "\"A micro-unit of prevention is worth a macro-unit of cure. However, sometimes both are needed.\" You are a doctor with education from a future society with average level of capability by thier standarts.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 32,
+      "id": 32,
+      "name": "Industrial Agriculture",
+      "cost": 50,
+      "description": "\"Large-scale industrial farms growing nutrient-rich produce allow a civilization to increase its population manifold.\" You have the expertise of someone who used to run and oversee the construction of such large-scale industrial farms.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 33,
+      "id": 33,
+      "name": "Energy Burster",
+      "cost": 50,
+      "description": "\"Fires bio-projectiles that emit bursts of energy upon impact, subtly enhancing the maneuverability of our vessels.\" Blueprints and skills to grow/create such devices are in your mental library.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 34,
+      "id": 34,
+      "name": "Vector Lock Cannon",
+      "cost": 50,
+      "description": "\"Biologically enhanced projectiles are fired, countering evasive maneuvers and striking agile targets.\" Blueprints and skills to grow/create such devices are in your mental library.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 35,
+      "id": 35,
+      "name": "Maulers",
+      "cost": 200,
+      "description": "\"Breakthroughs in bio-engineering have allowed the growth of space-faring, FTL-capable craft with military applications.\" Blueprints and skills to grow/create such devices are in your mental library along with average skills to pilot one.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 36,
+      "id": 36,
+      "name": "Weavers",
+      "cost": 200,
+      "description": "\"Building on the foundations of early bio-engineering, Weavers are crafted to balance agility with increased combat capabilities.\" Blueprints and skills to grow/create such devices are in your mental library along with average skills to pilot one.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 37,
+      "id": 37,
+      "name": "Planetary Defenses",
+      "cost": 100,
+      "description": "\"There may come a time when intellects, vast and cool and unsympathetic, regard our worlds with envy and draw plans against us. We must be ready.\" You are an expert of average skill in planetary defence planning and overseeing.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 38,
+      "id": 38,
+      "name": "New Worlds Protocol",
+      "cost": 50,
+      "description": "\"Calculating required resources and gear required to establish a planetary colony allows us to herd brave pioneers into grand \"ark ships\", confident that they will survive the long voyage across the stars to a new home.\" You know new world protocols and have basic skills to apply them.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 39,
+      "id": 39,
+      "name": "Planetary Germination",
+      "cost": 100,
+      "description": "\"To spread our roots to a new world, we first need to prepare the seedbed. By terraforming a planet, we can ensure that our colonies get off to a healthy start.\" You are an expert of average skill, who oversees and help planning terraforming colonization projects.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 40,
+      "id": 40,
+      "name": "Planetary Government",
+      "cost": 100,
+      "description": "\"Once a colony has been firmly established and pioneers turn into citizens, the need for a strong local government providing stability trumps the colonial need for flexibility.\" You are an expert in the field of planetary governing with an average level of education according to future individualist society standards.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 41,
+      "id": 41,
+      "name": "Planetary Plexus",
+      "cost": 100,
+      "description": "\"Our colonies would wither to naught without the stable projection of our collective self. Our effortless presence ensures a flourishing hive.\" You have theoretical knowledge and talent at planetary governing practices of hive mind type of future society.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 42,
+      "id": 42,
+      "name": "Planetary Instantiation",
+      "cost": 100,
+      "description": "\"Our colonies would never achieve stable operation without infrastructure dedicated to our networked self.\" You have theoretical knowledge and talent at planetary governing practices of hive mind type of machine intelligence type of future society.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 43,
+      "id": 43,
+      "name": "Holo-Entertainment",
+      "cost": 50,
+      "description": "\"The latest in holographic entertainment. Entire worlds built out of photons and energy fields.\" You are an average-skilled expert in holo-engineering and design.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 44,
+      "id": 44,
+      "name": "Interplanetary Commerce",
+      "cost": 50,
+      "description": "\"With new planetary markets comes new opportunities for commerce. Business will be booming.\" You are an average-skilled expert in interplanetary commerce.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 45,
+      "id": 45,
+      "name": "Sociocultural History",
+      "cost": 50,
+      "description": "\"An understanding of a shared past is necessary in order to make any significant strides into the future.\" You are an expert historian and monument builder of average skill from future society.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 46,
+      "id": 46,
+      "name": "Synaptic Structures",
+      "cost": 150,
+      "description": "\"Through the development of macroscopic synaptic nodes, the will of the Hive will be strengthened.\" You have blueprints on how to build and instructions on how to operate various synaptic structures of hive-mind-type future society.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 47,
+      "id": 47,
+      "name": "Industrial Base",
+      "cost": 300,
+      "description": "\"The basic industrial infrastructure that is required to become a spacefaring civilization.\" You have an extensive theoretical base and exceptional talent in planning and building basic industrial infrastructure at the level of a future society. Although, no specific blueprints.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 48,
+      "id": 48,
+      "name": "Offworld Construction",
+      "cost": 250,
+      "description": "\"Construction in space presents our engineers with new design challenges that must be solved before we can build orbital stations above other worlds.\" You have an extensive theoretical base and exceptional talent in offworld construction planning and building at the level of a future society. Although, no specific blueprints.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 49,
+      "id": 49,
+      "name": "Mechanized Mining",
+      "cost": 200,
+      "description": "\"The basic industrial infrastructure that is required to become a spacefaring civilization.\" You have a mental compendium of blueprints and instructions on how to plan, build, operate, and maintain the basic industrial infrastructure of a future civilization. However, you have no practical skills.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 50,
+      "id": 50,
+      "name": "Nanocomposite Materials",
+      "cost": 100,
+      "description": "\"Reinforced nanocomposite hull plating can provide an extra layer of protection that could be the difference between life and death in a combat situation.\" You are an expert in a field of nanocomposite materials. You know how to make and apply them, and some theory behind how they fundamentally work.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 51,
+      "id": 51,
+      "name": "Chemical Thrusters",
+      "cost": 100,
+      "description": "\"Simple yet moderately effective chemical thrusters that rely on combustible propellant to function.\" You have a mental compendium of blueprints and instructions on how to plan, build, operate, and maintain chemical thrusters of a future civilization level technology. However, you have no practical skills.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 52,
+      "id": 52,
+      "name": "Flak Battery",
+      "cost": 150,
+      "description": "\"Gun batteries that fire shrapnel rounds at close range. They are particularly lethal to enemy strike craft, but can also defend against missiles.\" You have a mental compendium of blueprints and instructions on how to plan, build, operate, and maintain flak battery weaponary of a future civilization level technology. However, you have no practical skills.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 53,
+      "id": 53,
+      "name": "Nuclear Missiles",
+      "cost": 150,
+      "description": "\"Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range.\" You have a mental compendium of blueprints and instructions on how to plan, build, operate, and maintain space-to-space nuclear missiles weaponary of a future civilization level technology. However, you have no practical skills.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 54,
+      "id": 54,
+      "name": "Mass Drivers",
+      "cost": 150,
+      "description": "\"These electromagnetic projectile launchers use magnets to accelerate armor-piercing rounds towards targets at high speeds.\" You can build one from scratch and modify them in a few ways, but you don't actually know how they work fundamentally. Just how to make, operate and maintain them.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 55,
+      "id": 55,
+      "name": "\tSpace Exploration",
+      "cost": 200,
+      "description": "\"The Science Ship is used as a base of operations for a top Scientist, ready to explore the vastness of space.\" You can build, maintain, and operate such a ship with suitable tools on hand, but you lack an extensive theoretical background about why it is constructed this way.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 56,
+      "id": 56,
+      "name": "Interplanetary Expeditionary Forces",
+      "cost": 50,
+      "description": "\"The invasion of another world is a staggering enterprise. There are immense logistical challenges that must be overcome before we can muster our first interplanetary armies.\" You have education in military logistics of interplanetary forces.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 57,
+      "id": 57,
+      "name": "Deep Space Defenses",
+      "cost": 150,
+      "description": "\"This will enable the construction of defensive deep space platforms to protect our Starbases.\" You know how to build, operate, maintain and modify simple defensive deep space platforms.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 58,
+      "id": 58,
+      "name": "Orbital Energy Conversion",
+      "cost": 150,
+      "description": "\"Advances in solar panel technology could offset the operating costs of our starbases. The panels would require an entire starbase module to generate enough energy, however.\" You know how to build, operate, maintain and modify such panels, and also basic theory behind thier inner working.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 59,
+      "id": 59,
+      "name": "Starbase Construction",
+      "cost": 200,
+      "description": "\"A centralized space installation built in close orbit around the system primary is necessary to make full use of the resources in a star system.\" You can build, maintain, and operate such a base with suitable tools on hand, but you lack an extensive theoretical background about why it is constructed this way.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 60,
+      "id": 60,
+      "name": "Starport",
+      "cost": 200,
+      "description": "\"The earliest starbases were little more than makeshift outposts. Permanent starports will enable us to maintain a firmer grip on star systems.\" You can build, maintain, and operate such a base with suitable tools on hand, but you lack an extensive theoretical background about why it is constructed this way.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 61,
+      "id": 61,
+      "name": "Corvettes",
+      "cost": 150,
+      "description": "\"The Corvette is the most basic military ship, armed and ready in the event of hostile contacts.\" You can build, maintain, and operate such a base with suitable tools on hand, but you lack an extensive theoretical background about why it is constructed this way.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 62,
+      "id": 62,
+      "name": "Event Computing Technologies",
+      "cost": 600,
+      "description": "This perk gives you one randomly chosen Event Computing Technology to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 63,
+      "id": 63,
+      "name": "Event Field Manipulation Ttechnologies",
+      "cost": 600,
+      "description": "This perk gives you one randomly chosen Event Field Manipulation Ttechnologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 64,
+      "id": 64,
+      "name": "Event Particles Technologies",
+      "cost": 600,
+      "description": "This perk gives you one randomly chosen Event Particles Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 65,
+      "id": 65,
+      "name": "Biology Event Technologies",
+      "cost": 600,
+      "description": "This perk gives you one randomly chosen Biology Event Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 66,
+      "id": 66,
+      "name": "Predatory Tactics",
+      "cost": 300,
+      "description": "\"Just like how clever pre-FTLs move to conceal each other as they approach an enemy, so too can our pilots move faster without disrupting their cloaking field.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 67,
+      "id": 67,
+      "name": "Alien Topography",
+      "cost": 300,
+      "description": "\"Civilizations flourish in locations that promotes growth, and by analyzing where the majority of pre-FTL settlements thrive we can gain more out of our colonies.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 68,
+      "id": 68,
+      "name": "Statecraft Event Technologies",
+      "cost": 600,
+      "description": "This perk gives you one randomly chosen Statecraft Event Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 69,
+      "id": 69,
+      "name": "Psionics Event Technologies",
+      "cost": 600,
+      "description": "This perk gives you one randomly chosen Psionics Event Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 70,
+      "id": 70,
+      "name": "Lost Building Methods",
+      "cost": 300,
+      "description": "\"Any civilization with a long enough history has examples of great wonders built by forgotten ancients which can no longer be replicated. Luckily for us we have documented these great ancients when they appeared on pre-FTL worlds.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 71,
+      "id": 71,
+      "name": "Leviathan Tech Genesis",
+      "cost": 500,
+      "description": "\"Utilizing the received knowledge seized from Leviathans, we now have access to new improvements for our frames.\"",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 72,
+      "id": 72,
+      "name": "Event Materials Technologies",
+      "cost": 600,
+      "description": "This perk gives you one randomly chosen Event Materials Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 73,
+      "id": 73,
+      "name": "Event Propulsion Technologies",
+      "cost": 600,
+      "description": "This perk gives you one randomly chosen Event Propulsion Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
+      "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 74,
+      "id": 74,
+      "name": "Event Voidcraft Technologies",
+      "cost": 600,
+      "description": "This perk gives you one randomly chosen Event Voidcraft Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
+      "chapter": "Stellaris"
+    }
+  ]
+}

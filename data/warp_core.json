@@ -1,0 +1,1573 @@
+{
+  "1": [
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 1,
+      "cost": 100,
+      "name": "Portable Scanner",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Starfleet are supposed to be explorers and scientists, and you wouldn’t get far doing either without the ability to determine what you were looking at or things like atmospheric composition. What you have here is essentially a fusion of all the hand-held scanning devices available in the Federation, capable of detecting, measuring and monitoring a wide variety of things. You can update its memory if you encounter something entirely new, and while it will give you chemical and atomic data on any given sample, it will also do its best to tell you what the sample is if you can’t figure that out yourself. Less awkward than someone else doing that for you.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 2,
+      "cost": 100,
+      "name": "TR-590 Tricorder XI",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "A palm-sized computer filled with a variety of sensors, databanks, and communication aids. It is designed to gather scientific data, geographical information, and environmental readings. The model available here won't be developed for another 15 years, and it has additional features that let you interface with starship computers",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 3,
+      "cost": 100,
+      "name": "Scientific Method",
+      "source": "Star Trek: Enterprise",
+      "description": "Form theory, then testable hypothesis, test it in an experiment, then repeat and publish to avoid error. You are very good at recognizing your own biases or experimental errors that could prejudice your results, thus you are better at arriving at the truth through science.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 4,
+      "cost": 100,
+      "name": "T’yln",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This Vulcan female served in the Vulcan High Command aboard the Vulcan cruiser VCF Sh'vhal until she was transferred to Starfleet for being too emotional. Though she is slightly standoffish by human standards she is able to express her emotions far better than vertically any other pure Vulcan and with this she considers you a true friend.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 5,
+      "cost": 100,
+      "name": "Heavy Duty Tricorder",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A special type of tricorder with a camera grip which is bulkier and far more durable than traditional tricorder. This model has increased functions beyond standard tricorders and it’s scanning range is similar to that of shuttle pods scanners.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 6,
+      "cost": 200,
+      "name": "Actually Reads the Data",
+      "source": "Star Trek: Enterprise",
+      "description": "How many times did Phlox scan someone, dismiss the idea anything was wrong, only to find the problem hours or days later? You never have this problem, fully and completely understanding the contents of every scan, and with any strange anomalies jumping out to your attention.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 7,
+      "cost": 200,
+      "name": "Singularity Dynamics",
+      "source": "Star Trek Online",
+      "description": "Romulans are unique in their choice of Warp Drive--they use a Singularity Core to power their starships. Now you have the knowledge in order to create more of these, and even iterate on their design. Of course, the knowledge of how to create artificial Quantum Singularities can probably be used for more things than just going fast.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 8,
+      "cost": 400,
+      "name": "Holodeck Technology ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "A holographic environment simulator, or holodeck as it is most commonly referred to, is a form of holotechnology designed and used by the Federation Starfleet which runs holographic programs. They are installed aboard star ships, space stations, and at Starfleet institutions for use in entertainment, training, and investigative purposes. Other species might have their own versions, but this is certainly a rarity in the Delta Quadrant. While there’s nothing stopping you figuring out how to reverse engineer or take with you any local examples, by buying this Item you get your own personal holodeck and a database of information regarding this technology, and both the use of this Item and technology derived from it is guaranteed not to have any of the frequent issues seen occurring in or due to Holodecks in Star Trek. It won’t get hacked or sabotaged by anyone else either, unless you want to deliberately leave in that sort of vulnerability for some reason, and if you choose to lend it out for whatever reason it can’t be used except specifically in any way you personally authorised.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 9,
+      "cost": 400,
+      "name": "Synthetic Research ",
+      "source": "Star Trek Picard Jump Version 1.0",
+      "description": "This is one of those illegal things nobody is supposed to have but a Jumper can just buy. Feel free to do so, as this is a database containing all the research ever done regarding synthetic life in the Star Trek setting, from Exocomps to Soong-Type Androids to Sentient Holograms to the new hyper-realistic Super-Synths like Dahj and Soji. There are even details in here for creating synthetic cats, butterflies ... and some sort of flower although the scale must be a little off on the last one, otherwise they would be as big as a ship ...",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 10,
+      "cost": 400,
+      "name": "Memory Alpha",
+      "source": "Star Trek Online",
+      "description": "Not the entire planet, no. This is a library, filled to the brim with all of the Federation’s technological and historical information. Not only that, it comes with a PADD that you can access all of the information directly from. Trust me, the Federation has a lot of technology deep in its back pocket that’s been forgotten about. Dig deep enough, and you might even be able to cross the Warp Barrier, or even pierce through the Galactic Barrier. There is a lot here though, and it’s going to take a long-ass time to search through.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 11,
+      "cost": 400,
+      "name": "Geneticist",
+      "source": "Star Trek Online",
+      "description": "The Dominion has managed to spread across the majority of the Gamma Quadrant thanks in part to their eternally loyal Jem’hadar and Vorta. They are the fist of the Dominion, and much of that loyalty depends on the genetic alterations they have been subjected to. Now you can match this genetic feat, and modify entire species to your whims. This isn’t without limits, however. Klingons proved too difficult to properly enslave to Ketracel White, and trying to make Heralds is certainly far beyond your current scope.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 12,
+      "cost": 600,
+      "name": "Think Tank Findings",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "It’s not clear exactly what was provided to a certain group in exchange for this, but you’ll only need to pay CP for it. This is information that could be used to construct new or modify existing vessels into one capable of hiding within subspace. This prevents most vessels from detecting such a craft, let alone attacking it, with the only indication of its presence being a brief distortion before it enters normal space. This includes data allowing the construction of advanced targeting systems capable of firing on multiple vessels at once, and an advanced form of hologram technology known as isomorphic projection that allows communication with normal space while in subspace, though this could theoretically be blocked. It would also allow things like taste and smell, somehow, or potentially cause pain in organic lifeforms by intersecting them with the projection.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 13,
+      "cost": 600,
+      "name": "Omega Particle Research ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "You need to be very careful with this, Jumper. The Omega Particle is a highly unstable molecule hazardous to relativistic space travel and considered so dangerous that Starfleet will disregard even the much-vaunted Prime Directive to destroy Omega wherever it is found. The explosion of a single particle can nullify subspace for light years around it, rendering faster-than-light travel impossible within that area. The Borg refer to it as ‘Particle 010’, and despite losing a large quantity of their vessels to accidents trying to harness it, they are expected to assimilate it at all costs. This might make the Borg a nigh- unstoppable force. You...have viable research that could allow you to figure out how to stabilize it and use it as a potent source of energy in a way that won’t backfire. Or you could weaponize it and doing so to Omega particles this research allows you to eventually produce will have similar ‘stop faster-than-light-travel’ properties in other Jumps. Bear in mind this would affect everything in the area of detonation, including you unless you can come up with some specific protection.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 14,
+      "cost": 600,
+      "name": "Krenim Time Ship Schematic",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "You might have gotten these through some sort of temporal nonsense, considering it would be some time before Voyager would ever encounter this monstrosity and it ends up getting removed from existence over through Canon events. This massive ship was capable of erasing entire civilisations from history and causing anything not protected by their shields to be altered by the changes to time. While this isn’t the completed ship, this is all the information you’d need to make it yourself or apply its technology to something else, with sufficient time and resources. It might take a few years to figure out how all of this works. It shouldn’t take long to use this to reverse-engineer something like shields that protect against temporal weaponry though.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 15,
+      "cost": 600,
+      "name": "Caretaker Array Information ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Turns out that vast quantity of scanning the Voyager crew did when they showed up in the Caretaker’s facility actually accomplished something. Though the original ends up getting destroyed, the data here is a good start to being able to build a facility capable of moving ships across an entire galaxy, whether they want to or not. It has a powerful tetryon reactor capable of acting as an energy source for an entire city on a nearby planet, contains medical and holographic facilities, is armed with energy weapons, and has a self-destruct system that won’t malfunction unless you want it to. Useful if you want to stop it falling into the wrong hands. It’s going to take a lot of time and resources to understand and build something like this, though.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 16,
+      "cost": 600,
+      "name": "Transwarp Beam Equation",
+      "source": "Star Trek - NuTrek Jump ",
+      "description": "Now this here is an equation that wouldn’t see the light of day for some time normally. Now, it can be used to beam individuals from place to a ship traveling at warp. You can use it though, to beam onto any ship using any means to travel at FTL.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 17,
+      "cost": 600,
+      "name": "Wormhole",
+      "source": "Star Trek Online",
+      "description": "This is going to be one of the most important strategic discoveries of the century. You have the exclusive knowledge of the location of a stable Wormhole, one connecting two halves of the galaxy. Instead of a journey taking years, you will be able to get from one part of the galaxy to the other in mere minutes. It won’t drop you deep into enemy territory either--you’ll be on the edge, ready to begin expeditions into their space. At the very least, the Founders will appreciate your discovery. In future jumps, a similar quick transport method will be available to you: perhaps you’ll be able to get straight to Mordor from Hobbiton.",
+      "chapter": "Astrometrics"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Astrometrics",
+      "__line": 18,
+      "cost": 600,
+      "name": "Temporal Tech",
+      "source": "Star Trek Online",
+      "description": "The Krenim were, at some point, a powerful galactic empire in the Delta Quadrant. They faltered after a series of wars, but despite their current slot on the totem pole, they still hold unprecedented knowledge of temporal mechanics. Now, you have this knowledge to yourself. Imagine, a gun that shoots things out of the timeline...just be sure you’re behind a time shield first. Butterfly Effect is one hell of a drug.",
+      "chapter": "Astrometrics"
+    }
+  ],
+  "2": [
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 1,
+      "cost": 0,
+      "name": "The Golden Fleet",
+      "source": "Star Trek: Elite Force",
+      "description": "They're not especially useful as such, but they sure look very nice. This collection of gold-plated ship models includes all the famous ships seen in Star Trek, from the basic shuttle craft to such legends as the Enterprise-E and Voyager. It will also update with any other ships, vehicles or space stations you own or spend a sizable portion of your time on.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 2,
+      "cost": 100,
+      "name": "Cosmetics ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "This includes the usual things you’d find in some of the more extensive makeup kits and costuming departments, but also has a few surgical tools if you need to alter what species someone appears to be to blend in. It won’t give any inherent capabilities that species has, but curiously enough you’ll pass for one even if you’re examined by technology or magic to determine whether or not you’re what you seem to be. Even a novice could use this cosmetic surgery and visibly change their species to something more- or-less the same size and shape within just a few minutes, completely without pain or mess. This equipment won’t cause any complications either, so no need to worry about degradation of those cosmetics causing problems later on, they’ll last as long as you need them to. Works for fancy dress or blending in with other cultures.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 3,
+      "cost": 100,
+      "name": "Maquis Outfit",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "All the clothes you’d need to blend in with this group. These are comfortable, surprisingly good for different environments, self-cleaning and if damaged or destroyed you’ll get another set. If you need it, these can get swapped out with passable uniforms for any groups you’re infiltrating, in this and other Jumps. This might be useful for infiltration or disguising yourself.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 4,
+      "cost": 100,
+      "name": "Comm Badge ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Either the Starfleet standard or some alien equivalent, you have some way of communicating with your ship and crew at distances ranging to the other side of a solar system. Acts as a beacon so you can safely be beamed up. Doesn’t mean that there will never be interference, or it won’t get destroyed, but you’ll get through eventually or find another intact one when you have a spare moment. You get one yourself and your Companions all get their own with purchase, to help stay in touch so far from home.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 5,
+      "cost": 100,
+      "name": " I Know This Area Well ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "You actually do, too. Sure, this doesn’t cover very specific knowledge like secret passwords or things hidden from the general populace, but wherever you are you have passable knowledge of local customs, traditions and locations. You could be a great tour guide with this.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 6,
+      "cost": 100,
+      "name": "Culinary Creations ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "You can cook. You can cook a lot of things. And you can make it pretty good too, for all sorts of pallets. You can adapt any food you know or learn about so practically any species remotely capable of ingesting it can enjoy and benefit from it. Of course, you can negate this universal acceptance and cook things however you like, but why would you keep making things nobody wants to eat?",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 7,
+      "cost": 100,
+      "name": "Survival Skills",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "When you’re part of a resistance group or otherwise not being directly supported by widely established organisation, you don’t necessarily have access to luxury quarters and all the hospitality that comes with being an accepted member of civilisation. You know how to survive and thrive in the wild, even on different planets, so long as it’s plausible for some form of life to survive in that environment. You can’t just go swimming in molten rock or breathing ship-melting atmospheres with just this Perk. You can even teach others how to do this. Not only are you most likely the best around at camping, but you’ll never be the one Maquis who can’t start a fire by rubbing two sticks together.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 8,
+      "cost": 100,
+      "name": "Made To Be Broken",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Sometimes it’s necessary to follow the rules, but sometimes those rules were made for very different situations. Maybe this is the sort of situation where you need to bend the rules a little to survive. You’re capable of making compelling arguments for bending and even outright breaking established rules, especially if it’s in everyone’s interest. While there will certainly be those that will only ever play by the book, this lets you at least bring up the alternative and provide a reasonable argument. You might still get shot down, but not instantly shot just for suggesting things.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 9,
+      "cost": 100,
+      "name": "Honorary Xeno ",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "Aliens will naturally like and trust you. They'll always see you as an equal no matter what animosity may exist between your species and theirs",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 10,
+      "cost": 100,
+      "name": "Secure Comms ",
+      "source": "Star Trek: Enterprise",
+      "description": "A comm device that cannot be traced, with voice distortion to hide your identity if so desired, and a neat little program for piggy-backing data on your transmissions, in case you want to insert worms or trojan horses.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 11,
+      "cost": 100,
+      "name": "Loving",
+      "source": "Star Trek: Enterprise",
+      "description": "Denobulans have large extended families, owing to their practice of non-exclusive polyamory. Other people are fine with you having multiple wives and/or lovers.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 12,
+      "cost": 100,
+      "name": "Executive Poker Set ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "The set includes a luxury leather box with soft velour interior, 300 clay poker chips, 5 poker dice, and 2 decks of StarFleet branded playing cards. Any games of chance you play using any components from this set will find your luck being substantially better even when you are not in physical contact with the pieces.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 13,
+      "cost": 100,
+      "name": "Bat'leths & BiHnuchs",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "In this DND style tabletop RPG board game the players take on the roles of Klingon warriors about to go on the greatest adventure of their lives. The game was developed by the Ferengi and comes will all of the in universe expansion packs. The game includes a board, 20-sided dice, Klingon figurine playing pieces, and a PADD on which the host, an unauthorised facsimile of a famous Klingon such as Martok or Gowron who will act as the game master determining the flow of the game based on the die rolls of each player.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 14,
+      "cost": 100,
+      "name": "Electric Violin",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This silver musical instrument has internal replicators that allow it to alter its own form. As such this Violin is able to become any type of musical instrument. Thanks to the built in AI while using this tool you will find your skills growing twice as fast as they otherwise would be.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 15,
+      "cost": 100,
+      "name": "Bookcase ",
+      "source": "Star Trek Picard Jump Version 1.0",
+      "description": "Some personal reading material, and capable of expanding for more. For now, it contains a lot of existentialist philosophy, with complete works of philosophers such as Miguel de Unamuno. You get updates of any philosophy books that are available to the public and you might find particularly interesting in each Jump.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 16,
+      "cost": 100,
+      "name": "The 89 ",
+      "source": "Star Trek Picard Jump Version 1.0",
+      "description": "Not necessarily a bottle of alcohol from a particular year, but this wrapped up package might be enough to at least get someone you have alienated in the past to listen to you. It becomes a semi-expensive and wanted gift with no special capabilities but desired by whoever you want to give it to. This might stop them slamming the door in your face, but you will probably need a good reason for them to keep listening if they do not like you for some reason.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 17,
+      "cost": 200,
+      "name": " Positive Position",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Regardless of your origins, as long as you show a degree of talent at any particular position and don’t seem to be a threat, it’s now entirely plausible for you to gain a post in a group or organisation that you’ve recently joined or only just met recently. Even if you’re visibly an outsider, you’ll be considered welcome and competent as long as you don’t do anything to wear out that welcome. You could go from being a random trader to some ship’s official diplomatic liaison, or a former Borg to a navigational specialist if you clearly have the knack for it.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 18,
+      "cost": 200,
+      "name": "Rarely Questioned Authority ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Rarely Questioned Authority – People seem to respect your authority. As long as you seem to have some sort of reasonable plan of action and a position of superiority in an organisation, you can get those you outrank to follow your instructions without much complaint. This seems to be loyalty through benefit of your position, rather than your own personal attributes, so if you prove to be highly unstable or unsuitable to the role your subordinates will start questioning why you’re in charge. As long as you’re working towards some goal everyone agrees with and not using approaches they’d outright object to, they’ll probably keep working with you even if your leadership is unconventional to say the least.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 19,
+      "cost": 200,
+      "name": "Dirty Tricks ",
+      "source": "Star Trek: Enterprise",
+      "description": "Fair play is for suckers. You know how to fight dirty and take advantage of your environment, and have a solid knowledge of cheating in games of chance or in business deals. Anything to get you what you need.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 20,
+      "cost": 200,
+      "name": "Repress ",
+      "source": "Star Trek: Enterprise",
+      "description": "Some people say emotions give them strength, and that may be true for personal struggles. In a fight, emotions are just as often a distraction. You can shut out fear, pain and stress, and think and plan logically while under attack, doing what makes the most sense to survive.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 21,
+      "cost": 200,
+      "name": "Captains Collection ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A collection of odd trinkets and objects that each represent a mission or activity you have completed. Each time you complete a new mission or quest you will gain a new knick knack to represent it.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 22,
+      "cost": 200,
+      "name": "Submanifold Casting Stone",
+      "source": "Star Trek Lower Decks V1.3]",
+      "description": "A submanifold casting stone is a type of rock that allows its users to broadcast their voices over interstellar distances to other planets, and hear the response in turn.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 23,
+      "cost": 200,
+      "name": "Locator Beacon ",
+      "source": "Star Trek Picard Jump Version 1.0\n",
+      "description": "Here, in case they ever need a Jumper. This is a small device that looks like a transparent dog tag you can give to anyone to use whenever they need you. If activated, it will instantly send an unlockable signal that tells you they need your help and lets you unerringly pin down exactly where it is, and where they in theory are, in order to catch up and help them. They could give it away freely to other allies who can activate it, but this cannot be used to lure you into a trap. You will get the signal, but intuitively know it is a trap. Up to you if you still want to spring it.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 24,
+      "cost": 300,
+      "name": "Mental Alarm",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "You can now sense whenever someone is trying to read your thoughts or emotions. This ability won't provide you with any defense against mind reading, but it will let you know the identity of the person trying to read your mind.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 25,
+      "cost": 300,
+      "name": "SPACE PIRATE! ",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "From now on none of your crimes will ever earn you the death penalty. Take a starship hostage but get thwarted, you'll be spending the next decade in prison. Rob the interstellar bank, have fun getting frozen in carbonite. Note, your prison sentences will increase to match your crime, and you can still be killed in any battles leading up to your capture.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 26,
+      "cost": 400,
+      "name": "Pheromones",
+      "source": "Star Trek: Enterprise",
+      "description": "You exude chemical scent-cues which make members of the opposite sex attracted to and highly protective of you. Eventually exposure makes them highly suggestible, and the longer they’re exposed, the more vulnerable they become to you. This does not work on people not attracted to your physical sex, Vulcans, or anything that differs too far from the humanoid body plan, like Tholians, Horta or energy beings.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 27,
+      "cost": 400,
+      "name": "Mindshield",
+      "source": "Star Trek: Enterprise",
+      "description": "Telepaths are really rare in this time, but it’d be a shame to give everything away the first time you met one. You are so good at compartmentalizing that a mind-reader will only see what you want them to see, and a mind-controller cannot affect you. This also lets you shut off your pain impulses.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 28,
+      "cost": 50,
+      "name": "Latinum",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "Gold plated metal that serves as a common currency is many parts of the galaxy. One purchase gets you 500 strips",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 29,
+      "cost": 600,
+      "name": "Augmented",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "You were born as an enhanced human. You're 3x stronger, smarter and more agile than you should be, your senses are sharper than a normal human's could ever be, you're immune to disease and sickness, and you can withstand energy weapons like Phasers better than others.",
+      "chapter": "Captain's Cabin"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Captain's Cabin",
+      "__line": 30,
+      "cost": 600,
+      "name": "Telepath",
+      "source": "Star Trek: Enterprise",
+      "description": "It’s a really rare talent in this day and age, but a useful one nonetheless. You can sense organic sapient minds and emotions at great distance, and up close can hear their active thoughts. You can block out unwanted thoughts, naturally, and with effort do a deep dive into someone’s psyche to review their memories. With ten years of diligent work, you can match Tam Elbrum. With a century of training, you could match Gary Mitchell.",
+      "chapter": "Captain's Cabin"
+    }
+  ],
+  "3": [
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 1,
+      "cost": 100,
+      "name": "Stasis Fridge ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Whether this uses cryogenics, temporal manipulation or Fiat, you have a set of containers you can use to store all sorts of things. They won’t degrade, they won’t age, and they’ll be just as good as they were when you put them in. Feel free to use for important equipment, groceries, organs and other things you need to keep fresh.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 2,
+      "cost": 400,
+      "name": "Resources ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Being a trader with nothing to trade, a settler with nothing they can use to settle, or generally not having anything to start off with might be a problem. This item resolves this issue, giving you a reasonable amount of resources regarded as at least moderately useful and valuable for wherever you start off. Not a fortune or enough to settle an entire planet by itself, but it could be the start of one, if you know who to talk to and can get them to trade or invest in your endeavours. You get a resupply of the same quantity and quality following whatever rules are applied for Fiat Backed items, and it will adapt to stay useful in different Jumps.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 3,
+      "cost": 100,
+      "name": "Hydroponics Containers",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "These could be put into a bay specialised for that purpose, or just kept somewhere for yourself. They contain a variety of flowers and insects, which won’t escape or cause a mess. Feel free to use them for experiments, decoration, or potentially as food if you or a friend develops odd cravings. Surprisingly, they’re perfectly alright for any species to eat with no complications.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 4,
+      "cost": 500,
+      "name": "Portable Replicator",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "Much smaller and lighter than a regular replicator, but still just as capable. This device is able to fit inside of a backpack and can be powered of large amounts of solar energy and raw matter. It can create pretty much any known physical object, but it cannot replicate dangerous or complex things like antimatter or living organisms",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 5,
+      "cost": 100,
+      "name": "Agony Booth",
+      "source": "Star Trek: Enterprise",
+      "description": "A transparent cylinder large enough to stand in and tough enough to keep a person confined. Can stimulate nerves to cause unimaginable pain to any prisoner contained within.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 6,
+      "cost": 100,
+      "name": "Trellium-D",
+      "source": "Star Trek: Enterprise",
+      "description": "A handy material that proofs your ship against spatial distortions, as are common in the Delphic Expanse. Also insulates against other exotic effects that might warp, distort, dimensionally shift or corrupt your ship. Unfortunately addictive to Vulcans and can turn th m into rage zombies. Thirty barrels, refills weekly.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 7,
+      "cost": 100,
+      "name": "Isodesium",
+      "source": "Star Trek: Elite Force",
+      "description": "An uncommon resource not usually found in Federation technologies, Isodesium is occasionally employed by less advanced societies; often without recognizing its potential. Appearing as a rough, metallic ore, this compound can be integrated into a variety of energy systems to bolster its function. While it doesn't have any effect on overall power, it makes such systems much more resistant to anything that might interfere with their power, such as those caused by power-draining energy fields, E.M.P. weapons, overloads or similar kinds of issues. You receive several kilos of unrefined Isodesium, which replenishes on a weekly basis when used up, lost, destroyed or otherwise spent. Maybe you can find some use for it?",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 8,
+      "cost": 400,
+      "name": "Anomaly Consolidation",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A crate which contains hazardous scientific research materials that can not be recycled in a matter recombinator. Although most of the contents are considered dangerous refuse and you may not be able to use them all right away, they are all premium goods of the highest quality. The crate refills once a week with random anomaly waste, everything inside the crate has the potential to be used for a variety of things especially in worlds that have magical crafting.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 9,
+      "cost": 400,
+      "name": "Wireless Drone Printer",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This innate facsimile of AGIMUS is capable of printing dynamic wireless drones that have built in phasers and camera feeds allowing you to use them both for defence, gardening and scouting.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 10,
+      "cost": 200,
+      "name": "Raisin Vineyard",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "Your warehouse now contains an extension that contains a 3000 acre vineyard plantation. The species of grapevines in this vineyard were specifically grown for optimising the texture and flavour of dried raisins. You may also have an additional 1000 acres of land in the room to act as a pineapple and or coffee vineyard. Can also be a pocket dimension or placed on a planet",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 11,
+      "cost": 200,
+      "name": "Farming Tools and Art Supplies",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A self refilling crate that once a week contains any miscellaneous or common supplies, tools or equipment that could be easily acquired by any federation citizen.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 12,
+      "cost": 100,
+      "name": "Phaser Drill ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "An excavation device employing phaser technology to drill holes into the rock formations of a planet's mantle. This device has an extendable tripod in order to stabilise itself while firing. Given its size, it is built with a more powerful energy supply to last longer than a typical phaser.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 13,
+      "cost": 100,
+      "name": "Outdoor Pizza Oven",
+      "source": "Star Trek Picard Jump Version 1.0",
+      "description": "You can use it for other things too, but any food you cook in here will be perfectly edible, even if it is burned. Works in all weather, never runs out of fuel, self-cleaning.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 14,
+      "cost": 500,
+      "name": "Your Very Fine Chateau ",
+      "source": "Star Trek Picard Jump Version 1.0",
+      "description": "Big oak beams, heirloom furniture ... perfect place to retire to. Or resign in some sort of disgrace, but that is up to you and how people interpret things. This is comfortable, far more so than other accommodation that might be shown in the same setting you are in, and quite relaxing. If you preferred not to spend your days waiting to die and jump at the chance of one last adventure, those seeking you for your aid will be able to track you down here fairly easily, even if they have never met you before. Be aware that less friendly faces might drop in at some point since your fancy family estate is not exactly hidden.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 15,
+      "cost": 600,
+      "name": "Collector's Guild Starship",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "An automated ship which has an odd modular based design. Most of the modules consist of galleries housing a vast collection of rare and valuable Items. The ship has a wide variety of eclectic defensive weaponry which is widely different on each module. The ship also has a small engine room set apart from the main hull capable of taking the ship into low warp speeds. As your collection expands new modules will be added to store the additional assets that have been added to your collection.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 16,
+      "cost": 200,
+      "name": "Gel traps",
+      "source": "Star Trek - NuTrek Jump ",
+      "description": "You have no idea where these came from, all you know is that this set of 24 pods contains a rapidly-solidifying gas that can trap a fully-grown man. Can be set to manual detonation or proximity detonation. Replenishes weekly in the warehouse.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 17,
+      "cost": 100,
+      "name": "Shuttlepod",
+      "source": "Star Trek: Enterprise",
+      "description": "It can’t go to warp and is almost certainly less advanced than the shuttlecraft of the 23rd and 24th Century. Then again, they didn’t start arming them again until the Runabout, so which is really the inferior craft, hmmm?",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 18,
+      "cost": 200,
+      "name": "Assault Shuttle",
+      "source": "Star Trek: Elite Force",
+      "description": "Starfleet vessels are typically built for versatility and comfort, but such benefits are largely useless when you need to get somewhere you'll encounter more rocket launchers than diplomats or scientists. This small vessel's design might be based on the classic Federation shuttle framework, but the similarities are little more than aesthetic at best. Heavily shielded and reinforced, it incorporates cutting edge ablative armour to create a vessel unreasonably tough for its size. This cramped ship can fly through intense enemy fire and still guarantee safe delivery of as many as a dozen heavily armed passengers. Indeed, 'rapid insertion' with this craft might involve less actual landing than it does plowing nose-first into the ground at several times the speed of sound - yet the pilot and soldiers inside will at most be slightly rattled. It also comes with a signature masking system to evade detection, though it's only lightly armed (insofar as the usual Phasers and handful of Photon Torpedoes are 'light'). It's still primarily a transport, after all, not a gunship.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 19,
+      "cost": 400,
+      "name": "Runabout",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "A small warp-capable ship slightly larger than a shuttle. It comes equipped with a living quarters, a food replicator, a transporter, 4 phaser arrays, a torpedo launcher, and deflector shields. This is should be able to keep you safe against bandits and pirates, but it'll be almost completely useless against a military ship. You hold all the necessary documents to prove you own this vessel, and you'll be able to fly it regardless of your piloting experience.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 20,
+      "cost": 400,
+      "name": "Vulcan Reconnaissance Vessel",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This Vulcan starship is a modern and upgraded variation of the D'kyr-type ship. This ship is far smaller than the D'kyr-type being capable of fitting inside some shuttle bays. This ship can be crewed by as few as two people, contains various types of Vulcan stealth technology not classified as cloaking devices and has additional support structures within the rings which allow it to reach a max warp speed of 9.6.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 21,
+      "cost": 600,
+      "name": "Delta Flyer",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Whether or not it still gets made now that you’re here, you somehow have a fully functioning, custom-designed shuttle made to be significantly more capable than standard Starfleet Class 2 shuttle craft used at this time, and lacks a particular microfracture problem. Maybe it’s a prototype? Whatever explanation you have, this one is clearly much tougher than its progenitors and capable of supporting a ship like Voyager in battle. Features include ultra-aerodynamic contours, retractable nacelles, parametallic hull plating, unimatrix shielding based on a design for a multispatial probe, a Borg-inspired weapons system, and even a manual control panel in the style of a Captain Proton holoprogram for hands-on piloting. However any of this actually works or what it’s supposed to mean, if this craft is somehow destroyed you’ll get another one using whatever Fiat Backed Items rules apply, and it retains any upgrades you give it as long as you want them to stay.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 22,
+      "cost": 100,
+      "name": "Ketracel White",
+      "source": "Star Trek Online",
+      "description": "Probably the most insidious part of the Dominion’s method for control, this drug is a requirement for the continued function of a Jem’Hadar. The supply is usually controlled by the Vorta officers on their ship, but now you have a box filled to the brim with packets of Ketracel. Should this box run out, it refills at the start of the next month.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 23,
+      "cost": 200,
+      "name": "Combat Arena",
+      "source": "Star Trek Online",
+      "description": "The Klingon Empire values strength above all else, probably a relic of the Hur’q invasion so long ago. Should you ever need to fight someone, you now have the perfect place. It will shift to become the proper arena for anything you need, but it defaults to the perfect place for Bat’leth combat. As a bonus, it even comes with a few trophies you can hand out to the winners--in proper Klingon fashion, they are sharp enough to use as a weapon.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 24,
+      "cost": 100,
+      "name": "Risan Powerboard(",
+      "source": "Star Trek Online",
+      "description": "But that’s not all! We also have on offer the Risan Powerboard, capable of gliding elegantly over the ground and sea! This comes in both full-size and miniature versions, and, unlike certain competitors, has more than enough power to work on water. All this, and more, will be yours, courtesy of the Ferengi Commerce Board.",
+      "chapter": "Cargo  and Docking Bay"
+    }
+  ],
+  "4": [
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 1,
+      "cost": 400,
+      "name": "Toolkit ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "You might end up needing to do a lot of engineering work, and you might not always have the tools you need for the job. This toolkit fixes that problem. So long as you – or someone you’re assisting – has the skill and knowledge to actually do something, and all you need is a specific tool, you can now pull said tool out of this thing. The tools will vanish as soon as they’re no longer needed for that particular task, but you can get another as soon as you need it again. Nobody will find this odd unless you point it out.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 2,
+      "cost": 100,
+      "name": "Engineering",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "You've been trained in the maintenance and repair of Starships. Not only do you have a significant amount of mechanical",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 3,
+      "cost": 100,
+      "name": "Robotics",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "A combined study of mechanical engineering, and computer science. You learn how to make a wide array of machines, and you could even figure out Android or Borg technology if you studied it enough.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 4,
+      "cost": 400,
+      "name": "Time Agent Toolkit",
+      "source": "Star Trek: Enterprise",
+      "description": "A standard 31st Century Temporal Agent toolbox including; a time-communicator, Temporal Observatory that visualizes the time-stream and any incursions or changes, a futuristic database of historic records and technical specifications, and a spatial interphase device allowing people to walk through walls. The computer doesn’t update, but 31st Century Federation tech is nothing to sneeze at, even if it might take a while to build the tools to build the tools to build it.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 5,
+      "cost": 800,
+      "name": "Legacy Of The Vor’Soth",
+      "source": "Star Trek: Elite Force",
+      "description": "This semi-spherical machine is only a few feet across, but don't let its size fool you. Known simply as a 'seed', this device is a small, self-contained fabrication system holding the entirety of the Vor’Soth’s knowledge. Given time and materials, the seed can rebuild itself into a new Forge, first by harvesting asteroids and other secluded sources of raw materials, and later by potentially trapping other vessels using the FTL recall system and power suppression field that led to Voyager’s entrapment. It also contains enough biotech to create entire armies of super soldiers and psychically gifted enforcers - be it by recreating the Harvesters, Reapers and Avatars used to create the Vor’Soth’s army... or by altering existing species - or even yourself - to suit your needs instead.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 6,
+      "cost": 200,
+      "name": "I Wouldn’t Be Much Of A Demolitionist…",
+      "source": "Star Trek: Elite Force",
+      "description": "...if I couldn’t blow up a door.” Well, you and Austin Chang would probably get along splendidly, because explosives might as well be in your blood. Grenade launchers, demolitions, breaching charges, maybe a detonator or two… you’ve seen them all, used them all, and you’re the first person anyone goes to whenever they need something to go ‘boom’. More than that, you’re an absolute savant when it comes to recognizing weak points or critical components; even a small bomb could cause a devastating chain reaction if put in the right place, and you’ll know where it is every single time.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 7,
+      "cost": 400,
+      "name": "Systems Specialist",
+      "source": "Star Trek: Elite Force",
+      "description": "You can’t always shoot your way out of trouble; sometimes you need brains like yours. You’re a talented engineer, hacker and xeno-specialist, with a particular focus on alien system analysis. Though more in-depth use of an alien’s computer systems will obviously require more extensive study, you’re nothing less than a savant when it comes to quickly finding whatever critical program or circuit you need to close a bulkhead on an incoming group of enemies, disable a self-destruct system, or otherwise deal with the latest urgent crisis that’s going to kill everyone in less than ten seconds unless you stop it. Just… try and stay calm under fire, yeah? One Chell’s enough.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 8,
+      "cost": 600,
+      "name": "Star Trek: Elite Force",
+      "source": "Star Trek: Elite Force",
+      "description": "Though the skill of Federation engineers is (in)famous in general, a lot of the time these fine men and women achieve feats of legend while forced to improvise with various amounts of ‘technobabble’. Doing so in the middle of a battle is somewhat dangerous to your health, however, so those in charge of developing and maintaining the equipment used by the Hazard Teams need to anticipate instead. You’re a master engineer, not with starship systems or holodecks or what have you, but with guns. Reverse-engineering recovered equipment is trivial for you, and given an afternoon and a decent supply of components, you could whip up new weapons and other combat systems that could revolutionize Starfleet infantry combat doctrines. Why stop at grenade launchers when you can start blasting enemies apart with miniaturized photon torpedoes instead? With these kinds of skills, the other ‘yellow shirts’ would probably look at you with more than a little awe… and perhaps some fear, as well.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 9,
+      "cost": 400,
+      "name": "Regeneration Alcove ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "This might not be a particular piece of Borg technology unless you need it to be. As various different species might require special conditions to rest, recover, or survive in a universe with laws of physics different from the one they originated in. That shouldn’t be too much of a problem now. Consider this item an adaptive habitat, suitable for a single individual, altering however you need it to allow the recovery and maintain health of anything inside it. If you don’t have any specific requirements, it can become a bed that allows restful sleep and rapid recovery from any problems that wouldn’t require treatment from a medical specialist to resolve.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 10,
+      "cost": 100,
+      "name": "24th Century Standard Jab",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Lots of diseases and conditions either aren’t present here, or you might run into something new. Consider yourself inoculated against the standard stuff here, unable to accidentally infect people with a cold or pick up something yourself. This doesn’t stop weaponised diseases, enormous viruses, or rarer life- threatening communicable problems.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 11,
+      "cost": 100,
+      "name": " Medical Kit ",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "In addition to a full supply of bandages and gauze, this kit also contains a hypospray, a device that can inject liquids without breaking a patients skin. The hypospray comes with vials of anesthetic, antibiotics, and healing boosters that automatically refill after 24 hours.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 12,
+      "cost": 100,
+      "name": "Surgeon ",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "You’ve been trained in the art of physiological modification. You’ll be able to perform facial and bodily modification procedures that can greatly alter someone’s appearance. At first you’ll only be able to perform minor surgeries, like making a human look like a Vulcan, but with time and practice, you may be able create exotic and terrifying chimeras",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 13,
+      "cost": 100,
+      "name": "Medicine",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "Training and knowledge in First-aid, diseases, surgery, anatomy, health and nutrition. You're a fully qualified doctor of the 24th century.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 14,
+      "cost": 600,
+      "name": "Cold Station 12",
+      "source": "Star Trek: Enterprise",
+      "description": "A space station containing the preserved embryos of 1800 Augments, plus samples of every disease and pathogen known to Starfleet or the Denobulans at this time. Also comes with computer records of all these diseases, their cures and vaccines if any, and every tweak Arik Soong ever made to the human genome.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 15,
+      "cost": 200,
+      "name": "Alternative Medicine",
+      "source": "Star Trek: Enterprise",
+      "description": "A menagerie of creatures, who oddly require nothing from you in terms of food or care, and whose bodies yield a surprising number of cures, analgesics or medically useful substances.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 16,
+      "cost": 600,
+      "name": "Genemods",
+      "source": "Star Trek: Enterprise",
+      "description": "The full package of Cabal mods, including the ability to crawl on walls and ceilings, slip through small cracks, see in the dark, breathe in virtually any atmosphere and tolerate vacuum for a while, camouflage similar to a Jem’Hadar Shroud, and the ability to impersonate other humanoids. You even get Sarin’s ability to tell if a person is trustworthy or telling the truth by making out with them.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 17,
+      "cost": 100,
+      "name": "Battlefield Triage",
+      "source": "Star Trek: Elite Force",
+      "description": "It’s an inevitable fact of tackling missions into hostile territory that, usually, someone ends up shot. Keeping a squad going when half the members suffer severe phaser burns (to say nothing of more serious injuries) can be challenging, but there’s a good reason your squadmates will turn to you in such situations. You’re a capable doctor, but rather than the more esoteric and wide skill coverage most ordinary Federation medical professionals enjoy, you are especially gifted when it comes to field medicine. You know how to keep people alive through grievous wounds, you can stay calm in the middle of emergency surgery even when disruptor blasts and plasma grenades are flying left and right, and while you might need to get the severely injured to a proper sick bay for more extensive work rather than do a field ‘patch job’, you’ve got pretty good odds of keeping them alive until they actually get there. Bring your hyposprays, keep your medical tricorder charged, and you’ll make a lot of (probably very deadly) friends.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 18,
+      "cost": 400,
+      "name": "Medical Shotgun",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A StarFleet medical device used to administer drugs to recalcitrant patients from a distance. It can be disassembled into four pieces.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 19,
+      "cost": 200,
+      "name": "Anti-Pheromone Spray ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This simple spray bottle dynamically fills itself with a chemical that when sprayed will cancel any airborne mind altering chemicals including Orian Pheromones.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 20,
+      "cost": 100,
+      "name": "Hypospray",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A medical device used to inject liquids into the body. The system used a noninvasive transport mechanism of compressed air to transfer the injectant from the device into the subdermal layer below the skin of the body, or artery without the use of a needle.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 21,
+      "cost": 600,
+      "name": "The U.S.S. Nerx ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This starship is a Osler-type medical transport specifically designed to prevent exacerbating medical conditions by utilising a specialised black hull which prevents all external contaminants. The ship's internal regulators automatically adjust light and heat to safe levels for all patients. In order to accommodate patients who cannot use transporters or be at warp speeds, the ship is capable of atmospheric entry and uses a “Wormhole Drive” to generate synthetic wormholes that allow warp drive equivalent interstellar travel speeds while only moving at impulse speeds.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 22,
+      "cost": 100,
+      "name": "Medical Tricorder",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This specialised version of the tricorder is equipped with sensors and analysis software tailored for medical diagnostic purposes. They are usually the first tool a StarFleet doctor utilises when assessing a patient's condition.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 23,
+      "cost": 100,
+      "name": "Psycho-tricorder",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This version of the tricorder is designed to scan specific brain wave patterns during questioning and is helpful in the diagnosis and treatment of mental disorders and ailments. It also possesses a hypnosis-assist subroutine, as well as subroutines for lie-detection and amnesia analysis. The device is normally operated by a medical technician while the attending psychologist directs the patient but is also useful for diplomatic communications and interrogations.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 24,
+      "cost": 100,
+      "name": "Medical Phaser ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A specialised phaser that is unable to do permanent damage but can be used on virtually any species for instant sedation. The Medical Phaser can also be used to reset a person's biological system as a quick cure for most biorhythmic ills including functioning as a hangover remedy.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 25,
+      "cost": 600,
+      "name": "Cybernetically Enhanced ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "You have now become a StarFleet cybernetically enhanced officer this allows you to have instant and direct access to all of StarFleet's unclassified databases and documentation. Your implants have combat strategy analytics software that can at your discretion take control of your body, and is capable enough to single handedly defeat a dozen borg in seconds.Your visual implant that allows you to detect electromagnetic signals, send a live video/audio feed, view various types of radiation, see upto and beyond the infrared/ultraviolet spectrum ranges and detect biochemical reactions such as heart rate and body temperature. Post Jump you can shift these and any newly installed implants to and from biological implants.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 26,
+      "cost": 200,
+      "name": "It’s not so different from engineering ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "You can now see whenever skills, knowledge or abilities that you have which can be applied to another field, this allows you to see where your skills can interconnect. This also allows overlapping abilities to synergize much more efficiently and makes them more flexible in how they affect each other.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 27,
+      "cost": 200,
+      "name": "Oo I love purging",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "You can easily handle normally boring tasks and can choose to find a great deal of joy in the boredom thus allowing you to speed through them with ease. Not only does the boredom not affect you, but you are able to spread the joy to any other individuals who are doing the tasks with you.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 28,
+      "cost": 400,
+      "name": "Regenerative Forest",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This is a pleasant forested area, a large natural in an out-of-the way location that you own and will not be trespassed onto unintentionally. Everything here seems bright, calm, and peaceful, with fresh air and even a lake with perfectly clean water. The trees and plants do not need management, and despite their clear health as they never seem to develop rot or diseases there is no danger of overgrowth or any weeds. It is a nice place to visit at the moment, with plenty of room for children to play safely amongst the woods, and though it currently does not have any sort of building or shelter you can combine this with a property to have this as its surroundings.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 29,
+      "cost": 400,
+      "name": " I Thought I Taught You Better Than This",
+      "source": "Star Trek Picard Jump Version 1.0\r",
+      "description": "Your own creations can disappoint you sometimes, Jumper. While this Perk does not stop that disappointment, it does allow you to deal with it in a quick and permanent manner. Anything you have created, anything you have brought to life, you can destroy or killing almost effortlessly. You could even how you see the reason behind their actions but explain that reason is not everything. How you are so disappointed that your ‘child’ helped an enemy kill one of their ‘siblings’. Even if they are far superior mentally and physically to you and anyone else, it turns out they are no better than anyone else with something as simple as the press of a button.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 30,
+      "cost": 200,
+      "name": "Vaccines",
+      "source": "Star Trek - NuTrek Jump ",
+      "description": "It’s a big galaxy out there, with nearly as many diseases as there are stars. You now have an immense set of vaccines, shots, and other forms of immunizations against them and most earth diseases. You also have a manual detailing their manufacture, use, and side effects… which can get pretty nasty. Useful for favors.",
+      "chapter": "Engineering and Sick Bay"
+    }
+  ],
+  "5": [
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 1,
+      "cost": 100,
+      "name": "Piloting",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "How to operate starships and other space worthy vessels like shuttles and Runabouts.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 2,
+      "cost": 100,
+      "name": "Space Ready ",
+      "source": "Star Trek: Elite Force",
+      "description": "Combat in the 24th century is often quite similar to how it's been in centuries past - though the guns now fire energy blasts rather than bullets. But when things differ, they differ a lot. You're the kind of person who might very well have been born on a spaceship; thinking in three dimensions comes natural to you, fighting in low gravity is child's play, and even the most hardened space suits are as comfortable as loungewear. You're also gifted with a complete immunity to vertigo, which might come in handy next time you're hurtling through a vacuum and need to keep your bearings.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 3,
+      "cost": 1000,
+      "name": "NCC-1701-J",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "The U.S.S. Enterprises J is a 26th century Federation Universe-class starship built using advanced techniques and technologies that had the ship grown like an organic animal, also allowing it to grow further and improve. The Enterprise J was designed as a city ship being two miles in length and despite it appearing to be thin the saucer section is actually 30 decks thick containing a full city with large parks, entertainment zones, entire universities, an artificial sky, and even an artificial sun.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 4,
+      "cost": 200,
+      "name": "Cell Ship",
+      "source": "Star Trek: Enterprise",
+      "description": "A small ship with future technology, it is cloak capable, armed and has a warp drive that outstrips most ships of this era. If you buy more than one they can link together to form more powerful vessels",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 5,
+      "cost": 400,
+      "name": "Romulan Drone",
+      "source": "Star Trek: Enterprise",
+      "description": "A remote-piloted ship that is remarkably agile and a match for most period warships. Comes with a holographic system and suite of sensor-spoofing gear allowing it to impersonate any starship, and a cloaking device. The canon ones required a blind telepathic Andorian to function, but you just get a neural uplink helmet.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 6,
+      "cost": 400,
+      "name": "NX-Class ",
+      "source": "Star Trek: Enterprise",
+      "description": "A ship of your own, whether a time-duplicate of the Enterprise, or a new ship like Columbia or Avenger, this is a perfect match for the NX-01 with grapplers, polarized hull plating, phase cannon, photonic torpedoes and a Warp Five engine.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 7,
+      "cost": 400,
+      "name": "Areore Warship",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This large starship was used by the ancient Areore in their interstellar wars. It is equipped with deflector shields and potent energy weapons of a design unknown to the Federation in the 24th century. With the ship itself being capable of landing on a planetary surface.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 8,
+      "cost": 400,
+      "name": "Breen Interceptor",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "The Breen interceptor was a type of light warship that served as the backbone of the Breen Confederacy fleet in the late 24th century. The primary weapons of the Breen interceptor were several torpedo launchers and disruptors on the forward pikes on the ship, which could fire with great speed and accuracy. Additionally, this interceptor is equipped with a bow-mounted energy-dampening weapon capable of completely disabling the power system of an enemy ship with a single hit, however most Klingon, Romulan and Federation vessels have developed countermeasures for this weapon during the dominion war.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 9,
+      "cost": 400,
+      "name": "Ancient Generation Ship",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This ancient generation ship may only be capable of sub-light travel and be slightly damaged needing some repair but it can easily integrate any new technology into itself. The ship comes with over 500 core cryo units and mysterious containers of molecular fluid which generates living organisms, as well as other natural components including rocks and water, on contact from inorganic material. The molecular fluid refills once a month and is programmable so that it can transform an inorganic environment into a living ecosystem. The ship's inhabitants had presumably planned to use the to terraform their destination if their cryo units had not been manually disabled.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 10,
+      "cost": 400,
+      "name": "Who wants to Hotwire a stolen ship -",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "You gain complete understanding of the internal control systems and capabilities of any vehicle you are aboard. From this knowledge you can instantly work out how to take full control of the ship and what the piloting systems for it are.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 11,
+      "cost": 400,
+      "name": "USS Franklin",
+      "source": "Star Trek - NuTrek Jump ",
+      "description": "One of the oldest ships in the fleet, first to ever reach warp 4. She’s more than a bit of a fixer-upper, but she’s off the federation’s radar, and can serve you well out in the uncharted regions of the frontier.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 12,
+      "cost": 600,
+      "name": "Hunter Killer",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "This isn’t for exploration or trade, this thing is a predator, Jumper. It’s a perfectly functional mishmash of various technologies, including torpedo launchers, shield emitters, a system capable of performing rapid scans on other vessels and severely disabling other ships by disrupting propulsion and navigational sensors. It has powerful tractor beam technology and durable armour plating that interferes with attempts to scan or target it. There’s a functional ‘stealth mode’ that masks its engines, allowing tracking a vessel without alerting them to its presence. Onboard is space for trophy tooms, areas to tear apart and analyse captured technology to some extent, cells for prisoners, secured medical bays for less fortunate prisoners, and an area that it looks like something else could be easily installed involving projectors or matter-replicating technology if you happen to have it. It even has a very potent communication system, independent from any sort of relay which has a range sufficient to contact the Alpha Quadrant from the Delta Quadrant if you wanted to do so. Or you could ask a lot of people about something you’re trying to track down.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 13,
+      "cost": 600,
+      "name": "Xindi Superweapon ",
+      "source": "Star Trek: Enterprise",
+      "description": "Look, it’s just a spherical device that fires a kind of ‘super-laser’ that destroys planets, alright? It’s totally original and not a rip-off! This one is... smaller, and has moving parts! Totally original!",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 14,
+      "cost": 600,
+      "name": "USS Defiant ",
+      "source": "Star Trek: Enterprise",
+      "description": "This Constitution-class starship is a century ahead of its time, a match for a small flotilla of ships on its own. In future Jumps, it retains the quality of being the most advanced starship around, upgrading to either a century advanced or incorporating ancient and obscure technology. If you’d rather, you can imbue another ship you own with this quality.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 15,
+      "cost": 600,
+      "name": "The U.S.S. something or other",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "You get your very own California-class vessel like the USS Cerritos. The California-class was in StarFleet ship put into service in the 2380s decade having been designed so that although it is a smaller class of ship, it carries multiple types of specialised equipment so that it is capable of accomplishing almost any mission type.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 16,
+      "cost": 600,
+      "name": "The Monaveen",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A luxurious class of cruiser utilised by the Hysperians, this ship has comfortable furnishings and decorative artwork including carvings and inlays that alongside renaissance style technologies, are intended to give the ship the illusion of being a magical spaceship. Although the ship utilises many standard technologies such as transporters and force fields they're all referred to by fantasy terminology such as the dragonbreath engines, which is almost identical to a standard warp drive.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 17,
+      "cost": 600,
+      "name": "Old Romulan Bird of Prey ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "Most of this antique Bird of Prey’s systems are out of date, it has a single forward torpedo launcher and two forward-firing disruptor cannons however instead of an outdated cloaking device this instead uses the Phasing cloaking device that was salvaged from the USS Pegasus.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 18,
+      "cost": 600,
+      "name": "The Retribution",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This Orion destroyer is a warship used by the Orion Syndicate, it is massive in size and has considerable firepower. Though they were considered antiquated by the late 24th century, the ship's main cannon is still capable of breaking through almost any type of shield allowing the ship to act as one large gun.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 19,
+      "cost": 600,
+      "name": "The Vin-pocalypse",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "An advanced Klingon Bird-of-Prey that was only at the prototype stage when it was stolen leaving it without an official class name. The ship possesses remote bridge controls, cloaking capabilities, and carries a boarding pod and an armoury with enough Klingon weapons and armour for a full ship's complement. The ship was heavily modified to become far more destructive at the cost of utility such as overcharging the ship's self-destruct system at the cost of the ship’s emergency power systems.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 20,
+      "cost": 600,
+      "name": "Pakled Clumpship",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This is an enhanced starship used by the Pakled rebels that began as a Mondor-type craft, it has been heavily fortified with new stolen or salvaged components from over 30 species such as the Romulans, Klingons, Ferengi, Bajorans, and Arkonians. The ship can incorporate other vessels into itself by using its equipped mining arms and federation shipyard to ensnare, modify and install the new “salvaged ships”.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 21,
+      "cost": 600,
+      "name": "Nova One",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This small independent starship was designed by Nick Locarno. Despite its size the ship was built to disable any ships weapons and power systems before knocking the crew unconscious through a high intensity but harmless energy beam.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 22,
+      "cost": 600,
+      "name": "NX-74205-Seyum-31",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This unmarked Defiant-class starship is owned and operated by section thirty-one. The ship has specialised black hull plating to aid in sensor blocking and an illegal StarFleet issue cloaking device specially built to counter all known clocking device counter’s including quantum beacons and proton beams.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 23,
+      "cost": 600,
+      "name": "Narada",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This is a vast vessel. 9.3 km long, originally designed as a mining vessel, but now a warship far beyond most of starfleet’ conventional weapons. This is the ship of Nero of the Romulan empire. Possesses a Drill capable of going to the core of worlds",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 24,
+      "cost": 600,
+      "name": "USS Vengeance",
+      "source": "Star Trek - NuTrek Jump ",
+      "description": "Now this is a warship. She was built by the secret faction within starfleet known only as section 31. It has weapons systems far beyond anything a standard starfleet ship would have, and is designed to be able to run with a crew of just one person.",
+      "chapter": "Space Dock"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Space Dock",
+      "__line": 25,
+      "cost": 600,
+      "name": "Ambassador Spock Ship",
+      "source": "Star Trek - NuTrek Jump ",
+      "description": "This ship is not one of modern origin, though it appears to be of Vulcan make. It is the fastest ship in the galaxy, though it is entirely without powerful weapons and armor. It has an AI that recognises you as its owner and an ample amount of red matter.",
+      "chapter": "Space Dock"
+    }
+  ],
+  "6": [
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 1,
+      "cost": 0,
+      "name": "Phase Pistol ",
+      "source": "Star Trek: Enterprise",
+      "description": "The preferred weapon of the 22nd Century, this compact energy weapon has virtually limitless shots and a stun setting.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 2,
+      "cost": 0,
+      "name": "Melee Weapon",
+      "source": "Star Trek: Elite Force",
+      "description": "Yes, most of the fights here will involve Phasers, Disruptors, grenades, Tachyon weaponry, miniaturized photon torpedoes and who knows what else. But sometimes, it’s nice to just get in someone’s face and hit them with a large and unpleasantly sharp piece of metal. Built with the finest of Federation metallurgy and engineering insights, this purchase grants you a melee weapon of some kind, with the exact details being up to you. The most common such weapon you’ll see during your time here is likely the Klingon Bat’Leth, but nobody’s going to be upset if you bring a pair of daggers or even a fencing weapon of some sort.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 3,
+      "cost": 100,
+      "name": "Relentless Predator ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Most would find it difficult to track down a single ship in the vastness of space. You are not most people. When you are focused on trying to find a specific enemy, for whatever reason, you’ll find clues to their route, figure out shortcuts, know how to intercept them and sniff them out eventually no matter how many times they duck into hiding spots. Of course, this doesn’t mean you’ll actually be able to do anything once you catch up with them, not with this Perk alone.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 4,
+      "cost": 100,
+      "name": "Type 2 phaser",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "The standard issue weapon for all Federation personnel, this thing can fire an energy beam at 16 different intensity settings, ranging from stun to vaporize. It can also modulate to fire at different frequencies and project and area of effect beam",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 5,
+      "cost": 100,
+      "name": "Combat",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "Hand to hand fighting is an ancient and quintessential skill for every soldier no matter what time period.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 6,
+      "cost": 100,
+      "name": "Hard Man ",
+      "source": "Star Trek: Enterprise",
+      "description": "You’re just tough, able to take a hit and keep on going far better than your peers.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 7,
+      "cost": 100,
+      "name": "Portable Force Field",
+      "source": "Star Trek: Elite Force",
+      "description": "A powerful but temporary shield generator, these bulky devices can be deployed to project a heavy barrier dozens of feet wide. The shield can be maintained for half a minute, and is resilient enough to weather multiple impacts from a Photon Burst without collapsing. It can also be configured to allow allies or friendly attacks to pass through unhindered in either direction. You receive a set of five such projectors, each of which is replaced after one day, though the Hazard Suit can't normally hold more than one in its transporter buffer.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 8,
+      "cost": 100,
+      "name": "Anti-Gravity Pack ",
+      "source": "Star Trek: Elite Force",
+      "description": "Although most of the Hazard Team's missions will be either on board ships or stations, or even planetside, moving in three dimensions remains useful as ever. This lightweight harness uses anti-gravity to propel the user, allowing for brief bouts of flight or much longer periods of effective 'weightlessness'. Keep an eye on your surroundings, and you could get some spectacular tactical advantages - especially if you can catch your foes off guard or evade them entirely. The system allows for roughly a minute of flight at jogging speed before the power pack is fully drained, though it recharges back to full power in at most five minutes.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 9,
+      "cost": 100,
+      "name": "Tactical Display",
+      "source": "Star Trek: Elite Force",
+      "description": "This small piece of equipment is typically worn over the left or right ear, from where it generates a holographic 'Heads Up Display' for the user. An upgrade over the standard model issued to all Hazard Team members, this display automatically adjusts for any bizarre biological abilities, strange new weapons, or other such out-of-jump assets you bring with you. The display shows an approximation of your physical health as well as ammunition counts, shield levels, local area scans (the 'mini map') with estimated locations of friendly and hostile combatants, and a number of other such tactical information. For held weapons, it also provides a 3-D target reticle that shows estimated weapon spread and likely impact locations, and the reticle will indicate if you're aiming at a friendly or enemy target if the system is configured with suitable I.F.F. criteria. All these features can be (de)activated or adjusted 'on the fly'. The headpiece itself is hardened against interference or hacking, ensuring continued functionality even in the most hostile (in both senses of the word) environments.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 10,
+      "cost": 100,
+      "name": "Orion Multi-Key ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "The Orion multi-key was a traditional tool of Orion pirates. A short truncheon with a heavy head bearing four extendable prongs, it had a variety of functions including weapon, lock pick, and bottle opener.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 11,
+      "cost": 200,
+      "name": "You Have (X) Photon Torpedoes Remaining",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Or whatever equivalent ammunition is required. Curiously, however much you’re supposed to have in total, this item seems to ensure you have enough to do the job. It’ll take the form of some sort of indicator or sticker you can place on whatever it is that you don’t want to run out of ammunition. You won’t technically have infinite ammunition so you can’t sell an unlimited amount of photon torpedoes, but somehow you always seem to have enough to use. This could be amusing if anyone is actually trying to keep count from how many you supposedly started off with.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 12,
+      "cost": 200,
+      "name": "Phaser",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "The standard hand-held weapon used by members of Starfleet and with a bit of know-how that you happen to possess it can also be used as a tool for cutting, melting, and other purposes you can realistically get from something that shoots energy beams. This comes with a case containing additional components that click together with this to turn it into a much bulkier but somewhat more potent Phaser Rifle. Comes with a clip and a strap, so you can keep your hands free and keep your weapon on you regardless of which configuration you’re using. Guaranteed not to backfire on you.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 13,
+      "cost": 200,
+      "name": "Tattered Shirts",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Do your opponents have dedicated security teams, or were those just random crew that were barely armed and certainly unarmoured? It doesn’t matter to you, it’s basically the same thing. You’re good at combat, ranged and melee, enough to lead your own forces into enemy territory and take on some of the best they have. Your opponents might defend themselves, but oddly enough they don’t seem to adapt a lot to whatever you use. As a bonus, any armour you wear or weapons you use won’t get in the way of what you do, it might as well be as comfortable and flexible as a specialised uniform to you.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 14,
+      "cost": 200,
+      "name": "Tr-116 Rifle",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "A silent sniper rifle that fires tritanium bullets at incredibly fast speeds. Tritanium rounds are 3x harder than diamond and can easily break past personal shields. In addition, this weapon has been modified with a micro-transporter and an exographic scope. The transporter will allow you to beam bullets directly to a target, and the scope will allow you to see through walls and other artificial obstacles.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 15,
+      "cost": 200,
+      "name": "Compression phaser rifle ",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "Essentially this a more powerful version of the type 2 phaser, the compression rifle has 16 power settings, multiple-target acquisition, and auto-stabilization features. It can also fire wide area beams and is effective in dampening fields that disable regular phaser weapons",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 16,
+      "cost": 200,
+      "name": "Cloaking Minefield ",
+      "source": "Star Trek: Enterprise",
+      "description": "Hundreds of space mines equipped with cloaking devices, perfect for area control. Refills annually.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 17,
+      "cost": 200,
+      "name": "Body Armor ",
+      "source": "Star Trek: Enterprise",
+      "description": "You have MACO body armor that will let you survive a hit from a phaser-equivalent weapon set to kill, though you’ll likely still be out of the fight, and ignore the stun setting. It is also stab-resistant.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 18,
+      "cost": 200,
+      "name": "Showdown",
+      "source": "Star Trek Picard Jump Version 1.0\n",
+      "description": "While you may hate something enough to engage in melee combat with it yourself, this would not be a wise move if they happened to be significantly stronger and more durable than you are, or your foe using something that could end the fight instantly once they lay their hands on you. That is not a problem now. Your combat ability scales to let you face those abominations on even footing, making you just as strong as they are in combat when they should really be able to toss you around one handed. They do not use their most effective abilities on you, even if it should instantly win the fight. A Borg would not immediately use their nanoprobes to fry your brain, a Vulcan would not use the characteristic pinch move, someone with a Phaser would not just stun instantly you as a precaution, etc.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 19,
+      "cost": 300,
+      "name": "Metaphasic Shielding",
+      "source": "Star Trek: Elite Force",
+      "description": "The defensive counterpart to the Quantum Weapon Enhancer, this powerful defensive item can be activated to envelop the user in a temporary but incredibly potent energy field that effectively nullifies all incoming attacks as well as environmental dangers such as heat or radiation. Not originally developed for use in personal devices, this system was originally single-use only and could only remain active for thirty seconds. Though it’s still far from a continuous form of defense, this modified design instead requires an hour to recharge and recalibrate the emitters after each activation, allowing it to be used again once this process is completed.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 20,
+      "cost": 300,
+      "name": "Personal Cloaking Device ",
+      "source": "Star Trek: Elite Force",
+      "description": "A cutting-edge prototype, the Romulan Personal Area Cloaking Device was created to allow Romulan operatives to evade detection much like their Warbirds hide from hostile starships. Capable of granting the user effectively perfect invisibility across a wide range of optical wavelengths, this system also includes a specialized dampening field that hides the user from most conventional scanners (though not necessarily dedicated bio-scans or specialized anti-cloaking detectors). Coming with a built-in power generator, it can keep the user hidden nigh-indefinitely, although the field will be briefly disrupted when the user fires any weapons; after firing, re-establishing the cloaking field will take a few seconds. Be careful with this technology; the Federation is not permitted to use or develop cloaking technologies, and revealing you are using a design developed by the Tal Shiar instead of Federation R&D is unlikely to mollify the Romulans.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 21,
+      "cost": 400,
+      "name": "Weapons Locker",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "The very best set of tools for extremely aggressive negotiations. This isn’t the small, relatively passive things that double as tools. Everything in this collection is made to painfully but almost definitely incapacitate, lethally remove and destroy things. This ranges from the equivalent of swords, rifles, grenades and up to about the equivalent of an RPG or heavy machine gun, and you can keep getting more from this thing container if you should lose them or they get destroyed. If you need heavier firepower than that, consider getting something that would need a vehicle to move. You can make this item appear to be a metal chest, racks of weapons on a useful wall, or something similar that blends in and won’t raise too many questions, and of course you can have some sort of lock restricting it to only those you authorise. Great for heavily arming yourself or a few allies, just be sure that everyone actually knows how to use these things as there’s no direct protection from friendly fire or collateral damage. When you absolutely, positively, got to kill every redshirt in the ship, accept no substitutes.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 22,
+      "cost": 400,
+      "name": "Hazard Suit ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Sometimes when you’re tracking something down you’ll end up in particularly inhospitable environments, or encounter creatures who would pose a significant danger to you. That should be less of a problem now, as this is a combined set of armour, hazmat gear and a space suit. It includes internal life support with an optional covering over your face if you can’t breathe where you end up, a sensor that provides bio-dater on organisms you encounter, and seems to be able to let you survive extreme gravitational conditions. If you were wearing this thing, claims of hunting something across the surface of a collapsed star could potentially be truthful, rather than a somewhat implausible boast.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 23,
+      "cost": 400,
+      "name": "Boarding Action",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "It would be awkward if you went to all the trouble of tracking down a potential target, eager for revenge/reward, only to have no clue or capacity to actually do anything once you get there. Now you’re a lot better than a dog chasing a car, because you know what to do when you catch it and have the ability to do so. You and any allies you have will be at least above adequate at getting your forces into a protected place, as well as getting what you want out of it. Whichever methods work, from drop-pods crashing into the target, to beaming onboard, to simply tearing apart a target with tractor beams, you’ll know what to do and how. Won’t even damage what you’re after, either, if you don’t want to. Bear in mind there still has to be a target for the latter, you can’t disintegrate everything and hope to claim anything more than dust and plasma.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 24,
+      "cost": 400,
+      "name": "Tactical Team",
+      "source": "Star Trek: Enterprise",
+      "description": "A full complement of twenty-seven MACOs, elite commandos all, or an equivalent appropriate to your species and faction. Unswervingly loyal, skilled and dedicated.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 25,
+      "cost": 400,
+      "name": "Something Wrong",
+      "source": "Star Trek: Enterprise",
+      "description": "Ambush is the deadliest form of attack, but you have an instinct for when a surprise attack is coming. You notice when a comrade is acting oddly, when something is out of place, or just when a spot seems like a great place for an ambush and your instincts scream at you not to relax your guard. As a side effect, you are a very light sleeper.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 26,
+      "cost": 400,
+      "name": "Eye Of The Hurricane ",
+      "source": "Star Trek: Elite Force",
+      "description": "A firefight isn’t as clean and neatly orchestrated as wait you see in holonovels; it’s hectic, it’s confusing, it’s an all-out mess. And you’re right in the thick of it, making it look easy. Your ability to keep track of everything around you borders on the supernatural, to the point you could take on half a dozen enemies at the same time and know exactly when one of them is getting ready to hit you in the back. Most folks would be terrified while battling through a cramped hallway swarming with Exomorphs. For you, it’s just another day on the job",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 27,
+      "cost": 400,
+      "name": "Phaser Bazooka ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This high power Phaser is a copy of the personal artillery owned by Lieutenant Shaxs which he constructed from a downed shuttlepod’s phaser emitter. This weapon can be fired in short bursts or by holding down the trigger charge a blast strong enough to bring down lightly armoured starships.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 28,
+      "cost": 400,
+      "name": "Vindicta's Phaser",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This phaser has a dual-mode operation, it can fire a high-power beam or use its Gatling mode. The high-power beam fires out of the central aperture and is powerful enough that it can cut through a reinforced ship's hull in 12 seconds. The Gatling gun mode can quickly cycle beams out of the 4 smaller apertures that can re-tune to a random setting after each discharge, each aperture can focus fire on a single target or fire independently on multiple targets using AI assistance.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 29,
+      "cost": 400,
+      "name": "Twin Blasters",
+      "source": "Star Trek Picard Jump Version 1.0\n",
+      "description": "Rapid fire energy weapons, with harmless stun and deadly disintegrate settings. You can dual-wield these with ease, being as accurate as you would be with a single blaster. These weapons are in your hands the moment you need them, are somewhat more capable of surprising anyone you point them at than normal equivalents, and they and their use does not show up on sensors or scanners. Handy for an unexpected dramatic entrance, or just making a memorable impression by dropping in and saying hi.",
+      "chapter": "Tactical"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Tactical",
+      "__line": 30,
+      "cost": 600,
+      "name": "It Is A Good Day To Die ",
+      "source": "Star Trek: Elite Force",
+      "description": "Arguably the most famous Klingon proverb when it comes to fortune in battle, it might be true for you at times… but that doesn’t mean you’ll actually be dead by the end of the day. You are unreasonably tough and blessed with an amount of luck others might consider the blessing of some bizarre alien god - anything and everything to keep you alive until the battle is won. Though obviously most useful to avoid being worn down by light fire, this Perk also guarantees you can survive at least one situation you otherwise never would have as a kind of proactive ‘one up’. As an example, you could take a direct hit from a high-powered sniper rifle, and not just survive long enough to get transported to safety, but also to yell in defiance at the shooter (and possibly your commanding officer for deciding to beam you out).",
+      "chapter": "Tactical"
+    }
+  ],
+  "7": [
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 1,
+      "cost": 300,
+      "name": "EJH ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "This may or may not be a good idea, depending on whether you can get along with yourself. This Companion takes the form of a holographic being that looks like you and is modelled on your personality. They have a lot of information on some speciality that would come in handy here, combining the knowledge from dozens of experts in that field. To start with they’ll be limited so a single device or whatever projector system you have access to, but you can move them onto smaller and more portable alternatives if you have something like that. Being a highly advanced computer program, it’s possible to add or alter information making up their personality and knowledge base, but you’re the only one with access to that unless you add more permissions. You’re also the only one who can deactivate features like, say, Ethical Subroutines. If you keep them running, they will adapt rather than encountering issues or developing mental problems.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 2,
+      "cost": 200,
+      "name": "Hunting Party Call",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "As much as you might hate to admit it, sometimes you need allies to accomplish your goals. Or cannon fodder, depending on how much you actually care about them. This provides you information on where and how to contact those who might be interested in aiding you with your possibly nefarious goals. Maybe they have a grudge against the same people you do, maybe your target has something valuable you’re willing to share, maybe they’d find it entertaining. This won’t necessarily mean they’ll do well, and certainly doesn’t guarantee loyalty, but you’ll know who to talk to if you need to put a crew together for some less-than-pleasant job.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 3,
+      "cost": 200,
+      "name": "Contact Details ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Even the best negotiators and traders aren’t much use if they have no idea who to talk to or where to find them. This is a detailed list of everyone within the area you’re in who might be willing to trade resources, technology or information. It won’t include anyone who’s trying to hide and doesn’t give much information about those included other than how to get in contact, what they can offer and what they might want in exchange, but this should help an enterprising trader. This keeps updating in whatever new areas you end up in, scaling to local available transport. Here it would cover an entire Quadrant of the Galaxy, while in Jumps with a plot taking place on a smaller scale it might only be a single country or planet.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 4,
+      "cost": 400,
+      "name": "Honour Bound",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "It’s possible that refusing to work against your allies no matter what or how much you’re provoked is setting a good example. Even if its not, you have an uncanny capability to get people to work together, even if they have vastly different ideologies or some long-standing grudges. This helps if there’s a very good reason for everyone to work together, such as a decades-long journey home. This only helps once a truce, however fragile, has been established though. There shouldn’t be a mutiny on your watch, so long as you manage to keep even a tentative peace.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 5,
+      "cost": 600,
+      "name": "Would follow you into a supernova",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "Your capacity to inspire others becomes the stuff of legends. Thoughts of treason and disobedience are virtually wiped out from the minds of your followers and you can be sure that people under your command will now go though with any plan you come up with, no matter how crazy or stupid it seems.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 6,
+      "cost": 0,
+      "name": "Universal Translator",
+      "source": "Star Trek: Enterprise",
+      "description": "The UT is still a work in progress, but will drastically speed the learning of any language and can even decipher text, eventually.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 7,
+      "cost": 600,
+      "name": "The Captain’s Speech",
+      "source": "Star Trek - Enterprise",
+      "description": "You have a rare gift, the ability to connect with people, to make them truly understand your feelings and inspire the best in them. Something all legendary captains have had, to a greater or lesser extent. With careful word choice, you can influence the direction of history, with things like allowing Starfleet’s deep-space missions to continue, or bringing together the founding members of the Federation, to begin or end wars with words alone.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 8,
+      "cost": 100,
+      "name": "United",
+      "source": "Star Trek - Enterprise",
+      "description": "The Xindi are five peoples made as one. Though they squabble endlessly amongst themselves, each will defend the others. You can bring people together in such a fashion.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 9,
+      "cost": 100,
+      "name": "Delta Shift ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This group of 4 Ensigns are all junior officer’s who only work on the night shift while all the upper deckers are asleep. This group consists of Karavitus a female Human command junior officer, Asif a Male Human command division junior officer, Moxy a female humanoid sciences division junior officer and Amadou a male Human Starfleet engineer.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 10,
+      "cost": 100,
+      "name": "FNN Reporter",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "Victoria Nuzé is a Human who works as a reporter for the Federation News Network who often covers high class events and dangerous missions. She is a master of interviewing, being able to drag dirt out of any unsuspecting interviewees and can create a solid narrative and story frame work for her report based on a handful of offhanded mentions of incidents and a little research.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 11,
+      "cost": 100,
+      "name": "Exocomp",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This Exocomp is a Perky and cheerful sentience, industrial utility robot whose race was originally designed by Doctor Farallon to help on her work on particle fountain technology. This Exocomp is a surgical genius who is capable of floating and using their built in replicator to create any tool needed for precision work on almost any job.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 12,
+      "cost": 100,
+      "name": "Petra Aberdeen",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This female Human used to be a Starfleet officer but after she served aboard the USS Victory she left Starfleet becoming an archaeologist joining the Independent Archaeologists Guild. She has an extensive knowledge on the histories, cultures and practices of almost every race in the alpha and bata quadrant, knows how to fight better than most and is one hell of a pilot.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 13,
+      "cost": 600,
+      "name": "Our crew is ready and focused",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "It is a captain's duty to know what this crew is capable of, even if they don't, to guide them into new possibilities, to show them that they can be the finest crew in the fleet and that they can accomplish anything by working together. To aid in this you will now be able to passively be aware of all your subordinates, their capabilities, the dangers that they might be facing and how you can help them.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 14,
+      "cost": 0,
+      "name": "Basic Staffing ",
+      "source": "Star Trek: The Mirror Universe\n",
+      "description": "They get the job done, but usually that’s about it. These are your standard enlisted newcomers, fresh out of the Imperial academies, Cardassian training centers, or what have you. They’re competent, but they don’t have much in the way of experience. Of course, that also means few of them will get any ideas about advancement through stabbing you in the back (metaphorically or literally), and they’re far easier to mold into a group of loyal subordinates who might back you if you, say, commit treason and try to take over the Terran Empire. Any lost crewmembers are replaced within a week, though they do not keep any changes.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 15,
+      "cost": 100,
+      "name": "\nCombat Specialists ",
+      "source": "Star Trek: The Mirror Universe\n",
+      "description": "Though every ship has at least some combat-capable forces like ship security (to say nothing of the Klingons, who might as well have an entire shipload of front-line brawlers), it can be worthwhile to invest in some dedicated combat units. Whether it’s several dozen elite Imperial troopers, a detachment of specially trained MACOs for ship boarding or infiltration, or just a number of Assault Teams to crack heads wherever you send them, having some tough, well-armed and loyal soldiers in your employ can make all the difference. Even if they don’t have any aliens to exterminate at a given time, they’ll also prove useful preventing any thoughts of insurrection or treason aboard your own ship - it’s hard to plan a mutiny when there’s an armed trooper in every room, after al. Each purchase gets you a sizable complement of combat troops, with the exact number depending on the size of your ship and crew. Each purchased group receives a single specialty, such as capturing enemy vessels, counter-espionage and suppressing dissent, or groundside operations.",
+      "chapter": "The Bridge"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - The Bridge",
+      "__line": 16,
+      "cost": 200,
+      "name": "Hardened",
+      "source": "Star Trek: The Mirror Universe\n",
+      "description": "Having a competent but still new crew can get the job done, but experience can make the difference where even advanced technology and the element of surprise might be insufficient. With this upgrade, your entire crew becomes a collection of some of the most battle-hardened and experienced individuals around. Your Chief Engineer has been modifying Warp Engines on the fly since he was ten, your Tactical Officer has fought in four different wars - each against wildly different enemies, and so on. There are few things that will truly surprise them, and their ability to adapt to rapidly shifting circumstances thanks to ‘having seen it all’ makes them invaluable when you need a ship’s crew you can count on. Just make sure none of them get any ideas about sitting in the big chair, though. They’re loyal, not stupid.",
+      "chapter": "The Bridge"
+    }
+  ]
+}

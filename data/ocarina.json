@@ -1,0 +1,1362 @@
+{
+  "1": [
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 1,
+      "cost": 0,
+      "name": "Master Chef",
+      "source": "The Legend of Zelda Series ",
+      "description": "So many unique Ingredients to be found in these lands, so many tasty dishes to create. And there are few as qualified to make those dishes as you. You could make superbly delicious meals out of even the most grotesque of monster parts, to say nothing of what you could create with high-quality stuff.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 2,
+      "cost": 0,
+      "name": "Traversal Expert",
+      "source": "The Legend of Zelda Series ",
+      "description": "Walking the land, taking in the sights and experiences of it at your own languid pace, can be enjoyable, but you can only go so far so fast with just your feet. Thankfully, you are highly skilled in the use of all kinds of mounts and vehicles. You could ride a horse or a loftwing as easily as you could sail a boat or handle a train.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 3,
+      "cost": 100,
+      "name": "Animal Form",
+      "source": "The Legend of Zelda Series ",
+      "description": "How many people ever look at their pets and feel envy, for their simple lives and enjoyment of each day despite what came before or will come after? Through some method, you can now assume the form of a mundane animal of your choice, from a mouse to a bird to a shark to an elephant. While in this form, you can ,also converse with other animals. Should you end up being cursed to change your shape, this will be the form you automatically turn into.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 4,
+      "cost": 100,
+      "name": "Combat Ready ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Combat can be frightening, attempting to slay your enemy while they do their best to kill you in return. Yet Courage is with you, allowing you to adopt a calm demeanour, locking away the fear one would normally experience, allowing you to have no hesitation in doing what needs to be done in battle.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 5,
+      "cost": 100,
+      "name": "Iron Will ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Courage is not the lack of fear, but the willpower to face your fears and succeed. You exemplify this better than anyone else, your will is unbreakable. You will not bend or break, be it through tragedy or torture, you will stand tall with your spirit still intact.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 6,
+      "cost": 100,
+      "name": "Knight",
+      "source": "The Legend of Zelda Series ",
+      "description": "It's a dangerous world out there, regardless of how it may appear. As such, you need a way to protect yourself from all the monsters that are roaming around. Now that is not something you never have to worry about, seeing as you are an undisputed master of the sword, shield, and bow. With these, there are few who could stand against you.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 7,
+      "cost": 100,
+      "name": "Sheikah Training",
+      "source": "The Legend of Zelda Series ",
+      "description": "The sheikah are primarily known for their skill at stealth, in remaining unseen and unheard, in being one with the shadows. Thrown weapons, unarmed combat, and even torture and interrogation are integral parts to their skill set. You have been fully trained in these arts, and are now considered a master ninja.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 8,
+      "cost": 100,
+      "name": "Upon Warm Sands",
+      "source": "The Legend of Zelda Series ",
+      "description": "Living in the desert is not an easy experience, but the gerudo have been doing so for centuries, and have even thrived at times. You are such a skilled survivalist that you could live off even the most barren of lands, you aren't as affected by the heat, and you need less water in general to survive.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 9,
+      "cost": 100,
+      "name": "Blue Waters",
+      "source": "The Legend of Zelda Series ",
+      "description": "The zora are a race of anthropomorphic fishes, so it would only make sense that they're able to breathe underwater. You to are capable of this, regardless of if it's fresh or saltwater, and can even see perfectly underwater, no matter how murky it is.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 10,
+      "cost": 100,
+      "name": "Ride The Wind",
+      "source": "The Legend of Zelda Series ",
+      "description": "With such graceful wings, is it so surprising that the rito are capable of flight? You now share this ability with them, able to soar through the skies like the swiftest of birds, completely untethered to the ground below.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 11,
+      "cost": 100,
+      "name": "Hide From Light ",
+      "source": "The Legend of Zelda Series ",
+      "description": "The twili are a people of shadows, a metaphor that is, at times, quite literal. Well, at least for you it is. You are capable of turning into a living shadow, unable to be harmed through mundane means, but incapable of doing the same. Still, it's a way to escape combat and retreat before anyone realizes what just happened.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 12,
+      "cost": 100,
+      "name": "Heart of Steel",
+      "source": "The Legend of Zelda Series ",
+      "description": "Well, it's not just your heart, but the entirety of your body. Your chassis and inner framework, or skin and bones if you're a fleshy person, are as durable as steel, making you quite difficult to damage. Additionally, you will be highly resistant to electrical damage, no matter the source. You would most likely ignore being struck by lightning.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 13,
+      "cost": 200,
+      "name": "Painted Form ",
+      "source": "The Legend of Zelda Series ",
+      "description": "If you wanted to blend into the background, there are easier ways, though admittedly not as fantastical. You can now meld into walls and structures at will, taking on the form of a painted version of yourself. While like this, you could slip between cracks to gain access to hidden or barred areas, or even traverse near-impossible gaps. What's better is that you cannot be harmed through conventional means while in this form.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 14,
+      "cost": 200,
+      "name": "Dungeon Delver ",
+      "source": "The Legend of Zelda Series ",
+      "description": "You would be surprised by the number of dungeons and catacombs, and ancient labyrinthine temples dotting the land. You'd be even more surprised by how much loot is in there, just waiting to be plundered. How lucky you are, then, that you're amazing at navigating these winding structures.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 15,
+      "cost": 200,
+      "name": "Heroic Charm",
+      "source": "The Legend of Zelda Series ",
+      "description": "All girls one day dream of a knight in shining armour to come along to sweep them off their feet, off to a romance story for the ages. Well, you may not have the shining armour, but you've got all the charm needed. Your preferred demographic just can't help but fall head over heels for you, and as a bonus, your skills in the bedroom are no joke.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 16,
+      "cost": 200,
+      "name": "Puzzle Master",
+      "source": "The Legend of Zelda Series ",
+      "description": "Why is it that so many locked doors require puzzles to be solved before they open up? Who knows, but you've got all the skills to make it through. You're a master at solving puzzles, big or small, easy or difficult. You could easily turn this expertise towards making your own puzzles.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 17,
+      "cost": 200,
+      "name": "Friendly Face ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Why is it that the hylians are the premier race, the one most pivotal to the fate of the land? Maybe it's how friendly their usual demeanor is. Most people will instinctively feel inclined to like and trust you, even if you've only just met.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 18,
+      "cost": 200,
+      "name": "Lost Woods Resident",
+      "source": "The Legend of Zelda Series ",
+      "description": "Only the koroks and fairies are capable of properly navigating the winding woods they call home, all others getting lost before turning into stalfos. Much like them, you are immune to such magical disorientations, able to navigate just as you would in any normal location. This not only affects the woods found here, but all methods of keeping invaders away through such trickery in future worlds.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 19,
+      "cost": 200,
+      "name": "Freedom ",
+      "source": "Out of Context Triforce Supplement",
+      "description": "You are a talented explorer, able to find ways to travel anywhere you want to go. Beyond that you are also uncannily difficult to contain and restrain, and any attempts to imprison you prove difficult at best, with events perpetually conspiring to free you. This also improves your ability to use your abilities and items in your possession to explore, making you more graceful and dexterous as well as more creative.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 20,
+      "cost": 300,
+      "name": "Quick Study",
+      "source": "The Legend of Zelda Series ",
+      "description": "During your time here, you might run into some cool new item or a really weird weapon that you just want to use, but might end up being really bad at it. Thankfully, you can quickly master any tool or weapon you can get your hands on within a day or two, regardless of how exotic and strange it may be.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 21,
+      "cost": 300,
+      "name": "Embodiment",
+      "source": "Out of Context Triforce Supplement",
+      "description": "You embody your chosen triforce shard in a decisive way. Your courage inspires others, your wisdom drives others to value knowledge, and your power urges others to submit. You have an aura that you can toggle at will that most powerfully embodies the shard you have chosen as your origin. This aura suffuses the air around you with fragments of your triforce shard’s power, and gives you the power to inspire others in ways congruent with your piece of the triforce.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 22,
+      "cost": 400,
+      "name": "Fairy Shield ",
+      "source": "The Legend of Zelda Series ",
+      "description": "You have been blessed by one of the great fairies, it seems, and have been imbued with their protective magics. This will reduce all damage you take by half, in addition to giving you a decent resistance to magic. This won't make you invulnerable, but every little bit helps.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 23,
+      "cost": 400,
+      "name": "Hero of Legend",
+      "source": "The Legend of Zelda Series ",
+      "description": "Legends often tell of the hero receiving some sort of supernatural aid on their journeys. A concept you are intimately familiar with, as most benevolent supernatural beings tend to like you and are willing to help you out, especially if you do them a favor. Additionally, picky magical artifacts tend to like you very much, seeing you as their true wielder.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 24,
+      "cost": 400,
+      "name": "Looting",
+      "source": "Out of Context Triforce Supplement",
+      "description": "You are rather Link-like with this particular ability. When you defeat foes, even just by knocking them unconscious, you can claim their possessions (which will invariably contain something minorly helpful, such as, and truly fallen foes (the kind that don’t get back up) drop things that are helpful for you such as ammunition for your weapons or power-ups that restore your health. This also causes sufficiently strong foes to drop things that permanently improve you, such as Heart Containers or upgrades to your magic power.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 25,
+      "cost": 400,
+      "name": "Questing Hero",
+      "source": "Out of Context Triforce Supplement",
+      "description": "You have a remarkable ability to get gifted or rewarded exactly what you need at the right time. People have items and they are willing to give you those items in exchange for doing something they need doing (usually after the fact), or even as a way to help you if you want to do something they also want to do. With this there’ll always be a way forward, so long as you keep looking and interacting with people. Many of the items you get gifted or rewarded will also have fun applications in combat, so long as you’re creative.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 26,
+      "cost": 600,
+      "name": "Blessing of Farore ",
+      "source": "The Legend of Zelda Series ",
+      "description": "You have been blessed by the Goddess of Courage, Farore, her green mark now on the back of your hand. With this blessing, you are capable of perfectly mimicking and replicating any action you see performed. Whether this be some sort of secret weapon move, or the proper way to take a fall, or crazy fast hand movements, the only thing that could hold you back would be your physicality.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 27,
+      "cost": 600,
+      "name": "Champion ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Courage is meaningless without the power to support it. You are, quite simply, a beast at combat, capable of taking on twenty monsters at a time and emerging victorious and unscathed. Even the fearsome Lyonels would be a speed bump for you. Additionally, should you time your attack just right, you could unleash a flurry of blows faster than the eye could see.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 28,
+      "cost": 600,
+      "name": "Three Hearts ",
+      "source": "The Legend of Zelda Series ",
+      "description": "What's that at the corner of your vision? It looks like three hearts, though they do offer you a useful ability. You are capable of surviving three fatal wounds, getting hit by them before your body restores itself to peak condition. You could even lose your head and still only lose one heart. And should those three not be enough for you, then it's possible to increase that amount by collecting pieces of heart, or by defeating bosses. By the end of your time here, if you put in the effort, you should get a total of twenty hearts.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 29,
+      "cost": 600,
+      "name": "Master Sword",
+      "source": "The Legend of Zelda Series ",
+      "description": "The Blade of Evil’s Bane. The Sword that Seals the Darkness. The very pinnacle of holy weaponry, it was forged by the Goddess and enhanced by three divine flames. It can slice through steel with ease, fire off beams of holy energy that are just as sharp as the blade itself, deflect magical projectiles, interact with spiritual entities like poes, and is practically indestructible. Perhaps, with time, you could awaken the slumbering spirit within.",
+      "chapter": "Courage"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
+      "__line": 30,
+      "cost": 600,
+      "name": "Favored by Farore ",
+      "source": "Out of Context Triforce Supplement",
+      "description": "You are a true wielder of the Triforce of courage. Farore herself has blessed you with indomitable courage and a fierce ability to do battle with the forces of evil, as well as a handsome or beautiful visage to inspire others with. You can stand up to vile hordes of marauding foes and can bring them low with weak, broken weapons by yourself, and as you defeat foes you will grow stronger and faster for it, allowing you to begin a journey as little more than a child struggling against even two foes and ending it as a demigod of war bringing low entire armies. Your blows also pierce magical protections and the armor of the mighty, when you fight for goodness and justice, allowing you to bring down even the mightiest tyrannical champions of iron-fisted dark kings. Animals also positively adore you, and are always eager to help you out whenever and however they can.",
+      "chapter": "Courage"
+    }
+  ],
+  "2": [
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 1,
+      "cost": 0,
+      "name": "Starting Gear ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Very few start their journey truly deprived, and you are no different. You possess a simple outfit and a steel weapon of your chosen design. It's not much, but it's better than nothing.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 2,
+      "cost": 0,
+      "name": "Boomerang",
+      "source": "The Legend of Zelda Series ",
+      "description": "What may at first seem like a children’s toy, this boomerang is razor sharp and easy to use. No matter how you throw it or how many targets it hits, it will always return to your height.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 3,
+      "cost": 0,
+      "name": "Compass ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A bronze tool meant to help those navigate their surroundings, you could never go wrong with a compass in hand. It always points north, regardless of how much an environment should be screwing with it.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 4,
+      "cost": 0,
+      "name": "Endless Wallet ",
+      "source": "The Legend of Zelda Series ",
+      "description": "So many clinky shiny rupees for you to find, but so few places to store all of them. No longer, as this pouch can contain any amount of money you collect, regardless of if it's rupees, gold, or paper bills. It will hold them all and never get heavier. It will also convert them into any other types of currency you need at the moment.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 5,
+      "cost": 0,
+      "name": "Fairy Lantern ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A lantern that was blessed by fairies was gifted to a courageous explorer who desired to plunge deep into the dark. It glows with a fae light, never going out no matter what may happen to it.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 6,
+      "cost": 0,
+      "name": "Magic Bottles",
+      "source": "The Legend of Zelda Series ",
+      "description": "What seem like ordinary bottles to some, these have been specially enchanted to contain and preserve anything that can fit inside. From hot soup to fairies to magical fire, the only way it's getting out is if you let it.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 7,
+      "cost": 0,
+      "name": "Premium Lonlon Milk",
+      "source": "The Legend of Zelda Series ",
+      "description": "For when you want to unwind after a long day’s hard work, Lonlon Milk is there to help you along. Ice cold and delicious, this magically enhanced milk has an almost alcoholic effect on those who drink it, and will replenish afterwards.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 8,
+      "cost": 0,
+      "name": "Slingshot ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Though it may look like a children's toy, never underestimate the power of a slingshot. This one hits with a surprising amount of force, and can hit a target from a hundred meters away. You will also receive a satchel filled with fifty deku seeds to use as ammo, which will replenish daily.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 9,
+      "cost": 100,
+      "name": "Ancient Whip",
+      "source": "The Legend of Zelda Series ",
+      "description": "An ancient treasure from the Era of the Sky, the end of it has an orb of light that grabs tightly to whatever the user desires. It is also possible to hang on poles, branches, and other things with the whip and swing in the air with it. This whip can extend to reach up to fifteen feet, and can be used for a number of other purposes, should one be clever enough.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 10,
+      "cost": 100,
+      "name": "Ball and Chain",
+      "source": "The Legend of Zelda Series ",
+      "description": "Are you ready to cause some extreme damage and mayhem? If so, then there's no better weapon for you. A steel ball as big as a man's torso, yet light to you, it can be swung around to great effect using its extending chain. Use it to smash rocks and ice, or twirl it around to smash any monsters foolish enough to get close.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 11,
+      "cost": 100,
+      "name": "Golden Gauntlets",
+      "source": "The Legend of Zelda Series ",
+      "description": "Crafted by the ancient gerudo, these golden gauntlets with a ruby embedded into it, they will grant a great boon to its wielder. While wearing them, you will see an exponential increase in strength, enough to toss around a massive pillar of stone, though the magic within makes it so this strength cannot be used in combat.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 12,
+      "cost": 100,
+      "name": "Magical Instrument ",
+      "source": "The Legend of Zelda Series ",
+      "description": "It is often said that music is its own kind of magic, capable of moving the hearts and souls of any who listen to it. And when played through an instrument like this, that claim becomes a bit more literal. Not only will this enhance any music based magic when played, but the music played will always be pleasant to hear, even from a complete novice.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 13,
+      "cost": 100,
+      "name": "Pegasus Boots",
+      "source": "The Legend of Zelda Series ",
+      "description": "A long time ago, mortals began to walk. And then, they ran. Ever looking for increased speed, they have crafted these leather boots with wings on the side. Wearing them will triple your speed with no loss of control.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 14,
+      "cost": 100,
+      "name": "Set of Potions ",
+      "source": "The Legend of Zelda Series \n",
+      "description": "It takes a special kind of fool to travel these lands without any kind of support, and few are as good as these. Within your possession are six glass bottles, each filled with potions. Three options to restore health, and three to restore stamina. They will refill themselves after a day, so don't worry about running out in the long term. Thankfully, they actually taste pretty good.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 15,
+      "cost": 100,
+      "name": "Adventure Pouches",
+      "source": "The Legend of Zelda Series ",
+      "description": "There are so many neat goodies and tools to be found while adventuring the land of Hyrule, so it's always a shame when you can't carry more. Never again, as these three hip pouches are practically endless, able to hold whatever you need without any increase in weight, so long as they can fit into the opening. If you're looking for a specific item, just reach in while thinking of it, and it's there.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 16,
+      "cost": 100,
+      "name": "Hero Outfit ",
+      "source": "The Legend of Zelda Series ",
+      "description": "If you want to play the part of a hero, then you're going to need to look the part. This set of green clothes are perfect for long adventures, resistant to wear and tear, very breathable, and very comfortable. The boots won't ever leave you with blisters, and the hat never seems to fall off.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 17,
+      "cost": 100,
+      "name": "Comfork",
+      "source": "The Legend of Zelda - A Link To The Past Jumpchain",
+      "description": "A rather oddly shaped tuning fork made out of crystal, and in roughly in the shape of a ‘C’ instead of the normal ‘U’. It was given to Link by one of the seven Maidens after rescuing her from the Dark World. Simply put, it’s a fork that communicates, hence the name. You now have a set of two such forks. To use them, simply ring them as though they were an actual tuning fork, and it’s counterpart will ring in response. Heck, they’ll even generate a minor illusion of the person holding the other one. Of note, the two forks will respond to each other regardless of any physical barrier - such as the walls between dimensions, the Light and Dark Worlds.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 18,
+      "cost": 200,
+      "name": "Four Sword",
+      "source": "The Legend of Zelda Series \n",
+      "description": "Though this magical sword is not as famous as the Sword that Seals the Darkness, it's still an incredibly powerful weapon. In addition to being completely indestructible and incapable of losing its edge, this blade will allow the wielder to create up to three copies of themselves, each as capable and powerful as the original, though they only have a quarter of the durability. They are even color coded ensuring that all of them know just who the original is.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 19,
+      "cost": 200,
+      "name": "Master Key ",
+      "source": "The Legend of Zelda Series \n",
+      "description": "Throughout your journeys in this land, you will find many locks blocking your path. Fear not, though, for you possess this. A golden, ornate key that shifts itself to perfectly fit into any physical lock.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 20,
+      "cost": 200,
+      "name": "Roc's Cape",
+      "source": "The Legend of Zelda Series \n",
+      "description": "A beautiful cape crafted from silk and bird feathers. It has been enchanted to vastly increase the wearer’s jumping capabilities. Additionally, you can become one with the wind for a time, becoming intangible and immune to harm, though in return you cannot cause harm, either.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 21,
+      "cost": 200,
+      "name": "Sheikah Slate",
+      "source": "The Legend of Zelda Series \n",
+      "description": "Created by the ancient sheikah, it is a useful tool and a deadly weapon in the right hands. This magitek tablet contains an updating map, camera, video recorder, and a journal. But most impressively are the four runes, each with their own effects. Magnesis allows you to manipulate metallic objects. Remote Bomb allows you to place round and square bombs. Stasis temporarily stops an object in time while storing its kinetic energy. And Cryonics creates a pillar of ice.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 22,
+      "cost": 200,
+      "name": "Bomb Pouch",
+      "source": "The Legend of Zelda Series ",
+      "description": "If there's any kind of weapon that's extremely fun to use, it would almost always be explosives. The loud noise, the flash of light, the pure devastation they leave behind, the only downside is that they're single use only. But now you'll never be running out any time soon, not with this. This leather pouch holds fifty bombs within while weighing like it's empty. The bombs you pull out will already be lit, so fire away and watch the fireworks. These bombs will replenish hourly.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 23,
+      "cost": 200,
+      "name": "Fairy Bow",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "This reliable bow comes with a quiver of 50 arrows - perfectly balanced and easy to use, you’ll find yourself quickly hitting bullseyes and taking down the more evasive foes you’ll find in Hyrule. As a bonus, this comes with both Fire and Ice arrows already prepared - requiring a bit of magical energy to create more within the quiver, but well worth the price.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 24,
+      "cost": 200,
+      "name": "Paraglider",
+      "source": "The Legend of Zelda Series ",
+      "description": "A glider with the symbol of the Hylian royal family on its cloth, it is perfect for anyone who’s not afraid of heights. Simply having it on your person will allow you to reduce the speed at which you fall, while actually pulling it out will allow you to glide for however long you can hold on.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 25,
+      "cost": 400,
+      "name": "Wind Waker ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A magical conductor's baton, one made of the purest silver. The user of the Wind Waker is capable of altering the winds and weather, as well as being able to call upon and borrow the power of the gods. Simply move it in the correct positions and in the right order, and the very winds themselves will obey your every command.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 26,
+      "cost": 400,
+      "name": "Automatic Crossbow",
+      "source": "The Legend of Zelda Series ",
+      "description": "Bows are all well and good, but do you know what's even better? A crossbow. They shoot farther, hit harder, and are easier to use than standard bows. Your crossbow is a rapid fire one that has infinite ammo. Simply pull the trigger, and watch the bolts fly. And should the standard bolts not be enough for you, a button on the side allows you to switch back and forth between bolts with small bombs attached to them.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 27,
+      "cost": 400,
+      "name": "Hylian Shield",
+      "source": "The Legend of Zelda Series ",
+      "description": "A shield created by the Thunder Dragon Lanayru for the Hero of the Sky, no other shield comes close to matching this one. It is completely indestructible, nullifies most of the kinetic force behind whatever hits it, and it can even protect against magic or elemental attacks. Though it may seem a bit lacking, it should be more than enough to help protect you.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 28,
+      "cost": 400,
+      "name": "Megaton Hammer",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "A hammer once wielded by a powerful Goron warrior, its heft makes it less agile than a sword but more than capable of bringing to bear a mighty force - capable of caving in strong armor and shaking the earth with each smash!",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 29,
+      "cost": 400,
+      "name": "Lens of Truth",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "A Sheikah Artifact that allows one to see the invisible and spiritual, it can also be used as a sort of “X ray vision” in addition to seeing past mystical deception.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 30,
+      "cost": 600,
+      "name": "Bow of Light",
+      "source": "The Legend of Zelda Series ",
+      "description": "Imbued with the holy light of the Goddess Hylia, there are few bows who could match this artifact. All arrows unleashed from this indestructible bow cause a massive explosion of holy magic, and anyone unlucky enough to actually be hit by them will feel like they just got slammed by a ship. How fortuitous then, that you will never run out of arrows, as the quiver will automatically replenish itself after each use.",
+      "chapter": "Equipment"
+    }
+  ],
+  "3": [
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 1,
+      "cost": 0,
+      "name": "Pet",
+      "source": "The Legend of Zelda - The Breathe Of The Wild",
+      "description": "You can choose a harmless animal pet, such as a sparrow, dog, fox, cat, or even a blupee. They can accompany you as you travel, and are immune to harm.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 2,
+      "cost": 0,
+      "name": "Bound Blade",
+      "source": "The Legend of Zelda Series ",
+      "description": "It seems as though a spirit has bound itself to one of your weapons. It is only a young one, barely having a personality, though depending on how you treat them and the type of weapon they are combined with. Should you use this on the [Master Sword], then the spirit will be Fi. Should you use this on the [Zubora Gabora], then the spirit will be Ghirahim.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 3,
+      "cost": 0,
+      "name": "Cuddly Remlit ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A species of feline native to the floating land of Skyloft, few are as lovable as the remlits. Puffy coat, fluffy tail, and big ears make it a popular pet. It can even fly using those ears, though not for very long. Do be sure not to wake them up at night, though, as they can get a bit grumpy.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 4,
+      "cost": 0,
+      "name": "Intelligent Wolf",
+      "source": "The Legend of Zelda Series ",
+      "description": "A strangely intelligent wolf, one bearing odd markings and a mantacle around his front leg. Still, he's big, fluffy, listens well to orders, and is absolutely viscous in a fight. Some nights, he can be heard howling a pleasant melody into the night sky.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 5,
+      "cost": 0,
+      "name": "Graceful Loftwing",
+      "source": "The Legend of Zelda Series ",
+      "description": "A relic from the Age of the Sky, the loftwings have long since gone extinct. Strange, then, how you have come into possession of one. Being of a color of your choosing, this massive bird is your trusted mount, carrying you into the heavens above at ludicrous speeds, faster than even you, regardless of how swift you may become in the future.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 6,
+      "cost": 0,
+      "name": "Twilight Princess ",
+      "source": "The Legend of Zelda Series ",
+      "description": "An imp claiming to be a cursed princess, few are quite as sassy as she is. She seems to think you're the key to something she won't speak about for now, but is willing to help you out for now, so long as you can help her out. She's usually hiding as part of your shadow, the light of this world not quite agreeing with her, though can deal with it if the need arises.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 7,
+      "cost": 100,
+      "name": "Fairy Follower",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "A small fairy, the kind that usually follows the Kokiri, has become your new friend! This small creature isn’t much physically, but she’s a great source of counsel, and what’s more, when she “targets” someone by circling them, you’ll find it much easier to hone in and focus on them as a foe.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 8,
+      "cost": 100,
+      "name": "Cozy Home ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Everyone needs a place to call home, where they can rest their laurels and relax after a hard day’s work. You now find yourself the owner of a decently sized home, with four bedrooms, two bathrooms, and a fully stocked kitchen. It is already furnished, and all yours to do with as you see fit.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 9,
+      "cost": 100,
+      "name": "Comfy Campsite",
+      "source": "Breathless Wild Jumpchain Version 1.0",
+      "description": "Camping out is all fun and games until you get ambushed by a pack of stalfos in the middle of the night. You’re not going to get much sleep unless you can find a safe place to make camp, but this item can help with that. It’s a simple campfire which you can make out of any random bits of firewood, and while it only lasts a single night per use it’s guaranteed to ward off unfriendly monsters, people, or obnoxious animals and insects from finding and bothering your campsite, allowing you and any travelling companions who might be accompanying you to have stress-free and pleasurable evenings no matter where you are.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 10,
+      "cost": 100,
+      "name": "Faithful Steed",
+      "source": "Breathless Wild Jumpchain Version 1.0",
+      "description": "Hyrule is far too vast to travel across it on foot. Real travellers know to acquire the company of a horse to get them from place to place, and you will find no finer steed than this one. A magnificent mare or stallion, perhaps even the legendary Epona herself, will now accompany you on your adventures. Your equine ally is brave, loyal, and highly intelligent as horses go, as well as well-trained and accustomed to the chaos of battle should you require their services as a warhorse. Simply whistling for your companion will call them, to your side immediately, as if they had been waiting for you somewhere just out of sight even if you last left them many miles away.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 11,
+      "cost": 100,
+      "name": "Monster Lair",
+      "source": "Breathless Wild Jumpchain Version 1.0",
+      "description": "Even monsters need a place to live, though most are willing to camp out in caves and under giant skulls. You’ve managed to secure a much more heavily fortified location, more akin to the Yiga clan’s hidden lair than some random campsite. This hidden base is large and well-defended by the surrounding terrain, making it difficult enough for your enemies to find it and even harder to bring a large force to attack it. It’s very cozy inside, perfect not only for escaping the elements but also for imprisoning captives, as it has a small built-in dungeon with enough restraints to keep a fair number of captives securely imprisoned.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 12,
+      "cost": 200,
+      "name": "Apple Orchard",
+      "source": "The Legend of Zelda - A Link To The Past Jumpchain",
+      "description": "When all was said and done, two versions of Link chose to leave the land of Hyrule in an attempt to protect the Triforce from any more would-be thieves. The other two stayed with Princess Zelda, and of those two, only one remained a knight. The other one went back to the life he had before hearing her voice in his head, that of an apple farmer. You now have a small plot of land containing a small home fit for two, and of course a decently sized orchard of apples. Said trees will grow into delicious fruits with the bare minimum of care, and if you take great pains to give them the best you can give, they will occasionally pop out an enchanted apple, capable of healing any injury short of death.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 13,
+      "cost": 200,
+      "name": "Sanctuary",
+      "source": "The Legend of Zelda - A Link To The Past Jumpchain",
+      "description": "And this is where the passageway that Zelda told Link about led. A small church to the north of the Royal Castle, tended to by one of the Sages. More importantly, it had enough magical barriers that not even Agahnim’s new army could break through. He had to sneak in through an undefended entrance in order to get in. You might want to be careful to close that behind you by the way. But I digress - when your castle is taken, your home in flames, and as your other safe haven's fall, the barriers on this place will grow ever stronger. When you have nowhere else to go, when all else fails, you can always come here to take sanctuary.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 14,
+      "cost": 200,
+      "name": "Biggoron Forge ",
+      "source": "The Legend of Zelda Series ",
+      "description": "The goron are famous smiths, due in part to their resistance to the heat needed for the process. You now have your very own forge, the magical lava within making anything crafted with it of much higher quality than it otherwise would have been. This forge will come with all the tools needed to properly utilize it, though you may need to purchase or craft specialized tools for specialized projects.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 15,
+      "cost": 200,
+      "name": "Monster Huts ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Though most seem like wild animals, there are actually a number of monsters who prefer shelter to living under the bare sky. You have a number of these simple structures, easy to set up, pack up, and carry with you. They will protect you from any weather, and the inside is extremely comfortable to be in regardless of the environment outside.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 16,
+      "cost": 300,
+      "name": "Master Cycle Zero",
+      "source": "The Legend of Zelda - The Breathe Of The Wild",
+      "description": "The true mount of a hero, Master Cycle Zero is a motorcycle, constructed out of Sheikah technology. It can be summoned via the Sheikah Slate, or, if you didn’t purchase that, you’ll get a small flat “rune-slate” that can be used to summon it instead. Unlike the Master Cycle Zero earned in the game, this version does not require Fuel, or rather, Fuel merely helps increase its speed. Without fuel, it moves at the speed of a fast trot, as more fuel is added, it can achieve higher and higher speeds. Care must be taken when fighting on the Master Cycle Zero, otherwise, you may fall off.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 17,
+      "cost": 400,
+      "name": "Dungeon",
+      "source": "The Legend of Zelda Series ",
+      "description": "You can find innumerable structures dotting the landscape, temples and ruins just waiting to be plundered and explored. You now possess one of them, an elaborately designed complex with numerous enemies, puzzles, and loot within. Should you manage to clear it out, then it will replenish itself within a month, even changing the layout within should you wish for something new.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 18,
+      "cost": 400,
+      "name": "Kokiri Woods",
+      "source": "The Legend of Zelda Series ",
+      "description": "[400]: The emerald green trees, rivers of clear blue, black dirt filled with nutrients, and the sounds of childish laughter drifting in the wind. Attached to your Warehouse is an absolutely massive forest, filled with all kinds of life that can be found in these lands, both flora and fauna, deku scrubs and fairies. And to protect it, the outer reaches of the forest have been enchanted to confuse and distract anyone you don’t want within, making them incomprehensibly lost before finding their way directly outside of your forest.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 19,
+      "cost": 400,
+      "name": "Royal Castle ",
+      "source": "The Legend of Zelda Series ",
+      "description": "This will certainly make you feel like royalty. You now possess your own castle in a design of your choosing, easily matching Hyrule Castle in size. It's filled with all the amenities you'd expect from a structure like this, from armories to kitchens to living quarters to so much more. The royal bedchambers are the absolute peak of luxury, fit for a king. It will come with its own staff and guards, the demographics of such up to you to decide.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 20,
+      "cost": 400,
+      "name": "Floating Island ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Look to the skies, and tell me what you see. If you see a floating mass of rock, then congratulations. You are now the proud owner of a floating island, around the same size as Manhattan. It has lush plant life, and a never ending pool of clear water. It’s actually quite difficult to see from the ground, almost invisible, though those flying through the air will see it clearly. What use for this, only you can say, but it is a wondrous thing, a home in the sky, is it not?",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 21,
+      "cost": 400,
+      "name": "Trial Shrine ",
+      "source": "The Legend of Zelda Series ",
+      "description": "The ancient sheikah created numerous trial shrines all across Hyrule, meant to test the future incarnations of the Hero. You now possess one of your own, a hidden complex made just for you. It can change between one-hundred and twenty layouts, each meant to train your skills, be they complex puzzles for your mental abilities, or a gauntlet of enemies for your combat skills. Over time, you may even find new layouts added to your collection, ensuring that your training won’t go dull.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 22,
+      "cost": 400,
+      "name": "Mirror of Twilight",
+      "source": "The Legend of Zelda Series ",
+      "description": "A massive mirror, easily as wide as a zora is tall. It was crafted in the image of the ancient Gate of Time, though this one is connected to space instead. By using it, you are able to create a gateway to a realm of perpetual twilight, with its own strange environment and an obsidian city. This realm is as large as that of Hyrule, though strangely devoid of intelligent life. Perhaps you could fix that?",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 23,
+      "cost": 400,
+      "name": "Fairy Fountain ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Hidden away in various areas of the world, the fairy fountains are the homes and sanctuaries of all fairies, sacred places few others ever set foot in. Now you will find one of these fountains connected to your Warehouse. The waters within will cure all ailments and heal all wounds, as well as giving off an aura of peace and tranquility, letting all know that this is a sacred place not to be tarnished with violence. You will even find a number of fairies have made themselves at home here, willing to obey the master of the fountain.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 24,
+      "cost": 400,
+      "name": "Ancient Factory",
+      "source": "The Legend of Zelda Series ",
+      "description": "How strange, it is, to think that the past was so much more advanced than the present, perhaps even the future as well. Now, though, you have yourself a sliver of that glorious past, one where the Thunder Dragon Lanayru spurned on innovation and creation. A massive factory complex that is connected to your Warehouse, it can be used to manufacture just about any technology you desire, though the higher quality the longer the process will take. Will you craft weapons not seen in millenia, or perhaps revive an ancient race of robots, or some other purpose that comes to your mind? Either way, you won’t ever have to worry about the materials, seeing as the factory will supply those on its own.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 25,
+      "cost": 400,
+      "name": "Serene Arena",
+      "source": "The Legend of Zelda Series ",
+      "description": "A replica of where the Demon King Demise was sealed away, a seemingly endless realm where there is only the water below, and the cloudy sky above. Should you so desire, you can set up challenges with others to take place within, be they any current enemies or summoned copies of those you've fought in the past. You can also alter the weather within, the clouds above roiling darkly before unleashing a storm, firing off bolts of lightning every few seconds. The best part is, there is no interference from the outside. Only you and your opponent, until one falls.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 26,
+      "cost": 600,
+      "name": "Great Fairy Fountain",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "This hidden underground cavern that will appear in every world from here on out is the home of the powerful magical beings, the Great Fairies - you have their loyalty now and while they may be able to grant you a few boons if you’ve shown yourself worthy they will always freely restore your stamina and heal ,you fully if you arrive here. The fountain’s water is crisp and refreshing as well, and the Fairies beyond their magical assistance are very helpful, willing to address any need you have within their power, though they remain very much rooted to this secret place.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 27,
+      "cost": 600,
+      "name": "Sanctuary",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "There are things that need to be protected - and places where you must retreat in the event your enemies are surrounding you. This can take the form of a themed sanctum similar to that of the Fire, Water or Forest temple or a steadfast keep such as Hyrule Castle if you so wish. Either way, it will be difficult for all but the most intelligent and capable of people to infiltrate these places without dying - as you can determine they are patrolled by loyal minions in approximate effectiveness as Hyrule’s castle guards with traps and security measures appropriate to how they manifest!",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 28,
+      "cost": 600,
+      "name": "Gate of Time",
+      "source": "The Legend of Zelda Series ",
+      "description": "A magical gate that is potentially older than even the Goddess Hylia herself, shaped like a massive gear with arcane sigils adorning it. This will allow you to travel through the currents of time, from present to past, up to a thousand years, in all worlds you visit. The future, for some reason, seems to be blocked from you. Actions taken in the past will not overtly affect the present, not where it truly matters.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 29,
+      "cost": 800,
+      "name": "Hyrule",
+      "source": "The Legend of Zelda Series ",
+      "description": "There is so much beauty to witness and many mysteries to uncover within this land, so much that it's unclear if you'll be able to see all of it within just ten years. But what if you didn't have to leave, instead bringing the whole of Hyrule with you? From the Kokiri Forest to Death Mountain, from the Gerudo Desert to Zora's Domain, you can take all of it with you, the civilised inhabitants of the land seeing you as their newest ruler, pledging their eternal loyalty to you. This land will be bigger than what you may have previously thought, but that just means that there's so much more to explore.",
+      "chapter": "Kingdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Kingdom",
+      "__line": 30,
+      "cost": 800,
+      "name": "Moon",
+      "source": "The Legend of Zelda Series ",
+      "description": "Gazing down at us from up on high, many look to the moon for comfort at night. Though, this one is not exactly what we would expect. This moon is now yours to do with as you see fit, able to be summoned into the atmosphere whenever you wish, greatly enhancing any lunar related abilities you may have, and sent hurtling towards the planet below. Within the moon, however, is a pocket dimension, an endless field of grass and trees, a peaceful place. Simply being here will alleviate any stresses, worries, or mental issues a person may have in an afternoon. The demonic face is optional.",
+      "chapter": "Kingdom"
+    }
+  ],
+  "4": [
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 1,
+      "cost": 0,
+      "name": "Basic Magic ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Magic is a wonderful force, but everyone needs to start somewhere. You know how to channel magic at a very basic level. Perhaps you could cover the edge of your weapon, making its range longer and dealing more damage. You could also improve any racial attributes with this, such as a goron creating temporary spikes while in a ball and rolling. This is only the basic stuff, but it's more than enough to work with, if you're clever.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 2,
+      "cost": 100,
+      "name": "Profit Making ",
+      "source": "The Legend of Zelda Series ",
+      "description": "There's nothing more satisfying than the sound of clinking rupees at the end of a hard day's work, so how fortunate you are that you've got the skills to make a lot? For a skilled merchant such as yourself, you could probably sell sand to a person in the desert, all for a fairly decent price. Honestly, it would be shorter to make a list of the ways you couldn't make money.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 3,
+      "cost": 100,
+      "name": "Evil Eyes",
+      "source": "The Legend of Zelda Series ",
+      "description": "When others look into your eyes, what do they see? Apparently, something they really don't want to mess with. You have an intimidating aura surrounding you, capable of cowing the weak-willed into doing whatever you say, lest they suffer the consequences.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 4,
+      "cost": 100,
+      "name": "Great Might ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Power can come in many forms, though the most popular would be through pure brute strength, something you have in spades. You are an exceedingly strong person, capable of lifting three times more than you could before, and striking with that much force would leave most dead or severely wounded.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 5,
+      "cost": 100,
+      "name": "Stone Body",
+      "source": "The Legend of Zelda Series ",
+      "description": "Few are as sturdy as a goron, and for good reason. For a race that needs to eat stones to survive, they need to be just as tough. Not only are you just as durable as stone, from your skin to bones to organs, you are also highly resistant to heat and fire. It wouldn't be too outlandish for you to take a nice relaxing bath in a pool of lava.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 6,
+      "cost": 100,
+      "name": "Malice ",
+      "source": "The Legend of Zelda Series ",
+      "description": "All monsters are imbued with a fraction of a sliver of the malice of the original Demon King, Demise. Such hatred is built into them on a fundamental level. Due to this malicious connection, you are capable of sensing nearby negative emotions, and even determining which emotions they are exactly. This can, of course, be toggled on and off at will.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 7,
+      "cost": 100,
+      "name": "Master Ore",
+      "source": "The Legend of Zelda Series ",
+      "description": "Perhaps the rarest material in the land, it is from this metal that gave birth to the Master Sword. It is very durable, it holds its edge extremely well, and is highly receptive to and even boosts enchantments that are placed on it. You will receive a stock of one metric ton of this metal, which will replenish weekly.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 8,
+      "cost": 100,
+      "name": "Timeshift Stones",
+      "source": "The Legend of Zelda Series ",
+      "description": "A unique black stone only found in the ancient Lanayru Desert, these have a unique ability to alter the flow of time. The refined stones can revert an entire area back into what it used to be hundreds of years ago. They also make for amazing power sources, and many more uses for those creative enough. You will receive twenty of these stones each week.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 9,
+      "cost": 100,
+      "name": "Treasury",
+      "source": "The Legend of Zelda Series ",
+      "description": "Rupees are quite a strange currency, being small gems rather than coins or bills. But hey, you certainly aren't going to be complaining, what with how much you've got now. You now have over a thousand rupees, more than enough to live luxuriously for a few weeks. And don't worry about running out in the long run, as they will replenish monthly. Just don't spend it all in one place, yeah?",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 10,
+      "cost": 100,
+      "name": "Topaz Headdress ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A magical gem, able to be placed upon the forehead without it ever falling off. By wearing this, you will find it easier to channel and use magics of all kinds, regardless of their origins or effects. In battle, every little bit helps when the end goal is victory, regardless of the cost.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 11,
+      "cost": 200,
+      "name": "Curse Your Name",
+      "source": "The Legend of Zelda Series ",
+      "description": "It all started with a curse, with a demon condemning the spirit of the Hero and the blood of the Goddess. Though not yet to the same extent, you are quite skilled in casting curses, though the more time you have to prepare and the more energy you pump into them, the more effective and lasting your curses will be.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 12,
+      "cost": 200,
+      "name": "Silver Tongue",
+      "source": "The Legend of Zelda Series ",
+      "description": "Power is not just found in might, but in connections as well, regardless of if they’re legitimate or faked. You are a convincing liar and a masterful actor, able to convince even the ruler of a rival kingdom that you are a trusted friend with contemptuous ease, no matter your actual allegiances.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 13,
+      "cost": 200,
+      "name": "Unfettered Might ",
+      "source": "Out of Context Triforce Supplement",
+      "description": "You are incredibly powerful in terms of your raw physique, more than able to match a skilled hero in a direct, one on one fight. Your physical power is also uncapped and grows greater the more power of other sorts you gain, such that you gaining new perks enhances your physique as does you being elected president or named king. You even gain some power when you defeat foes!",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 14,
+      "cost": 300,
+      "name": "Keen Mind",
+      "source": "The Legend of Zelda Series ",
+      "description": "Power must be tempered by Wisdom, for the easy path may not be the best path. Such a lesson you have taken to heart, you mind just as fearsome as your might. You possess cunning that few could match, and are quite skilled at planning. With such skills, even heroes attempting to stop you could be made to do all the hard work for you, without them ever realizing it.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 15,
+      "cost": 400,
+      "name": "Draconic Form ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Are there any creatures as powerful and majestic as the dragons? Though a number of people have shown desires to become one of these flying serpents, you are the one who has made that dream into a reality. You can, at will, take on a serpentine dragon form, imbued with an element of your choice. A dragon imbued with lightning would electrocute any who dared get close, while possessing the ability to generate thunderstorms. A dragon imbued with fire could set an entire castle ablaze with frightening ease. A dragon imbued with darkness would be able to blanket an entire city in pitch black darkness, while being able to meld into the shadows.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 16,
+      "cost": 400,
+      "name": "Demonic Forms ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Who cares about appearances when results are the only thing that counts for something? You can cast off your standard form for that of a demonic beast, one of immense power and durability. Which animal this beast is depends on you, though you can combine it with any other form you possess, creating a hybrid with all of the strengths and none of the drawbacks.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 17,
+      "cost": 400,
+      "name": "Might and Magic",
+      "source": "The Legend of Zelda Series ",
+      "description": "Magic is a powerful force, and the body is willing, so why not combine the two into one? You can seamlessly mix magic into any of your fighting styles. Shooting fireballs while coating your blade is well and good, but so is utilizing telekinesis to mess with an enemy’s footing, or enhancing your own strength.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 18,
+      "cost": 400,
+      "name": "Biggoron ",
+      "source": "The Legend of Zelda Series ",
+      "description": "It is said that within each goron is the beating heart of a mountain, and now it seems like you've got the body to match. You can now grow to be thirty meters tall, with an appropriate increase to your strength and durability. Though unlike the walking mountain you appear to be, you have not lost any of your speed, still able to move and fight just as quickly as one of your smaller brethren. You can shift between your giant and normal forms at will.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 19,
+      "cost": 400,
+      "name": "Water Dragon ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Long ago, the zora were once the parella, personal servants to the Water Dragon Faron, a being capable of flooding an entire forest. It seems her legacy has endured within you, as you are capable of flawlessly controlling a similar amount of water. Tendrils that attack enemies, creating whirlpools, making small pockets of air, and so much more.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 20,
+      "cost": 400,
+      "name": "Storm Rider",
+      "source": "The Legend of Zelda Series ",
+      "description": "It is not enough to ride the winds, to know that the very air itself supports you in the air? Well, if you so desire, then there is another option. You are fully capable of manipulating the winds and air around you, at about a mile radius around you. Bursts of air that propel others into the skies, extending your weapon's reach, Takingtaking away your target's access to air, and so many more things besides, should you be creative enough for it.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 21,
+      "cost": 400,
+      "name": "Twilight Sorcery ",
+      "source": "The Legend of Zelda Series ",
+      "description": "The magic of the twili has changed significantly since they were cast into the Twilight Realm. A magic which you are now a certified master of. Creating portals between long distances, transforming others into beasts or spirits, walking through walls, temporarily disguising yourself, and creating dark energy bolts to attack foes.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 22,
+      "cost": 400,
+      "name": "Demon ",
+      "source": "The Legend of Zelda Series ",
+      "description": "No longer are you simply just another monster, but a true demon. In addition to greatly increased physical prowess, your control over darkness is second to none. Manipulating the shadows, giving them the substance needed to affect the world is your bread and butter. To create tendrils of darkness, trapping foes in cocoons of shadow, creating an arena that none but you can see through, so many toys to play with for a being as dark as you. As an added bonus, you are also capable of seeing perfectly in even magical darkness, as though it were under the midday sun.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 23,
+      "cost": 400,
+      "name": "Din’s Fire",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "A spell handed down by the goddess, this power allows you to manifest a dome of massive fire around you and creates an ‘explosion’ of flame - it requires a bit of your energy, but it can be an amazing way to create breathing room if you’re surrounded by foes.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 24,
+      "cost": 400,
+      "name": "Ganon's Trident ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A golden trident, one owned by a version of the demonic Ganon himself. It can pierce through goron hide with surprising ease, though that is far from its only use. When thrown, it will return to the user’s hand whenever they desire. Additionally, it is fantastic at channeling magic, reducing the cost while improving the desired effect. With such a weapon by your side, it’s guaranteed for victory to be within your grasp.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 25,
+      "cost": 400,
+      "name": "Unholy Magician",
+      "source": "Out of Context Triforce Supplement",
+      "description": "You are a malevolent font of twisted magic, an unending wellspring from which dark power surges into the world. You can twist your energies to create all sorts of mystical effects from balls of dark energy that disintegrate what they touch to spells that invert someone’s courage and their fear. You are wickedly, frighteningly creative with it, as well, able to use magic to seize all sorts of opportunities.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 26,
+      "cost": 500,
+      "name": "Monstrous Durability",
+      "source": "The Legend of Zelda Series ",
+      "description": "What use is strength when the body is not fit to handle it? Your durability is, quite frankly, utterly ridiculous. You can easily withstand an entire castle falling on top of you, and could even survive being stabbed in the face. The only way you’re going to be put down is through means specifically designed for you, or with an ungodly amount of punishment.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 27,
+      "cost": 600,
+      "name": "Blessing of Din",
+      "source": "The Legend of Zelda Series ",
+      "description": "You have been blessed by the Goddess of Power, Din, her red mark now on the back of your hand. Though you will see your stores of energy replenishing at a ridiculous rate, going from empty to full within a minute, regardless of how much you have, that is not the only benefit. The power behind all of your attacks will increase five-fold, be they physical or magical in nature.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 28,
+      "cost": 600,
+      "name": "Demon King ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Few are worthy of such a title, but you are one of those few. You can control all but the most willful of monsters, regardless of size or number. Monsters under your control will also be better in general, stronger, faster, smarter, more durable. With such forces behind you, the world is right to cower in fear of your might.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 29,
+      "cost": 600,
+      "name": "Zubora Gabora ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A demonic greatsword, once owned by the Demon King Demise, a dark mirror to the Master Sword in every way. Its ebony metal can cut through steel with ease, fire off beams of dark energy that are just as sharp as the blade itself, leaves devastating wounds that are nigh-impossible to heal, interact with spiritual entities like poes, and is practically indestructible. Perhaps, with time, you could awaken the slumbering spirit within.",
+      "chapter": "Power"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Power",
+      "__line": 30,
+      "cost": 600,
+      "name": "Majora's Mask",
+      "source": "The Legend of Zelda Series ",
+      "description": "A cursed mask, one that comes from a doomed world and once inhabited by an evil spirit. Although, it seems as though the spirit within is long gone, yet retains all of its abilities. Curious, but also useful. While wearing this mask, you will find the power of all your magics greatly enhanced at a significantly reduced cost, especially those of curses and magic considered dark or evil. Additionally, it gives the wearer the power of telekinesis, enough to throw a goron around with contemptuous ease.",
+      "chapter": "Power"
+    }
+  ],
+  "5": [
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 1,
+      "cost": 0,
+      "name": "Divine Beauty",
+      "source": "The Legend of Zelda Series ",
+      "description": "Beauty is often said to be dependent on the eye of the beholder, with what constitutes beauty changing from person to person. Yet none can deny that you are a beauty that transcends such preferences, hair eternally silky and lush, while your body is automatically cleansed of all filth.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 2,
+      "cost": 100,
+      "name": "Old Age",
+      "source": "The Legend of Zelda Series ",
+      "description": "The passing of ages can be a rough process, with ancient lore and knowledge forever lost or forgotten as they simply fall to the wayside, no longer as important to catalogue anymore. But for someone like you, there's a chance for the past to forever live on. You are now ageless and immortal, forever in your prime until someone or something finally manages to kill you.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 3,
+      "cost": 100,
+      "name": "Clear Mind",
+      "source": "The Legend of Zelda Series ",
+      "description": "Wisdom is often equated to intelligence, though for good reason. To be intelligent is to figure out numerous solutions, but wisdom helps you decide which solution would be best to use. Your mind processes information three times faster than before, and you possess a photographic memory.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 4,
+      "cost": 100,
+      "name": "Magic Meter",
+      "source": "The Legend of Zelda Series ",
+      "description": "Magic is a fantastical force, capable of so much, a seemingly limitless potential. Which makes it all the more frustrating when you run out of it without even realizing. Not anymore, as you can now accurately know the exact amount of magical energy you possess at any given time. This doesn't just affect magic, either, but rather any energy source you possess, be it ki or psionic energy or something weirder.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 5,
+      "cost": 100,
+      "name": "Subtitles ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Don't you just hate it when people are trying to talk to you, but you can’t understand a word they’re saying? Well, no longer, as no matter how quietly they’re talking, or which language they use, you can perfectly understand what anyone is saying. If you want, you can even have their words appear as text in your vision.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 6,
+      "cost": 100,
+      "name": "Professional",
+      "source": "The Legend of Zelda Series ",
+      "description": "Everyone has to make a living somehow, even the past reincarnations of the Hero were a blacksmith or a ranch hand. You are highly skilled in one mundane profession of your choice, be it blacksmithing or writing or shopkeeping or plumbing or anything else.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 7,
+      "cost": 100,
+      "name": "Healing Waters",
+      "source": "The Legend of Zelda Series ",
+      "description": "Fairies are highly sought after for one reason above all else; they are unmatched in the art of healing. Even the smallest of fairies are capable of restoring a nearly dead man walking back into perfect health with but a touch. You are capable of doing this, too, though you will be unable to heal your own wounds.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 8,
+      "cost": 100,
+      "name": "Noble Attire ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Should you desire to present yourself as nobility, then you need to look the part. Thankfully, this fine set of clothing is exactly what you need. Extremely comfortable and made from high quality materials, it accentuates your best features, making you seem slightly more beautiful than before.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 9,
+      "cost": 200,
+      "name": "Fashionista ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Magic can be used for a variety of effects, though perhaps one of the strangest ways would be the imbuing of magic into clothing, of which you are a master. This magical clothing can hold numerous amount of effects, with the better your skill equating to the more potent the effect. The quality of the materials is also taken into account, with certain materials synergising better with certain effects, greatly improving their potency.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 10,
+      "cost": 200,
+      "name": "Animal Whisperer",
+      "source": "The Legend of Zelda Series ",
+      "description": "It’s not just people you want to communicate with, but animals too? Well, stranger things have happened. You are now capable of communicating with animals, with them understanding your words and their meanings much better than before.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 11,
+      "cost": 200,
+      "name": "Potion Brewer",
+      "source": "The Legend of Zelda Series ",
+      "description": "Fireballs and illusions may be the kind of magic you’re more familiar with, but there is another, far more mundane kind. Potions. You are a skilled potion maker, able to craft drinks and elixirs for all sorts of uses, such as healing or better defenses for a time. You can even make such potions from mundane ingredients.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 12,
+      "cost": 200,
+      "name": "Volcanic Smith ",
+      "source": "The Legend of Zelda Series ",
+      "description": "With their stony durability and fire resistance, it's only natural for them to become talented smiths, capable of forging some of the greatest weapons and armor in the land. You are one such smith, masterful in both creating beautiful and functional works, as well as further enhancing them by imbuing them with magic during the creation process. With the right materials and magical knowledge, you could one day create a weapon on par with the Master Sword.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 13,
+      "cost": 200,
+      "name": "Owl Statues",
+      "source": "The Legend of Zelda Series ",
+      "description": "Owls and birds in general are thought to be mentors and guardians, shepherding those promising to far away places on their swift wings. Perhaps those legends have some truth, for these statues outside of major settlements and cities or important landmarks will allow you to travel to and from them almost instantaneously.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 14,
+      "cost": 200,
+      "name": "Royal Tiara ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Heavy is the head that bears the crown, or so you have been told. Truthfully, the problems of rulership often come from people not listening to your decrees and advice. A golden tiara inlaid with gems, wearing this will see a noticeable increase in your charisma and oratory skills.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 15,
+      "cost": 200,
+      "name": "Signet Ring",
+      "source": "The Legend of Zelda Series ",
+      "description": "To prove yourself as the royal you are, you bear this golden ring. Bearing the royal insignia of your chosen race’s royal family, or one of your own design, those who wear it will find themselves immune to disease and poison, as well as resistant to all kinds of curses.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 16,
+      "cost": 200,
+      "name": "Sacred Bloodline",
+      "source": "Out of Context Triforce Supplement",
+      "description": "You draw out the most possible from your ancestry, and even as a drop-in, you exhibit traits similar to the wisest and most mystically gifted people in a setting (and thus can learn from them). You understand, intuitively, how to train these traits, and you are more in tune with your piece of the Triforce,, drawing more from it and using it to power various abilities beyond what it natively offers. Those with the triforce of courage can help people dispel dark magic shrouding their senses or recover from corrupted wounds, those with the triforce of wisdom can use more of the psychic abilities it offers such as full two-way telepathy, and those with the triforce of power can use it to more easily corrupt and psychically enslave the weak-willed or corrupt non-sapient lifeforms.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 17,
+      "cost": 200,
+      "name": "Voice of the Princess",
+      "source": "The Legend of Zelda - The Breathe Of The Wild",
+      "description": "You hear a voice, echoing as if from another life, giving you hints on how to move forward and encouragement along the way. This voice can remind you of your goals, even if you have somehow forgotten them, and the sound of it will bolster your spirit and encourage you to move forward.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 18,
+      "cost": 200,
+      "name": "Goron Crafting",
+      "source": "The Legend of Zelda - The Breathe Of The Wild",
+      "description": "You know the secrets of the Goron Craftsmen. You can create metal armors that can render the wearer immune to heat, powerful hammer-blades that can smash through the toughest rocks, advanced Bomb Arrows that won’t explode from ambient heat, and more. Anything built by Gorons, you can recreate, so long as you can gather the right materials.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 19,
+      "cost": 400,
+      "name": "Golden Princess ",
+      "source": "The Legend of Zelda Series ",
+      "description": "It takes a good ruler to ensure that their kingdom is prosperous and happy, one such as you. Your skills at rulership are simply sublime, capable of efficiently and effectively ruling an entire kingdom on your lonesome. Should you put the effort into it, you could easily ensure that any country or government you rule will experience a golden age that could last hundreds of years, so long as outside forces do not interfere.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 20,
+      "cost": 400,
+      "name": "Phantom ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Is this what they call an out of body experience? I would assume so, because otherwise the implications are horrifying. You can take on a ghostly form, capable of both invisibility and intangibility, though you will find it difficult to interact with the world around you. Fortunately, there is a solution to this problem, as you can possess objects and simple creatures.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 21,
+      "cost": 400,
+      "name": "Hylia's Light ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Through long study, you have come to master the holiest of magics, light magic. With this, you can fire off beams of light that sears steel as easily as flesh, barriers of light that block both magic and weapons, gentle rays of light that heal wounds, even solid weapons made from this holy light, and so much more. So many possibilities for those who have seen the light.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 22,
+      "cost": 400,
+      "name": "Sheikah Arts",
+      "source": "The Legend of Zelda Series ",
+      "description": "The sheikah arts of stealth are quite impressive, though they truly shine when incorporating their unique style of magic into it. You can magically disguise yourself to be a completely different person, dramatically increase the height of your leaps, cast subtle illusions, minor telekinesis to change the direction of your projectiles, and can even use short-range teleportation.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 23,
+      "cost": 400,
+      "name": "Great Fairy ",
+      "source": "The Legend of Zelda Series ",
+      "description": "No longer are you one of those itty bitty little sprites, but a great fairy that towers above even most gorons. In addition to greater stores of magical energy, you are capable of shattering yourself into dozens of ordinary fairies, each one merely an extension of your will. You can recombine whenever you like, but it only takes one of them to survive for you to return to your natural form. You will also receive the multitasking capabilities needed to control dozens of bodies at once, as well as process all that information without sensory overload.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 24,
+      "cost": 400,
+      "name": "Spirit Train",
+      "source": "The Legend of Zelda Series ",
+      "description": "Though you may not expect much from a train, this purchase is sure to surprise and exceed your every expectation. Swift as the wind and durable enough to plow into a mountain at full speed with no damage, it requires no fuel nor any tracks to function. In fact, it's just as maneuverable as any horse, perhaps even more so under a skilled driver. There are also ten cars, each with their own uses, such as storage or firing powerful weapons. These cars are largely customizable, and easy to modify.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 25,
+      "cost": 400,
+      "name": "Book of Mudora",
+      "source": "The Legend of Zelda - A Link To The Past Jumpchain",
+      "description": "An ancient tome written by the Sages of old. A collection of thoughts and trivia on all topics, from the creation of the barrier that holds back Ganon, to the Hero’s own words about the true power of the Master Sword. Some parts of it are written in riddles, while others seem to be prophecy of one sort or another, and a section of the tome is nothing more than a collection of myths and legends. Also of note is that some of it is written in ancient Hylian, and serves as a decent form of translation for the language. Put it all together and you have what amounts to an instruction manual on how to be a proper Hero, some of it clear to see and some of it more mysterious. There’s no need to wonder how to do something, your ancestor already figured it out and wrote it down for you!",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 26,
+      "cost": 400,
+      "name": "Naryu’s Love",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "A spell handed down by the goddess, this power allows you to surround yourself in a diamond-shaped barrier. While you aren’t able to attack or cast spells in this state, you can rest assured as there are almost no attacks in this world that can harm you while Naryu’s Love is active.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 27,
+      "cost": 400,
+      "name": "Historic Heroine",
+      "source": "Out of Context Triforce Supplement",
+      "description": "You draw great power from the past, and can understand the wisdom of your predecessors. You know how to take what they’ve made and restore it. You can figure out what people in the past did and in so doing restore ancient scientific marvels, as well as discover how those in the past used great magic to achieve works beyond what people in the present can do with magic.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 28,
+      "cost": 600,
+      "name": "Artificer",
+      "source": "The Legend of Zelda Series ",
+      "description": "The technology devised by the Ancient Sheikah is as wondrous as they are powerful. One need only look at the Divine Beasts to see this. You are a master of this magical technology, capable of creating and improving weapons, armour, vehicles, and so much more.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 29,
+      "cost": 600,
+      "name": "Divinity Reborn",
+      "source": "The Legend of Zelda Series ",
+      "description": "The Goddess Hylia was forced to reincarnate herself after her battle with Demise, and it seems as though you are that reincarnation. Such divine heritage has many perks, such as your extraordinarily powerful holy barriers and sealing magics. Sealing away the Demon King for a hundred years would be easy, while your barriers could block a continued barrage from four Divine Beasts for a significant time. This will also improve any holy abilities you already possess.",
+      "chapter": "Wisdom"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Wisdom ",
+      "__line": 30,
+      "cost": 600,
+      "name": "The Ocarina of Time",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "A unique instrument, the Ocarina of Time is one of the vital keys to opening the Door of Time and accessing the Sacred Realm. For this reason alone it is quite a treasure of the Royal Family - but even beyond that, you’ll find that magical music played upon this Ocarina is enhanced greatly, to the point of being able to turn day to night with a song usually meant to summon the light of the Sun for a brief moment.",
+      "chapter": "Wisdom"
+    }
+  ]
+}
