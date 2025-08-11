@@ -953,6 +953,98 @@
   ],
   "9": [
     {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 1,
+      "cost": 0,
+      "name": "Cloning Tubes",
+      "source": "Invincible. ",
+      "description": "A set of two cloning tubes is now yours jumper. So long as you jump in one, and have enough power. A perfect clone of you will jump out of the other, a perfect copy of all of your powers, abilities, and memories, including entering the tube in the first place. Neither you nor your clone will be able to determine who was the originator, so I hope you like working together. For +100 CP you have changed the tubes. Now your clone comes out knowing it’s a clone, subservient to you and only has a copy of the powers you permit it to have. While it is generally subservient, be careful as it isn’t mind control: if you push it too far your clone may snap and try to kill you.",
+      "chapter": "Medical Bay"
+    },
+    {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 2,
+      "cost": 400,
+      "name": "Lazarus Serum ",
+      "source": "Smallville",
+      "description": "The pride of Metron Pharmaceuticals, derived from Clark’s blood, this little serum can cure everything from cancer to chicken pox, heart disease to shingles. If administered to a recently made and relatively intact corpse, they will return to life for twelve hours and then become immune to further doses of the serum. You gain three doses which are replenished weekly.",
+      "chapter": "Medical Bay"
+    },
+    {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 3,
+      "cost": 200,
+      "name": "Goa'uld Healing Device",
+      "source": "Stargate: SG1",
+      "description": "A device that consists of a large red gem that can be placed on the hand, this weapon can heal staff weapon wounds, most diseases, and even near-fatal injuries. It requires a strong emotion to activate it, however, and using it too many times in succession will require a 24-hour recharge time. Anyone can use this version of the device",
+      "chapter": "Medical Bay"
+    },
+    {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 4,
+      "cost": 200,
+      "name": "Lantean Medical Scanner ",
+      "source": "Stargate Atlantis",
+      "description": "A bed to lie on with a scanning unit affixed. The Lantean version of an MRI, can quickly provide internal images of a patient's whole body, detecting illnesses, infections, injuries, abnormalities and even nanites, altered brainwaves and genetic anomalies. User friendly.",
+      "chapter": "Medical Bay"
+    },
+    {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 5,
+      "cost": 200,
+      "name": "Krillitane Oil ",
+      "source": "Doctor Who",
+      "description": "Some nifty stuff, this. This is Krillitane Oil, highly concentrated and top quality. What it does is that it makes human minds massively, impossibly cleverer. While not close to what you are with Omega-Level Intellect, your learning capacity, retention, general inventiveness and processing abilities are boosted to massive, ridiculous levels all the same, making you, or anyone else you feed it to, a genius second only to someone who can be said to have the above perk. It also kills Krillitanes on contact but that’s a feature, not a bug. Unfortunately, not really useful to you once you leave this setting. You receive a barrel of the stuff, and another every week.",
+      "chapter": "Medical Bay"
+    },
+    {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 6,
+      "cost": 100,
+      "name": "Hypospray",
+      "source": "Star Trek - Lower Decks",
+      "description": "A medical device used to inject liquids into the body. The system used a noninvasive transport mechanism of compressed air to transfer the injectant from the device into the subdermal layer below the skin of the body, or artery without the use of a needle.",
+      "chapter": "Medical Bay"
+    },
+    {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 7,
+      "cost": 100,
+      "name": "Inhaler ",
+      "source": "Outer Worlds",
+      "description": "An medical device that can be fitted with medical items/treatments that makes their effects mix together into an inhalable form for quicker and effective treatment. Can also be used with other items like food, water, and drinks...And other things like ointments and creams, but does not guarantee safety by itself.*",
+      "chapter": "Medical Bay"
+    },
+    {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 8,
+      "cost": 50,
+      "name": "Translator Implant",
+      "source": "MCU - 1",
+      "description": "Once implanted in the neck of the recipient, this device offers real-time translation for many different languages, allowing you to communicate with a lot more people. New languages must be listened to in order to translate it.",
+      "chapter": "Medical Bay"
+    },
+    {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 9,
+      "cost": 200,
+      "name": "The Cradle",
+      "source": "MCU - 1",
+      "description": "Weapons of war are not the only thing to advance, and this medical bed is proof of that. This human-sized medical device can heal wounds by scanning the wounded area and then re-growing skin tissue to a degree of accuracy that visually one wouldn't be able to tell there was a wound. If improved, there might be a way to let it 'grow' an entire body, but it would take a great degree of medical knowledge to sufficiently do so. There is then the issue of giving it a consciousness; it can create bodies but it cannot create life.",
+      "chapter": "Medical Bay"
+    },
+    {
+      "__source": "The Celestial Vault - Medical Bay",
+      "__line": 10,
+      "cost": 200,
+      "name": "Juvenat Treatments ",
+      "source": "Ciaphus Cain",
+      "description": "Rejuvenats are a type of treatment used by the Imperium for the extension of mortal life. While they are effective at greatly expanding one's life. This can be used to extend an individual's life for hundreds of years. Perhaps you have proven yourself a valuable officer since you acquired this. Many notable officers are given these treatments so that their service will continue. You will receive enough of the treatment to supply a dozen individuals. In addition you will receive the formula needed to create the treatment.",
+      "chapter": "Medical Bay"
+    }
+  ],
+  "10": [
+    {
       "__source": "The Celestial Vault - Overseer's Office",
       "__line": 1,
       "cost": 0,
@@ -1160,7 +1252,7 @@
       "chapter": "Overseer's Office"
     }
   ],
-  "10": [
+  "11": [
     {
       "__source": "The Celestial Vault - R&D",
       "__line": 1,
@@ -1180,7 +1272,7 @@
       "chapter": "R&D"
     }
   ],
-  "11": [
+  "12": [
     {
       "__source": "The Celestial Vault - Security",
       "__line": 1,
@@ -1272,7 +1364,7 @@
       "chapter": "Security"
     }
   ],
-  "12": [
+  "13": [
     {
       "__source": "The Celestial Vault - Vault",
       "__line": 1,
@@ -1355,7 +1447,7 @@
       "chapter": "Vault"
     }
   ],
-  "13": [
+  "14": [
     {
       "__source": "The Celestial Vault - Workshop",
       "__line": 1,

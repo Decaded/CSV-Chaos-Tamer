@@ -2713,6 +2713,458 @@
   ],
   "7": [
     {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 1,
+      "cost": 0,
+      "name": "Holo-Wafers",
+      "source": "Imperium Nihilus - JumpChain",
+      "description": "Ordinarily, holo-wafers are nothing more than novelty items that find use as bargaining chips, badges, crest displayers, signal markers—anything that a common card or small sign could be used for—save for its pleasing projected hololithic image. But in the underworld, a holo-wafer serves as the “marques” of assassins and hitmen, a signal to many that a death was no mere murder. For you, these holo-wafers carry your symbol. Leave them behind a corpse and the people shall know that it was you who was responsible for the act. Watch as your reputation spreads across entire Sectors with but a well-timed death. A reputation is a powerful thing but do remember that it brings its own complications with it. Strangely, you’ll find that you always have one of these wafers whenever you reach into your pockets.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 2,
+      "cost": 0,
+      "name": "Purity Within",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "An assassin must undergo annual brainwashing sessions to reinforce their absolute loyalty. But you certainly didn’t start Jumping just to end up somebody else’s mind-controlled puppet, so by taking this perk rest assured that you are immunized against this and all other forms of brainwashing and mind control. Also, for the duration of this jump your superiors will fail to notice that you’re not actually brainwashed unless you actually disobey a direct order where they can see it.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 3,
+      "cost": 0,
+      "name": "Psycho-Conditioning",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Assassins do not pick their targets, they are mere bullets fired at the Imperium’s foes. Your mind is strengthened to withstand the rigors of combat and cold-blooded murder, allowing you to act without hesitation, fear, or guilt when you deem it necessary. It also hardens you against trauma. This does not significantly alter your sense of ethics.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 4,
+      "cost": 0,
+      "name": "Assassin Training",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Over 90% of Assassin recruits die on the trip to Terra, between short rations and intensive training in lightless spaces, heavy grav, zero-g, etc. Those that survive can begin their real training, which includes a fairly comprehensive curriculum in Imperial technology, history, philosophy and art and a physical program that- well, just read the page quote above. You are without a doubt one of the most capable mortal humans in the 40K universe.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 5,
+      "cost": 0,
+      "name": "Omni-Scope",
+      "source": "Imperium Nihilus - JumpChain",
+      "description": "Not truly a weapon but rather an attachment for one. Or to be more accurate, attachments if the crate you have now is any indication. Found mostly in the hands of legendary assassins and famed bounty hunters on account of its rarity and value, this should prove useful to you. Composed of several finely tuned sensors wands linked to a precision lens, the Omni-Scope is, in essence, a combination attachment with all the benefits of a preysense sight, a red dot laser sight, and a telescopic sight. With all these at your disposal, your foes could be hidden ten miles away in a fortified bunker and you’d still be able to put them down like the mongrels they are.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 6,
+      "cost": 0,
+      "name": "Sympatic Dataspikes",
+      "source": "Imperium Nihilus - JumpChain",
+      "description": "You know, regardless of your opinions on them, you have to admit that the Imperium’s Assassins have some of the best and finest equipment possible. Just look at these if you want an example. A pair of wrist-mounted, retractable spikes, these aren’t really meant to primarily be used as weapons. Oh, they’re very good at letting you punch through the weak spots of foes clad in armor, but that’s not their main use. Rather, you’re meant to jam these things within cogitators and machines, allowing you to either siphon off information or inject rather damaging scrap-code into their systems. This is especially handy if you’re planning on fighting hereteks or members of the Dark Mechanicum.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 7,
+      "cost": 100,
+      "name": "Imperial Assassination Force",
+      "source": "Star Wars vs Warhammer 40k",
+      "description": "The assassins primarily operate alone, but they unite together to combat more dangerous targets. This is a group of a dozen Imperial Assassins that belong to the various orders. Each time you purchase this you may create a dozen assassins that will serve alongside you. You could choose to receive assassins from a single order or you could choose two members from each of the six orders. Each of them will have been trained since they were young to fight alongside each other and to serve you. They will strike against any foe you send them against and they will not stop until they have fallen. It is less important for the assassins, but you may still customize the appearance, personality, and species of these assassins.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 8,
+      "cost": 100,
+      "name": "Charnabal Sabre ",
+      "source": "Warhammer 40,000 - Space Marines v1.0",
+      "description": "An elegant and deadly weapon dating back to the ancient dueling societies and assassin cults on Terra during the Age of Strife, the Charnabal Sabre is press-folded and stamped many times over before being micro-serrated with a sharp edge. These weapons are so finely made that they can clash with Power Weapons without being destroyed, and sharp enough to pierce armor. They are extremely lightweight for their strength, being a tool of speed and finesse rather than brute force.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 9,
+      "cost": 100,
+      "name": "Polymorphine Compatibility",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Compatibility with the shapeshifting drug is on a scale, after all. You just happen to be highly compatible, enough to change your gender and even apparent body mass, to an extent.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 10,
+      "cost": 100,
+      "name": "Against Foreign Agents",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "The very first modifications made to an Eversor are to enhance their immune system to survive the rigors and toxicity of their own combat drugs. You never get sick and negative side effects or addiction from combat drugs are unknown to you.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 11,
+      "cost": 100,
+      "name": "Spy Mask",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "A mask which inserts neural jacks to upload information directly into your mind. Can monitor temperature, wind conditions, thermal imaging and basic psychic disturbances.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 12,
+      "cost": 100,
+      "name": "Stock ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "You have a satchel of poisons, antidotes and ingredients, enough to kill a large town, that restocks weekly.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 13,
+      "cost": 100,
+      "name": "Psyber Eagle ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "A two-headed cyborg eagle that can relay to you all it says and hears, via a handy implant. Can also enhance psyker powers.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 14,
+      "cost": 100,
+      "name": "Combat Drugs",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "A bag with all the chemical enhancement for fighting you could ever want and more. Psychon, ‘Slaught, Reflex, Barrage, Fury- hope you took the immunity to side-effects perk. Even got some of the good Dark Eldar stuff in here. Refills weekly.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 15,
+      "cost": 100,
+      "name": "Polymorphine ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "An unlimited supply of the shapeshifting drug needed to be truly Callidus.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 16,
+      "cost": 100,
+      "name": "Synskin ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "An assassin needs to be able to move, so this armor was developed that is actually spray-painted on. Provides better protection that most carapace armor, and even some strength enhancement.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 17,
+      "cost": 100,
+      "name": "Poisoned Blades ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Envenomed stiletto knives, the last resort of an assassin in melee, and extremely effective if you can find an eyehole or chink in even powered armor.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 18,
+      "cost": 100,
+      "name": "Love on the Battlefield ",
+      "source": "Generic Warhammer 40K: FanFiction",
+      "description": "The relationship between the Vindicare Assassin LIIVI and the Farseer Taldeer was not something many imagined possible. Despite that, this couple are a formidable duo capable of great feats. LIIVI is obviously a terrifying assassin, having been trained as a Vindicare, and Taldeer is an Eldar Farseer with all the power implied. This purchase will allow you to take them with you. Maybe you’ll give them a chance to relax, now that the entire galaxy isn’t trying to kill them even more than normal.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 19,
+      "cost": 100,
+      "name": "Stealth",
+      "source": "Talons of the Emperor",
+      "description": "Noise is a near inevitable part of violence- but it’s not always desired. In ambushes, in assassination, in infiltration, unnecessary noise can be the difference between life and death. And even more importantly, the difference between success and failure. And so these modifications were designed to make sure that death was both swift and subtle. Your weapon makes no noise when fired, and it has no muzzle flash. If it’s an energy weapon, then it’s visible signature will be both vastly minimized and be entirely outside of the visible spectrum of light.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 20,
+      "cost": 100,
+      "name": "Holo-Wafers",
+      "source": "Imperium Nihilus - JumpChain",
+      "description": "Ordinarily, holo-wafers are nothing more than novelty items that find use as bargaining chips, badges, crest displayers, signal markers—anything that a common card or small sign could be used for—save for its pleasing projected hololithic image. But in the underworld, a holo-wafer serves as the “marques” of assassins and hitmen, a signal to many that a death was no mere murder. For you, these holo-wafers carry your symbol. Leave them behind a corpse and the people shall know that it was you who was responsible for the act. Watch as your reputation spreads across entire Sectors with but a well-timed death. A reputation is a powerful thing but do remember that it brings its own complications with it. Strangely, you’ll find that you always have one of these wafers whenever you reach into your pockets.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 21,
+      "cost": 100,
+      "name": "Poison Globes ",
+      "source": "Imperium Nihilus - JumpChain",
+      "description": "Every good Inquisitor should know that brute force isn’t the only way to kill an enemy. After all, why waste all your time pumping bullets and bolts into your foes when a single dose of poison can kill them far faster? So, by following in the footsteps of the Venenum Temple and their assassins, you’ve gotten your hands on their own Poison Globes. Filled with crystalline shards, these grenades disperse a rather potent gaseous neurotoxin strong enough to debilitate, if not outright kill, almost every foe you might encounter. Not too useful on those wearing power armor unfortunately.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 22,
+      "cost": 200,
+      "name": "Unbound",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "An Assassin’s life is strictly monitored and regimented, heck, an Eversor is put into stasis between missions. But every now and then an Assassin- usually of the Vanus Clade-earns the trust of the Senate and is allowed to wander the galaxy and follow their own judgement in picking targets, as long as they check in with Holy Terra annually. You now enjoy such freedom, and in future Jumps your superiors are far more likely to trust you with extended missions and detached duty, and less likely to set you on onerous tasks.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 23,
+      "cost": 200,
+      "name": "Mother Gullet",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "When Planetary Governor Thygmus van Spracht turned rebel, a Callidus assassin was sent to abduct his infant heir. Impersonating a nurse, the assassin distended their jaw, swallowed the babe whole and walked right out before regurgitating the baby, screaming, but safe. A week after seeing the footage, van Spracht surrendered. You can likewise rearrange your innards, either to hide surprisingly large objects inside, or fake death by getting stabbed where your heart and kidneys no longer reside.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 24,
+      "cost": 200,
+      "name": "The Blinded Seer",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "When a Culexus assassin was dispatched to finally end the schemes of the infamous Lithandros-Esmanthil of Saim-Hann, the Farseer could see his end but not the cause. For weeks he struggled frantically to find an escape from his fate before he exhausted himself and finally lay down to accept his gruesome end. Like that nameless assassin, you know how best to evoke a terror in your target that causes them to flail about in panic and waste their strength and resources before you administer the coup de grace.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 25,
+      "cost": 200,
+      "name": "Lobo Implant & Cortex Upgrades",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "You control your own body, completely. Every muscle, you can twitch individually, you can make your own heart race, slow or stop and control your metabolism to enter a deep hibernation. You are extremely aware of your own body, and any damage or alteration is immediately apparent, though you can shut down your pain response. Finally, the Lobo Implant increases hatred. Should you wish, you can focus your wrath on a target so you will spend every waking moment thinking on or working towards their demise and then just switch off any time you want.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 26,
+      "cost": 200,
+      "name": "Cryptocrat ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "None have mastered the art of code-making and code-breaking like the Vanus Clade. It is a rare cipher indeed that can keep you out for more than an hour or so, and your own codes baffle enemy efforts.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 27,
+      "cost": 200,
+      "name": "Exitus Weapons",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "The very finest sniper-rifle Imperial technology can produce, with the range to hit targets over the horizon, and the force to pierce Terminator armor, and the ability to fire with total silence. Has a pistol with rather less range, but a superior rate of fire and similar penetration and silence, in case you get cornered.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 28,
+      "cost": 200,
+      "name": "Needler",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "A discreet pistol that fires tiny needles of crystalized poison or drugs that dissolve near instantly in blood and leave no puncture mark. Pretty worthless against even basic armor though.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 29,
+      "cost": 200,
+      "name": "Executioner Pistol ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "An overpowered bolt pistol with a needler attachment, allowing you to fire whichever projectile makes the most sense.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 30,
+      "cost": 200,
+      "name": "Psyk-Out Grenades",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Grenades enhanced with dust from the Golden Throne. Can banish most daemons and weaken the Greater ones, interrupt warpcraft and sever psykers from their powers for hours or days.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 31,
+      "cost": 200,
+      "name": "Neural Shredder",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "A rare and poorly understood weapon, this pistol fires an invisible wave of EM energy that passes through any armor or wall, but disrupts nerves, causing seizures, unconsciousness or death, depending on setting.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 32,
+      "cost": 200,
+      "name": "The Stargazer’s Demise",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Progressive astrologer Lenas Scard discovered many truths running contrary to the Imperial Creed in his studies of the heavens, and was marked for death before his heresy could spread. Erasmus Menst of the Vindicare Temple climbed the highest spire of the hive and waited for the telltale glint of light off a lens, before shooting the astrologer through the telescope and through his eye. Like Menst, you are incredibly perceptive and can pull off an amazing snap-shot given just a fraction of a second’s window of opportunity. Any shot that you previously could have made with lengthy aiming, you can now make as an instant reflexive action.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 33,
+      "cost": 200,
+      "name": "Master of Poisons ",
+      "source": "Generic Warhammer 40K: FanFiction",
+      "description": "You are an expert when it comes to dealing with poison and venom. Well essentially any mixture that's designed to cause pain and death. You are so renowned for the suffering you can cause that even the Dark Eldar would essentially roll out the red carpet for you. As a side effect you are also the greatest master of antidotes and curing these ailments in the galaxy. After all, the only difference between the doctor saving you and the assassin killing you is their intent.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 34,
+      "cost": 200,
+      "name": "Hyperpolymorphine",
+      "source": "Imperium Nihilus - JumpChain",
+      "description": "The signature tool of the Callidus Assassins, polymorphine is a very interesting drug. With it, a Callidus Assassin could change and shift their flesh to adopt the appearance of another person and, with great training, even take on the appearance of something like an Eldar or an Ork. And despite all that polymorphine allows one to do, others have sought to improve upon the substance, regardless of the costs. One such person was Inquisitor Dahwrin, whose Thorian beliefs led him to believe that an improved version of polymorphine could lead to the creation of a Divine Vessel, one who could take in the Emperor’s soul itself. His efforts to create such a vessel failed but that did not mean they did not bear fruit in other ways. Thought to have been lost to a rogue Assassin, it seems that you have found your hands on a supply of hyperpolymorphine, enough to utilize it a dozen times, along with the blueprints to create more. But what can it do? Well, to put it mildly, it’s polymorphine on steroids. So long as the drug is running through your system, you’ll have all the benefits of polymorphine and your shapeshifting abilities have improved that you could pass through pipes a foot wide, strengthen your bones, muscles, and flesh, improve your organs and senses, grow extra eyes and so much more. With proper training and experience, you’d be more than a match for the Callidus Temple’s assassins.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 35,
+      "cost": 300,
+      "name": "Master of Assassins",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "There are old assassins and bold assassins, but few old bold assassins. You, however, have been in the killing business a solid two centuries, with a killcount making you an object of envy among your temple. You could easily spend your years here training the next generation of assassins, or in a leadership position dealing with the cutthroat officio politics. Assuming you were crazy. Still, your instincts in the field are preternaturally keen, your experiences keep you sharp as a well-honed razor.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 36,
+      "cost": 300,
+      "name": "Trained At A Temple of Assassins ",
+      "source": "Warhammer 40K -- Emperor Text to Speech - Gauntlet",
+      "description": "You're trained and equipped as an expert in one form of assassination. Pick one of the Assassin temples and you have all the training and equipment of these without any of the drawbacks. You can purchase this more than once. Vindicare - sharpshooters, specialists in sniping and marksmanship Callidus - use the shape-changing drug Polymorphine for infiltration and impersonation Eversor - drug-fuelled berserkers who carry out brutally violent attacks Culexus - psyker-killers, immune and invisible to psychic powers Venenum - experts in the use of poisons and subtlety Vanus - blackmailers and information gatherers who maneuver their pawns to kill for them",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 37,
+      "cost": 400,
+      "name": "The Grot That Turned",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Big Mek Oilguzla had a huge force of Deff Dreds, but as he turned them on a hive-city, he was suddenly slain by one of his own Gretchin. Like Militza Scarvelli, who did the deed, you have enough skill with polymorphine to impersonate humanoid xenos, like Orks, Tau and Eldar, and know enough of their language and culture to not be easily caught out.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 38,
+      "cost": 400,
+      "name": "A Ghost Among Devils ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Xantaka, a sorcerer of the Thousand Sons was infamous for his ability to summon daemonic legions strong enough to overwhelm a orld within hours. Until a Culexus assassin walked right past his unholy sentries, through his wards, past his rubricae bodyguards and evaded the notice of the sorcerer himself before burning his brains to ash at close range. You easily escape the notice of anything touched by warpcraft, even psykers themselves will not see you with their ordinary or cursed eyes.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 39,
+      "cost": 400,
+      "name": "Enhanced Endocrine Response",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "An Eversor can move at speeds blinding to even an Astartes, thanks to their enhanced version of adrenaline, frenzon. More, time seems to slow and they react with careful deliberation faster than an unenhanced, and most enhanced, can on reflex alone. You also have immense hysterical strength on demand, thanks to hypermusculature and a redesigned skeleton, and a secondary heart to make you that much harder to kill. A final gland, the Terminus Gland, means if killed your body will explode into a superheated acid that can melt through tank armor.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 40,
+      "cost": 400,
+      "name": "Anathame",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "A dagger with shapeshifting envenoming properties, so it is always the weakness of whatever it is used against.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 41,
+      "cost": 400,
+      "name": "Cogitator Gauntlet",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "The other signature tool of the Clade. This bulky metal gloves does contain an impressive ability for electrical discharge and EMP, should the user be attacked. Its true purpose, however is to project a dozen or a score of holographic screens, to provide data and control truly commensurate with a Vanus assassin’s ability to multitask.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 42,
+      "cost": 400,
+      "name": "Neuro Gauntlet",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "A glove with hyper-alloy armor-shredding claws, containing injectors for a potent neuro-toxin. Your target will die, in unimaginable agony, while all their powers and strengths are halved. Refills hourly, comes with a single antidote injector for the thumb.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 43,
+      "cost": 400,
+      "name": "Animus Speculum ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "A scary elongated skull helmet with in-built gas filter and air supply, advanced sensors, dampening systems to tamp down the blank aura at will, and the ability to focus the blank power into a brain-melting Arcane Eye energy blast. Also contains a Psyocculum, which makes psychic entities glow and be visible through walls.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 44,
+      "cost": 400,
+      "name": "C’Tan Phase Sword",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "A sword blade that passes through armor, defense fields, and basically everything but the body of a C’Tan Shard, which will instead absorb it.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 45,
+      "cost": 400,
+      "name": "Deadly Paperpusher",
+      "source": "Wh40k Adeptus Administratum",
+      "description": "You are not a Guardsman or a Sororitas or a Skitarii or an Astartes or a... well, you are not a lot of things. Not now, at least. You are, essentially, a paper pusher. However, you can be a very deadly paper pusher when things come down to it. In your hands even innocuous items like vellum and paperclips become lethal weapons. There is nothing you cannot successfully use as a weapon and with deadly skill as well. Are you secretly an escapee from some Assassinorium sect? Who knows.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 46,
+      "cost": 600,
+      "name": "Specificity ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Even amateurs have heard of binary poisons, where two discreet substances combine in the body to form a poison, so you can dose everyone with one half and have it be harmless. Well, in the interests of not getting blamed, you’ve taken this a lot farther. With a little study, you can tailor make a poison to a target, to attack them specifically, bypass any resistance they might have, and be harmful only to them. This also leaves no discernable evidence, as anyone analyzing food or surfaces will find only harmless substances.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 47,
+      "cost": 600,
+      "name": "The Tigers Caged ",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Hettman Gretch of the 593rd Kadaveran Tigers led not just his regiment, but all the Tigers in rebellion, until a Callidus assassin killed and replaced first his trusted Astropath, then the commander himself, scattering his forces and calling down an artillery strike on their high command. You are extremely skilled at impersonating people, needing very little observation to get the voice and mannerisms down, and are supremely skilled in all forms of sabotage, from moving units around to destroying equipment, you can wreck just about anything with scant risk of being caught.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 48,
+      "cost": 600,
+      "name": "A Destiny Denied",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "Nothing the Imperium had could touch the Chaos Lord Maleficus. Not until the day he ascended to Daemon Princedom, and was immediately showered with psyk-out grenades and utterly annihilated by a Culexus Assassin. Like this assassin, you have an amazing sense of timing, with the skill and immense good fortune to always find your targets at their most vulnerable, most opportune moments for you to strike. Let none stand beyond fear of the Emperor’s wrath.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 49,
+      "cost": 600,
+      "name": "The Cull of the Goliaths",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "In M37, the Abhuman Goliaths started a probably-Khornate blood cult and stopped contributing to the Imperial Guard. By accident, six Eversor assassins were dispatched and by the time they were done, there were no living Goliaths. Your combat skills make you the match of armies and the death of cities. With time and effort, even entire worlds.",
+      "chapter": "Officio Assassinorum"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - Officio Assassinorum",
+      "__line": 50,
+      "cost": 600,
+      "name": "The Lammas Campaign",
+      "source": "Warhammer 40,000: Imperial Assassins",
+      "description": "In this 15-year war with Biel Tan, a Vindicare famously held up a massive Eldar offensive for most of a day by strategic picking of targets. When they finally stormed his ruined tower, they found only grenade traps. Like this sniper, you are extremely skilled at picking targets whose death will cause the most destruction, and efficiency. You are always thinking, doing the calculations of distance and angle for a shot, planning the path of the round before and after the target. It is easy for you to line up to shoot not just one xenos, but the five behind them, or bounce a round off three surfaces to get a headshot from a radically new angle, even to shoot a target over the horizon, with only a screen to show they really are on the stage. You are also very evasive and good at quickly setting up traps.",
+      "chapter": "Officio Assassinorum"
+    }
+  ],
+  "8": [
+    {
       "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Abhuman",
       "__line": 1,
       "cost": 0,
@@ -3163,7 +3615,7 @@
       "chapter": "The Abhuman"
     }
   ],
-  "8": [
+  "9": [
     {
       "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Inquisition ",
       "__line": 1,
@@ -3615,7 +4067,7 @@
       "chapter": "The Inquisition"
     }
   ],
-  "9": [
+  "10": [
     {
       "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Lost and the Damned",
       "__line": 1,
@@ -4067,7 +4519,7 @@
       "chapter": "The Lost and the Damned"
     }
   ],
-  "10": [
+  "11": [
     {
       "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Rogue Trader",
       "__line": 1,
@@ -4519,7 +4971,7 @@
       "chapter": "The Rogue Trader"
     }
   ],
-  "11": [
+  "12": [
     {
       "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Sisterhood",
       "__line": 1,
@@ -4971,7 +5423,7 @@
       "chapter": "The Sisterhood"
     }
   ],
-  "12": [
+  "13": [
     {
       "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Space Elves",
       "__line": 1,
@@ -5423,7 +5875,459 @@
       "chapter": "The Space Elves"
     }
   ],
-  "13": [
+  "14": [
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 1,
+      "cost": 0,
+      "name": "Call me Mr. Necron",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "One thing you have to admit about the Necrons is, the names are pretty damned cool. Trazyn the Infinite, Imotekh the Stormlord... there’s a panache to them. Now you get your own Necron name, complete with epithet. You may insist everyone use it whenever they address you or refer to you in the future, and people will do so regardless of what it may exactly be. If you ever get tired of it, you can select a new name and epithet and people will start referring to you by that instead. Your name also invokes an emotion of your choice in people, such as awe or fear.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 2,
+      "cost": 100,
+      "name": "Loyal Lychguard",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "This is a Lychguard who has been assigned specifically to protect you. They are absolutely loyal and faithful... in part because the capacity for disloyalty was something deliberately abandoned when they underwent biotransference. They have otherwise retained almost all of their mind despite the Great Sleep, and are an excellent combatant. Despite wielding weapon and shield in combat, they are most proficient at unarmed fighting, and were among the greatest of martial artists among the Necrontyr. Since inhabiting their necrodermis chassis, the power behind their blows has only grown even stronger.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 3,
+      "cost": 100,
+      "name": "Dimensional Sanctum ",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "This device is keyed to a small pocket reality, and allows the user to retreat into it to heal, enhance themselves, or simply hide until danger has passed. Or whatever other use you may have for your own personal bubble of reality.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 4,
+      "cost": 100,
+      "name": "Omnilingual Broadcast",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "The Necrons have long ago mastered all branches of study beyond the conception of the races of the modern age. Linguistics was just another topic to conquer. You are able to speak in a fashion that is understood in all languages, and are equally capable of understanding whatever languages you hear.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 5,
+      "cost": 100,
+      "name": "Power of Lip​",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "Orikan the Diviner is famous for two things; his unmatched knowledge of astrology and his tendency to be an insufferable genius to any Necrons who acquire his services. Alas, his skills at prognostication are enough to make the varied Overlords and Phaerons tolerate the constant insubordination they must put up with. You now enjoy the same benefits. So long as you prove your worth, you will be allowed to get away with behavior that wouldn’t be tolerated by anyone else.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 6,
+      "cost": 100,
+      "name": "Martial Skill​ ",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "In this galaxy, it is commonly expected for an army’s commander to join their forces on the front lines, personally engaging their foes in combat. And it would be obscene for a Nemesor to be outdone in this matter by the lesser races. Your skill in both long-ranged and hand-to-hand combat is on par with the champions of the other armies, able to duel Chapter Masters on an even footing even as your legions clash with the enemy.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 7,
+      "cost": 200,
+      "name": "Ghost Ark",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "A troop transport of the Necrons, this anti-gravity vehicle is even capable of flight through the void, and is used as a boarding craft. It can carry up to 10 Necron infantry, and allows them to fire freely, in addition to the two Gauss Flayer arrays, making it a highly mobile method of bombarding enemies. It is also equipped with repair stations, allowing it to repair the wounded and more swiftly carry out the Reanimation Protocols.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 8,
+      "cost": 200,
+      "name": "Dispersion Shield",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "It looks like a physical shield, but it doubles as an energy barrier capable of repelling most attacks.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 9,
+      "cost": 200,
+      "name": "Canoptek Scarabs",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "By far the most common and versatile Scarabs, about the size of a human head, they are not only used in construction but as weapons of war. They are able to break down matter into raw energy, and later convert this energy back into a different form of matter; this allows them to deconstruct enemies and fortifications, and then use that energy to build weapons and vehicles, or even more Canoptek Scarabs. You receive 20 such Scarabs (five swarms of four),",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 10,
+      "cost": 200,
+      "name": "Synaptic Disintegrator",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "A sniper rifle used by Deathmarks, this weapon is notable for firing a compressed leptonic beam that destroys the synaptic tissue in the brain upon contact anywhere on the body.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 11,
+      "cost": 200,
+      "name": "Primordial Schematics​ ",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "The human world of Cadia was able to stymie the advance of Chaos largely due to the efforts of Necron technology. The mysterious pylons of Cadia acted to reinforce the materium even on the verge of the Eye of Terror. During the Thirteenth Black Crusade, the Archmagos Belisarius Cawl was even able to use them to shrink the largest Warp Storm in the galaxy. The designs behind this priceless technology are now within your possession. Outside of this setting, pylons designed according to the specifications of these schematics will disrupt interdimensional portals and incursions with some fine-tuning.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 12,
+      "cost": 200,
+      "name": "Divination of the Stars​",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "The primitive astrologers of the mortal races have claimed to be able to predict the future through the composition of the celestial sphere for thousands of years. Unlike them, you actually can. Though this is by no means foolproof, dedicated study of the stars allows you to predict the future reliably. Do note that the more specific the prediction, the more unreliable it will be. “Which world will the enemy force attack?” has a much greater chance of success than “Which specific spot will each specific general attack?”.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 13,
+      "cost": 300,
+      "name": "Catacomb Command Barge",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "A simple vehicle armed with a single Tesla Cannon, it is nonetheless of vital importance to the Necron army as it is the personal conveyance of Necron Lords and Overlords. A light anti-gravitational skimmer, it is equipped with carrier-wave generators allowing an Overlord to instantly deliver commands to any nearby troops, letting them directly control their underlings in a way that the nodal command structure of the Necrons would normally make difficult. It is piloted by a pair of Necrons hard-wired into the vehicle; yours, however, will lack personality and individuality, being “NPCs” that exist for no other purpose than to pilot the Command Barge.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 14,
+      "cost": 300,
+      "name": "Necron Death Mask",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "A mask that allows you to perceive the unseen, seeing through everything from illusions to invisibility to camouflage to mundane attempts at hiding to seeing through attempts to cloud your vision.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 15,
+      "cost": 300,
+      "name": "Mindshackle Scarabs",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "A specialized, smaller form of the Scarab designed to control the lesser species, it buries into the victim’s minds to bypass cerebral functions, effectively turning them into a puppet under your control. You have enough Mindshackle Scarabs to control a group of 10.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 16,
+      "cost": 300,
+      "name": "Rod of Covenant",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "Resembling a fancy spear, it is capable of releasing a blast of eldritch energy from its tip that can melt even a Necron in a single blast, and reduce an organic being to nothing but ash. It also generates an energy field that allows it to be used in melee similar to a Power Weapon. A favored weapon of Triarch Praetorians.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 17,
+      "cost": 300,
+      "name": "Tesla Carbine",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "The only infantry-sized Tesla Weapon, this large gun fires arcs of living lightning that leaps to other foes from the target, searing flesh and melting armor. The tesla bolts feed off of the energies released in destruction, so every consecutive attack becomes even more dangerous.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 18,
+      "cost": 300,
+      "name": "Solar Staff",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "It burns with the light of truth, and in its presence all falsities are driven away. Set loose, it will blaze with light as though a new sun was born, driving away darkness and blinding whoever was unfortunate enough to be looking that way... or even be looking at anything at all while nearby. Less aggressively, people in the presence of the Solar Staff are incapable of lying. It functions via the use of the Solar Pulse technology.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 19,
+      "cost": 400,
+      "name": "Triarch Stalker",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "Resembling an enormous mechanical spider, it is a walking vehicle rather than an anti-gravitic one, due to the traditions of the Triarch Praetorians who typically pilot them. They are much faster than they look, and can cover all terrains. They are dedicated tank-hunters, able to outflank enemies and utilize its Particle Shredder or its Heat Ray (which utilizes the power of fusion reactions to unleash devastating beams or cones of heat) to take out other vehicles. Its limbs are also excellent should enemies get within close range, being razor-sharp and capable of tearing through most armor. It can also transmit targeting data to allied forces to increase their accuracy, making it more effective when working together with other units.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 20,
+      "cost": 400,
+      "name": "Timesplinter Cloak",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "A defensive tool of the Chronomantic discipline, this cloak encases you in shards of crystallized time; each of these splinters will completely stop any attack not landed during the split-second formed in another moment. Essentially, it requires any attack that would destroy the shard to hit it during a different moment than the attack would normally land, making a defense not only immune to mundane attacks, but also rendering the user unable to be harmed by temporally-altered attacks unless the attacker knows the exact moment in time that the Timesplinter Cloak is keyed to. However, maintaining this defense is highly energy-intensive, and it cannot be kept on at all times.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 21,
+      "cost": 400,
+      "name": "Phylactery",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "A Phylactery is a small item containing a number of Canoptek Scarabs that focus on repair; these highly-specialized machines will emerge when you are killed and fix up your body. No matter the composition, size, or nature of your form, or how you died, the Scarabs will still repair you, building an entirely new body atom by atom if necessary. However, they can only bring you back once every decade, or once per jump, whichever comes first.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 22,
+      "cost": 400,
+      "name": "Gloom Prism ",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "A piece of advanced techno-sorcery specifically built as part of the Necron’s war against the Warp itself, it creates a zone that negates the powers of the supernatural, such as the abilities of Daemons and Psykers.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 23,
+      "cost": 400,
+      "name": "Chronometron",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "An advanced piece of equipment typically reserved for Necron Lords, it allows you to move slightly out of time, giving you a ghostly image and letting you act as though you were going normal speed while the world around you moves slower.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 24,
+      "cost": 400,
+      "name": "Warscythe ",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "Not only is the Warscythe another fractal edged blade capable of slicing through any known material, this vertically-aligned blade has heavier mass and produces an entropic energy field, causing it to inflict more damage apart from the perfect cut. Furthermore, a side effect of the entropic energy field has turned the Warscythe itself effectively indestructible, requiring the absolute extremes of force to so much as scratch it.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 25,
+      "cost": 400,
+      "name": "Transdimensional Beamer",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "Normally used to get rid of debris or failed experiments, this weapon quite simply shifts the target into another dimension. Without Necron technology, there is no method of returning from this dimension, essentially making it a death sentence.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 26,
+      "cost": 400,
+      "name": "Staff of Stars",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "The staff of stars closely resembles a Staff of Light, but has no ability to absorb energy or fire lightning. Instead, it unleashes flurries of neutron-orbs to decimate enemies.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 27,
+      "cost": 400,
+      "name": "Orphaned Godling",
+      "source": "40k Necron Jump",
+      "description": "There were many C’tan, and it seems one was overlooked by both its own kin and the Necron alike. Whether you stumbled upon their sealed away vessel or discovered it in it’s native form and constructed one yourself you have what is effectively an infantile and very weak C’tan that has attached itself at the hip to you. In contrast to the malevolent natures of its kin it seems to possess the naivety of a child despite its still alien mind. With it’s living metal form constantly restructuring as it learns, gains experience, and develops currently it’s only core trait it having irrevocably imprinted on you for some reason or another, seeing you as something similar to a beloved parent. Hanging onto your every word and desiring to please and emulate you, it begins only as strong as a powerful psyker of one of the lesser races. It’s raw potential is possibly unmatched, and given enough time and sustenance it will grow rapidly (by the standards of the C’tan at least, still requiring potentially thousands of years and incredible amounts of energy in even the most ideal circumstances) into a rival of the mightiest of the Star Gods.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 28,
+      "cost": 400,
+      "name": "Precious Materials",
+      "source": "40K Necron Jump",
+      "description": "Plying their trade requires that a Cryptek have access to the needed materials and resources to perform their technological miracles, a need which often has them lured to a Lord or Overlord’s service with promise of first pickings from what a Tomb World has available. With this you no longer have to worry about such things. You now have a limitless supply of all the resources a Cryptek would requires. While this won’t include things that are truly unique in this universe anything else you have in limitless supplies. From the minerals and metals used to construct Necrodermis, limitless quantities of Blackstone, to even the harnessed singularities and fragments of stars used in some of the most devastating weapons the Necron might field. So long as it is something that might be harvested in this world that the Necron have access to you never need fear lacking any of it. These may be summoned at will into your warehouse or elsewhere for your needs, or funneled into any building, workshop, or other base of operations that you wish.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 29,
+      "cost": 400,
+      "name": "Enslaved Godling ",
+      "source": "40K Necron Jump",
+      "description": "This odd handheld device is a Tesseract Key, a gateway into an extradimensional prison that houses one of the shattered shards of the Star Gods. Activating it will summon the Shard forth where it will faithfully and unerringly obey your commands, its control and loyalty effectively assured by some strange means. When it is either done with whatever tasks you have set it, destroyed, or simply recalled it will return into the Key to await your summons again, though complete destruction will require a day for its essence to reform. The exact nature of the shard and which C’tan it is from is up to you, though it will not be any more or less powerful regardless of what you choose. If you pay an additional 200 points that may be discounted along with this option then instead it is a Transcendent Shard, free from the technological shackles that would otherwise be required and will function the same except into regards of its vastly greater power. Regardless you have a piece of the Star Gods bound to your will and your will alone. May your enemies know the horror of its wrath.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 30,
+      "cost": 400,
+      "name": "False Gods –",
+      "source": "40K Necron Jump",
+      "description": "Each of the C’tan is known for the unique mien and nature they bore, each of them expressing their physical godhood in their own manner once leashed to a material vessel. These expressions of their nature separated them and their unique capabilities beyond the basic qualities of their kind. You may choose a similar nature and specialty and all your powers related to it will be magnified above and beyond their normal level enough to render you an order of magnitude more dangerous and capable when operating within your specialty. Even powers other than your C’tan nature may be affected this way, adapting and shifting them towards whatever nature you choose here. From the manipulations and disguises of the Deceiver, the merciless inevitability of death made manifest in the Nightbringer, to the Endless Swarm or Worldshaper, you have your own place among your kind’s twisted semblance of a pantheon.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 31,
+      "cost": 400,
+      "name": "Anomalous Phenomenon ",
+      "source": "40K Necron Jump",
+      "description": "Even the most primitive necron technology is miraculous to the lesser races, but even to the Conclaves there are countless unique feats of techno-sorcery engineered from the many strange and unique phenomenon that riddle the galaxy. From strange materials that should not have formed naturally coaxed into works of genius to the unique radiations of an individual star integrated into an entire dynasties’ weaponry. You have a special insight and keen intuition that allows you to quickly and steadily examine and come to understand any such things you may encounter. Beyond just allowing you to grasp the principles behind them you simultaneously divine how to integrate those discoveries into your creations in ways which drastically increase their effectiveness or replicates the unique properties you have observed. Even the utterly alien and indecipherable is laid bare in time where even others of your kind would be left struggling. The Necron have faced uncountable miracles and terrors, and do not let timidity stop them from harvesting their bounty.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 32,
+      "cost": 400,
+      "name": "Chariots of Lords",
+      "source": "40K Necron Jump",
+      "description": "The War Engines of the Necrons are testaments to their glory and wrath in equal measure. You’re one of the ones whose expertise is relied upon to build and service such devices, from the humblest Tomb Blade, the shrieking Doom Scythes, the great Monoliths, to even the vast battleships that serve to scour the cosmos of the empire’s enemies. You could easily engineer and direct the construction of all the typical patterns and even design new ones as your intellectual pursuits and the whims of Lords might dictate. Including the secrets of Inertialess Drives, Eternity Gates, and all similar technology your creations will reach across worlds and stars and prove the reach of the Necron is inescapable.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 33,
+      "cost": 400,
+      "name": "Canoptek Spyder ",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "Not all troops in the Necron arsenal were once Necrontyr. The Canoptek constructs bear the distinction of being entirely robotic in nature. One of the most important of these constructs is the Canoptek Spyder, meant to oversee Necron tombs while its inhabitants sleep. To aid in this purpose, the Canoptek Spyders are able to manufacture swarms of Canoptek Scarabs and direct them towards intruders, ripping them to shreds before they even have a chance to scream. Additionally, they are capable of repairing Necrons who are damaged beyond even Necrodermis’ ability to repair.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 34,
+      "cost": 400,
+      "name": "Monolith​",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "A glorious war machine by any measure. A Necron Monolith is a gargantuan behemoth of death and destruction, each blast of its Particle Whip leaving mayhem in its wake. Additionally, it comes with a complementary batch of Necron Warriors, prepared to disembark the craft to mop up whatever was lucky enough to survive the carnage.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 35,
+      "cost": 400,
+      "name": "Way of the Void Dragon​ ",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "Technology is but one facet of the Materium, but you are its master. The Void Dragon’s grasp of technology was the very inspiration of the Adeptus Mechanicus, and you retain a similar level of skill. Imperial Guardsmen will flee in terror as their tanks turn against them, the once loyal drones of the Tau will gun down their owners without hesitation, and you will laugh all the while.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 36,
+      "cost": 400,
+      "name": "Play the Game​",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "The politics of the Necron Dynasties are as vicious as they are petty. However, as the voice of the Silent King you must dig down into the muck. Fortunately you are quite skilled at it. You are such a master of court intrigue that the most devious Imperial nobles would take notes, your schemes not even being noticed until their victims cannot escape.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 37,
+      "cost": 400,
+      "name": "Vargard’s Spirit ",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "While most of your Necron minions will be non-sapient and fully dedicated to following every last order, there are still several Necrons below you who retain their free will. The Lycheguards, Deathmarks, and Vassal Lords can prove far less pliable than the average Warrior. Now you need not worry about any form of betrayal, as your minions are loyal to the point of death and beyond. They will never betray you through their own will, and hacking, brainwashing, or outright possession are off the cards as well. Do note that this does not protect you if you force them into a position to defend themselves.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 38,
+      "cost": 600,
+      "name": "Veil of Darkness",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "Along with the Phase Shifter, this is one of only two Necron artifacts that will become a part of your body once installed and cannot be removed. In terms of results, it is very similar to the teleportation technology sometimes used by the Imperium or Eldar; unlike theirs, it is genuinely instantaneous, and functions by summoning darkness that twists space itself to deposit you and your nearby alliesin another location.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 39,
+      "cost": 600,
+      "name": "Triarchal Menhir",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "Do keep that you have these secret, will you? They’re supposed to be reserved to members of the Triarch. These large floating pillars hold large green spheres, the uppermost one of which is an Annihilator Beam that can completely remove a target from existence. They have a limited artificial intelligence that ensures that they act according to your will and desire.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 40,
+      "cost": 600,
+      "name": "Sceptre of Eternal Glory",
+      "source": "Warhammer 40,000 - Mechanicus",
+      "description": "This staff contains within it a shard of the C’tan known as The Burning One... or rather, the Silent King Szarekh’s does. Yours, however, is just as capable of releasing bursts of almighty flame on a grand scale, but is curiously empty—no doubt a trick of your Benefactor. However, if you encounter a being capable of being confined like the C’tan were, and manage to force it into the Sceptre, then you will likewise be able to draw upon its power to your own whim.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 41,
+      "cost": 600,
+      "name": "Galactic Wonder ",
+      "source": "40K Necron Jump",
+      "description": "From the great Orrery that may prune the very stars, to the Dyson Sphere built around a shattered piece of a Star God that houses the vast and every growing collection of the infinite there are wonders incredible in their scope and majesty that still display what the Necron at their ascendency were capable of. You seem to have one of your very own, whether it is one of these or more likely something wholly unique you have some grand construction that stands as one of the great wonders of the entire galaxy, nearly unmatched completely within the scope of its purpose and design. Whether you too seek to collect every bauble and treasure you can find, to shatter stars, or countless other incredible purposes you may choose anything if it is reasonably within the grasp of the Necron at their height when it was engineered. It will follow you into future worlds in whatever manner you see fit, as dictated by its nature and your personal circumstances.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 42,
+      "cost": 600,
+      "name": "World Engine ",
+      "source": "40K Necron Jump",
+      "description": "Of all the constructions of the Necron that humanity encountered there is one that perhaps best demonstrated their power to the Imperium of Man. The planet sized artificial world they named the World Engine. Once awakened by a Lord who had overthrown the previous ruler it was sent to destroy and conquer in the name of expanding his empire. Its weaponry was able to scour entire worlds clean of any life, all while safely protected by void shields so powerful that none of the Imperium’s weaponry was able to so much as damage them. Combined with its countless arcane countermeasures that saw entire teams of terminators lost from attempts to teleport in, it was only the ludicrous sacrifice of the entirety of the Astral Knights along with their battle barge that finally bought them the chance to take down its shields and allow cyclonic torpedos to end the menace, but not before countless lives and entire worlds had already been lost. Unfortunately for them you possess another one of these mega-scale war machines, waiting in a strange dimensional space for you to call it into reality at your will. Its mechanisms also allow you to transport yourself and any forces with you into it at a thought, and it otherwise acts as an entire mobile Tomb World fit to lay siege to entire systems and potentially bring entire sectors to heel with its power. Should it be destroyed you may call it forth once more every ten years or after you have entered a new jump, and it will retain any changes you make that you wish it to. It comes with the schematics and designs for you to potentially engineer more should you have the means.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 43,
+      "cost": 600,
+      "name": "God Breaker",
+      "source": "40K Necron Jump",
+      "description": "To spend all of eternity locked away in soulless unfeeling husks of metal still leaves your kind better than the defiled wretches of Chaos or the extinction found in the ravenous hunger of the C’tan, and perhaps it is only fitting that they are the only forces that your kind call true enemies. You one of the minds whose prowess enabled the humbling of the C’tan and the design of the technologies that even now fend off Chaos at the Eye of Terror. When faced with the godlike beings or supernatural phenomenon you have the impossible brilliance to swiftly understand them and create countermeasures or weapons to oppose or thwart them. While this requires time, effort, and resources matching the scale of your opponent you will find yourself swiftly uncovering and mastering the needed esoterica to engineer entirely new technologies and fields of science, forging the necessary devices and constructions, all with a surety that the result will be something that will humble gods. From the pylons that deny Chaos hegemony, the weapons that scarred the universe and broke the C’tan, and the prisons that enslaved their remains so long as you live no titan is truly safe. Lesser races shall kneel at the feet of gods, yours shall laugh victoriously on the dirt of their tombs.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 44,
+      "cost": 600,
+      "name": "Monolithic Machines",
+      "source": "40K Necron Jump",
+      "description": "Among the works of your people are machines that darken the entire sky with their grandeur and even machines such as an entire artificial tomb world that sailed the stars as a planet scale superweapon. You are a savant and genius at the engineering and creation of such works, able to scale your sciences and discoveries to sizes where any other would be humbled merely trying to grasp the scope of such an endeavor, let alone actually complete such a thing. So skilled are you that such large-scale designs are always perfectly functional and never suffer either from the shame of such a thing failing or falling apart, or the sorts of catastrophes that the timid would raise as evidence of divine punishment for your hubris. You are among the Crypteks who leashed stars into Aeonic Orbs to scour worlds, raised entire mobile complexes such as the Abbatoirs and Megaliths, and masterminded the construction of the Canoptek constructs who stand in answer to the laughably named Titans of your enemies. Let them look upon your works and despair.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 45,
+      "cost": 600,
+      "name": "Wisdom of the Ancients ​",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "Necron technology is beyond all contenders, comparable to the greatest sorceries of the organics. To change the molecular composition of objects with specific soundwaves, spread madness through the enemy ranks with swirling mists, and manipulate time itself are but a few examples. True heights reach into unbelievable levels, things that violate all laws of nature and logic. It would take a truly brilliant mind to master all this technology, to understand and improve it. A mind such as yours, for example. You have the skills and raw intelligence needed to unravel the greatest, most advanced technologies of your ilk. Not only can you perfectly build and repair Necron technology, you can also adapt it to all sorts of purposes, come up with new tech on a similar level, and even improve the technology. This talent carries over to all forms of technology in future jumps too.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 46,
+      "cost": 600,
+      "name": "Taming the Untamable",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "The warp is a chaotic, disturbing thing, anathema to the cold order of your technology. It’s a constant struggle, but one which you can now win. Whenever faced with things ‘against the natural order’, like the warp, psyker powers or magic, you find yourself virtually impervious to their powers. Daemons fall before you, warp storms fail to affect your ships, and Psychic assaults break at your mind’s shields. Nothing less than an Alpha level psyker can affect you, and their efforts are barely noticeable. This covers you to the same extent for all other sorceries and magics, including those in future jumps. You can tune this effect to let any sorceries you want affecting you through.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 47,
+      "cost": 700,
+      "name": "Biotransference Protocol ",
+      "source": "Generic Warhammer 40K: FanFiction",
+      "description": "Having this in your possession will make you the greatest ally of the Necrons or their greatest foe. You have acquired the technology and blueprints to perform the biotransference protocol. This is the ultimate goal of the Necrons as they wish to return to the fleshy bodies. The equipment comes with everything necessary to both undergo and reverse the process for any species.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 48,
+      "cost": 800,
+      "name": "Necron Tomb World ",
+      "source": "Generic Warhammer 40K: FanFiction",
+      "description": "A Necron Tomb World is considered by many to be among the most dangerous things you can find in the galaxy. If for no other reason than the fact it means that there are likely a few billion Necrons warriors sleeping beneath your feet. Considering how terrifying most people consider them, obviously you want one. This tomb world has recognized you as its commanding lord. All forces in the world will obey you, no matter what. It will come equipped with approximately two billion Necrons and all of the equipment needed to supply their vast army. It will also possess a small fleet capable of moving all the Necrons on the planet if you wish to take the forces elsewhere.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 49,
+      "cost": 800,
+      "name": "Shattered But Whole",
+      "source": "40K Necron Jump",
+      "description": "In the final moments of the War In Heaven the Silent King used terrible weapons to kill the unkillable, shattering the C’tan and scarring the very laws of reality itself in the process. That they could only be shattered instead of cast into true oblivion is testament to their eternal nature, and through either some strange affinity or some quirk of circumstance you seem to have made this shattering a boon instead of something forced upon you. Whenever you would be killed or destroyed you may choose instead to fracture into many smaller but still whole pieces of yourself, each of them carrying fragments of your power and nature and preserving it in the face of otherwise certain destruction. These duplicates are each you for all intents and purposes if diminished, possessing your mind and memories, skills, and acting upon your desires and goals without any risk of deviation or disloyalty. Their exact number will depend equal parts on your power, the scale of your damage, and personal preference. Regardless after their initial vulnerability they will be able to join back together in order to gather your scattered self and restore you in full. Any fragments that are killed or destroyed will see their portion of your power lost for a time, but so long as even one remains anything lost this way will slowly grow back either in you or the other fragments, ensuring that so long as even one remains your full glory will never be truly lost. You may also choose to fragment either parts of yourself or completely at will, creating independent if lesser selves that may act elsewhere in your stead with some portion of your power, in which case you or they may disband themselves at will and restore what you put into them regardless of the distance between you. When even the smallest piece may restore the whole, what hope do even the Necron have of destroying you. They already failed once.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Undead",
+      "__line": 50,
+      "cost": 800,
+      "name": "C'tan Shard ",
+      "source": "Warhammer 40,000: Necrons",
+      "description": "​Take heed, for you are one of the Star Gods who ensured the damnation of the Necrons in the first place. Your power was once capable of destroying entire solar systems, and even in your weakened state you are a force to be reckoned with.",
+      "chapter": "The Undead"
+    }
+  ],
+  "15": [
     {
       "__source": "The Codex Celestial Secundus by Gothicjedi666 - The Xenos",
       "__line": 1,

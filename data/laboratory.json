@@ -2167,6 +2167,728 @@
   ],
   "4": [
     {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 1,
+      "cost": 0,
+      "name": "Jumper Museum",
+      "source": "Megamind",
+      "description": "A whole museum dedicated to you and your adventures, in the form of a warehouse attachment. If you don’t have a warehouse or something equivalent, you can either attach it to another property or access it through a portal that you can open up at will and wherever. The exact size and contents of this museum depend on you and your chain. It’ll be a tiny place with a handful of exhibits on your life prior to your chain if you’re just starting out, while picking it up 1000 jumps in will make it an absolutely titanic structure where someone could probably live their whole life without ever finding the entrance again. It grows as you go about your adventures, forming new exhibits with each new world and notable achievement, though you can choose to exclude certain things. You’ve also got a choice of how the museum covers your exploits, whether you want it to be a loving reminder of your heroism, a fearsome recounting of your villainy, or something else. Optionally includes a gift shop and snack bar, neither of which charge you or run out of stock",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 2,
+      "cost": 0,
+      "name": "The Game",
+      "source": "Stargate Atlantis",
+      "description": "A pair of Ancient ‘game’ consoles, which contains a Civilization-style RTS game where the players take on the roles of Oracles guiding their respective nations. It has a level of detail totally beyond any game the Tau’ri have – a level of detail that would make one wonder if the nations were more than just simulations. Fortunately these particular consoles are not linked up to a series of satellites over a distant planet... really. Multiple purchases can be networked together.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 3,
+      "cost": 0,
+      "name": "Throne of Salvation",
+      "source": "Warhammer 40k - Black Crusade",
+      "description": "The Galaxy is quite large despite the ability to travel through the Immaterium. It’s filled with stars, and each soul that inhabits it are like tiny fires that struggle to remain alit in the face of horrific dangers that stem from the Xenos or the forces of Chaos. Yet their fires will fade, and you must ensure that at least some of them survive. You require a vantage point to see the bigger picture, and so your throne awaits to grant you true vision. Magnificent and massive, this seat shines a brilliant gold while sitting atop a large set of stairs. This throne and the stairs themselves are etched with the countless battles you have fought, and the things you have given up for the good of Mankind. When they see this throne, they shall never question your love for them. If you have a particular piece of furniture or a prior throne, you may import it into this option.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 4,
+      "cost": 0,
+      "name": "Security Scanner ",
+      "source": "XCOM - Enemy Unknown",
+      "description": "With mind control, shapeshifters and who knows what else a potential threat, not to mention invisible Seekers, it makes sense to include scanners at each entrance. They will alert you if any aliens or strange technology try to enter, as well as identifying mind control.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 5,
+      "cost": 100,
+      "name": "Apartment ",
+      "source": "All-Star Superman",
+      "description": "Just a city boy, born and raised in Metropolis...oh, sorry. This is a simple one-bedroom apartment in a populated city of your choosing, with all the rent paid off by a mysterious benefactor and all the utilities you need for day-to-day living - heating, water, a stocked fridge, the works. Not bad, right?",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 6,
+      "cost": 100,
+      "name": "Colony Boarding House Key",
+      "source": "Ghosts of Mars",
+      "description": "A key to a home for someone living on the cheap. It is a tiny bedroom without much room, but it is a great place to hide and rest if you are into more “unsavory activities.” Comes with a basic cot, mini fridge, a basic computer, and a hotplate to cook cheap meals.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 7,
+      "cost": 100,
+      "name": "The Bar",
+      "source": "Mass Effect - Andromeda",
+      "description": "When the going gets tough, the tough...go out for drinks? You have a bar full of drinks manned by a skilled bartender, that the people working for you can gather at, wind down, have a good time, and maybe let slip how they feel about how things are going. The selection is constantly refilling, and both the drinks and the bartender’s skills expand/update as you and your people encounter new things. Find a plant that smells good? It’ll be a great garnish. An off-duty soldier discovers a hole-in-the-wall with a bartender with a bunch of new drink recipes? Your person at the bar will rapidly learn how to make them, with equal skill. They’ll also be very good at dispensing advice and “overhearing” conversations, and will relay intel to you. Lastly, as a side benefit of owning place, you get free drinks.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 8,
+      "cost": 100,
+      "name": "Loft",
+      "source": "Megamind",
+      "description": "A frankly spacious and luxurious apartment with a great view of the city. It comes furnished to your standards, doesn’t cost anything to keep, and even cleans and organizes itself when you aren’t looking.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 9,
+      "cost": 100,
+      "name": "Lantean Control Chair ",
+      "source": "Stargate Atlantis",
+      "description": "Allows a person sitting in it to mentally control any technology hooked up to it - such as a starship or a defense network. No need for invasive cybernetic implants or cables jacking into your head - just sit in the chair and let your mind do the controlling. Such chairs are normally locked to the ATA gene, but you can lock this one to whatever conditions you like. As a special offer, you can also (dis)connect this particular chair to anything you bought with CP just by picking it up and putting it in or on that thing.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 10,
+      "cost": 100,
+      "name": "Augur Arrays",
+      "source": "Warhammer 40K - Black Crusade 3",
+      "description": "Forewarned is forearmed, and anyone who tries to refute that is a moron who deserves to be strapped to the front of a Chimera. Alas, not every fortress is equipped to provide said forewarning, and it can lead to a cruel fate when an ambush eliminates a large portion of the personnel on site. By salvaging and installing various items along the fortress, you’ll attain powerful arrays capable of scanning a massive portion of the planet along with scanning anything in orbit. The enemy will need to try rather hard to avoid you with something like this.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 11,
+      "cost": 100,
+      "name": "Orbital Defenses",
+      "source": "Warhammer 40K - Black Crusade 3",
+      "description": "The world of Molech had a numerous amount of weapons in orbit, ranging from macrobatteries to missile pods to lance weapons and other wonderful tools of mayhem to keep itself secure. While you’re working on the planet surface, there’s nothing saying you can’t have your ships in orbit working on those defenses to get them back up and running again. Whether it’s reconstructing them or simply reprogramming them for a new master, eventually you’ll be able to at least fend off enemy ships this way.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 12,
+      "cost": 100,
+      "name": "Teleportarium",
+      "source": "Warhammer 40K - Black Crusade 3",
+      "description": "Getting to places in your base can take an awful amount of time, especially if it’s larger than normal. In the beginning moments of a battle, reaction speed can determine the entire flow and quite possibly the outcome as well. Hence, this ancient technology is found and installed into your fortress in multiple parts so that your forces and operators can appear anywhere in the base on a moment’s notice. Never be caught flat-footed again.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 13,
+      "cost": 100,
+      "name": "Jumper Cave ",
+      "source": "Young Justice",
+      "description": "That’s right; you too can own your very own Batcave! Located under any one property you buy or have brought here (so long as it’s stationary; if you don’t have any property then you just have a cave somewhere) is your very own subterranean lair, with stalagmites, stalactites, hordes of bats you can rile up, and of course a deep pit. Furnishing it will be up to you- all of Batman’s trophies and equipment didn’t just show up, after all. Another feature of the Jumper Cave is that it allows you to “link” your properties together with subterranean caves, so long as you place them relatively close together. The Jumper Cave will retain modifications with the exception of expansion, although you can even things out a bit; can’t have you hollowing out the Earth to fit in more secret lair, can we?",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 14,
+      "cost": 100,
+      "name": "Trophy Room",
+      "source": "Young Justice",
+      "description": "Purchasing this adds a room in your warehouse with several cabinets, display cases, and bookshelves for displaying your various collections and items, as well as ample space for anything else you may wish to display, including statues and paintings. In addition, you can choose to purchase this again to gain any one item from each previous Jump that you’ve completed for display purposes only. Attempting to use it for anything besides display purposes will cause that item to disappear in a puff of smoke and become lost forever. If you’d prefer, you can instead choose to receive expertly made artwork that’s related to the setting in some way. Seems to grow slightly with each completed Jump.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 15,
+      "cost": 1000,
+      "name": "World Engine",
+      "source": "40k Necron Jump",
+      "description": "Of all the constructions of the Necron that humanity encountered there is one that perhaps best demonstrated their power to the Imperium of Man. The planet sized artificial world they named the World Engine. Once awakened by a Lord who had overthrown the previous ruler it was sent to destroy and conquer in the name of expanding his empire. Its weaponry was able to scour entire worlds clean of any life, all while safely protected by void shields so powerful that none of the Imperium’s weaponry was able to so much as damage them. Combined with its countless arcane countermeasures that saw entire teams of terminators lost from attempts to teleport in, it was only the ludicrous sacrifice of the entirety of the Astral Knights along with their battle barge that finally bought them the chance to take down its shields and allow cyclonic torpedos to end the menace, but not before countless lives and entire worlds had already been lost. Unfortunately for them you possess another one of these mega-scale war achines, waiting in a strange dimensional space for you to call it into reality at your will. Its mechanisms also allow you to transport yourself and any forces with you into it at a thought, and it otherwise acts as an entire mobile Tomb World fit to lay siege to entire systems and potentially bring entire sectors to heel with its power. Should it be destroyed you may call it forth once more every ten years or after you have entered a new jump, and it will retain any changes you make that you wish it to. It comes with the schematics and designs for you to potentially engineer more should you have the means.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 16,
+      "cost": 1000,
+      "name": "Death Star ",
+      "source": "Star Wars Movies Compilation - The Star Wars Saga",
+      "description": "Referred to as the Ultimate Weapon the Death Star is a moon-sized, deep-space mobile battle station constructed by the Galactic Empire. It is designed to fire a single planet-destroying superlaser powered by massive Kyber crystals which would destroy any planet targeted. The Death Star can be placed within a warehouse extension perfectly sized for it and the station is capable of creating doorways into any of your warehouse extensions and rooms with a Toggleable setting anyone who enters them from the Death Star itself having their perception altered so that they believe they are still within the Death Star structure.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 17,
+      "cost": 1000,
+      "name": "Lantean City Ship ",
+      "source": "Stargate Atlantis",
+      "description": "A vaguely snowflake-shaped city-like structure three to five kilometres in diameter, built to be a true hub of an advanced starfaring civilization. This one isn’t the city of Atlantis, but instead another City Ship of similar design that can be made functional with only a little bit of work – perhaps mothballed on, about, inside or under another lost world when the Ancients left the Pegasus galaxy. Includes three half-full ZPMs (enough for plenty of fighting and cruising around, but you’ll still want to avoid taking on the Wraith wholesale), gravitic sublight engines easily capable of interplanetary travel (including landing and taking off again), inertial dampers that can handle such travel, an stonishing intergalactic- class hyperdrive (three million light years in a few hours), sensors that can sweep an entire galactic sector (including in hyperspace), a small complement of functional drone missiles and last but not least an adaptable shield that can completely block just about anything (or be used as a cloaking device) for as long as you’ve got the power to burn. Despite all this it is not a warship – by Lantean standards – as it has all the facilities necessary to support half a million Lanteans in luxury. There’s even enough space for a Daedelus Class or two to land on it. Finally, this purchase also comes with its own Stargate, Ancient Knowledge Database and many, many hangars full of Puddle Jumpers.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 18,
+      "cost": 200,
+      "name": "Hall of Victories ",
+      "source": "Mass Effect - Andromeda",
+      "description": "You now have a place to show off your successes, and maybe even include those of your subordinates. Any time you or your subordinates have a noteworthy victory, there will be another display piece here going over what happened, and how you (or your subordinate(s)) were critical. You can open up this hall to whoever you wish, inspiring those who visit, improving your fame, and improving their confidence and belief in you. People who have heard of you because of your improved fame will be more open to listening to you. You can also choose specific things to display, such as trophies or prototypes, or maybe even holographic displays of the important men and women who call you boss. Post jump, this is either attached to your Warehouse and has an opening to the universe you are in, or you can choose to put it down somewhere.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 19,
+      "cost": 200,
+      "name": "Environmental Simulator ",
+      "source": "Orville",
+      "description": "This is a virtual reality system that uses force fields and holographic systems to simulate a real life environment virtually. The simulator is completely real and indistinguishable from reality and possess advanced safeties to prevent the occupants from being harmed, but can be disabled to harm the occupant or even kill the occupant. The simulator comes with an advanced processor that can adapt to the user’s needs in specified ways, such as training or going on diet. It can also realistically simulate a deceased person from their data alone such as a person’s text-messages, videos and photographs. It can also accurately predict what would have happened to the person’s life if major changes occurred, such as never meeting a boyfriend or losing a loved one. Finally, it has a program for assisting in the creation of custom simulations, such as editing a simulated individual’s personality or even the entire environment. Be careful though, the simulator is so realistic and adaptive that it could accurately simulate a world where a baby that was placed in the simulator could grow up healthy to make friends, marry and have children in the 1930s Germany. This comes with blueprints to make more Environmental Simulators.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 20,
+      "cost": 200,
+      "name": "Space Hulk ",
+      "source": "Planetary Governor jump",
+      "description": "An enormous, ancient and heavily damaged ship, known as a Space Hulk, is drifting aimlessly through this system, a mysterious and foreboding presence that looms in the emptiness of space. The Space Hulk's exterior is scarred and pitted from countless battles and collisions, and the twisted metal and debris that make up its structure seem to defy the laws of physics. The Space Hulk's interior is a labyrinthine maze of corridors, chambers, and rooms, some of which are still functional and powered, while others are shrouded in darkness and filled with danger. The ship's advanced technology is both awe-inspiring and terrifying, as they are often unpredictable and have been known to unleash sudden and catastrophic events. Despite its appearance, the Space Hulk is a tempting prize for those brave or desperate enough to risk exploring it. It is rumoured to contain vast treasures of lost technologies, ancient artefacts, and valuable resources. However, the ship is also known to be infested with dangerous creatures and hostile forces, both of which can be deadly to any unwary traveller who ventures inside",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 21,
+      "cost": 200,
+      "name": "AR Machine",
+      "source": "Red Dwarf",
+      "description": "Alternate Reality machine allowing for highly accurate simulation, comes programmed with the Camelot Game, Zero G Kickboxing and Jane Austin World.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 22,
+      "cost": 200,
+      "name": "Citadel of Jumper",
+      "source": "Rick and Morty",
+      "description": "You get your very own citadel of Rick, only in your honor. Unfortunately, or fortunately depending on the situation, this does not come with infinite amounts of copies of yourself, and is in fact empty of people. Still, you get the entire space station citadel for yourself with all of its Rick technology, only styled for yourself instead of Rick, that can teleport across dimensions and space.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 23,
+      "cost": 200,
+      "name": "Castle",
+      "source": "Smallville",
+      "description": "Not nearly as discreet as a farm, but a Scottish castle shipped over stone by stone and rebuilt as a mansion house with all the amenities does make for a more luxurious place to rest your head.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 24,
+      "cost": 200,
+      "name": "Golden Throne",
+      "source": "Star Wars - Sequel Trilogy ",
+      "description": "Going for the God Emperor vibe? Well I don’t judge. This throne also happens to be incredibly comfortable, and works well for really letting people know who’s in charge. With it comes a detachment of honor guards loyal to you and only you. They’re pretty much droids due to the fact that they do nothing other than guard and protect you, even going as far as to test your food. The guards, and the throne room appear at will on any bridge, or base that you command, and can be teleported when needed elsewhere. The guards may or may not have the personalities of the Pillar Men.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 25,
+      "cost": 200,
+      "name": "Manse",
+      "source": "Star Wars - The Force Unleashed",
+      "description": "Much like Senator Bail Organa you have a lavish penthouse suite or manor on a world of your choice. The home comes with all the items a person of your status would require and is maintained by a group of droid workers.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 26,
+      "cost": 200,
+      "name": "Casino ",
+      "source": "Star Wars Movies Compilation - The Star Wars Saga",
+      "description": "This fully automated high end casino can be imported into any jump setting with its appearance changing to match the jump setting. The casino will passively negate any attempts at cheating any money made through this venture is directed into your warehouse.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 27,
+      "cost": 200,
+      "name": "Safe House ",
+      "source": "The Boys",
+      "description": "You get a house in a secret location. The house is modest, but contains all utilities you’ll need as well as WiFi. The house will not have any paper trail that can be traced back to you and you can’t be tracked within 100 meters of the safe house.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 28,
+      "cost": 200,
+      "name": "Condo Apartment",
+      "source": "The Incredibles\r",
+      "description": "Situated in the city center, this relatively spacious modern style apartment has a two-person bedroom and hidden compartments for your Super Suit, city map, and other Super supplies.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 29,
+      "cost": 200,
+      "name": "\nOrbital Shipyard\r\n",
+      "source": "Warhammer 40K - Black Crusade 3",
+      "description": "The defenses in the orbit of the planet along with the defenses on the surface are powerful indeed, and it would take quite the massive fleet in order to break through. But you need to perhaps think a little further beyond the battle that is to come. It will be something of a close call, and no doubt these resources could have gone elsewhere, but you’ll be able to construct the facilities needed to create and produce new vessels with this investment. Perhaps in time, it will be your fleets that spread across the galaxy.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 30,
+      "cost": 200,
+      "name": "Knight Facilities",
+      "source": "Warhammer 40K - Black Crusade 3",
+      "description": "House Devine used to keep this world’s populace safe from the wildlife and any who may try to invade. For a time, it was the way of things for the Knights to provide for the people and be seen as saviors in kind. But the influence of Slaanesh saw to the seduction of this House to the side of Warmaster Horus, and thus the Battle of Molech was practically sealed. There are still remains and devices left behind from those bygone days, and should you commit enough resources you will find the means to create and maintain Imperial Knights of your own. They will be of great value in the future.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 31,
+      "cost": 200,
+      "name": "Training Room",
+      "source": "Young Justice",
+      "description": "Purchasing this adds a large room to your warehouse that allows everyone who willingly enters it to fight and train against each other without fear of death or permanent injury. In addition, it scans the brains of those who enter it and records their memories of those they’ve fought or met in the past, collecting a catalogue of opponents that the Training Room can simulate for training purposes. The room is capable of growing larger to fit larger combatants. The training room cannot be used for storage purposes.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 32,
+      "cost": 300,
+      "name": "Casino",
+      "source": "Fallout: New Vegas",
+      "description": "A casino thematically of your choice with an incredibly competent staff who you gel with excellently. It is already extremely popular, comes with a wide range of games, has enough armed guards to easily protect it, a stage with quality acts, suites to sleep in, an excellent restaurant and it even has seedier things to enjoy (i.e. chems, strippers and prostitutes) should you wish it to. Viva New Vegas.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 33,
+      "cost": 300,
+      "name": "Castle Last Name",
+      "source": "Girl Genius",
+      "description": "Castle Heterodyne, Wulfenbach... Well, why should you lack one? This is a proper spark’s fortress, a giant mansion-cum-castle exquisitely suited to be the seat of power for a major power. Not constrained by design in any way, you can have anything from an undersea base to a copy of the Master of Paris’s Awful Tower, but the basics remain the same in every case. Vast, palatial living quarters for you and hundreds of people, a small army of humans, constructs and clanks to make any would-be invaders regret being born, more stationary defences to help, some traps just for fun, and several sets of extensive, elaborate laboratories for use by you and any guests you might be entertaining. The Castle also has a vast, extensive set of facilities designed to be used to manage with clockwork precision any armies, territories, businesses, spy networks and whatnot one might have, along with dungeons, an extensive library, and all the other little things such places always seem to need.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 34,
+      "cost": 300,
+      "name": "Devil’s Mansion",
+      "source": "Underworld",
+      "description": "A gothic-style mansion identical to Ördögház [Hungarian for Devil('s) House] where you are the regent. While the original is on the Danube bank at the foot of the Pilis Hills you can choose its location at the beginning of every jump. Canon rooms include a foyer, grand salon, private suites, a cellar crypt, library and dojo. It is filled with mounted security cameras in rooms, blocks the sun from entering and is filled with the best fire systems that money can buy.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 35,
+      "cost": 300,
+      "name": "Museum",
+      "source": "Underworld",
+      "description": "Immortals have such a rich history leaving artefacts of the past. You own a museum that collects these historical objects for your pleasure and display. It begins as a single room but in time could rival the Louvre with experts of all fields.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 36,
+      "cost": 400,
+      "name": "Fortress of Solitude",
+      "source": "All-Star Superman",
+      "description": "Modeled after Superman’s personal retreat, like the Moon Laboratory can be anywhere within an isolated environment of your choosing so long as you’re capable of easily accessing it. Instead of being a center for science, it’s a fully isolated and self-sustaining living environment the size of...well, a Fortress. It has everything you need to live comfortably and an environment that is pleasing to any senses you have, whether super or even dimensional, letting you enjoy some peace and quiet...or whatever you find pleasing. Maybe with some time, you can spruce the place up? Any modifications you make to the Fortress and however you furnish it will follow you from this point on.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 37,
+      "cost": 400,
+      "name": "Fancy Tower",
+      "source": "Fallout 3",
+      "description": "Much of the Capital Wasteland is so... dirty. You cannot, in good conscience, allow yourself to continue living in such an environment. And now you don't have to, as this refurbished Pre-War hotel on par with Tenpenny Tower is perfect for a Jumper like you. Clean water, great food, actual plumbing and water heating, and enough space to house hundreds of people comfortably. The penthouse is all yours, and is the peak of Old World Luxury.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 38,
+      "cost": 400,
+      "name": "Schola Progenium",
+      "source": "Imperium Nihilus ",
+      "description": "While there are plenty of schools within the Imperium, for most people, the Schola Progenia will be the first thing they think of whenever the word pops up in their heads or in conversation. After all, when the Schola Progenia are ran by the Ecclesiarchy to teach and train the children of Imperial officials, why wouldn’t it be? And now, perhaps as a sign of the Ecclesiarchy’s trust in you, they have chosen to entrust you with an academy of your own, hopeful that you may be able to better mold the minds of the Imperium’s future. Either built into your Warehouse, one of your ships, or plopped down near your starting location, the Schola Progenium is already fully staffed and equipped, complete with guards, teachers, and of course, students. As the principal, you’ll be trusted by just about everyone within and that same trust makes it so very easy to mold their minds like clay, letting you impart upon them the lessons you wish for them to learn. Right now, you have around a thousand students and enough staff to watch over them, large enough to make an army of loyal soldiers. It may not be enough to create an empire of your own, but this is just the start and in time, you’ll be able to expand until your schola could become large enough to take in the students of an entire planet. In future worlds, the school shall follow you, placing itself in appropriate locations or within Your Warehouse if you wish otherwise.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 39,
+      "cost": 400,
+      "name": "Jumper Island",
+      "source": "Justice League: Unlimted",
+      "description": "Ever wanted your own private getaway that doubles as secret military base? Well now you can have it! This relatively small piece of land is modeled after the island used by the Blackhawks, a squad of ace fighter pilots who fought against the Axis in WW2. The island houses an airfield large enough for six fighter planes, a small harbor, some barracks, and a high-tech vault big enough to store dozens of artifacts and other valuable items. Additionally there are complex traps and robotic guardians designs to fend off unwanted visitors scattered all across the island, and the vault is rigged with a self-destruct device in case someone actually manages to breach it.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 40,
+      "cost": 400,
+      "name": "Tempest-class ",
+      "source": "Mass Effect - Andromeda",
+      "description": "You get a copy of the Tempest survey ship, and all ships of this type are meant for long-range, long-term exploration. It doesn’t have any weapons, but it’s got a research center, tech lab, bio lab, crew quarters, your quarters (which are the biggest on the ship), med bay, a vehicle bay, and a ODSY drive that’s nice and stealthy. It also somehow has an Internal Emission Sink stealth system, which is a classified stealth system developed by the Turian Hierarchy and the Systems Alliance. You will have to source your own pilot though: Kallo Jath may have helped build the Tempest-class ships, but he’s loyal to the one he made with his compatriots.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 41,
+      "cost": 400,
+      "name": "The SSV Normandy SR-1",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Congratulations! You’re now the proud owner of a near exact replica of a prototype military stealth frigate. She’s got guns, big honking engines, and she’s mean as all get out. Assuming a more advanced alien race doesn’t use her for target practice, of course. She’s also yours to customize. Change her name, her paint job, her decals, anything at all you want. Just be warned, if anyone realizes what you’re flying, they will ask questions. By default, she comes with a crew of LOKI mechs. They will... keep her operational, but don’t expect them to do more than the absolute bare minimum. I hope you’ve got a crew.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 42,
+      "cost": 400,
+      "name": "Normandy SR-2 ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "Soon to be one of the most iconic ships in the galaxy, this \"deep scout\" frigate was co-developed by the Human Alliance and the Turian Hierarchy, and upgraded by Cerberus. It's stealth system is the main selling point of this ship, storing any heat generated in lithium heat sinks deep within the hull. Twice the size of the original, it has many amenities that make it very comfortable for its crew while still being an effective ship. It is also open to installing an AI within, allowing it to effectively control the many systems within.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 43,
+      "cost": 400,
+      "name": "Jumpveria ",
+      "source": "OOC - Dr Doom",
+      "description": "Ah, what would you be without your people? This relatively small country makes up for its size with raw resources and devotion. The lands are filled with riches the rest of the world would rarely see themselves. The people are completely devoted to you, seeing you as a God King. Lastly, this comes with a castle as the core of your country, perfectly opulent for you.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 44,
+      "cost": 400,
+      "name": "The Invisible Hand",
+      "source": "Star Wars Movies Compilation - The Star Wars Saga",
+      "description": "This modified Providence-class Dreadnought is propelled by a triad of Creveld-4 radial ion drives with each equipped with emergency booster engines, the ship has a Class 1.0 hyperdrive generator and 10 supplementary Class 10.0 generators all together making it incredibly maneuverable. The Invisible Hand is armed with a pair of large forward-mounted heavy ion cannons, fourteen quad turbolaser cannons, twelve point-defense ion cannons, thirty-four dorsal-mounted dual laser cannons, and anti-aircraft guns allowing it to conduct orbital bombardments and easily defend itself from larger vessels and a fleet of smaller",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 45,
+      "cost": 400,
+      "name": "Prison Complex ",
+      "source": "Star Wars vs Warhammer 40k ",
+      "description": "Deep within the bowels of one of the Imperial ships orbiting Axum the Inquisitor Tahr Whyer built a hidden prison complex to hold some of the most feared enemies in the Imperium such as Iskandar Khayon of the Black Legion. This is a prison designed to hold any being. This prison will provide you with any tools needed to hold someone perfectly as long as you are capable of imprisoning them within. This prison will come fully staffed with guards and security systems to handle any prisoner. For example if you held psykers here then you would find that some Sisters of Silence would appear in your services. Lastly you will find that no one will be able to break into this prison unless you bring them in willingly.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 46,
+      "cost": 400,
+      "name": "Private Retreat ",
+      "source": "Darth Plagueis",
+      "description": "The galaxy is an unfathomably large area from arm to arm, consisting of too many stars and planetoids to count and twenty thousand years has proven to be far too short a time for civilisations to settle in many of these systems. You have hyperspace coordinates to an otherwise unvisited star system, around a planet of which is a habitable moon that you own. Whether it’s legally registered to you, a corporation in which you hold great wealth or completely off the galactic books; none care to contest your claim nor to investigate what you do with your property. The environment, flora and fauna, whether native or artificially wrought, are entirely natural at present and the only structures on the surface consist of luxurious accommodations for yourself and hundreds of high status guests. This alone is not an exceptional prize for a wealthy noble or plutocrat, let alone a Sith Lord, but you’re also well connected to various contractors willing to discretely build and supply nearly anything you desire for your world. Endangered, predatory species so that you may engage in the most primal of blood sports? A luxurious pleasure palace filled with the finest dishes, narcotics and slaves available in the galaxy? An immensely dangerous racing circuit for one of the most thrilling pod-race tracks this side of Coruscant? Almost anything can be supplied so long as you and yours could derive enjoyment or relaxation from it and these clandestine contractors seem to receive their ample payments without your own accounts shrinking in response. Should you tire of one configuration, just contact them again to remove or replace the facilities and it’ll be like the former had never been present.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 47,
+      "cost": 500,
+      "name": "Old Mansion ",
+      "source": "Batman Beyond",
+      "description": "A large comfortable home a little smaller than Wayne manor. Right now this place is a bit bare and dreary looking, but it comes with some basic furnishings for you and your companions, as well as heat, water, electricity, and other utilities that are paid for or supplied by a generous benefactor. Not impressed? Well fortunately for your there's more to this old place than meets the eye. Underneath the mansion is a secret lair equipped with a chemistry lab, engineering workshop, medical station, a high-end computer for scientific research and forensics, areas for weapons and martial-arts training, a large storage vault, and a vehicle bay that can fit something the size of a hovercraft. Can",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 48,
+      "cost": 500,
+      "name": "Lex Tower ",
+      "source": "Justice League Dark Apokolips War Gauntlet",
+      "description": "Once upon a time this was a vast corporate empire, now with one Tower remaining. Within are various pieces of weaponry and laboratories, guaranteed to boost anyone’s research by a noticeable amount. Occasionally one might find even notes of Lex Luthor himself for various subjects. It is guarded around the clock by lethal soldiers and fortified against attacks, all to protect the heart of this Tower. A Portal, leading directly to Apokolips. Post Jump the Portal can transport you to other planetary bodies.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 49,
+      "cost": 500,
+      "name": "The Destiny Ascension ",
+      "source": "Mass Effect - Jumpchain",
+      "description": "The single largest vessel ever created by the Citadel Races. It has the raw destructive might of, allegedly, at least twenty conventional Dreadnoughts. On top of that, its barriers are capable of resisting multiple hits by a Sovereign class Reaper, scoring dozens if not hundreds of kills on Geth vessels, and is unquestionably the single mightiest warship in the galaxy. In theory. In practice, it was the product of penis envy by a race who largely had forgotten the actual rigors of war for a long, long time. And, even worse, was as much a glorified art installation as it was an actual vessel. Bluntly, it is a massive target, obscenely expensive, lacks much in the way of agility, and is Perhaps the most poorly designed combat vessel in the Citadel Fleet. That doesn’t mean it can’t gut a dreadnought in a single shot, destroy individual Reapers in one on one combat, and probably crush entire fleets of conventional ships if it’s prepared.Just be ready to shell out every time you wanna so much as turn the lights on.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 50,
+      "cost": 500,
+      "name": "Asteroid M",
+      "source": "X-Men Evolution",
+      "description": "This floating isolated Asteroid is a sanctuary that was originally intended for mutants. For you however it’s a sanctuary of whatever you want it to be and will appear in later jumps at any location above the planet you’re on. It comes stocked with an empty fortress in the middle that you can do whatever with. You can choose whether or not it is visible to people as it can slowly follows wherever you go in the world should you desire it. Alternatively you can make it slam down onto whatever part of the planet it happens to be above at the time.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 51,
+      "cost": 500,
+      "name": "X-Mansion ",
+      "source": "X-Men Evolution",
+      "description": "You receive a copy of the X-Mansion that travels along with you is now yours. Everything is included here from the Danger Room, vehicles, cerebro, and everything else is now legally owned by you along with a secretive location in future worlds. Comes with a neat self destruct sequence for when you just want to burn everything to the ground.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 52,
+      "cost": 600,
+      "name": "Predator Mother Ship ",
+      "source": "Aliens vs Predator",
+      "description": "The Mother Ship is the Yautja’s primary method of transportation between worlds. Even compared to 24th Century FTL starships, it is blindingly fast – the Yautja have no need of hypersleep capsules when they cross the stars in days or weeks at the most while humans must sleep for months and years. This enormous vessel can carry a cadre of at least seventy predators, with room for training rooms and a large hold designed to contain a Xenomorph Queen to produce eggs for the hunting. This starship doesn’t have one aboard at the moment; no doubt your first Hunt will be to capture one. The Mother Ship mounts powerful plasma and laser weaponry for offense, while defensively it is guarded by a stealth field and a hull of d’lex metal. It also carries four short-ranged shuttles (without long-range FTL drives) and a number of drop pods to allow your hunters to insert onto a planet covertly.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 53,
+      "cost": 600,
+      "name": "Fortress of DOOM",
+      "source": "Doom Eternal",
+      "description": "Everybody needs a home. A place that they can rest, recuperate, and research before they go back out in the field. A place like the Fortress of DOOM. What is effectively a palace built into a large rock, this place is a space station that can reposition itself across the universe by using Makyr space-folding technology, and remains stationary otherwise. It comes with fabrication machines to forge personal equipment, a large bay to store machines like the Atlan, and even a section for your personal quarters that gives you a view of the world. Along with a prison for you to test your powers on demons and a portal device to send you anywhere you need, this place is a mighty hub that will serve you well.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 54,
+      "cost": 600,
+      "name": "Arrakis ",
+      "source": "Dune",
+      "description": "Did you want the planet Dune? Complete with Sandworms and Spice? Well, buy this and you get to keep your own copy of Arrakis from now on. Fremen included only if you want them. Otherwise, you can have the planet as it was when it was first discovered by humanity.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 55,
+      "cost": 600,
+      "name": "An Ark Mechanicus",
+      "source": "Generic Warhammer 40K",
+      "description": "An Ark Mechanicus is a vast Imperial starship that the ancient Mechanicum and the present-day Adeptus Mechanicus use to scour the stars for their ultimate holy grail, a working Standard Template Construct, and other forms of archeotech. Though these rare, nigh-mythical ships are seldom brought to battle, when they do enter combat they can bring to bear nearly impenetrable defenses and weaponry whose range and firepower puts even that of Imperial battleships to shame. An Ark Mechanicus is also outfitted with industrial capabilities rivaling that of many hive cities, with kilometer upon kilometer of manufactoria, refineries, crackling Plasma Reactors and laboratories, test ranges, chemical vats and gene-bays.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 56,
+      "cost": 600,
+      "name": "Mars, Your Home Away from Home",
+      "source": "Ghosts of Mars",
+      "description": "This is a complete, terraformed copy of Mars correct down to the smallest detail. You have the ability to survive on it, breathe oxygen, and build on its bare surface.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 57,
+      "cost": 600,
+      "name": "Heart of Gold ",
+      "source": "Hitch Hikers Guide to the Galaxy",
+      "description": "This ship can go anywhere it is theoretically possible for it to be. Unfortunately... it will do so by going through pretty much every other place that it’s more likely to be first and by causing a great many improbable things to happen along the way... but it should be exciting! Taking this means that you must take the Krikiters Drawback, since they’ll be trying to steal the bit of your ship that makes the Infinite Improbability Drive function. Don’t worry, theywon’t follow you into other Universes.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 58,
+      "cost": 600,
+      "name": "Shadow Broker Base",
+      "source": "Mass Effect",
+      "description": "A ship the size of a cruiser (less than a mile long) specifically built to deal with hazardous environments other ships cannot. Comes with a private army of Maintenance Drones to maintain it. Has large conducting rods that channel energy into giant hull-mounted capacitors if struck by lighting. There is a borderline artificial intelligence virtual intelligence in its private quarters with enough equipment to maintain a galaxy-spanning network of informants, contracts, and agents. Its ability to process information is quite frankly absurd. Your version of this base is space and faster-than-light capable, but only just. Has no weapons to speak of. Comes with two faster-than-light capable shuttles.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 59,
+      "cost": 600,
+      "name": "Garden World ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "You are now the owner of something highly contested over, a Garden World. These are planets that naturally have an ecosphere that can support a population. While these aren't normally given to singular individuals, this planet is legally under the control of your race's government, but you have been given free reign to do whatever you want. It's terrain, size, average temperature, orbital period, surface gravity, and whether it's colonized or not is all up to you, and it will inhabit a pocket dimension connected to your Warehouse, or it can be imported into future worlds.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 60,
+      "cost": 600,
+      "name": "Retrofitted Reaper Husk ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "It isn't unheard of for Reapers to fall in battle, it's happened countless times across the eons, but it always takes great effort to do so. But the question then becomes what to do with the corpse of these machine gods. Well, someone decided to turn this one into a fully functional ship! The only real difference between this and a live Reaper is that this one has no sentience, must be piloted by a full crew, and it no longer has access to Indoctrination. But other than that, it contains the same devastating weapons, powerful shielding, and self-repairing hull that the living Reapers enjoy.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 61,
+      "cost": 600,
+      "name": "Collector Base ",
+      "source": "Mass Effect Jumpchain",
+      "description": "Like the base Shepard (probably) is going to blow up in a couple of years, you are now in command of your own super sized space station. It has the facilities to dock and supply multiple collector cruisers, provide for an entire population of collectors, and all the facilities and technology the former Prothean, the Reapers, or the Collectors themselves possessed. It is accessed by a small, unobtrusive Relay located in a system only accessible by you, and can be fully and freely customized to your specifications one you access it. On board will be a population of loyal (if boring) Collectors of every kind with all the facilities needed to arm and supply them. It even comes with its own debris field filled with horrific surprises for free. Have fun being the third most powerful person in the Galaxy.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 62,
+      "cost": 600,
+      "name": "Collector Cruiser",
+      "source": "Mass Effect Jumpchain",
+      "description": "Second in advancement only to the Reapers themselves, this ship is as much a mobile hive as it is a ship of war. Utilizing advanced technologies, including some (non brainwashing) Reaper tech, it’s faster, better armed, better armored, and more sensitive than any other cruiser in the galaxy. Able to use esoteric sensors, possessing hyper efficient reactors, able to gut dreadnoughts, this is, unquestionably, one of the best ships in the galaxy. And, even though it lacks any real stealth capability, it still has an advanced electronic warfare suite, communications and sensor jammers, and even a seeker swarm that you can deploy in battle. Even better, you get a full hive of collectors to man and maintain it for you. They’re weird, but fanatically loyal and the Reapers can’t seize control of them unless you let them.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 63,
+      "cost": 600,
+      "name": "Lexcorp",
+      "source": "Something Unlimited",
+      "description": "Normally, the LexCorp would’ve been taken from you by the government after you were sent to jail, but, by taking this item, you’ll become the legitimate owner and commander of this group of multinational corporations headquartered in Metropolis once again. Furthermore, the LexCorp itself will follow you in your Chain, reappearing in future worlds you visit accompanied with its staff as well their buildings, sub-organizations and all of its resources. Its staff will count as your followers and will be completely loyal to you. The corporations will also have a team of skilled administrators and directors to lead it if you don’t want to worry about controlling them directly at all times. As advice, considering how bad your reputation is with the general people, it would be a good idea to choose someone else to be the public face and acting CEO of LexCorp, at least for now. Maybe Mercy would be the best candidate for this position considering she already has experience in being the CEO of LexCorp. As a bonus, the LexCorp’s main servers in its main building contains a complete database of almost every piece of technology and scientific breakthroughs developed by Lex Luthor and his team of scientists so far, including, but not limited to, high-tech battle suits/exoskeletons, Metallo’s android body (including its supposed upgrades), the Kryptonite-fusion engine that powered Lexor City, and even the dampening field used in the prison.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 64,
+      "cost": 600,
+      "name": "Collector's Guild Starship",
+      "source": "Star Trek - Lower Decks",
+      "description": "An automated ship which has an odd modular based design. Most of the modules consist of galleries housing a vast collection of rare and valuable items. The ship has a wide variety of eclectic defensive weaponry which is widely different on each module. The ship also has a small engine room set apart from the main hull capable of taking the ship into low warp speeds. As your collection expands new modules will be added to house your additions to your collection.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 65,
+      "cost": 600,
+      "name": "Pakled Clumpship ",
+      "source": "Star Trek - Lower Decks",
+      "description": "This is an enhanced starship used by the Pakled rebels that began as Mondor-type craft, but were heavily fortified with new stolen or salvaged components from over 30 species such as the Romulans, Klingons, Ferengi, Bajorans, and Arkonians. The ship can incorporate other vessels into itself by using its equipped mining arms and federation shipyard to ensnare, modify and install the new “salvaged ships”.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 66,
+      "cost": 600,
+      "name": "The Vin-pocalypse ",
+      "source": "Star Trek - Lower Decks",
+      "description": "An advanced Klingon Bird-of-Prey that was only at the prototype stage when it was stolen leaving it without an official class name. The ship possesses remote bridge controls, cloaking capabilities, and carries a boarding pod and enough Klingon armour and weaponry for a full ship's complement. The ship was heavily modified to become far more destructive at the cost of utility such as overcharging the ship's self-destruct system at the cost of the ship’s emergency power systems.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 67,
+      "cost": 600,
+      "name": "Lucrehulk-class Droid Control Ship ",
+      "source": "Star Wars Movies Compilation - The Star Wars Saga",
+      "description": "This ship acts more as a mobile space station with a central sphere which acts as the ship's bridge and reactor assembly. The major feature of this ship is that it can mass produce droids and is able to control them using its array of Broadcast equipment. This ship is able to mass produce basic B-1 Battle Droids, Vulture Droids, C-9979 landing craft, Multi-Troop Transports, Armored Assault Tanks and Platoon Attack Craft though they will not be fiatbacked.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 68,
+      "cost": 600,
+      "name": "Forge World",
+      "source": "Star Wars vs Warhammer 40k",
+      "description": "The forge worlds are the main fortresses of the Adeptus Mechanicus. They are responsible for producing all of the equipment used by the Imperium of Man. This can range from the mass produced lasguns used by the Imperium guard all the way to the massive battleships. By purchasing this you may acquire a forge world of your very own. This world will possess I-Maximus production levels which is the highest standard of the Imperium. The world will have the capabilities to produce anything, but it will have a notable speciality. For example if your forge world specializes in producing Astartes equipment then you could easily outfit an entire chapter in full wargear in a short time, but you would only be able to produce a small amount of starships in a short time. If you were specialized in ship construction however then you could easily produce a fleet in the same amount of time. There are no bad specialties, it simply depends on what you need at the time.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 69,
+      "cost": 600,
+      "name": "Daedelus Class Starship",
+      "source": "Stargate Atlantis",
+      "description": "Cruiser-Carrier. Though much smaller and much more cramped than the Aurora-class, it's got the advantage of Asgard energy weapons, shields, hyperdrive and beaming technology as well as a railgun point defense system and large hangars. Can be easily fit with a ZPM for a large boost in effectiveness but doesn’t need or come with them as standard. Does come with its standard armament, yes that includes nukes, and full set of sixteen F-302 fighters.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 70,
+      "cost": 600,
+      "name": "Mourningstar",
+      "source": "Warhammer 40k - Darktide",
+      "description": "A perfect replica of the titular ship, this interstellar vehicle allows for space travel at FTL speeds, and the Gellar Field is modified to create a psychic bubble that allows the FTL travel even in future settings that lack extra dimensions. No STC-documentation for this one, but it does come with a crew of vat-grown servitors to repair everything and a hold of restocking mundane supplies, both for consumption, fueling, and repair.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 71,
+      "cost": 600,
+      "name": "Luna, the Somnus Citadel ",
+      "source": "Warhammer 40k - Talons Of The Emperor ",
+      "description": "The Somnus Citadel is the headquarters of the Sisters of Silence. It is a massive fortification, bristling with weaponry and attack drones and craft. It holds the habs, armories, and void docks that can house the entirety of the Sisters should the need arise. The vast majority of the structures can be sunk within Luna itself, even further augmenting the defenses that most would consider to be over kill. There are few fortresses in the Galaxy to equal this citadel, either as a bastion to break enemies upon, a prison beyond compare, or as a command and control center. Any ships docked at the citadel will be repaired, rearmed, and retrofitted almost instantly, so long as you have the supplies to do it. And given the massive stores it has, which restocks every decade, that’s unlikely to ever be a problem. Unless you need to furnish a far larger fleet than that of the Black Ships, which are vast enough in number to scour the entire galaxy for psykers. These massive docks are fully capable of creating new ships, so long as they aren’t overly taxed with maintenance and are supplied sufficient resources. Its prison complexes are meant to hold psykers of every rank when necessary- the prisons will suppress the supernatural powers of any you deem hostile within its halls. Disregarding blatant negligence or idiocy, you will never need to worry about your prisoner’s escaping unless an army has managed to break open you defenses. And speaking of armies, you now have one. Thousands of Sisters and servitors dwell within the Somnus Citadel, serving as wardens ready to man the defenses at a moment’s notice.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 72,
+      "cost": 600,
+      "name": "Death World",
+      "source": "Warhammer 40k: Imperium of Man",
+      "description": "In order to train the greatest warriors in all of the galaxy, their environment must be exceptionally harsh during their training. You have been given command over one of the deadliest planets in the galaxy, be it because of the environment or the creatures that inhabit it. Perhaps it’s filled with monsters that the ignorant would equate with the beasts of Chaos or Tyranids, or the planet is an eternal ball of fire and lava. Thankfully, there is a compound present meant to safely house an entire Astartes Chapter, as well as all of their serfs and belongings.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 73,
+      "cost": 600,
+      "name": "Knight World",
+      "source": "Warhammer 40k: Imperium of Man",
+      "description": "Many of those coming from noble Knight houses are overseers of their own planets, offering the natives protection in return for obedience and servitude. You too are now the owner of your very own feudal world, where although the general state of living is akin to the medieval ages, it does house all of the amenities needed to keep the Imperial Knights in tip top shape. All upon the planet will submit to your rule completely and utterly.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 74,
+      "cost": 700,
+      "name": "MC75 Star Cruiser",
+      "source": "Star Wars Squadrons v1.1",
+      "description": "A capital ship of Mon Calamari design, employed by the Rebel Alliance, and later the New Republic. The Temperance is an example of such a vessel. It runs an impressive length of 1200 metres. Optionally, your MC75 Star Cruiser can come with a crew, which can run the ship for you, and provide basic security. This crew count as followers.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 75,
+      "cost": 700,
+      "name": "Maiden World ",
+      "source": "Warhammer 40k - The Ynnari",
+      "description": "A garden planet, to those who are welcome, long ago terraformed brilliantly by the Eldar, including a series of menhirs, stone circles and shrines joining the spirits of the dead into a world spirit. To intruders, this place is deadlier than Catachan as all life turns hostile.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 76,
+      "cost": 800,
+      "name": "Forerunner dreadnought-",
+      "source": "Halo - The Covenant",
+      "description": "This was the first forerunner relic found by your kind. This was the mighty ship with which they courageously left their home world to spread the word of the gods among the stars. This was the god-vessel that brought them together with the Sangheili, and it is this ship that sits dormant today, as the object of the worship of all of the Covenant, at the center of the grand chamber of High Charity. And now, it is yours. Its weaponry, disabled as a sign of goodwill between the Sangheili and San'Shyuum, has been fully restored to its original, continent-busting (at maximum) levels. However, you are not alone within it- it is completely and totally under the control of an AI. In time, you could find a way to remove it, but the ship shall function far better with it on board. It is your subordinate and thus is willing to complete your commands, to a point. It shall not engage in open warfare against humanity, and seeks redemption for a great number of sins, which it shall not name to you- unless you should prove yourself worthy and understanding.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 77,
+      "cost": 800,
+      "name": "The Citadel",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "he Citadel is the sociological and economical center of the galaxy, a massive space station capable of comfortably housing millions, complete with its own functional biosphere. While you don't actually own it yourself, you do receive a copy that is completely under your control, with no Reaper sabotage built into it. It is maintained by a strange breed of organic automatons, ensuring that all of its systems will keep running for eons to come. While it mostly stays open, looking like a large metallic flower, it can close up in times of distress, greatly improving it's defensibility.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 78,
+      "cost": 800,
+      "name": "Starkiller Base",
+      "source": "Star Wars - Sequel Trilogy ",
+      "description": "Under your command is a perfect copy of Starkiller Base, weaknesses and all. It has the ability to use hyperspace to travel, but it’s incredibly slow in comparison to a fleet or a ship. It doesn’t need to move too close to destroy its targets. As long as it’s not more than halfway across the Galaxy, it will hit. After draining the dark energy, or quintessence of a Star to power itself, the Starkiller can fire five beams capable of destroying a planet each. Takes a day to recharge, but much less if just for one target. If bought with the Mega-Flagship, you can have it docked on the base, and everything about the staff and future Jump interactions on that ship apply here as well even if you didn’t buy it. You can also choose to be on the base as your starting location, somewhere in the same system as your rolled one.",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 79,
+      "cost": 800,
+      "name": "Aurora-Class Battleship",
+      "source": "Stargate Atlantis",
+      "description": "While it is built with the timeless aesthetics of all Ancient craft, this vessel is a little short on personal luxuries; it is a Lantean warship, three kilometres long and used in the war against the Wraith. Has a galactic-class hyperdrive and amazing sublight engine performance, able to be modified to push nearly c. Comes with a full ZPM, excellent shields, batteries of pulse weapons and a full complement of drone missiles for armament; easily more than a match in a fight for any one of the other starships listed here except a fully-supplied City Ship. Its hangars are small but twenty puddle jumpers can be found stacked within, enough to evacuate the entire crew (if there was somewhere to go).",
+      "chapter": "Headquarters"
+    },
+    {
+      "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Headquarters ",
+      "__line": 80,
+      "cost": 800,
+      "name": "Mars ",
+      "source": "Total Recall",
+      "description": "A fully terraformed Mars. Can replace Mars in any reality you visit as long as Mars is uninhabited. If Mars is inhabited by less than 100,000 people or aliens, you may choose to upgrade their Mars to fully terraformed instead of deploying your Mars. All improvements to your Mars are permanent. If there is no Mars in a setting, Your Mars can take the place of any conveniently located planet or fill an empty spot in the local star system that keeps it within the habitable zone. If there isn’t such a spot, you cannot deploy your Mars.",
+      "chapter": "Headquarters"
+    }
+  ],
+  "5": [
+    {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Medicial",
       "__line": 1,
       "cost": 0,
@@ -2887,7 +3609,7 @@
       "chapter": "Medicial"
     }
   ],
-  "5": [
+  "6": [
     {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Minions",
       "__line": 1,
@@ -3591,7 +4313,7 @@
       "chapter": "Minions"
     }
   ],
-  "6": [
+  "7": [
     {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Pysker",
       "__line": 1,
@@ -4313,7 +5035,7 @@
       "chapter": "Pysker"
     }
   ],
-  "7": [
+  "8": [
     {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Research and Development",
       "__line": 1,
@@ -5035,7 +5757,7 @@
       "chapter": "Research and Development"
     }
   ],
-  "8": [
+  "9": [
     {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Resources and  Production",
       "__line": 1,
@@ -5757,7 +6479,7 @@
       "chapter": "Resources and  Production"
     }
   ],
-  "9": [
+  "10": [
     {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Science and Engineering",
       "__line": 1,
@@ -6479,7 +7201,7 @@
       "chapter": "Science and Engineering"
     }
   ],
-  "10": [
+  "11": [
     {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Super Powers",
       "__line": 1,
@@ -7201,7 +7923,7 @@
       "chapter": "Super Powers"
     }
   ],
-  "11": [
+  "12": [
     {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Talents",
       "__line": 1,
@@ -7923,7 +8645,7 @@
       "chapter": "Talents"
     }
   ],
-  "12": [
+  "13": [
     {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Transport",
       "__line": 1,
@@ -8645,7 +9367,7 @@
       "chapter": "Transport"
     }
   ],
-  "13": [
+  "14": [
     {
       "__source": "Celestial Laboratory - Mad Scientist Edition v3 - Weapons",
       "__line": 1,

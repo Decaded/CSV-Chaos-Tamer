@@ -1939,6 +1939,287 @@
   ],
   "7": [
     {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 1,
+      "cost": 400,
+      "name": "Collection of Serpentine Reagents",
+      "source": "Slytherin Jump",
+      "description": "It is a truly brave (or foolish) wizard that tries to harvest the venom of a basilisk, especially if that basilisk is still alive at the time of harvesting. Fortunately, you do not need to harvest the venom of a live basilisk because you’ve acquired a large trunk full of all kinds of serpentine reagents. Be it shredded boomslang skin, frozen ashwinder eggs, or basilisk venom, so long as it belongs to a serpentine creature and can be used as a potions ingredient or a material for crafting various items it can be found within. The supplies also restock daily, though the more uncommon supplies only restock weekly, whilst the truly rare supplies only do so monthly.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 2,
+      "cost": 100,
+      "name": "Wiggenweld Potion Bottles",
+      "source": "Hogwarts Legacy",
+      "description": "A set of six vials, which each hold a dose of Wiggenweld Potion. One dose is enough to fix a broken bone, or heal up scrapes, cuts, and bruises, and each vial will refill eight hours after being drunk. Comes with a small cauldron that can be filled with a couple dozen doses of a completed potion, which will be kept in perfect stasis. Any of the vials can be set to refill with a dose drained from the cauldron rather than of Wiggenweld Potion.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 3,
+      "cost": 100,
+      "name": "Potion Lab ",
+      "source": "Hogwarts Legacy",
+      "description": "A potion lab, set up with several large brewing tables to allow for the creation of potions. The lab is stocked with common ingredients, such as dittany leaves, but rarer ingredients will need to be collected and manually stocked. Also comes with a Hopping Pot, which will randomly produce a batch of any potion you've successfully brewed each day.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 4,
+      "cost": 200,
+      "name": "Party Potions",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "What you have here is a regenerating supply of potions in a cabinet labeled ‘party mix.’ Contained within are potions for making someone appear older or younger, potions for changing one's hair, eyes, or skin to exotic colors and patterns, potions for temporarily gaining animal-like features ranging from ‘ears and tail’ to ‘moderately furry,’ switching sexes, and other, similar transformation effects. They’re safe to take with each other, all are clearly labeled, and only last for a few hours at a time though there is a general-purpose antidote in the back that instantly negates their effects. These are pleasant tasting and the transformations are painless, they’re mostly just for playing around at parties though you can probably come up with other uses for them.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 5,
+      "cost": 0,
+      "name": "Pewter Cauldron ",
+      "source": "Harry Potter Movie Series",
+      "description": "A Standard Size 2 Pewter Cauldron made from pewter, a metal alloy made up of mostly tin that is deemed the ideal cauldron for starters. This particular cauldron is auto-cleaning after it’s been emptied and will repair itself back to pristine condition within an hour should it be damaged by potion accidents.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 6,
+      "cost": 200,
+      "name": "Skele-Gro",
+      "source": "Harry Potter Movie Series",
+      "description": "A dreadful-tasting self refilling potion which optionally can taste like pumpkin juice, it is able to mend broken bones, or even regrow entire bones that have vanished or been otherwise lost. For regrowing entire bones, the process is notably slow and painful and can take over a full day. All broken or regrown bones return twice as strong as before even if this potion has affected that bone before.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 7,
+      "cost": 300,
+      "name": "Polyjuice Potion ",
+      "source": "Harry Potter Movie Series",
+      "description": "This potion allows the drinker to assume the form of someone else, only requiring a part of the target individual's body be mixed in to function. This refilling flask of potion is enough to keep someone in someone else's shape indefinitely so long as they take a drink every eight hours. Polyjuice Potion can not be used for a human to take an animal form, nor can it be used on non-humans or half-humans without great side effects.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 8,
+      "cost": 600,
+      "name": "Impossible Restorative Draught ",
+      "source": "Harry Potter Movie Series",
+      "description": "An all-purpose variation of the potion it restores any harm and returns transfigured or cursed individuals to their original state. Anyone who drinks this who is suffering from anything short of true death will be restored to perfect health as if they were in the prime of their life, though ghosts will remain dead.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 9,
+      "cost": 200,
+      "name": "Veritaserum",
+      "source": "Harry Potter Movie Series",
+      "description": "This is a powerful truth serum that inebriates the drinker and forces them to answer any questions put to them truthfully; due to the inebriation resisting the effects of this potion is far more difficult than normal. This potion’s flavour will automatically change to whatever the drinker would find the most delicious and will function on virtually a entity. You get one vial of it with enough for one person/being, the vial refills every hour",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 10,
+      "cost": 300,
+      "name": "Felix Felicis",
+      "source": "Harry Potter Movie Series",
+      "description": "This vial of \"Liquid Luck\" refills itself once per month with a magical potion that makes you 10,000% more lucky than normal for a period of time, during which virtually everything you attempt will be successful.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 11,
+      "cost": 200,
+      "name": "Draught of Living Death ",
+      "source": "Harry Potter Movie Series",
+      "description": "This potion is an extremely powerful Sleeping Draught, sending the drinker into a deathlike slumber that cannot be differentiated without professional inspection. It also comes with a smelling salt that can rouse anyone who isn’t dead.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 12,
+      "cost": 200,
+      "name": "Love Potions ",
+      "source": "Harry Potter Movie Series",
+      "description": "Anyone who drinks these potions becomes infatuated with whoever you designate the target of the potion to be. This effect will wear off over time and will prevent them from going “too far”.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 13,
+      "cost": 500,
+      "name": "Advanced Potion-Making Textbook",
+      "source": "Harry Potter Movie Series",
+      "description": "This book contains the advanced recipes and various other topics related to potions creation, however this copy has been altered with notations from a superior potions master pointing out all the mistakes and better ways of completing most steps.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 14,
+      "cost": 100,
+      "name": "Blood Adoption Potion ",
+      "source": "Harry Potter Movie Series",
+      "description": "This purchase gives you a 3 pack of potions that are replaced once a week. They require two drops of blood, one from each willing adult becoming a parent. You may substitute one or both for a drop from a completed potion making the donors the grandparent instead. When drunk the drinker will legally, magically and biologically become the child or grandchild of the original donors.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 15,
+      "cost": 200,
+      "name": "Wolfsbane Potion ",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "Eases the symptoms of lycanthropy; prevents werewolves from losing their minds post-transformation.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 16,
+      "cost": 400,
+      "name": "Strong Exstimulo Potion ",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "More powerful version of the Exstimulo Potion, which significantly boosts the spell power of the drinker.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 17,
+      "cost": 400,
+      "name": "Regeneration Potion ",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "Helps restore non-corporeal wizards to their bodies.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 18,
+      "cost": 400,
+      "name": "Gregory's Unctuous Unction ",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "A potion that causes the drinker to believe that whoever gave the potion to them is their best friend.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 19,
+      "cost": 400,
+      "name": "Drink of Despair",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "A potion that protects powerfully magical objects, such as horcruxes. It cannot be touched, magically vanished or emptied or changed. When drunk it causes severe pain, the guts feel like burning, the drinker will remember his or her most awful experiences, and finally, causes extreme thirst.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 20,
+      "cost": 200,
+      "name": "Baruffio's Brain Elixir",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "A potion that increases the taker's brain power.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 21,
+      "cost": 200,
+      "name": "Potions Supply ",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "A stock of potions taken straight from the students of Professor Snape during his years of teaching at Hogwarts, also includes access to the storeroom of ingredients in the castle so you can always make your own. The premade potions are student's work so you may not always get exactly what you expected from them.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 22,
+      "cost": 100,
+      "name": "A Flask of Silver",
+      "source": "Wizarding World Jump",
+      "description": "Magic is a dangerous thing. There are no shortages of stories showing witches and wizards suffering unfortunate fates whenever it comes to experimenting with the arcane arts. And a sizable portion of said folks have even met their untimely end over the course of their practices. In preparation of such an occurrence, or because of such an event, you have this flask. Filled with what seems to be molten silver, the flask and the liquid within are nevertheless cool to the touch. More importantly, the liquid is enchanted in a rather special way. By pouring the liquid over a lost limb, be it an arm or a leg, the silver shall take on the shape of said appendage, replacing it with something greater. And don’t be afraid of running out. The flask itself always fills back up at the end of the day. On a final note, should the thought of betrayal even cross the minds of those you’ve gifted with silver limbs, their newfound limbs shall turn against them, doing their utmost best to kill their host. You can control how lenient the gifted hands are on betrayal. Useful if you don’t want your followers dying from simple idle thoughts.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 23,
+      "cost": 400,
+      "name": "Yet Another Half-Blood Prince",
+      "source": "Wizarding World Jump",
+      "description": "The pure-bloods live and breathe magic but sometimes, it takes an outsider to see what else can be done. Or perhaps in your case, merely someone who has a foot in both worlds. Whether it be magical or mundane, you have a natural talent for discovering or implementing new shortcuts or innovations into them. You could discover shortcuts for making potions, better ways to cast spells, or, in terms of craftsmanship, realize the potential of materials gone unnoticed by many. With this, you could certainly make a fine name for yourself. And if you’re willing, perhaps the world can be made far better with the secrets and innovations you can discover. Don’t be stingy like the original Half-Blood Prince.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 24,
+      "cost": 400,
+      "name": "The Hopping Pot",
+      "source": "Wizarding World Jump",
+      "description": "The Wizard and the Hopping Pot is one of the bard’s many tales. This story in particular depicted a rather friendly relationship between Muggles and wizards, and the growth of a young boy as he learned to follow in his father’s footsteps. And now, the titular hopping pot has come to follow you around, hopping behind you on every step of your journey. But what can the pot do for you? For starters, unlike the pot in the story, this one can, all by itself, create a wonderful variety of potions for you, each one brewed as if a master of potions made it themselves. You won’t even need to provide the ingredients. The pot can make it all! Well, almost all of it. Potions such as the Potion of All Potential and its like are beyond even its extraordinary capabilities and it can’t really speed up the process of potion-making as much as you’d want it to. On a final note, it seems that the pot has a rather mischievous bent to it. It has a rather peculiar habit of trying to get you to help out others, much like it once did to a young boy. Unlike that young boy however, the pot won’t punish you for refusing to help. On the other hand, if you do help others, the potions the pot brews shall become better, the extent of which is determined on how often you choose to help those less fortunate than you.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 25,
+      "cost": 400,
+      "name": "Book of Potions ",
+      "source": "Wizarding World Jump",
+      "description": "As a rule, young students tend not to see the appeal of potions. After all, when you can create fire with a wave of your wand and make objects float with but a word, something like potions can seem a bit... boring. But for those who can appreciate its subtle science, its exact art, potions can be the key to bottling fame, brewing glory, and far, far more. Written by the famed Potioneer Zygmunt Budge, this book is perfect for anyone willing to delve into the great art of potions. And as most things are in this world, this book is far more than it appears to be. Through methods unknown, to assure his place in history, a part of Zygmunt Budge’s soul has been infused into this book. But you do not need to fear him. Zygmunt wants only to spread the glory of potions everywhere and you represent his best shot at it. Not only is the book filled with recipes of just about every potion that was ever made public, you will have the guidance of Zygmunt himself who will gladly guide and instruct on the best ways to brew a proper potion. And in other worlds, if you ever come across an unfamiliar potion, the guidance of Zygmunt shall be enough to help you decipher.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 26,
+      "cost": 100,
+      "name": "A Toad ",
+      "source": "Wizarding World Jump",
+      "description": "Among the three pets allowed at Hogwarts, toads are by far the least popular. In fact, they’ve very much gone out of style years ago. In fact, you likely won’t find more than a handful of toads as pets regardless of where you go. Still, that does not mean they do not have their uses. They make remarkable test subjects for magic, especially potions given that they can absorb the potions through their skin rather than having to drink it like people do.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 27,
+      "cost": 200,
+      "name": "Perils of Polyjuice",
+      "source": "Wizarding World Jump",
+      "description": "Ah, the folly of youth. It is the time when people are most foolhardy, believing themselves to be far more prepared to face the world than they truly are. And more often than not, such youths are proven wrong, sometimes with very disastrous results. Few folks exemplify the foolishness of youth more than Maddalyn Magier, a young and beautiful lass with a penchant for potions. As a precocious child, Maddalyn had always been fascinated with the subtle science and exact art that is potion-making. And so, like many a reckless youth, before she even went to school, she sought to experiment. With Polyjuice. You know where this is going. Already time-consuming and complex, Maddalyn created a modified version of Polyjuice, one that was meant to allow the drinker to transform into an animal. It did not work. Instead of transforming her into an animal temporarily, like an Animagus, the potion changed her body entirely. But how has it changed her? Well, for one thing, given that rather than using mundane animal bits for her potion, she instead used the crushed remains of a Horned Serpent’s jewel. And so, she’s grown four horns on the sides and top of her head along with a few patches of scales all across her body. Not that it detracts from her beauty in any way. It actually makes her look quite exotic. But more than that, her potions experiment has bestowed upon her a few unique abilities, ones that others would be more than happy to kill for. Like the stories told about Horned Serpents, she possesses the ability to turn herself invisible in a manner most reminiscent of the basic Disillusionment Charm, but most uniquely, she possesses the power of flight. Like the Pegasus of myth, Maddalyn can soar through the skies with her own power, unassisted by things such as brooms, charms, or even wings. And despite all the changes to her body and all the discrimination now rallied against her, she does not seem to mind. She remains the same aloof yet confident girl she’s ever been. After all, she simply sees this transformation of hers as proof that magic has taken a liking to her. To further prove this hypothesis of hers, she has taken to focusing on improving her skills as a potioneer, devising more potions to further modify her body. So far, she hasn’t really had much success in her endeavors, aside from finding a few shortcuts on more common potions like the Edurus potion and the Thunderbrew. But she’s confident that she’ll be able to make her mark in history as the greatest Potions Master in history. Perhaps you canhelp her with that, either as her partner or just as someone to keep her from delving too deep into her experiments. She is rather reckless after all.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 28,
+      "cost": 100,
+      "name": "Harvesting Kit ",
+      "source": "Generic Harry Potter Fanfiction",
+      "description": "A set of knives and scalpels, some cleaning potions and materials. It has everything you need to cut up and preserve a magical animal perfectly, without any part going bad. Generates sanitized glass containers to prevent anything getting contaminated, the containers are indestructible. The materials in the kit naturally replace themselves over time when used up and you know how to use all of them.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 29,
+      "cost": 300,
+      "name": "Moste Potente Potions",
+      "source": "Harry Potter CYOA",
+      "description": "You have an intrinsic grasp of potion making and will find both the technique, the principles and the theory unusually easy to grasp. You are not likely to get any potion wrong regardless of the difficulty involved and you are likely to come up with innovative, better ways to brew potions with new materials",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 30,
+      "cost": 0,
+      "name": "Flask of Polyjuice",
+      "source": "Harry Potter CYOA",
+      "description": "A flask of Polyjuice potion. Likely enough for 20 doses.",
+      "chapter": "Potions Lab"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
+      "__line": 31,
+      "cost": 300,
+      "name": "Potion Reagents",
+      "source": "Harry Potter CYOA",
+      "description": "A small case with compartments that has a replenishing store of a range of potion reagents. Such reagents replenish once every two weeks and come in reasonable quantities. Does not contain any extremely rare ingredients.",
+      "chapter": "Potions Lab"
+    }
+  ],
+  "8": [
+    {
       "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 1,
       "cost": 0,
