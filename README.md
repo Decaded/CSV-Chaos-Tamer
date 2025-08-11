@@ -52,7 +52,7 @@ npm install
 3. Run the parser:
 
 ```bash
-node buildDatabase.js
+node index.js
 ```
 
 4. Collect your cleaned JSON from `data/`.
