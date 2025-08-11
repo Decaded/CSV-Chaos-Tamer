@@ -61,7 +61,7 @@ node buildDatabase.js
 
 ## Customizing
 
-If your CSVs use unique or inconsistent headers, edit the `headerMap` in `buildDatabase.js`:
+If your CSVs use unique or inconsistent headers, edit the `headerMap`:
 
 ```js
 cpcost: 'cost',
