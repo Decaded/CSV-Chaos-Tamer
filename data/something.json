@@ -249,7 +249,7 @@
       "id": 28,
       "name": "Mystical Agriculture",
       "cost": 400,
-      "description": "You gain a supernatural ability to craft and grow magical plants to produce resources from the Mystical Agriculture mod. It mainly includes items from Minecraft and various mods for the game. You have a great talent for gardening and intuition for magical flora.",
+      "description": "You gain a supernatural ability to craft and grow magical plants to produce resources from the Mystical Agriculture mod and its various addons. It mainly includes items from Minecraft and various mods for the game. You have a great talent for gardening and intuition for magical flora.",
       "chapter": "Minecraft"
     },
     {
@@ -422,9 +422,1102 @@
       "cost": 400,
       "description": "You have access to blueprints, knowledge, and basic skills to create machines and devices from the Industrial Craft mod, its different versions, and addons. The more you stray from the original mod's theme and into addons, the harder it becomes to make sense of things.",
       "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 48,
+      "id": 48,
+      "name": "Ex Nihilo",
+      "cost": 150,
+      "description": "You are capable of creating anomalous tools inspired by the Ex Nihilo Minecraft mod and its various addons. It basically allows you to create seemingly simple machines/tools and utilize them to produce resources literally from nothing. Not a lot, and with many caveats, but now you can scramble some little bits of needed materials even in the middle of nowhere, where access is limited to only scraps and dirt.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 49,
+      "id": 49,
+      "name": "The Undergarden",
+      "cost": 600,
+      "description": "You are able to craft a special tool and activate a portal with it, which will lead to the newly generated Undergarden dimension, named after the same. You have encyclopedic knowledge about this new world and the basic skills needed to survive. You are also immune to all potential diseases this place might contain.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 50,
+      "id": 50,
+      "name": "RFTools Dimensions",
+      "cost": 900,
+      "description": "Congratulations! You've got access to a number of tinkertech machines to create your own custom dimensions! Yes, they are stupidly energy-hungry and tedious to program. Yes, they require you to periodically maintain and watch closely over their work... But you can have your own procedurally generated ocean of liquid gold, or maybe an infinite field of giant truffles!",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 51,
+      "id": 51,
+      "name": "Immersive Portals",
+      "cost": 1000,
+      "description": "You have the power to manipulate and create portals, cut doors into other accessible dimensions, and modify existing portals. This power is inspired by the Immersive Portals mod for Minecraft. You can do everything this mod allows, but with some additional possibilities and more extensive, detailed implications of carving space in this way. Be careful. It might give you some intuition and feedback, but the power is not foolproof.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 52,
+      "id": 52,
+      "name": "The Twilight Forest",
+      "cost": 600,
+      "description": "You have the ability to create a portal that leads to the newly generated Twilight Forest dimension from the mod of the same name. The contents of the dimension include all connected addons of the original mod. You have general knowledge about important aspects of the dimension: its dangers, useful materials, flora and fauna, and mystical laws.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 53,
+      "id": 53,
+      "name": "Better Questing",
+      "cost": 450,
+      "description": "There are many modpacks with some sort of quest system or book. Now, you are capable of creating personal, soul-bound quest books for people. One person can only have one such book, and it cannot be destroyed by usual means because it is a projection of their inner world. It contains unique and dynamically updating quests for each person. Finishing quests from the book allows one to receive thematic rewards. However, what kind of quests and rewards one gets depends a lot on what kind of person they are: what they want, what they believe, what they know, etc.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 54,
+      "id": 54,
+      "name": "Mining Dimension",
+      "cost": 0,
+      "description": "You are capable of creating a mystical portal leading into a dimension inspired by Aroma1997's Dimensional World mod for Minecraft. The contents of the world on the other side of the portal depend on the other perks you already have at the moment of portal creation. When you build the portal, the dimension is actualized, and new perks obtained after this point will not affect the contents of the mining world. However, you can roll and buy this perk several times (costing you only 350 CP) and gain the ability to create another variation of the dimension, separated from the first one and working by the same perk-content rules.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 55,
+      "id": 55,
+      "name": "Tasty-Tasty Addon!",
+      "cost": 150,
+      "description": "You are a skilled cook and have a mental compendium of all recipes and blueprints for tools and devices from Farmer's Delight, Cooking for Blockheads, Pam's HarvestCraft, and other similar 'tasty' mods, along with their many variations and addons. You also possess just enough basic skills to obtain all the ingredients for your cooking.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 56,
+      "id": 56,
+      "name": "Ars Nouveau",
+      "cost": 500,
+      "description": "\"Ars Nouveau is a magic mod inspired by Ars Magicka that allows players to craft their own spells, create magical artifacts, perform rituals, and much more.\" You gain the necessary magical abilities to use and create things from this mod, along with basic blueprints, general theory, and talent to quickly progress along this path. Including addons to the mod.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 57,
+      "id": 57,
+      "name": "ProjectE",
+      "cost": 1000,
+      "description": "You are capable of creating and using a special supernatural tools and devices to exchange one material for another. The core concept of the mod, EMC (Energy-Matter Currency), is a value assigned to items and blocks representing their energy cost or worth. Players can store, transfer, and convert EMC to facilitate item duplication or transmutation.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 58,
+      "id": 58,
+      "name": "Blood Magic",
+      "cost": 500,
+      "description": "\"Blood Magic is an arcane art that is practiced by mages who attempt to gather a vast amount of power through utilizing a forbidden material: blood. Even though it does grant a huge amount of power, every single action that is performed with this volatile magic can prove deadly. You have been warned.\" You gain the necessary magical abilities to use and create things from this mod, along with basic blueprints, general theory, and talent to quickly progress along this path. Including addons to the mod.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 59,
+      "id": 59,
+      "name": "Astral Sorcery",
+      "cost": 400,
+      "description": "\"Astral Sorcery is a magic mod focused around harnessing the powers of starlight and the constellations.\" You gain the necessary magical abilities to use and create things from this mod, along with basic blueprints, general theory, and talent to quickly progress along this path. Including addons to the mod.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 60,
+      "id": 60,
+      "name": "Ensorcellation",
+      "cost": 200,
+      "description": "This perk gives you the ability to use magic for Ensorcellation mod enchantment art, along with talent in this craft and scholarly intuition to actually apply enchanted items in correct or unusual ways. However, if you don't have access to Vamilla Minecraft Enchanting, your creations inevitably will be tinkertech, and your knowledge will have holes in it. You still can create things, just with limitations.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 61,
+      "id": 61,
+      "name": "Doggy Talents Next\r",
+      "cost": 200,
+      "description": "\"This mod aims to create Harmony between the dogs and the player throughout the game. Imagine playing a Piano Concerto, you as the pianist and the dogs as the orchestra. When the two sounds are being played, it creates harmony, which our ears love so much. Thus, the orchestra doesn't overwhelm but empowers the pianist. The mod is and will be designed along that principle. The dogs should accompany the player well while not becoming overpowered in the context. Although when on-demand, sufficient abilities should be granted to them, they should be required to work to achieve those. And you, the responsible owner, should help them.\" You have special talent to make content from this mod reality.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 62,
+      "id": 62,
+      "name": "Modded Ores",
+      "cost": 0,
+      "description": "Congratulations! After acquiring this perk, you can force Minecraft-style ore generation into any landscape you target once. Within a radius of one thousand chunks (around 1,600 meters) around you, different ores from one mod of your choice, for which you possess the perk, will appear underground. Depending on the mod you have chosen for the specific generation effect, the ores can be very different. All ores have unique properties inspired by their source mod. You can hold this effect activation for as long as you want, until you find a place you like to target and use it. This perk can be rolled multiple times, stockpiling activations in storage. You decide which mod will be used to source the types of ores at the moment of casting the effect. Each additional roll after the first purchase will be discounted to 350 CP.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 63,
+      "id": 63,
+      "name": "Simply Skills",
+      "cost": 200,
+      "description": "This perk gives you access to the skill tree from the Simply Skills mod for Minecraft. You can obtain points to 'learn' new effects and abilities through good fights and via living through unique and/or interesting adventures. What counts as a 'good fight' and a 'suitable experience' depends on your current abilities and present experiences. As a consolidation price, you gain one point to spend after buying this perk and receive a random accessible skill from the tree each month.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 64,
+      "id": 64,
+      "name": "Improvable Skills ",
+      "cost": 150,
+      "description": "This perk gives you access to the skill tree from the Improvable Skills mod for Minecraft. You can obtain points to 'learn' new effects and abilities via living through unique and/or interesting experiences. What counts as a 'suitable experience' depends on your current abilities and present experiences. As a consolidation price, you gain one point to spend after buying this perk and receive a random accessible skill from the tree each month.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 65,
+      "id": 65,
+      "name": "Dark Utilities",
+      "cost": 200,
+      "description": "\"The Dark Utilities mod adds many new items and blocks that expand upon the vanilla game. This mod aims to be useful in a wide range of circumstances while also adding fun and interesting mechanics.\" You gain the ability to build all devices from this mod and know how to use them. It's really easy to 'tinker' with this technology.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 66,
+      "id": 66,
+      "name": "Simply Swords",
+      "cost": 200,
+      "description": "You gain exceptional smithing skills focused on the creation of items from the Simply Swords mod for Minecraft. You also have great talent at wielding all types of weapons presented in the Simply Swords mod (including unique), but no actual skills to use them.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 67,
+      "id": 67,
+      "name": "It's Gold in Here!",
+      "cost": 0,
+      "description": "When exploring new places in person, you have a chance to find some unique materials/resources from the Mythic Metals and the Gobber mods for Minecraft. Even if it doesn't make much sense to find them there, and they definitely weren't there before you explored the area. But this only happens in new places you explore in person. It is proportionally less effective the more you already know about the location before exploration: the more you know, the worse the effect. It can be toggled on or off or set to work partially, causing some materials to appear while others do not. Materials are only found in places similar to where they usually generate or are found in the game. You can roll and buy this perk multiple times, with a discount up to 200 CP. This will allow you to include other materials in generation from the Minecraft perks you currently possess - you can choose one. If you don't have any, you can choose to make this perk select a random source for you. from all Minecraft mods with materials/resources content.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 68,
+      "id": 68,
+      "name": "Almost Unified",
+      "cost": 100,
+      "description": "This perk is inspired by the Almost Unified mod for Minecraft. You gain exceptional expertise in the field of material science, along with keen intuition and a supernatural advantage when working on replacing the materials in your creations with similar ones. If you don't have access to some exotic metal, you might figure out a special alloy from things you have access to use instead.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 69,
+      "id": 69,
+      "name": "Actually Additions",
+      "cost": 100,
+      "description": "\"Use the Atomic Reconstructor and the Empowerer to turn minerals into powerful crystals that allow the creation of useful machines for processing and sorting items, lasers for wirelessly transporting energy, items and fluids, renewable oil to generate power, and much more.\"",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 70,
+      "id": 70,
+      "name": "Large Ore Deposits",
+      "cost": 400,
+      "description": "This perk gives you the power to perform a special ritual. By sacrificing targeted material (seed) you have and a few other items (depending on the main material), you can force the generation of a large ore deposit underground at your position, containing raw ore inspired by the sacrificed seed. The more esoteric and unique the material, the more elaborate, complex, and costly the ritual becomes. You can only use this ritual every 24 hours, and it can fail if you are underprepared or make a mistake.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 71,
+      "id": 71,
+      "name": "Forestry",
+      "cost": 500,
+      "description": "You gain access to content inspired by Forestry for Minecraft. You can create, use, and even modify things from this mod and its various addons. It doesn't provide a lot of knowledge, but it offers a lot of pure capability. Includes skills of a supernatural beekeeper!",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 72,
+      "id": 72,
+      "name": "Theurgy",
+      "cost": 200,
+      "description": "You gain knowledge and ability to utilise mechanics and create mahines/devices/materials from the Minecraft mod Theurgy and its various addons",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 73,
+      "id": 73,
+      "name": "TerraFirmaCraft",
+      "cost": 200,
+      "description": "You gain the knowledge and skills needed to progress through the entire tech tree from the TerraFirmaCraft mod for Minecraft and its various addons. You can start with nothing but nature around you and still create many useful things to start a civilization.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 74,
+      "id": 74,
+      "name": "Silent Gear",
+      "cost": 150,
+      "description": "\"The mod focuses on tools, weapons, and armor (collectively called gear). Recipes are modular, down to each individual piece used in crafting. Possible combinations for each gear type are practically unlimited.\" You have ability to create different gear from the mod Silent Gear and its various addons. This perk's ability has supernatural component.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 75,
+      "id": 75,
+      "name": "Jewelry and Baubles",
+      "cost": 300,
+      "description": "You become a highly skillful jeweler with the special ability to create various magical pieces of jewelry and utilize them effectively. This perk includes content from mods: Iron's Gems 'n Jewelry, Jewelry (RPG Series), and Magical Jewelry, along with their add-ons.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 76,
+      "id": 76,
+      "name": "Modular Machinery",
+      "cost": 400,
+      "description": "\"A modpack-maker toolset to create custom, massive, unique and complex machines and recipes from scratch\" This perk grants great knowledge of modular machine-making methodology, along with ability to utilise supernatural advantage, as you design and build modular modifications for creations you know how to make. Heavily inspired by the mod of the same name.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 77,
+      "id": 77,
+      "name": "Extended Crafting\r",
+      "cost": 400,
+      "description": "\"Extended Crafting adds more ways to craft items, more items to craft with, and more utilities for crafting. The mod doesn't do much on it's own and is intended to be configured heavily. All the recipes and settings should be changed to fit the progression of the modpack it's in and how the modpack developer wants it to be used.\" This perk grants great knowledge of extended crafting methodology, along with ability to utilise supernatural advantage, as you design and apply modifications for blueprints you already know. It also includes blueprints to create basic machinery from the mod. Essentially, it lets you change how you craft things and find new ways to do so, using what you already know and have.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 78,
+      "id": 78,
+      "name": "Advanced Generators",
+      "cost": 200,
+      "description": "This perk provides a mental compendium of blueprints for creating machines and devices from the Advanced Generators mod for Minecraft, along with basic skills and deep insight into energy-generation technology and its applications. Basically, this perk makes it easier to tweak various generators you know how to build, or to find ways to connect some machines to generators, even when such connections are usually incompatible with the machine in question. You know how to think about and generally solve such problems.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 79,
+      "id": 79,
+      "name": "Simple Generators",
+      "cost": 200,
+      "description": "This perk gives you the ability to create different machines from the Simple Generators mod for Minecraft. They generate power, obviously. However, these generators are mostly tinkertech, and you gain great skill and a supernatural advantage from this perk only while working on the generators from this perk: building, maintaining, using, and connecting them. Although, it still gives you some useful and unique theoretical knowledge.",
+      "chapter": "Minecraft"
+    },
+    {
+      "__source": "Celestial Something - 1 Minecraft",
+      "__line": 80,
+      "id": 80,
+      "name": "Psi Technology",
+      "cost": 400,
+      "description": "\"Psi is a magical tech spell programming mod inspired by Mahouka Kokou no Rettousei. Don't worry if that doesn't make any sense.\" You gain the ability to use devices from this mod, along with blueprints for all craftable items, an extensive theoretical base, and some talent for utilising this kind of magical technology.",
+      "chapter": "Minecraft"
     }
   ],
   "2": [
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 1,
+      "id": 1,
+      "name": "Bag of Wheat Seeds",
+      "cost": 100,
+      "description": "\"One of the most widely cultivated grains. Makes a great flour for breads and cakes.\" You gain a full bag of wheat seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this wheat, it starts to grow abnormally fast (maximum speed of 4 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest wheat every week. It is a summer/fall crop - its supernatural effect is most effective in summer and autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 2,
+      "id": 2,
+      "name": "Bag of Tomato Seeds",
+      "cost": 100,
+      "description": "\"Rich and slightly tangy, the Tomato has a wide variety of culinary uses.\" You gain a full bag of tomato seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this tomato plant, it starts to grow abnormally fast (maximum speed of 4 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest tomatoes every week. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 3,
+      "id": 3,
+      "name": "Bag of Sunflower Seeds",
+      "cost": 100,
+      "description": "\"A common misconception is that the flower turns so it's always facing the sun.\" You gain a full bag of sunflower seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this sunflower plant, it starts to grow abnormally fast (maximum speed of 8 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest tomatoes every week. It is a summer/fall crop - its supernatural effect is most effective in summer and autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 4,
+      "id": 4,
+      "name": "Bag of Squash Seeds",
+      "cost": 100,
+      "description": "\"A curved yellow squash that is harvested while immature, and still tender.\" You gain a full bag of squash seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this squash plant, it starts to grow abnormally fast (maximum speed of 6 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest squash every week. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 5,
+      "id": 5,
+      "name": "Bag of Spangle Seeds",
+      "cost": 100,
+      "description": "\"A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma.\" You gain a full bag of spangle seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this spangle plant, it starts to grow abnormally fast (maximum speed of 8 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest spangle every week. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 6,
+      "id": 6,
+      "name": "Bag of Starfruit Seeds",
+      "cost": 100,
+      "description": "\"An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone.\" You gain a full bag of starfruit seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this starfruit plant, it starts to grow abnormally fast (maximum speed of 13 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest starfruit every two weeks. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 7,
+      "id": 7,
+      "name": "Bag of Red Cabbage Seeds",
+      "cost": 100,
+      "description": "\"Often used in salads and coleslaws. The color can range from purple to blue to green-yellow depending on soil conditions.\" You gain a full bag of red cabbage seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this red cabbage plant, it starts to grow abnormally fast (maximum speed of 9 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest red cabbage every two weeks. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 8,
+      "id": 8,
+      "name": "Bag of Radish Seeds",
+      "cost": 100,
+      "description": "\"A crisp and refreshing root vegetable with hints of pepper when eaten raw.\" You gain a full bag of radish seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this radish plant, it starts to grow abnormally fast (maximum speed of 6 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest radish every week. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 9,
+      "id": 9,
+      "name": "Bag of Poppy Seeds",
+      "cost": 100,
+      "description": "\"In addition to its colorful flower, the Poppy has culinary and medicinal uses.\" You gain a full bag of poppy seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this poppy plant, it starts to grow abnormally fast (maximum speed of 7 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest poppy every week. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 10,
+      "id": 10,
+      "name": "Bag of Melon Seeds",
+      "cost": 100,
+      "description": "\"A cool, sweet summer treat.\" You gain a full bag of melon seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this melon plant, it starts to grow abnormally fast (maximum speed of 12 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest melon every two weeks. It is a summer crop - its supernatural effect is most effective in summer. This crop can be grown into giant version. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 11,
+      "id": 11,
+      "name": "Bag of Hot Pepper Seeds",
+      "cost": 100,
+      "description": "\"Fiery hot with a hint of sweetness.\" You gain a full bag of hot pepper seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this hot pepper plant, it starts to grow abnormally fast (maximum speed of 5 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest hot pepper every two weeks. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 12,
+      "id": 12,
+      "name": "Bag of Hops Seeds",
+      "cost": 100,
+      "description": "\"A bitter, tangy flower used to flavor beer.\" You gain a full bag of hops seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this hops plant, it starts to grow abnormally fast (maximum speed of 11 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest hops every two weeks. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 13,
+      "id": 13,
+      "name": "Bag of Corn Seeds",
+      "cost": 100,
+      "description": "\"One of the most popular grains. The sweet, fresh cobs are a summer favorite.\" You gain a full bag of corn seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this corn plant, it starts to grow abnormally fast (maximum speed of 14 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest corn every two weeks. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 14,
+      "id": 14,
+      "name": "Bag of Coffee Beans",
+      "cost": 100,
+      "description": "\"Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.\" You gain a full bag of coffee beans of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this coffee plant, it starts to grow abnormally fast (maximum speed of 10 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest coffee beans every week. It is a summer/spring crop - its supernatural effect is most effective in summer and spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 15,
+      "id": 15,
+      "name": "Bag of Blueberry Seeds",
+      "cost": 100,
+      "description": "\"A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration.\" You gain a full bag of blueberry seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this blueberry plant, it starts to grow abnormally fast (maximum speed of 13 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest blueberries every two weeks. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 16,
+      "id": 16,
+      "name": "Bag of Blue Jazz Seeds",
+      "cost": 100,
+      "description": "\"The flower grows in a sphere to invite as many butterflies as possible.\" You gain a full bag of Blue Jazz seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Blue Jazz plant, it starts to grow abnormally fast (maximum speed of 7 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Blue Jazz every week. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 17,
+      "id": 17,
+      "name": "Bag of Carrot Seeds",
+      "cost": 100,
+      "description": "\"A fast-growing, colorful tuber that makes for a great snack.\" You gain a full bag of Carrot seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Carrot plant, it starts to grow abnormally fast (maximum speed of 3 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Carrot every week. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 18,
+      "id": 18,
+      "name": "Bag of Garlic Seeds",
+      "cost": 100,
+      "description": "\"Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.\" You gain a full bag of garlic seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this garlic plant, it starts to grow abnormally fast (maximum speed of 4 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest garlic every week. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 19,
+      "id": 19,
+      "name": "Bag of Green Beans",
+      "cost": 100,
+      "description": "\"A juicy little bean with a cool, crisp snap.\" You gain a full bag of Green Beans of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to these Green Beans, it starts to grow abnormally fast (maximum speed of 10 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Green Beans every two weeks. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 20,
+      "id": 20,
+      "name": "Bag of Kale Seeds",
+      "cost": 100,
+      "description": "\"The waxy leaves are great in soups and stir fries.\" You gain a full bag of Kale seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Kale plant, it starts to grow abnormally fast (maximum speed of 6 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Kale every week. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 21,
+      "id": 21,
+      "name": "Bag of Cauliflower Seeds",
+      "cost": 100,
+      "description": "\"Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.\" You gain a full bag of Cauliflower seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Cauliflower plant, it starts to grow abnormally fast (maximum speed of 12 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Cauliflower every two weeks. It is a spring crop - its supernatural effect is most effective in spring. This crop can be grown into giant version. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 22,
+      "id": 22,
+      "name": "Bag of Parsnip Seeds",
+      "cost": 100,
+      "description": "\"A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients.\" You gain a full bag of Parsnip seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Parsnip plant, it starts to grow abnormally fast (maximum speed of 4 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Parsnip every week. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 23,
+      "id": 23,
+      "name": "Bag of Potato Seeds",
+      "cost": 100,
+      "description": "\"A widely cultivated tuber.\" You gain a full bag of Potato seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Potato plant, it starts to grow abnormally fast (maximum speed of 6 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Potato every week. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 24,
+      "id": 24,
+      "name": "Bag of Rhubarb Seeds",
+      "cost": 100,
+      "description": "\"The stalks are extremely tart, but make a great dessert when sweetened.\" You gain a full bag of Rhubarb seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Rhubarb plant, it starts to grow abnormally fast (maximum speed of 13 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Rhubarb every two weeks. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 25,
+      "id": 25,
+      "name": "Bag of Strawberry Seeds",
+      "cost": 100,
+      "description": "\"A sweet, juicy favorite with an appealing red color.\" You gain a full bag of Strawberry seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Strawberry plant, it starts to grow abnormally fast (maximum speed of 8 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Strawberry every week. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 26,
+      "id": 26,
+      "name": "Bag of Tulip Seeds",
+      "cost": 100,
+      "description": "\"The most popular spring flower. Has a very faint sweet smell.\" You gain a full bag of Tulip seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Tulip plant, it starts to grow abnormally fast (maximum speed of 6 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Tulip every week. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 27,
+      "id": 27,
+      "name": "Box of Rice Shoots ",
+      "cost": 100,
+      "description": "\"Rice in its rawest form. Run this through a mill to increase the value.\" You gain a full box of Rice Shoots of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Rice plant, it starts to grow abnormally fast (maximum speed of 8 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Rice every week. It is a spring crop - its supernatural effect is most effective in spring. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 28,
+      "id": 28,
+      "name": "Bag of Amaranth Seeds",
+      "cost": 100,
+      "description": "\"A purple grain cultivated by an ancient civilization.\" You gain a full bag of Amaranth seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Amaranth plant, it starts to grow abnormally fast (maximum speed of 7 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Amaranth every week. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 29,
+      "id": 29,
+      "name": "Bag of Beet Seeds",
+      "cost": 100,
+      "description": "\"A sweet and earthy root vegetable. As a bonus, the leaves make a great salad.\" You gain a full bag of Beet seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Beet plant, it starts to grow abnormally fast (maximum speed of 6 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Beet every week. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 30,
+      "id": 30,
+      "name": "Bag of Bok Choy Seeds",
+      "cost": 100,
+      "description": "\"The leafy greens and fibrous stalks are healthy and delicious.\" You gain a full bag of Bok Choy seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Bok Choy plant, it starts to grow abnormally fast (maximum speed of 4 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Bok Choy every week. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 31,
+      "id": 31,
+      "name": "Bag of Broccoli Seeds",
+      "cost": 100,
+      "description": "\"The flowering head of a broccoli plant. The tiny buds give it a unique texture.\" You gain a full bag of Broccoli seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Broccoli plant, it starts to grow abnormally fast (maximum speed of 8 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Broccoli every week. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 32,
+      "id": 32,
+      "name": "Bag of Cranberry Seeds",
+      "cost": 100,
+      "description": "\"These tart red berries are a traditional winter food.\" You gain a full bag of Cranberry seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Cranberry plant, it starts to grow abnormally fast (maximum speed of 7 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Cranberries every week. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 33,
+      "id": 33,
+      "name": "Bag of Eggplant Seeds",
+      "cost": 100,
+      "description": "\"A rich and wholesome relative of the tomato. Delicious fried or stewed.\" You gain a full bag of Eggplant seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Eggplant plant, it starts to grow abnormally fast (maximum speed of 5 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Eggplants every week. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 34,
+      "id": 34,
+      "name": "Bag of Fairy Rose Seeds",
+      "cost": 100,
+      "description": "\"An old folk legend suggests that the sweet smell of this flower attracts fairies.\" You gain a full bag of Fairy Rose seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Fairy Rose plant, it starts to grow abnormally fast (maximum speed of 12 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Fairy Rose every two weeks. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 35,
+      "id": 35,
+      "name": "Bag of Grape Seeds",
+      "cost": 100,
+      "description": "\"A sweet cluster of fruit.\" You gain a full bag of Grape seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Grape plant, it starts to grow abnormally fast (maximum speed of 10 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Grapes every week. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 36,
+      "id": 36,
+      "name": "Bag of Pumpkin Seeds",
+      "cost": 100,
+      "description": "\"A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.\" You gain a full bag of Pumpkin seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Pumpkin plant, it starts to grow abnormally fast (maximum speed of 13 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Pumpkins every two weeks. It is a fall crop - its supernatural effect is most effective in autumn. This crop can be grown into giant version. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 37,
+      "id": 37,
+      "name": "Bag of Yam Seeds",
+      "cost": 100,
+      "description": "\"A starchy tuber with a lot of culinary versatility.\" You gain a full bag of Yam seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Yam plant, it starts to grow abnormally fast (maximum speed of 10 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Yam every week. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 38,
+      "id": 38,
+      "name": "Bag of Powdermelon Seeds",
+      "cost": 100,
+      "description": "\"Named for the powdery coating that forms on the surface, this melon is crisp and sweet, with a delicate flavor.\" You gain a full bag of Powdermelon seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Powdermelon plant, it starts to grow abnormally fast (maximum speed of 7 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Powdermelons every week. It is a winter crop - its supernatural effect is most effective in winter . This crop can be grown into giant version. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 39,
+      "id": 39,
+      "name": "Bag of Ancient Fruit Seeds",
+      "cost": 100,
+      "description": "\"It's been dormant for eons.\" You gain a full bag of Ancient Fruit seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Ancient Fruit plant, it starts to grow abnormally fast (maximum speed of 28 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Ancient Fruits every month. Special effect of this crops works greatly at any season, but not winter. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 40,
+      "id": 40,
+      "name": "Bag of Cactus Seeds",
+      "cost": 100,
+      "description": "\"The sweet fruit of the prickly pear cactus.\" You gain a full bag of Cactus seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Cactus plant, it starts to grow abnormally fast (maximum speed of 12 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Cactus Fruits every two weeks. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 41,
+      "id": 41,
+      "name": "Bag of Pineapple Seeds",
+      "cost": 100,
+      "description": "\"A sweet and tangy tropical treat.\" You gain a full bag of Pineapple seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Pineapple plant, it starts to grow abnormally fast (maximum speed of 14 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Pineapple every two weeks. It is a summer crop - its supernatural effect is most effective in summer This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 42,
+      "id": 42,
+      "name": "Bag of Qi Beans",
+      "cost": 100,
+      "description": "\"Mr. Qi has challenged you to ship 500 of these strange melons.\" You gain a full bag of Qi Beans of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Qi Fruit plant, it starts to grow abnormally fast (maximum speed of 4 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Qi Fruits every week. This crop can be grown into giant version. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 43,
+      "id": 43,
+      "name": "Bag of 'Rare Seeds'",
+      "cost": 100,
+      "description": "\"It's by far the sweetest thing you've ever smelled.\" You gain a full bag of Rare Seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Sweet Gem Berry plant, it starts to grow abnormally fast (maximum speed of 24 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Sweet Gem Berries every three weeks. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 44,
+      "id": 44,
+      "name": "Bag of Taro Tubers",
+      "cost": 100,
+      "description": "\"This starchy root is one of the most ancient crops.\" You gain a full bag of Taro Tubers of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Taro Root plant, it starts to grow abnormally fast (maximum speed of 7 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Taro Root every two weeks. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 45,
+      "id": 45,
+      "name": "Box of Tea Saplings",
+      "cost": 100,
+      "description": "\"The young leaves of the tea plant. Can be brewed into the popular, energizing beverage.\" You gain a full box of Tea Saplings of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Tea plant, it starts to grow abnormally fast (maximum speed of 20 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest Tea Leaves every three weeks. It is a summer crop - its supernatural effect is most effective in summer. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 46,
+      "id": 46,
+      "name": "Pair of Apricot Saplings",
+      "cost": 100,
+      "description": "You gain a pair of Apricot Saplings of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Apricot Tree, it starts to grow abnormally fast (maximum speed of 28 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 47,
+      "id": 47,
+      "name": "Pair of Cherry Saplings",
+      "cost": 100,
+      "description": "You gain a pair of Cherry Saplings of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Cherry Tree, it starts to grow abnormally fast (maximum speed of 28 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 48,
+      "id": 48,
+      "name": "Pair of Banana Saplings",
+      "cost": 100,
+      "description": "You gain a pair of Banana Saplings of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Banana Tree, it starts to grow abnormally fast (maximum speed of 28 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 49,
+      "id": 49,
+      "name": "Pair of Mango Saplings",
+      "cost": 100,
+      "description": "You gain a pair of Mango Saplings of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Mango Tree, it starts to grow abnormally fast (maximum speed of 28 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 50,
+      "id": 50,
+      "name": "Pair of Orange Saplings",
+      "cost": 100,
+      "description": "You gain a pair of Orange Saplings of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Orange Tree, it starts to grow abnormally fast (maximum speed of 28 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 51,
+      "id": 51,
+      "name": "Pair of Peach Saplings",
+      "cost": 100,
+      "description": "You gain a pair of Peach Saplings of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Peach Tree, it starts to grow abnormally fast (maximum speed of 28 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 52,
+      "id": 52,
+      "name": "Pair of Apple Saplings",
+      "cost": 100,
+      "description": "You gain a pair of Apple Saplings of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Apple Tree, it starts to grow abnormally fast (maximum speed of 28 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 53,
+      "id": 53,
+      "name": "Pair of Pomegranate Sapling",
+      "cost": 100,
+      "description": "You gain a pair of Pomegranate Saplings of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Pomegranate Tree, it starts to grow abnormally fast (maximum speed of 28 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 54,
+      "id": 54,
+      "name": "Box of Mushroom Tree Seeds",
+      "cost": 100,
+      "description": "You gain a full box of Mushroom Tree Seeds of random from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Mushroom Tree, it starts to grow abnormally fast. It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 55,
+      "id": 55,
+      "name": "Box of Mystic Tree Seeds",
+      "cost": 100,
+      "description": "You gain a full box of Mystic Tree Seeds of random from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Mystic Tree, it starts to grow abnormally fast. It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 56,
+      "id": 56,
+      "name": "Box of Maple Tree Seeds",
+      "cost": 100,
+      "description": "You gain a full box of Maple Tree Seeds of random from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Maple Tree, it starts to grow abnormally fast. It still exhausts the soil just as much as normal plants do. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 57,
+      "id": 57,
+      "name": "Bag of Artichoke Seeds",
+      "cost": 100,
+      "description": "\"The bud of a thistle plant. The spiny outer leaves conceal a fleshy, filling interior.\" You gain a full bag of Artichoke seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to this Artichoke plant, it starts to grow abnormally fast (maximum speed of 8 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest this Artichoke too often. It is a fall crop - its supernatural effect is most effective in autumn. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 58,
+      "id": 58,
+      "name": "Bag of Fiber Seeds",
+      "cost": 100,
+      "description": "\"Raw material sourced from plants.\" You gain a full bag of Fiber seeds from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to these Fiber weeds, it starts to grow abnormally fast (maximum speed of 7 days to fully grow in perfect conditions). It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest this Fiber too often. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 59,
+      "id": 59,
+      "name": "Wild Spring Seeds",
+      "cost": 100,
+      "description": "\"An assortment of wild spring seeds.\" You gain a full bag of Spring seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to plants grown from this assortment of seeds, they start to grow abnormally fast. It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest these too often. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 60,
+      "id": 60,
+      "name": "Wild Summer Seeds",
+      "cost": 100,
+      "description": "\"An assortment of wild summer seeds.\" You gain a full bag of Summer seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to plants grown from this assortment of seeds, they start to grow abnormally fast. It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest these too often. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 61,
+      "id": 61,
+      "name": "Wild Fall Seeds",
+      "cost": 100,
+      "description": "\"An assortment of wild fall seeds.\" You gain a full bag of Fall seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to plants grown from this assortment of seeds, they start to grow abnormally fast. It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest these too often. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 62,
+      "id": 62,
+      "name": "Wild Winter Seed",
+      "cost": 100,
+      "description": "\"An assortment of wild winter seeds.\" You gain a full bag of Winter seeds of random quality from the Stardew Valley game. You can hold off releasing the bag into the world for as long as you like. They work like normal plants if left to grow in the wild. However, if someone or something plays an active role in cultivating and tending to plants grown from this assortment of seeds, they start to grow abnormally fast. It still exhausts the soil just as much as normal plants do. So it's probably a bad idea to harvest these too often. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 63,
+      "id": 63,
+      "name": "Artisan Goods",
+      "cost": 150,
+      "description": "You gain extreme talent and above-average skill in creating various artisan goods inspired by Stardew Valley, along with the knowledge to create all the tools and goods you need. You also have a supernatural edge when crafting items similar to Stardew Valley artisan goods. The supernatural advantage is toggleable.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 64,
+      "id": 64,
+      "name": "Fishing Mastery",
+      "cost": 150,
+      "description": "You gain extreme talent and above-average skill in the field of fishing inspired by Stardew Valley game, along with the knowledge to create all the tools and goods you need. You also have a supernatural edge when crafting items connected to this field and when actually fishing. The supernatural advantage is toggleable.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 65,
+      "id": 65,
+      "name": "Farming Mastery",
+      "cost": 150,
+      "description": "You gain extreme talent and above-average skill in the field of farming inspired by Stardew Valley game, along with the knowledge to create all the tools and goods you need. You also have a supernatural edge when crafting items connected to this field and when actually farming. The supernatural advantage is toggleable.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 66,
+      "id": 66,
+      "name": "Mining Mastery",
+      "cost": 150,
+      "description": "You gain extreme talent and above-average skill in the field of mining inspired by Stardew Valley game, along with the knowledge to create all the tools and goods you need. You also have a supernatural edge when crafting items connected to this field and when actually mining. The supernatural advantage is toggleable.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 67,
+      "id": 67,
+      "name": "Foraging Mastery",
+      "cost": 150,
+      "description": "You gain extreme talent and above-average skill in the field of foraging inspired by Stardew Valley game, along with the knowledge to create all the tools and goods you need. You also have a supernatural edge when crafting items connected to this field and when actually foraging. The supernatural advantage is toggleable.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 68,
+      "id": 68,
+      "name": "Combat Mastery",
+      "cost": 150,
+      "description": "You gain extreme talent and above-average skill in the field of combat inspired by Stardew Valley game, along with the knowledge to create all the tools and goods you need. You also have a supernatural edge when crafting items connected to this field and when actually doing combat. The supernatural advantage is toggleable.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 69,
+      "id": 69,
+      "name": "Chicken Coop",
+      "cost": 150,
+      "description": "\"Well cared-for adult chickens lay eggs every day. Lives in the coop.\" This perk provides a coop full of chickens. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 70,
+      "id": 70,
+      "name": "Void Chicken Coop",
+      "cost": 200,
+      "description": "\"Well cared-for adult chickens lay eggs every day. Lives in the coop.\" This perk provides a coop full of void chickens variant from Stardew Valley. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 71,
+      "id": 71,
+      "name": "Golden Chicke Coop",
+      "cost": 200,
+      "description": "\"Well cared-for adult chickens lay eggs every day. Lives in the coop.\" This perk provides a coop full of golden chickens variant from Stardew Valley. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you. Yes, shells of their eggs are made of gold. Cool right? This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 72,
+      "id": 72,
+      "name": "Duck Coop",
+      "cost": 150,
+      "description": "\"Happy adults lay duck eggs every other day. Lives in the coop.\" This perk provides a coop full of ducks. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 73,
+      "id": 73,
+      "name": "Rabbit Coop",
+      "cost": 150,
+      "description": "\"These are wooly rabbits! They shed precious wool every few days. Lives in the coop.\" This perk provides a coop full of rabbits. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 74,
+      "id": 74,
+      "name": "Dinosaur Coop",
+      "cost": 150,
+      "description": "This perk provides a coop full of dinosaur variant from Stardew Valley game. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 75,
+      "id": 75,
+      "name": "Cow Barn",
+      "cost": 150,
+      "description": "This perk provides a barn full of cows. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 76,
+      "id": 76,
+      "name": "Goat Barn",
+      "cost": 150,
+      "description": "This perk provides a barn full of goats. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 77,
+      "id": 77,
+      "name": "Sheep Barn",
+      "cost": 150,
+      "description": "This perk provides a barn full of sheep. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 78,
+      "id": 78,
+      "name": "Pig Barn\r\n",
+      "cost": 150,
+      "description": "This perk provides a barn full of pigs. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 79,
+      "id": 79,
+      "name": "Ostrich Barn",
+      "cost": 150,
+      "description": "This perk provides a barn full of ostriches. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    },
+    {
+      "__source": "Celestial Something - 10 Stardew Valley",
+      "__line": 80,
+      "id": 80,
+      "name": "Horse Stable",
+      "cost": 150,
+      "description": "This perk provides a stable full of horses. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
+      "chapter": "Stardew Valley"
+    }
+  ],
+  "3": [
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 1,
+      "id": 1,
+      "name": "Blood Rights",
+      "cost": 50,
+      "description": "\"Mass Enemy Damage at a Cost.\" This perk grants you a straight razor artifact with special properties and basic knowledge of how to use it. When used to cut yourself, it deals consistent damage and doesn't cause bleeding. This action will inflict damage on everyone you perceive as enemies around you (mostly in the form of internal trauma and cuts). It doesn't have any special effects when used to cut other creatures - just an exceptionally durable and always sharp razor. It has a cooldown for its main effect and provides feedback about it to the current user.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 2,
+      "id": 2,
+      "name": "Candy Heart",
+      "cost": 200,
+      "description": "\"Power of Love.\" This perk grants you incremental upgrades to a few randomly chosen physical stats after healing from wounds. It only works if the healed wound was severe enough and the healing process was fast enough (like regeneration). The upgrades are tiny but permanent.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 3,
+      "id": 3,
+      "name": "Empty Heart",
+      "cost": 100,
+      "description": "\"It Multiplies.\" This perk lets you completely heal from crippling and other negative side effects of wounds and ailments if your health falls below a certain threshold. It is as quick as your normal recovery speed. For example, it can fix wrongly fused bones after fracture recovery, but not smaller scars left behind by this wound. Or you can regain your lost eye: fully or partially, depending on your health status.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 4,
+      "id": 4,
+      "name": "Cracked Orb",
+      "cost": 50,
+      "description": "\"Shards of Knowledge.\" Each time you take damage exceeding a certain severity, you gain one of the following boons: useful insight about your surroundings; closed/blocked passages nearby being opened; or useful items being uncovered and brought to your attention from nearby area. It is mostly random but depends on what is around you and the situation you are in.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 5,
+      "id": 5,
+      "name": " Bloody Gust",
+      "cost": 100,
+      "description": "\"May your rage bring haste.\" Each time you take damage in a fight, it boosts your speed and agility temporarily until reaching a certain maximum. There are six 'stages' to the effect. It decays rapidly outside combat.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 6,
+      "id": 6,
+      "name": "Keeper's Sack",
+      "cost": 400,
+      "description": "\"Balls.\" Each time you purchase something from a willing trader, you receive a random permanent physical stat upgrade proportional to your spendings. It works better for large one-time expenditures made in person, where actual goods are being bought and spent sum is big enough to trigger the effect. It's very finicky about what counts as a \"purchase\" and cannot be cheated, not easily.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 7,
+      "id": 7,
+      "name": "Forget Me Now",
+      "cost": 600,
+      "description": "\"I don't remember...\" This perk gives you a special pill. It lets you \"reset\" your day once - right after taking it, traveling back 24 hours. You bring items on your person, memories, and other perks into the past with you, along with your current physical state. For instance, if you are wounded at the moment of pill effect activation, you will still be wounded afterward. This perk can be purchased multiple times. Remember, traveling back doesn't mean things will happen in exactly the same way. You gain general knowledge about the pill effect from the perk.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 8,
+      "id": 8,
+      "name": "The Hourglass",
+      "cost": 200,
+      "description": "\"Temporary enemy slowdown.\" You gain an hourglass, which can be used to slow down everyone you perceive as enemies around you for eight seconds. It has a cooldown. The item also provides feedback about the recharge status and knowledge of the Hourglass use to the holder. The effect is not temporal in nature, but inertial/kinetic - doesn't slow perception of time.",
+      "chapter": "The Binding of Isaac"
+    }
+  ],
+  "4": [
     {
       "__source": "Celestial Something - 2 Factorio",
       "__line": 1,
@@ -520,7 +1613,7 @@
       "__line": 11,
       "id": 11,
       "name": " Advanced Autonomous Industries",
-      "cost": 600,
+      "cost": 700,
       "description": "This perk includes blueprints for all craftable items and machines from the Advanced Autonomous Industries mod, along with its various modules and addons. It also provides you with just enough scientific knowledge to somewhat understand your creations, as well as the skills to utilize, build, and reliably maintain this kind of technology.",
       "chapter": "Factorio"
     },
@@ -586,9 +1679,135 @@
       "cost": 250,
       "description": "Perk inspired by the mod of the same name. It lets you manufacture and deploy automated robot soldiers to attack your foes and defend your factory! You have blueprints for craftable items from the mod, and you know how to program and command these machines.",
       "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 19,
+      "id": 19,
+      "name": "Krastorio",
+      "cost": 500,
+      "description": "You have a mental compendium of all blueprints for craftable items from the Krastorio mod for Factorio, and enough basic understanding of the theory to somewhat grasp this technology. However, if there is not enough contextual knowledge from other perks, there might be some blank spots and enforced tinkertech approaches in the technology. After all, you cannot reliably know and build higher levels of Factorio tech given by this perk if you don't know this tech in the first place. There will be some interesting consequences.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 20,
+      "id": 20,
+      "name": "Bob's Power",
+      "cost": 150,
+      "description": "Gives you the ability to build new power structures added by the Bob's Power mod for Factorio. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 21,
+      "id": 21,
+      "name": "Bob's Logistics",
+      "cost": 100,
+      "description": "Gives you the ability to build all logistics related things added by the Bob's Logistics mod for Factorio. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 22,
+      "id": 22,
+      "name": "Bob's Warfare",
+      "cost": 100,
+      "description": "Gives you the ability to create all warfare-related devices added by the Bob's Warfare mod for Factorio. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 23,
+      "id": 23,
+      "name": "Bob's Assembling Machines",
+      "cost": 150,
+      "description": "Gives you the ability to build and use all new tiers of assembling machines added by the Bob's Assembling Machines mod for Factorio. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 24,
+      "id": 24,
+      "name": "Bob's Mining",
+      "cost": 100,
+      "description": "Gives you the ability to build and use all new mining machines and tools added by the Bob's Mining mod for Factorio. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 25,
+      "id": 25,
+      "name": "Bob's Materials",
+      "cost": 100,
+      "description": "This perk provides a mental compendium and blueprints to utilize resource processing and material production from Bob's Metals, Chemicals and Intermediates, and Bob's Ores mods. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 26,
+      "id": 26,
+      "name": "Bob's Electronics",
+      "cost": 50,
+      "description": "Gives you the ability to create a whole new electronics production chains inspired by Bob's Electronics mod for Factorio. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 27,
+      "id": 27,
+      "name": "Bob's Modules",
+      "cost": 100,
+      "description": "Gives you the ability to make and use all modules added by Bob's Modules mod for Factorio. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 28,
+      "id": 28,
+      "name": "Bob's Tech",
+      "cost": 50,
+      "description": "This perk lets you learn theoretical facts about technology provided by other Bob's mods. It doesn't give you blueprints or specific applied knowledge about technology, but it fills in the gaps and allows you to integrate elements from other Bob's mods into different kinds of technologies. It also offers more non-tinkertech solutions to explore. You gain data slowly, but faster if you actually build and use things from Bob's mods perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 29,
+      "id": 29,
+      "name": "Bob's Vehicle Equipment",
+      "cost": 100,
+      "description": "Gives you the ability to build and use all equipment added by Bob's Vehicle Equipment mod for Factorio. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 30,
+      "id": 30,
+      "name": "Bob's Greenhouse",
+      "cost": 50,
+      "description": "Gives you the ability to build a greenhouse from Bob's Greenhouse mod for Factorio. This is a pretty bizarre and unnaturally effective structure to produce wood - at least not magical types. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 31,
+      "id": 31,
+      "name": "Bob's Personal Equipment ",
+      "cost": 50,
+      "description": "Gives you the ability to create and use all pieces of personal equipment added by Bob's Personal Equipment mod for Factorio. This perk stacks and synergizes greatly with other Bob mods. However, it is more tinkertech on its own, but becomes less so as more Bob mods are stacked on top of each other. The more of them you have, the more capable you are of discarding the tinkertech approach in favor of true technologies provided by all related perks.",
+      "chapter": "Factorio"
+    },
+    {
+      "__source": "Celestial Something - 2 Factorio",
+      "__line": 32,
+      "id": 32,
+      "name": "Spidertron Extended",
+      "cost": 200,
+      "description": "This perk adds to your repertoire of blueprints: Spidertron MK2, Spidertron MK3, the Immolator, the Ghost Weaver, and Major Spidertron - more powerful upgraded versions of the Spidertron that can be crafted from the original, with enhanced firing capabilities, larger inventory size, equipment grid, radar coverage, mobility, and much more. It works weirdly and enforces tinkertech if you don't have access to the original Factorio Spidertron technology.",
+      "chapter": "Factorio"
     }
   ],
-  "3": [
+  "5": [
     {
       "__source": "Celestial Something - 3 Dyson Sphere Program",
       "__line": 1,
@@ -806,7 +2025,7 @@
       "chapter": "Dyson Sphere Program"
     }
   ],
-  "4": [
+  "6": [
     {
       "__source": "Celestial Something - 4 RimWorld",
       "__line": 1,
@@ -911,12 +2130,66 @@
       "__line": 12,
       "id": 12,
       "name": "Acquire Skills",
-      "cost": 150,
+      "cost": 100,
       "description": "After buying this perk, you can choose any skill from the list of existing skills in the RimWorld game. You will have this chosen skill in reserve, waiting to be used by you. You can apply it to yourself or another person you touch to gain or give two levels of the skill (maximum of 20). It takes a few minutes to apply chosen skill. This perk can be rolled multiple times.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 13,
+      "id": 13,
+      "name": "Vanilla Weapons Expande",
+      "cost": 200,
+      "description": "You gain a mental compendium of blueprints for craftable items from the Vanilla Weapons Expanded series of mods for RimWorld, along with the skills and knowledge needed to practically utilize and create these items effectively.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 14,
+      "id": 14,
+      "name": "Vanilla Furniture Expanded",
+      "cost": 250,
+      "description": "You gain a mental compendium of blueprints for craftable items from the Vanilla Furniture Expanded series of mods for RimWorld, along with the skills needed to practically utilize and create these items effectively. However, it doesn't include any in-depth scientific knowledge.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 15,
+      "id": 15,
+      "name": "Vanilla Genetics Expanded\n",
+      "cost": 150,
+      "description": "You gain a mental compendium of blueprints for craftable items from the Vanilla Genetics Expanded mod for RimWorld, along with the skills needed to practically utilize and create these items effectively. However, it doesn't include any in-depth scientific knowledge and is tinkertech, if you don't have Biotech perk from RimWorld category.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 16,
+      "id": 16,
+      "name": "Vanilla Vehicles Expande",
+      "cost": 150,
+      "description": "You gain a mental compendium of blueprints for craftable items from the Vanilla Vehicles Expande series of mods for RimWorld, along with the skills needed to practically utilize and create these items effectively. It also includes some degree of talent for any vehicle-related mechanic fields.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 17,
+      "id": 17,
+      "name": "Rimsenal Pack",
+      "cost": 200,
+      "description": "You gain a mental compendium of blueprints for items, structures and even some creatures from the Rimsenal Pack of mods for RimWorld, along with the skills needed to practically utilize and create these items effectively. It also includes incredible talent for utilizing weapons for their main purpose. It contains only basic background scientific knowledge. Easily turned into tinkertech.",
+      "chapter": "RimWorld"
+    },
+    {
+      "__source": "Celestial Something - 4 RimWorld",
+      "__line": 18,
+      "id": 18,
+      "name": "Lost Factory Mechanoids",
+      "cost": 300,
+      "description": "This perk gives you the ability to create a small factory project for the production of machines and devices from the Lost Factory Mechanoids and Mechanoid Upgrades mods for RimWorld. It includes a comprehensive mental compendium of technical knowledge for the items you create.",
       "chapter": "RimWorld"
     }
   ],
-  "5": [
+  "7": [
     {
       "__source": "Celestial Something - 5 Stellaris",
       "__line": 1,
@@ -1582,6 +2855,662 @@
       "cost": 600,
       "description": "This perk gives you one randomly chosen Event Voidcraft Technologies to learn blueprints, general theory, and gain skills to apply this discovery. If the technology you rolled requires another Event Technology to function, you get that one instead. Can be rolled several times. Rolling something you already have gives you nothing, but you don't lose any CP.",
       "chapter": "Stellaris"
+    },
+    {
+      "__source": "Celestial Something - 5 Stellaris",
+      "__line": 75,
+      "id": 75,
+      "name": "Stellaris Species",
+      "cost": 200,
+      "description": "You are an expert focused on the biology of different types of sentient species from the Stellaris game, including species packs. Your scientific knowledge about the diverse and unique biologies of alien species is extensive and profound.",
+      "chapter": "Stellaris"
+    }
+  ],
+  "8": [
+    {
+      "__source": "Celestial Something - 6 ARK_ Survival Evolved",
+      "__line": 1,
+      "id": 1,
+      "name": "Engrams Creation",
+      "cost": 600,
+      "description": "You have insight into the creation of Engrams and the method of their implantation into the minds of others. These Engrams let you share recipes and blueprints you know with other people. They even allow them to craft things that are not usually craftable - tinkertech and similiar recipes obtained from your perks. However, there are limitations on how complex an Engram can be, so you cannot share the ability to build all types of technology. This perk works better for technology from ARK perks, but you can figure out how to encode creations from other perks you possess. People can use implanted Engram to craft whatever technology you included into it.",
+      "chapter": "Survival Evolved"
+    },
+    {
+      "__source": "Celestial Something - 6 ARK_ Survival Evolved",
+      "__line": 2,
+      "id": 2,
+      "name": "Tekgrams Creation",
+      "cost": 1000,
+      "description": "You have insight into the creation of Tekgrams and the method of their implantation into the minds of others. These Tekgrams allow you to share recipes and blueprints you know with other people. They even enable them to craft things that are not usually craftable - tinkertech and similar recipes obtained from your perks. This perk essentially provides an upgrade for Engrams, allowing you to share the capability to build any technology with others - one Tekgram at a time! This perk requires Engrams to be purchased to function. If you don't have it, rolling Tekgrams will automatically buy Engrams, provided you have enough CP to afford it.",
+      "chapter": "Survival Evolved"
+    },
+    {
+      "__source": "Celestial Something - 6 ARK_ Survival Evolved",
+      "__line": 3,
+      "id": 3,
+      "name": "Low Engrams",
+      "cost": 50,
+      "description": "Gain access to recipes from all Engrams up to level 50 in ARK: Survival Evolved base game. Includes basic skills to use all creations.",
+      "chapter": "Survival Evolved"
+    },
+    {
+      "__source": "Celestial Something - 6 ARK_ Survival Evolved",
+      "__line": 4,
+      "id": 4,
+      "name": "High Engrams",
+      "cost": 50,
+      "description": "Gain access to recipes from all Engrams above level 50 and up to level 100 in ARK: Survival Evolved base game. Includes basic skills to use all creations.",
+      "chapter": "Survival Evolved"
+    },
+    {
+      "__source": "Celestial Something - 6 ARK_ Survival Evolved",
+      "__line": 5,
+      "id": 5,
+      "name": "Tek Recipes",
+      "cost": 200,
+      "description": "Gain access to recipes from all Tekgrams in ARK: Survival Evolved base game. Includes basic skills to use all creations and scientific understanding of technology.",
+      "chapter": "Survival Evolved"
+    },
+    {
+      "__source": "Celestial Something - 6 ARK_ Survival Evolved",
+      "__line": 6,
+      "id": 6,
+      "name": "Scorched Earth Engrams",
+      "cost": 50,
+      "description": "Gain access to recipes from all Engrams in Scorched Earth DLC for ARK: Survival Evolved. Includes basic skills to use all creations.",
+      "chapter": "Survival Evolved"
+    },
+    {
+      "__source": "Celestial Something - 6 ARK_ Survival Evolved",
+      "__line": 7,
+      "id": 7,
+      "name": "Aberration Engrams",
+      "cost": 50,
+      "description": "Gain access to recipes from all Engrams in Aberration DLC for ARK: Survival Evolved. Includes basic skills to use all creations.",
+      "chapter": "Survival Evolved"
+    },
+    {
+      "__source": "Celestial Something - 6 ARK_ Survival Evolved",
+      "__line": 8,
+      "id": 8,
+      "name": "Extinction Engrams",
+      "cost": 100,
+      "description": "Gain access to recipes from all Engrams in Extinction DLC for ARK: Survival Evolved. Includes basic skills to use all creations.",
+      "chapter": "Survival Evolved"
+    },
+    {
+      "__source": "Celestial Something - 6 ARK_ Survival Evolved",
+      "__line": 9,
+      "id": 9,
+      "name": "Genesis Engrams",
+      "cost": 100,
+      "description": "Gain access to recipes from all Engrams in Genesis DLC parts 1&2 for ARK: Survival Evolved. Includes basic skills to use all creations.",
+      "chapter": "Survival Evolved"
+    }
+  ],
+  "9": [
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 1,
+      "id": 1,
+      "name": "The Hallow Spreads",
+      "cost": 0,
+      "description": "This perk allows you to generate the Hallow biome from Terraria, transforming the area a few kilometers around you. It will spread slowly afterward, but the speed and effectiveness depend on the nature of the place, including flora, fauna, and the resistance of materials and details of the geography. You can hold this effect in storage until you find a suitable place to target. You can buy this perk multiple times, with a 300 CP discount after the first purchase, stacking these held activations of the ability to use later. The first purchase of the perk grants you encyclopedic knowledge of the Hallow biome.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 2,
+      "id": 2,
+      "name": "The Crimson Spreads",
+      "cost": 0,
+      "description": "This perk allows you to generate the Crimson biome from Terraria, transforming the area a few kilometers around you. It will spread slowly afterward, but the speed and effectiveness depend on the nature of the place, including flora, fauna, and the resistance of materials and details of the geography. You can hold this effect in storage until you find a suitable place to target. You can buy this perk multiple times, with a 300 CP discount after the first purchase, stacking these held activations of the ability to use later. The first purchase of the perk grants you encyclopedic knowledge of the Crimson biome.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 3,
+      "id": 3,
+      "name": "The Corruption Spreads",
+      "cost": 0,
+      "description": "This perk allows you to generate the Corruption biome from Terraria, transforming the area a few kilometers around you. It will spread slowly afterward, but the speed and effectiveness depend on the nature of the place, including flora, fauna, and the resistance of materials and details of the geography. You can hold this effect in storage until you find a suitable place to target. You can buy this perk multiple times, with a 300 CP discount after the first purchase, stacking these held activations of the ability to use later. The first purchase of the perk grants you encyclopedic knowledge of the Corruption biome.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 4,
+      "id": 4,
+      "name": "Terraria Tools",
+      "cost": 300,
+      "description": "You can craft tools from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 5,
+      "id": 5,
+      "name": "Terraria Weapons",
+      "cost": 300,
+      "description": "You can craft weapons and ammunition from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 6,
+      "id": 6,
+      "name": "Terraria Armor",
+      "cost": 300,
+      "description": "You can craft armor from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 7,
+      "id": 7,
+      "name": "Terraria Accessories",
+      "cost": 400,
+      "description": "You can craft all types of accessories from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 8,
+      "id": 8,
+      "name": "Terraria Consumables",
+      "cost": 250,
+      "description": "You can craft all types of consumables (potions, food, drinks, flasks, dyes, paints) from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 9,
+      "id": 9,
+      "name": "We Are Rich!",
+      "cost": 100,
+      "description": "This perk allows you to spawn twelve full chests containing different coins, gems, and bars in targeted locations without causing any damage. If there is not enough space, fewer chests will spawn. They contain currency and Terraria-type resources inside them (giving them unique properties). You can hold onto this effect to activate it when a suitable target is found, and you can stack stored effects indefinitely. This perk can be purchased multiple times. The quantity of specific materials inside the chests depends on their rarity and usefulness in the game. There will be more early-game materials in these chests than late-game ones. It includes materials from mods, if you have perks for them.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 10,
+      "id": 10,
+      "name": "Terraria Crafts",
+      "cost": 150,
+      "description": "You gain a mental compendium of blueprints to create all furniture, crafting stations, statues, blocks, walls, and vanity items from the Terraria game. You acquire just enough skill to build them and just enough knowledge to utilize these items.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 11,
+      "id": 11,
+      "name": "More Life",
+      "cost": 50,
+      "description": "This perk grants you the equivalent of one Life Crystal or Fruit use, depending on how many times you have already rolled and bought this perk. You can purchase this perk multiple times - up to 35 times, to be exact. First, you go through 15 Life Crystal equivalents, then through 20 Life Fruit equivalents. Each time, it slightly increases your life energy and your ability to survive damage.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 12,
+      "id": 12,
+      "name": "More Mana",
+      "cost": 50,
+      "description": "This perk grants you the equivalent of one Mana Crystal use, depending on how many times you have already rolled and bought this perk. You can purchase this perk multiple times - up to 10 times, to be exact. First time you gain access to Terraria mana, and each time afterwards make your reserves a little bit bigger.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 13,
+      "id": 13,
+      "name": "Summoned Help",
+      "cost": 300,
+      "description": "You can craft items for summoning pets and mounts from the Terraria game, along with skills to command them. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 14,
+      "id": 14,
+      "name": "Calamity Expansion",
+      "cost": 800,
+      "description": "You can craft all types of items from the Calamity mod (including addons) for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 15,
+      "id": 15,
+      "name": "Starlight River Mod",
+      "cost": 500,
+      "description": "You can craft all types of items from the Starlight River mod for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 16,
+      "id": 16,
+      "name": "Redemption Mod",
+      "cost": 500,
+      "description": "You can craft all types of items from the Redemption mod for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 17,
+      "id": 17,
+      "name": "Thorium Mod",
+      "cost": 600,
+      "description": "You can craft all types of items from the Thorium mod for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 18,
+      "id": 18,
+      "name": "Spirit Expansion",
+      "cost": 700,
+      "description": "You can craft all types of items from the Spirit mod (its various version) for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    }
+  ],
+  "10": [
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 1,
+      "id": 1,
+      "name": "Chthonian Lore",
+      "cost": 800,
+      "description": "\"Chthonians, horrors from the Void, are the things of nightmares. Prior to the Grim Dawn, Chthonians would only be seen upon Cairn following an arcane ritual gone wrong or at the beckoning of a powerful sorcerer. Despite an effort to exterminate the practice, a cult has formed around blood rituals and the worship of Chthonic beings. Members of the cult have been overheard chanting one name in particular: Ch'thon. With the world in disarray, the cult has grown strong, garnering new followers desperate for answers in a world that no longer makes sense. Chthonians, and their loyal cult, appear to be at odds with the Aetherials, eagerly harvesting helpless humans for blood so that the Aetherials cannot use them as vessels.\" You gain a deep insight into Chthonian lore, the ability to actually call upon these powers to produce various effects, and even thin out boundaries so that things from the Void can slip into your current reality (not sure why you would do that). The infohazardous knowledge granted by this perk is hidden from you; if it would harm you, you won't perceive it. Be wary - dabbling in such powers too much might attract the attention of something bigger on the other side, even if you intended otherwise, simply because you were not careful.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 2,
+      "id": 2,
+      "name": "Aetherial Lore",
+      "cost": 800,
+      "description": "\"Foolishly and greedily did the arcanists of Cairn delve into the magical veil known as the Aether, never once suspecting that something was looking back. The Aetherials descended upon Cairn in what is now known as the Grim Dawn, possessing countless humans and butchering the rest. Most despicably of all, they began raising the fallen as mutated undead creatures, mindless foot soldiers for their invasion. Their very presence on Cairn is enough to mutate the wildlife, turning once docile creatures into vicious monstrosities. But most strange of all is their apparent hatred for Chthonians, as they will battle against the horrors from the Void at every opportunity.\" You gain a deep insight into Aetherial lore, the ability to actually call upon these powers to produce various effects, and even thin out boundaries to cause a version of 'Grim Dawn' in your current reality (not sure why you would do that). The infohazardous knowledge granted by this perk is hidden from you; if it would harm you, you won't perceive it. Be wary - dabbling in such powers too much might attract the attention of something bigger on the other side, even if you intended otherwise, simply because you were not careful.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 3,
+      "id": 3,
+      "name": "Soldier Path",
+      "cost": 250,
+      "description": "\"Soldiers of the imperial army were trained to survive in the most hellish conditions and hold the line against the nastiest enemies of the empire. Soldiers prefer the use of close combat weaponry, such as a sword and shield, but can also prove formidable with firearms. What a Soldier may lack in outright damage output is made up for in fortitude and leadership.\" You gain starting skills and ability to progress on the path of Soldier Mastery from Grim Dawn game unusually fast.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 4,
+      "id": 4,
+      "name": "Demolitionist Path",
+      "cost": 250,
+      "description": "\"Pyrotechnic masters of the imperial army, Demolitionists are part engineer, part sorcerer. They were used to break enemy ranks and breach fortifications with their devastating array of explosives and destructive magic. They usually prefer to fight at range, engaging enemies with guns, traps and explosives but they can also be proficient with melee weapons.\" You gain starting skills and ability to progress on the path of Demolitionist Mastery from Grim Dawn game unusually fast.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 5,
+      "id": 5,
+      "name": "Occultist Path",
+      "cost": 250,
+      "description": "\"Once hunted by imperial forces in an effort to control eldritch power, the Occultist's craft focuses heavily on summoning and borrowed powers granted by the three witch \"gods\" Bysmiel, Solael and Dreeg. Their diverse arts include abhorrent curses and spells that inflict damage with poison, acid, and entropic energy. Excelling with neither sword nor gun, they can use either to augment their offense.\" You gain starting skills and ability to progress on the path of Occultist Mastery from Grim Dawn game unusually fast.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 6,
+      "id": 6,
+      "name": "Nightblade Path",
+      "cost": 250,
+      "description": "\"Nightblades were clandestine warriors that sold their services to the great houses of the empire. Nightblades excel with all manner of martial weapons, but are even more feared for the deadly blade magic that is the secret of their trade. Nightblades are not suited to go toe to toe with tougher enemies and rely on illusion to close for quick, devastating attacks or fight from a distance with phantasmal blades.\" You gain starting skills and ability to progress on the path of Nightblade Mastery from Grim Dawn game unusually fast.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 7,
+      "id": 7,
+      "name": "Arcanist Path",
+      "cost": 250,
+      "description": "\"To Arcanists, the manifestation of magic is not some unexplainable mystery or the will of the gods, but a science meant to be unraveled. This pursuit of knowledge drives all Arcanists, always eager to discover a new technique to make their namesake. Arcanists warp the mysterious aether and elements to their will, creating devastating demonstrations of power that rival small armies. However, such raw force leaves little in terms of defense.\" You gain starting skills and ability to progress on the path of Arcanist Mastery from Grim Dawn game unusually fast.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 8,
+      "id": 8,
+      "name": "Shaman Path",
+      "cost": 250,
+      "description": "\"Hailing from the untamed northlands, Shamans were the spiritual leaders and guardians of their people. Claiming an astounding attunement to the wilds and their patron deity Mogdrogen, Shamans are capable of wielding the terrible forces of nature against their foes or even calling upon savage beasts to come to their aid. Shamans excel in the use of brutal two-handed melee weapons, but can easily adapt to other tools of war when conjuring their primal powers.\" You gain starting skills and ability to progress on the path of Shaman Mastery from Grim Dawn game unusually fast.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 9,
+      "id": 9,
+      "name": "Inquisitor Path",
+      "cost": 250,
+      "description": "\"Trained by the secretive Luminari Order, inquisitors were officially sanctioned by the Erulan Emperor to hunt down and eliminate all eldritch and arcane threats to the empire. This dangerous and thankless duty necessitated some unconventional means of combat, including using the powers of their very enemies against them.\" You gain starting skills and ability to progress on the path of Inquisitor Mastery from Grim Dawn game unusually fast.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 10,
+      "id": 10,
+      "name": "Necromancer Path",
+      "cost": 250,
+      "description": "\"Although they primarily engage in the weaving of magic, necromancers are aptly equipped to enter the fray in close quarters, or to weave their death magic into ranged weaponry. Do not for a moment think that a cornered necromancer is easy prey.\" You gain starting skills and ability to progress on the path of Necromancer Mastery from Grim Dawn game unusually fast.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 11,
+      "id": 11,
+      "name": "Oathkeeper Path",
+      "cost": 250,
+      "description": "\"Driven by divine purpose and celestial fire in their hearts, Oathkeepers are a terror to the enemies of humanity. Their wills unbending, their faith their shield. None can withstand the righteous fury of a fully trained Oathkeeper. Oathkeepers may be servants of divine forces, but such forces may not always hold humanity in high regard or be sanctioned by the fallen Erulan Empire. Some Oathkeepers serve dark and corrupted powers, others see salvation in the light of Empyrion; others still believe that the Witch Gods are the only true gods and through their blessing they become a force of change upon Cairn.\" You gain starting skills and ability to progress on the path of Oathkeeper Mastery from Grim Dawn game unusually fast.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 12,
+      "id": 12,
+      "name": "Blueprints: Weapons",
+      "cost": 200,
+      "description": "You gain the mental compendium of all blueprints, which can be found and collected in the game, for weapons and the ability to build them. You only have high skills, deep insight, and mystical powers when creating something from these blueprints. However, over time, some mundane or even more supernatural pieces of skills and knowledge might stick to you through the practice of crafting these items.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 13,
+      "id": 13,
+      "name": "Blueprints: Armor",
+      "cost": 200,
+      "description": "You gain the mental compendium of all blueprints, which can be found and collected in the game, for armor and the ability to build them. You only have high skills, deep insight, and mystical powers when creating something from these blueprints. However, over time, some mundane or even more supernatural pieces of skills and knowledge might stick to you through the practice of crafting these items.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 14,
+      "id": 14,
+      "name": "Blueprints: Faction Items",
+      "cost": 200,
+      "description": "You gain the mental compendium of all blueprints, which can be found and collected in the game, for faction items and the ability to build them. You only have high skills, deep insight, and mystical powers when creating something from these blueprints. However, over time, some mundane or even more supernatural pieces of skills and knowledge might stick to you through the practice of crafting these items.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 15,
+      "id": 15,
+      "name": "Blueprints: Accessories",
+      "cost": 200,
+      "description": "You gain the mental compendium of all blueprints, which can be found and collected in the game, for Aaccessorie and the ability to build them. You only have high skills, deep insight, and mystical powers when creating something from these blueprints. However, over time, some mundane or even more supernatural pieces of skills and knowledge might stick to you through the practice of crafting these items.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 16,
+      "id": 16,
+      "name": "Blueprints: Crafting Materials and Special Items",
+      "cost": 200,
+      "description": "You gain the mental compendium of all blueprints, which can be found and collected in the game, for crating materials along with special items and the ability to build them. You only have high skills, deep insight, and mystical powers when creating something from these blueprints. However, over time, some mundane or even more supernatural pieces of skills and knowledge might stick to you through the practice of crafting these items.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 17,
+      "id": 17,
+      "name": "Blueprints: Relics",
+      "cost": 200,
+      "description": "You gain the mental compendium of all blueprints, which can be found and collected in the game, for relics and the ability to build them. You only have high skills, deep insight, and mystical powers when creating something from these blueprints. However, over time, some mundane or even more supernatural pieces of skills and knowledge might stick to you through the practice of crafting these items.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 18,
+      "id": 18,
+      "name": "Consumables Recipes",
+      "cost": 200,
+      "description": "You gain the mental compendium of all recipes, which can be found and collected in the game, to produce consumables and the ability to make them. You only have high skills, deep insight, and mystical powers when creating something from these recipes. However, over time, some mundane or even more supernatural pieces of skills and knowledge might stick to you through the practice of crafting these items.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 19,
+      "id": 19,
+      "name": "Augment Making Recipes",
+      "cost": 250,
+      "description": "\"Augments are enchanted powders, tinctures and poisons that can be used to empower weapons, rings, and amulets. An item may have only one augment on it at any given time, and applying a new augment overwrites the old one. Salvaging or dismantling an augmented item does not return the augment.\" You gain ability to craft all augments from the game, apply them effectively. You can even tweak recipes slightly or use auguments in creative ways. However, you only have high skills, deep insight, and mystical powers when creating something from these recipes. Although, over time, some mundane or even more supernatural pieces of skills and knowledge might stick to you through the practice of crafting these items.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 20,
+      "id": 20,
+      "name": "Item Set Creation",
+      "cost": 250,
+      "description": "You gain the mental compendium of all blueprints for items from different sets and the ability to make them. You only have high skills, deep insight, and mystical powers when creating something from these recipes. However, over time, some mundane or even more supernatural pieces of skills and knowledge might stick to you through the practice of crafting these items. Via practice you can start applying 'item set' mechanic to different things and even create your own unique item sets. Although, they still will be somehow themed around Grim Dawn mechanics.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 21,
+      "id": 21,
+      "name": "Common Items",
+      "cost": 100,
+      "description": "You have just enough knowledge and skill to make all common quality items from Grim Dawn, along with basic skills to actually use them. Your skill set is pretty narrow and focused on these specific types of items, which makes using them for other purposes a bit problematic and requires additional training.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 22,
+      "id": 22,
+      "name": "Components Creation",
+      "cost": 200,
+      "description": "You are able to produce components from the Grim Dawn game using relatively mundane resources. You also can apply or utilize them on different pieces of equipment to affect their properties or add new ones. This process is quite mysterious, just like the resulting components.",
+      "chapter": "Grim Dawn"
+    },
+    {
+      "__source": "Celestial Something - 8 Grim Dawn",
+      "__line": 23,
+      "id": 23,
+      "name": "Devotion Constellations",
+      "cost": 50,
+      "description": "This perk gives you one devotion point to spend on stars from Grim Dawn constellations, granting you some boons and effects the have. Although they are not the same as in the game, they are inspired by it and warped by the actual meanings and ideas these constellations represent, and your personality, your nature. You have a general knowledge of their lore. Be careful, because this might have some unexpected side effects. This perk can be purchased multiple times. You don't have to spend the obtained devotion points - they can be stored indefinitely and used whenever you feel like it. After buying all the stars from all the constellations, you gain the ability to give these points to other people after each purchase of the perk.",
+      "chapter": "Grim Dawn"
+    }
+  ],
+  "11": [
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 1,
+      "id": 1,
+      "name": "Skill Gems",
+      "cost": 400,
+      "description": "You are capable of making skill gems and item sockets to apply them to different objects. You also have encyclopedic knowledge of all skill gems from the Path of Exile game and skills at how to use them.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 2,
+      "id": 2,
+      "name": "Not Enough Flasks",
+      "cost": 300,
+      "description": "You are capable of making various flasks from the Path of Exile game. You also have encyclopedic knowledge of them and a general idea of how to use them. Their way of working is highly inspired by the in-game mechanics.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 3,
+      "id": 3,
+      "name": "Quality Items",
+      "cost": 200,
+      "description": "You can spend additional time and resources to apply higher quality to the targeted item, inspired by Path of Exile game mechanics. It is harder to do with types of items that are not included in the game as part of the Quality mechanic. The process is also more tedious and costly, proportional to the complexity and power of the targeted item. Quality is easier to apply when you create an item from scratch.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 4,
+      "id": 4,
+      "name": "Complete Modifier",
+      "cost": 300,
+      "description": "You can apply modifiers inspired by the Path of Exile game mechanic to your creations. Anything you made yourself - such as a device, weapon, armor, landmark, creature, etc. - is a valid target for applying a modifier, while its a in a process of being made by you. However, it works best on things similar to the entities modified usually in the original game. The cost in time and resources also scales proportionally with the power of the modifiers and the nature of the targeted creation.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 5,
+      "id": 5,
+      "name": "Beastcrafting",
+      "cost": 350,
+      "description": "\"Beastcrafting is a method of crafting by sacrificing beasts to the blood altar in the Menagerie. Each beastcrafting recipe requires four beasts to be sacrificed, with most of them requiring one or two specific Red Beast, and the rest any Rare Beast. The four chosen beasts are released into the arena surrounding the blood altar and must be killed to complete the recipe. If the player dies during the attempt, the recipe fails and the beasts are lost.\" - Now you have the ability to use this mechanic in form of a ritual.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 6,
+      "id": 6,
+      "name": "Bow Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique bow from the Path of Exile game and the ability to create this specific bow. If you roll the same bow again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 7,
+      "id": 7,
+      "name": "Sceptre Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique sceptre from the Path of Exile game and the ability to create this specific sceptre. If you roll the same sceptre again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 8,
+      "id": 8,
+      "name": "Mace Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique mace from the Path of Exile game and the ability to create this specific mace. If you roll the same mace again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 9,
+      "id": 9,
+      "name": "Axe Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique axe from the Path of Exile game and the ability to create this specific axe. If you roll the same axe again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 10,
+      "id": 10,
+      "name": "Sword Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique sword from the Path of Exile game and the ability to create this specific sword. If you roll the same sword again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 11,
+      "id": 11,
+      "name": "Claws Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique claws from the Path of Exile game and the ability to create this specific claws. If you roll the same claws again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 12,
+      "id": 12,
+      "name": "Dagger Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique dagger from the Path of Exile game and the ability to create this specific dagger. If you roll the same dagger again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 13,
+      "id": 13,
+      "name": "Stave Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique stave from the Path of Exile game and the ability to create this specific stave. If you roll the same stave again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 14,
+      "id": 14,
+      "name": "Wand Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique wand from the Path of Exile game and the ability to create this specific wand. If you roll the same wand again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 15,
+      "id": 15,
+      "name": "Fishing Rod Collection",
+      "cost": 100,
+      "description": "You gain a collection of fishing rods from the game Path of Exile, along with exceptional skills to use them for fishing and, surprisingly, fighting. You also can craft all the given rods by hand. You don't have to summon your prize instantly - you can hold onto items until a better time comes.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 16,
+      "id": 16,
+      "name": "Amulet Gamble ",
+      "cost": 200,
+      "description": "This perk gives you a random unique amulet from the Path of Exile game and the ability to create this specific amulet. If you roll the same amulet again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 17,
+      "id": 17,
+      "name": "Belt Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique belt from the Path of Exile game and the ability to create this specific belt. If you roll the same belt again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 18,
+      "id": 18,
+      "name": "Ring Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique ring from the Path of Exile game and the ability to create this specific ring. If you roll the same ring again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 19,
+      "id": 19,
+      "name": "Armour Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique piece of armour (body, boots, gloves, helmet) from the Path of Exile game and the ability to create this specific armour piece. If you roll the same armour piece again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 20,
+      "id": 20,
+      "name": "Quiver Gamble",
+      "cost": 0,
+      "description": "This perk gives you a random unique quiver from the Path of Exile game and the ability to create this specific quiver. If you roll the same quiver again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
+    },
+    {
+      "__source": "Celestial Something - 9 Path of Exile",
+      "__line": 21,
+      "id": 21,
+      "name": "Shield Gamble",
+      "cost": 200,
+      "description": "This perk gives you a random unique shield from the Path of Exile game and the ability to create this specific shield. If you roll the same shield again from this perk, you gain a bit more insight into the actual magic and science behind its creation or the ability to modify the original recipe a little. It gradually reveals more with each repetition. You don't have to summon your prize instantly - you can hold onto it until a better time comes. This perk can be purchased multiple times.",
+      "chapter": "Path of Exile"
     }
   ]
 }
