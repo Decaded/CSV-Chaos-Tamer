@@ -2452,7 +2452,7 @@
       "__source": "Gardens Of The Cosmos - Flora",
       "__line": 273,
       "source": "Traveler's Gate",
-      "name": "Poisonous Flower Seeds\r\n",
+      "name": "Poisonous Flower Seeds\n",
       "description": "These seeds will grow inside a week, and their pollen contains several different properties depending on the color of the flower, from causing sleep or paralysis to stopping the heart completely! This pollen is relatively easy to collect, but may not be effective on those who know to hold their breath.",
       "cost": 200,
       "chapter": "Flora"

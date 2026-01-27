@@ -538,7 +538,7 @@
       "__line": 10,
       "cost": 100,
       "name": "DD3-R1 ",
-      "source": "Star Wars: Death Troopers Gauntlet V 1.0\r\n",
+      "source": "Star Wars: Death Troopers Gauntlet V 1.0\n",
       "description": "A KX series security droid you were assigned when you were sent to investigate what happened to the Imperial detachment sent to The Vector. While surprisingly unhelpful in a fight, DD3-R1 can link with your helmet and armor to see your surroundings, and remotely access computers and terminals. It can also excellently map out routes that suit your needs, and make adjustments to those routes if necessary.",
       "chapter": "Junk Dealer"
     },

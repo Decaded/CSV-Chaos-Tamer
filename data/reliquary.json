@@ -4175,7 +4175,7 @@
       "__line": 69,
       "cost": 600,
       "name": "Axe of Grimnir",
-      "source": "\r\nWarhammer Fantasy - Karaz Ankor ",
+      "source": "\nWarhammer Fantasy - Karaz Ankor ",
       "description": "This two handed war-axe increases the physical strength of the bearer, cuts through most magical defenses, strikes harder against larger enemies and demonic foes, and increases in power with the strength of the soul of the wielder. In the hands of a god, it can even bring true death to demons and gods of equal or weaker strength.",
       "chapter": "Melee Weapons"
     },
@@ -4203,7 +4203,7 @@
       "__source": "The Celestial Reliquary v2 - Projectile Weapons",
       "__line": 1,
       "cost": 600,
-      "name": "\r\nFinal Trump ",
+      "name": "\nFinal Trump ",
       "source": "Final Fantasy.",
       "description": "This deck of cards has no equal and likely never will in this world. Each card is a work of art with intricately painted designs depicting figures both lovely and frightening. One would never expect such lovely creations of having a far more sinister and deadly use. Created by a Magi with a flair for the dramatic, these cards can be imbued with touches of mana to turn them into terrifying thrown weapons. The edges each become as sharp as obsidian and the wielder can even control their flight through that touch of magic. Do not worry about losing one of these priceless cards. They will always return to their box a day after they leave it.",
       "chapter": "Projectile Weapons"
