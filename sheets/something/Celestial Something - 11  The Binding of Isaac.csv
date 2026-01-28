@@ -7,34 +7,34 @@
 6,Keeper's Sack,400 CP,"""Balls."" Each time you purchase something from a willing trader, you receive a random permanent physical stat upgrade proportional to your spendings. It works better for large one-time expenditures made in person, where actual goods are being bought and spent sum is big enough to trigger the effect. It's very finicky about what counts as a ""purchase"" and cannot be cheated, not easily."
 7,Forget Me Now,600 CP,"""I don't remember..."" This perk gives you a special pill. It lets you ""reset"" your day once - right after taking it, traveling back 24 hours. You bring items on your person, memories, and other perks into the past with you, along with your current physical state. For instance, if you are wounded at the moment of pill effect activation, you will still be wounded afterward. This perk can be purchased multiple times. Remember, traveling back doesn't mean things will happen in exactly the same way. You gain general knowledge about the pill effect from the perk."
 8,The Hourglass,200 CP,"""Temporary enemy slowdown."" You gain an hourglass, which can be used to slow down everyone you perceive as enemies around you for eight seconds. It has a cooldown. The item also provides feedback about the recharge status and knowledge of the Hourglass use to the holder. The effect is not temporal in nature, but inertial/kinetic - doesn't slow perception of time."
-9,,,
-10,,,
-11,,,
-12,,,
-13,,,
-14,,,
-15,,,
-16,,,
-17,,,
-18,,,
-19,,,
-20,,,
-21,,,
-22,,,
-23,,,
-24,,,
-25,,,
-26,,,
-27,,,
-28,,,
-29,,,
-30,,,
-31,,,
-32,,,
-33,,,
-34,,,
-35,,,
-36,,,
+9,A Pony,100 CP,"""Flight + Dash Attack."" This stick horse item grants flight and increases speed passively. Upon active effect use, you charge in the direction the pony is facing, providing a degree of invulnerability during the charge and dealing damage to enemies hit. Active use of this item has a cooldown. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them."
+10,Anarchist Cookbook,100 CP,"""Summon bombs."" This is an actual Anarchist Cookbook and can be read like any normal text. Although it is more in-depth and factual, it also provides a slight passive boost to learning and using the knowledge contained within. The active effect spawns seven primed explosive devices (of reasonable power) at random points nearby the user, which explode in a few seconds. It has a cooldown and grants general knowledge about the effects of the book and how to use it to the person who equipped it."
+11,Best Friend,100 CP,"""Friends 'till the end."" This small doll item, upon active use, spawns a decoy that explodes after 5 seconds. Enemies are attracted to the decoy and lose track of the user. This effect has a cooldown. The decoy looks like a person lying on the ground but can have different appearances and illusionary details to better attract enemies."
+12,White Pony,150 CP,"""Flight + holy death"". This stick horse item grants flight and increases speed passively. Upon active effect use, you charge in the direction the pony is facing, providing a degree of invulnerability during the charge, dealing damage to enemies hit and also creating damaging beams of light. Active use of this item has a cooldown. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them."
+13, Glowing Hourglass,800 CP,"""Turn back time."" Upon active use of this item, time gets rewound back toward the last bifurcation point in your timeline - such a moment at which grant changes happen due to small choices made by you. Usually, it brings you back a few minutes, but it can also be an hour or even up to a whole day in the past. Only user's mind travels back; nothing else does. This item can be used three times, and repeated use cannot take you further back than 24 hours from the previous use. This means you cannot use it twice in quick succession to travel more than 24 hours back. The only way to recharge this item is by rolling and purchasing this perk again (for half price), but hourglass can only store up to three charges. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them."
+14,Yum Heart,200 CP,"""Reusable regeneration."" This soft heart-shaped object is tasty. A bite taken from it causes the user to regain some health almost instantly, but then the effect goes on a cooldown, and you cannot bite it again until it recharges. It doesn't heal status effects, but it is very effective against wounds and physical consequences of things like toxins. It cannot heal cancer or genetic damage, but somewhat effective against more physical parts of brain and radiation damage. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them."
+15,Spoon Bender,300 CP,"""Homing shots."" This perk grants you the ability to apply a TBOI-inspired homing effect to your ranged/projectile-based attacks. It causes them to bend toward the closest enemy nearby. You don't have manual control over who/what is targeted and should instead try to position yourself in the right way to influence it. This effect works a bit differently for various types of ranged attacks you might use."
+16,The Wafer,400 CP,"""Damage resistance."" Most sources of harm that would cause more damage than a certain threshold will only deal a fraction of it, which is a constant value. For example, being shot would only leave a bad bruise and maybe some broken bones, depending on where the hit landed. Remember, the effect is less effective or even doesn't work on some forms of damage."
+17,Holy Mantle,400 CP,"""Holy shield."" This perk grants an invisible shield/barrier that negates the first instance of damage taken. It takes some time to recharge and cooldown is lower when outside immediate danger or battle. It works against most types of damage, but not all of them."
+18,Incubus,400 CP,"""Dark Friend."" This perk allows you to spawn and dismiss a demonic familiar that floats nearby you and shoots ranged attacks identical to your current ones in terms of damage, rate of fire and special effects. For example, if you are using a Tommy gun with tungsten bullets, the Incubus will mimic this ranged attack."
+19, Dead Eye,200 CP,"""Accuracy Bbrings power!"" This perk increases damage each time an enemy is hit by your attack. The damage bonus resets when you miss a shot. This effect has a certain bonus limit and does not work for some types of attacks (like lasers). You can toggle the effect on and off."
+20,Holy Light,300 CP,"""Holy death shot."" This perk allows you to either: add a chance to fire a 'holy shot' - a modification of your ranged attack that creates a damaging light beam in the area if it hits an enemy; or apply this effect to your attack intentionally, but with a specific cooldown between each application. You can toggle the effect of this perk, or even turn it off."
+21,Rock Bottom,1000 CP,"""It's only up from there"". This perk revents your physical attributes from falling below their highest values reached. Attributes continue to be calculated normally internally. Rather than use your current stats, items and effects will impact the same way they would as if you did not have Rock Bottom. Temporary buffs work normally, though they may make reaching new best values harder after the buff has worn off. Stat penalties are accounted for, causing increased difficulty of reaching new best values."
+22,PJs,100 CP,"""You feel cozy."" This perk grants you 4 'soul hearts' and fully restores your health. Soul hearts work like a form of absorptive armor, taking damage instead of hurting your body. Depending on the severity, a different number of metaphorical hearts will be lost to absorb the damage. You can have a maximum of 12 soul hearts."
+23,Book of Revelations,100 CP,"""Reusable soul protection."" This item, upon use, grants one soul heart. Soul hearts work like a form of absorptive armor, taking damage instead of hurting your body. Depending on the severity, a different number of metaphorical hearts will be lost to absorb the damage. You can have a maximum of 12 soul hearts. There is a small chance of encountering the Harbinger boss attacking you shortly after using the book. The wielder of the book gains knowledge of how to use it and a general description of its effect. The active effect has a relatively long cooldown. You can also read it as a normal book."
+24,Monstrance,200 CP,"""Purifying light."" This perk gives you the ability to turn on an aura, which deals damage to enemies inside it. The closer they are, the more damage is dealt. Effect looks like a brightened area around you and a dim light."
+25,Book of Shadows,150 CP,"""Temporary invincibility."" This item creates a protective shield, nullifying almost all types of damage for 10 seconds upon activation. The wielder of the book gains knowledge of how to use it and a general description of its effect. The active effect has a cooldown. You can also read it as a normal book."
+26,Brimstone,200 CP,"""Blood laser barrage"". This perk lets you shoot blood laser beam from your mouth that pierces through enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period. This perk can be purchased twice to get upgraded version."
+27,Stop Watch,300 CP,"""Let's slow this fown a bit..."" This perk slightly increases your movement and reaction speed. It alters perception to make things move only at 80% of their speed from your point of view, without losing any understanding of events happening around you. It takes some time for the brain to adapt to this new reality. This power can be toggled."
+28,Epiphora,150 CP,"""Intensifying tears."" Shooting in one direction increases your rate of fire until the cap is reached. As soon as you change direction or stop shooting, the rate of fire resets to its normal amount. The effectiveness of the effect depends on the type of attack used. You can toggle this ability."
+29,Red Candle,50 CP,"""Flame on."" This magical item can be used to shoot a blob of strangely persistent fire. It will burn in the targeted location for some time, scorching the surrounding area, and can be moved by strong enough wind or force while it lasts."
+30,The Candle,50 CP,"""Reusable flames."" This magical item can be used to shoot a blob of blue fire, which disintegrates things on contact and diminishes quickly. It works better against living and organic matter. A wisp of blue fire is hard to move after it has been thrown."
+31,Guppy's Collar,300 CP,"""Eternal life?"" This perk grants a permanent 50% chance to respawn with a highly diminished state of health after death. You are not wounded after respawning, just fragile."
+32,Pyromaniac,300 CP,"""It hurts so good +5 bombs"". This perk grants immunity to explosion damage and fire damage. It also causes explosions to heal you. More exotic flame/explosion effects might still affect you negatively or interact weirdly with this power."
+33,A Dollar,50 CP,"""$$$"" This perk gives you 100 Pennies. In this case, Pennies are imaginary and immaterial unspecified currency, which you can materialize into actual money at any moment. It works only one way - Pennies into material currency, but be sure - now you have some sizable sum in your metaphorical (and soon literal) pocket!"
+34,The Compass,100 CP,"""The end is near"". This perk gives you a mental compass in the back of your mind, which points you toward places of interest nearby in your current location. It might take some time to figure out what the Compass is showing you, but behind all the symbols it uses, there is logic and system."
+35,Contagion,200 CP,"""Outbreak!"" The first enemy killed in a battle releases a gas cloud that poisons nearby enemies in small radius. Affected enemies will also release gas upon death, spreading the effect. This gas is not permanent, existing only for a short moment."
+36,Playdough Cookie,150 CP,"""Tasty rainbow"". This perk let's you turn your shots multicolored. Each color comes with a different status or tear effect applied to the shot. Colours and effects for each projectile is random, when active. "
 37,,,
 38,,,
 39,,,
