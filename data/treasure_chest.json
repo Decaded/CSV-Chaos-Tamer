@@ -1,0 +1,1922 @@
+{
+  "1": [
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 1,
+      "cost": 0,
+      "name": "Barometer ",
+      "source": "Age of Sail",
+      "description": "A marvel of the modern age, this device measures the air pressure. When the needle drops below the red line, you’re no more than a few hours out from a storm.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 2,
+      "cost": 0,
+      "name": "Books on Sailing ",
+      "source": "Age of Sail",
+      "description": "Twenty of the best books on how to sail, a mix of contemporary and modern. The Manual for Sailing, Sailing For Dummies, Sea Power, that sort of thing.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 3,
+      "cost": 0,
+      "name": "Almanac ",
+      "source": "Age of Sail",
+      "description": "A book of 21st Century quality maps and charts, modified to fit local conditions, no canals that don’t exist and so on. Be careful who sees them, because nobody has maps this good.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 4,
+      "cost": 0,
+      "name": "Rations",
+      "source": "Age of Sail",
+      "description": "Hardworking sailors would eat 3,000-6,500 calories a day, much of it expensive salted meat. Whatever else you may add, you get a basic minimum weekly ration of; 7 lbs. Biscuit, 4 lbs. Beef, 2 lbs. Pork, 2 pints peas, 2 pints oatmeal, 12 oz. cheese, 6 oz. each of sugar and butter, 7 gallons beer, and enough lime or lemon juice to ward off scurvy.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 5,
+      "cost": 100,
+      "name": "Supply Crates ",
+      "source": "The Pirates of Darkwater",
+      "description": "A set of a dozen sturdy wooden crates. Any foodstuffs or other perishables placed in the crates will enter a suspended state where time will not pass for them—they will never go bad or rotten, and pests such as insects or bacteria will not touch them. As a bonus, the crates start packed to the brim with a dizzying array of Merian foods, from the simple to the expensive and exotic, including minga melons, draja fruit, viperion eggs, puca-luca pie, baruka bread, janda cakes and candy clams.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 6,
+      "cost": 100,
+      "name": "Warrant of Trade",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "This Warrant is a very fancy bit of paper that is presented by the East India Company or the King. Or someone else important. It gives you the right to transport goods, even those normally considered illegal in your area (NO MATTER where that area may be). If you’ve got some legal skills, it could even be interpreted to allow you to be a lawful pirate (After all, you’re just transporting goods from their ship to yours!)",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 7,
+      "cost": 100,
+      "name": "Plunder",
+      "source": "Assassin's Creed Black Flag",
+      "description": "A ship is, to certain individuals, just a floating treasure chest. And so many valuable and useful materials can be found here. Namely, Wood, Metals, Cloth, Rum and Sugar. You now get a weekly shipment of each of these materials, be it for crafting purposes, personal enjoyment or selling.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 8,
+      "cost": 100,
+      "name": "Fancy Carriage",
+      "source": "Cutthroat Island V1.0.",
+      "description": "A horse-drawn carriage with plenty of embellishment to announce that the one riding in this is high-class. The seats and bench are quite comfy, and the interior will never be stuffy or drafty.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 9,
+      "cost": 100,
+      "name": "Ship Supplies",
+      "source": "Cutthroat Island V1.0.",
+      "description": "Enough fresh water, preserved food, ammunition, ship parts, medical supplies and more to outfit any one vessel you wish.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 10,
+      "cost": 200,
+      "name": "Fancy Liquor ",
+      "source": "The Pirates of Darkwater",
+      "description": "A small wooden crate containing a selection of 12 of the finest alcohols to be found in Mer, including wines, whiskies, rums and gins. As well as being excellent quality, you’ll find that a bottle from this chest is pretty much always the perfect gift—anyone you’d like to butter up with a bribe or just perk up with a present will react positively to receiving just one of these bottles (even if they don’t normally partake: it’s the thought that counts, after all!). The crate refills itself, replacing any missing bottles, once a month.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 11,
+      "cost": 200,
+      "name": "Arsenal",
+      "source": "The Pirates of Darkwater",
+      "description": "A well-appointed arsenal of common Merian weapons, including swords, daggers, spears, harpoons, bows, and so on—enough to outfit a crew of a hundred ruffians. This also includes dart pistols (a one-handed weapon that shoots a single 12-inch, three-pronged dart) and rifles (two-handed weapon that shoots two 18-inch, multi-pronged darts).",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 12,
+      "cost": 200,
+      "name": "Slave Shipment",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "An unethical and sick practice, but shockingly legal in many countries right now. A lot of people make good money from selling their fellow human beings. Distasteful, but if you want to join in the trade, take this. A few dozen broken slaves, guaranteed to never rebel,, unlike those of Maroon. The specifics like nationality are up to your tastes and should you sell, damage or kill one of them a new one will be provided within a month.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 13,
+      "cost": 200,
+      "name": "Ship's Provisions",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "Because pirates actually need to eat in these movies. This is a medium ship’s worth of supplies containing everything needed to keep a ship operational during extended voyages. This means dry food, water, and even some luxury items like coffee, tea, and sugar for you. This also includes items for ship maintenance and medical items, and the supplies can sustain a ship for three months. The supplies replenish every three months, automatically refilling any ship of your choosing. Post-jump, it adapts to whatever vessel you are using.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 14,
+      "cost": 200,
+      "name": "Trade Goods",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "A cargo hold's worth of valuable trade goods, enough to fill a vessel. You choose what type of goods this represents: exotic spices, weapons and ammunition, or any other trade goods appropriate to the era. The quality is excellent, and this is enough merchandise to make a substantial profit if sold wisely. Here’s the truly valuable part: this shipment replenishes every three months, and you can even purchase this multiple times for different types of goods. Post-jump, the goods adapt to be valuable to whatever setting you are entering.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 15,
+      "cost": 200,
+      "name": "Dead Man's Chest ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You possess an ornate chest secured with a unique key. When you place something you truly care about inside the chest and lock it, that item is preserved in stasis, making it immune to rust, decay, aging, or deterioration. The chest also provides excellent mundane protection, being sturdy, water-tight, and resistant to any type of damage that would destroy normal containers. Additionally, items locked inside are significantly harder to find through magical, supernatural, and ordinary means, as the chest has a ‘’nothing important here’’ effect on any observer. The chest can only be opened with its unique key, which cannot be easily duplicated and has a tendency to return to you if lost.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 16,
+      "cost": 400,
+      "name": "A Treasury Full of Gold ",
+      "source": "Sinbad Legend of the Seven Seas JumpChain",
+      "description": "You’ve got fat, massive piles of gold. Truly monumentous, beautiful, piles of buillon. It’s not enough to make a city out out of it, but you could probably christen a new treasury building made out of the stuff.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 17,
+      "cost": 400,
+      "name": "Exotic Materials",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You have access to a renewable supply of rare and valuable materials for smithing. This might include Damascus steel, rare woods, precious metals, unusual alloys, or other materials that are normally hard to obtain. Once per month, a shipment arrives containing enough materials for a major project. The materials are always of exceptional quality and allow you to create items far superior to what's normally possible",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 18,
+      "cost": 50,
+      "name": "Canned Stores",
+      "source": "Age of Sail",
+      "description": "Canning was invented in the Napoleonic Wars, if not quite in its modern form. This innovation of trapping food in an airtight container and boiling it to kill germs led to food that kept far longer. In your case, you will always find a few cans of meat and veggies, just enough to go around the crew, whatever the state of your larder otherwise.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 19,
+      "cost": 600,
+      "name": "Nine Pieces of Eight",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "These nine items are the original Pirate Lords' pieces of eight. Together, these items can be used to bind almost anything, from entities and magic to creatures and gods. The binding ritual is complex but not impossibly so, requiring all nine items and a significant sacrifice. Once something is bound, only the ritual sacrifice of all nine items at once can break that binding. The items themselves are indestructible through normal means, but they can be destroyed as part of the release ritual. After you use them, they'll reform over the course of a year.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 20,
+      "cost": 600,
+      "name": "Merchant Fleet ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You own and operate a merchant fleet of six merchant vessels, fully crewed and supplied, ready to conduct trade throughout the Caribbean and beyond. The real value of this fleet is its cargo generation: once per month, when your ships have empty cargo space, they automatically fill with trade goods appropriate to profitable routes you've established. The cargo is always valuable and in demand at your destination ports, generating substantial profit. The fleet operates largely independently, with competent captains and crews handling day-to-day trading operations while you set overall strategy and routes. You can also use the fleet to transport your own goods, smuggle contraband (though that risks your legitimate reputation), or support other operations by providing logistics and transportation. This item makes you one of the wealthier merchants in the Caribbean, and you can use your influence to either gain political influence or simply become wealthy through trade.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 21,
+      "cost": 600,
+      "name": "Spanish Treasure",
+      "source": "Cutthroat Island V1.0.",
+      "description": "A massive amount of gold, silver and jewels that was intended for Spain, but was misplaced along the way. Without getting into hard numbers, just know that this is a really, truly ridiculous amount of wealth.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 22,
+      "cost": 800,
+      "name": "Cartagena Fleet",
+      "source": "Alestorm",
+      "description": "Are you sure you’re a pirate and not a major country? You now possess a fleet of 30,000 men, along with 29 ships of the line, 22 frigates, 71 sloops-of-war, 2 hospital ships, 80 troop ships, and 50 merchant ships. This fleet does not exist in a jump until you summon it forth, sailing to your location - or the nearest coast - over the course of a week. At that point they will remain in the jump, and it will be your task to keep them supplied until you dismiss them. Once you dismiss them you cannot summon them again for 1 year, but they will reappear fully resupplied for a campaign, all men and ships that were lost replaced. These ships - and their men - remain at an 18th century level of training and technology each time you summon them and any additions must be applied again by yourself. Still during the period of this jump this is might enough to rule the seas. These men and ships are absolutely loyal to you, willing to serve in any way necessary.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 23,
+      "cost": 600,
+      "name": "Time Cube",
+      "source": "Alestorm",
+      "description": "This is a mystical cube of great power. Once per month it can unfold into a field that alters time in a region; from as small as 1 km radius to as much as 16,000 miles in radius. This field either increases the rate of time within the area by x4 or decreases the flow of time in this area to 1/4th. This field lasts for 6 hours, and while activated the time cube cannot be moved, save by moving the entire region of the field (such as how the Earth’s movement moves everything on it).",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 24,
+      "cost": 400,
+      "name": "Famous Ol’ Spiced ",
+      "source": "Alestorm",
+      "description": "Through methods long hidden we carefully craft a beverage to rival the Huntmaster's draught. The mere smell of which, the gods would entice and them that know call it that Famous Ol' Spiced. And now you have a jug of this near mythical brew. Besides being a drink worthy of the gods themselves, and able to intoxicate even divine beings as if they were mortal, it is a true rival to the Huntmaster’s draught. Any who drinks from this jug finds their powers and abilities increased based on how much they drank. If you were to drink the whole jug no matter how powerful you were already all your powers and abilities would double, and if you were a mere normal man they would likely increase by an order of magnitude. If shared out, a single slug of this drink could double an ordinary man’s power and be noticeable (>1% increase) no matter how great you’ve grown. This jug refills weekly.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 25,
+      "cost": 200,
+      "name": "Buckfast Powersmash",
+      "source": "Alestorm",
+      "description": "You have a barrel of Buckfast Powersmash, and it will refill weekly. It’s unclear what’s in it, except for caffeine and that it can get you drunk. Whatever it is it seems to work as both an intoxicant and almost paradoxically a stimulant, leading those who drink it into a buzzed and inebriated state where their judgment is impared, while also driving them to heightened states of activity and slightly improved physical ability as if their adrenaline was surging.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 26,
+      "cost": 200,
+      "name": "Billy o’Tea ",
+      "source": "Alestorm",
+      "description": "This ship isn’t yours. But that doesn’t mean it’s not useful to you. Taking the shape and form of a whaling vessel it will visit your location once every 2 weeks, even if it has to sail on the air to reach you, assuming you are not trapped in an indoor space too small for it to arrive in. This ship carries various supplies from the current setting, nothing particularly rare but it can contain rather specialized wares if you need them.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 27,
+      "cost": 200,
+      "name": "A Fucking Cannon",
+      "source": "Alestorm",
+      "description": "You possess a cannon. This is a rather normal cannon one would see on a ship of the 16th-17th century. Except that you are able to store it and pull it out of a sort of cannon-holding space with a touch. Which can also store up to 100 cannon balls and powder enough to launch them. This cannon will automatically load itself from this store at the same speed as a well trained crew. All you’ve got to do is aim and fire.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 28,
+      "cost": 100,
+      "name": "Tequila ",
+      "source": "Alestorm",
+      "description": "This is a supply of tequila enough to supply roughly 50 pirates for 1 week. It restocks weekly. You may purchase this item multiple times, each time the amount of tequila provided increases by an order of magnitude (2nd purchase is 500 pirates’ worth, 3rd purchase is 5,000, 4th purchase is 50,000 etc). In case you want to get a whole country (or world) drunk.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 29,
+      "cost": 100,
+      "name": "Rum ",
+      "source": "Alestorm",
+      "description": "This is a supply of rum enough to supply roughly 50 pirates for 1 week. It restocks weekly. You may purchase this item multiple times, each time the amount of rum provided increases by an order of magnitude (2nd purchase is 500 pirates’ worth, 3rd purchase is 5,000, 4th purchase is 50,000 etc). In case you want to get a whole country (or world) drunk.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 30,
+      "cost": 50,
+      "name": "Wooden Leg",
+      "source": "Alestorm",
+      "description": "Despite being made of wood, you will find that this wooden prosthetic leg will work in all ways as well as a creature’s natural leg if put in the place of their leg, though it will still be made of wood it will benefit from any supernatural resilience, strength, or abilities they possess. This includes adapting to their powers, or even shapeshifting with them - although it will always remain cosmetically wooden. Alternatively you may purchase a wooden prosthetic for another appendage such as a wooden arm, or a wooden head. These function similarly, with the wooden head even able to replicate their memories and cognitive abilities, though it will be up to you to find a way to keep them alive long enough to put the wooden head on in its place, or to revive them once you have.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 31,
+      "cost": 100,
+      "name": "Master Craftsman ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You have exceptional talent as a blacksmith and metalworker. You can forge swords, repair firearms, create intricate locks and keys, and work metal with a speed that borders on the supernatural. Your blades are also perfectly balanced, your repairs are flawless, and you instinctively understand how to fix any broken item. You could easily find work anywhere with skills like these if fate didn’t have other plans for you.",
+      "chapter": "Cargo"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Cargo",
+      "__line": 32,
+      "cost": 50,
+      "name": "Cider Drinker",
+      "source": "Alestorm",
+      "description": "You have all the skills necessary to run a 17th century family farm. You know the basics of agriculture and animal husbandry, as well as the basics of maintaining the tools and buildings of a farm. While not a fully proficient carpenter or blacksmith, you have a smattering of carpentry and the skills necessary to perform minor repairs and common maintenance to metal tools. You could survive as a subsistence farmer, assuming you had the land, and some help building the farm in the first place.",
+      "chapter": "Cargo"
+    }
+  ],
+  "2": [
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 1,
+      "cost": 50,
+      "name": "Familiar ",
+      "source": "The Pirates of Darkwater",
+      "description": "Many of the locals have small familiars, such as Mantus’s pet Memorrat, Slaggon’s bioguide Roulette, or Garen’s servant Rathmore. You can design your own intelligent familiar, completely loyal to you, with abilities in line with the examples listed above.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 2,
+      "cost": 300,
+      "name": "Crocodile ",
+      "source": "Peter Pan",
+      "description": "This is the infamous Crocodile of Neverland, the one who hunts Hook to the ends of the island on the scent of his flesh. Aside from her carnivorous instincts, she is actually pretty nice, at least to you, and will even let you ride her. Crocodiles are one of the most dangerous animals in nature, being able to sneak up on foes yet also overpower them physically, and Neverland’s Crocodile puts them all to shame. If she bites off flesh from a target, she can track the victim to the ends of the earth. The clock she swallowed will die in the last year of the jump, but she will allow you to reach in and fix it. The clock is always right on time, no matter where you are. But the clock in her is also metaphorical: the Crocodile symbolizes the inevitability of time, and she is immune to all temporal effects. It’s also possible, if you allow her to safely swallow you, to merge spirits with her as a single being –but you can separate whenever the two of you feel like it, don’t worry.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 3,
+      "cost": 150,
+      "name": "Shoulder Animal",
+      "source": "Peter Pan",
+      "description": "You have a very intelligent animal, small enough to ride on your shoulder. It may be a trained parrot, a ship’s cat, or a tiny monkey. No matter the species, it’s far more intelligent than it should be and can somehow communicate with you. The perfect spy, and also perfect to throw at your enemies as a distraction in a fight (it can take care of itself).",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 4,
+      "cost": 100,
+      "name": "Restless Pirate Lass ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Wealth buys not everyone happiness. This woman is proof of that. As the daughter of a wealthy family, she found her luxurious life tedious and instead ran away from home to form her own Pirate Crew. Commandeering the Lillien Knights, she is an incredibly talented fighter and while not exactly a good person, isn’t necessarily a bad one either.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 5,
+      "cost": 100,
+      "name": "Aspiring Treasure Hunter ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "This young girl isn’t the first to dream of piracy but she is one that stands out. Coming from a foreign land, she has come all the way to the Caribbean’s to follow her dreams. However let’s just say there was an incident and now she is trying to raise enough money to buy her own ship. If you take her along for now or help her with her dream, she is sure to be thankful.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 6,
+      "cost": 100,
+      "name": "Voyager of the Storm",
+      "source": "Assassin's Creed Black Flag",
+      "description": "This woman claims to be a renowned explorer who successfully became the second person alive who circumnavigate the globe, the one who served as the foundation for the East India Company and who is credited with the virtual destruction of Spain’s invincible Armada. Quite the bold claim, given said legendary captain should be long dead... and was believed to be male. Nevertheless, on board the Golden Hind and with a loyal crew at her side, this woman is a true devil on the seas and always on the lookout for another hedonistic pursuit.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 7,
+      "cost": 300,
+      "name": "The Beast",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Stick to the shallows, keep an eye on the waves, and always be ready to abandon ship… because out there, there are monsters. Actually, it’s not just out there - it seems one of them has taken a liking to you and decided to follow you around. Whether it’s a Kraken pulling ships into the deep, a gigantic turtle ramming ships with its hardened shell, a Void Dragon hunting ships between the stars or some other kind of creature entirely, this monster will follow you wherever you go. It’s only about as intelligent as a household pet - smart enough to understand basic commands or possibly speak (i.e. repeat) a few words, but nowhere near human-level intellect. Nonetheless, it is unfailingly loyal, and while it doesn’t count as a Companion, it will slowly recover from any injuries and comes back to life after a week should it be killed. Which isn't gonna happen often, considering it can probably eat most ships that try fighting it. You may import an existing creature or pet you already possess at no extra cost, granting it a suitably monstrous form as appropriate.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 8,
+      "cost": 100,
+      "name": "Easter Island Head",
+      "source": "Muppet Treasure Island.",
+      "description": "A talking Easter Island head with a personality of your choice. Knows a vast amount about a mundane topic of your choice",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 9,
+      "cost": 600,
+      "name": "Captain",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "Any crew you gather will follow you unto the edge of the world itself. You have a mastery of tactics upon the waves, crossing Ts regularly and escaping those battles that should not be fought. You can take a bunch of impressed landlubbers and turn them into the pride of the King’s Navy with but a few days and a limited supply of rum.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 10,
+      "cost": 400,
+      "name": "Laboon ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You've gained the companionship of a massive island whale, easily over 120 meters long and impossibly heavy. Despite his enormous size, Laboon is a gentle soul who's grown deeply attached to you. He'll follow your ship across the oceans, occasionally surfacing to check on you or assist when you're in danger. Laboon is incredibly strong and durable: he can ram through enemy ships, create massive waves, and withstand attacks that would sink any vessel. He's also surprisingly emotional for a whale. He understands more than animals should, responding to your words and showing clear affection. He loves music, and when he hears it, he'll surface and listen with obvious joy, sometimes singing along with his deep whale song. If he hears the words \"yo-ho-ho-ho\", he becomes visibly emotional, his eyes welling up as if remembering something important. He's waiting for someone, perhaps, or remembering lost friends. Laboon is loyal beyond measure. He'll wait for you, no matter how long you're gone. He'll charge into battle against krakens, sea monsters, or entire fleets if you're threatened. He's a Certified Good Boy despite being a whale the size of a ship. Taking care of him is surprisingly easy: he feeds himself and just wants to be near you. Having Laboon means you'll never be alone at sea, you'll always have protection from sea monsters, and you'll have a friend who'd wait a lifetime for you.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 11,
+      "cost": 200,
+      "name": "The People-Watcher",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You've befriended a mermaid, which is quite rare, as most mermaids would rather drown sailors than chat with them. This particular mermaid is different. She's beautiful in the way mermaids are, with long flowing red hair, haunting eyes, and a powerful tail, but her personality is surprisingly... normal? She's fascinated by human behavior and spends most of her time watching people from the water. She'll surface near docks, follow ships at a distance, or hide near beaches just to observe what humans do. She finds human society endlessly entertaining and bizarre, especially the way humans walk on two legs and somehow don’t fall over constantly. She's helpful in her way: she can scout ahead underwater, retrieve lost items from the ocean floor, communicate with sea creatures, and warn you about dangers in the water. She can also sing, which entrances listeners with her beautiful voice. She can't walk on land despite mermaids forming legs when leaving water, but she'll follow your ship and pop up regularly to chat, share observations, and occasionally save you from drowning. She considers you her friend and a window into human society, which is honestly kind of sweet.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 12,
+      "cost": 50,
+      "name": "Critique ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You came across it by accident: a sword thrust straight through a bleached skull, half-buried in sand and old bones, as though someone had tried to kill the dead and failed. When you pulled the blade free, the skull came with it. And the skull talks. A lot. This is the bound soul of a legendary pirate and master swordsman whose name has been lost to time, trapped in the blade by a curse he refuses to discuss. The skull provides constant commentary on your swordsmanship, technique, and life choices, all delivered with the constructive warmth of a disappointed mentor who's given up on gentle encouragement. \"Your footwork is atrocious,\" he'll say. \"I've seen drunken sailors with better form. Are you trying to die, or is this just natural talent?\" Despite his harsh delivery, his advice is actually excellent, and if you actually listen to him and apply his teachings, you'll improve dramatically. He can also sense danger, identify curses or magical items, and provide historical knowledge about pirates and the Caribbean. The skull’s commentary does not stop at combat; he freely offers scathing opinions on your plans, allies, navigation, and personal judgment. “You trust that one? Foolish. I’ve seen that smile right before a knife in the back.” He's usually right, which makes it more annoying. The skull claims he's only harsh because he cares, which might even be true. He can't be removed from the sword, and the sword always finds its way back to you. You're stuck with each other.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 13,
+      "cost": 50,
+      "name": "Elizabeth Swann",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "The Governor's daughter has decided to throw in her lot with you, and honestly, proper society's loss is your gain. Elizabeth appears as a refined young lady of high breeding, but beneath the corsets and fine dresses beats the heart of a true pirate. She's brave, clever, resourceful, and absolutely refuses to be the damsel in distress. Elizabeth also has a knack for strategy and leadership, able to rally people with rousing speeches and convince even hardened pirates to follow her. She's learned to fight with sword and pistol, and while not a master, she's competent and improving. Her real strengths are her quick thinking, her ability to navigate both high society and pirate culture, and her absolute refusal to accept that something is impossible. She can be impulsive and stubborn, and she has strong opinions about freedom and doing the right thing. Elizabeth dreams of adventure and will absolutely get you into trouble pursuing it, but don’t worry, she'll stand by you when things get rough.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 14,
+      "cost": 250,
+      "name": "Tia Dalma ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You've gained the friendship of a mysterious woman who lives in a shack in the bayou, surrounded by candles, bones, and strange artifacts. Tia Dalma speaks in a thick accent and seems to know far more than she should about everything happening in the Caribbean. She's knowledgeable about curses, magic, and the supernatural, able to provide cryptic advice that always turns out to be relevant. She can also perform rituals, break certain curses, and create mystical objects, as long as you pay the price, of course. Nothing's free with Tia Dalma. She's sensual, mysterious, and has a particular fondness for those who show her respect. What you might not know initially is that Tia Dalma is actually Calypso, the sea goddess bound in human form. Her true power is sealed, but even in this state, she's formidable. She has her own agenda and her own sense of how things should be, but she's genuinely fond of you and will help you in her own way. Just don't try to bind or betray her, for you really don't want to see what happens when a goddess gets angry. She comes with her shack (which can appear wherever you need it) and various mystical items she uses.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 15,
+      "cost": 600,
+      "name": "Pet Kraken",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You have a kraken. Not a metaphor, not a legend, but a real, living monstrosity of the deep that recognizes you as its master. This colossal creature dwells in the ocean depths until summoned, capable of crushing ships and dragging entire vessels beneath the waves. The kraken is bonded to you and will obey your commands, though it's still a wild animal with its own instincts and needs. You can summon it by specific means (perhaps a special ritual, mark, or object), and it will come when called. It can't stray too far from the ocean and needs deep water to be fully effective, but within its element, it's one of the most powerful creatures in the Caribbean. The kraken does not require feeding, upkeep, or supervision, and if it is somehow slain, it will reform in the deepest reaches of the sea after one year.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 16,
+      "cost": 200,
+      "name": "Mermaids ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You've somehow earned the loyalty of ten mermaids who are willing to serve as your personal attack force. They can lure victims with their enchanting appearance and songs, drag sailors underwater to drown them, and attack with supernatural strength and ferocity when in the water. They’re intelligent and can follow complex orders, but they have their own personalities and won’t appreciate being treated as mere weapons.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 17,
+      "cost": 400,
+      "name": "A Floating Garrison",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You are provided with two hundred and seventy Royal Navy marines and sailors, complete with officers, specialists, and hardened veterans. This force can serve as the disciplined core of a major warship or hold entire fleets together through sheer professionalism.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 18,
+      "cost": 200,
+      "name": "A Proper Detachment",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You command ninety Royal Navy personnel, a well-organized force capable of fully crewing a brigantine or frigate, defending against boarding actions, and conducting naval operations with efficiency.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 19,
+      "cost": 100,
+      "name": "A Disciplined Squad",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You gain thirty Royal Navy marines or sailors, enough to crew a small vessel, serve as an elite boarding party, or impose order aboard a pirate ship that desperately needs i",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 20,
+      "cost": 200,
+      "name": "The Prison Dog",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "A small, scruffy dog of indeterminate breed that has an uncanny ability to show up with keys whenever you need them. When you encounter a locked door, cell, chest, or any other barrier requiring a key, this dog will appear (seemingly from nowhere) within a few minutes, carrying the correct key in its mouth. The dog trots up, drops the key at your feet, and then wanders off until needed again. This works on any mundane lock, no matter how secure or well-guarded. This doesn’t work on magical locks or barriers that don't use physical keys, but for everything else, the dog is your ticket to freedom. The dog is surprisingly hard to catch or stop, and guards and anyone else might notice that something strange is going on, but they will never be able to reliably intercept or detain the dog before it completes its task.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 21,
+      "cost": 200,
+      "name": "Captain Jack (The Monkey) ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You have a monkey named Jack. Actually, Jack has you, because this clever little beast makes his own decisions. Jack is extraordinarily intelligent for a monkey, capable of understanding complex instructions, stealing items, and causing all manner of mischief. He's also remarkably stealthy, able to sneak into places you can't and retrieve objects without being noticed. He’s fiercely loyal to you, and since he was one of Barbossa’s crew who stole the Aztec gold, he’s also immortal. Just don’t expect him to always do what you want when you want it; Jack is a free spirit.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 22,
+      "cost": 50,
+      "name": "Horatio Hornblower",
+      "source": "Age of Sail",
+      "description": "The first name in naval fiction, Horatio is a latecomer to the sea, gets seasick in even sheltered harbors, is tone deaf and often plagued by private doubts. Nevertheless, he is a skilled navigator and mathematician, and a masterful leader of men. As his story spans his entire lifetime, from midshipman on his first ship to retired admiral, it is up to you which Hornblower you want.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 23,
+      "cost": 50,
+      "name": "Jacky Faber",
+      "source": "Age of Sail",
+      "description": "The toughest leader of a gang of London urchins, gone to sea for better prospects. Also, secretly a girl. Mary “Jacky” Faber is an unabashed coward and guile hero, a skilled artist and eventually quite good at disguises.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 24,
+      "cost": 50,
+      "name": "Peter Blood",
+      "source": "Age of Sail",
+      "description": "A surgeon and soldier framed for treason and sold as a slave, he becomes a pirate and through his great guile and cunning winds up leading a great armada.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 25,
+      "cost": 800,
+      "name": "Pirate Scepter",
+      "source": "Alestorm",
+      "description": "This scepter marks you as chosen by the forces of chaos, and piracy, wielding power of the protoplasmic slime. By lifting this scepter up you can summon a host of pirates formed from this protoplasmic slime giving them enhanced ability to survive wounds and regenerate. The more pirate-y and spiritually powerful you are the greater this horde. Even as a mortal man were you to be as archetypically pirate as Blackbeard you might have enough men, each supernaturally durable, to man a small fleet, and if you could reach the levels of the Huntsmaster or Fannybaws even empires like Britain and Spain would have to consider you if not a peer then a potential threat. You may choose to instead of increasing the numbers of this horde increase their power (or mix both), but even if you are a quintessential pirate, you will find the horde’s combined power rarely equalling your own once they’ve begun having to scale above their baseline.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 26,
+      "cost": 800,
+      "name": "Leviathan",
+      "source": "Alestorm",
+      "description": "Legends tell of a beast 300 miles from tip to tail. Of course it seems small enough that cannons and swords can be expected to harm it so this is probably an exaggeration. Either way the legendary leviathan is now yours. A loyal pet eager for your love and affection, while it may or may not be 300 miles, this great sea serpent is easily larger than an entire pirate fleet, and powerful enough to sink any shipthat it comes across. While cannons and swords can be reasonably expected to possibly work on this beast, it is very durable, and no single ship would be likely to do any noticeable harm with them. In fact should it use hit and run tactics it could defeat the Cartagena Fleet, though if it attempted to stand and fight the entire fleet at once it would probably lose. Finally, as the great sea dragon it is, it is able to breathe terrible balls of fire from its mouth, sufficient to blow apart even the greatest ships of this age.And while it’s not 300 miles long yet it’s still growing and will never cease to. Given long enough journeys it might grow 300 miles, or more to the size of Jormungandr itself or",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 27,
+      "cost": 100,
+      "name": "Wenches and Mead ",
+      "source": "Alestorm",
+      "description": "What you have here is 9 comely and willing wenches, and enough mead for 18 men for a week. The mead restocks each week, and the wenches will be replaced in 1 week should they ever get too old or be killed. You may purchase this item multiple times, each time after the first doubles the number of wenches and the amount of mead you gain so that 2 purchases would give you 18/enough for 36 men, 3 purchases would give you 36/enough for 72, 4 purchases would give you 72/enough for 144, and so forth.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 28,
+      "cost": 100,
+      "name": "Party Skeletons",
+      "source": "Alestorm",
+      "description": "This group of 5 skeletons seem able to appear whenever you need extra guests for a party or a band. They are skilled musicians (as if they had the 100 GC version of Heavy Metal Pirate), and always down for a good time, but they disappear if pushed into a situation that is not either enjoying a party or playing music. If one is destroyed (pirate parties can get rowdy) they’ll be replaced 24 hours later.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 29,
+      "cost": 50,
+      "name": "What Lies Beneath",
+      "source": "Alestorm",
+      "description": "This shark is now your loyal pet, strangely obedient, loyal, and intelligent like a well trained dog.",
+      "chapter": "Crew"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Crew",
+      "__line": 30,
+      "cost": 0,
+      "name": "Seafarer",
+      "source": "The Pirates of Darkwater",
+      "description": "You’ve earned your sea-legs and are reasonably competent in any and all shipboard activities, allowing you to fill essentially any role on a crew.",
+      "chapter": "Crew"
+    }
+  ],
+  "3": [
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 1,
+      "cost": 300,
+      "name": "Respectable (Or Not) Establishment ",
+      "source": "The Pirates of Darkwater",
+      "description": "A permanent address you can use as a base of operations. This is a good quality, moderately-sized building, with the specifics of the design up to you, depending on what sort of function you want it to serve—it could be a shipping warehouse, shopfront, inn, tavern, brothel, etc. The building comes with all of the basic furnishings it needs to serve its intended function, as well as a complement of local staff to keep it running smoothly even while you’re absent. In addition to everything you might expect, your establishment has several hidden passageways and concealed entrances that only you know about. In future Jumps, you will always have a similar type of establishment, updated for the local setting.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 2,
+      "cost": 300,
+      "name": "Smuggler’s Cove",
+      "source": "The Pirates of Darkwater",
+      "description": "This sheltered cove exists in its own folded pocked dimension—you may access it while sailing along any uninhabited coastline, sailing into the folded space and concealing your vessel. A single dreadnought or up to three smaller ships can take shelter in the cove at once. The cove is not visible from the outside, though the entrance remains accessible as long as you remain there, and you may stay in the folded space for as long as you like. The cove has plentiful raw, simple resources that can be used to repair and resupply most seagoing vessels.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 3,
+      "cost": 50,
+      "name": "Pieces of Eight",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "You’ve got some treasure stashed away. Not too much, but enough to equip you and buy passage on a ship anywhere you’d like to go, or enough to outfit a ship to sail a few weeks (until you find some more!).",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 4,
+      "cost": 400,
+      "name": "An Island of your Own",
+      "source": "Assassin's Creed Black Flag",
+      "description": "With so many Islands scattered across, maybe you’d like one of these for yourself? A remote little spot of land, with golden beaches and green trees. Does that not sound appealing? If yes, then this is the option for you. Nassau, the capital of the self-declared Republic of Pirates. A haven away from laws and the rule of Kings, and coming with a Spanish galleon in terms of defences, this island will be automatically very attractive to any criminals and outlaws who will come to set up shop. However, they are all mysteriously bound by a certain code of anarchic honour which ensures never letting the island suffer from their work, and indeed it seems the ‘capital’ prospers from the criminal's exploits. As you are the owner and perhaps ‘founder’, you get a certain level of respect, and the criminals are happy to work with you. This includes a group of capable pirates who can also be found here and among your direct employees. And don’t worry about ideals of anarchy causing a shortage of supplies in your republic, as it will always be able to provide basic sanitation, supplies, food, rum and even standard medicine. Finally, unless extraordinary circumstances happen, lawmakers and enforcers will turn a blind eye to the happenings on the island.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 5,
+      "cost": 300,
+      "name": "Brothel ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "So many at sea find themselves yearning for the pleasures of the flesh. Some have the privilege of knowing a loved one to return to at land. Other men might have to make do with such an establishment. You are now the proud owner of your own Brothel. A couple of dozen beautiful and willing women are here to make a living out of providing a certain kind of services. The exact specifics are up to you, but no matter what, the Brothel will always fetch you a decent profit. Those employing its services not just find normal relief here but mental relief. Furthermore, you are always off course able to hire your woman... see sneaking up on someone in a crowd or appearing unassuming is always easier with a crowd of your own, and your employees happen to be particularly excellent at helping there.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 6,
+      "cost": 50,
+      "name": "\nThe Pirate Bay",
+      "source": "Generic Pirate V1.1",
+      "description": "The most basic of the pirate ‘classics’, this purchase grants you a hideout of your very own, which ordinarily takes the form of some sort of secret ocean cave or hidden island to start with. It’s a place you can moor your ship and relax for a while, but with little else going for it aside from being fairly nice and quiet. The Pirate Cove automatically adjusts to fit in with the setting, and can be found somewhere close enough to major shipping lanes that it's useful as a staging point for piracy, but not so close that law enforcement will easily find it",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 7,
+      "cost": 100,
+      "name": "No Questions Asked",
+      "source": "Generic Pirate V1.1",
+      "description": "You’re a pirate; looting’s what you do. But after you’ve stolen the goods, be they Aztec treasure, exotic spices, or some of the more mundane fare, you need to actually do something with it - other than burying it, presumably. Much like many pirate strongholds in history, this upgrade grants your pirate hideaway a number of shady merchants that are veterans at moving ‘enthusiastically’ acquired goods. You’ll be able to sell pretty much anything to these guys if you really wanted to, though the price they’ll pay for your stolen wares will depend on how easy it is to pawn - something they can move without any extra effort might net you almost as much as you would selling it legally, while a one-of-a-kind extremely rare piece of artwork is going to make far less than its value due to the inherent difficulty of pawning it. Your burgeoning pirate harbor likewise enjoys a much better influx of goods from elsewhere thanks to those same traders - and if you ask around, you’ll likely be able to buy (or at least request) just about any kind of loot or service. Just don’t ask where they got it, and don’t expect them to acquire a specific item (they’re merchants offering goods for sale, not masterminds planning heists for you), but just about anything that can be found on the open market can be found here with enough time and money. Especially if it’s illegal, taboo, or otherwise criminal to deal in. The selling price, obviously, will again depend on how easy it is to acquire such goods and how big the market is, with easily found or stolen items in wide demand being only barely more expensive than if they were bought from legal sources, and highly rare or valuable things that are only of interest to a niche clientele being substantially more costly.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 8,
+      "cost": 100,
+      "name": "Buccaneer Beach",
+      "source": "Generic Pirate V1.1",
+      "description": "Having a town to relax in between your adventures is great, but you know what every pirate hideout really needs? A beach, perfect for playing volleyball, swimming with the fish and building sandcastles. This upgrade improves the location of your Pirate Cove with a much more enjoyable coastline, with beautiful soft-sanded beaches perfect for relaxation, plentiful palm trees (or the local equivalent) you can use to get some shade, and a remarkable tendency for spontaneous games, sports and obstacle courses, and all manner of coconut-related shenanigans to happen at any given time. It’s sure to make the place a lot more laid-back in general, and the boost to your town’s happiness will likewise make it much more appealing for non-criminal visitors (insofar as your pirates aren’t already pirates-in-name-only). Perhaps you could turn it into something closer to a pirate-themed beach resort, instead?",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 9,
+      "cost": 100,
+      "name": "Long Ties ",
+      "source": "Generic Pirate V1.1",
+      "description": "The world’s a crazy place, filled with countless wonders, bizarre foreign cultures and peoples, and exotic trade goods to… liberate. With this upgrade, your Pirate Cove becomes much more of a ‘melting pot’ of whatever regions are nearby - and not so nearby - its actual location. Expect a lot more foreigners in all shapes, sizes, and backgrounds, with a similar increase in just how much exotic cargo and other kinds of loot can be found flowing through your haven. Whether your crews are made up of fantastical beings like eyepatched Mermaids and peg-legged Trolls or you’ve simply become accustomed to seeing Caribbean smugglers haggling with raiders from the Far East while a Madagascar crime lord is drinking a displaced captain of the East India Company under the table, your berthing will never lack for color… and whatever trading routes are nearby will likewise offer that much more exotic goods to claim.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 10,
+      "cost": 100,
+      "name": "Dead Man’s Wharf",
+      "source": "Generic Pirate V1.1",
+      "description": "Most outlaw towns only have basic docks for handling ships, to say nothing of whatever secluded bay you slink back to after the action. Proper ship-building and berthing is usually the domain of larger cities, most under the authority of kingdoms or empires of some kind. Yet not all of them. This upgrade grants your pirate haven greater docks and a true shipyard, allowing you to do higher-end repairs and maintenance on your ship(s) or even build new ones entirely from local resources. You’ll likewise get better access to high quality timber, fabrics, or whatever else is needed to build or repair ships in your current setting. Play your cards right, and this could become the heart of a true ‘pirate kingdom’ of your very own.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 11,
+      "cost": 100,
+      "name": "Welcoming ",
+      "source": "Generic Pirate V1.1",
+      "description": "Rum! Wenches! Cheap booze in bottles perfect for smashing over someone else’s head! Taverns, brothels, drinking holes and other kinds of ‘hospitality’ made up a sizable portion of many pirate strongholds during Earth’s Age Of Piracy, if only because pirates were quite determined to spend their coin on anything they would enjoy in the here and now. With this purchase your hideout gains vast access to all manner the more sinful kind of entertainment one can find in many harbor towns, piracy-reliant or otherwise. Pleasurable company of all sorts, from happily willing tavern wenches to the more classical brothels, can be found on just about every street, and you’ll find a wide variety of genders, numbers, worldly backgrounds or other such details available if you know where to look. Alcohol flows similarly freely, ensuring that there’ll be very few inhibitions left even outside of dedicated establishments. Even better, your status will be enough to net you a decent discount whenever you head out for a drink or a roll in the hay!",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 12,
+      "cost": 50,
+      "name": "Slapped In Irons ",
+      "source": "Generic Pirate V1.1",
+      "description": "Though every pirate dreams of that chest of gold, a lot of ‘merchandise’ historically included slaves bound for work in the colonies. With each purchase, this upgrade makes your pirate settlement a major transit point for slaves of all kinds. Whether you’re getting involved in the business itself, trading farm workers and slaves like so many other goods, or the influx of slaves is from an altogether more benevolent nature is up to you. After all, how many freed slaves would be happy to hoist the Jolly Roger and take revenge on their former masters?",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 13,
+      "cost": 50,
+      "name": "Old Sailors’ Tales",
+      "source": "Generic Pirate V1.1",
+      "description": "Everyone’s heard the stories, but at the end of the day that means someone must be telling them, and that’s what this upgrade is for. With each purchase, your hideout becomes more effectively connected to the surrounding region, not in terms of trade or raiding, but in information. From the classic of the elderly pirate talking about a rumored treasure to spies keeping an eye on the shipping lanes and a black-hearted wizard scrying his next victims to hackers tracing the next big data-dump, your town’s now much better at getting clues for the next ship to attack or the next treasure to hunt. There’s no guarantee the information is perfectly accurate, though it’s more likely to be useful than it otherwise would be. If you’re ever unsure of what to do next, just head into town for a drink or a fist fight, and by the time your hangover and/or concussion are over, you’ll have likely picked up another rumor or two to pursue.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 14,
+      "cost": 100,
+      "name": "Wicked Sails",
+      "source": "Generic Pirate V1.1",
+      "description": "Sure, you’re an (in)famous pirate, and this might be your favorite hidey hole and/or place to unload whatever booty you’ve stolen… but do you really expect you’re the only one around flying the Jolly Roger? With each purchase, this upgrade makes your pirate haven the base of operations (or at least a favorite mooring place) for several other pirate ships and their crews, smuggling operations, and other such seafaring outlaws. Though this provides little in the way of direct benefit (given that they don’t actually work for you specifically), this upgrade nonetheless improves just about every aspect of your hideout indirectly. After all, more pirates means more loot, more trade, more rum, and so on. Play your cards right (possibly literally, if you’re a gambling man), and this could be an incredible source of wealth and prestige.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 15,
+      "cost": 50,
+      "name": "Lively ",
+      "source": "Generic Pirate V1.1",
+      "description": "Rather than a more specialized improvement to your pirate haven, this upgrade is a bit more… general-purpose. With each purchase, your town gets a decent increase to its total population, adding a wide variety of miscreants, deserters, or other such individuals to bolster its numbers. Although it’ll likely provide an equivalent decrease in the mean time between bar brawls, it does make for a much more industrious locale - if only because everyone still does a little work. The higher population also makes it perfect to find some more enthusiastic cutthroats to replace any members of your crew you were tragically forced to keelhaul for mutiny during your last trip.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 16,
+      "cost": 600,
+      "name": "A Vibrant Haven",
+      "source": "Sinbad Legend of the Seven Seas JumpChain",
+      "description": "12 cities? I apologize I mispoke, I meant to say 13 port cities. You are now the ruler of a vibrant and bustling port city with everything that would come with that. It has about the population of large Greek city-state. The initial make up of the city will be entirely up to you. If you wish for the city to start as heavily millitarized you’ll no doubt find multiple barracks, martial training centers and a well developed millitary port. If you wanted to have a city of thinkers you’d find universities, amphitheatres, and so on. After the intial decision of how you would like your city any changes will have to be built and will not just appear. The city will follow you around from jump to jump. The city does not have to be placed on a costal area in future jumps, however, the inhabitants may find that a little odd.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 17,
+      "cost": 600,
+      "name": "Pirate Haven",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You own a pirate settlement, which may be Tortuga (the infamous lawless port) or Shipwreck City (the hidden pirate city ruled by the Brethren Court). Regardless of which you select, the settlement functions as a pirate haven where pirates may gather to resupply, recruit, repair ships, trade stolen goods, exchange information, and lie low beyond the immediate reach of the naval powers. Its population numbers in the thousands, composed of pirates, smugglers, merchants, craftsmen, prostitutes, and the various unsavory professions that thrive around them. The people here are loyal to coin and freedom, which means they'll support you as long as you maintain the settlement and don't bring too much heat down on them. You have the largest building in town as your residence/headquarters, and the settlement generates enough income from trade and services to be self-sustaining.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 18,
+      "cost": 400,
+      "name": "Isla de Muerta",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "The legendary cursed island that cannot be found except by those who already know where it is. This mysterious island is shrouded in supernatural mists and protected by treacherous waters that destroy ships whose captains don't know the safe passage. The island contains massive sea caves filled with mountains of treasure, and at the center sits the stone chest of Cortés, where cursed items can be safely stored without affecting the outside world. As the owner, you always know how to find the island, and you can grant this knowledge to others (or withhold it). The island's \"unfindable\" nature makes it the perfect hiding place for anything you don't want discovered.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 19,
+      "cost": 400,
+      "name": "Shipwright's Port ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You own a full shipyard and port facility, capable of building and repairing any type of ship from the era. This includes dry docks, skilled shipwrights, carpenters, sailmakers, ropemakers, and all the craftsmen needed to build vessels from scratch. The facility can construct a sloop in about a month, a brigantine in two to three months, and a ship of the line in six months to a year (assuming materials are available). The facility employs about 200 people and generates income by building and repairing ships for others, enough to maintain itself and turn a profit. It comes with warehouses full of ship supplies, a loyal staff, and the location is secure against pirates or naval raids.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 20,
+      "cost": 200,
+      "name": "Fountain of Youth ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "The legendary Fountain of Youth exists, and you possess the means to make use of its power. The Fountain works through a ritual: one person drinks from the fountain using a silver chalice, and a second person drinks using a different chalice (one that has had a mermaid's tear placed in it). The person who drank the chalice with the tear receives all the remaining years from the other person, who dies instantly. The ritual not only transfers years but also improves health, breaks destined deaths, and can even reverse aging if the recipient was older than the donor. While it requires a willing or unwilling donor to provide their life force, it still remains one of the most powerful life-extension tools in existence. Use it wisely and carefully.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 21,
+      "cost": 200,
+      "name": "Pelegosto Island ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You own this uncharted jungle island, home to the Pelegosto tribe. The island is covered in dense tropical jungle, has abundant fresh water, and is strategically useful despite its remote location. The Pelegosto themselves are... complicated. They're cannibals who worship you as a deity (assuming you don't want to be eaten, which is negotiable). As their god-chief, you can command the tribe, use them as warriors, or simply use their island as a hidden base that no one will visit because everyone knows it's inhabited by cannibals. They're loyal to you and can be convinced to abandon cannibalism if you prefer (or not, if you're fine with having scary cannibal guards). The island itself is valuable as a location that others avoid, making it perfect for hiding ships, storing contraband, or maintaining a secret bas",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 22,
+      "cost": 200,
+      "name": "Rumrunner’s Isle",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You own a small island somewhere in the Caribbean. It's not much, but what makes it valuable is that it's absolutely packed with rum. There are caves filled with thousands of barrels of rum, along with stores of rum buried in the sand, enough rum to supply a fleet for years, or to trade for a fortune. The rum is all high quality, properly aged, and stored in good barrels. It's also hidden enough that the Royal Navy won't immediately find it, though the location isn't impossible to discover if someone really looks.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 23,
+      "cost": 100,
+      "name": "Workshop",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "A fully equipped workshop for smithing, located in a good area with plenty of foot traffic. The workshop includes all necessary equipment (forge, workbenches, tools, etc.), storage for materials and finished goods, and living quarters above or behind the shop. The workshop comes with a small staff of competent workers and apprentices who handle day-to-day operations, allowing the business to function even when you are absent. They are honest, skilled enough for routine work, and loyal to you as the owner, though they do not possess exceptional talents unless you personally train them. The shop generates a modest but reliable income and, if destroyed or abandoned, will reappear in a similar suitable location in the current world after one month, fully restored and staffed.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 24,
+      "cost": 200,
+      "name": "An Island",
+      "source": "Cutthroat Island V1.0.",
+      "description": "Heavily forested and mountainous, this large island covers several square kilometers. There is plenty of room for building a pirate haven or a navy base,",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 25,
+      "cost": 600,
+      "name": "The Whole Caribbean, Circa 1668",
+      "source": "Cutthroat Island V1.0.",
+      "description": "Exactly what it says. Thousands of islands, islets, reefs and cays, with an expanse of salt-water stretching 240,000 km2. You get all of the native wildlife and human-built infrastructure, but no actually humans or domesticated animals.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 26,
+      "cost": 200,
+      "name": "A Defensive Reef",
+      "source": "Cutthroat Island V1.0.",
+      "description": "A thick reef with accompanying seawater that can be attached to any property you own to encircle it. Only you will be able to locate the safe passage through its deadly grasp, which will automatically widen to let any ship of yours through before shrinking behind it. It is any depth you wish.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 27,
+      "cost": 600,
+      "name": "Nancy’s Harbor Cafe ",
+      "source": "Alestorm",
+      "description": "This den of debauchery, violence, and sin is a seaside tavern providing service to all those who come through its doors. And you’re wondering why it’s worth 600 GC. Well the company is true, and the wenches are pretty, but I’m betting you want something more from it. First off the drinks are among the best you’ll find anywhere in the multiverse, and if you find one better, it’ll be added to the tavern’s stocks. This only guarantees flavor, however, and will not copy any supernatural qualities or things like supersoldier serums. While not infinite, they self-replenish, and as a special patron all your drinks are free. Second, if you go looking for allies in a quest or undertaking you will always be able to find loyal men (and women) here to serve your purposes. They might not be the most moral sorts, but they will be loyal as long as you’re paying them properly for their services. They aren’t guaranteed to have any traits truly unique in the setting, but you’ll always be able to find at least a few who are highly skilled and talented in anything that people in the local setting can do without some unique chosen one style status. This can include named characters from the setting if they’re the type to work as mercenaries and visit seaside dives. You won’t find Lancelot in an Arthurian setting, but you’d probably be able to find 2 or 3 knights who could beat the lesser knights of the round 1 on 1, and put up a good fight against one of Arthur’s nephews. Finally if you’re bored and go looking you can always find some old man who possesses information on an adventure or quest. This isn’t guaranteed to end up being a profitable venture, but it will always be an adventure, something you can do to entertain yourself and hopefully Jumpchan.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 28,
+      "cost": 400,
+      "name": "Treasure Island",
+      "source": "Alestorm",
+      "description": "This island doesn’t necessarily have treasure. Oh I know that surprises you, but it might not. You’ll have to put it there yourself. What this island has is two traits. First, its location is always obscured. People can find it, but they will always have to search for it first, and its location seems to change over time meaning that the path that reached it before will require a new path in the future. It’s not impossible to find, in fact there will always be clues and hints to help find it, but it will never be easy. Second, is that rumors about it spread with an unnatural swiftness and the greedy or power hungry find these rumors far more believable than they normally would. All you need is to whisper to a few people that it has some legendary treasure, and a month later you might have all the greediest people from across the entire planet hunting for it and its treasure. Spread the word that it has some macguffin on it, and those who aren’t certain of the macguffin’s location but desire it will begin to believe quite fervently that it is on this island.",
+      "chapter": "Hideaway"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Hideaway",
+      "__line": 29,
+      "cost": 100,
+      "name": "The Sunk’n Norwegian",
+      "source": "Alestorm",
+      "description": "You are now the proud owner of a seaside tavern. This is to put simply a dive, but it comes with a barkeep (a bastard) and a barmaid (a whore) to run it, and its stocks will replenish monthly, always enough for a normal dive to function. Barring your interference it barely makes more than enough to pay the salary for the workers, and any taxes and the like on it, but as the owner you can stay here for free and all your drinks are on the house, and while it doesn’t bring you much income, you need to do absolutely nothing to keep it functioning.",
+      "chapter": "Hideaway"
+    }
+  ],
+  "4": [
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 1,
+      "cost": 100,
+      "name": "Service With a Smile",
+      "source": "The Pirates of Darkwater",
+      "description": "It doesn’t matter if you’re a bartender, innkeeper, trader, or courtesan—whatever your trade is, you’re an expert at it and have a knack for putting your customers at ease and making their experience with you a positive one. Not only that, but happy customers will be much more inclined than normal to speak out about your services and recommend you to others, ensuring your reputation spreads quickly.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 2,
+      "cost": 100,
+      "name": "Do What You Want",
+      "source": "The Pirates of Darkwater",
+      "description": "You can selectively ‘turn off’ your empathy, conscience, morals, ethics and squeamishness at will, allowing you to indulge in whatever depravity you wish without guilt or revulsion. You will never suffer from any negative mental effects from taking actions while under the influence of this perk (e.g. you will not suddenly feel guilty after turning the perk off).",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 3,
+      "cost": 100,
+      "name": "Larcenous Ways",
+      "source": "The Pirates of Darkwater",
+      "description": "You have a natural gift for less scrupulous activities—you are light on your feet and find it easy to sneak up on people without making a sound, you don’t have any obvious tells when lying, and most mundane locks pose little barrier to your lockpicking ability.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 4,
+      "cost": 100,
+      "name": "All Shapes and Sizes",
+      "source": "The Pirates of Darkwater",
+      "description": "You somehow manage to fit in regardless of how strange or foreign you may appear to the local culture. People will not question or remark upon your appearance, nor will what you look like ever be cause for panic or alarm (unless you wish it to be).",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 5,
+      "cost": 100,
+      "name": "Powerhouse ",
+      "source": "The Pirates of Darkwater",
+      "description": "You are an impressively built example of your race, at the absolute peak of physical fitness and strength.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 6,
+      "cost": 100,
+      "name": "Iron Stomach",
+      "source": "The Pirates of Darkwater",
+      "description": "You have a voracious appetite that allows you to eat pretty much anything without suffering any ill effects—you could eat food that is off, rotten or even poisoned and the worst that would happen is a little bit of gas. Your prodigious stomach can digest and glean nutrients from basically anything. Even things that aren’t traditionally considered “food” are now on the table, so to speak. Careful not to break your teeth.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 7,
+      "cost": 100,
+      "name": "Divers and Fishermen",
+      "source": "The Pirates of Darkwater",
+      "description": "You’re a fantastic swimmer, to the point where you could give Michael Phelps a run for his money. In addition, you can hold your breath for a surprisingly long time—almost three times as long as one might otherwise expect—and do not suffer any ill effects of ascending too quickly while underwater (i.e. nitrogen embolisms).",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 8,
+      "cost": 100,
+      "name": "Sing Us a Tune",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "All the sea shanties of the world are known to you. You can sing (mostly on key) hundreds of sea shanties in dozens of tongues, and can inspire others to join in. Most of them carry a message of some sort, and a few can even have deeper effects. If nothing else, they’re good to get a crew working in time.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 9,
+      "cost": 100,
+      "name": "Sharpshooter",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "The inherent inaccuracy of unrifled weapons doesn’t affect you. You can hit a pinpoint target with a flintlock pistol from ten feet away, and hitting people on distant ships with a musket shot has more than a chance of success. Further, you’ve got the drill down cold; five shots a minute in any weather, and the roar of cannon no longer deafens you due to long practice.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 10,
+      "cost": 100,
+      "name": "Swordsman",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "You’re an excellent swordfighter. You were born with a cutlass in your hand (Or between your teeth). You can hold off a dozen Royal Marines, and you’re not averse to using dirty tricks to get ahead. While there are swordsmen better than you, you’ve yet to meet one.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 11,
+      "cost": 100,
+      "name": "Pick Pocket",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Who hasn’t felt the urge to commit some piracy when the pockets of the people around you are bursting at the seams with wealth? Fortunately, you possess a nice amount of thievery skill for such situations. You are a capable pickpocket, able to steal from someone else’s own pockets and belts without them ever realising you had something to do with it.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 12,
+      "cost": 100,
+      "name": "Noble Bearing ",
+      "source": "Sinbad Legend of the Seven Seas JumpChain",
+      "description": "Education is the mark of a person born of nobility. You are classically trained in the methods of the nobles. Knowledge of culture, literature, mathematics, and art are all hallmarks of this educational style.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 13,
+      "cost": 100,
+      "name": "Heavy Metal Pirates",
+      "source": "Alestorm",
+      "description": "You now have musical skill and talent to match any member of Alestorm’s. You can write songs, come up with lyrics, sing, or play a plethora of instruments, all at least well enough to sub in for a member of the band.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 14,
+      "cost": 200,
+      "name": "Heavy Drinker",
+      "source": "The Pirates of Darkwater",
+      "description": "You have complete control over how much any imbibed, injected or otherwise foreign substance introduced into your body affects you. This allows you to dial a substance’s effectiveness to whatever level you wish, from a minimum of ‘no effect’ to a maximum of ‘twice as effective’. You could chug pure ethanol without getting so much as tipsy unless you wanted to, or you could exaggerate the effect of alcohol to make yourself a cheap drunk then snap to stone-cold sober in an instant. You can even pick and choose which effects occur (to remove the harmful side-effects of medicine, for example). You could probably even drink dark water with no ill effects if you wanted to, but please don’t. This includes things like poisons, drugs, nanites, or other similar substances that you may encounter.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 15,
+      "cost": 200,
+      "name": "Street Fighter ",
+      "source": "The Pirates of Darkwater",
+      "description": "Years of experience in actual fights—mostly rough and tumble brawls in taverns and the like—makes you a slippery and tough opponent in combat. You specialise in making sure that no one ever has a “fair” fight against you, constantly pulling out new and inventive dirty tricks to gain any advantage you can.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 16,
+      "cost": 200,
+      "name": "Princely Charm ",
+      "source": "The Pirates of Darkwater",
+      "description": "You are a naturally likeable person and have a disarming sort of charm about you that earns you friends wherever you go. In particular, you’re a passionate and moving speaker, able to much more easily convince people that your cause is a worthy one and you find it significantly easier to recruit people to work with you or forge alliances in pursuit of a particular goal.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 17,
+      "cost": 200,
+      "name": "Fancy Footwork",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "You’re always steady on your feet. Forget balancing on a swaying ship; you can hold your balance while swordfighting on the yardarm of a ship surfing the crest of a tidal wave. While it’s snowing. Also, you’ve good enough with trajectories to swing dramatically anywhere you want on the ropes that are always scattered around a ship",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 18,
+      "cost": 200,
+      "name": "Courage and Fortitude",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "Bravery and honor are your meat and drink. You’ll never quail despite frights that would darken the souls of a lesser man, holding strong to your bonds of brotherhood despite certain death. You do not fear death, you can stand and look it in the eye even as the cannonball flies. Unfortunately, standing fast is not always the best strategy….",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 19,
+      "cost": 200,
+      "name": "Master of the Code",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "You know the Code of the Pirates, laid down by Morgan and Bartholomew. You know how to properly ask for a parlay, and the proper voting procedure for the Pirate King, and have a good idea of which parts are rules and which are more like guidelines. You also have a generally instinctual grasp of the unwritten code of any social interaction, whatever the place or",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 20,
+      "cost": 200,
+      "name": "The Onion Knight",
+      "source": "A Game of Thrones",
+      "description": "You are an amazing smuggler. This may not sound like much, but it comes with a host of benefits. You are a master sailor, capable of taming the fiercest of sea storms, and in addition, are truly superb at hiding things. When hiding things, you seem to release a weak form of SEP field, which stops officials and unwanted individuals from noticing your concealed cargo. This SEP field shorts out if A) your hidden items are physically discovered (eg. falling through a hidden door), or B) you rely solely upon it for protection. Finally, if you are ever caught, officials will be far less likely to hit you with the full punishment. You will still be punished, but the punishment itself will be drastically reduced in severity.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 21,
+      "cost": 200,
+      "name": "Inherited Glory",
+      "source": "Legend of Zelda: the Wind Waker",
+      "description": "Ever wonder how a young woman - not even a teenager yet - ended up as the leader of a group of pirates? Me neither. Regardless, you seem to have a knack for inspiring the loyalty of your subordinates. While I would assume pirates to be bloodthirsty or self centered, your crew would go to great lengths to get you back if you were kidnapped. I suppose it wouldn’t be too much of an exaggeration to say that you were born to lead",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 22,
+      "cost": 200,
+      "name": "Need An Ambassador? ",
+      "source": "Sinbad Legend of the Seven Seas JumpChain",
+      "description": "Can’t argue with right place at the right time and you always seem to be at the right place. People often come to you for important matters such as diplomacy. You have to actually be trusted enough by person for them to give you the job, but if you meet that requirement you’ll be the first on their mind.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 23,
+      "cost": 200,
+      "name": "Hunter of Pirates ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You have developed an almost supernatural ability to track, predict, and capture pirates. You could look at a map and identify which place could be a pirate haven, examine a raid and deduce which crew was responsible, or observe a suspicious ship and know immediately whether it's a merchant or a disguised pirate vessel. You simply understand how pirates think because you’ve studied them obsessively. And when it’s time to hunt a pirate? You can predict their tactics, ambushes, and escape routes. This doesn’t make you invincible, but if you call yourself the second-best pirate hunter in the Caribbean, no one will dare say he’s first. Post-jump, every ten years, you can retune this perk to a different category of criminal or outlaw.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 24,
+      "cost": 200,
+      "name": "Parley",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You've learned the ancient pirate custom of parley, and more importantly, you know how to invoke it in a way that actually gets people to listen. When you call for parley and offer a temporary truce, even the most bloodthirsty pirate or rigid naval officer will pause their attack and hear what you have to say. This doesn’t mean you get a free pass or an automatic agreement. Parley only guarantees a moment of attention, not goodwill or mercy, and once talks conclude, all parties are free to act as they see fit. This can only be invoked sincerely, so you can’t abuse this to stall endlessly or bait your enemies into lowering their guard. Used properly, this gives you a chance to negotiate terms or talk your way out of a situation.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 25,
+      "cost": 200,
+      "name": "Legendary Lothario ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "Like Jack Sparrow, you have a legendary reputation with the opposite sex (or same sex, or however you prefer). People find you charming, attractive, and irresistible in ways that defy logical explanation. They fall for your charms even when they know they shouldn't, and you have an uncanny ability to talk your way into (or out of) romantic situations. The most important part is that you might make people angry or frustrated, but no one will ever truly despise you or be disgusted by you. Even ex-lovers who you left in less-than-ideal circumstances will retain some fondness for you, and angry paramours might slap you but won't stab you.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 26,
+      "cost": 200,
+      "name": "Fortunes Favor the Bold",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "When trapped, stranded, or imprisoned somewhere, fate has a funny way of working in your favor. Something will always happen to either free you directly (quite rare ) or keep you alive (always happens) until help arrives or an escape opportunity presents itself. Maybe the island you’re marooned on happens to have a cache of rum smugglers use, or maybe a stray bone finds its way into your cell just in time to distract the dog holding the keys. This doesn’t make you immune to being captured or trapped, but it ensures you won’t simply rot away in a cell or die on a deserted island. And if someone asks how you survived getting stranded on an island, tell them it was the sea turtles.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 27,
+      "cost": 200,
+      "name": "Aztec Curse",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "You gain the ability to place the same curse that afflicted the Aztec gold onto any items of significant monetary value that you own. By performing a simple ritual (takes about an hour per item or collection), you can declare something to be part of your cursed hoard. Once cursed, anyone who takes the item without your explicit approval becomes afflicted with a terrible curse: they become undead, unable to feel pleasure or sensation, appearing as skeletons in moonlight, and unable to die. They exist in torment, neither alive nor truly dead, suffering without the release of death until they return what they stole. You can curse as many items as you want and lift the curses at will if you wish to do so.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 28,
+      "cost": 200,
+      "name": "This Bastard Can't be Killed",
+      "source": "Alestorm",
+      "description": "That’s what your enemies might end up thinking about you. It’s not true, but you will find that your strength is now peak human, and your toughness is something more. You’re able to survive sword wounds that should be mortal, survive point blank shots from flintlocks, or even lose a limb to a cannonball and keep going at least for a time. You aren’t actually immortal, damage to your brain or heart will kill you real quick, and even losing a limb will kill you if you don’t get it treated, but you can keep going through wounds that would send a normal man into shock, and generally take more damage and battery before it affects you.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 29,
+      "cost": 200,
+      "name": "Limb Replacement",
+      "source": "Alestorm",
+      "description": "You are a fairly decent surgeon from taking this. More importantly, you know a small amount of mystical voodoo magic which allows you to stitch any freshly amputated limbs onto anyone else and have them remain viable and usable. Cut off an enemy’s arms and sew them onto your own stumps to replace your arms they cut off years ago, or their legs. Replace your arms with an apes. This ensures the limbs will connect to the recipient’s musculature without rejection and still be viable, but it doesn’t ensure supernatural qualities carry over and this is limb replacement not addition, you can only attach limbs where they already had them with this perk.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 30,
+      "cost": 200,
+      "name": "I Want More Wenches ",
+      "source": "Alestorm",
+      "description": "The requisite harem perk. The more wealth and glory you possess the more you will find that your significant others are willing to share your love and intentions with others, and the less jealousy will get between them. If you’re dead broke or have no glory (that they are aware of) to your name, this will do nothing, but if you were the richest person in the world, and had saved the world a dozen times over expect them to be quite happy to be your 433rd wench, or maybe add a digit in there. This only makes them not mind you having others, it will not help you satisfy them all if you have more lovers than you can handle. That one is still on you.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 31,
+      "cost": 200,
+      "name": "Black Sails at Midnight ",
+      "source": "Alestorm",
+      "description": "You are a master of night assaults. First your ability to act purely from non-visual senses is heightened, along with your low light vision to see better by moonlight. More you have a general awareness of how to use the concealment given from the night, and darkness to your advantage, as well as the best time to perform a midnight raid to catch your opponents with their proverbial pants down.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 32,
+      "cost": 400,
+      "name": "Cardshark",
+      "source": "The Pirates of Darkwater",
+      "description": "Whenever you participate in any sort of gambling or other game with an element of chance, you get lucky significantly more often. All else being equal, something that would be a 50-50 chance for someone else is a 3-in-4 chance for you. Of course, only a fool leaves things purely to luck, and luck means nothing in games of skill. Accordingly, when playing any sort of skill-based game or competing in any sort of event or sport, people are incredibly unlikely to accuse you of cheating or to even consider that you might be doing so. You’d have to do something really outrageously blatant in order to be caught cheating at anything. Even so, if you can come up with a remotely plausible excuse people will generally accept that it was accidental and not deliberate.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 33,
+      "cost": 400,
+      "name": "Rapacious Slaver",
+      "source": "The Pirates of Darkwater",
+      "description": "Prisoners, hostages, kidnappees, surrendered foes, slaves—you’re a master at making sure that once someone is your captive, they stay that way. As well as your own discerning eye for bindings and secured accommodations for your acquisitions, any attempt to free one of your prisoners is almost guaranteed to disastrously fail in the worst possible way. Extended periods of captivity wears away at the resistance of your prisoners, making them vanishingly unlikely to try to escape, and much more likely to following your commands and eventually break, giving you whatever you want.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 34,
+      "cost": 400,
+      "name": "Voodoo Magic",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "The magic of voudun is in your blood. You know a number of rituals, and can understand the rules of the strange magic of the sea. The summoning of maelstroms and the curiosities of finding islands that can’t be found are just matters of a few spells. With sufficient practice and sacrifice, you can even raise the dead, though beware; all magic has a cost, and the sea hates to give back what it takes",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 35,
+      "cost": 400,
+      "name": "A Pirates Reputation",
+      "source": "Assassin's Creed Black Flag",
+      "description": "So many pirates of all shapes and sizes, genders and ideologies have taken to the seas, and some are remembered until today. Like the infamous devil Blackbeard, to name one example, you too can have a reputation made around you. What exact shape this takes is up to you; maybe it is that of a naval terror or a noble gentleman thief. Nevertheless, your every appearance just oozes this kind of charisma and atmosphere, working to charm, intimidate or both depending on what reputation, you devote yourself to keeping up.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 36,
+      "cost": 400,
+      "name": "Sailing For Adventure",
+      "source": "Muppet Treasure Island",
+      "description": "On the big blue wet thing. You are incredibly lucky in terms of finding interesting places and exotic adventure while aboard a ship of some sort. Your ship has the uncanny ability to be in the right place at the right time and there is very often the possibility of treasure in the offing.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 37,
+      "cost": 400,
+      "name": "Heathen Arts",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "There are many strange things in the world, and one of them is what some call heathen magic: the voodoo, curses, and dark rituals practiced in the Caribbean. You start with knowledge of basic magicks and curses: creating voodoo dolls, brewing potions and poisons, reading fortunes, and cursing your enemies. With time and study, you may grow powerful enough to bind even goddesses into human form, as Davy Jones bound Calypso, or raise the dead into loyal servants, as Blackbeard did with this crew. In future worlds, you will instinctively learn and master any mystical traditions similar to heathen magic.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 38,
+      "cost": 400,
+      "name": "Diligent Improvement",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "The more diligently you train, the better and faster you improve, with results that seem almost supernatural. Three hours of dedicated swordplay practice per day would make you as skilled as Jack Sparrow within a year, despite lacking his decades of experience. This doesn’t just apply to combat, as any skill you practice regularly improves at an accelerated rate. The key is diligence and consistency, which means casual practice will only give normal results. You also retain skills much better than normal people, rarely getting rusty even after long periods without practice.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 39,
+      "cost": 400,
+      "name": "The Sea's Blessing",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "The sea goddess Calypso has deemed you worthy, and she has granted you her protection. Every ten years, should you die, she will resurrect you. You'll return to life in the ocean, washing up on a beach or appearing on a ship, fully restored to health and vigor. The sea goddess is capricious, and her aid comes with expectations, but as long as you don't egregiously offend her, she'll continue to bring you back. This blessing follows you to other worlds, though the entity providing resurrection might change to whatever sea deity or ocean spirit is appropriate to that setting.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 40,
+      "cost": 400,
+      "name": "Pirate's Luck",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "Fortune favors you in small but consistent ways. You find coins in your pockets you didn't know were there, your pistol happens to be loaded when you need it, and that rope you're reaching for is just barely within grasp. Guards decide to take their break right before walking past your hiding spot, and the ship you need happens to be in port when you arrive. These are never massive miracles, but they add up over time to you surviving situations where others would have fallen to simple bad fortune.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 41,
+      "cost": 400,
+      "name": "We Sail to the Halls of Doom With the Black Flag Raised to the Sky ",
+      "source": "Alestorm",
+      "description": "You are not fearless, that would indicate you could not feel fear, but you have the courage to feel fear, recognize it, and dismiss it without allowing it to influence your behavior. You are in effect immune to fear, and even against supernatural terror you will find yourself extremely resistant to the point that it is effectively immunity. But any hero can resist fear that’s hardly worth noting. A pirate captain must make his crew resist it as well, and as such those who follow you find they share in a portion of your courage. While it’s not as absolute as your own, if your followers believe that it’s worth their lives, they can follow you into the jaws of certain death without flinching or hesitating in the least.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 42,
+      "cost": 400,
+      "name": "It’s Time to Spin the Wheel ",
+      "source": "Alestorm",
+      "description": "What’s the point of being a pirate without adventure? Well with this perk you can be assured that you will live in interesting times. Adventures, plot hooks, and more all seem to just come your way. Usually these will involve quests to faraway lands in search of treasure, but at your discretion they may also include those that better fit your current setting. Either way you will find these adventures if followed through have a tendency to reward you monetarily, discovering lost treasures and wealth on your voyages.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 43,
+      "cost": 400,
+      "name": "I Put My Faith in Cannons and Whores",
+      "source": "Alestorm",
+      "description": "And it seems to have paid off. Any gunpowder propelled weapon you wield seem to mimic the qualities of holy or sacred weapons. They will in general do more harm to undead or unholy creatures, or those who are metaphysically linked to evil, as well as to a lesser extent those who have strongly held religious beliefs which differ from your own. In addition any sexual relations you have which involve one side paying the other for sex do not count as either side breakingany (non-drawback) holy, sacred, or magical vows or oaths related to chastity or celibacy.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 44,
+      "cost": 400,
+      "name": "Do What You Want Because a Pirate is Free ",
+      "source": "Alestorm",
+      "description": "People are strangely accepting of your actions, appearance, and nature. As long as you are not hurting someone with your actions people will accept you without discrimination for your actions or appearance or even monstrous species. Once you start eating people as a monster they’ll treat you as one, but until then you’re just a strange creature. You could be known as a pirate and accepted in high society as long as you didn’t go around starting fights. A pirate is free, and so are you.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 45,
+      "cost": 50,
+      "name": "You Can be Sure You'll Have no Sons or Daughters ",
+      "source": "Alestorm",
+      "description": "You can. From now on you can toggle your fertility on and off at will, and people will even believe you when you say no children will result as long as you keep it off. As a bonus you’re now immune to sexually transmitted diseases.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 46,
+      "cost": 500,
+      "name": "To the End of Eternity We’ll Stand Against the Law ",
+      "source": "Alestorm",
+      "description": "It is the piratic way to stand as a force of chaos, and now you more than any other seem to have been chosen by the destiny of piracy to hold this element. Your presence, words, and actions seem better suited to stirring ideals of freedom, liberty, and rebellion in others, stirring up the flames of resentment against the current order to create change and chaos. More than merely inspiring others, you are empowered to stand against the law. When you find yourself opposed to those who represent established law and order, you find that your abilities are enhanced; you strike such individuals harder, their blows weakened upon you, your plans are cleverer, and you find it easier to hide yourself should there be need.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 47,
+      "cost": 600,
+      "name": "Pirate Lord",
+      "source": "The Pirates of Darkwater",
+      "description": "You are a truly masterful fighter, familiar with dozens of weapons and martial arts—all else being equal, you have skill enough to fight a dozen lesser warriors to a standstill. In addition, any crewed vessel under your direct command performs noticeably better than it would otherwise: its hull will be more resistant to damage, it will move faster, its weapons hit harder, and so on. Where you shine, however, is commanding a fleet. Any group of vessels under your overall command will coordinate and work together perfectly, their crews following your strategies at peak efficiency with no unforced errors. All vessels in the fleet also get a minor version of the performance boost effect as well— this isn’t too noticeable on an individual level, but overall the small benefits will add up to make the fleet able to punch noticeably above its weight class.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 48,
+      "cost": 600,
+      "name": "The World is Your Mollusc ",
+      "source": "The Pirates of Darkwater",
+      "description": "The world seems to go out of its way to place exceedingly lucrative opportunities for fun and profit in front of you. Amateurs sitting a table over from you might be loudly discussing the rare (and easily stolen!) treasure map they happen to have, if you go to the docks with the intent to ‘borrow’ a ship, you might find an exceptional vessel under little-to-no-guard, a fugitive with a massive bounty on their head could practically trip over you, your captors will almost definitely lead you directly past their poorly-defended treasure vault, and so on.",
+      "chapter": "Seamanship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Seamanship",
+      "__line": 49,
+      "cost": 100,
+      "name": "Drink ",
+      "source": "Alestorm",
+      "description": "You are immune to the negative effects of alcohol intoxication. No matter how much you drink you retain the ability to think and act normally should you need to. You can still feel the beneficial effects of alcohol intoxication - the social lubrication, easing of concerns, etc - but the moment that they become a hindrance to you they all fall away as if they were never there to begin with. In addition you will never get sick on your stomach due to alcohol, or suffer alcohol poisoning. Finally you can drink any amount of alcoholic beverage as fast as it can flow down your throat, seemingly a bottomless pit when it comes to alcohol, and unable to drown (or suffocate) while doing so; this only applies to alcoholic beverages though, so you can’t drink the ocean.",
+      "chapter": "Seamanship"
+    }
+  ],
+  "5": [
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 1,
+      "cost": 100,
+      "name": "Folding Glider ",
+      "source": "The Pirates of Darkwater",
+      "description": "This one-man hang glider is made of sturdy bamboo and linen. Its ingenious design allows it to be folded up into a backpack-like package or set back in only a few seconds. It also has a minor enchantment on it that allows it to catch the wind better than would otherwise be expected, letting you gain height and speed more easily.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 2,
+      "cost": 0,
+      "name": "Spyglass ",
+      "source": "The Pirates of Darkwater",
+      "description": "A large, ornate spyglass with an adjustable focus that provides clear, sharp images up to 30x magnification, significantly better than any other found in this world.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 3,
+      "cost": 200,
+      "name": "By Hook or Crook ",
+      "source": "Peter Pan",
+      "description": "If either of your hands is ever cut off, you may instantly and bloodlessly replace it with any small tool or weapon (even a magical one) of your choice. Whatever you choose, it is further enhanced with moderate water magic that you can unleash on foes. If the tool-hand is cut off again, you can instantly will the tool back to your stump and reconnect it.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 4,
+      "cost": 200,
+      "name": "Magic Compass",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "This magical compass has been imbued with your soul. Not in a bad way, just enough to create a link. The needle always points to whatever you most desire, or the means to get to that which you desire. It can be hard to tell. Anyways, at least you’ll always know where your next step is, so long as you know what you want. If you don’t know what you really desire, the compass doesn’t either.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 5,
+      "cost": 200,
+      "name": "Blackbeard’s Bandolier",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "This magical bandolier is excellent for storing firearms. It has convenient holsters for 8 different flintlock pistols. Though they’re each only single-shot, they fire despite the weather, and a new one will appear in any holster 1 minute after you’ve fired the last. If you’re fast enough on the draw, you can keep up a withering barrage of ill-aimed fire",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 6,
+      "cost": 200,
+      "name": "Siren’s Net",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "A net woven from the hair of mermaids, this net is attractive to fish. All you have to do is touch a corner of it to the ocean’s surface, and fish from miles around will appear from nowhere. You can try to attract a specific type if you want, and actually fishing with the net is sure to make you wealthy beyond dreams of avarice. Or you can just start a shark feeding frenzy out of nowhere.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 7,
+      "cost": 200,
+      "name": "Wolski‘s Glass",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "This spyglass is impressive. It might be a small thing you can stick in a pocket, or a huge pole that needs a stand to balance on, but it has the same magical qualities. First, it’s really incredibly durable; you can use it as a club without worrying about breaking the lenses. It’s also able to see through things it shouldn’t; mists and darkness hide nothing from its eye, and even magical illusions give up their secrets.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 8,
+      "cost": 100,
+      "name": "Bottle of Rum",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "This bottle of rum is perhaps the greatest miracle known to mankind. It is always full of rum, grog, or any other alcoholic beverage at least 70 proof. If, for some ungodly reason, you live in a world without rum, it’ll just remain full of clean and clear water until you leave that hellhole. Don’t let anyone else know of your treasure, or you’ll have to fight off mobs of sailors from around the world.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 9,
+      "cost": 100,
+      "name": "Nice Sword",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "You have a very nice sword. Like, it’s very pretty and well balanced. It’ll stand up to a lot more abuse than your standard blade, and you can even distract people in combat with its shininess. Though you’ll probably lose it a lot, it eventually finds its way back to you. Unfortunately, at that point it’s usually being used by someone attempting to stab you.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 10,
+      "cost": 100,
+      "name": "Jar of Dirt:",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "This is a jar that contains dirt. And that’s it. You promise. Actually, you can put anything into it and it’ll be unfindable by anyone else (well, anyone who bothers to look; it’s just a jar of dirt). Alternatively, you can easily convince people that this simple jar contains the most important secret item ever (or at least a lot of money), if you want to use it as a distraction or “leverage” tool.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 11,
+      "cost": 50,
+      "name": "Nice Hat",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "What would a pirate be without his hat? What would any sailor, as a matter of fact, do without his most gorgeous head covering? This hat is ostentatious, impressive, and is undefinably YOU. It adds to your presence in any speech, and can be swished about as you like for emphasis. It probably has feathers. Also, somehow it just keeps finding its way back to you…. It is a VERY fancy hat",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 12,
+      "cost": 50,
+      "name": "Musket",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "You’ve been issued a musket and pistol. Though it’s always tough to keep your powder dry while out at sea, the opportunity to shoot down pirates like the dirty dogs they are cannot be missed (Unless you’ve shirked on your drill). Also, you have a large supply of gunpowder and a number of bullets. And a bayonet, ramrod, and all the other gear you need.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 13,
+      "cost": 50,
+      "name": "Uniform",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "This fanciful outfit looks very nice, though it’s missing a hat. Probably includes multiple layers such as jackets, undershirts, and sashes for men, and petticoats and shifts for women (If there were ever any women aboard a ship). However, it somehow doesn’t impede your acrobatics or fighting in the slightest. Though it can get torn and damaged, any patches somehow just make it seem daring, not ratty.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 14,
+      "cost": 200,
+      "name": "Sea Map ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "You don’t want to get lost at sea, do you? This map of the Caribbean Sea tells you exactly where you are and what kind of locations you are surrounded by. It even displays any enemy ships once looked at. The map will update in future worlds to wherever it is you travel.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 15,
+      "cost": 300,
+      "name": "Treasure Map ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Just a hint of where to look. That is enough for one with drive and curiosity to find a price of great wealth. You can summon a Botle with a Treasure Map to give you a location of exactly what you seek. It will show you which land to find it on while also marking the spot with an X. You can summon a new map once a year.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 16,
+      "cost": 300,
+      "name": "Edward Kenway's Journal ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "A Book that is not yet meant to exist but whose value cannot be overstated. After putting an end to his pirate career, Edward became a researcher of Isu Civilisations, discovering many valuable sites and locations. All his findings are recorded here and surely to be useful. In future Jumps, it will become an equally valuable recording of ancient sides, bygone people or similar.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 17,
+      "cost": 200,
+      "name": "Golden Flintlock Pistols ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "These legendary guns were used by Edward himself, especially useful in battle, against El Tiburón, the toughest Templar in the Caribbean and Torres' personal bodyguard. Thankfully, these pistols provided a good way to win. They can, with one shot, kill any unarmored man and even the toughest of armour can only endure a few shots of these guns.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 18,
+      "cost": 0,
+      "name": "Pistols",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Of course, sometimes, it is best to stay at a distance. For these occasions I recommend getting yourself one of these. Flintlock pistols with a replenishing supply of ammunition and gunpowder. They require no maintenance, are immune to the environments (like, say, the gunpowder inside them getting wet) and will let you intuitively aim towards your target's head. You get one for free alongside a holster to carry it.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 19,
+      "cost": 200,
+      "name": "Metal Cuirass",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "This set of metal armour makes you effectively immune from most melee attacks to your chest, and occasionally, gunshots.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 20,
+      "cost": 200,
+      "name": "Signal Flare ",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "Should you ever find yourself stranded or exiled, fire this Signal Flare. Within the next 2-3 days, a ship will appear to pick you up and return you to civilised land. If you are inland instead a caravan will find you.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 21,
+      "cost": 200,
+      "name": "Ostrich Feather Cap",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "This exotic hat will always look fabulous on your head, and will give you an aura of exoticness whenever worn.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 22,
+      "cost": 300,
+      "name": "Skeleton Key",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "This key, inscribed with a skull, seems to be able to fit and unlock any normal lock.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 23,
+      "cost": 200,
+      "name": "Ruby Necklace",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "This gem seems to almost sparkle in the sunlight, a beautiful jewel, no doubt. This could earn you up to a month’s pay should you sell it, or maybe it will lie upon the chest of a loved one. When worn this gem seems to deepen the feelings of love towards the giver. However, should your loved one have any suitors, they will be whipped into a rage towards you.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 24,
+      "cost": 400,
+      "name": "Deathbrand Set ",
+      "source": "TES: Warriors",
+      "description": "The arms and armor of the infamous pirate, Haknir Death-Brand. The stalhrim armor is light and easy to move in, as well as increasing your stamina, strength, your skill with one-handed weapons, and allows you to breathe underwater. The twin scimitars, Bloodscythe and Soulrender, will absorb your target's health and magicka, respectively.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 25,
+      "cost": 100,
+      "name": "Noble Finery ",
+      "source": "Sinbad Legend of the Seven Seas JumpChain",
+      "description": "Can’t just look like everyone else, you know? They need a certain pinache that looks that screams, “I have money.” And now you can look like you have money too! Clothes made of the finest silks that the ports have ever seen, the most beautiful leather or whatever it is you can have it and a lot of it! In fact enough of it to fill your entire wardrobe.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 26,
+      "cost": 100,
+      "name": "Sturdy Outfit",
+      "source": "Sinbad Legend of the Seven Seas JumpChain",
+      "description": "An outfit of your own design that is ludicrously resistant to tears, ripping, fraying, or any other number of unsightly damages to clothing. It doesn’t actually protect from anything more than what a regular outfit made of leather or wool would, but it is also incredibly resistant to becoming waterlogged.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 27,
+      "cost": 200,
+      "name": "Belly the Butcher’s Knife",
+      "source": "Neverland: A Fantasy Role-Playing Setting",
+      "description": "A magical knife from a pirate cook that perfectly skins animals every time you use it; this attribute might also come in handy in combat.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 28,
+      "cost": 600,
+      "name": "Sword of Triton",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "Blackbeard's legendary blade and the source of his legendary reputation. This sword can control anything that can be classified as a ship, giving you the power to animate vessels as if they were living creatures. You can make a ship move without wind or crew, control the rigging like tendrils, or even have cannons fire and load themselves. This control also extends to a unique feature: you can shrink any ship you touch with the blade to the point it can be fit inside a bottle, something Blackbeard used to build his collection. Shrunken ships can be returned to full size by breaking the bottle at sea. The blade is also incredibly sharp and durable, and it’s an excellent weapon in combat even without its magical properties. Post-jump, it affects anything that can be considered a vessel, so have fun shrinking down spaceships.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 29,
+      "cost": 600,
+      "name": "Cursed Aztec Coin ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "A single gold medallion from the treasure of Cortés, but this one comes with a special modification courtesy of your benefactor. Unlike the original curse that permanently binds you until all 882 pieces are returned, this one only gives you the curse as long as the coin is on your person. This makes it incredibly versatile, as you can become an undead resistant to conventional damage anytime you want, then return to normal life afterward. Just don’t forget this doesn’t make you immune to dismemberment or anything that destroys your body, and if the coin leaves you while missing a part of yourself, the loss becomes permanent. However, as long as you retain the coin, any severed limbs or lost body parts can be reattached with ease, knitting back together as though they were never removed.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 30,
+      "cost": 400,
+      "name": "Neverending Flask ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "This is a magical flask with a unique feature: whatever liquid you pour here will be generated infinitely. This works with any liquid: rum, water, wine, and even things like lamp oil or potions. The flask is indestructible and will always find its way back to you if lost or stolen.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 31,
+      "cost": 200,
+      "name": "Pistol Brace",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "A bandolier holding four flintlock pistols, each one well-crafted and maintained. What makes it unique is that whenever you return a pistol to the bandolier, it automatically reloads itself within seconds. You can fire all your pistols in quick succession, holster them, wait 25 seconds, and draw them again fully loaded and ready to fire. The bandolier provides an endless supply of ammo, so you never run out of ammunition.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 32,
+      "cost": 200,
+      "name": "Liar's Dice ",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "A leather cup and five dice, used for the traditional pirate gambling game. What makes them useful is that the dice are weighted and can be controlled through a technique you instinctively understand, guaranteeing you win any game played with these dice. More insidiously, when playing games with this set, you can suggest bets that are far higher than reasonable, and your opponent will agree without questioning why they’re wagering their ship, their soul, or years of their life on a dice game. They'll realize what they've agreed to after losing, but by then it's too late. This obviously doesn’t work on people who are immune to mental influence, but most people find themselves agreeing to foolish bets when playing against you with this set. Just remember: cheating is only wrong if you get caught, and with this set, you probably won't be.",
+      "chapter": "Slops"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Slops",
+      "__line": 33,
+      "cost": 600,
+      "name": "Great Harpoon",
+      "source": "Alestorm",
+      "description": "This is a weapon that in the hands of a mortal man could slay the terrorsquid where 32 lb guns had failed. In the hands of one such as you this legendary weapon could be something far more. It is a vehicle mounted harpoon gun, too large to be mounted on a car or small tank, and when fired it will take on the powers of the one firing it, using them to increase its own force and power; if you had super strength it would strike super hard, super speed would see it flying super fast, pyrokinesis would see it wreathed in flame and so forth. As a final benefit when used against an entity of myth and legend such as a terrorsquid, a god, the flying dutchman, or some other creature or ship which has spawned myths and legends, it will always be - before taking on its wielder’s powers - the strongest weapon on the vehicle it’s mounted upon by a noticeable margin.",
+      "chapter": "Slops"
+    }
+  ],
+  "6": [
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 1,
+      "cost": 100,
+      "name": "Smuggler’s Compartments ",
+      "source": "The Pirates of Darkwater",
+      "description": "Your ship has a set of cunningly concealed cargo compartments that allow you store trade goods out of sight and safe from inspection. The interior of your ship has been designed to disguise the presence of these hidden compartments, and it would take an exceptionally perceptive individual studying the vessel closely to notice anything off.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 2,
+      "cost": 100,
+      "name": "Secure Cells",
+      "source": "The Pirates of Darkwater",
+      "description": "While most ships have at least a small brig capable of holding one or two prisoners, yours has a dedicated set of cells with heavy doors and high-quality locks that can be used to house a half-dozen captives in relative comfort. You also gain several hanging cages: uncomfortable metal-barred cages that are just big enough to allow a person to stand up in them. If",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 3,
+      "cost": 100,
+      "name": "Beast Pit ",
+      "source": "The Pirates of Darkwater",
+      "description": "Your ship has a large compartment that can be used to house a large beast. The pit automatically adjusts to be a relatively comfortable environment for its occupant, keeping them fed and healthy with very little effort or maintenance required, and can accommodate essentially any individual creature short of a full-grown leviathan.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 4,
+      "cost": 100,
+      "name": "Ballistae ",
+      "source": "The Pirates of Darkwater",
+      "description": "A set of ballistae (large, crossbow-like weapons) affixed to the ship’s upper deck. They can fire five-foot bolts as thick as a man’s forearm, with or without a trailing line. This is a highly accurate weapon with 360-degree firing arc, able to pick off individual targets up to a range of two hundred yards, up to a maximum range of twice that. The number of ballistae you get depends on your ship size—one",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 5,
+      "cost": 100,
+      "name": "Deck Catapults",
+      "source": "The Pirates of Darkwater",
+      "description": "A set of catapults that can be used to lob rocks, firebombs, sea suckers (cuttlefish-like creatures that exude a fast-acting acid that can eat through wood and bone in seconds) and other payloads at nearby ships. They are accurate enough to hit large targets like enemy vessels relatively reliably from up to three hundred yards away. They can be moved around the upper deck on wheels before being locked in place to fire. The number of catapults you get depends on your ship size—two",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 6,
+      "cost": 100,
+      "name": "Ship in a Bottle ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Not exactly a useful feature, but perhaps entertaining. You receive a perfect replica of your ship, but inside of a bottle. Any changes made to the real ship will be reflected by this decoration.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 7,
+      "cost": 100,
+      "name": "Steering Wheel ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Now, what is there possibly special about a mere steering wheel? You would be surprised. After all, with how chaotic a battle or really just travelling can be, you need to ensure your orders are heard and followed. The steering wheel is perfect for that; there is barely any delay between where you want to steer and actually doing so with the wheel. Furthermore, are your commands always clearly and quickly followed as long as you give them from here, being heard no matter what situation you and your crew find yourselves.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 8,
+      "cost": 100,
+      "name": "Diving Bell ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Treasure sleeps next to Davy Jones' Locker. Inside the wrecks of a ship, bounty can be found, be it gold or medicine. This Diving Bell can help you reach these riches. It provides a constant supply of fresh and breathable air and even comes alongside a dozen barrels that provide fresh air when inside. Any diving and swimming-related abilities are noticeably easier once you take a breath from the Bell, as long as you remain underwater and don’t dive up again, which can be as simple as hammering on the bell when inside. Water pressure will also not be a problem.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 9,
+      "cost": 100,
+      "name": "Naval Mortar",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Sailors know too be worried about the cannons they can see on the broadside but what about death from above? Your ship is fited with a mortar, an excellent long-distance cannon against ships and forts alike.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 10,
+      "cost": 100,
+      "name": "Quarters",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Your crew needs to sleep somewhere. A portion of your ship now consists purely of Quarters, always providing just enough space for anyone on your ship. It is rather comfortable too despite the looks of it.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 11,
+      "cost": 100,
+      "name": "Storage",
+      "source": "Assassin's Creed Black Flag",
+      "description": "So much to plunder and so little space to store it all. You don’t want to constantly be forced to unload your spoils, do you? A portion of your ship is now purely reserved for storing any plunder, be it materials like wood, metal and cloth or stuff like sugar, rum and luxuries.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 12,
+      "cost": 100,
+      "name": "Rammer",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Sometimes the best solution is to simply charge head-on against your enemies. Your Ship is fitted with a Rammer at the front, allowing it to damage others simply by sailing into your opponent's ship. This also guarantees your Ship will not receive any damage from such frontal attacks.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 13,
+      "cost": 100,
+      "name": "Captain's Cabin",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "A ship captain's cabin that's surprisingly spacious and comfortable, filled with your personal effects. Includes a proper bed, a desk with maps and charts, a cabinet for your rum, a few weapons on display, and various trinkets from your adventures. This cabin can be installed on any ship you captain, magically fitting regardless of the ship's actual size (it's bigger on the inside if needed).",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 14,
+      "cost": 100,
+      "name": "Quest for Ships ",
+      "source": "Alestorm",
+      "description": "All pirates can sail, but you have something special to you. You have all the skills needed of a shipwright in this age, and all the skills needed to make any part of the ship that might be required. Given time you could build a ship with no outside help assuming you had access to the tools and raw materials needed. And you wouldn’t take as much time as you would expect. When you are working to build a ship it goes at least twice as fast as it should.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 15,
+      "cost": 200,
+      "name": "Clipper",
+      "source": "The Pirates of Darkwater",
+      "description": "A clipper is a ship designed primarily for speed, typically with a narrow frame and oversized sails. Clippers ordinarily have only two or three decks and significantly less cargo space compared to slower vessels. The Wraith, Ren’s ship, is an example of this class of vessel.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 16,
+      "cost": 200,
+      "name": "Merchantman",
+      "source": "The Pirates of Darkwater",
+      "description": "Merchantmen sit broader and heavier in the water than other vessels, their hulls shaped to maximise the amount of cargo they can carry. This makes them slower, and as they make tempting targets for pirates most merchant vessels will typically have one or more other ships escorting them.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 17,
+      "cost": 200,
+      "name": "Siege Deck",
+      "source": "The Pirates of Darkwater",
+      "description": "A raised partial deck that has a pair of impressively large catapults affixed to it. These siege weapons are more difficult to aim, but can deliver significantly bigger payloads than their lesser versions at an increased range. Their firing arc is very small compared to other shipboard weapons, making them better-suited to stationary targets like coastal fortifications.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 18,
+      "cost": 200,
+      "name": "Long Tom",
+      "source": "Peter Pan",
+      "description": "A trusty old cannon that has been modified for shooting upward, perfect for attacking flying boys in clouds. In fact, the cannon ignores all laws of physics, such that cannonball may fly straight up for a mile in a perfect line with no gravity, wind resistance, or anything else hindering its course. Regardless of damage or location, if a shot comes within ten feet of a group of targets, the individuals will be swept away by wind and scattered, and will be unable to reunite with each other for five minutes. Must be loaded manually for each shot, but has unlimited ammunition.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 19,
+      "cost": 200,
+      "name": "Hunting Rowboat and Harpoons ",
+      "source": "Assassin's Creed Black Flag",
+      "description": "The sea is filled with fascinating but dangerous creatures. Maybe hunting them to put food on the table or because of the resources they can give you is something you’d be interested in. Your ship has a Rowboat added to it, as durable as the ship itself and having dozens of renewing Harpoons inside. When the rowboat is on water, it automatically acts as bait for the local sea creatures, and the Harpoons can be thrown with great precision and strength, even if you lack such qualities. Finally, any creatures slain while using these harpoons and standing on this boat give you more to loot from their corpse, be it meat, bones or something else.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 20,
+      "cost": 200,
+      "name": "Copper Plating",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "This Copper Plating when installed makes your ship 50% fasterand maneuverable",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 21,
+      "cost": 200,
+      "name": "Iron Scantlings",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "These Reinforcements increase the strength of your hull by 50%,and will sometimes negate cannon shots entirely",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 22,
+      "cost": 200,
+      "name": "Chain-Shot",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "When fired from your cannons, this shot is likely to hit and rip apart other ships’ sails, slowing them or even immobilising them. You will never run out of Chain-Shot",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 23,
+      "cost": 200,
+      "name": "Bronze Cannons",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "This type of Cannon is more resilient, allowing them to endure many years of abuse. Its barrel also increases the accuracy of all your cannonshot.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 24,
+      "cost": 200,
+      "name": "Big Ship",
+      "source": "Alestorm",
+      "description": "Did I say a stereotypical pirate ship? Your ship is big. Like as large as a big, modern, cruise ship. And it is armed for its size, with a full crew for its increased size. This is the kind of ship that could rule the seas, or need a fleet to put down.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 25,
+      "cost": 300,
+      "name": "Warship ",
+      "source": "The Pirates of Darkwater",
+      "description": "A warship is any vessel primarily intended for combat. The internal decks are usually well-balanced between additional crew (to allow for boarding parties) and cargo (to claim spoils of battle). They’re typically quite fast, though a well-designed clipper is still capable of outrunning them, and generally have additional space set aside for armaments of some kind.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 26,
+      "cost": 300,
+      "name": "Ship",
+      "source": "Pirates of the Caribbean Jumpchain",
+      "description": "You have a ship. It’s more than just wood and sails, it’s your opportunity to go wherever you want. It’s large enough to sail wherever you’d like, with 20 cannon and plenty of room for rum, but you do need to keep track of a crew; you may be captain, but not everyone will be happy with that.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 27,
+      "cost": 300,
+      "name": "Fragment of Eden",
+      "source": "Assassin's Creed Black Flag",
+      "description": "This is most curious. It seems your ship has been blessed with something first created civilisations ago. Inside a Box on your ship is the Fragment of Eden, one similar in nature to the one wielded by the French Pirate Alonzo Balla. As long as your ship possesses this Fragment, it is notably enhanced in both speed and firepower and just generally better",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 28,
+      "cost": 300,
+      "name": "Steam Power ",
+      "source": "Age of Sail",
+      "description": "Did you perhaps miss the memo about this being the age of sail? Oh well, there were plenty of hybrids. Yourship has a steam engine, allowing it to move with surprising speed and without wind. Don’t worry about fuel.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 29,
+      "cost": 400,
+      "name": "The Black Flag",
+      "source": "Assassin's Creed Black Flag",
+      "description": "Let the black flag signal nothing but your allegiance to man’s natural freedom. This piece of black fabric is touched by the ideals of piracy and freedom and the rebellion against law and civilisation,. If you display it, any who gazes upon it knows you are of the rebellious sort and your lawful enemies will feel fear creep up on their spines and help your efforts in being terrifying. Furthermore, it gives you a boon to your luck regarding treasures, ensuring you can always find vast wealth. Any other piracy-related capabilities and schemes also seem to gain a notable boost as long as you fly this flag.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 30,
+      "cost": 400,
+      "name": "Fast Galleon",
+      "source": "Sid Meier’s Pirates Jump.",
+      "description": "Very similar to a Galleon, however it has less space for cannons, crew space, and cargo storage. But in return the Fast Galleon is faster and more maneuverable than a normal Galleon.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 31,
+      "cost": 400,
+      "name": "Queen Anne's Revenge",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "Blackbeard's legendary flagship, a massive three-masted frigate that strikes terror into all who see her black sails. The Queen Anne's Revenge is a formidable warship bristling with cannons, but her true weapon is far more terrifying: the ship's bow contains a sophisticated Greek fire projection system that can unleash streams of liquid flame across the water's surface or directly onto enemy vessels. She's also remarkably resilient, able to take damage that would destroy normal ships. She requires a crew of two hundred people to operate effectively.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 32,
+      "cost": 400,
+      "name": "The Black Pearl",
+      "source": "Pirates of the Caribbean 1.0",
+      "description": "The fastest ship in the Caribbean, or at least one of them. With sails as dark as a moonless night, and a hull painted to match, this ship is fast enough to outrun any naval vessel and catch any merchant ship. She's well-armed, nimble, and slowly repairs itself from damage over time. She requires a crew of a hundred and fifty people to operate at full efficiency.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 33,
+      "cost": 400,
+      "name": "Battleship of Cosmic Steel",
+      "source": "Alestorm",
+      "description": "Your ship, while no larger or smaller than before, is able to sail the sky as it would the ocean. The ship seems to simply ignore gravity as it does so, though you can turn this anti-gravity effect off should you wish to come crashing down at terminal velocity onto something. Should you ascend into the higher atmosphere you will find that by battening the hatches it can become air tight, and if it sails into space it will begin to accelerate constantly in defiance of the Law of Relativity as long as you go in a single direction until after a week it has entered FTL speeds from which it will continue to accelerate until you begin to decelerate to reach your destination. This ship can be controlled from a set of controls inside of it, allowing for modifications to the sails and rudder direction and full control of the ship while it is sealed. Also your ship is now made of some advanced cosmic steel, able to easily resist blows that would destroy most ships of this day and age.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 34,
+      "cost": 50,
+      "name": "Opulence",
+      "source": "The Pirates of Darkwater",
+      "description": "Every part of the ship is simply of better quality than it would be otherwise, either due to the skill of the craftsmen who made it or the pride taken in its care, enough that visitors to your vessel will take special note of it.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 35,
+      "cost": 50,
+      "name": "Admiral’s Quarters",
+      "source": "The Pirates of Darkwater",
+      "description": "While all ships typically have a well-appointed captain’s cabin, yours goes a step beyond. Instead of a simple cabin, you have a relatively luxurious, multi-room apartment. Features include a large four-poster bed, a separate washroom, and a large meeting area with a full-sized dining table.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 36,
+      "cost": 50,
+      "name": "Little Ship",
+      "source": "Alestorm",
+      "description": "Your very own small boat. Really more of a rowboat or a lifeboat. But it’s yours. It always seems to be on any ship, or at any port or shore, when you need it, though, which is a pretty useful power for this little ship.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 37,
+      "cost": 500,
+      "name": "Dreadnought ",
+      "source": "The Pirates of Darkwater",
+      "description": "This category of ship is defined by its size—dreadnoughts are generally several times larger than even the biggest standard warship, and are essentially a small fleet unto themselves. The Maelstrom, Bloth’s ship, is the only other known example of a ship of this scale.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 38,
+      "cost": 500,
+      "name": "Jolly Roger",
+      "source": "Peter Pan",
+      "description": "Your own copy of Hook’s own Jolly Roger, a magnificent galleon armed to the brim for piracy. It has been enchanted with fairy dust, and can be made to fly through the air and through space without the passengers being harmed.",
+      "chapter": "Your Ship"
+    },
+    {
+      "__source": "Celestial Treasure Chest - Your Ship",
+      "__line": 39,
+      "cost": 600,
+      "name": "Black Ark",
+      "source": "Warhammer Fantasy - Dark Elves",
+      "description": "One of the venerable floating cities upon which Malekith and the Druchii fled Nagarythe so long ago, now turned into a vessel purely intended for war and plunder. This Ark is filled to the brim with vicious, bloodthirsty, hardened Black Ark Corsairs, all of whom are unflinchingly loyal to you. It also has spacious quarters for you to the scale of a small mansion, a hold that can carry incalculable tons on plunder, cells and stocks for the swift breaking of slaves, and even a clutch of ten War Hydras for more, stubborn opposition. Any troops, or beasts, that are slain repopulate on the Ark the following day. The singular catch, is that your Corsairs may only go 100 miles inland, which should be a more than fair allowance for raiding.",
+      "chapter": "Your Ship"
+    }
+  ]
+}
