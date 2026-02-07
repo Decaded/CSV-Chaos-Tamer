@@ -2,63 +2,17 @@ const fs = require('fs');
 const path = require('path');
 const csv = require('csv-parser');
 const { Readable } = require('stream');
+const { parseMarkdown } = require('./md-parser');
+const { shared, csv: csvConfig } = require('./config');
 
 const SHEETS_ROOT = path.join(__dirname, 'sheets');
 const OUT_ROOT = path.join(__dirname, 'data');
 
-/**
- * Maps raw CSV headers or column indices to standard field names.
- * Keys are lowercase alphanumeric versions of headers (or numeric indices).
- * @type {Record<string|number, string>}
- */
-const headerMap = {
-	0: 'id',
-	unnamed0: 'id',
-	cpcost: 'cost',
-	cost: 'cost',
-	price: 'cost',
-	name: 'name',
-	item: 'name',
-	perkname: 'name',
-	jump: 'source',
-	jumpdoc: 'source',
-	jumpchain: 'source',
-	source: 'source',
-	setting: 'source',
-	chapter: 'chapter',
-	category: 'chapter',
-	description: 'description',
-};
+const headerMap = csvConfig.headerMap;
+const transformMap = csvConfig.transforms;
+const SPLIT_CHAPTERS = shared.splitChapters;
 
-/**
- * Defines transformation functions applied to parsed CSV fields.
- * Keys are standard field names, values are functions that take raw values and return processed ones.
- * @type {Record<string, (value:any) => any>}
- */
-const transformMap = {
-	id: v => Number(String(v).replace(/cp$/i, '').trim()) || 0,
-	cost: v => Number(String(v).replace(/cp$/i, '').trim()) || 0,
-	description: v =>
-		String(v ?? '')
-			.replace(/[\r\t]+/g, '')
-			.replace(/\n{3,}/g, '\n\n')
-			.replace(/(?<!\n)\n(?!\n)/g, ' ')
-			.replace(/\s{2,}/g, ' ')
-			.trim(),
-	chapter: v => v?.trim(),
-};
-
-/**
- * Chapters that should be split into separate JSON files.
- * @type {Record<string, string>} key = chapter name (case-insensitive), value = output filename (without extension)
- */
-const SPLIT_CHAPTERS = {
-	'waifu catalogue': 'waifu',
-	'lewd': 'companion_(lewd)',
-};
-
-/** @type {string[]} Fallback headers used if no CSV headers are detected */
-const fallbackHeaders = ['CP Cost', 'Name', 'Jumpdoc', 'Description'];
+const fallbackHeaders = csvConfig.fallbackHeaders;
 
 /**
  * Normalizes a header by lowercasing and stripping non-alphabetic characters.
@@ -67,19 +21,7 @@ const fallbackHeaders = ['CP Cost', 'Name', 'Jumpdoc', 'Description'];
  */
 const normalizeHeader = h => (h ? h.toLowerCase().replace(/[^a-z]/g, '') : null);
 
-/**
- * Converts a string to a slug: lowercase, underscores instead of spaces, safe characters only.
- * @param {string} str - String to slugify
- * @returns {string}
- */
-const slugify = str =>
-	str
-		.replace(/^Copy of\s*/i, '')
-		.replace(/'/g, '')
-		.replace(/\s+/g, '_')
-		.replace(/[^\w-]+/g, '')
-		.replace(/^_+|_+$/g, '')
-		.toLowerCase();
+const slugify = shared.slugify;
 
 /**
  * Extracts chapter name from a CSV filename by removing common patterns and formatting.
@@ -187,7 +129,7 @@ async function splitAndRemove(database) {
 }
 
 /**
- * Main build function: parses all CSVs in SHEETS_ROOT, builds category JSON files, and splits special chapters.
+ * Main build function: parses all CSVs and MDs in SHEETS_ROOT, builds category JSON files, and splits special chapters.
  * @returns {Promise<void>}
  */
 async function buildDatabase() {
@@ -199,14 +141,38 @@ async function buildDatabase() {
 
 	for (const folder of folders) {
 		const db = {};
-		const files = fs.readdirSync(path.join(SHEETS_ROOT, folder)).filter(f => f.endsWith('.csv'));
+		const allFiles = fs.readdirSync(path.join(SHEETS_ROOT, folder));
+		const csvFiles = allFiles.filter(f => f.endsWith('.csv'));
+		const mdFiles = allFiles.filter(f => f.endsWith('.md'));
 
+		let fileIndex = 1;
+
+		// Process CSV files
 		await Promise.all(
-			files.map(async (file, idx) => {
+			csvFiles.map(async file => {
 				try {
 					const { rows, maxCP } = await parseCsv(path.join(SHEETS_ROOT, folder, file));
 					if (!rows.length) return console.warn(`Skipping empty: ${folder}/${file}`);
-					db[idx + 1] = rows;
+					db[fileIndex++] = rows;
+					if (maxCP > globalMaxCP) globalMaxCP = maxCP;
+					console.log(`${folder}/${file} → ${rows.length} rows, max CP: ${maxCP}`);
+				} catch (e) {
+					console.error(`Error parsing ${file}:`, e);
+				}
+			}),
+		);
+
+		// Process Markdown files
+		await Promise.all(
+			mdFiles.map(async file => {
+				try {
+					const { rows, source } = await parseMarkdown(path.join(SHEETS_ROOT, folder, file));
+					if (!rows.length) return console.warn(`Skipping empty: ${folder}/${file}`);
+
+					// Calculate max CP from markdown rows
+					const maxCP = Math.max(...rows.map(r => (typeof r.cost === 'number' ? r.cost : 0)));
+
+					db[fileIndex++] = rows;
 					if (maxCP > globalMaxCP) globalMaxCP = maxCP;
 					console.log(`${folder}/${file} → ${rows.length} rows, max CP: ${maxCP}`);
 				} catch (e) {

@@ -768,6 +768,332 @@
   ],
   "2": [
     {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 1,
+      "id": 1,
+      "name": "Blood Rights",
+      "cost": 50,
+      "description": "\"Mass Enemy Damage at a Cost.\" This perk grants you a straight razor artifact with special properties and basic knowledge of how to use it. When used to cut yourself, it deals consistent damage and doesn't cause bleeding. This action will inflict damage on everyone you perceive as enemies around you (mostly in the form of internal trauma and cuts). It doesn't have any special effects when used to cut other creatures - just an exceptionally durable and always sharp razor. It has a cooldown for its main effect and provides feedback about it to the current user.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 2,
+      "id": 2,
+      "name": "Candy Heart",
+      "cost": 200,
+      "description": "\"Power of Love.\" This perk grants you incremental upgrades to a few randomly chosen physical stats after healing from wounds. It only works if the healed wound was severe enough and the healing process was fast enough (like regeneration). The upgrades are tiny but permanent.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 3,
+      "id": 3,
+      "name": "Empty Heart",
+      "cost": 100,
+      "description": "\"It Multiplies.\" This perk lets you completely heal from crippling and other negative side effects of wounds and ailments if your health falls below a certain threshold. It is as quick as your normal recovery speed. For example, it can fix wrongly fused bones after fracture recovery, but not smaller scars left behind by this wound. Or you can regain your lost eye: fully or partially, depending on your health status.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 4,
+      "id": 4,
+      "name": "Cracked Orb",
+      "cost": 50,
+      "description": "\"Shards of Knowledge.\" Each time you take damage exceeding a certain severity, you gain one of the following boons: useful insight about your surroundings; closed/blocked passages nearby being opened; or useful items being uncovered and brought to your attention from nearby area. It is mostly random but depends on what is around you and the situation you are in.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 5,
+      "id": 5,
+      "name": " Bloody Gust",
+      "cost": 100,
+      "description": "\"May your rage bring haste.\" Each time you take damage in a fight, it boosts your speed and agility temporarily until reaching a certain maximum. There are six 'stages' to the effect. It decays rapidly outside combat.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 6,
+      "id": 6,
+      "name": "Keeper's Sack",
+      "cost": 400,
+      "description": "\"Balls.\" Each time you purchase something from a willing trader, you receive a random permanent physical stat upgrade proportional to your spendings. It works better for large one-time expenditures made in person, where actual goods are being bought and spent sum is big enough to trigger the effect. It's very finicky about what counts as a \"purchase\" and cannot be cheated, not easily.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 7,
+      "id": 7,
+      "name": "Forget Me Now",
+      "cost": 600,
+      "description": "\"I don't remember...\" This perk gives you a special pill. It lets you \"reset\" your day once - right after taking it, traveling back 24 hours. You bring items on your person, memories, and other perks into the past with you, along with your current physical state. For instance, if you are wounded at the moment of pill effect activation, you will still be wounded afterward. This perk can be purchased multiple times. Remember, traveling back doesn't mean things will happen in exactly the same way. You gain general knowledge about the pill effect from the perk.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 8,
+      "id": 8,
+      "name": "The Hourglass",
+      "cost": 200,
+      "description": "\"Temporary enemy slowdown.\" You gain an hourglass, which can be used to slow down everyone you perceive as enemies around you for eight seconds. It has a cooldown. The item also provides feedback about the recharge status and knowledge of the Hourglass use to the holder. The effect is not temporal in nature, but inertial/kinetic - doesn't slow perception of time.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 9,
+      "id": 9,
+      "name": "A Pony",
+      "cost": 100,
+      "description": "\"Flight + Dash Attack.\" This stick horse item grants flight and increases speed passively. Upon active effect use, you charge in the direction the pony is facing, providing a degree of invulnerability during the charge and dealing damage to enemies hit. Active use of this item has a cooldown. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 10,
+      "id": 10,
+      "name": "Anarchist Cookbook",
+      "cost": 100,
+      "description": "\"Summon bombs.\" This is an actual Anarchist Cookbook and can be read like any normal text. Although it is more in-depth and factual, it also provides a slight passive boost to learning and using the knowledge contained within. The active effect spawns seven primed explosive devices (of reasonable power) at random points nearby the user, which explode in a few seconds. It has a cooldown and grants general knowledge about the effects of the book and how to use it to the person who equipped it.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 11,
+      "id": 11,
+      "name": "Best Friend",
+      "cost": 100,
+      "description": "\"Friends 'till the end.\" This small doll item, upon active use, spawns a decoy that explodes after 5 seconds. Enemies are attracted to the decoy and lose track of the user. This effect has a cooldown. The decoy looks like a person lying on the ground but can have different appearances and illusionary details to better attract enemies.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 12,
+      "id": 12,
+      "name": "White Pony",
+      "cost": 150,
+      "description": "\"Flight + holy death\". This stick horse item grants flight and increases speed passively. Upon active effect use, you charge in the direction the pony is facing, providing a degree of invulnerability during the charge, dealing damage to enemies hit and also creating damaging beams of light. Active use of this item has a cooldown. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 13,
+      "id": 13,
+      "name": " Glowing Hourglass",
+      "cost": 800,
+      "description": "\"Turn back time.\" Upon active use of this item, time gets rewound back toward the last bifurcation point in your timeline - such a moment at which grant changes happen due to small choices made by you. Usually, it brings you back a few minutes, but it can also be an hour or even up to a whole day in the past. Only user's mind travels back; nothing else does. This item can be used three times, and repeated use cannot take you further back than 24 hours from the previous use. This means you cannot use it twice in quick succession to travel more than 24 hours back. The only way to recharge this item is by rolling and purchasing this perk again (for half price), but hourglass can only store up to three charges. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 14,
+      "id": 14,
+      "name": "Yum Heart",
+      "cost": 200,
+      "description": "\"Reusable regeneration.\" This soft heart-shaped object is tasty. A bite taken from it causes the user to regain some health almost instantly, but then the effect goes on a cooldown, and you cannot bite it again until it recharges. It doesn't heal status effects, but it is very effective against wounds and physical consequences of things like toxins. It cannot heal cancer or genetic damage, but somewhat effective against more physical parts of brain and radiation damage. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 15,
+      "id": 15,
+      "name": "Spoon Bender",
+      "cost": 300,
+      "description": "\"Homing shots.\" This perk grants you the ability to apply a TBOI-inspired homing effect to your ranged/projectile-based attacks. It causes them to bend toward the closest enemy nearby. You don't have manual control over who/what is targeted and should instead try to position yourself in the right way to influence it. This effect works a bit differently for various types of ranged attacks you might use.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 16,
+      "id": 16,
+      "name": "The Wafer",
+      "cost": 400,
+      "description": "\"Damage resistance.\" Most sources of harm that would cause more damage than a certain threshold will only deal a fraction of it, which is a constant value. For example, being shot would only leave a bad bruise and maybe some broken bones, depending on where the hit landed. Remember, the effect is less effective or even doesn't work on some forms of damage.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 17,
+      "id": 17,
+      "name": "Holy Mantle",
+      "cost": 400,
+      "description": "\"Holy shield.\" This perk grants an invisible shield/barrier that negates the first instance of damage taken. It takes some time to recharge and cooldown is lower when outside immediate danger or battle. It works against most types of damage, but not all of them.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 18,
+      "id": 18,
+      "name": "Incubus",
+      "cost": 400,
+      "description": "\"Dark Friend.\" This perk allows you to spawn and dismiss a demonic familiar that floats nearby you and shoots ranged attacks identical to your current ones in terms of damage, rate of fire and special effects. For example, if you are using a Tommy gun with tungsten bullets, the Incubus will mimic this ranged attack.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 19,
+      "id": 19,
+      "name": " Dead Eye",
+      "cost": 200,
+      "description": "\"Accuracy Bbrings power!\" This perk increases damage each time an enemy is hit by your attack. The damage bonus resets when you miss a shot. This effect has a certain bonus limit and does not work for some types of attacks (like lasers). You can toggle the effect on and off.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 20,
+      "id": 20,
+      "name": "Holy Light",
+      "cost": 300,
+      "description": "\"Holy death shot.\" This perk allows you to either: add a chance to fire a 'holy shot' - a modification of your ranged attack that creates a damaging light beam in the area if it hits an enemy; or apply this effect to your attack intentionally, but with a specific cooldown between each application. You can toggle the effect of this perk, or even turn it off.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 21,
+      "id": 21,
+      "name": "Rock Bottom",
+      "cost": 1000,
+      "description": "\"It's only up from there\". This perk revents your physical attributes from falling below their highest values reached. Attributes continue to be calculated normally internally. Rather than use your current stats, items and effects will impact the same way they would as if you did not have Rock Bottom. Temporary buffs work normally, though they may make reaching new best values harder after the buff has worn off. Stat penalties are accounted for, causing increased difficulty of reaching new best values.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 22,
+      "id": 22,
+      "name": "PJs",
+      "cost": 100,
+      "description": "\"You feel cozy.\" This perk grants you 4 'soul hearts' and fully restores your health. Soul hearts work like a form of absorptive armor, taking damage instead of hurting your body. Depending on the severity, a different number of metaphorical hearts will be lost to absorb the damage. You can have a maximum of 12 soul hearts.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 23,
+      "id": 23,
+      "name": "Book of Revelations",
+      "cost": 100,
+      "description": "\"Reusable soul protection.\" This item, upon use, grants one soul heart. Soul hearts work like a form of absorptive armor, taking damage instead of hurting your body. Depending on the severity, a different number of metaphorical hearts will be lost to absorb the damage. You can have a maximum of 12 soul hearts. There is a small chance of encountering the Harbinger boss attacking you shortly after using the book. The wielder of the book gains knowledge of how to use it and a general description of its effect. The active effect has a relatively long cooldown. You can also read it as a normal book.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 24,
+      "id": 24,
+      "name": "Monstrance",
+      "cost": 200,
+      "description": "\"Purifying light.\" This perk gives you the ability to turn on an aura, which deals damage to enemies inside it. The closer they are, the more damage is dealt. Effect looks like a brightened area around you and a dim light.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 25,
+      "id": 25,
+      "name": "Book of Shadows",
+      "cost": 150,
+      "description": "\"Temporary invincibility.\" This item creates a protective shield, nullifying almost all types of damage for 10 seconds upon activation. The wielder of the book gains knowledge of how to use it and a general description of its effect. The active effect has a cooldown. You can also read it as a normal book.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 26,
+      "id": 26,
+      "name": "Brimstone",
+      "cost": 200,
+      "description": "\"Blood laser barrage\". This perk lets you shoot blood laser beam from your mouth that pierces through enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period. This perk can be purchased twice to get upgraded version.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 27,
+      "id": 27,
+      "name": "Stop Watch",
+      "cost": 300,
+      "description": "\"Let's slow this fown a bit...\" This perk slightly increases your movement and reaction speed. It alters perception to make things move only at 80% of their speed from your point of view, without losing any understanding of events happening around you. It takes some time for the brain to adapt to this new reality. This power can be toggled.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 28,
+      "id": 28,
+      "name": "Epiphora",
+      "cost": 150,
+      "description": "\"Intensifying tears.\" Shooting in one direction increases your rate of fire until the cap is reached. As soon as you change direction or stop shooting, the rate of fire resets to its normal amount. The effectiveness of the effect depends on the type of attack used. You can toggle this ability.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 29,
+      "id": 29,
+      "name": "Red Candle",
+      "cost": 50,
+      "description": "\"Flame on.\" This magical item can be used to shoot a blob of strangely persistent fire. It will burn in the targeted location for some time, scorching the surrounding area, and can be moved by strong enough wind or force while it lasts.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 30,
+      "id": 30,
+      "name": "The Candle",
+      "cost": 50,
+      "description": "\"Reusable flames.\" This magical item can be used to shoot a blob of blue fire, which disintegrates things on contact and diminishes quickly. It works better against living and organic matter. A wisp of blue fire is hard to move after it has been thrown.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 31,
+      "id": 31,
+      "name": "Guppy's Collar",
+      "cost": 300,
+      "description": "\"Eternal life?\" This perk grants a permanent 50% chance to respawn with a highly diminished state of health after death. You are not wounded after respawning, just fragile.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 32,
+      "id": 32,
+      "name": "Pyromaniac",
+      "cost": 300,
+      "description": "\"It hurts so good +5 bombs\". This perk grants immunity to explosion damage and fire damage. It also causes explosions to heal you. More exotic flame/explosion effects might still affect you negatively or interact weirdly with this power.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 33,
+      "id": 33,
+      "name": "A Dollar",
+      "cost": 50,
+      "description": "\"$$$\" This perk gives you 100 Pennies. In this case, Pennies are imaginary and immaterial unspecified currency, which you can materialize into actual money at any moment. It works only one way - Pennies into material currency, but be sure - now you have some sizable sum in your metaphorical (and soon literal) pocket!",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 34,
+      "id": 34,
+      "name": "The Compass",
+      "cost": 100,
+      "description": "\"The end is near\". This perk gives you a mental compass in the back of your mind, which points you toward places of interest nearby in your current location. It might take some time to figure out what the Compass is showing you, but behind all the symbols it uses, there is logic and system.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 35,
+      "id": 35,
+      "name": "Contagion",
+      "cost": 200,
+      "description": "\"Outbreak!\" The first enemy killed in a battle releases a gas cloud that poisons nearby enemies in small radius. Affected enemies will also release gas upon death, spreading the effect. This gas is not permanent, existing only for a short moment.",
+      "chapter": "The Binding of Isaac"
+    },
+    {
+      "__source": "Celestial Something - 11  The Binding of Isaac",
+      "__line": 36,
+      "id": 36,
+      "name": "Playdough Cookie",
+      "cost": 150,
+      "description": "\"Tasty rainbow\". This perk let's you turn your shots multicolored. Each color comes with a different status or tear effect applied to the shot. Colours and effects for each projectile is random, when active.",
+      "chapter": "The Binding of Isaac"
+    }
+  ],
+  "3": [
+    {
       "__source": "Celestial Something - 10 Stardew Valley",
       "__line": 1,
       "id": 1,
@@ -1486,332 +1812,6 @@
       "cost": 150,
       "description": "This perk provides a stable full of horses. You can delay releasing this into the world for as long as you want. Animals from this perk are unusually obedient to you, and when someone actively takes care of them, they become supernaturally productive. This perk can be purchased multiple times.",
       "chapter": "Stardew Valley"
-    }
-  ],
-  "3": [
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 1,
-      "id": 1,
-      "name": "Blood Rights",
-      "cost": 50,
-      "description": "\"Mass Enemy Damage at a Cost.\" This perk grants you a straight razor artifact with special properties and basic knowledge of how to use it. When used to cut yourself, it deals consistent damage and doesn't cause bleeding. This action will inflict damage on everyone you perceive as enemies around you (mostly in the form of internal trauma and cuts). It doesn't have any special effects when used to cut other creatures - just an exceptionally durable and always sharp razor. It has a cooldown for its main effect and provides feedback about it to the current user.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 2,
-      "id": 2,
-      "name": "Candy Heart",
-      "cost": 200,
-      "description": "\"Power of Love.\" This perk grants you incremental upgrades to a few randomly chosen physical stats after healing from wounds. It only works if the healed wound was severe enough and the healing process was fast enough (like regeneration). The upgrades are tiny but permanent.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 3,
-      "id": 3,
-      "name": "Empty Heart",
-      "cost": 100,
-      "description": "\"It Multiplies.\" This perk lets you completely heal from crippling and other negative side effects of wounds and ailments if your health falls below a certain threshold. It is as quick as your normal recovery speed. For example, it can fix wrongly fused bones after fracture recovery, but not smaller scars left behind by this wound. Or you can regain your lost eye: fully or partially, depending on your health status.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 4,
-      "id": 4,
-      "name": "Cracked Orb",
-      "cost": 50,
-      "description": "\"Shards of Knowledge.\" Each time you take damage exceeding a certain severity, you gain one of the following boons: useful insight about your surroundings; closed/blocked passages nearby being opened; or useful items being uncovered and brought to your attention from nearby area. It is mostly random but depends on what is around you and the situation you are in.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 5,
-      "id": 5,
-      "name": " Bloody Gust",
-      "cost": 100,
-      "description": "\"May your rage bring haste.\" Each time you take damage in a fight, it boosts your speed and agility temporarily until reaching a certain maximum. There are six 'stages' to the effect. It decays rapidly outside combat.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 6,
-      "id": 6,
-      "name": "Keeper's Sack",
-      "cost": 400,
-      "description": "\"Balls.\" Each time you purchase something from a willing trader, you receive a random permanent physical stat upgrade proportional to your spendings. It works better for large one-time expenditures made in person, where actual goods are being bought and spent sum is big enough to trigger the effect. It's very finicky about what counts as a \"purchase\" and cannot be cheated, not easily.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 7,
-      "id": 7,
-      "name": "Forget Me Now",
-      "cost": 600,
-      "description": "\"I don't remember...\" This perk gives you a special pill. It lets you \"reset\" your day once - right after taking it, traveling back 24 hours. You bring items on your person, memories, and other perks into the past with you, along with your current physical state. For instance, if you are wounded at the moment of pill effect activation, you will still be wounded afterward. This perk can be purchased multiple times. Remember, traveling back doesn't mean things will happen in exactly the same way. You gain general knowledge about the pill effect from the perk.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 8,
-      "id": 8,
-      "name": "The Hourglass",
-      "cost": 200,
-      "description": "\"Temporary enemy slowdown.\" You gain an hourglass, which can be used to slow down everyone you perceive as enemies around you for eight seconds. It has a cooldown. The item also provides feedback about the recharge status and knowledge of the Hourglass use to the holder. The effect is not temporal in nature, but inertial/kinetic - doesn't slow perception of time.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 9,
-      "id": 9,
-      "name": "A Pony",
-      "cost": 100,
-      "description": "\"Flight + Dash Attack.\" This stick horse item grants flight and increases speed passively. Upon active effect use, you charge in the direction the pony is facing, providing a degree of invulnerability during the charge and dealing damage to enemies hit. Active use of this item has a cooldown. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 10,
-      "id": 10,
-      "name": "Anarchist Cookbook",
-      "cost": 100,
-      "description": "\"Summon bombs.\" This is an actual Anarchist Cookbook and can be read like any normal text. Although it is more in-depth and factual, it also provides a slight passive boost to learning and using the knowledge contained within. The active effect spawns seven primed explosive devices (of reasonable power) at random points nearby the user, which explode in a few seconds. It has a cooldown and grants general knowledge about the effects of the book and how to use it to the person who equipped it.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 11,
-      "id": 11,
-      "name": "Best Friend",
-      "cost": 100,
-      "description": "\"Friends 'till the end.\" This small doll item, upon active use, spawns a decoy that explodes after 5 seconds. Enemies are attracted to the decoy and lose track of the user. This effect has a cooldown. The decoy looks like a person lying on the ground but can have different appearances and illusionary details to better attract enemies.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 12,
-      "id": 12,
-      "name": "White Pony",
-      "cost": 150,
-      "description": "\"Flight + holy death\". This stick horse item grants flight and increases speed passively. Upon active effect use, you charge in the direction the pony is facing, providing a degree of invulnerability during the charge, dealing damage to enemies hit and also creating damaging beams of light. Active use of this item has a cooldown. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 13,
-      "id": 13,
-      "name": " Glowing Hourglass",
-      "cost": 800,
-      "description": "\"Turn back time.\" Upon active use of this item, time gets rewound back toward the last bifurcation point in your timeline - such a moment at which grant changes happen due to small choices made by you. Usually, it brings you back a few minutes, but it can also be an hour or even up to a whole day in the past. Only user's mind travels back; nothing else does. This item can be used three times, and repeated use cannot take you further back than 24 hours from the previous use. This means you cannot use it twice in quick succession to travel more than 24 hours back. The only way to recharge this item is by rolling and purchasing this perk again (for half price), but hourglass can only store up to three charges. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 14,
-      "id": 14,
-      "name": "Yum Heart",
-      "cost": 200,
-      "description": "\"Reusable regeneration.\" This soft heart-shaped object is tasty. A bite taken from it causes the user to regain some health almost instantly, but then the effect goes on a cooldown, and you cannot bite it again until it recharges. It doesn't heal status effects, but it is very effective against wounds and physical consequences of things like toxins. It cannot heal cancer or genetic damage, but somewhat effective against more physical parts of brain and radiation damage. The wielder gains basic knowledge about the usage and functionality of the item when it is equipped by them.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 15,
-      "id": 15,
-      "name": "Spoon Bender",
-      "cost": 300,
-      "description": "\"Homing shots.\" This perk grants you the ability to apply a TBOI-inspired homing effect to your ranged/projectile-based attacks. It causes them to bend toward the closest enemy nearby. You don't have manual control over who/what is targeted and should instead try to position yourself in the right way to influence it. This effect works a bit differently for various types of ranged attacks you might use.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 16,
-      "id": 16,
-      "name": "The Wafer",
-      "cost": 400,
-      "description": "\"Damage resistance.\" Most sources of harm that would cause more damage than a certain threshold will only deal a fraction of it, which is a constant value. For example, being shot would only leave a bad bruise and maybe some broken bones, depending on where the hit landed. Remember, the effect is less effective or even doesn't work on some forms of damage.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 17,
-      "id": 17,
-      "name": "Holy Mantle",
-      "cost": 400,
-      "description": "\"Holy shield.\" This perk grants an invisible shield/barrier that negates the first instance of damage taken. It takes some time to recharge and cooldown is lower when outside immediate danger or battle. It works against most types of damage, but not all of them.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 18,
-      "id": 18,
-      "name": "Incubus",
-      "cost": 400,
-      "description": "\"Dark Friend.\" This perk allows you to spawn and dismiss a demonic familiar that floats nearby you and shoots ranged attacks identical to your current ones in terms of damage, rate of fire and special effects. For example, if you are using a Tommy gun with tungsten bullets, the Incubus will mimic this ranged attack.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 19,
-      "id": 19,
-      "name": " Dead Eye",
-      "cost": 200,
-      "description": "\"Accuracy Bbrings power!\" This perk increases damage each time an enemy is hit by your attack. The damage bonus resets when you miss a shot. This effect has a certain bonus limit and does not work for some types of attacks (like lasers). You can toggle the effect on and off.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 20,
-      "id": 20,
-      "name": "Holy Light",
-      "cost": 300,
-      "description": "\"Holy death shot.\" This perk allows you to either: add a chance to fire a 'holy shot' - a modification of your ranged attack that creates a damaging light beam in the area if it hits an enemy; or apply this effect to your attack intentionally, but with a specific cooldown between each application. You can toggle the effect of this perk, or even turn it off.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 21,
-      "id": 21,
-      "name": "Rock Bottom",
-      "cost": 1000,
-      "description": "\"It's only up from there\". This perk revents your physical attributes from falling below their highest values reached. Attributes continue to be calculated normally internally. Rather than use your current stats, items and effects will impact the same way they would as if you did not have Rock Bottom. Temporary buffs work normally, though they may make reaching new best values harder after the buff has worn off. Stat penalties are accounted for, causing increased difficulty of reaching new best values.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 22,
-      "id": 22,
-      "name": "PJs",
-      "cost": 100,
-      "description": "\"You feel cozy.\" This perk grants you 4 'soul hearts' and fully restores your health. Soul hearts work like a form of absorptive armor, taking damage instead of hurting your body. Depending on the severity, a different number of metaphorical hearts will be lost to absorb the damage. You can have a maximum of 12 soul hearts.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 23,
-      "id": 23,
-      "name": "Book of Revelations",
-      "cost": 100,
-      "description": "\"Reusable soul protection.\" This item, upon use, grants one soul heart. Soul hearts work like a form of absorptive armor, taking damage instead of hurting your body. Depending on the severity, a different number of metaphorical hearts will be lost to absorb the damage. You can have a maximum of 12 soul hearts. There is a small chance of encountering the Harbinger boss attacking you shortly after using the book. The wielder of the book gains knowledge of how to use it and a general description of its effect. The active effect has a relatively long cooldown. You can also read it as a normal book.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 24,
-      "id": 24,
-      "name": "Monstrance",
-      "cost": 200,
-      "description": "\"Purifying light.\" This perk gives you the ability to turn on an aura, which deals damage to enemies inside it. The closer they are, the more damage is dealt. Effect looks like a brightened area around you and a dim light.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 25,
-      "id": 25,
-      "name": "Book of Shadows",
-      "cost": 150,
-      "description": "\"Temporary invincibility.\" This item creates a protective shield, nullifying almost all types of damage for 10 seconds upon activation. The wielder of the book gains knowledge of how to use it and a general description of its effect. The active effect has a cooldown. You can also read it as a normal book.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 26,
-      "id": 26,
-      "name": "Brimstone",
-      "cost": 200,
-      "description": "\"Blood laser barrage\". This perk lets you shoot blood laser beam from your mouth that pierces through enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period. This perk can be purchased twice to get upgraded version.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 27,
-      "id": 27,
-      "name": "Stop Watch",
-      "cost": 300,
-      "description": "\"Let's slow this fown a bit...\" This perk slightly increases your movement and reaction speed. It alters perception to make things move only at 80% of their speed from your point of view, without losing any understanding of events happening around you. It takes some time for the brain to adapt to this new reality. This power can be toggled.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 28,
-      "id": 28,
-      "name": "Epiphora",
-      "cost": 150,
-      "description": "\"Intensifying tears.\" Shooting in one direction increases your rate of fire until the cap is reached. As soon as you change direction or stop shooting, the rate of fire resets to its normal amount. The effectiveness of the effect depends on the type of attack used. You can toggle this ability.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 29,
-      "id": 29,
-      "name": "Red Candle",
-      "cost": 50,
-      "description": "\"Flame on.\" This magical item can be used to shoot a blob of strangely persistent fire. It will burn in the targeted location for some time, scorching the surrounding area, and can be moved by strong enough wind or force while it lasts.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 30,
-      "id": 30,
-      "name": "The Candle",
-      "cost": 50,
-      "description": "\"Reusable flames.\" This magical item can be used to shoot a blob of blue fire, which disintegrates things on contact and diminishes quickly. It works better against living and organic matter. A wisp of blue fire is hard to move after it has been thrown.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 31,
-      "id": 31,
-      "name": "Guppy's Collar",
-      "cost": 300,
-      "description": "\"Eternal life?\" This perk grants a permanent 50% chance to respawn with a highly diminished state of health after death. You are not wounded after respawning, just fragile.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 32,
-      "id": 32,
-      "name": "Pyromaniac",
-      "cost": 300,
-      "description": "\"It hurts so good +5 bombs\". This perk grants immunity to explosion damage and fire damage. It also causes explosions to heal you. More exotic flame/explosion effects might still affect you negatively or interact weirdly with this power.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 33,
-      "id": 33,
-      "name": "A Dollar",
-      "cost": 50,
-      "description": "\"$$$\" This perk gives you 100 Pennies. In this case, Pennies are imaginary and immaterial unspecified currency, which you can materialize into actual money at any moment. It works only one way - Pennies into material currency, but be sure - now you have some sizable sum in your metaphorical (and soon literal) pocket!",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 34,
-      "id": 34,
-      "name": "The Compass",
-      "cost": 100,
-      "description": "\"The end is near\". This perk gives you a mental compass in the back of your mind, which points you toward places of interest nearby in your current location. It might take some time to figure out what the Compass is showing you, but behind all the symbols it uses, there is logic and system.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 35,
-      "id": 35,
-      "name": "Contagion",
-      "cost": 200,
-      "description": "\"Outbreak!\" The first enemy killed in a battle releases a gas cloud that poisons nearby enemies in small radius. Affected enemies will also release gas upon death, spreading the effect. This gas is not permanent, existing only for a short moment.",
-      "chapter": "The Binding of Isaac"
-    },
-    {
-      "__source": "Celestial Something - 11  The Binding of Isaac",
-      "__line": 36,
-      "id": 36,
-      "name": "Playdough Cookie",
-      "cost": 150,
-      "description": "\"Tasty rainbow\". This perk let's you turn your shots multicolored. Each color comes with a different status or tear effect applied to the shot. Colours and effects for each projectile is random, when active.",
-      "chapter": "The Binding of Isaac"
     }
   ],
   "4": [
@@ -3938,179 +3938,6 @@
   ],
   "12": [
     {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 1,
-      "id": 1,
-      "name": "The Hallow Spreads",
-      "cost": 600,
-      "description": "This perk allows you to generate the Hallow biome from Terraria, transforming the area a few kilometers around you. It will spread slowly afterward, but the speed and effectiveness depend on the nature of the place, including flora, fauna, and the resistance of materials and details of the geography. You can hold this effect in storage until you find a suitable place to target. You can buy this perk multiple times, with a 300 CP discount after the first purchase, stacking these held activations of the ability to use later. The first purchase of the perk grants you encyclopedic knowledge of the Hallow biome.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 2,
-      "id": 2,
-      "name": "The Crimson Spreads",
-      "cost": 600,
-      "description": "This perk allows you to generate the Crimson biome from Terraria, transforming the area a few kilometers around you. It will spread slowly afterward, but the speed and effectiveness depend on the nature of the place, including flora, fauna, and the resistance of materials and details of the geography. You can hold this effect in storage until you find a suitable place to target. You can buy this perk multiple times, with a 300 CP discount after the first purchase, stacking these held activations of the ability to use later. The first purchase of the perk grants you encyclopedic knowledge of the Crimson biome.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 3,
-      "id": 3,
-      "name": "The Corruption Spreads",
-      "cost": 600,
-      "description": "This perk allows you to generate the Corruption biome from Terraria, transforming the area a few kilometers around you. It will spread slowly afterward, but the speed and effectiveness depend on the nature of the place, including flora, fauna, and the resistance of materials and details of the geography. You can hold this effect in storage until you find a suitable place to target. You can buy this perk multiple times, with a 300 CP discount after the first purchase, stacking these held activations of the ability to use later. The first purchase of the perk grants you encyclopedic knowledge of the Corruption biome.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 4,
-      "id": 4,
-      "name": "Terraria Tools",
-      "cost": 300,
-      "description": "You can craft tools from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 5,
-      "id": 5,
-      "name": "Terraria Weapons",
-      "cost": 300,
-      "description": "You can craft weapons and ammunition from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 6,
-      "id": 6,
-      "name": "Terraria Armor",
-      "cost": 300,
-      "description": "You can craft armor from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 7,
-      "id": 7,
-      "name": "Terraria Accessories",
-      "cost": 400,
-      "description": "You can craft all types of accessories from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 8,
-      "id": 8,
-      "name": "Terraria Consumables",
-      "cost": 250,
-      "description": "You can craft all types of consumables (potions, food, drinks, flasks, dyes, paints) from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 9,
-      "id": 9,
-      "name": "We Are Rich!",
-      "cost": 100,
-      "description": "This perk allows you to spawn twelve full chests containing different coins, gems, and bars in targeted locations without causing any damage. If there is not enough space, fewer chests will spawn. They contain currency and Terraria-type resources inside them (giving them unique properties). You can hold onto this effect to activate it when a suitable target is found, and you can stack stored effects indefinitely. This perk can be purchased multiple times. The quantity of specific materials inside the chests depends on their rarity and usefulness in the game. There will be more early-game materials in these chests than late-game ones. It includes materials from mods, if you have perks for them.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 10,
-      "id": 10,
-      "name": "Terraria Crafts",
-      "cost": 150,
-      "description": "You gain a mental compendium of blueprints to create all furniture, crafting stations, statues, blocks, walls, and vanity items from the Terraria game. You acquire just enough skill to build them and just enough knowledge to utilize these items.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 11,
-      "id": 11,
-      "name": "More Life",
-      "cost": 50,
-      "description": "This perk grants you the equivalent of one Life Crystal or Fruit use, depending on how many times you have already rolled and bought this perk. You can purchase this perk multiple times - up to 35 times, to be exact. First, you go through 15 Life Crystal equivalents, then through 20 Life Fruit equivalents. Each time, it slightly increases your life energy and your ability to survive damage.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 12,
-      "id": 12,
-      "name": "More Mana",
-      "cost": 50,
-      "description": "This perk grants you the equivalent of one Mana Crystal use, depending on how many times you have already rolled and bought this perk. You can purchase this perk multiple times - up to 10 times, to be exact. First time you gain access to Terraria mana, and each time afterwards make your reserves a little bit bigger.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 13,
-      "id": 13,
-      "name": "Summoned Help",
-      "cost": 300,
-      "description": "You can craft items for summoning pets and mounts from the Terraria game, along with skills to command them. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 14,
-      "id": 14,
-      "name": "Calamity Expansion",
-      "cost": 800,
-      "description": "You can craft all types of items from the Calamity mod (including addons) for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 15,
-      "id": 15,
-      "name": "Starlight River Mod",
-      "cost": 500,
-      "description": "You can craft all types of items from the Starlight River mod for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 16,
-      "id": 16,
-      "name": "Redemption Mod",
-      "cost": 500,
-      "description": "You can craft all types of items from the Redemption mod for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 17,
-      "id": 17,
-      "name": "Thorium Mod",
-      "cost": 600,
-      "description": "You can craft all types of items from the Thorium mod for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 18,
-      "id": 18,
-      "name": "Spirit Expansion",
-      "cost": 700,
-      "description": "You can craft all types of items from the Spirit mod (its various version) for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
-      "chapter": "Terraria"
-    },
-    {
-      "__source": "Celestial Something - 7 Terraria",
-      "__line": 19,
-      "id": 19,
-      "name": "Bottomless Shimmer Bucket",
-      "cost": 200,
-      "description": "This mysterious magical item can be used to pour out infinite amounts of Shimmer. This is a shiny, lavender-colored, pearlescent liquid with some rather special properties.",
-      "chapter": "Terraria"
-    }
-  ],
-  "13": [
-    {
       "__source": "Celestial Something - 8 Grim Dawn",
       "__line": 1,
       "id": 1,
@@ -4316,6 +4143,179 @@
       "cost": 50,
       "description": "This perk gives you one devotion point to spend on stars from Grim Dawn constellations, granting you some boons and effects the have. Although they are not the same as in the game, they are inspired by it and warped by the actual meanings and ideas these constellations represent, and your personality, your nature. You have a general knowledge of their lore. Be careful, because this might have some unexpected side effects. This perk can be purchased multiple times. You don't have to spend the obtained devotion points - they can be stored indefinitely and used whenever you feel like it. After buying all the stars from all the constellations, you gain the ability to give these points to other people after each purchase of the perk.",
       "chapter": "Grim Dawn"
+    }
+  ],
+  "13": [
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 1,
+      "id": 1,
+      "name": "The Hallow Spreads",
+      "cost": 600,
+      "description": "This perk allows you to generate the Hallow biome from Terraria, transforming the area a few kilometers around you. It will spread slowly afterward, but the speed and effectiveness depend on the nature of the place, including flora, fauna, and the resistance of materials and details of the geography. You can hold this effect in storage until you find a suitable place to target. You can buy this perk multiple times, with a 300 CP discount after the first purchase, stacking these held activations of the ability to use later. The first purchase of the perk grants you encyclopedic knowledge of the Hallow biome.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 2,
+      "id": 2,
+      "name": "The Crimson Spreads",
+      "cost": 600,
+      "description": "This perk allows you to generate the Crimson biome from Terraria, transforming the area a few kilometers around you. It will spread slowly afterward, but the speed and effectiveness depend on the nature of the place, including flora, fauna, and the resistance of materials and details of the geography. You can hold this effect in storage until you find a suitable place to target. You can buy this perk multiple times, with a 300 CP discount after the first purchase, stacking these held activations of the ability to use later. The first purchase of the perk grants you encyclopedic knowledge of the Crimson biome.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 3,
+      "id": 3,
+      "name": "The Corruption Spreads",
+      "cost": 600,
+      "description": "This perk allows you to generate the Corruption biome from Terraria, transforming the area a few kilometers around you. It will spread slowly afterward, but the speed and effectiveness depend on the nature of the place, including flora, fauna, and the resistance of materials and details of the geography. You can hold this effect in storage until you find a suitable place to target. You can buy this perk multiple times, with a 300 CP discount after the first purchase, stacking these held activations of the ability to use later. The first purchase of the perk grants you encyclopedic knowledge of the Corruption biome.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 4,
+      "id": 4,
+      "name": "Terraria Tools",
+      "cost": 300,
+      "description": "You can craft tools from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 5,
+      "id": 5,
+      "name": "Terraria Weapons",
+      "cost": 300,
+      "description": "You can craft weapons and ammunition from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 6,
+      "id": 6,
+      "name": "Terraria Armor",
+      "cost": 300,
+      "description": "You can craft armor from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 7,
+      "id": 7,
+      "name": "Terraria Accessories",
+      "cost": 400,
+      "description": "You can craft all types of accessories from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 8,
+      "id": 8,
+      "name": "Terraria Consumables",
+      "cost": 250,
+      "description": "You can craft all types of consumables (potions, food, drinks, flasks, dyes, paints) from the Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 9,
+      "id": 9,
+      "name": "We Are Rich!",
+      "cost": 100,
+      "description": "This perk allows you to spawn twelve full chests containing different coins, gems, and bars in targeted locations without causing any damage. If there is not enough space, fewer chests will spawn. They contain currency and Terraria-type resources inside them (giving them unique properties). You can hold onto this effect to activate it when a suitable target is found, and you can stack stored effects indefinitely. This perk can be purchased multiple times. The quantity of specific materials inside the chests depends on their rarity and usefulness in the game. There will be more early-game materials in these chests than late-game ones. It includes materials from mods, if you have perks for them.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 10,
+      "id": 10,
+      "name": "Terraria Crafts",
+      "cost": 150,
+      "description": "You gain a mental compendium of blueprints to create all furniture, crafting stations, statues, blocks, walls, and vanity items from the Terraria game. You acquire just enough skill to build them and just enough knowledge to utilize these items.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 11,
+      "id": 11,
+      "name": "More Life",
+      "cost": 50,
+      "description": "This perk grants you the equivalent of one Life Crystal or Fruit use, depending on how many times you have already rolled and bought this perk. You can purchase this perk multiple times - up to 35 times, to be exact. First, you go through 15 Life Crystal equivalents, then through 20 Life Fruit equivalents. Each time, it slightly increases your life energy and your ability to survive damage.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 12,
+      "id": 12,
+      "name": "More Mana",
+      "cost": 50,
+      "description": "This perk grants you the equivalent of one Mana Crystal use, depending on how many times you have already rolled and bought this perk. You can purchase this perk multiple times - up to 10 times, to be exact. First time you gain access to Terraria mana, and each time afterwards make your reserves a little bit bigger.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 13,
+      "id": 13,
+      "name": "Summoned Help",
+      "cost": 300,
+      "description": "You can craft items for summoning pets and mounts from the Terraria game, along with skills to command them. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 14,
+      "id": 14,
+      "name": "Calamity Expansion",
+      "cost": 800,
+      "description": "You can craft all types of items from the Calamity mod (including addons) for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 15,
+      "id": 15,
+      "name": "Starlight River Mod",
+      "cost": 500,
+      "description": "You can craft all types of items from the Starlight River mod for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 16,
+      "id": 16,
+      "name": "Redemption Mod",
+      "cost": 500,
+      "description": "You can craft all types of items from the Redemption mod for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 17,
+      "id": 17,
+      "name": "Thorium Mod",
+      "cost": 600,
+      "description": "You can craft all types of items from the Thorium mod for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 18,
+      "id": 18,
+      "name": "Spirit Expansion",
+      "cost": 700,
+      "description": "You can craft all types of items from the Spirit mod (its various version) for Terraria game, including unobtainable and hardcore ones. They have their special properties preserved due to the supernatural component of the perk. You can use normal variants of materials to craft them, but this will make them more like tinkertech in a negative way. Ideally, you should choose variations of materials from the Terraria game or at least similar enough resources from other sources to get the best results. This perk only gives boost to skills, while you are working on things included into the perk. But you still can slowly learn some mundane things from exposure to crafting process.",
+      "chapter": "Terraria"
+    },
+    {
+      "__source": "Celestial Something - 7 Terraria",
+      "__line": 19,
+      "id": 19,
+      "name": "Bottomless Shimmer Bucket",
+      "cost": 200,
+      "description": "This mysterious magical item can be used to pour out infinite amounts of Shimmer. This is a shiny, lavender-colored, pearlescent liquid with some rather special properties.",
+      "chapter": "Terraria"
     }
   ],
   "14": [

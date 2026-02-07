@@ -1045,6 +1045,26 @@
   ],
   "10": [
     {
+      "__source": "The Celestial Vault - R&D",
+      "__line": 1,
+      "cost": 100,
+      "name": "The Ultimate Fishbowl",
+      "source": "Multiverse of Madness",
+      "description": "One of the things that ends up being ignored in most situations with multiversal travel is the issues that arise when arriving at new locations. Now I'm not talking about major stuff like collapsing reality, but minor things like diseases. This is a sealed chamber capable of analyzing anyone or thing placed inside. It will scan for any unknown diseases and other unique features that they possess in order to determine if their presence is harmful to any natives.",
+      "chapter": "R&D"
+    },
+    {
+      "__source": "The Celestial Vault - R&D",
+      "__line": 2,
+      "cost": 600,
+      "name": "The Shadowlight ",
+      "source": "Ciaphas Cain",
+      "description": "The Shadowlight is a powerful xeno artifact created by a race known as the Ancients. It was originally meant to be a powerful weapon meant to be used against the C’tan, but was destroyed. Despite this the relic is still incredibly powerful because of a side effect that it causes. Prolonged contact with the artifact can awaken psyker abilities in any individual and can increase the power of a psyker. This acts as both a passive and active boost. Meaning that slowly over time you will become stronger and while you are holding it your abilities will be boosted immensely.",
+      "chapter": "R&D"
+    }
+  ],
+  "11": [
+    {
       "__source": "The Celestial Vault - Overseer's Office",
       "__line": 1,
       "cost": 0,
@@ -1250,26 +1270,6 @@
       "source": "Warhammer 40k - Planetary Governor",
       "description": "Your collection of rare and valuable art pieces is the envy of many, showcasing your refined taste and appreciation for beauty. The pieces are carefully curated and displayed in your personal chambers, serving as a source of inspiration and relaxation. Each piece tells a story and adds to the overall ambiance of your surroundings. Your fine art collection is not only a testament to your wealth and status, but also a reflection of your personality and character.",
       "chapter": "Overseer's Office"
-    }
-  ],
-  "11": [
-    {
-      "__source": "The Celestial Vault - R&D",
-      "__line": 1,
-      "cost": 100,
-      "name": "The Ultimate Fishbowl",
-      "source": "Multiverse of Madness",
-      "description": "One of the things that ends up being ignored in most situations with multiversal travel is the issues that arise when arriving at new locations. Now I'm not talking about major stuff like collapsing reality, but minor things like diseases. This is a sealed chamber capable of analyzing anyone or thing placed inside. It will scan for any unknown diseases and other unique features that they possess in order to determine if their presence is harmful to any natives.",
-      "chapter": "R&D"
-    },
-    {
-      "__source": "The Celestial Vault - R&D",
-      "__line": 2,
-      "cost": 600,
-      "name": "The Shadowlight ",
-      "source": "Ciaphas Cain",
-      "description": "The Shadowlight is a powerful xeno artifact created by a race known as the Ancients. It was originally meant to be a powerful weapon meant to be used against the C’tan, but was destroyed. Despite this the relic is still incredibly powerful because of a side effect that it causes. Prolonged contact with the artifact can awaken psyker abilities in any individual and can increase the power of a psyker. This acts as both a passive and active boost. Meaning that slowly over time you will become stronger and while you are holding it your abilities will be boosted immensely.",
-      "chapter": "R&D"
     }
   ],
   "12": [
