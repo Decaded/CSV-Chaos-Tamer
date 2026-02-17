@@ -1,6 +1,271 @@
 {
   "1": [
     {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 1,
+      "cost": 100,
+      "name": "Chaos Steed",
+      "source": "Warhammer Fantasy - Warriors of Chaos",
+      "description": "These dark stallions are the mount of choice for the brutish Chaos Knights. Colored black as night and normally the host to the mutations of Chaos, these mounts are now closer to the forces of darkness than their previous heritage. They bear sharp horns on their head and spikes on their hooves, and with a cruel intelligence they will use them in combat to gore their foes.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 2,
+      "cost": 300,
+      "name": "Disc of Tzeentch",
+      "source": "Warhammer Fantasy - Warriors of Chaos",
+      "description": "Previously a Screamer, one of Tzeentch’s Daemons, this large flying disc was transformed by Tzeentch to better serve as a mount for his sorcerers. Round and flat, these Daemons are less traditional mounts to be ridden and more like...well, discs that you surf on as it flies through the air at greats speeds, giving you an excellent view of the battle, and a fine perch to cast your magics at a distance.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 3,
+      "cost": 400,
+      "name": "Juggernaut",
+      "source": "Warhammer Fantasy - Warriors of Chaos",
+      "description": "These Khornate Daemons from beyond the veil are no longer a purely biological creature, made of meat and bone. These beasts are somewhat similar in appearance to a bull in shape, but profaned armor and a series of cables hide the mass of corrupted flesh within. These beasts are extremely strong and eager to use their entire body as a means to slaughter your enemies. Some Juggernauts can be found alone on the battlefield, not because they never had a rider, but because the rider was killed but none had the desire to attempt to kill his steed next.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 4,
+      "cost": 400,
+      "name": "Steed of Slaanesh",
+      "source": "Warhammer Fantasy - Warriors of Chaos",
+      "description": "These Daemonic beasts make excellent servants for the children of Slaanesh, as their precise and swift movements make them useful for moving across uneven and dangerous terrain. They are extremely quick and their tongues are like whips, ripping the flesh of those that they lash out at. They are bipedal creatures, and possess an uncanny beauty that stun your enemies long enough for you and your unholy partner to do your work. Such is the danger of these mounts that Daemonettes often use them as their mounts of choice, and when encountered by themselves it usually means something is afoot.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 5,
+      "cost": 600,
+      "name": "Chaos Dragon",
+      "source": "Warhammer Fantasy - Warriors of Chaos",
+      "description": "Spoken of only in whispers by the people of the north, these two headed beings are corrupted versions of the beasts of legend that are extremely rare and often sleep away the eons, never seen by the eyes of mortals. When anyone sees one of these deeply corrupted bringers of destruction, it is likely for the very first time...and the very last time.Their bodies are covered in extremely thick scales that ward off all attacks and their heads breathe fire that destroys all it touches. They rout entire armies with their terrifying presence and destroy all that are not wise enough to run. They are no longer exclusively powerful due to their nature, but in addition to the dark magics of Chaos, changed by the energies of Tzeentch. Although they are products of Tzeentch’s meddling, they do not swear an allegiance to the Master of Magic and instead go where they please and ally with whomever they will, for they feel that they are above the plotting of the Gods and instead see themselves as the true servants. When a Chaos Dragon serves it serves because it wills it, not because it must.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 6,
+      "cost": 200,
+      "name": "Bloodletter ",
+      "source": "Warhammer Fantasy - Warriors of Chaos",
+      "description": "These Lesser Daemons make up the majority of Khorne’s mighty forces, wielding fiery swords known as Hellblades that easily cleave through chaff and mighty heroes alike. These Daemon warriors exist to kill and only kill, the reason that Khorne favors them so. They revel in slaughter so greatly that they fight each other beyond the void simply for a chance to be summoned into the material realm and kill as men do. Though they are savage beasts, do not think them to be stupid. They do possess a cunning that often goes unnoticed on the battlefield.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 7,
+      "cost": 200,
+      "name": "Daemonette",
+      "source": "Warhammer Fantasy - Warriors of Chaos",
+      "description": "Beings cloaked in a perverse beauty as they dance through the battlefield, Daemonettes are the Lesser Daemons of Slaanesh. Obsessed with sensory experiences and glad to help others indulge in the intense feeling of pain, Daemonettes are uniquely cruel creatures that relish in the suffering of every mortal they kill. Their unnatural speed and agility make them horrifying creatures in combat, death often coming before one can even muster the effort to fight back. Such a creature should have no beauty at all, but the Prince of Excess decides what is beautiful and what iS not.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 8,
+      "cost": 200,
+      "name": "Pink Horror",
+      "source": "Warhammer Fantasy - Warriors of Chaos",
+      "description": "Tzeentch’s main Lesser Daemon, the Horror, comes not in one form but two. The first is the Pink Horror, which is the main form of the Horror. Pink Horrors focus on using their energies and magics to deal death to their foes, firing blasts of magic of their hands and mouths. Horrors are dangerous foes like this, but if seriously wounded the Horror will cackle and change into two of its second form - the Blue Horror. These smaller beings are like Daemonic temperamental children, lashing wildly at their enemies and strangulating and tearing until they finally expire.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 9,
+      "cost": 300,
+      "name": "Clea",
+      "source": "Dr Strange: In the Multiverse of Madness by Sentry342",
+      "description": "Clea is the Sorcerer Supreme of the Dark Dimension. She is introduced to the MCU in the post credit scene of Multiverse of Madness. She is incredibly powerful, at the very least capable of matching Strange. We have yet to see how she will be handled, but this option will allow you to recruit this powerful sorceress now.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 10,
+      "cost": 100,
+      "name": "Baby Ogdru Jahad",
+      "source": "Hellboy (Cinematic) JumpChain",
+      "description": "This is a surprisingly cute tentacled abomination from beyond the stars; an infant version of the Ogdru Jahad that are imprisoned in the abyss. It waves its tentacles at you enthusiastically whenever it sees you, begging for you to pet it or pick it up, and uses them to give you hugs while burbling excitedly in dark tongues. It’s more like a baby than a pet.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 11,
+      "cost": 200,
+      "name": "Cat from Ulthar",
+      "source": "Generic Lovecraftian Film",
+      "description": "This is a normal seeming cat. Though seeming is the operative word. It is highly intelligent, smart enough to understand human language if physically incapable of speaking it, and cleverer than most people; really it’s probably smarter than most people if ultimately still feline in behavior. Beyond this intelligence it seems to have a strange presence on planes of thought or spirit; planes like the Astral Planes or the Dreamlands. When in these dimensions of thought and spirit it is a highly capable predator, able to leap to or over the moon in a single bound, and match up against terrible creatures like nightgaunts, shantak birds, or the winged serpents of Nyarlathotep known as hunting horrors. It will protect your dreams from invaders, hunting them like the mice most of them really are, and can even destroy spells or psychic influence over your sleeping mind. If you abuse the cat it will turn on you, however. Counts as a follower/pet unless imported as a companion. While any kittens it has (either as dad or mom) will be skilled hunters of dreams and smarter than the average cat, they won’t be as smart as it nor will they inherently possess its loyalty and protectiveness towards you.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 12,
+      "cost": 600,
+      "name": "Lord of Oblivion",
+      "source": "TES: Daedra",
+      "description": "The Daedric Princes do not bow to another so easily, especially not to another of their power, but perhaps they could be swayed to? By taking this option, you may have one of these godlike entities become your Companion. But you will not be taking just the Prince, oh no. You will be taking them and their entire Realm, as well as their artifacts, though they will be under the control of the Prince, not you. I would certainly hope that you understand the gravity of your situation, and realize that these beings are alien in mindset, and do not submit easily.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 13,
+      "cost": 200,
+      "name": "Insane Gatekeeper",
+      "source": "TES: Daedra",
+      "description": "I don't know how you did it, and quite frankly I don't want to know. This massive flesh atronach was specially crafted to help protect the gates to the Shivering Isles, and now you are the master of one such creature. It's extremely durable, highly resistant to magic, and can take down an entire mercenary company on its lonesome with ease. It would be madness to try fighting against this thing.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 14,
+      "cost": 100,
+      "name": "Atronach Thralls",
+      "source": "TES: Daedra",
+      "description": "Atronachs are one of the most used summons by mortals, and for good reason. They follow their orders without question, and won't try to stab you in the back. You now have three Atronachs bound to your will, fire, frost, and storm. They are all more powerful than average atronachs, can take much more of a beating, and can appear by your side at will. Should they perish, simply wait an hour before calling on them once more.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 15,
+      "cost": 0,
+      "name": "Court Jester",
+      "source": "TES: Daedra",
+      "description": "Once a respected healer, this Nord has long since joined Sheogorath's realm due to a toxic romance. But now she has a new target for her affections. You. A skilled acrobat and deadly with her massive warhammer, she'll smash anything that would get in the way of you two being together.",
+      "chapter": "Summons"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
+      "__line": 16,
+      "cost": 0,
+      "name": "Atronach Mount ",
+      "source": "TES: Daedra",
+      "description": "Atronachs are not confined to a form resembling only humanoid creatures, and it is not unheard of for them to take the form of rideable beasts. This animalistic Atronach, being of an element of your choosing, is eternally bound to you, allowing you to summon them anywhere you want, with no magicka cost. In addition to the standard abilities you would see in an Atronach, this mount is easy to ride, and will always be faster than you.",
+      "chapter": "Summons"
+    }
+  ],
+  "2": [
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 1,
+      "cost": 0,
+      "name": "Brine Pool ",
+      "source": "Out Of Context Illithid Supplement",
+      "description": "This small brine pool is just large enough for an elder brain and a few hundred tadpoles. This place perfectly sustains such lifeforms and can be used in a pinch to keep mind flayers alive, though mind flayers find the brine pool’s sickly water to taste flavorless. Still, this is perfect for keeping your spawn alive, and for sustaining you if you are stuck in a place that lacks brains.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 2,
+      "cost": 100,
+      "name": "A Downed Nautiloid",
+      "source": "Out Of Context Illithid Supplement",
+      "description": "This is the wreckage of a Nautiloid, the flying vessels that Illithids use to travel through dimensions and time. You can eventually figure out how to repair it. Even in its downed state, this item is a large home base you can operate out of, but if you fix it and restore it to its optimal state you can do a great deal with it, such as use it to travel through realities, or use it as the centrepiece of your own colony. You can also spend 100 CP to restore it immediately. In its restored state it regenerates from damage, is half-alive, and responds to your will and your will alone, as well as is armed with psionic cannons which hit entire towns with immensely powerful mind blasts. You can command it with nothing short of your own will.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 3,
+      "cost": 200,
+      "name": "Resurrection Chamber",
+      "source": "Hellboy (Cinematic) JumpChain",
+      "description": "A small pool, hidden away in a labyrinth that is itself hidden away in a cave in some remote part of the world. By committing a human sacrifice in this place, filling the pool with blood, the dead can be revived- one life, for another, with no body necessary.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 4,
+      "cost": 200,
+      "name": "Essence Pool",
+      "source": "Doom Eternal",
+      "description": "The living have more value than they know, for in torturing them and breaking them, large amounts of Hell Essence is created from their souls. The simple process of transformation also creates it, but not in nearly as much quantity. It is capable of greatly empowering demons, causing postmortem reanimation in corpses, and being channelled to cause extradimensional portals into other worlds. While it is a shame the demonic hordes barely use any and let most go to waste, you yourself have a series of pools filled with the stuff that replenishes as you use it. May you find new avenues for the flames to spread.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 5,
+      "cost": 200,
+      "name": "Well Stocked Library ",
+      "source": "Generic Lovecraftian Film",
+      "description": "This library contains books and research materials ranging from anthropological and comparative mythology to new developments in science. Strangely enough the information within dealing with paranormal entities is strangely accurate to whatever the truth happens to be, despite the wide ranges for weaknesses and vulnerability among common folklore creatures.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 6,
+      "cost": 200,
+      "name": "Daedric Shrine",
+      "source": "TES: Daedra",
+      "description": "When you travel beyond into future realms, would it not be beneficial to stay in touch with your Prince? Then this shall be the purchase for you, a statue made in the image of your daedric master, allowing you to communicate with them and receive their blessings regardless of where you are. They cannot exert much power beyond this shrine, though perhaps you could find a way around that?",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 7,
+      "cost": 300,
+      "name": "Cabin in the Woods ",
+      "source": "Cabin In The Woods",
+      "description": "Congratulations! That cousin of yours hit the bucket, and now his cabin is your cabin. Residing in a secluded area right next to a lake, the cabin and surrounding land are even surrounded by a force field, preventing nearly anything from getting in or out besides the wind and rain. Extra cozy, limitless electricity, and will even follow you from jump to jump. Basement and secret facility not included.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 8,
+      "cost": 400,
+      "name": "Wundagore Mountain",
+      "source": "Dr Strange: In the Multiverse of Madness by Sentry342",
+      "description": "Mount Wundagore is an ancestral mountain surrounded by dark magic and witchcraft. Atop of this mountain is the stronghold known as Darkhold Castle. Within the castle are the original carvings of the Darkhold made by Chthon and the demonic army he left behind. This castle acts as a nexus enhancing rituals and other magics cast within. You will initially receive four Demonic Warriors, but you may create more within the castle.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 9,
+      "cost": 400,
+      "name": "Otherworldly Realm ",
+      "source": "Generic Lovecraftian Film",
+      "description": "This is your domain, a pocket of reality which is tailored to you and your comfort. While within this realm you will also find yourself bolstered, somewhat better in every way. This isn’t a massive change, but you in this domain would edge out you outside of it in pretty much any contest. When you purchase this you must choose whether it is some place in normal reality, up to a few miles in its longest dimension, or its own pocket reality. If a part of normal reality it can still have subtly altered physics - like existing in a pocket of (noticeable on a human scale) spacetime resulting in odd and non-euclidean angles - but will never be so altered as to be intrinsically dangerous to normal matter and will be some environment you find comfortable. I",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 10,
+      "cost": 400,
+      "name": "Daedric Wellspring ",
+      "source": "TES: Daedra",
+      "description": "In order to ensure that daedra do not reform within some random realm, the environment or inhabitants hostile and fatal to the newly replenished entity, they have constructed these wellsprings. Massive pools of chaotic creatia that any daedric entity can bind themselves to, allowing for them to be resurrected within it’s waters three days after their death, so long as their souls or the wellspring itself is not damaged or destroyed. You could even bind yourself to this wellspring, granting you effectively unlimited resurrections, barring any of the previously mentioned criteria.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 11,
+      "cost": 600,
+      "name": "Secret Facility ",
+      "source": "Cabin In The Woods",
+      "description": "Ah, your very own underground murder complex. Stocked with generic researchers, technicians, and the like, as well as a variety of monsters that can be expanded with the monsters you catch in future jumps. What you use it for is up to you, although I should mention that, if you ever need to, you can lure in some young teens/adults and, assuming they’re killed by one of your monsters, their deaths can be used as a substitute sealing mechanism. This can be for any being that would be considered a god or other overwhelmingly powerful being, just note that they must already be sealed, this just makes sure they stay sealed for at least 1 year. Can be attached to your warehouse or imported into settings.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 12,
+      "cost": 600,
+      "name": "Nekravol District ",
+      "source": "Doom Eternal",
+      "description": "Nowhere will you find a greater example of Hell’s ideology, nor will you see a place of greater power. Constructed by Sentinel slaves according to Makyr design, this city produces a large amount of Argent Energy which is used for a great deal of things. This is all done methodically, as Nekravol is a large-scale slaughterhouse. Victims are ferried in, judged, and those worthy are placed further in to the Soul Spires to be tortured and have their souls extracted, mixed with Sentinel Energy to create the unfathomably potent Argent. What you have here is a small district, continuing to produce the energy for you but will ramp up production should you provide the fuel. Naturally, free-range is better.",
+      "chapter": "Lairs"
+    },
+    {
+      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
+      "__line": 13,
+      "cost": 600,
+      "name": "Daedric Realm",
+      "source": "TES: Daedra",
+      "description": "Extensions of their Princes, these realms of reality are reflections of their true nature. Although, it need not be that way here. While you could certainly purchase one of the sixteen realms currently lorded over by their Daedric Prince, you can also design your realm to whatever specifications you desire. From geography to the sky to weather to flora and fauna to so many other little things, it would be hard to keep track of. Regardless, this realm will be as large as the continent of Tamriel, as well as a little bit beyond.",
+      "chapter": "Lairs"
+    }
+  ],
+  "3": [
+    {
       "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Blessings",
       "__line": 1,
       "cost": 0,
@@ -325,126 +590,7 @@
       "chapter": "Blessings"
     }
   ],
-  "2": [
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 1,
-      "cost": 0,
-      "name": "Brine Pool ",
-      "source": "Out Of Context Illithid Supplement",
-      "description": "This small brine pool is just large enough for an elder brain and a few hundred tadpoles. This place perfectly sustains such lifeforms and can be used in a pinch to keep mind flayers alive, though mind flayers find the brine pool’s sickly water to taste flavorless. Still, this is perfect for keeping your spawn alive, and for sustaining you if you are stuck in a place that lacks brains.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 2,
-      "cost": 100,
-      "name": "A Downed Nautiloid",
-      "source": "Out Of Context Illithid Supplement",
-      "description": "This is the wreckage of a Nautiloid, the flying vessels that Illithids use to travel through dimensions and time. You can eventually figure out how to repair it. Even in its downed state, this item is a large home base you can operate out of, but if you fix it and restore it to its optimal state you can do a great deal with it, such as use it to travel through realities, or use it as the centrepiece of your own colony. You can also spend 100 CP to restore it immediately. In its restored state it regenerates from damage, is half-alive, and responds to your will and your will alone, as well as is armed with psionic cannons which hit entire towns with immensely powerful mind blasts. You can command it with nothing short of your own will.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 3,
-      "cost": 200,
-      "name": "Resurrection Chamber",
-      "source": "Hellboy (Cinematic) JumpChain",
-      "description": "A small pool, hidden away in a labyrinth that is itself hidden away in a cave in some remote part of the world. By committing a human sacrifice in this place, filling the pool with blood, the dead can be revived- one life, for another, with no body necessary.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 4,
-      "cost": 200,
-      "name": "Essence Pool",
-      "source": "Doom Eternal",
-      "description": "The living have more value than they know, for in torturing them and breaking them, large amounts of Hell Essence is created from their souls. The simple process of transformation also creates it, but not in nearly as much quantity. It is capable of greatly empowering demons, causing postmortem reanimation in corpses, and being channelled to cause extradimensional portals into other worlds. While it is a shame the demonic hordes barely use any and let most go to waste, you yourself have a series of pools filled with the stuff that replenishes as you use it. May you find new avenues for the flames to spread.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 5,
-      "cost": 200,
-      "name": "Well Stocked Library ",
-      "source": "Generic Lovecraftian Film",
-      "description": "This library contains books and research materials ranging from anthropological and comparative mythology to new developments in science. Strangely enough the information within dealing with paranormal entities is strangely accurate to whatever the truth happens to be, despite the wide ranges for weaknesses and vulnerability among common folklore creatures.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 6,
-      "cost": 200,
-      "name": "Daedric Shrine",
-      "source": "TES: Daedra",
-      "description": "When you travel beyond into future realms, would it not be beneficial to stay in touch with your Prince? Then this shall be the purchase for you, a statue made in the image of your daedric master, allowing you to communicate with them and receive their blessings regardless of where you are. They cannot exert much power beyond this shrine, though perhaps you could find a way around that?",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 7,
-      "cost": 300,
-      "name": "Cabin in the Woods ",
-      "source": "Cabin In The Woods",
-      "description": "Congratulations! That cousin of yours hit the bucket, and now his cabin is your cabin. Residing in a secluded area right next to a lake, the cabin and surrounding land are even surrounded by a force field, preventing nearly anything from getting in or out besides the wind and rain. Extra cozy, limitless electricity, and will even follow you from jump to jump. Basement and secret facility not included.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 8,
-      "cost": 400,
-      "name": "Wundagore Mountain",
-      "source": "Dr Strange: In the Multiverse of Madness by Sentry342",
-      "description": "Mount Wundagore is an ancestral mountain surrounded by dark magic and witchcraft. Atop of this mountain is the stronghold known as Darkhold Castle. Within the castle are the original carvings of the Darkhold made by Chthon and the demonic army he left behind. This castle acts as a nexus enhancing rituals and other magics cast within. You will initially receive four Demonic Warriors, but you may create more within the castle.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 9,
-      "cost": 400,
-      "name": "Otherworldly Realm ",
-      "source": "Generic Lovecraftian Film",
-      "description": "This is your domain, a pocket of reality which is tailored to you and your comfort. While within this realm you will also find yourself bolstered, somewhat better in every way. This isn’t a massive change, but you in this domain would edge out you outside of it in pretty much any contest. When you purchase this you must choose whether it is some place in normal reality, up to a few miles in its longest dimension, or its own pocket reality. If a part of normal reality it can still have subtly altered physics - like existing in a pocket of (noticeable on a human scale) spacetime resulting in odd and non-euclidean angles - but will never be so altered as to be intrinsically dangerous to normal matter and will be some environment you find comfortable. I",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 10,
-      "cost": 400,
-      "name": "Daedric Wellspring ",
-      "source": "TES: Daedra",
-      "description": "In order to ensure that daedra do not reform within some random realm, the environment or inhabitants hostile and fatal to the newly replenished entity, they have constructed these wellsprings. Massive pools of chaotic creatia that any daedric entity can bind themselves to, allowing for them to be resurrected within it’s waters three days after their death, so long as their souls or the wellspring itself is not damaged or destroyed. You could even bind yourself to this wellspring, granting you effectively unlimited resurrections, barring any of the previously mentioned criteria.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 11,
-      "cost": 600,
-      "name": "Secret Facility ",
-      "source": "Cabin In The Woods",
-      "description": "Ah, your very own underground murder complex. Stocked with generic researchers, technicians, and the like, as well as a variety of monsters that can be expanded with the monsters you catch in future jumps. What you use it for is up to you, although I should mention that, if you ever need to, you can lure in some young teens/adults and, assuming they’re killed by one of your monsters, their deaths can be used as a substitute sealing mechanism. This can be for any being that would be considered a god or other overwhelmingly powerful being, just note that they must already be sealed, this just makes sure they stay sealed for at least 1 year. Can be attached to your warehouse or imported into settings.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 12,
-      "cost": 600,
-      "name": "Nekravol District ",
-      "source": "Doom Eternal",
-      "description": "Nowhere will you find a greater example of Hell’s ideology, nor will you see a place of greater power. Constructed by Sentinel slaves according to Makyr design, this city produces a large amount of Argent Energy which is used for a great deal of things. This is all done methodically, as Nekravol is a large-scale slaughterhouse. Victims are ferried in, judged, and those worthy are placed further in to the Soul Spires to be tortured and have their souls extracted, mixed with Sentinel Energy to create the unfathomably potent Argent. What you have here is a small district, continuing to produce the energy for you but will ramp up production should you provide the fuel. Naturally, free-range is better.",
-      "chapter": "Lairs"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Lairs",
-      "__line": 13,
-      "cost": 600,
-      "name": "Daedric Realm",
-      "source": "TES: Daedra",
-      "description": "Extensions of their Princes, these realms of reality are reflections of their true nature. Although, it need not be that way here. While you could certainly purchase one of the sixteen realms currently lorded over by their Daedric Prince, you can also design your realm to whatever specifications you desire. From geography to the sky to weather to flora and fauna to so many other little things, it would be hard to keep track of. Regardless, this realm will be as large as the continent of Tamriel, as well as a little bit beyond.",
-      "chapter": "Lairs"
-    }
-  ],
-  "3": [
+  "4": [
     {
       "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Relics ",
       "__line": 1,
@@ -723,152 +869,6 @@
       "source": "Warhammer Fantasy - Warriors of Chaos",
       "description": "This is a small statuette of an androgynous individual, covering their chest and groin with their arms. It seems like a small conversation starter and nothing more, but it is more than that underneath the surface. When placed in a dwelling, such as a church or bar, regulars will over the course of a few days feel an odd excitement stir in themselves. Their repressed desires will become harder to stop and eventually all will gather not for what they originally planned to do, but to release these strong despires. Even if it is done in secret, occupants will eventually drop all pretenses and party, potentially creating a Slaaneshi cult over the course of a few days. The new club will simply acknowledge you as their new leader and allow you to indulge yourself with them as the master.",
       "chapter": "Relics"
-    }
-  ],
-  "4": [
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 1,
-      "cost": 100,
-      "name": "Chaos Steed",
-      "source": "Warhammer Fantasy - Warriors of Chaos",
-      "description": "These dark stallions are the mount of choice for the brutish Chaos Knights. Colored black as night and normally the host to the mutations of Chaos, these mounts are now closer to the forces of darkness than their previous heritage. They bear sharp horns on their head and spikes on their hooves, and with a cruel intelligence they will use them in combat to gore their foes.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 2,
-      "cost": 300,
-      "name": "Disc of Tzeentch",
-      "source": "Warhammer Fantasy - Warriors of Chaos",
-      "description": "Previously a Screamer, one of Tzeentch’s Daemons, this large flying disc was transformed by Tzeentch to better serve as a mount for his sorcerers. Round and flat, these Daemons are less traditional mounts to be ridden and more like...well, discs that you surf on as it flies through the air at greats speeds, giving you an excellent view of the battle, and a fine perch to cast your magics at a distance.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 3,
-      "cost": 400,
-      "name": "Juggernaut",
-      "source": "Warhammer Fantasy - Warriors of Chaos",
-      "description": "These Khornate Daemons from beyond the veil are no longer a purely biological creature, made of meat and bone. These beasts are somewhat similar in appearance to a bull in shape, but profaned armor and a series of cables hide the mass of corrupted flesh within. These beasts are extremely strong and eager to use their entire body as a means to slaughter your enemies. Some Juggernauts can be found alone on the battlefield, not because they never had a rider, but because the rider was killed but none had the desire to attempt to kill his steed next.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 4,
-      "cost": 400,
-      "name": "Steed of Slaanesh",
-      "source": "Warhammer Fantasy - Warriors of Chaos",
-      "description": "These Daemonic beasts make excellent servants for the children of Slaanesh, as their precise and swift movements make them useful for moving across uneven and dangerous terrain. They are extremely quick and their tongues are like whips, ripping the flesh of those that they lash out at. They are bipedal creatures, and possess an uncanny beauty that stun your enemies long enough for you and your unholy partner to do your work. Such is the danger of these mounts that Daemonettes often use them as their mounts of choice, and when encountered by themselves it usually means something is afoot.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 5,
-      "cost": 600,
-      "name": "Chaos Dragon",
-      "source": "Warhammer Fantasy - Warriors of Chaos",
-      "description": "Spoken of only in whispers by the people of the north, these two headed beings are corrupted versions of the beasts of legend that are extremely rare and often sleep away the eons, never seen by the eyes of mortals. When anyone sees one of these deeply corrupted bringers of destruction, it is likely for the very first time...and the very last time.Their bodies are covered in extremely thick scales that ward off all attacks and their heads breathe fire that destroys all it touches. They rout entire armies with their terrifying presence and destroy all that are not wise enough to run. They are no longer exclusively powerful due to their nature, but in addition to the dark magics of Chaos, changed by the energies of Tzeentch. Although they are products of Tzeentch’s meddling, they do not swear an allegiance to the Master of Magic and instead go where they please and ally with whomever they will, for they feel that they are above the plotting of the Gods and instead see themselves as the true servants. When a Chaos Dragon serves it serves because it wills it, not because it must.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 6,
-      "cost": 200,
-      "name": "Bloodletter ",
-      "source": "Warhammer Fantasy - Warriors of Chaos",
-      "description": "These Lesser Daemons make up the majority of Khorne’s mighty forces, wielding fiery swords known as Hellblades that easily cleave through chaff and mighty heroes alike. These Daemon warriors exist to kill and only kill, the reason that Khorne favors them so. They revel in slaughter so greatly that they fight each other beyond the void simply for a chance to be summoned into the material realm and kill as men do. Though they are savage beasts, do not think them to be stupid. They do possess a cunning that often goes unnoticed on the battlefield.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 7,
-      "cost": 200,
-      "name": "Daemonette",
-      "source": "Warhammer Fantasy - Warriors of Chaos",
-      "description": "Beings cloaked in a perverse beauty as they dance through the battlefield, Daemonettes are the Lesser Daemons of Slaanesh. Obsessed with sensory experiences and glad to help others indulge in the intense feeling of pain, Daemonettes are uniquely cruel creatures that relish in the suffering of every mortal they kill. Their unnatural speed and agility make them horrifying creatures in combat, death often coming before one can even muster the effort to fight back. Such a creature should have no beauty at all, but the Prince of Excess decides what is beautiful and what iS not.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 8,
-      "cost": 200,
-      "name": "Pink Horror",
-      "source": "Warhammer Fantasy - Warriors of Chaos",
-      "description": "Tzeentch’s main Lesser Daemon, the Horror, comes not in one form but two. The first is the Pink Horror, which is the main form of the Horror. Pink Horrors focus on using their energies and magics to deal death to their foes, firing blasts of magic of their hands and mouths. Horrors are dangerous foes like this, but if seriously wounded the Horror will cackle and change into two of its second form - the Blue Horror. These smaller beings are like Daemonic temperamental children, lashing wildly at their enemies and strangulating and tearing until they finally expire.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 9,
-      "cost": 300,
-      "name": "Clea",
-      "source": "Dr Strange: In the Multiverse of Madness by Sentry342",
-      "description": "Clea is the Sorcerer Supreme of the Dark Dimension. She is introduced to the MCU in the post credit scene of Multiverse of Madness. She is incredibly powerful, at the very least capable of matching Strange. We have yet to see how she will be handled, but this option will allow you to recruit this powerful sorceress now.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 10,
-      "cost": 100,
-      "name": "Baby Ogdru Jahad",
-      "source": "Hellboy (Cinematic) JumpChain",
-      "description": "This is a surprisingly cute tentacled abomination from beyond the stars; an infant version of the Ogdru Jahad that are imprisoned in the abyss. It waves its tentacles at you enthusiastically whenever it sees you, begging for you to pet it or pick it up, and uses them to give you hugs while burbling excitedly in dark tongues. It’s more like a baby than a pet.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 11,
-      "cost": 200,
-      "name": "Cat from Ulthar",
-      "source": "Generic Lovecraftian Film",
-      "description": "This is a normal seeming cat. Though seeming is the operative word. It is highly intelligent, smart enough to understand human language if physically incapable of speaking it, and cleverer than most people; really it’s probably smarter than most people if ultimately still feline in behavior. Beyond this intelligence it seems to have a strange presence on planes of thought or spirit; planes like the Astral Planes or the Dreamlands. When in these dimensions of thought and spirit it is a highly capable predator, able to leap to or over the moon in a single bound, and match up against terrible creatures like nightgaunts, shantak birds, or the winged serpents of Nyarlathotep known as hunting horrors. It will protect your dreams from invaders, hunting them like the mice most of them really are, and can even destroy spells or psychic influence over your sleeping mind. If you abuse the cat it will turn on you, however. Counts as a follower/pet unless imported as a companion. While any kittens it has (either as dad or mom) will be skilled hunters of dreams and smarter than the average cat, they won’t be as smart as it nor will they inherently possess its loyalty and protectiveness towards you.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 12,
-      "cost": 600,
-      "name": "Lord of Oblivion",
-      "source": "TES: Daedra",
-      "description": "The Daedric Princes do not bow to another so easily, especially not to another of their power, but perhaps they could be swayed to? By taking this option, you may have one of these godlike entities become your Companion. But you will not be taking just the Prince, oh no. You will be taking them and their entire Realm, as well as their artifacts, though they will be under the control of the Prince, not you. I would certainly hope that you understand the gravity of your situation, and realize that these beings are alien in mindset, and do not submit easily.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 13,
-      "cost": 200,
-      "name": "Insane Gatekeeper",
-      "source": "TES: Daedra",
-      "description": "I don't know how you did it, and quite frankly I don't want to know. This massive flesh atronach was specially crafted to help protect the gates to the Shivering Isles, and now you are the master of one such creature. It's extremely durable, highly resistant to magic, and can take down an entire mercenary company on its lonesome with ease. It would be madness to try fighting against this thing.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 14,
-      "cost": 100,
-      "name": "Atronach Thralls",
-      "source": "TES: Daedra",
-      "description": "Atronachs are one of the most used summons by mortals, and for good reason. They follow their orders without question, and won't try to stab you in the back. You now have three Atronachs bound to your will, fire, frost, and storm. They are all more powerful than average atronachs, can take much more of a beating, and can appear by your side at will. Should they perish, simply wait an hour before calling on them once more.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 15,
-      "cost": 0,
-      "name": "Court Jester",
-      "source": "TES: Daedra",
-      "description": "Once a respected healer, this Nord has long since joined Sheogorath's realm due to a toxic romance. But now she has a new target for her affections. You. A skilled acrobat and deadly with her massive warhammer, she'll smash anything that would get in the way of you two being together.",
-      "chapter": "Summons"
-    },
-    {
-      "__source": "Eldritch Grimoire v1 by Gothicjedi666 - Summons",
-      "__line": 16,
-      "cost": 0,
-      "name": "Atronach Mount ",
-      "source": "TES: Daedra",
-      "description": "Atronachs are not confined to a form resembling only humanoid creatures, and it is not unheard of for them to take the form of rideable beasts. This animalistic Atronach, being of an element of your choosing, is eternally bound to you, allowing you to summon them anywhere you want, with no magicka cost. In addition to the standard abilities you would see in an Atronach, this mount is easy to ride, and will always be faster than you.",
-      "chapter": "Summons"
     }
   ]
 }

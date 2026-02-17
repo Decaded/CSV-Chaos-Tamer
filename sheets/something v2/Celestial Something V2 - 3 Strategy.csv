@@ -1,0 +1,451 @@
+0,Perk Name,Cost,Source,Description
+1,Neolithic Projects,50 CP,RimWorld,"You gain the knowledge and all necessary skills to build and create items from Neolithic Research Projects from the base RimWorld game. This includes both specific blueprints for every craftable Neolithic structure, tool, and device, along with a basic level of practical skill sufficient to construct them from available materials. This perk covers only content from the core RimWorld experience and does not include any DLC content."
+2,Medieval Projects,200 CP,RimWorld,"You gain the knowledge and all necessary skills to build and create items from Medieval Research Projects from the base RimWorld game. This includes both specific blueprints for every craftable Medieval structure, weapon, tool, and device, along with a basic level of practical skill sufficient to construct them from available materials. This perk covers only content from the core RimWorld experience and does not include any DLC content."
+3,Industrial Projects,400 CP,RimWorld,"You gain the knowledge and all necessary skills to build and create items from Industrial Research Projects from the base RimWorld game. This includes both specific blueprints for every craftable Industrial-era structure, fabrication bench, machining table, component assembly, and advanced device, along with a basic level of practical skill sufficient to construct them from available materials. This perk covers only content from the core RimWorld experience and does not include any DLC content."
+4,Spacer Projects,600 CP,RimWorld,You gain the knowledge and all necessary skills to build and create items from Spacer Research Projects from the base RimWorld game. This includes both specific blueprints for every craftable Spacer-era structure along with a basic level of practical skill sufficient to construct them from available materials. This perk covers only content from the core RimWorld experience and does not include any DLC content.
+5,Biotech,400 CP,RimWorld,"This perk provides you with the necessary scientific foundation, basic practical skills, and complete blueprints for all technology and projects from the Biotech DLC for RimWorld. You gain the knowledge to genetically engineer xenotypes, oversee mechanitor operations, manage children and genetic lineages, and construct all associated machinery and facilities. The mysteries of mechanoid control and genetic manipulation are now yours to command."
+6,Royalty ,400 CP,RimWorld,"This perk provides you with the necessary scientific foundation, basic practical skills, and complete blueprints for all technology and projects from the Royalty DLC for RimWorld. Additionally, you gain a degree of psycasting potential - enough to develop psychic powers through meditation and honor-bestowing ceremonies. You understand the intricacies of imperial titles, permit requests, and the construction of all Royalty-specific structures, weapons, and psychic gear."
+7,Odyssey ,300 CP,RimWorld,"This perk provides you with the necessary scientific foundation, basic practical skills, and complete blueprints for all technology and projects from the Odyssey DLC for RimWorld. You gain the knowledge to construct and utilize all Odyssey-specific additions - including new vehicles, exploration equipment, and the various technologies that enable expanded travel and discovery across the rimworlds."
+8,Anomaly ,800 CP,RimWorld,"This perk provides you with the necessary scientific foundation, basic practical skills, and complete blueprints for all technology, containment procedures, and projects from the Anomaly DLC for RimWorld. You gain the knowledge to construct anomaly research facilities, containment devices, and the specialized equipment needed to study and exploit the unnatural.
+
+Crucially, any potential infohazards or mind-breaking knowledge contained within this perk are automatically hidden from your conscious awareness if learning them would harm you. You receive only what you can safely handle."
+9,Ideology ,400 CP,RimWorld,"This perk provides you with the necessary scientific foundation, basic practical skills, a degree of supernatural ability, and complete blueprints for all technology, structures, and projects from the Ideology DLC for RimWorld. You understand how to construct ritual altars, relic display cases, and all ideoligion-associated buildings and items.
+
+Additionally, this perk grants you a measure of supernatural ability tied to faith and belief, along with enhanced social aptitude and exceptional talent in all social sciences. You understand how beliefs shape civilizations and can navigate even the most complex ideological landscapes with ease.
+
+As with all dangerous knowledge, any potential infohazards contained within this perk are automatically hidden if learning them would hurt you."
+10,Redistribute Passion,150 CP,RimWorld,"This perk grants you three metaphorical charges each day, which you can use to temporarily bestow Passion toward any skill from the list of those existing in the RimWorld game. By investing one charge, you can make yourself (or another) become Interested in that skill; by investing two charges, you can elevate that interest to Burning Passion.
+
+This effect does not actually make you more skillful, it does not grant knowledge or ability. Instead, it allows you to take genuine pleasure in performing tasks related to that skill and provides a significant multiplier on experience gain while the passion lasts.
+
+All three charges must be used simultaneously when activating this perk. They reset every 24 hours and need to be reapplied if you wish to maintain the effect. You may apply these charges to other people, but if you do, the charges will only return to you after 24 hours have passed.
+
+Be mindful of unintended psychological effects - artificially induced passion can sometimes have unexpected consequences on a person's psyche."
+11,Obtain Traits ,200 CP,RimWorld,"Upon purchasing this perk, you may select any single trait from the full list of traits existing in the RimWorld game. This chosen trait is held in reserve, waiting to be applied. You may bestow it upon yourself or upon another person you touch - a process that takes a few minutes of concentration to complete.
+
+The effect causes permanent physiological and/or psychological changes to the target, integrating the trait as though it were always part of their nature. Identical traits do not stack, and attempting to apply multiple traits that conflict or interact unpredictably may have unintended consequences.
+
+This perk may be purchased multiple times, with each purchase granting another trait to hold in reserve for later application. Beware of unintended psychological or physiological effects: tampering with someone's fundamental nature rarely comes without risk."
+12,Acquire Skills,100 CP,RimWorld,"Upon purchasing this perk, you may select any single skill from the full list of skills existing in the RimWorld game. This chosen skill is held in reserve, waiting to be applied. You may bestow it upon yourself or upon another person you touch - a process that takes a few minutes of concentration to complete.
+
+The effect grants two levels of proficiency in the chosen skill to the target, up to a maximum of 20. These skill levels integrate naturally, as though gained through genuine experience and practice. This perk may be purchased multiple times, with each purchase granting another skill level reserve to choose, hold and apply."
+13,Vanilla Weapons Expanded,200 CP,Modded RimWorld,"You gain a complete mental compendium of blueprints for every craftable weapon from the Vanilla Weapons Expanded series of mods for RimWorld. This includes the full range of ballistic firearms, melee armaments, grenades, heavy weapons, and specialized munitions introduced across the entire expanded arsenal. Alongside these blueprints, you receive the practical skills and working knowledge needed to effectively utilize, maintain, and create these weapons using available materials and facilities."
+14,Vanilla Furniture Expanded,50 CP,Modded RimWorld,"You gain a complete mental compendium of blueprints for every craftable item from the Vanilla Furniture Expanded series of mods for RimWorld. This includes all variants of production benches, decorative furnishings, storage solutions, and specialized structures introduced across the entire furniture expansion suite. Alongside these blueprints, you receive the practical skills needed to effectively construct and utilize these items using available materials. "
+15,Vanilla Genetics Expanded,200 CP,Modded RimWorld,"You gain a complete mental compendium of blueprints for every craftable item from the Vanilla Genetics Expanded mod for RimWorld. This includes genetic labs, gene extractors, mutagens, and all equipment needed for animal hybridization and genetic manipulation.
+
+Alongside these blueprints, you receive the practical skills needed to effectively utilize and create these items. However, this perk provides no in-depth scientific knowledge. If you do not also possess the Biotech perk from the RimWorld category, your genetic creations will function as tinkertech - reliable in your hands but poorly understood, and nearly impossible for others to replicate or maintain."
+16,Vanilla Vehicles Expande,150 CP,Modded RimWorld,"You gain a complete mental compendium of blueprints for every craftable item from the Vanilla Vehicles Expanded series of mods for RimWorld. This includes all vehicle chassis, engines, weapon mounts, utility modules, and specialized transport options across the entire expanded vehicle lineup.
+
+Alongside these blueprints, you receive the practical skills needed to effectively construct, maintain, and operate these vehicles. Additionally, you gain a significant degree of natural talent for any vehicle-related mechanical fields (including repair, customization, and performance optimization) allowing you to coax maximum capability from any wheeled or tracked conveyance."
+17,Rimsenal Pack,200 CP,Modded RimWorld,"You gain a complete mental compendium of blueprints for items, structures, and even some creatures from the Rimsenal Pack of mods for RimWorld. This includes the full range of faction-specific weapons, armors, apparel, turrets, production facilities, and unique biological entities introduced across the Rimsenal series.
+
+Alongside these blueprints, you receive the practical skills needed to effectively utilize and create these items using available materials. Additionally, you gain an incredible natural talent for employing weapons for their intended purpose, allowing you to wield even unfamiliar firearms and armaments with surprising effectiveness.
+
+This perk provides only basic background scientific knowledge. Without deeper foundational understanding, your creations will easily default to tinkertech status: reliable in your hands but poorly understood, and difficult for others to replicate or maintain."
+18,Lost Factory Mechanoids,300 CP,Modded RimWorld,"You possess the knowledge and capability to establish a small-scale production facility dedicated to crafting the advanced machines and devices featured in the Lost Factory Mechanoids and Mechanoid Upgrades mods for RimWorld.
+
+This perk provides you with a comprehensive mental compendium of technical knowledge, granting you a perfect understanding of the schematics, construction processes, and underlying principles for all items within these mods. You know how to build, maintain, and repair everything from autonomous worker drones to formidable combat mechanoids and their powerful upgrades."
+19,Glittertech Expansion,300 CP,Modded RimWorld,"The pinnacle of glitterworld science is now within your reach. You gain the ability to manufacture a wide array of advanced devices from the Glittertech Expansion mod for RimWorld. This perk provides you with a basic understanding of the underlying principles behind this technology. From luxury goods to high-performance equipment, the marvels of glitterworld engineering are yours to command."
+20,Alpha Genes,50 CP,Modded RimWorld,"You possess a complete mental compendium of every genetic sequence, xenotype, and gene variant introduced in the Alpha Genes mod for RimWorld. This knowledge includes detailed instructions on how to extract, synthesize, stabilize, and implant these genes effectively.
+
+However, this perk grants only the knowledge - it does not provide the laboratory equipment, sophisticated machinery, or practical skills required to perform the genetic manipulation itself. To make use of these blueprints, you must possess the necessary tools and expertise, such as the Biotech perk from a RimWorld or similar gene-engineering capabilities from another setting. Without those, this compendium remains purely theoretical."
+21,Hacking Expansion,150 CP,Modded RimWorld,"You possess a complete mental compendium of blueprints for every device, tool, and system introduced in the Hacking Expansion mod for RimWorld. This knowledge encompasses everything from cryptographic analyzers and hacking tools to mainframe interfaces and security override modules.
+
+Unlike mere theoretical understanding, this perk also grants you the practical skills and technical expertise required to actually construct, deploy, and operate these devices effectively. You know how to interface with various computer systems, bypass security protocols, and utilize your crafted tools to their fullest potential."
+22,Gene Fabrication,100 CP,Modded RimWorld,"""Are you tired of spending hours grinding quests, extracting prisoners, and trading across the galaxy just to find one specific gene? When your mod list includes hundreds of new xenotypes and genetic variants, is it really worth losing your sanity over the grind? Now there is a solution.""
+
+With the Gene Fabrication bench, you can synthesize any gene you have encountered or possess a sample of, eliminating the need for endless searching and random chance.
+
+You receive one fully functional Gene Fabrication bench from the mod of the same name, along with a thick, detailed technical manual. This manual contains comprehensive instructions on how to operate the machine, perform routine maintenance, troubleshoot common issues, and (with sufficient study) construct additional units from scratch.
+
+Good luck figuring it out! (The knowledge is in the manual. Probably. You did read the manual, right?)"
+23,"Integrated Implants
+",150 CP,Modded RimWorld,"You possess a complete mental compendium of every cybernetic implant, bionic prosthetic, and neural interface introduced in the Integrated Implants mod for RimWorld. This knowledge includes detailed schematics, component lists, and precise surgical instructions for fabricating and installing each augmentation effectively.
+
+Unlike purely theoretical knowledge, this perk also grants you the practical skills and technical expertise required to perform the delicate work of implant construction and surgical implantation. Your hands know the techniques, your eyes recognize the proper tolerances, and your mind understands the biological and cybernetic principles at play.
+
+However, knowledge and skill are worthless without the proper tools. This perk provides no equipment, no fabrication benches, no surgical tools, and no sterile facilities or skills to manufacture them. To actually produce and install these implants, you must acquire the necessary machinery and medical equipment through other means. "
+24,"Auto Dissector
+",100 CP,Modded RimWorld,"""An automated surgical device has been added to your arsenal. This machine can precisely remove diseased organs, detach bionic implants you deem unnecessary, or (for those with less ethical inclinations) process prisoners efficiently for bulk extraction of desired body parts.""
+
+You receive one fully functional Auto Dissector from the mod of the same name. This sophisticated piece of medical machinery handles delicate surgical extraction with robotic precision, minimizing tissue damage and maximizing organ viability. Whether you need to harvest implants from traitors, remove cancerous organs for replacement, or simply process a prison population for valuable components, this machine does the job quickly and cleanly.
+
+Along with the unit itself, you receive a thick, detailed technical manual containing comprehensive instructions on how to operate the machine, perform routine maintenance, troubleshoot common issues, and (with sufficient study) construct additional units from scratch.
+
+Good luck figuring it out! (The machine's ethical subroutines are optional. Your conscience is your own.)"
+25,Scientific Method,50 CP,Vanilla Stellaris,"""Testable predictions of observable phenomena.""
+
+You possess the equivalent of a higher education in scientific methodology, specifically as taught by a society centuries ahead of modern humanity. You understand how to apply advanced research techniques, experimental design, and data analysis from a futuristic civilization to your work.
+
+This knowledge provides a significant edge in structuring research and inquiry, helping you avoid dead ends and recognize meaningful patterns. However, this is a narrow field of expertise. While your grasp of the method is on par with that advanced society, your actual knowledge of specific technologies, history, and context beyond this discipline remains mostly blank. It also doesn't enchance your intellenge."
+26,Computing Tree,500 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Computing Tech Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 250 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+27,Field Manipulation Tree,500 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Field Manipulation Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 250 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+28,Particles Tree,400 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Particles Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 200 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+29,Biology Tree,500 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Biology Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 250 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+30,Military Theory Tree,400 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Military Theory Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 200 CP (half the base price) at any time (either now or the next time you take this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+31,New Worlds Tree,400 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the New Worlds Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 200 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+32,Statecraft Tree ,600 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Statecraft Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 300 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+33,Psionics Tree,600 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Psionics Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 300 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Events."
+34,Archaeostudies Tree,600 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Archaeostudies Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 300 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Events."
+35,Cybrex Mining Hub,300 CP,Vanilla Stellaris,"""To build their ring world, the Cybrex relied on highly efficient mining drones to survey and harvest orbital resources. Cybrex-made memory chips and sensors could outfit our own mining drones, so that we might put their millennia-old algorithms to good use.""
+
+You possess the knowledge and schematics to construct mining drones equipped with Cybrex-derived memory chips and sensors. These drones utilize ancient, highly efficient algorithms to survey and harvest orbital resources with exceptional speed and precision.
+
+Whether applied to asteroid belts, planetary rings, or other celestial bodies, your mining operations become drastically more productive. The technology is self-contained and adaptable, allowing you to outfit existing drone frameworks or build new ones from scratch."
+36,Irassian Naval Yards,300 CP,Vanilla Stellaris,"""The Irassian astronaval tradition was unmatched in their time. Their shipyards produced a constant stream of ships for their navy and merchant fleets, which would ultimately be their downfall. With so many ships, and such a high reliance on them, the Irassians were powerless to quarantine the disease that would claim their empire.""
+
+You possess the knowledge and schematics to construct shipyards utilizing Irassian astronaval technology. Your facilities can produce a constant, rapid stream of vessels for both military and civilian purposes, matching the legendary output of the Irassian empire at its height.
+
+This perk grants you their unparalleled production efficiency and ship design principles. However, it comes with a silent warning: be mindful of overreliance on any single system, lest you share their fate."
+37,Yuht Astronomical Interferometer,250 CP,Vanilla Stellaris,"""The Yuht were a paradoxical society, obsessed with the idea of finding other sentient species, yet refusing to accept that they were not alone. They were so focused on disproving any claim of alien life, that their bias found a way into their technology. However, with the proper modifications and calibrations, we could certainly fix their powerful detection arrays.""
+
+You possess the knowledge and schematics to construct and calibrate Yuht astronomical interferometers - powerful detection arrays originally designed to disprove the existence of alien life.
+
+With your modifications, these instruments shed their built-in bias and become exceptional tools for deep-space observation. They excel at detecting celestial phenomena, distant objects, and potential signs of other life, providing clarity and range far beyond conventional sensors."
+38,        Zroni Storm Caster,400 CP,Vanilla Stellaris,"""Zro is a fascinating element, prone to chaotic bursts of energy. We believe that with the right artifacts, we could use it to fuel spatial storms over entire solar systems.""
+
+You possess the knowledge and artifacts needed to harness the volatile element Zro, allowing you to generate and control massive spatial storms.These chaotic energy storms can be deployed across entire solar systems, disrupting sensors, damaging unshielded vessels, and reshaping local space to your advantage. With practice and sufficient Zro, you can learn to direct these storms with increasing precision, turning raw chaos into a strategic tool."
+39,First League Filing Offices,400 CP,Vanilla Stellaris,"""The sprawling empire of the First League dwarfed our own at its peak, and relied on implacable bureaucracy to keep the wheels of the state in motion. The quantic filing arrays they used afforded them unprecedented efficiency in the sorting and storing of documents.""
+
+You possess the knowledge and schematics to construct quantic filing arrays based on First League technology. These systems organize, store, and retrieve documents with seemingly impossible efficiency, transforming even the most chaotic archives into perfectly structured databases.
+
+Whether applied to government records, corporate data, or personal libraries, your filing systems ensure that any piece of information can be located, cross-referenced, and accessed in moments - no matter how vast the collection grows."
+40,Baol Organic Plant,500 CP,Vanilla Stellaris,"""The Baol Organism had a unique way of producing tools. Given the species' relative slowness, they would simply grow them out of organic matter in locations that were half orchard, half factory. With the proper genetic adjustments, we could also grow various commodities and tools alongside our regular crops.""
+
+You possess the knowledge and genetic templates to create Baol-style organic plantations - hybrid facilities that function as both orchard and factory. These living structures can be calibrated to grow tools, commodities, and other useful items directly from organic matter, alongside regular crops. With proper adjustments, your plantations become self-sustaining production centers, silently and steadily yielding whatever you need with minimal oversight."
+41,Vultaum Reality Computer ,500 CP,Vanilla Stellaris,"""The reality computers of the Vultaums were unique processing units, dedicated to analyzing existence itself - not quite through physics, but rather by trying to reverse engineer reality's source code and find the glitch that would finally allow the Vultaums to take down the simulation where they believed they lived.""
+
+You possess the knowledge and schematics to construct a Vultaum Reality Computer - a processing unit designed to analyze the fundamental nature of existence. Rather than studying physical laws, this computer attempts to reverse engineer reality's underlying ""code,"" searching for inconsistencies, glitches, or patterns that might reveal the true nature of your world. While it cannot guarantee answers, it provides unparalleled insight into the metaphysical and the simulated, should such things exist."
+42,Industry Tree,600 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Industry Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 300 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+43,Materials Tree,600 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Materials Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 300 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+44,Propulsion Tree,400 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Propulsion Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 200 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+45,Voidcraft Tree,500 CP,Vanilla Stellaris,"You possess the unnatural ability to rapidly research and discover technologies from the Voidcraft Tree of the Stellaris game. Your progression is semi-random, utilizing a ""card shuffle"" approach where new inspirations arise based on your recent actions.
+
+To advance, you must create and use various devices, explore the technologies of others, and remain proactive in your research. Your activities make certain technologies more likely to appear the next time inspiration strikes, allowing you to subtly guide your progression.
+
+You may pay an additional 250 CP (half the base price) at any time (either now or the next time you get this perk) to instantly unlock a portion of the tree. You can do this as many times as you wish, provided you have the points to spare. Each purchase grants an immediate leap in knowledge, blueprints, and skills, covering a few of the lowest-tier technologies still ahead of you in this tree (typically one or two). This option does not include Starter Technologies or Events."
+46,Active Countermeasures,100 CP,Vanilla Stellaris,"""The best defense is a good offense.""
+
+You are an expert in the planning and construction of point-defense systems, specializing in Sentinel-class technology. While relatively primitive by interstellar standards, your expertise allows you to maximize their effectiveness against incoming projectiles and missiles.
+
+Your knowledge covers both the theoretical and practical aspects of active defense, from optimal placement and targeting algorithms to maintenance and rapid fabrication. A solid foundation upon which to build more advanced countermeasures."
+47,High-Energy Capacitors,100 CP,Vanilla Stellaris,"""Capacitors capable of storing vast amounts of energy are one of the cornerstones of any modern civilization.""
+
+You possess the theoretical knowledge, blueprints, and practical skills needed to produce and utilize high-energy capacitors. Your expertise covers multiple variations of this essential technology, allowing you to store and discharge tremendous amounts of power for weapons, propulsion, or infrastructure. A foundational technology that opens the door to more advanced energy systems."
+48,Deflectors,100 CP,Vanilla Stellaris,"""Energy deflector screens can stop a limited amount of incoming enemy fire before overloading. Their main drawback is that they consume large amounts of power.""
+
+You gain comprehensive insight into deflector technology, including the theoretical principles behind energy shielding and several practical blueprints for implementation. Your knowledge allows you to construct, install, and maintain deflector systems capable of absorbing enemy fire until overload. A solid foundation in personal or ship-scale defense, tempered by the eternal challenge of balancing protection against power consumption."
+49,Fission Power,50 CP,Vanilla Stellaris,"""This energy source generates power for ships through induced fission, but it also produces harmful nuclear waste.""
+
+You possess the equivalent of a higher education in fission power generation, as understood by a futuristic society. Your knowledge covers reactor design, fuel processing, and waste management, allowing you to construct and maintain efficient fission systems for ships or settlements.
+
+Your skills are average by the standards of this advanced society, but your expertise is narrowly focused. While you understand fission power thoroughly, you have significant gaps in your knowledge of other fields."
+50,Reactor Boosters,50 CP,Vanilla Stellaris,"""Additional power generation systems increase the ship's reactor output.""
+
+You gain blueprints and a basic theoretical understanding sufficient to construct Reactor Boosters yourself. These supplementary systems can be integrated into existing power plants to increase overall energy output, providing the extra capacity needed for more demanding weapons, shields, or propulsion systems. A simple but valuable upgrade for any vessel straining against its power limits."
+51,"Hyperspace Travel
+",250 CP,Vanilla Stellaris,"""Like the strands of a spider web, the extra-dimensional realm of hyperspace runs between the gravity wells of most stars. Faster-than-light travel is theoretically possible along these hyperlanes.""
+
+You gain insight into the theory of hyperspace travel, including the principles that govern this extra-dimensional realm and its connection to stellar gravity wells. Your knowledge is accompanied by blueprints for experimental devices capable of proving key aspects of the theory. While true FTL travel remains beyond your immediate reach, this perk provides the foundation needed to begin mapping hyperlanes and developing the technology to navigate them."
+52,Red Lasers,150 CP,Vanilla Stellaris,"""Laser weapons fire focused beams of light at targets, causing damage through the generation of intense heat.""
+
+You are a skilled engineer specializing in the maintenance and construction of Red Laser weapons. Your expertise covers the full lifecycle of these systems, from fabrication and calibration to field repairs and performance optimization. While relatively basic by interstellar standards, your knowledge ensures these weapons function at peak efficiency - delivering concentrated thermal damage with reliable precision."
+53,Subspace Drive,250 CP,Vanilla Stellaris,"""An insight born of a desperate desire to leave our home, these Subspace Drive engines were designed to facilitate limited interstellar travel. While only allowing small-scale jumps, they provide a unique opportunity to jump-start our galactic exploration.""
+
+You gain the blueprints and practical skills necessary to initiate and complete the Subspace Drive engine megaproject. This knowledge allows you to construct drives capable of limited interstellar jumps - enough to reach nearby systems and begin true galactic exploration.
+
+However, your understanding is purely practical. You possess nearly no theoretical context beyond what is needed to build and operate the drives, leaving the deeper science of subspace as a mystery to be solved another day.
+
+"
+54,Fruit Gardens ,200 CP,Vanilla Stellaris,"""Vacuum gardens full of bio-engineered fruits, genetically enhanced to attract spaceborne fauna.""
+
+You possess the knowledge to construct vacuum-sealed gardens and bio-engineer a variety of organisms specifically designed to thrive within them. These fruits are genetically enhanced to attract spaceborne fauna, allowing you to study, lure, or interact with creatures that dwell in the void between worlds. A unique fusion of agriculture and xenobiology, opening doors to peaceful contact or controlled observation of deep-space lifeforms."
+55,Medical Care,100 CP,Vanilla Stellaris,"""A micro-unit of prevention is worth a macro-unit of cure. However, sometimes both are needed.""
+
+You are a fully trained physician with medical education equivalent to that of a futuristic society. Your skills cover diagnosis, treatment, and preventive care at a level considered average by their advanced standards. While you lack specialized knowledge in other fields, your medical expertise ensures that you (and those under your care) benefit from healthcare centuries ahead of modern Earth."
+56,Industrial Agriculture,50 CP,Vanilla Stellaris,"""Large-scale industrial farms growing nutrient-rich produce allow a civilization to increase its population manifold.""
+
+You possess the expertise of someone who has run and overseen the construction of large-scale industrial farms. Your knowledge covers efficient cultivation, infrastructure planning, and resource management necessary to feed a growing population. While modest by futuristic standards, this foundational skill ensures food security and the capacity to support expansion wherever you settle."
+57,Energy Burster,50 CP,Vanilla Stellaris,"""Fires bio-projectiles that emit bursts of energy upon impact, subtly enhancing the maneuverability of our vessels.""
+
+Blueprints and the practical skills to grow/create Energy Burster devices are now part of your mental library. These unique bio-projectiles release controlled energy bursts on impact, providing a subtle boost to your vessels' maneuverability during combat. A unconventional tool for those who prefer to turn every engagement into an opportunity for tactical repositioning."
+58,Vector Lock Cannon,50 CP,Vanilla Stellaris,"""Biologically enhanced projectiles are fired, countering evasive maneuvers and striking agile targets.""
+
+Blueprints and the practical skills to grow/create Vector Lock Cannon munitions are now part of your mental library. These biologically enhanced projectiles actively counter evasive maneuvers, making them exceptionally effective against agile targets. A precision tool for hunters who refuse to let their quarry slip away."
+59,Maulers,200 CP,Vanilla Stellaris,"""Breakthroughs in bio-engineering have allowed the growth of space-faring, FTL-capable craft with military applications.""
+
+Blueprints and the practical skills to grow/create Mauler-class bioships are now part of your mental library. These living vessels are fully space-faring and capable of faster-than-light travel, designed for military applications.
+
+You also possess average piloting skills sufficient to operate one effectively. Whether grown in orbital habitats or tailored for specific roles, these organic craft offer a unique alternative to traditional shipbuilding."
+60,Weavers,200 CP,Vanilla Stellaris,"""Building on the foundations of early bio-engineering, Weavers are crafted to balance agility with increased combat capabilities.""
+
+Blueprints and the practical skills to grow/create Weaver-class bioships are now part of your mental library. These living vessels refine earlier bio-engineering techniques, striking an elegant balance between agility and combat performance. You also possess average piloting skills sufficient to operate one effectively."
+61,Planetary Defenses,100 CP,Vanilla Stellaris,"""There may come a time when intellects, vast and cool and unsympathetic, regard our worlds with envy and draw plans against us. We must be ready.""
+
+You are an expert of average skill in planetary defense planning and oversight. Your knowledge covers the strategic placement of defensive installations, coordination of ground-based systems, and preparation of civilian infrastructure to withstand orbital bombardment or invasion. While not a master strategist, you possess the foundational competence needed to make any world a harder target. Vigilance is the price of survival."
+62,New Worlds Protocol,50 CP,Vanilla Stellaris,"""Calculating the required resources and gear needed to establish a planetary colony allows us to send brave pioneers forth in grand ark ships, confident that they will survive the long voyage across the stars to a new home.""
+
+You possess a working knowledge of standard New World Protocols. This grants you the foundational skills and administrative know-how to plan, organize, and oversee the establishment of new colonies, ensuring that pioneering efforts have the infrastructure and supplies necessary to survive and take root on an unsettled world."
+63,Planetary Germination,50 CP,Vanilla Stellaris,"""To spread our roots to a new world, we must first prepare the seedbed. By terraforming a planet, we can ensure that our colonies get off to a healthy start.""
+
+You are an expert of average skill in the field of planetary engineering. You are capable of overseeing and assisting in the planning of large-scale terraforming and colonization projects, ensuring that a barren world can be made ready to support new life."
+64,Planetary Government,100 CP,Vanilla Stellaris,"""Once a colony has been firmly established and pioneers become citizens, the need for a strong local government to provide stability outweighs the colonial need for flexibility.""
+
+You are an expert in the field of planetary governance, possessing an average level of education by the standards of a future individualist society. You know how to establish and run effective administrative systems to ensure a stable and prosperous world."
+65,Planetary Plexus,100 CP,Vanilla Stellaris,"""Our colonies would wither to naught without the stable projection of our collective self. Our effortless presence ensures a flourishing hive.""
+
+You possess theoretical knowledge and a natural talent for the governing practices of a hive mind society. You understand how to manage a planetary population as a single, cohesive entity, ensuring the stability and prosperity of the collective."
+66,Planetary Instantiation,100 CP,Vanilla Stellaris,"""Our colonies would never achieve stable operation without infrastructure dedicated to our networked self.""
+
+You possess theoretical knowledge and a natural talent for the governing practices of a machine intelligence hive mind. You understand how to integrate a planetary population into a single networked consciousness, ensuring smooth and stable operation across all systems."
+67,Holo-Entertainment,50 CP,Vanilla Stellaris,"""The latest in holographic entertainment. Entire worlds built out of photons and energy fields.""
+
+You are an average-skilled expert in holo-engineering and design. You know how to create, maintain, and operate immersive holographic environments for recreation, education, or simulation purposes."
+68,Interplanetary Commerce,150 CP,Vanilla Stellaris,"""With new planetary markets comes new opportunities for commerce. Business will be booming.""
+
+You are an average-skilled expert in interplanetary trade and commerce. You understand the logistics, regulations, and financial strategies involved in moving goods and services across star systems."
+69,Sociocultural History,150 CP,Vanilla Stellaris,"""An understanding of our shared past is necessary in order to make any significant strides into the future.""
+
+You are an expert historian and monument builder of average skill from a future society. You know how to preserve cultural heritage, document historical events, and design lasting monuments that inspire and educate future generations."
+70,Synaptic Structures,350 CP,Vanilla Stellaris,"""Through the development of macroscopic synaptic nodes, the will of the Hive will be strengthened.""
+
+You possess the blueprints and operational instructions for constructing and maintaining various synaptic structures essential to a hive mind society. You know how to build the neural architecture that allows a collective consciousness to function across an entire planet."
+71,Industrial Base,300 CP,Vanilla Stellaris,"""The basic industrial infrastructure required to become a spacefaring civilization.""
+
+You possess an extensive theoretical foundation and exceptional talent for planning and constructing fundamental industrial infrastructure at the level of a future society. While you do not carry specific blueprints, your deep understanding allows you to design and oversee the building of factories, foundries, and manufacturing networks from the ground up."
+72,Offworld Construction,250 CP,Vanilla Stellaris,"""Construction in space presents our engineers with new design challenges that must be solved before we can build orbital stations above other worlds.""
+
+You possess an extensive theoretical foundation and exceptional talent for planning and executing offworld construction projects at the level of a future society. While you carry no specific blueprints, your deep understanding allows you to design and oversee the building of orbital platforms, space stations, and other zero-gravity structures from first principles."
+73,Mechanized Mining,200 CP,Vanilla Stellaris,"""The basic industrial infrastructure required to become a spacefaring civilization.""
+
+You possess a mental compendium of blueprints and instructions for planning, building, operating, and maintaining the foundational industrial infrastructure of a future civilization. However, your knowledge is purely theoretical - you have no practical skills or hands-on experience to accompany it."
+74,Nanocomposite Materials,100 CP,Vanilla Stellaris,"""Reinforced nanocomposite hull plating can provide an extra layer of protection that could mean the difference between life and death in a combat situation.""
+
+You are an expert in the field of nanocomposite materials. You know how to fabricate and apply them, and you understand the fundamental theory behind how they work at a molecular level."
+75,Chemical Thrusters,100 CP,Vanilla Stellaris,"""Simple yet moderately effective chemical thrusters that rely on combustible propellant to function.""
+
+You possess a mental compendium of blueprints and instructions for planning, building, operating, and maintaining chemical thrusters at a future civilization's technology level. However, your knowledge is purely theoretical - you have no practical skills or hands-on experience to accompany it."
+76,Flak Battery,50 CP,Vanilla Stellaris,"""Gun batteries that fire shrapnel rounds at close range. They are particularly lethal to enemy strike craft, but can also defend against missiles.""
+
+You possess a mental compendium of blueprints and instructions for planning, building, operating, and maintaining flak battery weaponry at a future civilization's technology level. However, your knowledge is purely theoretical - you have no practical skills or hands-on experience to accompany it."
+77,Nuclear Missiles,150 CP,Vanilla Stellaris,"""Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range.""
+
+You possess a mental compendium of blueprints and instructions for planning, building, operating, and maintaining space-to-space nuclear missile weaponry at a future civilization's technology level. However, your knowledge is purely theoretical - you have no practical skills or hands-on experience to accompany it."
+78,Mass Drivers,150 CP,Vanilla Stellaris,"""These electromagnetic projectile launchers use magnets to accelerate armor-piercing rounds toward targets at high speeds.""
+
+You can build a mass driver from scratch and modify it in a few ways, but you do not actually understand the fundamental physics of how they work. Your knowledge is purely practical - you know how to make, operate, and maintain them, but not the theory behind it."
+79,Space Exploration,200 CP,Vanilla Stellaris,"""The Science Ship is used as a base of operations for a top scientist, ready to explore the vastness of space.""
+
+You can build, maintain, and operate a science vessel of this caliber, provided you have the suitable tools and materials on hand. However, your knowledge is primarily practical - you lack an extensive theoretical background on why the ship is constructed in this particular way."
+80,Interplanetary Expeditionary Forces,50 CP,Vanilla Stellaris,"""The invasion of another world is a staggering enterprise. There are immense logistical challenges that must be overcome before we can muster our first interplanetary armies.""
+
+You have received education in the military logistics required to support interplanetary forces. You understand the complex supply chains, transport requirements, and coordination needed to sustain military operations across star systems."
+81,Deep Space Defenses,150 CP,Vanilla Stellaris,"""This will enable the construction of defensive deep space platforms to protect our starbases.""
+
+You know how to build, operate, maintain, and modify simple defensive deep space platforms, allowing you to establish basic orbital fortifications around key locations. It's equivalent of receiving good education and apply it practically for a few years."
+82,Orbital Energy Conversion,150 CP,Vanilla Stellaris,"""Advances in solar panel technology could offset the operating costs of our starbases. The panels would require an entire starbase module to generate enough energy, however.""
+
+You know how to build, operate, maintain, and modify orbital solar panels of this scale. You also understand the basic theory behind their inner workings, allowing you to adapt and improve the technology as needed."
+83,Starbase Construction,200 CP,Vanilla Stellaris,"""A centralized space installation built in close orbit around the system's primary is necessary to make full use of the resources in a star system.""
+
+You can build, maintain, and operate a starbase of this scale, provided you have the suitable tools and materials on hand. However, your knowledge is primarily practical: you lack an extensive theoretical background on why the base is constructed in this particular way."
+84,Starport,200 CP,Vanilla Stellaris,"""The earliest starbases were little more than makeshift outposts. Permanent starports will enable us to maintain a firmer grip on star systems.""
+
+You can build, maintain, and operate a permanent starport of this caliber, provided you have the suitable tools and materials on hand. However, your knowledge is primarily practical: you lack an extensive theoretical background on why it is constructed in this particular way."
+85,Corvettes,150 CP,Vanilla Stellaris,"""The corvette is the most basic military ship, armed and ready in the event of hostile contact.""
+
+You can build, maintain, and operate a corvette-class vessel, provided you have the suitable tools and materials on hand. However, your knowledge is primarily practical: you lack an extensive theoretical background on why it is constructed in this particular way."
+86,Predatory Tactics,300 CP,Vanilla Stellaris,"""Just as clever pre-FTL hunters move to conceal themselves while approaching prey, so too can our pilots move faster without disrupting their cloaking field.""
+
+You understand the art of stealth movement in combat. You know how to coordinate forces to maneuver at increased speed while maintaining active camouflage, allowing strikes that are both swift and undetected."
+87,Alien Topography,300 CP,Vanilla Stellaris,"""Civilizations flourish in locations that promote growth. By analyzing where the majority of pre-FTL settlements thrive, we can gain more out of our own colonies.""
+
+You possess a deep understanding of how alien species interact with their environments. You can analyze settlement patterns and geographical data to identify optimal locations for colonies, maximizing their growth and potential."
+88,Lost Building Methods,200 CP,Vanilla Stellaris,"""Any civilization with a long enough history has examples of great wonders built by forgotten ancients, which can no longer be replicated. Luckily for us, we have documented these great ancients when they appeared on pre-FTL worlds.""
+
+You have studied and preserved the construction techniques of ancient civilizations. You know how to recreate their lost architectural marvels, allowing you to build structures using methods and materials that have long since faded from memory and getting useful insights from them."
+89,Leviathan Tech Genesis,500 CP,Vanilla Stellaris,"""Utilizing the recovered knowledge seized from leviathans, we now have access to new improvements for our frames.""
+
+You possess the secrets extracted from ancient cosmic leviathans. This knowledge allows you to integrate their otherworldly biology and technology into your own constructions, granting them unprecedented enhancements and capabilities far beyond conventional designs."
+90,Stellaris Species,200 CP,Vanilla Stellaris,"You are an expert focused on the biology of the many sentient species found throughout the Stellaris universe, including those from various species packs. Your scientific knowledge of their diverse and unique physiologies is extensive and profound, allowing you to understand, interact with, and potentially even engineer solutions tailored to their specific biological needs."
+91,Enigmatic Decoding & Encoding ,800 CP,Vanilla Stellaris,"""While producing average results in standard tests, the accuracy of the Enigmatic Decoder's prediction algorithms seemingly increases as the target's flight path grows more erratic. Conversely, the Enigmatic Encoder scrambles our own flight path data according to some indeterminable design before feeding it back to fleet command.""
+
+You possess the knowledge to construct, operate, and integrate both Enigmatic Decoder and Encoder systems. Your decoding technology becomes more accurate the more seemingly unpredictable the target's movements, while your encoding systems scramble your own flight data in ways that defy analysis. Together, these technologies grant your fleet unparalleled predictive targeting and defensive evasion."
+92,Bio-Integrated Combat Computing,600 CP,Vanilla Stellaris,"""We can develop specialized neurochips to influence the behavior of space fauna involved in fleet combat. Additionally, the diverse sensory organs of spaceborne life can be enhanced by our technologies with minimal harm to the organism.""
+
+You possess the knowledge to seamlessly integrate advanced computing technology with living spaceborne organisms. You can create neurochips that allow you to direct the behavior of space fauna during large-scale combat, while also enhancing their natural sensory organs with technological augmentations. All without causing significant harm to the creatures themselves."
+93,Xenological Computation,700 CP,Vanilla Stellaris,"""After studying multiple pre-FTL civilizations, we have realized there are many alternative ways to calculate the universe. Different societies have developed alternative solutions for their logistics and computing. These alien ways of thinking have introduced entirely new numbers into our mathematics and made it easier to adapt to foreign empires' structures.""
+
+You have absorbed the computational paradigms of countless alien civilizations. You understand alternative mathematical systems that introduce entirely new numerical concepts, as well as trinary and other non-binary computing architectures. This knowledge allows you to adapt seamlessly to foreign computational and logistical structures, whether for code-breaking, integration, or cultural understanding."
+94,The Celestial Code,1200 CP,Vanilla Stellaris,"Your understanding has transcended conventional science, allowing you to perceive reality as a complex, layered code of physics and spacetime. By mastering the art of precise, microscopic alterations to gravity - injecting commands into the fundamental framework of existence - you can now perform temporary edits to the rules of reality itself. However, these changes are fleeting. To make your modifications permanent, you must engineer a vessel or construct capable of piercing the fabric of spacetime and surviving the journey through nascent universes. Only by anchoring your will across dimensions can you make your revisions to the cosmic source code absolute."
+95,Gravity-Assist Logistics,300 CP,Vanilla Stellaris,"You possess an intuitive genius for gravity-assisted astrogation. You have the theoretical and practical knowledge to calculate perfect slingshot maneuvers, using planetary gravity wells to achieve maximum velocity with minimal fuel. This talent extends to logistics; your deep understanding of orbital mechanics allows you to position yourself or any craft you pilot with such efficiency that you can perform complex missions with a fraction of the typical resource expenditure. Wherever you fly, your fuel efficiency and maneuverability are simply superior."
+96,Dark Matter Deflectors,500 CP,Vanilla Stellaris,"""These deflectors utilize dark matter to deflect incoming projectiles in a way that seems to utterly defy the laws of nature.""
+
+You possess a complete understanding of Dark Matter Deflector technology. These advanced shields utilize dark matter to deflect incoming projectiles in a way that defies the known laws of physics, offering superior protection. You gain the theoretical knowledge and practical skills necessary to construct, maintain, and utilize these deflectors reliably. You still require the proper tools and facilities to build them and you have no idea how to do it!"
+97,Dyson Sphere for Dummies,200 CP,Vanilla Stellaris,"Your mind now contains a comprehensive and highly detailed plan for constructing a Dyson Sphere - a megastructure designed to fully envelop a star and convert its entire energy output into usable power. This mental blueprint is easily accessible and outlines a step-by-step process, starting from the industrial capabilities of modern Earth and incorporating every conceivable shortcut to achieve this monumental goal. It doesn't put things like actual need for Dyson Sphere, ethics of each step or other important issues into account. Actually acquiring the resources and putting this information into practice is still up to you. "
+98,Matter Decompressor Project,200 CP,Vanilla Stellaris,"You receive a fiat-backed dataslate containing incredibly detailed instructions for constructing a Matter Decompressor - a megastructure that uses a black hole's gravity as a drill to extract virtually unlimited minerals from the singularity itself. The blueprint touches a bit on fundamental theory but primarily serves as a practical, step-by-step guide to achieving this goal under a range of varying circumstances. It assumes the reader possesses the necessary foundational knowledge, focusing instead on the actual construction process. It is easily accessible by computers of practically any architecture and will come back into your possession some time after, if destroyed."
+99,Dark Matter Power,400 CP,Vanilla Stellaris,"""These generators appear to somehow draw energy directly from dark matter, providing more ship power than should be possible according to the laws of physics.""
+
+You possess the theoretical knowledge of Dark Matter Power generation: technology that draws energy directly from dark matter to provide far more power than should be physically possible. When attempting to construct these immensely complicated power generating devices, you have a supernatural advantage that guides your efforts. This won't make the task easy, but it gives you an edge in navigating the incredible complexity involved."
+100,Extradimensional Weaponry,400 CP,Vanilla Stellaris,"""Applying 5th-dimensional energy manipulation principles on lower dimensional planes allows for the creation of powerful energy weapons."" 
+
+You possess a mental compendium of fundamental knowledge and practical experiments needed to begin researching these kinds of weapons. You gain a supernatural advantage and sudden strikes of insight when actively working on this technology. "
+101,Dark Matter Propulsion,350 CP,Vanilla Stellaris,"""These thrusters utilize Dark Matter technology to generate propulsion in a manner that appears to defy numerous laws of physics."" 
+
+You possess the schematics and understanding needed to construct and integrate these exotic thrusters into your ships. They offer unparalleled speed and maneuverability by harnessing the reactive properties of dark matter."
+102,Dimensional Transcendentalism,1000 CP,Vanilla Stellaris,"You have unlocked the secrets of dimensional transcendentalism, allowing you to construct ships whose interiors are vastly larger than their exteriors suggest. This ""bigger-on-the-inside"" principle grants your vessels immense firepower and capability at a fraction of the expected logistical cost. This knowledge applies across your fleet, from the modest Riddle Escort and the imposing Enigma Battlecruiser (which outclasses standard battleships) to the nigh-impregnable Paradox Titan, a mobile fortress that can shrug off all but the most brutal assaults."
+103,Nanite Repair System,300 CP,Vanilla Stellaris,"This nanite repair system is a highly effective auto-repair mechanism comprised of billions of microscopic repair machines. Originally salvaged from the wreckage of the Scavenger, this technology has been repurposed for your use. You gain a sealed, dormant sample of this advanced technology, along with an incredibly detailed and comprehensive guide on how to activate, utilize, and reproduce it for your own vessels and equipment."
+104,,,,
+105,,,,
+106,,,,
+107,,,,
+108,,,,
+109,,,,
+110,,,,
+111,,,,
+112,,,,
+113,,,,
+114,,,,
+115,,,,
+116,,,,
+117,,,,
+118,,,,
+119,,,,
+120,,,,
+121,,,,
+122,,,,
+123,,,,
+124,,,,
+125,,,,
+126,,,,
+127,,,,
+128,,,,
+129,,,,
+130,,,,
+131,,,,
+132,,,,
+133,,,,
+134,,,,
+135,,,,
+136,,,,
+137,,,,
+138,,,,
+139,,,,
+140,,,,
+141,,,,
+142,,,,
+143,,,,
+144,,,,
+145,,,,
+146,,,,
+147,,,,
+148,,,,
+149,,,,
+150,,,,
+151,,,,
+152,,,,
+153,,,,
+154,,,,
+155,,,,
+156,,,,
+157,,,,
+158,,,,
+159,,,,
+160,,,,
+161,,,,
+162,,,,
+163,,,,
+164,,,,
+165,,,,
+166,,,,
+167,,,,
+168,,,,
+169,,,,
+170,,,,
+171,,,,
+172,,,,
+173,,,,
+174,,,,
+175,,,,
+176,,,,
+177,,,,
+178,,,,
+179,,,,
+180,,,,
+181,,,,
+182,,,,
+183,,,,
+184,,,,
+185,,,,
+186,,,,
+187,,,,
+188,,,,
+189,,,,
+190,,,,
+191,,,,
+192,,,,
+193,,,,
+194,,,,
+195,,,,
+196,,,,
+197,,,,
+198,,,,
+199,,,,
+200,,,,
+201,,,,
+202,,,,
+203,,,,
+204,,,,
+205,,,,
+206,,,,
+207,,,,
+208,,,,
+209,,,,

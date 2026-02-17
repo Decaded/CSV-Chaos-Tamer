@@ -165,179 +165,6 @@
   ],
   "2": [
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 1,
-      "cost": 0,
-      "name": "Vir Tanadhal ",
-      "source": "Dragon Age 1.02",
-      "description": "The Vir Tanadhal is a Dalish philosophy espoused by a clan’s hunters in the spirit of the goddess of the hunt, Andruil. It teaches young Dalish hunters to respect nature and be resolute in purpose. You’ve been instructed in this philosophy’s teachings, and have learned how to move through the wilds swiftly, silently, and unencumbered. Furthermore, wild animals will never bother you unless deliberately provoked.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 2,
-      "cost": 100,
-      "name": "Heirloom Necklace ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "A necklace made up of hundreds of wooden beads, each carved into the shape of an animal. Deer, hawks, wolves, and rabbits chase each other across its length. Passed down through the Mahariel family of Dalish elves, when worn you will be more resistant towards spiritual damage.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 3,
-      "cost": 100,
-      "name": "Beehive ",
-      "source": "Dragon Age 1.02",
-      "description": "A beehive and several empty glass jars. Simply touch an empty jar to the beehive and think of either honey or bees, and the flask will be filled with whatever you thought of. Any used jars will restock after two hours.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 4,
-      "cost": 100,
-      "name": "Legacy of the Dales ",
-      "source": "Dragon Age - Origins",
-      "description": "With the destruction of your homeland, your people have been forced to wander the lands, searching desperately for the slightest scraps of ancient elven knowledge. Whether you’ve been successful on that front or not, this lifestyle has led to the Dalish being unrivalled when it comes to traversing the wilds. The difficult terrain of the natural world doesn't seem to slow you and yours down whatsoever, traversing through thick forests as easily as a meadow.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 5,
-      "cost": 200,
-      "name": "Nature’s Bounty",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 6,
-      "cost": 200,
-      "name": "Dalish Promise Ring",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Intended for a Dalish elf's betrothed, this enchanted silver band was blessed by the tribe's Keeper to ensure a long, healthy life. Wearing it will see that any healing done to you is more effective, as well as making it less likely to draw the hostility of others towards yourself.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 7,
-      "cost": 200,
-      "name": "Dalish Woods",
-      "source": "Dragon Age 1.02",
-      "description": "A forest full of special trees such as ironbark, sylvanwood, dragonthorn, vhenadahl, and heartwood, as well as several patches of useful herbs. All of them would yield excellent materials for a dalish woodshaper or herbalist. 24 hours after harvesting any materials they will respawn as good as new.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 8,
-      "cost": 200,
-      "name": "Nature of the Beast ",
-      "source": "Dragon Age 1.02",
-      "description": "You have an affinity for the open country and wilderness, and the creatures that live within it. You have all the skills needed to survive and thrive in any non-urban environment, are an expert tracker and hunter, and once a day you may call upon the beasts of the wilds to aid you, in battle or outside of it.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 9,
-      "cost": 200,
-      "name": "Herbalist",
-      "source": "Dragon Age 1.02",
-      "description": "Many plants in this world have supernatural effects or healing properties, and so there exist many herbalists who use them to create useful items. You’ve studied under a master herbalist and as a result have gained a near-encyclopedic knowledge of the flora of this world and its effects, and thus have gained the skills required to create various potions, poultices, salves, and incense. By itself that is already an extremely useful skill to have, but for someone like you, Jumper, that wasn’t enough. And so it was that you sought out the Dalish, and had them teach you what they knew about many natural remedies humans have long since forgotten or ignored, such as knowing which type of tree bark cures headaches when chewed upon.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 10,
-      "cost": 200,
-      "name": "Nature’s Bounty",
-      "source": "Dragon Age - Origins",
-      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 11,
-      "cost": 200,
-      "name": "Halla",
-      "source": "Dragon Age 1.02",
-      "description": "The halla are a type of horned stag. Some of them are herded by the Dalish elves who used them to pull the aravels, or landships. Their milk is also made into cheese and butter. The Dalish do not consider them beasts of burden but noble companions. To get them to accompany a clan, the Dalish elves ask rather than force them to. It is said that the Dalish carve their antlers for decorative purposes, and that their antlers are particularly prized in the Tevinter Imperium.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 12,
-      "cost": 300,
-      "name": "An Oversized Mirror",
-      "source": "Dragon Age Inquisition Jump",
-      "description": "A massive ornate mirror standing over 12 feet tall. The mirror is broken, but is obviously magical. It appears as though all of the shards of the mirror are at the foot of the mirror and all that is required to fix it is time and knowledge.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 13,
-      "cost": 400,
-      "name": "Nomadic Hunter",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. One cannot afford to be ignorant of their surroundings, no matter how seemingly safe it appears. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 14,
-      "cost": 400,
-      "name": "Anduril’s Blessing",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Belts of this type, crafted by ancient elven keepers, were given to a clan's honored allies. Although the fine engravings are faded from age and use, the enchantments remain strong to this day. Not only will it bolster one’s resilience to damage and spiritual magics, but it allows the wearer to swiftly replenish any spent mana, even in the midst of battle. Yet even with such potent equipment, the elves fell all the same to the Imperium.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 15,
-      "cost": 400,
-      "name": "Woodshaping",
-      "source": "Dragon Age 1.02",
-      "description": "The Dalish elves practice a craft known as Woodshaping, which allows them to forge outstanding arms, armour, and other items from wooden materials that can easily compare to most of their metal counterparts. Yes, you read that correctly. Forge. They forge wood. How they manage to accomplish this, only the Dalish know, and they’re not telling any outsiders. Except for you, that is. You’ve studied under a Master Woodshaper, and learned all they’ve had to teach you, including the secret of how to work with Ironbark. Any type of wood can be used for this craft, but the best results are gained when Ironbark is used. Ironbark is a rare wood type, somewhat blue in colour, and only grows in the Brecilian Forest in Ferelden. Items fashioned from Ironbark are surprisingly both stronger and lighter than steel, and are exceptionally suited to enchantments.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 16,
-      "cost": 400,
-      "name": "Nomadic Hunter",
-      "source": "Dragon Age - Origins",
-      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. No matter how seemingly safe it appears, one cannot afford to be ignorant of one's surroundings. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 17,
-      "cost": 600,
-      "name": "The Sorrows of Arlathan",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Ancient carvings cover the limbs of this bow. It looks to be some form of elven, either a poem or a prayer of some sort. Not only do arrows fired from this longbow punch through even the thickest of armors, but the user can fire them at such a rate to rival ten of their equals. Strangely, it seems as though this bow is more effective against those who don't possess elven blood, biting into their flesh like the fangs of a dreaded wolf.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 18,
-      "cost": 600,
-      "name": "Keeper ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Every Dalish clan has a keeper, a wise mentor dedicated to preserving the elves' ancient lore. It is exceptionally uncommon for a keeper to teach anyone other than a fellow clan member about the unique Dalish understanding of nature magic, which focuses on control of the roots beneath the earth, amongst other abilities. Most prominently, creatures of nature such as sylvans will find themselves compelled to follow your commands, while elves will be more deferential towards you.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 19,
-      "cost": 800,
-      "name": "Vir'abelasan",
-      "source": "Dragon Age 1.02",
-      "description": "The Vir’abelasan, or Well of Sorrows, is an ancient nexus of ley energies located within the temple of Mythal. Mythal, one of the elven gods, was betrayed and murdered by her fellow Evanuris. This pool is a reminder of what was lost, a path to be walked by those who toiled in Mythal’s name. Near the end of their life, every servant of Mythal would pass their knowledge on through the Well of Sorrows. Thus, it contains all the collective knowledge and way of life of the ancient favoured elves. Those who drink from the well will gain access to all the knowledge stored within, though it may take quite some time to fully absorb and comprehend everything. There’s so much knowledge to shift, through, after all. It is said that those who drink from the Vir’abelasan are bound to the will of Mythal forevermore. And while that appears to be true for the original, since you are paying so much CP for this, you will gain a copy of the Well that doesn’t enslave the user. What’s even better is that this version of the Well doesn’t just contain the collective knowledge of the servants of Mythal, but the collective knowledge of all of the ancient elves, including the Evanuris.",
-      "chapter": "Elf"
-    }
-  ],
-  "3": [
-    {
       "__source": "Celestial Tarot v1 by Gothicjedi666_ - Mage",
       "__line": 1,
       "cost": 0,
@@ -581,6 +408,161 @@
       "chapter": "Mage"
     }
   ],
+  "3": [
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 1,
+      "cost": 0,
+      "name": "Mechanical Materials ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "If you want to be laying down bear traps and grease smears in a chokepoint, you’re going to need certain things in order to actually make them. This satchel is a tinkerer’s best friend, filled with all manner of crafting materials like scrap metal and string, among some more interesting ones, such as spirit shards and corruptor agent. These will replenish weekly.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 2,
+      "cost": 0,
+      "name": "Orlesian Bard ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "A lay sister of the Chantry who can beat the stuffing out of trained mercenaries would be notable enough, but one who also claims to have been sent to fight the darkspawn by the Maker Himself is... unusual to say the least. She spent much of her life as a bard in Orlais: a minstrel, assassin, and spy employed by the nobles of Val Royeaux in their elaborate games of intrigue. Leliana takes care to honor the Lothering cloister that took her in, and keeps symbols of Andraste's blessings close to her heart.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 3,
+      "cost": 100,
+      "name": "A Friendly Ear ",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "You’re a good listener, a really good listener. People feel inclined to talk to you about their problems and woes, particularly those problems that are stressful or could be described as gossip. Attempting to steer the conversation toward a specific topic may or may not work, but every time you employ this skill the conversation you have will contain information of note.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 4,
+      "cost": 100,
+      "name": "Close To The Chest",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "Your secrets and your motivations are yours and yours alone. You will never unintentionally give away a secret or your true intention with body language or a slip of the tongue.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 5,
+      "cost": 100,
+      "name": "Dirty Fighting",
+      "source": "Dragon Age 1.02",
+      "description": "Some may say that fighting dirty to gain the upper hand in a fight is cheating. You disagree. Whether it’s a formal duel, a tavern brawl, or on a battlefield, you’ll always know how to use dirty tricks to gain an advantage over your opponent. It could be as simple as using your blade to reflect the light of the sun in their eyes, or maybe it’s insulting their parentage, whatever works, really. Obviously this works best against opponents who would not stoop to such dishonourable tricks themselves, but even on those who would they seem to always provide you with an unexpected (for them) advantage.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 6,
+      "cost": 100,
+      "name": "Fencer’s Cinch ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The leather has been dyed a dark blue, highlighted here and there with polished steel rivets. The buckle has been fashioned in the shape of a wolf's head. Wearing it will see that your attacks utilizing daggers or arrows are more effective than before.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 7,
+      "cost": 100,
+      "name": "Lucky Bastard",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "Your speed, physical coordination and manual dexterity are at peak human levels.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 8,
+      "cost": 100,
+      "name": "Perceptive Pickpocket",
+      "source": "Dragon Age 1.02",
+      "description": "There’s plenty of petty criminals in Thedas. Pickpockets are especially common in the cities. Not like they’d had much of a choice, if they wanted to survive. Maybe that’s the reason why you started picking people’s pockets as well, or maybe you’re just a kleptomaniac? Either way, you’re a skilled pickpocket, able to walk through a market crowd and snatching up coin-purses left and right. Of course, it’s important to not get caught, so you’re a decent judge of who you’d be able to steal from without being caught and who you shouldn’t mess with. You’re not too shabby at picking locks, either.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 9,
+      "cost": 100,
+      "name": "Streets of Denerim",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Amongst the most oppressed people in all of Ferelden, there are some who see the elves more akin to rodents than people. With those in power more often than not keeping your people from entering more important areas of the city, you’ve grown used to navigating the winding streets of Denerim. This has led to an almost uncanny ability to navigate nearly any urban environment, finding the quickest way to a destination so long as it remains within the city bounds.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 10,
+      "cost": 100,
+      "name": "Wink And A Smile ",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "You are one charismatic sonuvabitch. Your ability to win friends and influence people is without equal.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 11,
+      "cost": 200,
+      "name": "“You’ll want to hear the whole story...”",
+      "source": "Dragon Age 1.02",
+      "description": "You’re an expert storyteller and author, Jumper. With a bit of hard work your novels could take Thedas by storm. But not only that, you’ve got an excellent pokerface and are a very skilled liar as well. You can spin a story or tell a lie convincingly enough that you could hide out as a mage right under the templar’s noses. Clearly, that magical staff is not a staff at all but simply an unconventional spear. It’s even got a pointy end for stabbing people with. Basically, you can bullshit yourself out of practically any situation.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 12,
+      "cost": 200,
+      "name": "Fleet of Foot",
+      "source": "Dragon Age 1.02",
+      "description": "A warrior charges into battle like an angry bull, whilst a mage casts their spells from the rear of the battlefield like a coward. But a rogue like you? You swiftly dance across the battlefield. Your reflexes are incredible, and you always manage to plant your feet securely on the ground, never tripping over any obstacles, or even your own feet. You have a preternatural ability to evade incoming attacks, both sword and spell alike. As an additional benefit to this sure-footedness, it seems you’ve become an incredibly talented dancer.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 13,
+      "cost": 200,
+      "name": "Street Rat",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "With good-paying jobs so rare for your people, you’ve needed to make coin any way you can if you want to make ends meet, even if the methods are a bit questionable. You’re an expert when it comes to larceny, plucking the fat coin purses off of an equally plump merchant without their knowledge is well in your capabilities, as is picking the lock to almost any door or chest that isn’t protected by magic.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 14,
+      "cost": 200,
+      "name": "The Edge ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Newly forged and sporting an edge sharp enough to cut through boot leather, this blade is the pinnacle of Fereldan crafting skill. Wait, there's more! It slices, it dices, and can make Orlesian potatoes. With just one easy payment, you too can stab your fellows in the back as easily as making stew!",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 15,
+      "cost": 400,
+      "name": "The Wicked Oath ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Countess Luciana of Antiva lived as a virtual prisoner in her husband’s castle until an elven slave offered her a way out. The slave magically bound a small amount of the countess’s blood into a ring in return for a promise of freedom. The countess agreed, and the count was found stabbed soon afterwards, this ring lying beside him. Neither Luciana nor the slave were seen again. Those who wear this ring will find any backstabs they perform are more damaging, and more easily able to penetrate through armor.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 16,
+      "cost": 600,
+      "name": "Assassin",
+      "source": "Dragon Age 1.02",
+      "description": "In Antiva, speaking about assassins would earn you only nervous looks and the rapid departure of whomever you were speaking to. There, assassination is considered an art form. The guild of assassins known as the Crows holds almost as much political power as powerful noblemen and military commanders. Any man, it is said, exists within their reach, and the Crows have proven this adage time and time again. More than one king of Antiva has even hailed from their ranks, and it should come as no surprise that those particular kings have in fact numbered amongst the nation’s most effective rulers. Outside of Antiva, assassination as a craft is rarely held with the same esteem. The Orlesian bard, for instance, may perform assassinations in the course of their duty but rarely is it the actual purpose they are set to. To a true assassin, murder is their craft and they make no bones about trying to distinguish themselves otherwise. Poison is their tool, just as is a slit throat or a silent strike to a critical area of the body, and all are designed to kill with maximum efficiency. Whether you’re an Antivan Crow, an Orlesian Bard, a member of the House of Repose, or just a killer for hire, one thing’s for sure: You are skilled at the art of silent killing. You have a natural talent for moving with stealth, and are either an expert marksman or supremely skilled with knives and daggers. You’re also a deft hand when it comes to poisons, both in the creation of poisons as well as the use of them.",
+      "chapter": "Rogue"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
+      "__line": 17,
+      "cost": 600,
+      "name": "Blackblade Armor ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "The Blackblade assassins disbanded after Daron Blackblade's lover poisoned him for forgetting her birthday. A shame, as those who wear this black leather set will find their dexterity and cunning vastly improved, as well as offering great resistance towards fire and cold magical effects. This is all on top of being more protective against physical attacks than dragon scales.",
+      "chapter": "Rogue"
+    }
+  ],
   "4": [
     {
       "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
@@ -809,161 +791,6 @@
     }
   ],
   "5": [
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 1,
-      "cost": 0,
-      "name": "Mechanical Materials ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "If you want to be laying down bear traps and grease smears in a chokepoint, you’re going to need certain things in order to actually make them. This satchel is a tinkerer’s best friend, filled with all manner of crafting materials like scrap metal and string, among some more interesting ones, such as spirit shards and corruptor agent. These will replenish weekly.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 2,
-      "cost": 0,
-      "name": "Orlesian Bard ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "A lay sister of the Chantry who can beat the stuffing out of trained mercenaries would be notable enough, but one who also claims to have been sent to fight the darkspawn by the Maker Himself is... unusual to say the least. She spent much of her life as a bard in Orlais: a minstrel, assassin, and spy employed by the nobles of Val Royeaux in their elaborate games of intrigue. Leliana takes care to honor the Lothering cloister that took her in, and keeps symbols of Andraste's blessings close to her heart.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 3,
-      "cost": 100,
-      "name": "A Friendly Ear ",
-      "source": "Dragon Age Inquisition Jump",
-      "description": "You’re a good listener, a really good listener. People feel inclined to talk to you about their problems and woes, particularly those problems that are stressful or could be described as gossip. Attempting to steer the conversation toward a specific topic may or may not work, but every time you employ this skill the conversation you have will contain information of note.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 4,
-      "cost": 100,
-      "name": "Close To The Chest",
-      "source": "Dragon Age Inquisition Jump",
-      "description": "Your secrets and your motivations are yours and yours alone. You will never unintentionally give away a secret or your true intention with body language or a slip of the tongue.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 5,
-      "cost": 100,
-      "name": "Dirty Fighting",
-      "source": "Dragon Age 1.02",
-      "description": "Some may say that fighting dirty to gain the upper hand in a fight is cheating. You disagree. Whether it’s a formal duel, a tavern brawl, or on a battlefield, you’ll always know how to use dirty tricks to gain an advantage over your opponent. It could be as simple as using your blade to reflect the light of the sun in their eyes, or maybe it’s insulting their parentage, whatever works, really. Obviously this works best against opponents who would not stoop to such dishonourable tricks themselves, but even on those who would they seem to always provide you with an unexpected (for them) advantage.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 6,
-      "cost": 100,
-      "name": "Fencer’s Cinch ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "The leather has been dyed a dark blue, highlighted here and there with polished steel rivets. The buckle has been fashioned in the shape of a wolf's head. Wearing it will see that your attacks utilizing daggers or arrows are more effective than before.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 7,
-      "cost": 100,
-      "name": "Lucky Bastard",
-      "source": "Dragon Age Inquisition Jump",
-      "description": "Your speed, physical coordination and manual dexterity are at peak human levels.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 8,
-      "cost": 100,
-      "name": "Perceptive Pickpocket",
-      "source": "Dragon Age 1.02",
-      "description": "There’s plenty of petty criminals in Thedas. Pickpockets are especially common in the cities. Not like they’d had much of a choice, if they wanted to survive. Maybe that’s the reason why you started picking people’s pockets as well, or maybe you’re just a kleptomaniac? Either way, you’re a skilled pickpocket, able to walk through a market crowd and snatching up coin-purses left and right. Of course, it’s important to not get caught, so you’re a decent judge of who you’d be able to steal from without being caught and who you shouldn’t mess with. You’re not too shabby at picking locks, either.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 9,
-      "cost": 100,
-      "name": "Streets of Denerim",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Amongst the most oppressed people in all of Ferelden, there are some who see the elves more akin to rodents than people. With those in power more often than not keeping your people from entering more important areas of the city, you’ve grown used to navigating the winding streets of Denerim. This has led to an almost uncanny ability to navigate nearly any urban environment, finding the quickest way to a destination so long as it remains within the city bounds.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 10,
-      "cost": 100,
-      "name": "Wink And A Smile ",
-      "source": "Dragon Age Inquisition Jump",
-      "description": "You are one charismatic sonuvabitch. Your ability to win friends and influence people is without equal.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 11,
-      "cost": 200,
-      "name": "“You’ll want to hear the whole story...”",
-      "source": "Dragon Age 1.02",
-      "description": "You’re an expert storyteller and author, Jumper. With a bit of hard work your novels could take Thedas by storm. But not only that, you’ve got an excellent pokerface and are a very skilled liar as well. You can spin a story or tell a lie convincingly enough that you could hide out as a mage right under the templar’s noses. Clearly, that magical staff is not a staff at all but simply an unconventional spear. It’s even got a pointy end for stabbing people with. Basically, you can bullshit yourself out of practically any situation.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 12,
-      "cost": 200,
-      "name": "Fleet of Foot",
-      "source": "Dragon Age 1.02",
-      "description": "A warrior charges into battle like an angry bull, whilst a mage casts their spells from the rear of the battlefield like a coward. But a rogue like you? You swiftly dance across the battlefield. Your reflexes are incredible, and you always manage to plant your feet securely on the ground, never tripping over any obstacles, or even your own feet. You have a preternatural ability to evade incoming attacks, both sword and spell alike. As an additional benefit to this sure-footedness, it seems you’ve become an incredibly talented dancer.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 13,
-      "cost": 200,
-      "name": "Street Rat",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "With good-paying jobs so rare for your people, you’ve needed to make coin any way you can if you want to make ends meet, even if the methods are a bit questionable. You’re an expert when it comes to larceny, plucking the fat coin purses off of an equally plump merchant without their knowledge is well in your capabilities, as is picking the lock to almost any door or chest that isn’t protected by magic.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 14,
-      "cost": 200,
-      "name": "The Edge ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Newly forged and sporting an edge sharp enough to cut through boot leather, this blade is the pinnacle of Fereldan crafting skill. Wait, there's more! It slices, it dices, and can make Orlesian potatoes. With just one easy payment, you too can stab your fellows in the back as easily as making stew!",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 15,
-      "cost": 400,
-      "name": "The Wicked Oath ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Countess Luciana of Antiva lived as a virtual prisoner in her husband’s castle until an elven slave offered her a way out. The slave magically bound a small amount of the countess’s blood into a ring in return for a promise of freedom. The countess agreed, and the count was found stabbed soon afterwards, this ring lying beside him. Neither Luciana nor the slave were seen again. Those who wear this ring will find any backstabs they perform are more damaging, and more easily able to penetrate through armor.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 16,
-      "cost": 600,
-      "name": "Assassin",
-      "source": "Dragon Age 1.02",
-      "description": "In Antiva, speaking about assassins would earn you only nervous looks and the rapid departure of whomever you were speaking to. There, assassination is considered an art form. The guild of assassins known as the Crows holds almost as much political power as powerful noblemen and military commanders. Any man, it is said, exists within their reach, and the Crows have proven this adage time and time again. More than one king of Antiva has even hailed from their ranks, and it should come as no surprise that those particular kings have in fact numbered amongst the nation’s most effective rulers. Outside of Antiva, assassination as a craft is rarely held with the same esteem. The Orlesian bard, for instance, may perform assassinations in the course of their duty but rarely is it the actual purpose they are set to. To a true assassin, murder is their craft and they make no bones about trying to distinguish themselves otherwise. Poison is their tool, just as is a slit throat or a silent strike to a critical area of the body, and all are designed to kill with maximum efficiency. Whether you’re an Antivan Crow, an Orlesian Bard, a member of the House of Repose, or just a killer for hire, one thing’s for sure: You are skilled at the art of silent killing. You have a natural talent for moving with stealth, and are either an expert marksman or supremely skilled with knives and daggers. You’re also a deft hand when it comes to poisons, both in the creation of poisons as well as the use of them.",
-      "chapter": "Rogue"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
-      "__line": 17,
-      "cost": 600,
-      "name": "Blackblade Armor ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "The Blackblade assassins disbanded after Daron Blackblade's lover poisoned him for forgetting her birthday. A shame, as those who wear this black leather set will find their dexterity and cunning vastly improved, as well as offering great resistance towards fire and cold magical effects. This is all on top of being more protective against physical attacks than dragon scales.",
-      "chapter": "Rogue"
-    }
-  ],
-  "6": [
     {
       "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
       "__line": 1,
@@ -1233,6 +1060,179 @@
       "source": "Dragon Age: Origins by Pokebrat",
       "description": "Among the ancient elves, there were mages who trained their magical arts to augment their martial prowess. They channeled magical power through their weapons and bodies, becoming terrors on the battlefield. Most consider these skills lost forever, but they may still linger in forgotten corners of the world. Through combining arcane power and martial might, there would be few who could face such a force and survive.",
       "chapter": "Warrior"
+    }
+  ],
+  "6": [
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 1,
+      "cost": 0,
+      "name": "Vir Tanadhal ",
+      "source": "Dragon Age 1.02",
+      "description": "The Vir Tanadhal is a Dalish philosophy espoused by a clan’s hunters in the spirit of the goddess of the hunt, Andruil. It teaches young Dalish hunters to respect nature and be resolute in purpose. You’ve been instructed in this philosophy’s teachings, and have learned how to move through the wilds swiftly, silently, and unencumbered. Furthermore, wild animals will never bother you unless deliberately provoked.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 2,
+      "cost": 100,
+      "name": "Heirloom Necklace ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "A necklace made up of hundreds of wooden beads, each carved into the shape of an animal. Deer, hawks, wolves, and rabbits chase each other across its length. Passed down through the Mahariel family of Dalish elves, when worn you will be more resistant towards spiritual damage.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 3,
+      "cost": 100,
+      "name": "Beehive ",
+      "source": "Dragon Age 1.02",
+      "description": "A beehive and several empty glass jars. Simply touch an empty jar to the beehive and think of either honey or bees, and the flask will be filled with whatever you thought of. Any used jars will restock after two hours.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 4,
+      "cost": 100,
+      "name": "Legacy of the Dales ",
+      "source": "Dragon Age - Origins",
+      "description": "With the destruction of your homeland, your people have been forced to wander the lands, searching desperately for the slightest scraps of ancient elven knowledge. Whether you’ve been successful on that front or not, this lifestyle has led to the Dalish being unrivalled when it comes to traversing the wilds. The difficult terrain of the natural world doesn't seem to slow you and yours down whatsoever, traversing through thick forests as easily as a meadow.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 5,
+      "cost": 200,
+      "name": "Nature’s Bounty",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 6,
+      "cost": 200,
+      "name": "Dalish Promise Ring",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Intended for a Dalish elf's betrothed, this enchanted silver band was blessed by the tribe's Keeper to ensure a long, healthy life. Wearing it will see that any healing done to you is more effective, as well as making it less likely to draw the hostility of others towards yourself.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 7,
+      "cost": 200,
+      "name": "Dalish Woods",
+      "source": "Dragon Age 1.02",
+      "description": "A forest full of special trees such as ironbark, sylvanwood, dragonthorn, vhenadahl, and heartwood, as well as several patches of useful herbs. All of them would yield excellent materials for a dalish woodshaper or herbalist. 24 hours after harvesting any materials they will respawn as good as new.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 8,
+      "cost": 200,
+      "name": "Nature of the Beast ",
+      "source": "Dragon Age 1.02",
+      "description": "You have an affinity for the open country and wilderness, and the creatures that live within it. You have all the skills needed to survive and thrive in any non-urban environment, are an expert tracker and hunter, and once a day you may call upon the beasts of the wilds to aid you, in battle or outside of it.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 9,
+      "cost": 200,
+      "name": "Herbalist",
+      "source": "Dragon Age 1.02",
+      "description": "Many plants in this world have supernatural effects or healing properties, and so there exist many herbalists who use them to create useful items. You’ve studied under a master herbalist and as a result have gained a near-encyclopedic knowledge of the flora of this world and its effects, and thus have gained the skills required to create various potions, poultices, salves, and incense. By itself that is already an extremely useful skill to have, but for someone like you, Jumper, that wasn’t enough. And so it was that you sought out the Dalish, and had them teach you what they knew about many natural remedies humans have long since forgotten or ignored, such as knowing which type of tree bark cures headaches when chewed upon.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 10,
+      "cost": 200,
+      "name": "Nature’s Bounty",
+      "source": "Dragon Age - Origins",
+      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 11,
+      "cost": 200,
+      "name": "Halla",
+      "source": "Dragon Age 1.02",
+      "description": "The halla are a type of horned stag. Some of them are herded by the Dalish elves who used them to pull the aravels, or landships. Their milk is also made into cheese and butter. The Dalish do not consider them beasts of burden but noble companions. To get them to accompany a clan, the Dalish elves ask rather than force them to. It is said that the Dalish carve their antlers for decorative purposes, and that their antlers are particularly prized in the Tevinter Imperium.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 12,
+      "cost": 300,
+      "name": "An Oversized Mirror",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "A massive ornate mirror standing over 12 feet tall. The mirror is broken, but is obviously magical. It appears as though all of the shards of the mirror are at the foot of the mirror and all that is required to fix it is time and knowledge.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 13,
+      "cost": 400,
+      "name": "Nomadic Hunter",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. One cannot afford to be ignorant of their surroundings, no matter how seemingly safe it appears. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 14,
+      "cost": 400,
+      "name": "Anduril’s Blessing",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Belts of this type, crafted by ancient elven keepers, were given to a clan's honored allies. Although the fine engravings are faded from age and use, the enchantments remain strong to this day. Not only will it bolster one’s resilience to damage and spiritual magics, but it allows the wearer to swiftly replenish any spent mana, even in the midst of battle. Yet even with such potent equipment, the elves fell all the same to the Imperium.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 15,
+      "cost": 400,
+      "name": "Woodshaping",
+      "source": "Dragon Age 1.02",
+      "description": "The Dalish elves practice a craft known as Woodshaping, which allows them to forge outstanding arms, armour, and other items from wooden materials that can easily compare to most of their metal counterparts. Yes, you read that correctly. Forge. They forge wood. How they manage to accomplish this, only the Dalish know, and they’re not telling any outsiders. Except for you, that is. You’ve studied under a Master Woodshaper, and learned all they’ve had to teach you, including the secret of how to work with Ironbark. Any type of wood can be used for this craft, but the best results are gained when Ironbark is used. Ironbark is a rare wood type, somewhat blue in colour, and only grows in the Brecilian Forest in Ferelden. Items fashioned from Ironbark are surprisingly both stronger and lighter than steel, and are exceptionally suited to enchantments.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 16,
+      "cost": 400,
+      "name": "Nomadic Hunter",
+      "source": "Dragon Age - Origins",
+      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. No matter how seemingly safe it appears, one cannot afford to be ignorant of one's surroundings. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 17,
+      "cost": 600,
+      "name": "The Sorrows of Arlathan",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Ancient carvings cover the limbs of this bow. It looks to be some form of elven, either a poem or a prayer of some sort. Not only do arrows fired from this longbow punch through even the thickest of armors, but the user can fire them at such a rate to rival ten of their equals. Strangely, it seems as though this bow is more effective against those who don't possess elven blood, biting into their flesh like the fangs of a dreaded wolf.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 18,
+      "cost": 600,
+      "name": "Keeper ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Every Dalish clan has a keeper, a wise mentor dedicated to preserving the elves' ancient lore. It is exceptionally uncommon for a keeper to teach anyone other than a fellow clan member about the unique Dalish understanding of nature magic, which focuses on control of the roots beneath the earth, amongst other abilities. Most prominently, creatures of nature such as sylvans will find themselves compelled to follow your commands, while elves will be more deferential towards you.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 19,
+      "cost": 800,
+      "name": "Vir'abelasan",
+      "source": "Dragon Age 1.02",
+      "description": "The Vir’abelasan, or Well of Sorrows, is an ancient nexus of ley energies located within the temple of Mythal. Mythal, one of the elven gods, was betrayed and murdered by her fellow Evanuris. This pool is a reminder of what was lost, a path to be walked by those who toiled in Mythal’s name. Near the end of their life, every servant of Mythal would pass their knowledge on through the Well of Sorrows. Thus, it contains all the collective knowledge and way of life of the ancient favoured elves. Those who drink from the well will gain access to all the knowledge stored within, though it may take quite some time to fully absorb and comprehend everything. There’s so much knowledge to shift, through, after all. It is said that those who drink from the Vir’abelasan are bound to the will of Mythal forevermore. And while that appears to be true for the original, since you are paying so much CP for this, you will gain a copy of the Well that doesn’t enslave the user. What’s even better is that this version of the Well doesn’t just contain the collective knowledge of the servants of Mythal, but the collective knowledge of all of the ancient elves, including the Evanuris.",
+      "chapter": "Elf"
     }
   ]
 }

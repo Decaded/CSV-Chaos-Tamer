@@ -1,0 +1,214 @@
+0,Perk Name,Cost,Source,Description
+1,Hungry & Afraid,100 CP,Fear & Hunger,"You are something of an expert when it comes to dealing with hunger and fear. While you don't have actual experience, you possess many unique practical skills, useful trivia, and helpful habits to call upon when needed. This includes not only things like finding food or knowing how to cook and eat usually inedible items, but also strategies such as psyching yourself up to consume something gross or how to use drugs to relieve stress while minimizing the chances of psychological addiction. You know various techniques to cope with fear and stress, and have an aptitude for managing feelings of hunger and exhaustion."
+2,Ritual Circles,600 CP,Fear & Hunger,"You possess the ability, skills, and knowledge to create and use ritual circles from the Fear & Hunger games. Unlike the circles available in the games, yours offer expanded functionality and versatility. Be cautious - these circles connect to the divine entities from their source setting and draw upon their authorities, which may attract unwanted attention or introduce unsettling phenomena into your current reality. You are capable of teaching this art to others, allowing the practice to spread from person to person. All infohazardous knowledge is locked away from you, if it would harm you to know."
+3,Bloody Engrave,200 CP,Fear & Hunger,"You have the skill and knowledge to engrave sigils on yourself or willing party members. Each sigil's benefit varies depending on the god it represents. Historically, these markings were carved across the body, though modern practitioners prefer facial sigils for greater efficiency. You can consistently create and utilize these sigils from Fear & Hunger game, unlocking their effects."
+4,Medicinal,100 CP,Fear & Hunger,"You can perform the Medicinal ritual, sacrificing harvested organs to Vitruvia, the architect of the human body. A proper sacrifice will cure the corresponding status ailment, based on the principle that every action has an equal reaction. You possess the ability, skill, and knowledge to utilize this ritual consistently."
+5,Alchemillia Tome,250 CP,Fear & Hunger,"This tome contains all three volumes of Alchemillia - a comprehensive guide for beginner, intermediate, and experienced alchemists. It allows you to learn and use alchemy skills from the Fear & Hunger games, even in worlds where such knowledge should not exist or function. Copies you make of the original book still work to grant skills, but their power diminishes in proportion to how little personal effort you invested in creating them. Copies made from other copies diminish further still."
+6,Blood Rights,50 CP,The Binding of Isaac,"""Mass Enemy Damage at a Cost."" - You gain a straight razor artifact with special properties, along with basic knowledge of how to use it. When you cut yourself with this razor (an action that deals consistent damage but causes no bleeding) it inflicts burst of damage on everyone you perceive as an enemy in your immediate vicinity, primarily in the form of internal trauma and spontaneous cuts. Used on others, the razor is simply an exceptionally durable and always-sharp blade. The main effect has a cooldown, and the razor provides feedback to its current user about when it can be used again."
+7,Candy Heart,200 CP,The Binding of Isaac,"""Power of Love."" This perk grants you incremental upgrades to a few randomly chosen physical stats after healing from wounds. It only works if the healed wound was severe enough and the healing process was fast enough (like regeneration). The upgrades are tiny but permanent."
+8,Empty Heart,100 CP,The Binding of Isaac,"“It multiplies”. - This perk allows you to fully recover from grievous injuries and any negative side effects of wounds or ailments once your health drops below a certain threshold. The healing occurs at your normal recovery speed. For example, it could mend a poorly healed bone fracture, though minor scars or traces may remain. It may even restore a lost eye (fully or partially) depending on your current state of health. With each full recovery, you grow a little hardier, capable of surviving greater trauma before succumbing to your wounds."
+9,Cracked Orb,50 CP,The Binding of Isaac,"“Shards of Knowledge”. - Each time you take damage exceeding a certain threshold, you gain one of the following boons: useful insight about your surroundings; the opening of nearby closed or blocked passages; or useful items from the surrounding area being uncovered and brought to your attention. The effect is mostly random, but is influenced by your environment and current situation."
+10,Bloody Gust,100 CP,The Binding of Isaac,"“May your rage bring haste.” - Each time you take damage in combat, your speed and agility receive a temporary boost. This effect can stack up to six stages, increasing with each hit. The boost decays rapidly once you are no longer fighting."
+11,Keeper's Sack,400 CP,The Binding of Isaac,"""Balls."" - Each time you purchase something from a willing trader, you receive a random permanent physical stat upgrade proportional to your spending. The effect works best for large, one-time, in-person expenditures where actual goods are exchanged and the sum spent is significant enough to trigger it. The perk is highly particular about what qualifies as a ""purchase"" and cannot be easily cheated."
+12,Forget Me Now,600 CP,The Binding of Isaac,"""I don't remember..."" - This perk grants you a special pill that allows you to ""reset"" your day once. Immediately after taking it, you travel back 24 hours. You retain all items on your person, your memories, and your other perks, as well as your current physical state. For example, if you are wounded at the moment of activation, you will remain wounded after the reset.
+
+This perk may be purchased multiple times. Note that traveling back does not guarantee events will unfold the same way. The perk itself provides general knowledge of the pill's effect to you."
+13,The Hourglass,200 CP,The Binding of Isaac,"""Temporary enemy slowdown."" - You gain an hourglass that can slow down everyone you perceive as enemies within your vicinity for eight seconds. It has a cooldown between uses. The item provides feedback on its recharge status and imparts knowledge of its use to the holder. The effect is not temporal in nature, but inertial/kinetic: it does not slow the perception of time."
+14,A Pony,100 CP,The Binding of Isaac,"""Flight + Dash Attack."" - This stick horse grants the ability to fly and passively increases your speed. When activated, you charge in the direction the pony is facing, gaining a degree of invulnerability during the dash and dealing damage to enemies in your path. The active ability has a cooldown. Upon equipping the item, you gain basic knowledge of its usage and functionality."
+15,Anarchist Cookbook,100 CP,The Binding of Isaac,"""Summon bombs."" - This is an actual Anarchist Cookbook and can be read like any normal text. It is more in-depth and factual than a standard copy, and provides a slight passive boost to learning and using the knowledge contained within. Its active effect spawns seven primed explosive devices of reasonable power at random points nearby, which detonate after a few seconds. The book has a cooldown and grants the wielder general knowledge of its effects and usage upon equipping it."
+16,Best Friend,100 CP,The Binding of Isaac,"""Friends 'till the end."" - This small doll, when activated, spawns a decoy that explodes after five seconds. Enemies are attracted to the decoy and lose track of the user. The effect has a cooldown. The decoy resembles a person lying on the ground, but can take on different appearances and illusory details to better draw enemies' attention."
+17,White Pony,150 CP,The Binding of Isaac,"""Flight + holy death."" - This stick horse grants flight and passively increases your speed. When activated, you charge in the direction the pony is facing, gaining a degree of invulnerability during the dash, dealing damage to enemies struck, and creating damaging beams of light trailing behind you. The active ability has a cooldown. Upon equipping the item, you gain basic knowledge of its usage and functionality."
+18,Glowing Hourglass,800 CP,The Binding of Isaac,"""Turn back time."" - Upon active use, this item rewinds time to the last major branching point in your timeline - a moment where small choices can lead to significant changes. This typically sends you back a few minutes, but can sometimes rewind up to an hour or even a full day. Only your mind travels back; your body, items, and surroundings remain as they were.
+
+The hourglass holds three charges and can be used three times. Repeated use cannot take you further back than 24 hours from the moment of the previous activation, meaning you cannot rewind twice in quick succession to exceed that limit. The only way to recharge it is to purchase this perk again (at half price - 400 CP), though the hourglass can never store more than three charges. Upon equipping the item, you gain basic knowledge of its usage and functionality."
+19,Yum Heart,200 CP,The Binding of Isaac,"""Reusable regeneration."" - This soft, heart-shaped object is edible. Taking a bite instantly restores a significant amount of health, though it does not heal status effects. It is highly effective against wounds and the physical consequences of things like toxins. It has limited effect on cancer, genetic damage, or similar conditions, but can address more physical forms of harm such as brain or radiation damage. After each use, the item enters a cooldown period before it can be bitten again. Upon equipping it, you gain basic knowledge of its usage and functionality."
+20,Spoon Bender,300 CP,The Binding of Isaac,"""Homing shots."" - This perk grants you the ability to apply a homing effect to your ranged/projectile-based attacks, inspired by The Binding of Isaac. Projectiles/attacks naturally curve toward the nearest enemy in the vicinity. You have no manual control over the targeting; instead, you must position yourself strategically to influence where the shots go. The effect adapts slightly depending on the type of ranged attack you use and has some in-build synergies for specific types of attacks."
+21,The Wafer,400 CP,The Binding of Isaac,"""Damage resistance."" - Most sources of harm that would cause more damage than a certain threshold will only deal a fraction of it: a deep bruise, a cracked rib, or similar injury depending on the strike's location. This protection has limits. It is less effective, or may not function at all, against certain forms of damage."
+22,Holy Mantle,400 CP,The Binding of Isaac,"""Holy shield."" - This perk grants an invisible shield/barrier that negates the first instance of damage taken. It takes some time to recharge and cooldown is lower when outside immediate danger or battle. It works against most types of damage, but not all of them."
+23,Incubus,400 CP,The Binding of Isaac,"""Dark Friend."" - This perk allows you to spawn and dismiss a demonic familiar that floats nearby you and shoots ranged attacks identical to your current ones in terms of damage, rate of fire and special effects. For example, if you are using a Tommy gun with tungsten bullets, the Incubus will mimic this ranged attack."
+24,Dead Eye,200 CP,The Binding of Isaac,"""Accuracy Bbrings power!"" - This perk increases damage each time an enemy is hit by your attack. The damage bonus resets when you miss a shot. This effect has a certain bonus limit and does not work for some types of attacks (like lasers). You can toggle the effect on and off."
+25,Holy Light,300 CP,The Binding of Isaac,"""Holy death shot."" -This perk allows you to either: add a chance to fire a 'holy shot' - a modification of your ranged attack that creates a damaging light beam in the area if it hits an enemy; or apply this effect to your attack intentionally, but with a specific cooldown between each application. You can toggle the effect of this perk, or even turn it off."
+26,Rock Bottom,1000 CP,The Binding of Isaac,"""It's only up from there."" - This perk revents your physical attributes from falling below their highest values reached. Attributes continue to be calculated normally internally. Rather than use your current stats, items and effects will impact the same way they would as if you did not have Rock Bottom. Temporary buffs work normally, though they may make reaching new best values harder after the buff has worn off. Basically, stat penalties are accounted for, causing increased difficulty of reaching new best values."
+27,PJs,100 CP,The Binding of Isaac,"""You feel cozy."" - This perk grants you 4 'soul hearts' and fully restores your health. Soul hearts work like a form of absorptive armor, taking damage instead of hurting your body. Depending on the severity, a different number of metaphorical hearts will be lost to absorb the damage. You can have a maximum of 12 soul hearts."
+28,Book of Revelations,100 CP,The Binding of Isaac,"""Reusable soul protection."" - This item, upon use, grants one soul heart. Soul hearts work like a form of absorptive armor, taking damage instead of hurting your body. Depending on the severity, a different number of metaphorical hearts will be lost to absorb the damage. You can have a maximum of 12 soul hearts. There is a small chance of encountering the Harbinger boss attacking you shortly after using the book. The wielder of the book gains knowledge of how to use it and a general description of its effect. The active effect has a relatively long cooldown. You can also read it as a normal book."
+29,Monstrance,200 CP,The Binding of Isaac,"""Purifying light."" - This perk gives you the ability to turn on an aura, which deals damage to enemies inside it. The closer they are, the more damage is dealt. Effect looks like a brightened area around you and a dim light. It is not perfect at telling apart enemies from friends and can be deceived. It deals damage in a form of sunburns. "
+30,Book of Shadows,150 CP,The Binding of Isaac,"""Temporary invincibility."" - This item creates a protective shield, nullifying almost all types of damage for 10 seconds upon activation. The wielder of the book gains knowledge of how to use it and a general description of its effect. The active effect has a cooldown. You can also read it as a normal book."
+31,Brimstone,200 CP,The Binding of Isaac,"""Blood laser barrage."" - This perk lets you shoot blood laser beam from your mouth that pierces through enemies and obstacles in its path and deals high damage. Can only be fired after a short charge-up period. This perk can be purchased twice to get upgraded version."
+32,Stop Watch,300 CP,The Binding of Isaac,"""Let's slow this fown a bit..."" - This perk slightly increases your movement and reaction speed. It alters perception to make things move only at 80% of their speed from your point of view, without losing any understanding of events happening around you. It takes some time for the brain to adapt to this new reality. This power can be toggled."
+33,Epiphora,150 CP,The Binding of Isaac,"""Intensifying tears."" - Shooting in one direction increases your rate of fire until the cap is reached. As soon as you change direction or stop shooting, the rate of fire resets to its normal amount. The effectiveness of the effect depends on the type of attack used. You can toggle this ability."
+34,Red Candle,50 CP,The Binding of Isaac,"""Flame on."" - This magical item can be used to shoot a blob of strangely persistent fire. It will burn in the targeted location for some time, scorching the surrounding area, and can be moved by strong enough wind or force while it lasts."
+35,The Candle,50 CP,The Binding of Isaac,"""Reusable flames."" - This magical item can be used to shoot a blob of blue fire, which disintegrates things on contact and diminishes quickly. It works better against living and organic matter. A wisp of blue fire is hard to move after it has been thrown."
+36,Guppy's Collar,300 CP,The Binding of Isaac,"""Eternal life?"" - This perk grants a permanent 50% chance to respawn with a highly diminished state of health after death. You are not wounded after respawning, just fragile."
+37,Pyromaniac,300 CP,The Binding of Isaac,"""It hurts so good +5 bombs."" - This perk grants immunity to explosion damage and fire damage. It also causes explosions to heal you. More exotic flame/explosion effects might still affect you negatively or interact weirdly with this power."
+38,A Dollar,50 CP,The Binding of Isaac,"""$$$"" - This perk gives you 100 Pennies. In this case, Pennies are imaginary and immaterial unspecified currency, which you can materialize into actual money at any moment. It works only one way - Pennies into material currency, but be sure - now you have some sizable sum in your metaphorical (and soon literal) pocket!"
+39,The Compass,100 CP,The Binding of Isaac,"""The end is near."" - This perk gives you a mental compass in the back of your mind, which points you toward places of interest nearby in your current location. It might take some time to figure out what the Compass is showing you, but behind all the symbols it uses, there is logic and system. It cannot reveal places, which are hidden too well and intentionally."
+40,Contagion,200 CP,The Binding of Isaac,"""Outbreak!"" - The first enemy killed in a battle releases a gas cloud that poisons nearby enemies in small radius. Affected enemies will also release gas upon death, spreading the effect. This gas is not permanent, existing only for a short moment."
+41,Playdough Cookie,150 CP,The Binding of Isaac,"""Tasty rainbow."" - This perk let's you turn your shots multicolored. Each color comes with a different status or tear effect applied to the shot. Colours and effects for each projectile is random, when active."
+42,Steam Sale,300 CP,The Binding of Isaac,"""50% off"". - This is a metaperk. Your next perk roll will have its price automatically cut in half. For example, reducing a 100 CP perk to 50 CP. Perks that cost 50 CP or less become free. If your next roll results in a free perk, Steam Sale does not apply this way. Afterward, there is a 10% chance that all perks purchased following Steam Sale first trigger will also be 50% off by the same rules as the first one was."
+43,Restock,500 CP,The Binding of Isaac,"""Never ending stores!"" - This is a metaperk that allows you to purchase subsequently rolled perks multiple times for one roll. Each additional copy costs 200 CP more than the last. Perks bought this way will stack or fuse to increase their quality or quantity. You may also choose to buy the perk repeatedly as separate ""copies"" to give away later. For example, if your next roll is a free perk, you could purchase it again for 200 CP, then again for 400 CP, and so on - either stacking the effects with what you already have or holding them to distribute later. Restock does not affect other metaperks, nor does it function if the rolled perk can already be purchased multiple times as part of its normal function."
+44,,,,
+45,,,,
+46,,,,
+47,,,,
+48,,,,
+49,,,,
+50,,,,
+51,,,,
+52,,,,
+53,,,,
+54,,,,
+55,,,,
+56,,,,
+57,,,,
+58,,,,
+59,,,,
+60,,,,
+61,,,,
+62,,,,
+63,,,,
+64,,,,
+65,,,,
+66,,,,
+67,,,,
+68,,,,
+69,,,,
+70,,,,
+71,,,,
+72,,,,
+73,,,,
+74,,,,
+75,,,,
+76,,,,
+77,,,,
+78,,,,
+79,,,,
+80,,,,
+81,,,,
+82,,,,
+83,,,,
+84,,,,
+85,,,,
+86,,,,
+87,,,,
+88,,,,
+89,,,,
+90,,,,
+91,,,,
+92,,,,
+93,,,,
+94,,,,
+95,,,,
+96,,,,
+97,,,,
+98,,,,
+99,,,,
+100,,,,
+101,,,,
+102,,,,
+103,,,,
+104,,,,
+105,,,,
+106,,,,
+107,,,,
+108,,,,
+109,,,,
+110,,,,
+111,,,,
+112,,,,
+113,,,,
+114,,,,
+115,,,,
+116,,,,
+117,,,,
+118,,,,
+119,,,,
+120,,,,
+121,,,,
+122,,,,
+123,,,,
+124,,,,
+125,,,,
+126,,,,
+127,,,,
+128,,,,
+129,,,,
+130,,,,
+131,,,,
+132,,,,
+133,,,,
+134,,,,
+135,,,,
+136,,,,
+137,,,,
+138,,,,
+139,,,,
+140,,,,
+141,,,,
+142,,,,
+143,,,,
+144,,,,
+145,,,,
+146,,,,
+147,,,,
+148,,,,
+149,,,,
+150,,,,
+151,,,,
+152,,,,
+153,,,,
+154,,,,
+155,,,,
+156,,,,
+157,,,,
+158,,,,
+159,,,,
+160,,,,
+161,,,,
+162,,,,
+163,,,,
+164,,,,
+165,,,,
+166,,,,
+167,,,,
+168,,,,
+169,,,,
+170,,,,
+171,,,,
+172,,,,
+173,,,,
+174,,,,
+175,,,,
+176,,,,
+177,,,,
+178,,,,
+179,,,,
+180,,,,
+181,,,,
+182,,,,
+183,,,,
+184,,,,
+185,,,,
+186,,,,
+187,,,,
+188,,,,
+189,,,,
+190,,,,
+191,,,,
+192,,,,
+193,,,,
+194,,,,
+195,,,,
+196,,,,
+197,,,,
+198,,,,
+199,,,,
+200,,,,
+201,,,,
+202,,,,
+203,,,,
+204,,,,
+205,,,,
+206,,,,
+207,,,,
+208,,,,
+209,,,,
