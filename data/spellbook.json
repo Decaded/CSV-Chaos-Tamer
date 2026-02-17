@@ -725,6 +725,242 @@
   ],
   "3": [
     {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 1,
+      "cost": 200,
+      "name": "Gringotts Vault",
+      "source": "Slytherin Jump",
+      "description": "Gringotts Wizarding Bank is the only wizarding bank in Great Britain, and is owned and operated by goblins. Many wizarding families have their own vault, and now so do you. Located within the deepest parts of the bank itself and protected by a blind dragon and several protections known only to the goblins of Gringotts, your vault contains a veritable boatload of galleons, sickles, knuts, and precious gems such as diamonds, rubies, and emeralds. You’re now wealthy enough to live in absolute luxury for several hundred years. As a free complimentary service, Gringotts also offers a currency exchange service, allowing you to to exchange your wizarding wealth for any other currency. This vault while part of the bank is also in an extra-dimensional space you can access through any door using your key",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 2,
+      "cost": 600,
+      "name": "Slytherin’s Locket ",
+      "source": "Slytherin’s Locket ",
+      "description": "A golden locket decorated with a serpentine S in glittering green stone inlay on the front, originally owned by none other than Salazar Slytherin himself. It is said that it contains all kinds of magical powers, but that it will only allow itself to be used by those who speak the serpent’s tongue. Should you be capable of such, then the locket will reveal its true power to you. It will allow you to imbue it with a small part of your soul. This ensures that should you somehow shuffle off this mortal coil someone will pick up the locket and be compelled to bring you back to life through a profane ritual within the next few weeks. This ritual does destroy the locket in the process, but curiously you will find it restored to perfect condition at the end of the Jump or after ten years, whichever comes first.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 3,
+      "cost": 100,
+      "name": "Galleon Pouch ",
+      "source": "Hogwarts Legacy",
+      "description": "A large sack full of a hundred galleons. A modest fortune by the standards of the time (keeping in mind the prices in the game are inflated by roughly a factor of 100 to 200 times what they would actually be). This sack will gain one hundred more galleons each month.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 4,
+      "cost": 200,
+      "name": "Pensieve ",
+      "source": "Hogwarts Legacy",
+      "description": "A special enchanted device that can allow memories to be replayed in impossible detail. The basin comes with a plinth to sit on, which has a hidden storage compartment with a hundred specially prepared vials, each of which can securely hold a memory for later viewing. Also comes with an enchanted eyedropper that can allow anyone, even Muggles, to safely extract a memory for viewing.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 5,
+      "cost": 200,
+      "name": "Watchful Chest",
+      "source": "Hogwarts Legacy",
+      "description": "A large chest with a large eye in the place of a lock, which has also been fitted with a set of wheels on the bottom, allowing it to wheel itself around. This chest is hardened against unlocking spells, and its eye has been enchanted, allowing it to see through invisibility spells. It will only open itself for you and those you explicitly tell it to allow access.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 6,
+      "cost": 400,
+      "name": "Sealed Repository ",
+      "source": "Hogwarts Legacy",
+      "description": "A large set of rings, made out of Goblin Silver and filled to the brim with Ancient Magic. Unlike the repositories that the Keepers guard, this repository is not tainted with negative emotions, but is instead a source of pure magic. It is possible for you to draw out this magic to empower yourself or link it into enchantments and wards to greatly empower them, even if you don't have the ability to see Ancient Magic natively. With such a power, you could use this power even more precisely. The energy within the repository will regenerate over time if used.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 7,
+      "cost": 100,
+      "name": "Room Of Lost Things ",
+      "source": "Hogwarts Legacy",
+      "description": "A room filled with the remnants of a great deal of broken and discarded items, ranging from furniture to decorations to chests to books. Hidden among the random junk can be potential treasures that are still valuable, simply lost. Over time, newly ‘lost’ items will appear within the room.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 8,
+      "cost": 200,
+      "name": "Philosopher’s Stone ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "You could have made this on your own, but maybe you don’t have the patience, or you’d like a sample to reverse engineer, or you’d just prefer the security of a fiat-backed item that’ll make its way back to your warehouse if lost or stolen. Anyway, the philosopher's stone is an artifact that allows one to translate base metals into pure gold and that produces the elixir of life, a potion that restores the drinkers to their full strength and can make them immortal if consumed regularly and continuously. Supplemental materials likewise imply that it will increase your power and skill in regard to alchemy and its component disciplines. Now the prequel films seem to imply that the elixir merely slows aging rather than stopping it or restoring youth but plenty of fanfics predate that reveal and do depict it deaging you to the prime of your youth so this version does.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 9,
+      "cost": 600,
+      "name": "Ring of Lordship ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "You’ve inherited, by blood, adoption, or conquest, a dozen or so noble titles of various ranks tied to various families of various levels of prestige and this ring will prove it to anyone who sees it on your finger. Not only that, but your noble heritage somehow gives you the power to vote in the legislative bodies of whatever nation you currently reside in even if you are only a child and the legislature has nothing to do with nobility. Even if nobility isn’t recognized in that nation. Not only that, you get multiple votes. How many? Enough to be a considerable power block by yourself but not enough to be a decisive majority. You may also appoint proxies to vote for you if you’d rather not attend sessions in person.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 10,
+      "cost": 0,
+      "name": "Gold Galleons",
+      "source": "Harry Potter Movie Series",
+      "description": "For Free you will gain £1,000 worth of wizarding currency broken down into the following amounts: ● 4,930 Bronze Knuts ● 170 Silver Sickles ● 180 Golden Galleons",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 11,
+      "cost": 600,
+      "name": "Cloak of Invisibility ",
+      "source": "Harry Potter Movie Series",
+      "description": "A magical artefact used to render the wearer invisible, it can be one of the rare commercially available invisibility cloaks or take the place of the fabled Deathly Hallow though lacking the tracking and compulsion charms the original had. In Jump this can become an independent copy or it can replace the Cloak of Invisibility, absorbing it and either appearing in its place or in your possession.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 12,
+      "cost": 400,
+      "name": "Mirror of Erised ",
+      "source": "Harry Potter Movie Series",
+      "description": "The Mirror of Erised is a magical mirror that shows the viewer their deepest and most desperate desire that is held in their heart. The mirror is also enchanted so that it can store and perfectly hide anything within it and set conditions for others to access the Items within, such as only those who seek the Item but do not plan to use it may retrieve it.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 13,
+      "cost": 600,
+      "name": "Sword of Godric Gryffindor ",
+      "source": "Harry Potter Movie Series",
+      "description": "A goblin-made magical sword owned by the famed wizard Godric Gryffindor, this sword can be used as a wand and because it is made from goblin's silver, it strengthens itself with what it touches meaning it never requires cleaning and is imbued with Basilisk venom.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 14,
+      "cost": 600,
+      "name": "Resurrection Stone",
+      "source": "Harry Potter Movie Series",
+      "description": "This glass-like Stone engraved with the Peverell coat of arms is fitted into a golden ring.Unlike the original, this one does not harm you if you wear it. It has the power to resurrect the spirits of the deceased as summoned shades that are more physically solid than a ghost but less so than a living body. These shades produce a repelling effect against Dementors and other soul-consuming beings; except yourself if you are able to consume souls.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 15,
+      "cost": 600,
+      "name": "Hufflepuff's Cup ",
+      "source": "Harry Potter Movie Series",
+      "description": "This small golden badger engraved cup was enchanted by Helga Hufflepuff to be an internally isolated space and perform a permanent transmutation. This method of transmutation allows you to convert any liquid into any other type of liquid, even those that don't exist in-universe and thereby surpass Gamp's Law of Elemental Transfiguration. Through this you could convert water into blood, vinegar, wine and even liquid gold with none of it sticking to the inside when poured out. Once a liquid has left the cup the magic keeping it in liquid state will end and may cause an exothermic or endothermic reaction. In Jump this can become an independent copy or it can replace Voldemort's Horcrux, destroying it and either appearing in its place or in your possession.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 16,
+      "cost": 600,
+      "name": "Rowena Ravenclaw's Diadem",
+      "source": "Harry Potter Movie Series",
+      "description": "This diadem is often said to enhance the wisdom of its wearer, however in truth it does far more than that. While being worn the diadem clears the user’s mind of all distractions, allowing them clarity of thought, and increases their perception of events, allowing them longer to think in the same span of time. The diadem also grants the user a form of photographic memory which allows them to call up anything they have ever known and retain any knowledge they gain whilst wearing the diadem perfectly once it has been removed. In Jump this can become an independent copy or it can replace Voldemort's Horcrux, destroying it and either appearing in its place or in your possession.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 17,
+      "cost": 600,
+      "name": "Elder Wand ",
+      "source": "Harry Potter Movie Series",
+      "description": "This wand is more than just a focus, it is an amplifier allowing any spells cast using it be ten times stronger than a regular wand. While holding this wand you also gain the collective magical knowledge of everyone who has ever used this wand or been defeated by it, though in order to retain the information you will need to hold the Elder Wand and practice using a regular wand. You have truly earned the loyalty of this wand, and so it will take no other master. In Jump this can become an independent copy or it can replace the Elder Wand, absorbing it and either appearing in its place or in your possession.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 18,
+      "cost": 300,
+      "name": "Goblin Forged Blade",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "Blade forged of silver by a Goblin, never tarnishes, dulls, or breaks, and takes in anything that would make the blade stronger.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 19,
+      "cost": 100,
+      "name": "\"Great Gold Coins The Size Of Hubcaps\"",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "Gain 500 Galleons (or same Value in the local Equivalent) on September 1st every Year.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 20,
+      "cost": 200,
+      "name": "Crown of Mneme ",
+      "source": "Wizarding World Jumpchain",
+      "description": "You may have heard of the Deathly Hallows, objects of such power that wizards and witches have killed to obtain them for centuries. If so, you probably aren’t surprised to learn that there are more artifacts of great power to be found in this world, even if they aren’t as mighty as the Deathly Hallows. Created by Dai Ryusaki, a professor of Mahoutokoro, many centuries ago, the Crown of Mneme can be considered a Legilimen’s best friend. Even a novice in the mental arts will find themselves possessing considerable skill in Legilimency once this crown rests on their head. Originally intended as a medical device of sorts, the Crown of Mneme will do more than bolster your skill in Legilimency. With this crown, masters of Legilimency will even be able to recreate one of the Unforgivable Curses, being fully capable of controlling the weak-minded so long as they focus.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 21,
+      "cost": 400,
+      "name": "Deluminator",
+      "source": "Wizarding World Jumpchain",
+      "description": "Now just how did you get your hands on this? This little thing, resembling a rather fancy cigarette lighter, is the Deluminator and it is the proud creation of one Albus Dumbledore, quite possibly the greatest wizard of the modern age. Fittingly enough, this device is quite powerful indeed. At the most basic level, the Deluminator can take away and put back light from any source, whether it be technological or magical. Second, whenever your name is mentioned in a conversation, the Deluminator will play back a snippet of the conversation to you. Activate the Deluminator at this point and you will safely be apparated into location, enough to ensure that you may never be separated from your friends again. Finally, there is the Deluminator’s most powerful ability. With this, you may transport yourself and others into a mirror dimension of sorts. Within this world, you may battle to your heart’s content, with no risk to the people and the world beyond. Albus Dumbledore truly was a genius if he could make something like this. Why not follow in his footsteps, at least in this regard?",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 22,
+      "cost": 400,
+      "name": "Goblin Armor",
+      "source": "Wizarding World Jumpchain",
+      "description": "Whatever wizards and witches may believe about goblins, fools dare to underestimate them at their own peril. Look no further than their craftsmanship, a skill so heavily guarded by goblins and vaunted by witches and wizards across the world. Clad yourself in this armor and witness for yourself just how mighty a goblin can be. Forged from goblin silver, this magnificent set of armor has been enhanced with magic beyond what goblins are ordinarily capable of. You see, by channeling your own magic through the armor like you would with a wand, the silver shall glow a malevolent red as the corrupted ancient magic within come to life. Not only will you have a hefty resistance against most spells, almost equal to what a proper Shield Charm can provide, but so long as you continue to channel your magic through the armor, you will have a vast array of newfound abilities to use against your foes.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 23,
+      "cost": 200,
+      "name": "Ryusaki’s Amulet ",
+      "source": "Wizarding World Jumpchain",
+      "description": "Apparently, Dai Ryusaki was not content with simply creating one magnificent artifact that could stand the test of time. In truth, this amulet was not purposefully made. Rather, in the throes of his final moments, Ryusaki cursed it, infusing with all the rage and hate burning in his soul, forever turning the once bright and beautiful amulet into a thing of darkness. While wearing the amulet, you will find it slightly easier to use abilities of a darker nature but you will quickly find that is not where its true power lies. For you see, this amulet shows its true colors when worn by another, one that might not be so inclined to the Dark Arts. When worn by another, the curse upon the amulet shall make itself known. Within moments, it shall begin to influence the wearer’s mind. Day by day, the wearer’s will shall be tested and they will find themselves more and more willing to use the Dark Arts. And when their path towards the Dark is complete, the amulet shall leave their clutches and find its way back to you. And the best part? Unless they know about the amulet’s curse, they’ll never even notice that they’ve found themselves on a darker path. Like moths to a flame, or clay to be molded, by you.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 24,
+      "cost": 200,
+      "name": "Skull-Hookah ",
+      "source": "Wizarding World Jumpchain",
+      "description": "While Dark relics don’t necessarily need to look the part, like the one above for example, this one certainly does. Bearing a heavy resemblance to the skull-hookah Gellert Grindelwald once possessed, this aged and yellowed skull has been emblazoned with engravings and markings of symbols of the Dark Arts and of your own. And much like Grindelwald’s own, you can use this skull to project the visions within your mind over a vast area, large enough to encompass a colosseum. Useful if you need to impress the masses or perhaps convince them of the righteousness of your cause. However, the skull has one more fascinating ability to it. If it is broken, either by your hands or that of another, the magic within the skull shall rush into the next spell you cast. In doing so, the might of this spell shall be massively improved. A fire that burns down a house, for example, will become one that shall burn down a town. Once broken, you will receive a new one at the start of the next week.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 25,
+      "cost": 100,
+      "name": "Liquid Wealth ",
+      "source": "Wizarding World Jumpchain",
+      "description": "Many pure-blood families carry with them centuries of history and with such age, comes wealth borne from the passing of time. And whether pure-blood or not, you’ve gotten your hands on a substantial amount of wealth indeed. 50,000 Galleons worth to be exact. Used wisely, this should be more than enough money for you to live off comfortably for the rest of your days, even without taking into account that you have magic and that you’ll be receiving this amount of money every ten years or so.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__line": 26,
+      "cost": 100,
+      "name": "Goblin Manager",
+      "source": "Generic Harry Potter Fanfiction",
+      "description": "This is a Goblin of the Gringotts clan, and has chosen to serve you as a loyal manager of your interests. An absolute financial genius, he is a master of both predatory and genuinely good lending, knows how to manipulate all the magical and muggle markets like the back of his hand, and has an unbelievably good eye for investment opportunities both muggle and magical. You can put him in charge of any and all money-related matters, be it balancing your personal chequebook or as the CEO of all your estates and businesses or running the Finance Ministry of your kingdom, and trust him to manage it all with superb brilliance. You won’t ever need to worry about money with this guy around. If you want he’ll also teach you and others his stuff, although getting as good as him might take a looong while, considering how he’s the Einstein, Hawking and Tesla put together of Finance.",
+      "chapter": "Gringotts"
+    }
+  ],
+  "4": [
+    {
       "__source": "Celestial Spellbook by Gothicjedi666 - Greenhouses",
       "__line": 1,
       "cost": 0,
@@ -977,7 +1213,7 @@
       "chapter": "Greenhouses"
     }
   ],
-  "4": [
+  "5": [
     {
       "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
       "__line": 1,
@@ -1339,243 +1575,369 @@
       "chapter": "Hogwarts"
     }
   ],
-  "5": [
+  "6": [
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 1,
-      "cost": 200,
-      "name": "Gringotts Vault",
-      "source": "Slytherin Jump",
-      "description": "Gringotts Wizarding Bank is the only wizarding bank in Great Britain, and is owned and operated by goblins. Many wizarding families have their own vault, and now so do you. Located within the deepest parts of the bank itself and protected by a blind dragon and several protections known only to the goblins of Gringotts, your vault contains a veritable boatload of galleons, sickles, knuts, and precious gems such as diamonds, rubies, and emeralds. You’re now wealthy enough to live in absolute luxury for several hundred years. As a free complimentary service, Gringotts also offers a currency exchange service, allowing you to to exchange your wizarding wealth for any other currency. This vault while part of the bank is also in an extra-dimensional space you can access through any door using your key",
-      "chapter": "Gringotts"
+      "cost": 0,
+      "name": "Dobby ",
+      "source": "Harry Potter Movie Series",
+      "description": "A male house-elf who served the Malfoy family. His masters were Dark Wizards who treated him cruelly. He would normally disobey his masters and try to warn Harry Potter of the plot to have the Chamber of Secrets reopened. Now he can become your new friend and companion or if you want you can choose another elf.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 2,
-      "cost": 600,
-      "name": "Slytherin’s Locket ",
-      "source": "Slytherin’s Locket ",
-      "description": "A golden locket decorated with a serpentine S in glittering green stone inlay on the front, originally owned by none other than Salazar Slytherin himself. It is said that it contains all kinds of magical powers, but that it will only allow itself to be used by those who speak the serpent’s tongue. Should you be capable of such, then the locket will reveal its true power to you. It will allow you to imbue it with a small part of your soul. This ensures that should you somehow shuffle off this mortal coil someone will pick up the locket and be compelled to bring you back to life through a profane ritual within the next few weeks. This ritual does destroy the locket in the process, but curiously you will find it restored to perfect condition at the end of the Jump or after ten years, whichever comes first.",
-      "chapter": "Gringotts"
+      "cost": 100,
+      "name": "He-Who-Must-Not-Be-Named ",
+      "source": "The Wizarding World Jump",
+      "description": "A reputation is a useful and powerful thing. Just ask Lord Voldemort himself. Or maybe not. He’s not exactly the most pleasant sort and depending on when you arrive, he’ll probably be quite indisposed. But regardless, despite how unpleasant he might be, there are quite a few things you could stand to learn from him. In this case, you’ve learned how to cultivate a reputation for yourself. Your endeavors seem to take on a life of their own, spreading throughout entire communities like Fiendfyre. Even more than that, tales of your deeds become almost exaggerated, such that, depending on what exactly you’ve done, they will praise your name or shun it to an almost unnatural degree for the sheer terror and awe it reminds them of. Just make sure you can live up to it, alright?",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 3,
       "cost": 100,
-      "name": "Galleon Pouch ",
-      "source": "Hogwarts Legacy",
-      "description": "A large sack full of a hundred galleons. A modest fortune by the standards of the time (keeping in mind the prices in the game are inflated by roughly a factor of 100 to 200 times what they would actually be). This sack will gain one hundred more galleons each month.",
-      "chapter": "Gringotts"
+      "name": "Muggles Don’t See Nothing, Do They?",
+      "source": "The Wizarding World Jump",
+      "description": "Hiding your magic from Muggles can sometimes be a difficult task, especially when they can be more perceptive than you might think. But for you, and with this, keeping your magic secret won’t be that big of a problem. In your presence, Muggles always seem to rationalize or even ignore minor uses of magic. For example, floating small objects or creating a bit of fire and light will be thought of as a clever use of strings and Muggle technology such as lighters and the like. Of course, this isn’t going to be quite as effective if you try and perform greater feats of magic such as setting an entire forest ablaze with nothing more than a stick in your hands. In that case, you better have one handy-dandy explanation ready for them.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 4,
-      "cost": 200,
-      "name": "Pensieve ",
-      "source": "Hogwarts Legacy",
-      "description": "A special enchanted device that can allow memories to be replayed in impossible detail. The basin comes with a plinth to sit on, which has a hidden storage compartment with a hundred specially prepared vials, each of which can securely hold a memory for later viewing. Also comes with an enchanted eyedropper that can allow anyone, even Muggles, to safely extract a memory for viewing.",
-      "chapter": "Gringotts"
+      "cost": 100,
+      "name": "Magical Compatibility ",
+      "source": "The Wizarding World Jump",
+      "description": "Despite whatever implications such a fact may entail, humanity here is capable of breeding with just about every other being to be found and quite a few beasts as well. And if you wish, so can you. By taking this, you will now be able to produce children with any other sapient being and quite a few beasts, no matter what they are. They could be something as massive as a giant or as small as a house-elf, it doesn’t really matter. You will be able to have children with it, in this world and the next. Giants, house-elves, centaurs, veela, and so many more. As a special bonus, a boon just for you, you now have the ability to control your own fertility.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 5,
-      "cost": 200,
-      "name": "Watchful Chest",
+      "cost": 100,
+      "name": "Map ",
       "source": "Hogwarts Legacy",
-      "description": "A large chest with a large eye in the place of a lock, which has also been fitted with a set of wheels on the bottom, allowing it to wheel itself around. This chest is hardened against unlocking spells, and its eye has been enchanted, allowing it to see through invisibility spells. It will only open itself for you and those you explicitly tell it to allow access.",
-      "chapter": "Gringotts"
+      "description": "The field guide contains an interactive map, covering all locations you have explored. It can mark significant landmarks, and expand three-dimensionally to display the interior spaces of buildings or caves or other structures.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 6,
-      "cost": 400,
-      "name": "Sealed Repository ",
+      "cost": 100,
+      "name": "Portrait Gallery ",
       "source": "Hogwarts Legacy",
-      "description": "A large set of rings, made out of Goblin Silver and filled to the brim with Ancient Magic. Unlike the repositories that the Keepers guard, this repository is not tainted with negative emotions, but is instead a source of pure magic. It is possible for you to draw out this magic to empower yourself or link it into enchantments and wards to greatly empower them, even if you don't have the ability to see Ancient Magic natively. With such a power, you could use this power even more precisely. The energy within the repository will regenerate over time if used.",
-      "chapter": "Gringotts"
+      "description": "A room that houses a few dozen portraits of various famous and accomplished witches and wizards. If you have a connection to Ancient Magic, this can include a couple of portraits of Keepers from the past. These portraits will be generally helpful and friendly and very willing to provide you with insight and advice. In new worlds, a few new portraits of famous historical figures, particularly those who know or are associated with magic, will be added to this gallery.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 7,
       "cost": 100,
-      "name": "Room Of Lost Things ",
-      "source": "Hogwarts Legacy",
-      "description": "A room filled with the remnants of a great deal of broken and discarded items, ranging from furniture to decorations to chests to books. Hidden among the random junk can be potential treasures that are still valuable, simply lost. Over time, newly ‘lost’ items will appear within the room.",
-      "chapter": "Gringotts"
+      "name": "Magical Cleanliness ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "The wizarding world’s culture and technology resembles a hodgepodge of time periods ranging from the medieval to the victorian with a few smatterings of modernity here and there. While cleaning spells and cleaning products exist, we do see examples of them going without use. Additionally... Would you want to be stuck using only public lavatories and bathing facilities for most of a year if you had a choice? This perk ensures that every part of your body down to your very pores is always perfectly clean and expertly groomed. Additionally, you no longer need to excrete. This perk can be freely shared with all of your Companions, Followers, and so on.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 8,
-      "cost": 200,
-      "name": "Philosopher’s Stone ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "You could have made this on your own, but maybe you don’t have the patience, or you’d like a sample to reverse engineer, or you’d just prefer the security of a fiat-backed item that’ll make its way back to your warehouse if lost or stolen. Anyway, the philosopher's stone is an artifact that allows one to translate base metals into pure gold and that produces the elixir of life, a potion that restores the drinkers to their full strength and can make them immortal if consumed regularly and continuously. Supplemental materials likewise imply that it will increase your power and skill in regard to alchemy and its component disciplines. Now the prequel films seem to imply that the elixir merely slows aging rather than stopping it or restoring youth but plenty of fanfics predate that reveal and do depict it deaging you to the prime of your youth so this version does.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 9,
-      "cost": 600,
-      "name": "Ring of Lordship ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "You’ve inherited, by blood, adoption, or conquest, a dozen or so noble titles of various ranks tied to various families of various levels of prestige and this ring will prove it to anyone who sees it on your finger. Not only that, but your noble heritage somehow gives you the power to vote in the legislative bodies of whatever nation you currently reside in even if you are only a child and the legislature has nothing to do with nobility. Even if nobility isn’t recognized in that nation. Not only that, you get multiple votes. How many? Enough to be a considerable power block by yourself but not enough to be a decisive majority. You may also appoint proxies to vote for you if you’d rather not attend sessions in person.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 10,
-      "cost": 0,
-      "name": "Gold Galleons",
-      "source": "Harry Potter Movie Series",
-      "description": "For Free you will gain £1,000 worth of wizarding currency broken down into the following amounts: ● 4,930 Bronze Knuts ● 170 Silver Sickles ● 180 Golden Galleons",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 11,
-      "cost": 600,
-      "name": "Cloak of Invisibility ",
-      "source": "Harry Potter Movie Series",
-      "description": "A magical artefact used to render the wearer invisible, it can be one of the rare commercially available invisibility cloaks or take the place of the fabled Deathly Hallow though lacking the tracking and compulsion charms the original had. In Jump this can become an independent copy or it can replace the Cloak of Invisibility, absorbing it and either appearing in its place or in your possession.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 12,
-      "cost": 400,
-      "name": "Mirror of Erised ",
-      "source": "Harry Potter Movie Series",
-      "description": "The Mirror of Erised is a magical mirror that shows the viewer their deepest and most desperate desire that is held in their heart. The mirror is also enchanted so that it can store and perfectly hide anything within it and set conditions for others to access the Items within, such as only those who seek the Item but do not plan to use it may retrieve it.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 13,
-      "cost": 600,
-      "name": "Sword of Godric Gryffindor ",
-      "source": "Harry Potter Movie Series",
-      "description": "A goblin-made magical sword owned by the famed wizard Godric Gryffindor, this sword can be used as a wand and because it is made from goblin's silver, it strengthens itself with what it touches meaning it never requires cleaning and is imbued with Basilisk venom.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 14,
-      "cost": 600,
-      "name": "Resurrection Stone",
-      "source": "Harry Potter Movie Series",
-      "description": "This glass-like Stone engraved with the Peverell coat of arms is fitted into a golden ring.Unlike the original, this one does not harm you if you wear it. It has the power to resurrect the spirits of the deceased as summoned shades that are more physically solid than a ghost but less so than a living body. These shades produce a repelling effect against Dementors and other soul-consuming beings; except yourself if you are able to consume souls.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 15,
-      "cost": 600,
-      "name": "Hufflepuff's Cup ",
-      "source": "Harry Potter Movie Series",
-      "description": "This small golden badger engraved cup was enchanted by Helga Hufflepuff to be an internally isolated space and perform a permanent transmutation. This method of transmutation allows you to convert any liquid into any other type of liquid, even those that don't exist in-universe and thereby surpass Gamp's Law of Elemental Transfiguration. Through this you could convert water into blood, vinegar, wine and even liquid gold with none of it sticking to the inside when poured out. Once a liquid has left the cup the magic keeping it in liquid state will end and may cause an exothermic or endothermic reaction. In Jump this can become an independent copy or it can replace Voldemort's Horcrux, destroying it and either appearing in its place or in your possession.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 16,
-      "cost": 600,
-      "name": "Rowena Ravenclaw's Diadem",
-      "source": "Harry Potter Movie Series",
-      "description": "This diadem is often said to enhance the wisdom of its wearer, however in truth it does far more than that. While being worn the diadem clears the user’s mind of all distractions, allowing them clarity of thought, and increases their perception of events, allowing them longer to think in the same span of time. The diadem also grants the user a form of photographic memory which allows them to call up anything they have ever known and retain any knowledge they gain whilst wearing the diadem perfectly once it has been removed. In Jump this can become an independent copy or it can replace Voldemort's Horcrux, destroying it and either appearing in its place or in your possession.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 17,
-      "cost": 600,
-      "name": "Elder Wand ",
-      "source": "Harry Potter Movie Series",
-      "description": "This wand is more than just a focus, it is an amplifier allowing any spells cast using it be ten times stronger than a regular wand. While holding this wand you also gain the collective magical knowledge of everyone who has ever used this wand or been defeated by it, though in order to retain the information you will need to hold the Elder Wand and practice using a regular wand. You have truly earned the loyalty of this wand, and so it will take no other master. In Jump this can become an independent copy or it can replace the Elder Wand, absorbing it and either appearing in its place or in your possession.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 18,
-      "cost": 300,
-      "name": "Goblin Forged Blade",
-      "source": "Hogwarts Professor Jumpchain",
-      "description": "Blade forged of silver by a Goblin, never tarnishes, dulls, or breaks, and takes in anything that would make the blade stronger.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
-      "__line": 19,
       "cost": 100,
-      "name": "\"Great Gold Coins The Size Of Hubcaps\"",
-      "source": "Hogwarts Professor Jumpchain",
-      "description": "Gain 500 Galleons (or same Value in the local Equivalent) on September 1st every Year.",
-      "chapter": "Gringotts"
+      "name": "Put your best foot forward -",
+      "source": "Harry Potter Movie Series",
+      "description": "You possess mastery over the art of dancing, being capable of intuitively understanding the rhythm of sound and flawlessly performing any type of danc These methods of dance can include classical dances such as ballet as well as freestyle dance types such as hip-hop.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 9,
+      "cost": 100,
+      "name": "Nymphadora Tonks ",
+      "source": "Harry Potter Movie Series",
+      "description": "You gain Nymphadora Tonks, a Hogwarts graduate who is currently an Auror under the watchful eye of Alastor Moody. Tonks is a Metamorphmagus allowing her to alter her physical appearance at will and a descendant of the Black family despite her mother being disowned.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 10,
+      "cost": 100,
+      "name": "What about your activities outside the classroom",
+      "source": "Harry Potter Movie Series",
+      "description": "You have gained a certain romantic intuition allowing you to tell when someone is attracted to you as well as how deep and sincere their emotions are. This also passively improves the quality of any dates you plan and gives you a minor luck boost during the date itself.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 11,
+      "cost": 100,
+      "name": "Half-Veela",
+      "source": "Harry Potter Movie Series",
+      "description": "As a Veela descendent you are considerably more beautiful than average humans and possess the innate Veela magic used to entrance others and make beings far more attracted to them. With this Perk you will be able to replicate a Full-blooded Veela’s ability to transform into a harpy-like creature and to throw fireball",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 12,
+      "cost": 100,
+      "name": "The Family Watch",
+      "source": "Wizarding World Jump",
+      "description": "It is a tradition amongst witches and wizards that they be given a watch when they come of age at seventeen years old. And while you may not be of this world, that does not mean that you cannot partake in its traditions and culture. Perhaps that is why you have this ornate and fanciful golden pocket watch, something you might consider as a gift from your benefactor, whoever they may be. And as always, this watch of yours is far from ordinary. You see, unlike a regular watch, this watch is not meant to tell the time and its hands represent neither the minute nor the hour. Rather, each hand is meant a representation of you and your trusted Companions. Like a certain redheaded family’s clock, the numbers on it have been changed to locations such as “home”, “school”, “work”, “prison”, “lost”, “mortal peril”, and many more. So long as this watch is by your side, you will always be aware of where your Companions might be and if they would be in need of your help. If you do need to use it as an actual timekeeping device, just press the button on its side and the watch’s face shall shift and change to show you the time. It’s perfectly accurate as well so you don’t need to worry about being late.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 13,
+      "cost": 100,
+      "name": "Lingua Franca",
+      "source": "Wizarding World Jump",
+      "description": "There are thousands of languages spoken throughout the world and that only includes the Muggle world. The magical side of things has even more languages to offer such as Mermish and Gobbledegook. It can all make things very confusing but luckily for you, you have a knack for linguistics. Regardless of the language, you can pick it up very well, enough that you could learn the basics of a language by the end of a day and speak it fluently by the week’s end. If you do this right, you could even gain a bit of respect from the notoriously stingy Goblins of Gringotts.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 14,
+      "cost": 200,
+      "name": "Metamorphmagus",
+      "source": "The Wizarding World Jump",
+      "description": "A Metamorphmagus is someone who was born with a rather rare magical ability. More specifically, they are people born with the ability to change their physical appearance through will alone, requiring neither spells nor potions, unlike the rest of the world. As mentioned before, it is rather rare but fortunately for you, you are a Metamorphmagus now. The extent of your new abilities allows you to mimic the size and shape of just about anyone, be they someone as beautiful as the lovely Veela or someone as grizzled and battle-damaged as one Mad-Eye Moody. In fact, you already have enough skill that you can even form parts of your body to things that are not entirely human, things such as a duck’s bill for a mouth, just as an example. With a bit more creativity, who knows what you could do in the future?",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 15,
+      "cost": 200,
+      "name": "Emancipated Minor ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "A number of Fanfics have Harry, either through his own actions or as a side effect of some other thing that happened in the fic, becoming legally recognized as an adult with all attendant rights and responsibilities. Usually at 15, but often at 14 or even younger. With this perk, you will always be considered an adult in all legal, supernatural, and social situations no matter your actual age or physical appearance whenever it would be to your benefit. You will also have ready access to valid legal documentation of your adulthood should you need it.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 16,
+      "cost": 200,
+      "name": "Made to Last ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "Something about the ambient magic around Hogwarts, and only Hogwarts in canon for some reason, futzes with electronics but you’ll never notice as ‘anti-technology’ effects never seem to apply to your possessions. Likewise, magic items in your possession seem to shrug off anti-magic.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 17,
+      "cost": 200,
+      "name": "Charming",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "You're charismatic in an easy-going way, fun to be around, easy to get along with, and pretty skilled when it comes to making new friends or seducing romantic partners. In particular, you're rather talented at getting past the shells and walls others put up and getting them to reveal their true self to you.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 18,
+      "cost": 200,
+      "name": "It’ll taste fine all the same ",
+      "source": "Harry Potter Movie Series",
+      "description": "You are a damn good cook and anything you make will taste good and remain unspoiled even if it goes through less than sanitary storage conditions, so no need to worry about food poisoning.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 19,
+      "cost": 200,
+      "name": "The Tales of Beedle the Bard",
+      "source": "Harry Potter Movie Series",
+      "description": "This book of children's stories updates itself each Jump in order to contain new in-Jump fairy tales native to that Jump’s universe. It is also guaranteed to contain at least one fairy tale relevant to the plot.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 20,
       "cost": 200,
-      "name": "Crown of Mneme ",
-      "source": "Wizarding World Jumpchain",
-      "description": "You may have heard of the Deathly Hallows, objects of such power that wizards and witches have killed to obtain them for centuries. If so, you probably aren’t surprised to learn that there are more artifacts of great power to be found in this world, even if they aren’t as mighty as the Deathly Hallows. Created by Dai Ryusaki, a professor of Mahoutokoro, many centuries ago, the Crown of Mneme can be considered a Legilimen’s best friend. Even a novice in the mental arts will find themselves possessing considerable skill in Legilimency once this crown rests on their head. Originally intended as a medical device of sorts, the Crown of Mneme will do more than bolster your skill in Legilimency. With this crown, masters of Legilimency will even be able to recreate one of the Unforgivable Curses, being fully capable of controlling the weak-minded so long as they focus.",
-      "chapter": "Gringotts"
+      "name": "Floo Flame Network",
+      "source": "Wizarding World Jump",
+      "description": "Ah, Floo powder. What would wizards do without it? First invented by one Ignatia Wildsmith in the 13th century, Floo powder is what allows the Floo Network to work. Through the Floo Network, instantaneous transportation across the entire world becomes possible for just about everyone, even for those who have not yet learned the dangerous art of Apparition. With this, the Floo Network shall follow you wherever you go. First, you are now in possession of the recipe for Floo powder, a secret that has been kept safe for centuries. Not only that, but you also have a small box of the stuff, one that will never run out, no matter how much you take from it. Following that, every property of yours will now be connected to each other through a Floo Network, letting you travel across them with just a scoop of powder. But more importantly, what you have now are the instructions to create your very own Floo Network. With this, you have the choice of adding the new locations to your already existing network or creating a new one separate from those before it. You won’t even need a fireplace. The uses of this should be rather obvious, don’t you think so?",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 21,
       "cost": 400,
-      "name": "Deluminator",
-      "source": "Wizarding World Jumpchain",
-      "description": "Now just how did you get your hands on this? This little thing, resembling a rather fancy cigarette lighter, is the Deluminator and it is the proud creation of one Albus Dumbledore, quite possibly the greatest wizard of the modern age. Fittingly enough, this device is quite powerful indeed. At the most basic level, the Deluminator can take away and put back light from any source, whether it be technological or magical. Second, whenever your name is mentioned in a conversation, the Deluminator will play back a snippet of the conversation to you. Activate the Deluminator at this point and you will safely be apparated into location, enough to ensure that you may never be separated from your friends again. Finally, there is the Deluminator’s most powerful ability. With this, you may transport yourself and others into a mirror dimension of sorts. Within this world, you may battle to your heart’s content, with no risk to the people and the world beyond. Albus Dumbledore truly was a genius if he could make something like this. Why not follow in his footsteps, at least in this regard?",
-      "chapter": "Gringotts"
+      "name": "Inner Eye",
+      "source": "The Wizarding World Jump",
+      "description": "Magic blesses witches and wizards in different ways. Some are blessed with great skill in varying subjects, from Transfiguration to Charms and more. Others receive more unique talents such as the Metamorphagi or the ability to speak the language the snakes. And with this, it seems that magic has blessed you with the ability to see into the future. Magic has made you a Seer. For now, as a Seer, your only visions of the future come during trances, periods of time wherein you slip into a fugue state and speak out your prophecies in a different voice than normal. Unlike a certain other Seer however, you have the ability to go into these trances on purpose but even still, you will have only a foggy recollection of your visions and prophecies. Over time however, with the more practice and experience you have with this newfound magic of yours, you will come to possess greater control. In time, your predictions shall be made far clearer, more precise. In time, they will no longer be prophecies but visions. Visions as plain to your Inner Eye as the colors of the world are to men and women across the world. And as always, it would be best to remember that the future is never truly set in stone.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 22,
       "cost": 400,
-      "name": "Goblin Armor",
-      "source": "Wizarding World Jumpchain",
-      "description": "Whatever wizards and witches may believe about goblins, fools dare to underestimate them at their own peril. Look no further than their craftsmanship, a skill so heavily guarded by goblins and vaunted by witches and wizards across the world. Clad yourself in this armor and witness for yourself just how mighty a goblin can be. Forged from goblin silver, this magnificent set of armor has been enhanced with magic beyond what goblins are ordinarily capable of. You see, by channeling your own magic through the armor like you would with a wand, the silver shall glow a malevolent red as the corrupted ancient magic within come to life. Not only will you have a hefty resistance against most spells, almost equal to what a proper Shield Charm can provide, but so long as you continue to channel your magic through the armor, you will have a vast array of newfound abilities to use against your foes.",
-      "chapter": "Gringotts"
+      "name": "Ancient Magic ",
+      "source": "The Wizarding World Jump",
+      "description": "Magic is much like knowledge. Over the years, it is only natural for magic to become lost to the sands of time, to never again be learnt by the likes of ordinary witches and wizards. But you, you are certainly the farthest possible from ordinary. Like few others before you, the potential to manipulate ancient magic is now within your grasp. With it, you will soon be capable of magic beyond the pale. Bringing forth rain and life to an entire valley suffering from the harshest drought shall be the least of what you can do. But the keyword here is potential. In this budding state of yours, all you can do for now is simply the detection of traces of ancient magic and then use said magic to perform devastating attacks against your foes. And though your newfound abilities have bolstered even the growth of what others may call regular magic, that is not even close to where your limits lie. To truly reach your new limits, you must find ways to learn, people to teach you, and records to study. Do not think that this shall be an easy task. Depending on when you begin your journey, it could be centuries since ancient magic was last wielded.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 23,
-      "cost": 200,
-      "name": "Ryusaki’s Amulet ",
-      "source": "Wizarding World Jumpchain",
-      "description": "Apparently, Dai Ryusaki was not content with simply creating one magnificent artifact that could stand the test of time. In truth, this amulet was not purposefully made. Rather, in the throes of his final moments, Ryusaki cursed it, infusing with all the rage and hate burning in his soul, forever turning the once bright and beautiful amulet into a thing of darkness. While wearing the amulet, you will find it slightly easier to use abilities of a darker nature but you will quickly find that is not where its true power lies. For you see, this amulet shows its true colors when worn by another, one that might not be so inclined to the Dark Arts. When worn by another, the curse upon the amulet shall make itself known. Within moments, it shall begin to influence the wearer’s mind. Day by day, the wearer’s will shall be tested and they will find themselves more and more willing to use the Dark Arts. And when their path towards the Dark is complete, the amulet shall leave their clutches and find its way back to you. And the best part? Unless they know about the amulet’s curse, they’ll never even notice that they’ve found themselves on a darker path. Like moths to a flame, or clay to be molded, by you.",
-      "chapter": "Gringotts"
+      "cost": 400,
+      "name": "Wandless Magic",
+      "source": "Hogwarts Legacy",
+      "description": "You have the ability to cast any spell you know without a wand. Spells cast this way will be generally weaker and less controlled than they would be with a proper focus, but this ability ensures that you are at far less risk if you are disarmed. However, this can function as a training aid, as, if you practice casting spells wandlessly and improve their performance, you’ll find those spells have a distinct boost when performed with an actual wand.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 24,
-      "cost": 200,
-      "name": "Skull-Hookah ",
-      "source": "Wizarding World Jumpchain",
-      "description": "While Dark relics don’t necessarily need to look the part, like the one above for example, this one certainly does. Bearing a heavy resemblance to the skull-hookah Gellert Grindelwald once possessed, this aged and yellowed skull has been emblazoned with engravings and markings of symbols of the Dark Arts and of your own. And much like Grindelwald’s own, you can use this skull to project the visions within your mind over a vast area, large enough to encompass a colosseum. Useful if you need to impress the masses or perhaps convince them of the righteousness of your cause. However, the skull has one more fascinating ability to it. If it is broken, either by your hands or that of another, the magic within the skull shall rush into the next spell you cast. In doing so, the might of this spell shall be massively improved. A fire that burns down a house, for example, will become one that shall burn down a town. Once broken, you will receive a new one at the start of the next week.",
-      "chapter": "Gringotts"
+      "cost": 400,
+      "name": "Ancient Ruins ",
+      "source": "Hogwarts Legacy",
+      "description": "A large and sprawling ruin that is hidden from view from anyone other than you and those you bring with you. The ruin is filled with a variety of examples of forgotten magics and enchantments, as well as various rare and ancient texts scattered throughout it. In each new world you visit, the ruins will update with new examples and new ancient texts, as well as updating its structure to match ancient ruins from the new world.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 25,
-      "cost": 100,
-      "name": "Liquid Wealth ",
-      "source": "Wizarding World Jumpchain",
-      "description": "Many pure-blood families carry with them centuries of history and with such age, comes wealth borne from the passing of time. And whether pure-blood or not, you’ve gotten your hands on a substantial amount of wealth indeed. 50,000 Galleons worth to be exact. Used wisely, this should be more than enough money for you to live off comfortably for the rest of your days, even without taking into account that you have magic and that you’ll be receiving this amount of money every ten years or so.",
-      "chapter": "Gringotts"
+      "cost": 400,
+      "name": "Unbound Potential",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "Relating to the above bit of fanon is the idea of someone, usually the “Manipulative Headbastard,” placing ‘blocks’ or ‘limiters’ on Harry’s magical core for some inexplicable reason because biggatons are the only way some fic authors can think of to make Harry ‘better’ than canon. Regardless, that’s not something you’ll ever have to deal with, as you are categorically immune to any and all attempts to bind, restrict, suppress, drain, steal, or damage any aspects of your power or energy.",
+      "chapter": "The Wizarding World"
     },
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Gringotts",
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
       "__line": 26,
+      "cost": 400,
+      "name": "Jumper Manor",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "What we have here is a luxurious sprawling estate with many acres of land and housing and accommodations that would make a jaded out-of-touch billionaire immediately pauperize themselves to try and fail to buy a home better than yours. All the utilities are handled by magic and the kitchens are always perfectly stocked, magical constructs serve the roles of servants, and you effectively have arbitrary room for guests. The manor home proper has whatever luxuries you could possibly want, and it will magically update itself so that no matter what it will always at least make Malfoy Manor or homes owned/inhabited by similar characters look like a run-down one-room hovel next to the city dump, though obviously it’ll never downgrade.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 27,
+      "cost": 400,
+      "name": "Coffee Shop",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "Or a tea house, that general idea. A cozy little place, themed however you want, where people can purchase hot drinks and baked goods and just hang out for a while. It’s always conveniently located even if it makes no sense and no one will question it. Business is always good, thanks to the competent NPC staff, and as the owner you have access to a modest income from it as well as a comfortable set of seats around a permanently reserved table for you and your friends to always have a private chat. Also, your orders are always on the house which never hurts the profit margins.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 28,
+      "cost": 400,
+      "name": "Knight Bus ",
+      "source": "Harry Potter Movie Series",
+      "description": "This triple-decker, purple Bus can stretch and skew its size at a moment's notice, warping the perspective of those inside without causing any harm. This bus comes with an invisibility filter and a time dilator allowing it to speed up slow down time to make precise movements without ever being noticed. The bus also has an indicator for any stranded individuals of the wizarding community. Post-Jump this indicator will be able to pick up any friendly supernatural entity who is in need of aid. You can also summon this bus by holding your wand or hand up in the air. The bus comes with a follower driver and attendant who maintain the bus.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 29,
+      "cost": 400,
+      "name": "The Beauxbatons Carriage",
+      "source": "Harry Potter Movie Series",
+      "description": "This light-blue Carriage comes with a dozen Abraxans, Winged Horses that pull it through the sky. The Abraxans that pull it are a magical species of horse, distinct for possessing wings that enable them to fly, they also come with a toggleabe Disillusionment Charm that prevents onlookers from seeing them or the Carriage they pull. Despite the small size of the Carriage and its erratic movements in flight, the inside approximately the size and layout of an Airbus A340 with the journey feeling smooth and comfortable.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 30,
+      "cost": 400,
+      "name": "The Durmstrang Ship",
+      "source": "Harry Potter Movie Series",
+      "description": "This ship has a strange, skeletal look about it, looking similar to a 16th century Spanish galleon. This ship is self propelled and can travel underwater protecting its inhabitants with a protective bubble, and though magical means it can teleport from one large enough body of water to another almost instantly. Thanks to a few modifications this ship can also fly and its bubble can protect the ship from the void of space but would require further alterations to travel faster than light. The expanded space inside of the ship is large enough to have about a thousand people aboard it and keep them in luxurious comfort indefinitely, it is set up like a cruise ship but doesn't need any staff, it is self-cleaning, self-repairing and self-steering. Food, drink etc are all provided through self-refilling buffet tables in a massive dining room, each ro has its own full bathroom, a desk, chair and a king-sized bed.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 31,
+      "cost": 400,
+      "name": "I can make things move without touching them",
+      "source": "Harry Potter Movie Series",
+      "description": "You have an interesting knack for magical telekinesis allowing you to remotely move objects around with your mind without using a wand; like a muscle the more you use this the stronger it becomes.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 32,
+      "cost": 400,
+      "name": "Flying Motorcycle ",
+      "source": "Harry Potter Movie Series",
+      "description": "You may select between a white 1959 Triumph 650 T 120 Bonneville or a light blue Royal Enfield with optional sidecar. This motorcycle is enchanted to fly up to 300 MPH automatically resize itself to match whoever is riding it and has a protective barrier around it in order to keep an atmospheric shell around you, protecting you from the G-Forces of flight and even in the void of space.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 33,
+      "cost": 500,
+      "name": "Magic Bag ",
+      "source": "Harry Potter Movie Series",
+      "description": "This wonderful bag seems to have an infinite space within it that can store anything inside. Should you want to retrieve Items you can do so by putting your hand into the bag with intent to pull a specific Item out. No other may retrieve Items from this bag. You can also connect this to your warehouse in order to access the Items stored within as if they were in the bag.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 34,
+      "cost": 500,
+      "name": "I have to go back haven't I",
+      "source": "Harry Potter Movie Series",
+      "description": "Once per jump or once every 10 years you gain a 1-UP which activates when you die preventing a chain fail for that death unless you choose to stay dead. At this point your soul will appear in a white blurry variation of a place important to you In this location you will meet a version of Death who will have a short conversation with you, then you will be given the choice to come back to life or stay dead.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 35,
+      "cost": 600,
+      "name": "The Boy-Who-Lived -",
+      "source": "Harry Potter Movie Series",
+      "description": "No tool of instant death can end your life, neither the killing curse nor a mandrake cry, not even a staring contest with basilisk can kill you however these instant death techniques may leave you with a scar. Keep in mind you can still fall victim to any non-instant killing methods such as regular poison, mundane weapons or blood loss.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 36,
+      "cost": 600,
+      "name": "12 Grimmauld Place",
+      "source": "Harry Potter Movie Series",
+      "description": "The ancestral home of the Black family, located in the Borough of Islington, in London, within a Muggle neighbourhood, the building is protected by many wards, including a Fidelius Charm of which you are the secret keeper, preventing anyone you haven’t informed about the location from finding the building. Should you choose, you may chose to have these protections extended to other properties you own. Ignoring the normal provisions that would prevent a secret keeper from holding the secret of their own residence. As a side note, the Fidelius Charm over this property will remain with you as the sole secret keeper even should you die.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 37,
+      "cost": 600,
+      "name": "Prophecy Orb",
+      "source": "Harry Potter Movie Series",
+      "description": "At the start of each Jump this orb will light up and grant you a prophecy of your greatest problem that is to occur within the Jump, in the form of a poetic riddle. The prophecy will give you notes on how best to prepare for the problem and potential solutions.",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 38,
+      "cost": 600,
+      "name": "Have you ever heard of this spell",
+      "source": "Harry Potter Movie Series",
+      "description": "Probably not, as with this Perk you gain the understanding of how to break down every spell you know into its base components and reassemble them to do new things, such as breaking down and combining Lumos with Legilimency to shine memories against a wall like a film projector",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 39,
+      "cost": 600,
+      "name": "An Army of Stone and Steel ",
+      "source": "Harry Potter Movie Series",
+      "description": "This army of 100 stone statues and 100 suits of armour will follow your commands taking positions to act as inanimate decorations, only moving when you order them to. You can also convert any other mundane statues or suits of armour you own into more fiat-backed soldiers .",
+      "chapter": "The Wizarding World"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
+      "__line": 40,
       "cost": 100,
-      "name": "Goblin Manager",
-      "source": "Generic Harry Potter Fanfiction",
-      "description": "This is a Goblin of the Gringotts clan, and has chosen to serve you as a loyal manager of your interests. An absolute financial genius, he is a master of both predatory and genuinely good lending, knows how to manipulate all the magical and muggle markets like the back of his hand, and has an unbelievably good eye for investment opportunities both muggle and magical. You can put him in charge of any and all money-related matters, be it balancing your personal chequebook or as the CEO of all your estates and businesses or running the Finance Ministry of your kingdom, and trust him to manage it all with superb brilliance. You won’t ever need to worry about money with this guy around. If you want he’ll also teach you and others his stuff, although getting as good as him might take a looong while, considering how he’s the Einstein, Hawking and Tesla put together of Finance.",
-      "chapter": "Gringotts"
+      "name": "Curse of Defense",
+      "source": "Wizarding World Jump",
+      "description": "The post of Defense Against the Dark Arts within Hogwarts is said to be cursed and judging by the long, long line of teachers and professors being ousted from the position year after year, there is probably some merit to such a thing. But fortunately for you, that shouldn’t be too much of a problem. You see, unlike those poor folks, you’re quite good at keeping your job. Now, so long as you actually do your job properly, you will never get ousted from your position due to circumstances beyond your control. Hey, maybe you should apply for Hogwarts. They’re always looking for DADA teachers.",
+      "chapter": "The Wizarding World"
     }
   ],
-  "6": [
+  "7": [
     {
       "__source": "Celestial Spellbook by Gothicjedi666 - Knockturn Alley",
       "__line": 1,
@@ -1937,7 +2299,7 @@
       "chapter": "Knockturn Alley"
     }
   ],
-  "7": [
+  "8": [
     {
       "__source": "Celestial Spellbook by Gothicjedi666 - Potions Lab",
       "__line": 1,
@@ -2216,368 +2578,6 @@
       "source": "Harry Potter CYOA",
       "description": "A small case with compartments that has a replenishing store of a range of potion reagents. Such reagents replenish once every two weeks and come in reasonable quantities. Does not contain any extremely rare ingredients.",
       "chapter": "Potions Lab"
-    }
-  ],
-  "8": [
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 1,
-      "cost": 0,
-      "name": "Dobby ",
-      "source": "Harry Potter Movie Series",
-      "description": "A male house-elf who served the Malfoy family. His masters were Dark Wizards who treated him cruelly. He would normally disobey his masters and try to warn Harry Potter of the plot to have the Chamber of Secrets reopened. Now he can become your new friend and companion or if you want you can choose another elf.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 2,
-      "cost": 100,
-      "name": "He-Who-Must-Not-Be-Named ",
-      "source": "The Wizarding World Jump",
-      "description": "A reputation is a useful and powerful thing. Just ask Lord Voldemort himself. Or maybe not. He’s not exactly the most pleasant sort and depending on when you arrive, he’ll probably be quite indisposed. But regardless, despite how unpleasant he might be, there are quite a few things you could stand to learn from him. In this case, you’ve learned how to cultivate a reputation for yourself. Your endeavors seem to take on a life of their own, spreading throughout entire communities like Fiendfyre. Even more than that, tales of your deeds become almost exaggerated, such that, depending on what exactly you’ve done, they will praise your name or shun it to an almost unnatural degree for the sheer terror and awe it reminds them of. Just make sure you can live up to it, alright?",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 3,
-      "cost": 100,
-      "name": "Muggles Don’t See Nothing, Do They?",
-      "source": "The Wizarding World Jump",
-      "description": "Hiding your magic from Muggles can sometimes be a difficult task, especially when they can be more perceptive than you might think. But for you, and with this, keeping your magic secret won’t be that big of a problem. In your presence, Muggles always seem to rationalize or even ignore minor uses of magic. For example, floating small objects or creating a bit of fire and light will be thought of as a clever use of strings and Muggle technology such as lighters and the like. Of course, this isn’t going to be quite as effective if you try and perform greater feats of magic such as setting an entire forest ablaze with nothing more than a stick in your hands. In that case, you better have one handy-dandy explanation ready for them.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 4,
-      "cost": 100,
-      "name": "Magical Compatibility ",
-      "source": "The Wizarding World Jump",
-      "description": "Despite whatever implications such a fact may entail, humanity here is capable of breeding with just about every other being to be found and quite a few beasts as well. And if you wish, so can you. By taking this, you will now be able to produce children with any other sapient being and quite a few beasts, no matter what they are. They could be something as massive as a giant or as small as a house-elf, it doesn’t really matter. You will be able to have children with it, in this world and the next. Giants, house-elves, centaurs, veela, and so many more. As a special bonus, a boon just for you, you now have the ability to control your own fertility.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 5,
-      "cost": 100,
-      "name": "Map ",
-      "source": "Hogwarts Legacy",
-      "description": "The field guide contains an interactive map, covering all locations you have explored. It can mark significant landmarks, and expand three-dimensionally to display the interior spaces of buildings or caves or other structures.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 6,
-      "cost": 100,
-      "name": "Portrait Gallery ",
-      "source": "Hogwarts Legacy",
-      "description": "A room that houses a few dozen portraits of various famous and accomplished witches and wizards. If you have a connection to Ancient Magic, this can include a couple of portraits of Keepers from the past. These portraits will be generally helpful and friendly and very willing to provide you with insight and advice. In new worlds, a few new portraits of famous historical figures, particularly those who know or are associated with magic, will be added to this gallery.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 7,
-      "cost": 100,
-      "name": "Magical Cleanliness ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "The wizarding world’s culture and technology resembles a hodgepodge of time periods ranging from the medieval to the victorian with a few smatterings of modernity here and there. While cleaning spells and cleaning products exist, we do see examples of them going without use. Additionally... Would you want to be stuck using only public lavatories and bathing facilities for most of a year if you had a choice? This perk ensures that every part of your body down to your very pores is always perfectly clean and expertly groomed. Additionally, you no longer need to excrete. This perk can be freely shared with all of your Companions, Followers, and so on.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 8,
-      "cost": 100,
-      "name": "Put your best foot forward -",
-      "source": "Harry Potter Movie Series",
-      "description": "You possess mastery over the art of dancing, being capable of intuitively understanding the rhythm of sound and flawlessly performing any type of danc These methods of dance can include classical dances such as ballet as well as freestyle dance types such as hip-hop.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 9,
-      "cost": 100,
-      "name": "Nymphadora Tonks ",
-      "source": "Harry Potter Movie Series",
-      "description": "You gain Nymphadora Tonks, a Hogwarts graduate who is currently an Auror under the watchful eye of Alastor Moody. Tonks is a Metamorphmagus allowing her to alter her physical appearance at will and a descendant of the Black family despite her mother being disowned.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 10,
-      "cost": 100,
-      "name": "What about your activities outside the classroom",
-      "source": "Harry Potter Movie Series",
-      "description": "You have gained a certain romantic intuition allowing you to tell when someone is attracted to you as well as how deep and sincere their emotions are. This also passively improves the quality of any dates you plan and gives you a minor luck boost during the date itself.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 11,
-      "cost": 100,
-      "name": "Half-Veela",
-      "source": "Harry Potter Movie Series",
-      "description": "As a Veela descendent you are considerably more beautiful than average humans and possess the innate Veela magic used to entrance others and make beings far more attracted to them. With this Perk you will be able to replicate a Full-blooded Veela’s ability to transform into a harpy-like creature and to throw fireball",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 12,
-      "cost": 100,
-      "name": "The Family Watch",
-      "source": "Wizarding World Jump",
-      "description": "It is a tradition amongst witches and wizards that they be given a watch when they come of age at seventeen years old. And while you may not be of this world, that does not mean that you cannot partake in its traditions and culture. Perhaps that is why you have this ornate and fanciful golden pocket watch, something you might consider as a gift from your benefactor, whoever they may be. And as always, this watch of yours is far from ordinary. You see, unlike a regular watch, this watch is not meant to tell the time and its hands represent neither the minute nor the hour. Rather, each hand is meant a representation of you and your trusted Companions. Like a certain redheaded family’s clock, the numbers on it have been changed to locations such as “home”, “school”, “work”, “prison”, “lost”, “mortal peril”, and many more. So long as this watch is by your side, you will always be aware of where your Companions might be and if they would be in need of your help. If you do need to use it as an actual timekeeping device, just press the button on its side and the watch’s face shall shift and change to show you the time. It’s perfectly accurate as well so you don’t need to worry about being late.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 13,
-      "cost": 100,
-      "name": "Lingua Franca",
-      "source": "Wizarding World Jump",
-      "description": "There are thousands of languages spoken throughout the world and that only includes the Muggle world. The magical side of things has even more languages to offer such as Mermish and Gobbledegook. It can all make things very confusing but luckily for you, you have a knack for linguistics. Regardless of the language, you can pick it up very well, enough that you could learn the basics of a language by the end of a day and speak it fluently by the week’s end. If you do this right, you could even gain a bit of respect from the notoriously stingy Goblins of Gringotts.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 14,
-      "cost": 200,
-      "name": "Metamorphmagus",
-      "source": "The Wizarding World Jump",
-      "description": "A Metamorphmagus is someone who was born with a rather rare magical ability. More specifically, they are people born with the ability to change their physical appearance through will alone, requiring neither spells nor potions, unlike the rest of the world. As mentioned before, it is rather rare but fortunately for you, you are a Metamorphmagus now. The extent of your new abilities allows you to mimic the size and shape of just about anyone, be they someone as beautiful as the lovely Veela or someone as grizzled and battle-damaged as one Mad-Eye Moody. In fact, you already have enough skill that you can even form parts of your body to things that are not entirely human, things such as a duck’s bill for a mouth, just as an example. With a bit more creativity, who knows what you could do in the future?",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 15,
-      "cost": 200,
-      "name": "Emancipated Minor ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "A number of Fanfics have Harry, either through his own actions or as a side effect of some other thing that happened in the fic, becoming legally recognized as an adult with all attendant rights and responsibilities. Usually at 15, but often at 14 or even younger. With this perk, you will always be considered an adult in all legal, supernatural, and social situations no matter your actual age or physical appearance whenever it would be to your benefit. You will also have ready access to valid legal documentation of your adulthood should you need it.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 16,
-      "cost": 200,
-      "name": "Made to Last ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "Something about the ambient magic around Hogwarts, and only Hogwarts in canon for some reason, futzes with electronics but you’ll never notice as ‘anti-technology’ effects never seem to apply to your possessions. Likewise, magic items in your possession seem to shrug off anti-magic.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 17,
-      "cost": 200,
-      "name": "Charming",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "You're charismatic in an easy-going way, fun to be around, easy to get along with, and pretty skilled when it comes to making new friends or seducing romantic partners. In particular, you're rather talented at getting past the shells and walls others put up and getting them to reveal their true self to you.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 18,
-      "cost": 200,
-      "name": "It’ll taste fine all the same ",
-      "source": "Harry Potter Movie Series",
-      "description": "You are a damn good cook and anything you make will taste good and remain unspoiled even if it goes through less than sanitary storage conditions, so no need to worry about food poisoning.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 19,
-      "cost": 200,
-      "name": "The Tales of Beedle the Bard",
-      "source": "Harry Potter Movie Series",
-      "description": "This book of children's stories updates itself each Jump in order to contain new in-Jump fairy tales native to that Jump’s universe. It is also guaranteed to contain at least one fairy tale relevant to the plot.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 20,
-      "cost": 200,
-      "name": "Floo Flame Network",
-      "source": "Wizarding World Jump",
-      "description": "Ah, Floo powder. What would wizards do without it? First invented by one Ignatia Wildsmith in the 13th century, Floo powder is what allows the Floo Network to work. Through the Floo Network, instantaneous transportation across the entire world becomes possible for just about everyone, even for those who have not yet learned the dangerous art of Apparition. With this, the Floo Network shall follow you wherever you go. First, you are now in possession of the recipe for Floo powder, a secret that has been kept safe for centuries. Not only that, but you also have a small box of the stuff, one that will never run out, no matter how much you take from it. Following that, every property of yours will now be connected to each other through a Floo Network, letting you travel across them with just a scoop of powder. But more importantly, what you have now are the instructions to create your very own Floo Network. With this, you have the choice of adding the new locations to your already existing network or creating a new one separate from those before it. You won’t even need a fireplace. The uses of this should be rather obvious, don’t you think so?",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 21,
-      "cost": 400,
-      "name": "Inner Eye",
-      "source": "The Wizarding World Jump",
-      "description": "Magic blesses witches and wizards in different ways. Some are blessed with great skill in varying subjects, from Transfiguration to Charms and more. Others receive more unique talents such as the Metamorphagi or the ability to speak the language the snakes. And with this, it seems that magic has blessed you with the ability to see into the future. Magic has made you a Seer. For now, as a Seer, your only visions of the future come during trances, periods of time wherein you slip into a fugue state and speak out your prophecies in a different voice than normal. Unlike a certain other Seer however, you have the ability to go into these trances on purpose but even still, you will have only a foggy recollection of your visions and prophecies. Over time however, with the more practice and experience you have with this newfound magic of yours, you will come to possess greater control. In time, your predictions shall be made far clearer, more precise. In time, they will no longer be prophecies but visions. Visions as plain to your Inner Eye as the colors of the world are to men and women across the world. And as always, it would be best to remember that the future is never truly set in stone.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 22,
-      "cost": 400,
-      "name": "Ancient Magic ",
-      "source": "The Wizarding World Jump",
-      "description": "Magic is much like knowledge. Over the years, it is only natural for magic to become lost to the sands of time, to never again be learnt by the likes of ordinary witches and wizards. But you, you are certainly the farthest possible from ordinary. Like few others before you, the potential to manipulate ancient magic is now within your grasp. With it, you will soon be capable of magic beyond the pale. Bringing forth rain and life to an entire valley suffering from the harshest drought shall be the least of what you can do. But the keyword here is potential. In this budding state of yours, all you can do for now is simply the detection of traces of ancient magic and then use said magic to perform devastating attacks against your foes. And though your newfound abilities have bolstered even the growth of what others may call regular magic, that is not even close to where your limits lie. To truly reach your new limits, you must find ways to learn, people to teach you, and records to study. Do not think that this shall be an easy task. Depending on when you begin your journey, it could be centuries since ancient magic was last wielded.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 23,
-      "cost": 400,
-      "name": "Wandless Magic",
-      "source": "Hogwarts Legacy",
-      "description": "You have the ability to cast any spell you know without a wand. Spells cast this way will be generally weaker and less controlled than they would be with a proper focus, but this ability ensures that you are at far less risk if you are disarmed. However, this can function as a training aid, as, if you practice casting spells wandlessly and improve their performance, you’ll find those spells have a distinct boost when performed with an actual wand.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 24,
-      "cost": 400,
-      "name": "Ancient Ruins ",
-      "source": "Hogwarts Legacy",
-      "description": "A large and sprawling ruin that is hidden from view from anyone other than you and those you bring with you. The ruin is filled with a variety of examples of forgotten magics and enchantments, as well as various rare and ancient texts scattered throughout it. In each new world you visit, the ruins will update with new examples and new ancient texts, as well as updating its structure to match ancient ruins from the new world.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 25,
-      "cost": 400,
-      "name": "Unbound Potential",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "Relating to the above bit of fanon is the idea of someone, usually the “Manipulative Headbastard,” placing ‘blocks’ or ‘limiters’ on Harry’s magical core for some inexplicable reason because biggatons are the only way some fic authors can think of to make Harry ‘better’ than canon. Regardless, that’s not something you’ll ever have to deal with, as you are categorically immune to any and all attempts to bind, restrict, suppress, drain, steal, or damage any aspects of your power or energy.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 26,
-      "cost": 400,
-      "name": "Jumper Manor",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "What we have here is a luxurious sprawling estate with many acres of land and housing and accommodations that would make a jaded out-of-touch billionaire immediately pauperize themselves to try and fail to buy a home better than yours. All the utilities are handled by magic and the kitchens are always perfectly stocked, magical constructs serve the roles of servants, and you effectively have arbitrary room for guests. The manor home proper has whatever luxuries you could possibly want, and it will magically update itself so that no matter what it will always at least make Malfoy Manor or homes owned/inhabited by similar characters look like a run-down one-room hovel next to the city dump, though obviously it’ll never downgrade.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 27,
-      "cost": 400,
-      "name": "Coffee Shop",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "Or a tea house, that general idea. A cozy little place, themed however you want, where people can purchase hot drinks and baked goods and just hang out for a while. It’s always conveniently located even if it makes no sense and no one will question it. Business is always good, thanks to the competent NPC staff, and as the owner you have access to a modest income from it as well as a comfortable set of seats around a permanently reserved table for you and your friends to always have a private chat. Also, your orders are always on the house which never hurts the profit margins.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 28,
-      "cost": 400,
-      "name": "Knight Bus ",
-      "source": "Harry Potter Movie Series",
-      "description": "This triple-decker, purple Bus can stretch and skew its size at a moment's notice, warping the perspective of those inside without causing any harm. This bus comes with an invisibility filter and a time dilator allowing it to speed up slow down time to make precise movements without ever being noticed. The bus also has an indicator for any stranded individuals of the wizarding community. Post-Jump this indicator will be able to pick up any friendly supernatural entity who is in need of aid. You can also summon this bus by holding your wand or hand up in the air. The bus comes with a follower driver and attendant who maintain the bus.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 29,
-      "cost": 400,
-      "name": "The Beauxbatons Carriage",
-      "source": "Harry Potter Movie Series",
-      "description": "This light-blue Carriage comes with a dozen Abraxans, Winged Horses that pull it through the sky. The Abraxans that pull it are a magical species of horse, distinct for possessing wings that enable them to fly, they also come with a toggleabe Disillusionment Charm that prevents onlookers from seeing them or the Carriage they pull. Despite the small size of the Carriage and its erratic movements in flight, the inside approximately the size and layout of an Airbus A340 with the journey feeling smooth and comfortable.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 30,
-      "cost": 400,
-      "name": "The Durmstrang Ship",
-      "source": "Harry Potter Movie Series",
-      "description": "This ship has a strange, skeletal look about it, looking similar to a 16th century Spanish galleon. This ship is self propelled and can travel underwater protecting its inhabitants with a protective bubble, and though magical means it can teleport from one large enough body of water to another almost instantly. Thanks to a few modifications this ship can also fly and its bubble can protect the ship from the void of space but would require further alterations to travel faster than light. The expanded space inside of the ship is large enough to have about a thousand people aboard it and keep them in luxurious comfort indefinitely, it is set up like a cruise ship but doesn't need any staff, it is self-cleaning, self-repairing and self-steering. Food, drink etc are all provided through self-refilling buffet tables in a massive dining room, each ro has its own full bathroom, a desk, chair and a king-sized bed.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 31,
-      "cost": 400,
-      "name": "I can make things move without touching them",
-      "source": "Harry Potter Movie Series",
-      "description": "You have an interesting knack for magical telekinesis allowing you to remotely move objects around with your mind without using a wand; like a muscle the more you use this the stronger it becomes.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 32,
-      "cost": 400,
-      "name": "Flying Motorcycle ",
-      "source": "Harry Potter Movie Series",
-      "description": "You may select between a white 1959 Triumph 650 T 120 Bonneville or a light blue Royal Enfield with optional sidecar. This motorcycle is enchanted to fly up to 300 MPH automatically resize itself to match whoever is riding it and has a protective barrier around it in order to keep an atmospheric shell around you, protecting you from the G-Forces of flight and even in the void of space.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 33,
-      "cost": 500,
-      "name": "Magic Bag ",
-      "source": "Harry Potter Movie Series",
-      "description": "This wonderful bag seems to have an infinite space within it that can store anything inside. Should you want to retrieve Items you can do so by putting your hand into the bag with intent to pull a specific Item out. No other may retrieve Items from this bag. You can also connect this to your warehouse in order to access the Items stored within as if they were in the bag.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 34,
-      "cost": 500,
-      "name": "I have to go back haven't I",
-      "source": "Harry Potter Movie Series",
-      "description": "Once per jump or once every 10 years you gain a 1-UP which activates when you die preventing a chain fail for that death unless you choose to stay dead. At this point your soul will appear in a white blurry variation of a place important to you In this location you will meet a version of Death who will have a short conversation with you, then you will be given the choice to come back to life or stay dead.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 35,
-      "cost": 600,
-      "name": "The Boy-Who-Lived -",
-      "source": "Harry Potter Movie Series",
-      "description": "No tool of instant death can end your life, neither the killing curse nor a mandrake cry, not even a staring contest with basilisk can kill you however these instant death techniques may leave you with a scar. Keep in mind you can still fall victim to any non-instant killing methods such as regular poison, mundane weapons or blood loss.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 36,
-      "cost": 600,
-      "name": "12 Grimmauld Place",
-      "source": "Harry Potter Movie Series",
-      "description": "The ancestral home of the Black family, located in the Borough of Islington, in London, within a Muggle neighbourhood, the building is protected by many wards, including a Fidelius Charm of which you are the secret keeper, preventing anyone you haven’t informed about the location from finding the building. Should you choose, you may chose to have these protections extended to other properties you own. Ignoring the normal provisions that would prevent a secret keeper from holding the secret of their own residence. As a side note, the Fidelius Charm over this property will remain with you as the sole secret keeper even should you die.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 37,
-      "cost": 600,
-      "name": "Prophecy Orb",
-      "source": "Harry Potter Movie Series",
-      "description": "At the start of each Jump this orb will light up and grant you a prophecy of your greatest problem that is to occur within the Jump, in the form of a poetic riddle. The prophecy will give you notes on how best to prepare for the problem and potential solutions.",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 38,
-      "cost": 600,
-      "name": "Have you ever heard of this spell",
-      "source": "Harry Potter Movie Series",
-      "description": "Probably not, as with this Perk you gain the understanding of how to break down every spell you know into its base components and reassemble them to do new things, such as breaking down and combining Lumos with Legilimency to shine memories against a wall like a film projector",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 39,
-      "cost": 600,
-      "name": "An Army of Stone and Steel ",
-      "source": "Harry Potter Movie Series",
-      "description": "This army of 100 stone statues and 100 suits of armour will follow your commands taking positions to act as inanimate decorations, only moving when you order them to. You can also convert any other mundane statues or suits of armour you own into more fiat-backed soldiers .",
-      "chapter": "The Wizarding World"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - The Wizarding World",
-      "__line": 40,
-      "cost": 100,
-      "name": "Curse of Defense",
-      "source": "Wizarding World Jump",
-      "description": "The post of Defense Against the Dark Arts within Hogwarts is said to be cursed and judging by the long, long line of teachers and professors being ousted from the position year after year, there is probably some merit to such a thing. But fortunately for you, that shouldn’t be too much of a problem. You see, unlike those poor folks, you’re quite good at keeping your job. Now, so long as you actually do your job properly, you will never get ousted from your position due to circumstances beyond your control. Hey, maybe you should apply for Hogwarts. They’re always looking for DADA teachers.",
-      "chapter": "The Wizarding World"
     }
   ]
 }

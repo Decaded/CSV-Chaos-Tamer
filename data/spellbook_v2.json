@@ -725,278 +725,6 @@
   ],
   "3": [
     {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 1,
-      "cost": 0,
-      "name": "Gold Galleons",
-      "source": "Harry Potter Movie Series",
-      "description": "For Free you will gain £1,000 worth of wizarding currency broken down into the following amounts: ● 4,930 Bronze Knuts ● 170 Silver Sickles ● 180 Golden Galleons",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 2,
-      "cost": 100,
-      "name": "Galleon Pouch ",
-      "source": "Hogwarts Legacy",
-      "description": "A large sack full of a hundred galleons. A modest fortune by the standards of the time (keeping in mind the prices in the game are inflated by roughly a factor of 100 to 200 times what they would actually be). This sack will gain one hundred more galleons each month.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 3,
-      "cost": 100,
-      "name": "Room Of Lost Things ",
-      "source": "Hogwarts Legacy",
-      "description": "A room filled with the remnants of a great deal of broken and discarded items, ranging from furniture to decorations to chests to books. Hidden among the random junk can be potential treasures that are still valuable, simply lost. Over time, newly ‘lost’ items will appear within the room.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 4,
-      "cost": 100,
-      "name": "\"Great Gold Coins The Size Of Hubcaps\"",
-      "source": "Hogwarts Professor Jumpchain",
-      "description": "Gain 500 Galleons (or same Value in the local Equivalent) on September 1st every Year.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 5,
-      "cost": 100,
-      "name": "Liquid Wealth ",
-      "source": "Wizarding World Jumpchain",
-      "description": "Many pure-blood families carry with them centuries of history and with such age, comes wealth borne from the passing of time. And whether pure-blood or not, you’ve gotten your hands on a substantial amount of wealth indeed. 50,000 Galleons worth to be exact. Used wisely, this should be more than enough money for you to live off comfortably for the rest of your days, even without taking into account that you have magic and that you’ll be receiving this amount of money every ten years or so.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 6,
-      "cost": 100,
-      "name": "Goblin Manager",
-      "source": "Generic Harry Potter Fanfiction",
-      "description": "This is a Goblin of the Gringotts clan, and has chosen to serve you as a loyal manager of your interests. An absolute financial genius, he is a master of both predatory and genuinely good lending, knows how to manipulate all the magical and muggle markets like the back of his hand, and has an unbelievably good eye for investment opportunities both muggle and magical. You can put him in charge of any and all money-related matters, be it balancing your personal chequebook or as the CEO of all your estates and businesses or running the Finance Ministry of your kingdom, and trust him to manage it all with superb brilliance. You won’t ever need to worry about money with this guy around. If you want he’ll also teach you and others his stuff, although getting as good as him might take a looong while, considering how he’s the Einstein, Hawking and Tesla put together of Finance.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 7,
-      "cost": 200,
-      "name": "Gringotts Vault",
-      "source": "Slytherin Jump",
-      "description": "Gringotts Wizarding Bank is the only wizarding bank in Great Britain, and is owned and operated by goblins. Many wizarding families have their own vault, and now so do you. Located within the deepest parts of the bank itself and protected by a blind dragon and several protections known only to the goblins of Gringotts, your vault contains a veritable boatload of galleons, sickles, knuts, and precious gems such as diamonds, rubies, and emeralds. You’re now wealthy enough to live in absolute luxury for several hundred years. As a free complimentary service, Gringotts also offers a currency exchange service, allowing you to to exchange your wizarding wealth for any other currency. This vault while part of the bank is also in an extra-dimensional space you can access through any door using your key",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 8,
-      "cost": 200,
-      "name": "Pensieve ",
-      "source": "Hogwarts Legacy",
-      "description": "A special enchanted device that can allow memories to be replayed in impossible detail. The basin comes with a plinth to sit on, which has a hidden storage compartment with a hundred specially prepared vials, each of which can securely hold a memory for later viewing. Also comes with an enchanted eyedropper that can allow anyone, even Muggles, to safely extract a memory for viewing.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 9,
-      "cost": 200,
-      "name": "Watchful Chest",
-      "source": "Hogwarts Legacy",
-      "description": "A large chest with a large eye in the place of a lock, which has also been fitted with a set of wheels on the bottom, allowing it to wheel itself around. This chest is hardened against unlocking spells, and its eye has been enchanted, allowing it to see through invisibility spells. It will only open itself for you and those you explicitly tell it to allow access.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 10,
-      "cost": 200,
-      "name": "Philosopher’s Stone ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "You could have made this on your own, but maybe you don’t have the patience, or you’d like a sample to reverse engineer, or you’d just prefer the security of a fiat-backed item that’ll make its way back to your warehouse if lost or stolen. Anyway, the philosopher's stone is an artifact that allows one to translate base metals into pure gold and that produces the elixir of life, a potion that restores the drinkers to their full strength and can make them immortal if consumed regularly and continuously. Supplemental materials likewise imply that it will increase your power and skill in regard to alchemy and its component disciplines. Now the prequel films seem to imply that the elixir merely slows aging rather than stopping it or restoring youth but plenty of fanfics predate that reveal and do depict it deaging you to the prime of your youth so this version does.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 11,
-      "cost": 200,
-      "name": "Crown of Mneme ",
-      "source": "Wizarding World Jumpchain",
-      "description": "You may have heard of the Deathly Hallows, objects of such power that wizards and witches have killed to obtain them for centuries. If so, you probably aren’t surprised to learn that there are more artifacts of great power to be found in this world, even if they aren’t as mighty as the Deathly Hallows. Created by Dai Ryusaki, a professor of Mahoutokoro, many centuries ago, the Crown of Mneme can be considered a Legilimen’s best friend. Even a novice in the mental arts will find themselves possessing considerable skill in Legilimency once this crown rests on their head. Originally intended as a medical device of sorts, the Crown of Mneme will do more than bolster your skill in Legilimency. With this crown, masters of Legilimency will even be able to recreate one of the Unforgivable Curses, being fully capable of controlling the weak-minded so long as they focus.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 12,
-      "cost": 200,
-      "name": "Ryusaki’s Amulet ",
-      "source": "Wizarding World Jumpchain",
-      "description": "Apparently, Dai Ryusaki was not content with simply creating one magnificent artifact that could stand the test of time. In truth, this amulet was not purposefully made. Rather, in the throes of his final moments, Ryusaki cursed it, infusing with all the rage and hate burning in his soul, forever turning the once bright and beautiful amulet into a thing of darkness. While wearing the amulet, you will find it slightly easier to use abilities of a darker nature but you will quickly find that is not where its true power lies. For you see, this amulet shows its true colors when worn by another, one that might not be so inclined to the Dark Arts. When worn by another, the curse upon the amulet shall make itself known. Within moments, it shall begin to influence the wearer’s mind. Day by day, the wearer’s will shall be tested and they will find themselves more and more willing to use the Dark Arts. And when their path towards the Dark is complete, the amulet shall leave their clutches and find its way back to you. And the best part? Unless they know about the amulet’s curse, they’ll never even notice that they’ve found themselves on a darker path. Like moths to a flame, or clay to be molded, by you.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 13,
-      "cost": 200,
-      "name": "Skull-Hookah ",
-      "source": "Wizarding World Jumpchain",
-      "description": "While Dark relics don’t necessarily need to look the part, like the one above for example, this one certainly does. Bearing a heavy resemblance to the skull-hookah Gellert Grindelwald once possessed, this aged and yellowed skull has been emblazoned with engravings and markings of symbols of the Dark Arts and of your own. And much like Grindelwald’s own, you can use this skull to project the visions within your mind over a vast area, large enough to encompass a colosseum. Useful if you need to impress the masses or perhaps convince them of the righteousness of your cause. However, the skull has one more fascinating ability to it. If it is broken, either by your hands or that of another, the magic within the skull shall rush into the next spell you cast. In doing so, the might of this spell shall be massively improved. A fire that burns down a house, for example, will become one that shall burn down a town. Once broken, you will receive a new one at the start of the next week.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 14,
-      "cost": 200,
-      "name": "Goblin Dagger",
-      "source": "Tri-Wizard Gauntlet",
-      "description": "This goblin made weapon is able to absorb anything that can make the metal stronger into the blade. The metal of the blade is initially as tough as tungsten while being lightweight.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 15,
-      "cost": 200,
-      "name": "Crystal Casket ",
-      "source": "Harry Potter Movie Series",
-      "description": "Through this magical chest, you are able to seal away any selected emotions, protecting them from any supernatural effects that may target them. Any emotions sealed this way for any period of time can be released at will without any negative effects on them or you when unsealed.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 16,
-      "cost": 300,
-      "name": "Goblin Forged Blade",
-      "source": "Hogwarts Professor Jumpchain",
-      "description": "Blade forged of silver by a Goblin, never tarnishes, dulls, or breaks, and takes in anything that would make the blade stronger.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 17,
-      "cost": 300,
-      "name": "Death picked up a stone from the riverbank",
-      "source": "Harry Potter Movie Series",
-      "description": "With this Perk guiding you, you are able to imbue any mundane materials with your magic, making them a viable material for crafting magical objects with.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 18,
-      "cost": 400,
-      "name": "Sealed Repository ",
-      "source": "Hogwarts Legacy",
-      "description": "A large set of rings, made out of Goblin Silver and filled to the brim with Ancient Magic. Unlike the repositories that the Keepers guard, this repository is not tainted with negative emotions, but is instead a source of pure magic. It is possible for you to draw out this magic to empower yourself or link it into enchantments and wards to greatly empower them, even if you don't have the ability to see Ancient Magic natively. With such a power, you could use this power even more precisely. The energy within the repository will regenerate over time if used.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 19,
-      "cost": 400,
-      "name": "Mirror of Erised ",
-      "source": "Harry Potter Movie Series",
-      "description": "The Mirror of Erised is a magical mirror that shows the viewer their deepest and most desperate desire that is held in their heart. The mirror is also enchanted so that it can store and perfectly hide anything within it and set conditions for others to access the Items within, such as only those who seek the Item but do not plan to use it may retrieve it.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 20,
-      "cost": 400,
-      "name": "Deluminator",
-      "source": "Wizarding World Jumpchain",
-      "description": "Now just how did you get your hands on this? This little thing, resembling a rather fancy cigarette lighter, is the Deluminator and it is the proud creation of one Albus Dumbledore, quite possibly the greatest wizard of the modern age. Fittingly enough, this device is quite powerful indeed. At the most basic level, the Deluminator can take away and put back light from any source, whether it be technological or magical. Second, whenever your name is mentioned in a conversation, the Deluminator will play back a snippet of the conversation to you. Activate the Deluminator at this point and you will safely be apparated into location, enough to ensure that you may never be separated from your friends again. Finally, there is the Deluminator’s most powerful ability. With this, you may transport yourself and others into a mirror dimension of sorts. Within this world, you may battle to your heart’s content, with no risk to the people and the world beyond. Albus Dumbledore truly was a genius if he could make something like this. Why not follow in his footsteps, at least in this regard?",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 21,
-      "cost": 400,
-      "name": "Goblin Armor",
-      "source": "Wizarding World Jumpchain",
-      "description": "Whatever wizards and witches may believe about goblins, fools dare to underestimate them at their own peril. Look no further than their craftsmanship, a skill so heavily guarded by goblins and vaunted by witches and wizards across the world. Clad yourself in this armor and witness for yourself just how mighty a goblin can be. Forged from goblin silver, this magnificent set of armor has been enhanced with magic beyond what goblins are ordinarily capable of. You see, by channeling your own magic through the armor like you would with a wand, the silver shall glow a malevolent red as the corrupted ancient magic within come to life. Not only will you have a hefty resistance against most spells, almost equal to what a proper Shield Charm can provide, but so long as you continue to channel your magic through the armor, you will have a vast array of newfound abilities to use against your foes.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 22,
-      "cost": 400,
-      "name": "Property-Mover",
-      "source": "Partially Kissed Hero",
-      "description": "A simple, staff-like device, this has a hemispherical cavity at one end, and is covered with runes and powerful spells. By touching the cavity to the ground in any place you own, be it through jump-fiat or acquired in-jump, you can shrink the property into a snow-globe sized, portable form, which you can then move freely. To place it back on the ground in its full size, you need to just put the globe back in the cavity and touch it to the ground in any area of sufficient size. Examples of property moved are greenhouses, manors, castles, farms and chunks of forest, up to and including mines and lakes.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 23,
-      "cost": 600,
-      "name": "Slytherin’s Locket ",
-      "source": "Slytherin’s Locket ",
-      "description": "A golden locket decorated with a serpentine S in glittering green stone inlay on the front, originally owned by none other than Salazar Slytherin himself. It is said that it contains all kinds of magical powers, but that it will only allow itself to be used by those who speak the serpent’s tongue. Should you be capable of such, then the locket will reveal its true power to you. It will allow you to imbue it with a small part of your soul. This ensures that should you somehow shuffle off this mortal coil someone will pick up the locket and be compelled to bring you back to life through a profane ritual within the next few weeks. This ritual does destroy the locket in the process, but curiously you will find it restored to perfect condition at the end of the Jump or after ten years, whichever comes first.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 24,
-      "cost": 600,
-      "name": "Ring of Lordship ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "You’ve inherited, by blood, adoption, or conquest, a dozen or so noble titles of various ranks tied to various families of various levels of prestige and this ring will prove it to anyone who sees it on your finger. Not only that, but your noble heritage somehow gives you the power to vote in the legislative bodies of whatever nation you currently reside in even if you are only a child and the legislature has nothing to do with nobility. Even if nobility isn’t recognized in that nation. Not only that, you get multiple votes. How many? Enough to be a considerable power block by yourself but not enough to be a decisive majority. You may also appoint proxies to vote for you if you’d rather not attend sessions in person.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 25,
-      "cost": 600,
-      "name": "Cloak of Invisibility ",
-      "source": "Harry Potter Movie Series",
-      "description": "A magical artefact used to render the wearer invisible, it can be one of the rare commercially available invisibility cloaks or take the place of the fabled Deathly Hallow though lacking the tracking and compulsion charms the original had. In Jump this can become an independent copy or it can replace the Cloak of Invisibility, absorbing it and either appearing in its place or in your possession.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 26,
-      "cost": 600,
-      "name": "Sword of Godric Gryffindor ",
-      "source": "Harry Potter Movie Series",
-      "description": "A goblin-made magical sword owned by the famed wizard Godric Gryffindor, this sword can be used as a wand and because it is made from goblin's silver, it strengthens itself with what it touches meaning it never requires cleaning and is imbued with Basilisk venom.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 27,
-      "cost": 600,
-      "name": "Resurrection Stone",
-      "source": "Harry Potter Movie Series",
-      "description": "This glass-like Stone engraved with the Peverell coat of arms is fitted into a golden ring.Unlike the original, this one does not harm you if you wear it. It has the power to resurrect the spirits of the deceased as summoned shades that are more physically solid than a ghost but less so than a living body. These shades produce a repelling effect against Dementors and other soul-consuming beings; except yourself if you are able to consume souls.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 28,
-      "cost": 600,
-      "name": "Hufflepuff's Cup ",
-      "source": "Harry Potter Movie Series",
-      "description": "This small golden badger engraved cup was enchanted by Helga Hufflepuff to be an internally isolated space and perform a permanent transmutation. This method of transmutation allows you to convert any liquid into any other type of liquid, even those that don't exist in-universe and thereby surpass Gamp's Law of Elemental Transfiguration. Through this you could convert water into blood, vinegar, wine and even liquid gold with none of it sticking to the inside when poured out. Once a liquid has left the cup the magic keeping it in liquid state will end and may cause an exothermic or endothermic reaction. In Jump this can become an independent copy or it can replace Voldemort's Horcrux, destroying it and either appearing in its place or in your possession.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 29,
-      "cost": 600,
-      "name": "Rowena Ravenclaw's Diadem",
-      "source": "Harry Potter Movie Series",
-      "description": "This diadem is often said to enhance the wisdom of its wearer, however in truth it does far more than that. While being worn the diadem clears the user’s mind of all distractions, allowing them clarity of thought, and increases their perception of events, allowing them longer to think in the same span of time. The diadem also grants the user a form of photographic memory which allows them to call up anything they have ever known and retain any knowledge they gain whilst wearing the diadem perfectly once it has been removed. In Jump this can become an independent copy or it can replace Voldemort's Horcrux, destroying it and either appearing in its place or in your possession.",
-      "chapter": "Gringotts"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
-      "__line": 30,
-      "cost": 600,
-      "name": "Elder Wand ",
-      "source": "Harry Potter Movie Series",
-      "description": "This wand is more than just a focus, it is an amplifier allowing any spells cast using it be ten times stronger than a regular wand. While holding this wand you also gain the collective magical knowledge of everyone who has ever used this wand or been defeated by it, though in order to retain the information you will need to hold the Elder Wand and practice using a regular wand. You have truly earned the loyalty of this wand, and so it will take no other master. In Jump this can become an independent copy or it can replace the Elder Wand, absorbing it and either appearing in its place or in your possession.",
-      "chapter": "Gringotts"
-    }
-  ],
-  "4": [
-    {
       "__source": "Celestial Spellbook 2 by Gothicjedi666 - Greenhouses",
       "__line": 1,
       "cost": 0,
@@ -1294,369 +1022,7 @@
       "chapter": "Greenhouses"
     }
   ],
-  "5": [
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 1,
-      "cost": 0,
-      "name": "Robes and Mask ",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "All dark wizards need something to look the part don't they, you now have a set of concealing black robes and a skull-like mask to cover your face.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 2,
-      "cost": 100,
-      "name": "Cunning Linguist",
-      "source": "Slytherin Jump",
-      "description": "Many forbidden tomes of the Dark Arts are written in languages other than English. This could be slightly problematic if you’re trying to learn about the book’s contents but can’t read the language it’s written in. How very fortunate then that you’ve got quite a mind for languages. Not only do you now know three new languages of your choice, but you also pick up other languages twice as fast as before.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 3,
-      "cost": 100,
-      "name": "Some Determination Required",
-      "source": "Slytherin Jump",
-      "description": "The Dark Arts can grant a Dark Wizard or Witch many wondrous but terrible abilities. However, to acquire some of those abilities may require one to go through with monstrous acts. Is it any surprise then that you are determined enough to go through with your plans, no matter what the cost might be so long as you desire the end result enough? In addition, you are able to switch off your morality, for when you have no choice but to go through with those aforementioned acts that you wouldn’t be able to stomach otherwise. You can switch your morality back on at any time, and are even able to choose a predetermined time to automatically switch it back on in advance.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 4,
-      "cost": 100,
-      "name": "Slytherin Lock ",
-      "source": "Slytherin Jump",
-      "description": "A device invented by none other than Salazar Slytherin to safeguard his scriptorium. These metallic serpents function both as magical locks as well as gate guardians. You’ve acquired three of these devices that can be placed at any kind of doorway, where they will seamlessly meld with the doorway in question and from that point on will function as both locks and defenders. In addition, you’ve acquired a scroll with instructions on how to create more of these devices.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 5,
-      "cost": 100,
-      "name": "The Pure-Blooded Genealogy of Jumper",
-      "source": "Slytherin Jump",
-      "description": "Salazar Slytherin wanted to only teach those whose ancestry is purest, so it would not do at all for others to accuse you of being a half-blood, or worse, a muggleborn. How very fortunate then that you’ve got this tome containing your complete genealogy, proving that you are a pureblooded descendant of Salazar Slytherin himself. In future Jumps, this book will allow you to become a family member of a character of your choice. This somehow even works as a Drop-In, perhaps they’ll assume you’re some long-lost cousin?",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 6,
-      "cost": 100,
-      "name": "Portrait of Salazar Slytherin ",
-      "source": "Slytherin Jump",
-      "description": "A magical portrait of Salazar Slytherin painted and enchanted by a renowned wizarding painter. Though the Salazar within this painting is only a representation of the wizard himself, personality-wise he’s identical to the original. Whilst he doesn’t have any of the original Salazar’s magical knowledge or skills and is thus unable to tutor you in magic, this painting is very old indeed and has thus seen many ages pass by. Surely, having lived such a long life, even if merely as a painting, there is wisdom to be found in his counsel?",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 7,
-      "cost": 100,
-      "name": "Bearer of Cursed Blood",
-      "source": "Slytherin Jump",
-      "description": "Though she’s not an animagus, this witch is nonetheless capable of transforming into a large snake as a result of a blood curse. For now, she has the ability to change between human and snake at will, but this ability will gradually grow uncontrollable and she will eventually lose the ability to think like a human, until all that’s left is the snake that she is destined to become. She hopes to one day meet a parselmouth, in the hopes of holding onto a small shred of humanity when she inevitably succumbs to the curse. Perhaps you know of a parselmouth, or maybe you’re one yourself? Whatever the answer to that question may be, she believes joining your adventure as a Companion is her best chance of meeting one. Will you take her along with you?",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 8,
-      "cost": 100,
-      "name": "Jumper’s Mark",
-      "source": "Wizarding World Jump",
-      "description": "You may have come into this world with little more than the clothes on your back and your wand, but that does not mean you must leave this world the same. Taking a few notes from a certain snake-faced dark lord, you’ve ensured that you can leave your mark in this world. By engraving a certain symbol of your own design into the skin of the willing, you may mark them, allowing you to call upon them so that they may stand by your side. Of course, these marks can also be used by their bearers to call upon their fellow bearers and, if you are willing to reciprocate, even you. And finally, you now know a spell that allows you to conjure your symbol high in the sky, an aurora of magic that is well and truly yours. With such a thing, there shall be no mistaking who was responsible for your deeds.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 9,
-      "cost": 100,
-      "name": "Dark Creatures Affinity",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "Dark creatures are more likely to obey your orders and view you as an Ally rather than a food source.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 10,
-      "cost": 100,
-      "name": "He Just Can’t Be Back ",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "Other people will find reasons to downplay your actions or deny that they need to oppose you. Your actions may be blamed on a fall guy.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 11,
-      "cost": 100,
-      "name": "Manor ",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "A massive well-maintained manor suitable for the wealthiest of wizarding families, heavily enchanted for the owner's convenience and safety.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 12,
-      "cost": 100,
-      "name": "Shady Shop",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "A small run-down store off the beaten path that just so happens to both buy and sell some less than legal but exceedingly useful things.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 13,
-      "cost": 200,
-      "name": "From the Mouth of Serpents",
-      "source": "Slytherin Jump",
-      "description": "Parseltongue is the language of all serpents, and those witches and wizards who can speak it are known as parselmouths. One of the most famous parselmouths in history is of course none other than Salazar Slytherin, and his descendants have inherited this gift as well. Are you one of his descendants, by any chance? It would certainly explain how you can speak this magical language. Well, whatever the case may be, one thing is for sure. Yer a parselmouth, Jumper. And a thumpin’ good one, I’d wager. As a parselmouth you can both understand and speak to serpents of all kinds, and are even able to influence them to a certain extent.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 14,
-      "cost": 200,
-      "name": "Basilisk-skin Wardrobe ",
-      "source": "Slytherin Jump",
-      "description": "An entire wardrobe’s worth of clothing made from the skin of a mighty basilisk. Like the hide of a dragon, basilisk skin is very tough and shares its resistance to spells, and thus so do these clothes. No matter what your style or aesthetic may be, you're sure to find some suitable clothing within this wardrobe.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 15,
-      "cost": 200,
-      "name": "Chamber of Secrets",
-      "source": "Slytherin Jump",
-      "description": "Created by Slytherin himself during mediaeval times, this secret chamber is hidden under the dungeons of Hogwarts Castle. Accessible only by those capable of speaking in parseltongue, it was built with the hope that one day the school would be purged of those Slytherin considered unworthy. Though this is merely a copy of the actual Chamber of Secrets, that does not change that it is a large, well-hidden and well-protected hidden chamber that would make for an excellent secret lair worthy of any Dark Wizard or Witch. As the chamber’s owner, you are able to change the aesthetics, layout, and location once per Jump. Just like how only those who speak parseltongue are able to enter Slytherin’s chamber only certain people are able to enter your chamber, which you are of course free to designate. Perhaps only those who’ve been sorted into Slytherin house are capable of entering, or perhaps only those who’ve acquired a snake animagus form? The choice is yours.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 16,
-      "cost": 200,
-      "name": "Cursed Necklace",
-      "source": "Harry Potter Movie Series",
-      "description": "You have a strange control over this necklace causing the first person who touches it become a sleeper agent in order to complete a single preprogrammed objective..",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 17,
-      "cost": 200,
-      "name": "Homing Knife ",
-      "source": "Harry Potter Movie Series",
-      "description": "This magical knife has a special enchantment that when it is thrown it will automatically be pulled towards its intended target.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 18,
-      "cost": 200,
-      "name": "Heir of le Fay ",
-      "source": "Harry Potter Movie Series",
-      "description": "You are a descendant of the legendary Dark Witch Morgan le Fay and have inherited her immense talent on Potions and performing Dark Arts.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 19,
-      "cost": 200,
-      "name": "Walker of Shadowed Paths",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "You have great skill and good fortune in recovering long-lost magic and lore.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 20,
-      "cost": 200,
-      "name": "Blood Pact ",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "A silver chain and glass vial containing the blood of two people, the first is yourself, and the second is whomever you choose first on entering a Jump. While the vial remains intact neither you nor the other person whose blood is in the vial can intentionally harm nor obstruct each other directly",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 21,
-      "cost": 200,
-      "name": "Infiltrator",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "A (secretly) loyal servant who wishes for nothing but your victory, and who has successfully disguised themselves and slipped into the halls of your enemies to assist in such. Mediocre in power but skilled in stealth and a fair hand at Potions.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 22,
-      "cost": 200,
-      "name": "Traitor",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "A (fearfully) loyal, or at least obedient follower. This coward seeks your protection and gives you a view into the plans of your greatest group of enemies to buy it.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 23,
-      "cost": 300,
-      "name": "Horcrux",
-      "source": "Harry Potter - Magic Edition",
-      "description": "Contains part of your soul. As long as it is intact or the soul inside is unharmed, you can not die. Pick a mundane item to be its form.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 24,
-      "cost": 400,
-      "name": "Feldcroft Relic",
-      "source": "Slytherin Jump",
-      "description": "First discovered by one of Salazar Slytherin’s students, this tetrahedron is a dark artefact capable of healing people from both magical and mundane afflictions, maladies and injuries of all kinds—including those left by dark magic—by sacrificing another living being to the artefact. Most insidiously, these sacrifices can then later be summoned as inferi, corpses reanimated by the dark power present within this artefact. Even if these inferi should be destroyed, these reanimated corpses can be summoned once more after a few days, the dark power within forcing them to obey your commands over and over and over again.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 25,
-      "cost": 400,
-      "name": "Slytherin’s Spellbook ",
-      "source": "Slytherin Jump",
-      "description": "Originally stored in Salazar Slytherin’s secret scriptorium, it was later found by several Hogwarts students in the 19th century and has now miraculously made its way into your hands. Within, one can find the complete recounting of Salazar Slytherin’s life as well as all of his knowledge of the Dark Arts and magic in general. With this grimoire, even a witch or wizard of middling skill could become one of the greatest practitioners of the Dark Arts.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 26,
-      "cost": 400,
-      "name": "Dark Arts ",
-      "source": "Hogwarts Legacy",
-      "description": "You have an affinity for the Dark Arts, and know how to cast all three of the Unforgivable Curses. You have the ability to cause any of your curses, including the Unforgivables, to become ‘infectious’, spreading from one target towards others in various ways, as well as causing them to intersect, such as allowing you to kill one person with an Avada Kedavra who you have under the Imperius, and simultaneously causing anyone else you also have under the Imperius to die at the same moment.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 27,
-      "cost": 400,
-      "name": "Mark of Loyalty",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "For both your willing followers and your bound servants, you can create some mark, be it a brand or tattoo on their flesh or a piece of conjured jewelry that they can never remove, of a personal symbol that represents you or your cause. This isn’t just an identifying marker, however as it can be magically concealed, used to alert your servants that you have need of them, call them to your side, or punish them with pain all with a thought while also automatically triggering their brains to release dopamine whenever you are pleased with their performance.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 28,
-      "cost": 400,
-      "name": "Basilisk Fang",
-      "source": "Harry Potter Movie Series",
-      "description": "This dagger-like fang can produce a limitless supply of any type of venom; if left unattended it would drip out producing a teaspoon a day but if you want to gain more you can squeeze it to make it come out at a trickle thereby producing the same amount in less than five second",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 29,
-      "cost": 400,
-      "name": "Enduring Curse ",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "Curses you cast never wear off on their own, if they can't magically remove the effects they'll just have to suffer them forever.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 30,
-      "cost": 400,
-      "name": "Taboo ",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "Can cast a curse on any name you choose this curse instantly destroys any protective charms, enchantments, or other purely magical defenses around anyone who speaks the name aloud and informs you or someone of your choice of their location.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 31,
-      "cost": 400,
-      "name": "\nBlack Smoke Flight",
-      "source": "Generic HP Dark Wizard Jump",
-      "description": "Unassisted magical flight, turns your body partially or fully into a cloud of black Smoke. While fully smoke you can turn invisible and tear through stone and steel with ease.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 32,
-      "cost": 500,
-      "name": "Cave of Sorrows ",
-      "source": "Harry Potter Movie Series",
-      "description": "This cave is a replica of the one used to hide one of Voldemort’s Horcruxes. Entering the cave requires climbing the side of a mountain, then the entrance requires a blood sacrifice to open, leading to a large Inferi-infested underwater lake with an island in the centre. To cross the lake a person would be required to find and use the invisible boat and on on the island is a basin filled with a potion that could not be touched except with a cup with the only way to dispose of it being to drink it causing the drinker to see and experience \"terrible things\". unless they are you. Once empty the basin will lead to a vault that anything can be stored within.If the lake water is touched or any of the rules are broken a near-infinite army of Infe will rise from the lake and attempt to kill the interloper and make them an Inferi. You may also call many of the Inferi out of the cave for up to 3 hours with them following your commands before they disintegrate.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 33,
-      "cost": 500,
-      "name": "Obscurus",
-      "source": "Harry Potter Movie Series",
-      "description": "Your body is now a stable, controllable force of energy similar to an Obscurus with any parts of your body including blood, skin and hair turning into magical ash shortly after separation. Any harm to your body will quickly repair itself with the magical force you are made of filling in the gap You are able to shift between your normal visible form and an energy cloud that you will retain complete control.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 34,
-      "cost": 600,
-      "name": "Breeder of Serpents",
-      "source": "Slytherin Jump",
-      "description": "It was the ancient Greek dark wizard Herpo the Foul who first created the basilisk, after much experimentation and failed attempts. The knowledge of how to create these mighty serpents is now yours, but your skill at serpent breeding does not stop there. Indeed, you’re quite skilled and knowledgeable when it comes to breeding any kind of serpent, be they magical or not. Naturally this also extends on how to care for them in general, it would not do to finally breed your own basilisk only to then have it die in a fiery inferno because you mistakenly believed a basilisk to be fireproof, for example. That would just be embarrassing, wouldn’t it?",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 35,
-      "cost": 600,
-      "name": "Master of the Darkest Arts",
-      "source": "Slytherin Jump",
-      "description": "The Dark Arts are many, varied, ever-changing, and eternal. They are likened to a many-headed monster which, each time a neck is severed, sprouts a head even fiercer and cleverer than before. As one of the more notable practitioners Salazar Slytherin’s skill with the Dark Arts rivals that of Herpo the Foul, Grindelwald, and possibly Voldemort. And now it would seem you stand amongst them, at least when it comes to the Dark Arts. Naturally, this also means you’re capable of casting the three unforgivable curses.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 36,
-      "cost": 600,
-      "name": "Salazar Slytherin’s Wand ",
-      "source": "Slytherin Jump",
-      "description": "Passed down through the ages from one descendant of Salazar Slytherin to another, this wand made from snakewood contains a fragment of the horn of a magical serpent, Salazar’s basilisk to be precise. A supremely powerful wand, with a particularly strong affinity for the Dark Arts. Such spells cast with this wand are both easier to cast and a lot stronger than normal. The wand has been taught by Salazar to ‘sleep’ when so instructed, and this secret has been handed down through the centuries to each member of Slytherin’s family who possessed it. And now both the wand and this secret have been passed down to you.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 37,
-      "cost": 600,
-      "name": "Dementor’s Kiss ",
-      "source": "Harry Potter Movie Series",
-      "description": "You can now perform the Dementor's Kiss, the act of sucking out and consuming a person's soul, a punishment worse than death that completely destroys the person's soul making it impossible for them to become a ghost or be restored without building them a new soul. You can select what soul is pulled out if there are multiple souls within a body; breaking it down and enriching the user's soul, strengthening it and fully repairing any damage it has received. With time and experience the consumer would be able to absorb any beneficial traits the soul possess and possibly acquire a modicum of the skills and memories with the soul, this is far more effective when used in tandem with Legilimency. There are no detrimental side effects to the user's soul from this. You can also feed the soul to another for them to gain the same benefit This would not make you immune to the dementor’s kiss but could allow you to overpower them, both preventing them from stealing your soul and allowing you to takeany soul they have recently consumed.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 38,
-      "cost": 600,
-      "name": " A Personal Graveyard ",
-      "source": "Harry Potter Movie Series",
-      "description": "This ornate and decorative graveyard is a warehouse attachment that will automatically teleport any dead companions or followers into a grave with all of their parts including ash, souls and essence. Once per Jump per person you will be allowed to revive anyone brought here from death back to life, this will also function as a 1-UP for you if you have no more remaining.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 39,
-      "cost": 600,
-      "name": "Not just witches and wizards but all manner of dark creatures",
-      "source": "Harry Potter Movie Series",
-      "description": "Through this Perk you can dominate beasts and magical creatures, forcing them to follow you without question. This domination can be forced onto any non-sapient creature, and some low intelligence beings that would normally count as sapient. You can use this domination as long as you would normally be able to defeat them one on one; but it can be used on multiple beings simultaneously allowing you to dominate an army that could defeat dragons.",
-      "chapter": "Knockturn Alley"
-    },
-    {
-      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
-      "__line": 40,
-      "cost": 600,
-      "name": "Dark Creature Creation:",
-      "source": "Harry Potter - Magic Edition",
-      "description": "You learn the foul art on how to make abominations or magic and nature, making things like Dementors or an army of Inferi are not out of your reach.",
-      "chapter": "Knockturn Alley"
-    }
-  ],
-  "6": [
+  "4": [
     {
       "__source": "Celestial Spellbook 2 by Gothicjedi666 - Hogwarts",
       "__line": 1,
@@ -2018,7 +1384,7 @@
       "chapter": "Hogwarts"
     }
   ],
-  "7": [
+  "5": [
     {
       "__source": "Celestial Spellbook 2 by Gothicjedi666 - Potions Lab",
       "__line": 1,
@@ -2380,7 +1746,369 @@
       "chapter": "Potions Lab"
     }
   ],
-  "8": [
+  "6": [
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 1,
+      "cost": 0,
+      "name": "Robes and Mask ",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "All dark wizards need something to look the part don't they, you now have a set of concealing black robes and a skull-like mask to cover your face.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 2,
+      "cost": 100,
+      "name": "Cunning Linguist",
+      "source": "Slytherin Jump",
+      "description": "Many forbidden tomes of the Dark Arts are written in languages other than English. This could be slightly problematic if you’re trying to learn about the book’s contents but can’t read the language it’s written in. How very fortunate then that you’ve got quite a mind for languages. Not only do you now know three new languages of your choice, but you also pick up other languages twice as fast as before.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 3,
+      "cost": 100,
+      "name": "Some Determination Required",
+      "source": "Slytherin Jump",
+      "description": "The Dark Arts can grant a Dark Wizard or Witch many wondrous but terrible abilities. However, to acquire some of those abilities may require one to go through with monstrous acts. Is it any surprise then that you are determined enough to go through with your plans, no matter what the cost might be so long as you desire the end result enough? In addition, you are able to switch off your morality, for when you have no choice but to go through with those aforementioned acts that you wouldn’t be able to stomach otherwise. You can switch your morality back on at any time, and are even able to choose a predetermined time to automatically switch it back on in advance.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 4,
+      "cost": 100,
+      "name": "Slytherin Lock ",
+      "source": "Slytherin Jump",
+      "description": "A device invented by none other than Salazar Slytherin to safeguard his scriptorium. These metallic serpents function both as magical locks as well as gate guardians. You’ve acquired three of these devices that can be placed at any kind of doorway, where they will seamlessly meld with the doorway in question and from that point on will function as both locks and defenders. In addition, you’ve acquired a scroll with instructions on how to create more of these devices.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 5,
+      "cost": 100,
+      "name": "The Pure-Blooded Genealogy of Jumper",
+      "source": "Slytherin Jump",
+      "description": "Salazar Slytherin wanted to only teach those whose ancestry is purest, so it would not do at all for others to accuse you of being a half-blood, or worse, a muggleborn. How very fortunate then that you’ve got this tome containing your complete genealogy, proving that you are a pureblooded descendant of Salazar Slytherin himself. In future Jumps, this book will allow you to become a family member of a character of your choice. This somehow even works as a Drop-In, perhaps they’ll assume you’re some long-lost cousin?",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 6,
+      "cost": 100,
+      "name": "Portrait of Salazar Slytherin ",
+      "source": "Slytherin Jump",
+      "description": "A magical portrait of Salazar Slytherin painted and enchanted by a renowned wizarding painter. Though the Salazar within this painting is only a representation of the wizard himself, personality-wise he’s identical to the original. Whilst he doesn’t have any of the original Salazar’s magical knowledge or skills and is thus unable to tutor you in magic, this painting is very old indeed and has thus seen many ages pass by. Surely, having lived such a long life, even if merely as a painting, there is wisdom to be found in his counsel?",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 7,
+      "cost": 100,
+      "name": "Bearer of Cursed Blood",
+      "source": "Slytherin Jump",
+      "description": "Though she’s not an animagus, this witch is nonetheless capable of transforming into a large snake as a result of a blood curse. For now, she has the ability to change between human and snake at will, but this ability will gradually grow uncontrollable and she will eventually lose the ability to think like a human, until all that’s left is the snake that she is destined to become. She hopes to one day meet a parselmouth, in the hopes of holding onto a small shred of humanity when she inevitably succumbs to the curse. Perhaps you know of a parselmouth, or maybe you’re one yourself? Whatever the answer to that question may be, she believes joining your adventure as a Companion is her best chance of meeting one. Will you take her along with you?",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 8,
+      "cost": 100,
+      "name": "Jumper’s Mark",
+      "source": "Wizarding World Jump",
+      "description": "You may have come into this world with little more than the clothes on your back and your wand, but that does not mean you must leave this world the same. Taking a few notes from a certain snake-faced dark lord, you’ve ensured that you can leave your mark in this world. By engraving a certain symbol of your own design into the skin of the willing, you may mark them, allowing you to call upon them so that they may stand by your side. Of course, these marks can also be used by their bearers to call upon their fellow bearers and, if you are willing to reciprocate, even you. And finally, you now know a spell that allows you to conjure your symbol high in the sky, an aurora of magic that is well and truly yours. With such a thing, there shall be no mistaking who was responsible for your deeds.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 9,
+      "cost": 100,
+      "name": "Dark Creatures Affinity",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "Dark creatures are more likely to obey your orders and view you as an Ally rather than a food source.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 10,
+      "cost": 100,
+      "name": "He Just Can’t Be Back ",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "Other people will find reasons to downplay your actions or deny that they need to oppose you. Your actions may be blamed on a fall guy.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 11,
+      "cost": 100,
+      "name": "Manor ",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "A massive well-maintained manor suitable for the wealthiest of wizarding families, heavily enchanted for the owner's convenience and safety.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 12,
+      "cost": 100,
+      "name": "Shady Shop",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "A small run-down store off the beaten path that just so happens to both buy and sell some less than legal but exceedingly useful things.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 13,
+      "cost": 200,
+      "name": "From the Mouth of Serpents",
+      "source": "Slytherin Jump",
+      "description": "Parseltongue is the language of all serpents, and those witches and wizards who can speak it are known as parselmouths. One of the most famous parselmouths in history is of course none other than Salazar Slytherin, and his descendants have inherited this gift as well. Are you one of his descendants, by any chance? It would certainly explain how you can speak this magical language. Well, whatever the case may be, one thing is for sure. Yer a parselmouth, Jumper. And a thumpin’ good one, I’d wager. As a parselmouth you can both understand and speak to serpents of all kinds, and are even able to influence them to a certain extent.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 14,
+      "cost": 200,
+      "name": "Basilisk-skin Wardrobe ",
+      "source": "Slytherin Jump",
+      "description": "An entire wardrobe’s worth of clothing made from the skin of a mighty basilisk. Like the hide of a dragon, basilisk skin is very tough and shares its resistance to spells, and thus so do these clothes. No matter what your style or aesthetic may be, you're sure to find some suitable clothing within this wardrobe.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 15,
+      "cost": 200,
+      "name": "Chamber of Secrets",
+      "source": "Slytherin Jump",
+      "description": "Created by Slytherin himself during mediaeval times, this secret chamber is hidden under the dungeons of Hogwarts Castle. Accessible only by those capable of speaking in parseltongue, it was built with the hope that one day the school would be purged of those Slytherin considered unworthy. Though this is merely a copy of the actual Chamber of Secrets, that does not change that it is a large, well-hidden and well-protected hidden chamber that would make for an excellent secret lair worthy of any Dark Wizard or Witch. As the chamber’s owner, you are able to change the aesthetics, layout, and location once per Jump. Just like how only those who speak parseltongue are able to enter Slytherin’s chamber only certain people are able to enter your chamber, which you are of course free to designate. Perhaps only those who’ve been sorted into Slytherin house are capable of entering, or perhaps only those who’ve acquired a snake animagus form? The choice is yours.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 16,
+      "cost": 200,
+      "name": "Cursed Necklace",
+      "source": "Harry Potter Movie Series",
+      "description": "You have a strange control over this necklace causing the first person who touches it become a sleeper agent in order to complete a single preprogrammed objective..",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 17,
+      "cost": 200,
+      "name": "Homing Knife ",
+      "source": "Harry Potter Movie Series",
+      "description": "This magical knife has a special enchantment that when it is thrown it will automatically be pulled towards its intended target.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 18,
+      "cost": 200,
+      "name": "Heir of le Fay ",
+      "source": "Harry Potter Movie Series",
+      "description": "You are a descendant of the legendary Dark Witch Morgan le Fay and have inherited her immense talent on Potions and performing Dark Arts.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 19,
+      "cost": 200,
+      "name": "Walker of Shadowed Paths",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "You have great skill and good fortune in recovering long-lost magic and lore.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 20,
+      "cost": 200,
+      "name": "Blood Pact ",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "A silver chain and glass vial containing the blood of two people, the first is yourself, and the second is whomever you choose first on entering a Jump. While the vial remains intact neither you nor the other person whose blood is in the vial can intentionally harm nor obstruct each other directly",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 21,
+      "cost": 200,
+      "name": "Infiltrator",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "A (secretly) loyal servant who wishes for nothing but your victory, and who has successfully disguised themselves and slipped into the halls of your enemies to assist in such. Mediocre in power but skilled in stealth and a fair hand at Potions.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 22,
+      "cost": 200,
+      "name": "Traitor",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "A (fearfully) loyal, or at least obedient follower. This coward seeks your protection and gives you a view into the plans of your greatest group of enemies to buy it.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 23,
+      "cost": 300,
+      "name": "Horcrux",
+      "source": "Harry Potter - Magic Edition",
+      "description": "Contains part of your soul. As long as it is intact or the soul inside is unharmed, you can not die. Pick a mundane item to be its form.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 24,
+      "cost": 400,
+      "name": "Feldcroft Relic",
+      "source": "Slytherin Jump",
+      "description": "First discovered by one of Salazar Slytherin’s students, this tetrahedron is a dark artefact capable of healing people from both magical and mundane afflictions, maladies and injuries of all kinds—including those left by dark magic—by sacrificing another living being to the artefact. Most insidiously, these sacrifices can then later be summoned as inferi, corpses reanimated by the dark power present within this artefact. Even if these inferi should be destroyed, these reanimated corpses can be summoned once more after a few days, the dark power within forcing them to obey your commands over and over and over again.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 25,
+      "cost": 400,
+      "name": "Slytherin’s Spellbook ",
+      "source": "Slytherin Jump",
+      "description": "Originally stored in Salazar Slytherin’s secret scriptorium, it was later found by several Hogwarts students in the 19th century and has now miraculously made its way into your hands. Within, one can find the complete recounting of Salazar Slytherin’s life as well as all of his knowledge of the Dark Arts and magic in general. With this grimoire, even a witch or wizard of middling skill could become one of the greatest practitioners of the Dark Arts.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 26,
+      "cost": 400,
+      "name": "Dark Arts ",
+      "source": "Hogwarts Legacy",
+      "description": "You have an affinity for the Dark Arts, and know how to cast all three of the Unforgivable Curses. You have the ability to cause any of your curses, including the Unforgivables, to become ‘infectious’, spreading from one target towards others in various ways, as well as causing them to intersect, such as allowing you to kill one person with an Avada Kedavra who you have under the Imperius, and simultaneously causing anyone else you also have under the Imperius to die at the same moment.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 27,
+      "cost": 400,
+      "name": "Mark of Loyalty",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "For both your willing followers and your bound servants, you can create some mark, be it a brand or tattoo on their flesh or a piece of conjured jewelry that they can never remove, of a personal symbol that represents you or your cause. This isn’t just an identifying marker, however as it can be magically concealed, used to alert your servants that you have need of them, call them to your side, or punish them with pain all with a thought while also automatically triggering their brains to release dopamine whenever you are pleased with their performance.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 28,
+      "cost": 400,
+      "name": "Basilisk Fang",
+      "source": "Harry Potter Movie Series",
+      "description": "This dagger-like fang can produce a limitless supply of any type of venom; if left unattended it would drip out producing a teaspoon a day but if you want to gain more you can squeeze it to make it come out at a trickle thereby producing the same amount in less than five second",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 29,
+      "cost": 400,
+      "name": "Enduring Curse ",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "Curses you cast never wear off on their own, if they can't magically remove the effects they'll just have to suffer them forever.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 30,
+      "cost": 400,
+      "name": "Taboo ",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "Can cast a curse on any name you choose this curse instantly destroys any protective charms, enchantments, or other purely magical defenses around anyone who speaks the name aloud and informs you or someone of your choice of their location.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 31,
+      "cost": 400,
+      "name": "\nBlack Smoke Flight",
+      "source": "Generic HP Dark Wizard Jump",
+      "description": "Unassisted magical flight, turns your body partially or fully into a cloud of black Smoke. While fully smoke you can turn invisible and tear through stone and steel with ease.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 32,
+      "cost": 500,
+      "name": "Cave of Sorrows ",
+      "source": "Harry Potter Movie Series",
+      "description": "This cave is a replica of the one used to hide one of Voldemort’s Horcruxes. Entering the cave requires climbing the side of a mountain, then the entrance requires a blood sacrifice to open, leading to a large Inferi-infested underwater lake with an island in the centre. To cross the lake a person would be required to find and use the invisible boat and on on the island is a basin filled with a potion that could not be touched except with a cup with the only way to dispose of it being to drink it causing the drinker to see and experience \"terrible things\". unless they are you. Once empty the basin will lead to a vault that anything can be stored within.If the lake water is touched or any of the rules are broken a near-infinite army of Infe will rise from the lake and attempt to kill the interloper and make them an Inferi. You may also call many of the Inferi out of the cave for up to 3 hours with them following your commands before they disintegrate.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 33,
+      "cost": 500,
+      "name": "Obscurus",
+      "source": "Harry Potter Movie Series",
+      "description": "Your body is now a stable, controllable force of energy similar to an Obscurus with any parts of your body including blood, skin and hair turning into magical ash shortly after separation. Any harm to your body will quickly repair itself with the magical force you are made of filling in the gap You are able to shift between your normal visible form and an energy cloud that you will retain complete control.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 34,
+      "cost": 600,
+      "name": "Breeder of Serpents",
+      "source": "Slytherin Jump",
+      "description": "It was the ancient Greek dark wizard Herpo the Foul who first created the basilisk, after much experimentation and failed attempts. The knowledge of how to create these mighty serpents is now yours, but your skill at serpent breeding does not stop there. Indeed, you’re quite skilled and knowledgeable when it comes to breeding any kind of serpent, be they magical or not. Naturally this also extends on how to care for them in general, it would not do to finally breed your own basilisk only to then have it die in a fiery inferno because you mistakenly believed a basilisk to be fireproof, for example. That would just be embarrassing, wouldn’t it?",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 35,
+      "cost": 600,
+      "name": "Master of the Darkest Arts",
+      "source": "Slytherin Jump",
+      "description": "The Dark Arts are many, varied, ever-changing, and eternal. They are likened to a many-headed monster which, each time a neck is severed, sprouts a head even fiercer and cleverer than before. As one of the more notable practitioners Salazar Slytherin’s skill with the Dark Arts rivals that of Herpo the Foul, Grindelwald, and possibly Voldemort. And now it would seem you stand amongst them, at least when it comes to the Dark Arts. Naturally, this also means you’re capable of casting the three unforgivable curses.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 36,
+      "cost": 600,
+      "name": "Salazar Slytherin’s Wand ",
+      "source": "Slytherin Jump",
+      "description": "Passed down through the ages from one descendant of Salazar Slytherin to another, this wand made from snakewood contains a fragment of the horn of a magical serpent, Salazar’s basilisk to be precise. A supremely powerful wand, with a particularly strong affinity for the Dark Arts. Such spells cast with this wand are both easier to cast and a lot stronger than normal. The wand has been taught by Salazar to ‘sleep’ when so instructed, and this secret has been handed down through the centuries to each member of Slytherin’s family who possessed it. And now both the wand and this secret have been passed down to you.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 37,
+      "cost": 600,
+      "name": "Dementor’s Kiss ",
+      "source": "Harry Potter Movie Series",
+      "description": "You can now perform the Dementor's Kiss, the act of sucking out and consuming a person's soul, a punishment worse than death that completely destroys the person's soul making it impossible for them to become a ghost or be restored without building them a new soul. You can select what soul is pulled out if there are multiple souls within a body; breaking it down and enriching the user's soul, strengthening it and fully repairing any damage it has received. With time and experience the consumer would be able to absorb any beneficial traits the soul possess and possibly acquire a modicum of the skills and memories with the soul, this is far more effective when used in tandem with Legilimency. There are no detrimental side effects to the user's soul from this. You can also feed the soul to another for them to gain the same benefit This would not make you immune to the dementor’s kiss but could allow you to overpower them, both preventing them from stealing your soul and allowing you to takeany soul they have recently consumed.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 38,
+      "cost": 600,
+      "name": " A Personal Graveyard ",
+      "source": "Harry Potter Movie Series",
+      "description": "This ornate and decorative graveyard is a warehouse attachment that will automatically teleport any dead companions or followers into a grave with all of their parts including ash, souls and essence. Once per Jump per person you will be allowed to revive anyone brought here from death back to life, this will also function as a 1-UP for you if you have no more remaining.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 39,
+      "cost": 600,
+      "name": "Not just witches and wizards but all manner of dark creatures",
+      "source": "Harry Potter Movie Series",
+      "description": "Through this Perk you can dominate beasts and magical creatures, forcing them to follow you without question. This domination can be forced onto any non-sapient creature, and some low intelligence beings that would normally count as sapient. You can use this domination as long as you would normally be able to defeat them one on one; but it can be used on multiple beings simultaneously allowing you to dominate an army that could defeat dragons.",
+      "chapter": "Knockturn Alley"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Knockturn Alley",
+      "__line": 40,
+      "cost": 600,
+      "name": "Dark Creature Creation:",
+      "source": "Harry Potter - Magic Edition",
+      "description": "You learn the foul art on how to make abominations or magic and nature, making things like Dementors or an army of Inferi are not out of your reach.",
+      "chapter": "Knockturn Alley"
+    }
+  ],
+  "7": [
     {
       "__source": "Celestial Spellbook 2 by Gothicjedi666 - The Wizarding World",
       "__line": 1,
@@ -2830,6 +2558,278 @@
       "source": "Generic Harry Potter Fanfiction",
       "description": "​Ah, yes. This has grown somewhat popular lately, I’ll admit. This is a private island of your very own, raised from the sea-floor, or created through a volcanic eruption, or whatever other means you want, that’s not important. What’s important is that this island is linked directly to your magical core. Simply put, its size is directly proportional to how much magic you pour into it. As you put in more magic, you can literally see new land forming at the edges, ready to be moulded to your will. While it won’t shrink once enlarged unless you want it to, you have the ability to control virtually everything about this place, including its shape, flora and even the weather. This island is roughly half the size of Ireland to begin with, and can expand quite a lot, dependant solely on your power. At about Australia, though, the efficiency takes a sharp dive, to the extent it takes over five times the power to increase it any further, and this only rises from here. The effects of this island on the climate of the world are negated with the same magic that constitutes it, so no need to worry about that. Comes with rudimentary Notice-me-not charms all over it, but they won’t stand up to any concerted efforts unless you boost them. Speaking of which, this island is very receptive of any protection or secrecy magic, to the extent that all such efforts yield twice the expected results.",
       "chapter": "The Wizarding World"
+    }
+  ],
+  "8": [
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 1,
+      "cost": 0,
+      "name": "Gold Galleons",
+      "source": "Harry Potter Movie Series",
+      "description": "For Free you will gain £1,000 worth of wizarding currency broken down into the following amounts: ● 4,930 Bronze Knuts ● 170 Silver Sickles ● 180 Golden Galleons",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 2,
+      "cost": 100,
+      "name": "Galleon Pouch ",
+      "source": "Hogwarts Legacy",
+      "description": "A large sack full of a hundred galleons. A modest fortune by the standards of the time (keeping in mind the prices in the game are inflated by roughly a factor of 100 to 200 times what they would actually be). This sack will gain one hundred more galleons each month.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 3,
+      "cost": 100,
+      "name": "Room Of Lost Things ",
+      "source": "Hogwarts Legacy",
+      "description": "A room filled with the remnants of a great deal of broken and discarded items, ranging from furniture to decorations to chests to books. Hidden among the random junk can be potential treasures that are still valuable, simply lost. Over time, newly ‘lost’ items will appear within the room.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 4,
+      "cost": 100,
+      "name": "\"Great Gold Coins The Size Of Hubcaps\"",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "Gain 500 Galleons (or same Value in the local Equivalent) on September 1st every Year.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 5,
+      "cost": 100,
+      "name": "Liquid Wealth ",
+      "source": "Wizarding World Jumpchain",
+      "description": "Many pure-blood families carry with them centuries of history and with such age, comes wealth borne from the passing of time. And whether pure-blood or not, you’ve gotten your hands on a substantial amount of wealth indeed. 50,000 Galleons worth to be exact. Used wisely, this should be more than enough money for you to live off comfortably for the rest of your days, even without taking into account that you have magic and that you’ll be receiving this amount of money every ten years or so.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 6,
+      "cost": 100,
+      "name": "Goblin Manager",
+      "source": "Generic Harry Potter Fanfiction",
+      "description": "This is a Goblin of the Gringotts clan, and has chosen to serve you as a loyal manager of your interests. An absolute financial genius, he is a master of both predatory and genuinely good lending, knows how to manipulate all the magical and muggle markets like the back of his hand, and has an unbelievably good eye for investment opportunities both muggle and magical. You can put him in charge of any and all money-related matters, be it balancing your personal chequebook or as the CEO of all your estates and businesses or running the Finance Ministry of your kingdom, and trust him to manage it all with superb brilliance. You won’t ever need to worry about money with this guy around. If you want he’ll also teach you and others his stuff, although getting as good as him might take a looong while, considering how he’s the Einstein, Hawking and Tesla put together of Finance.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 7,
+      "cost": 200,
+      "name": "Gringotts Vault",
+      "source": "Slytherin Jump",
+      "description": "Gringotts Wizarding Bank is the only wizarding bank in Great Britain, and is owned and operated by goblins. Many wizarding families have their own vault, and now so do you. Located within the deepest parts of the bank itself and protected by a blind dragon and several protections known only to the goblins of Gringotts, your vault contains a veritable boatload of galleons, sickles, knuts, and precious gems such as diamonds, rubies, and emeralds. You’re now wealthy enough to live in absolute luxury for several hundred years. As a free complimentary service, Gringotts also offers a currency exchange service, allowing you to to exchange your wizarding wealth for any other currency. This vault while part of the bank is also in an extra-dimensional space you can access through any door using your key",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 8,
+      "cost": 200,
+      "name": "Pensieve ",
+      "source": "Hogwarts Legacy",
+      "description": "A special enchanted device that can allow memories to be replayed in impossible detail. The basin comes with a plinth to sit on, which has a hidden storage compartment with a hundred specially prepared vials, each of which can securely hold a memory for later viewing. Also comes with an enchanted eyedropper that can allow anyone, even Muggles, to safely extract a memory for viewing.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 9,
+      "cost": 200,
+      "name": "Watchful Chest",
+      "source": "Hogwarts Legacy",
+      "description": "A large chest with a large eye in the place of a lock, which has also been fitted with a set of wheels on the bottom, allowing it to wheel itself around. This chest is hardened against unlocking spells, and its eye has been enchanted, allowing it to see through invisibility spells. It will only open itself for you and those you explicitly tell it to allow access.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 10,
+      "cost": 200,
+      "name": "Philosopher’s Stone ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "You could have made this on your own, but maybe you don’t have the patience, or you’d like a sample to reverse engineer, or you’d just prefer the security of a fiat-backed item that’ll make its way back to your warehouse if lost or stolen. Anyway, the philosopher's stone is an artifact that allows one to translate base metals into pure gold and that produces the elixir of life, a potion that restores the drinkers to their full strength and can make them immortal if consumed regularly and continuously. Supplemental materials likewise imply that it will increase your power and skill in regard to alchemy and its component disciplines. Now the prequel films seem to imply that the elixir merely slows aging rather than stopping it or restoring youth but plenty of fanfics predate that reveal and do depict it deaging you to the prime of your youth so this version does.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 11,
+      "cost": 200,
+      "name": "Crown of Mneme ",
+      "source": "Wizarding World Jumpchain",
+      "description": "You may have heard of the Deathly Hallows, objects of such power that wizards and witches have killed to obtain them for centuries. If so, you probably aren’t surprised to learn that there are more artifacts of great power to be found in this world, even if they aren’t as mighty as the Deathly Hallows. Created by Dai Ryusaki, a professor of Mahoutokoro, many centuries ago, the Crown of Mneme can be considered a Legilimen’s best friend. Even a novice in the mental arts will find themselves possessing considerable skill in Legilimency once this crown rests on their head. Originally intended as a medical device of sorts, the Crown of Mneme will do more than bolster your skill in Legilimency. With this crown, masters of Legilimency will even be able to recreate one of the Unforgivable Curses, being fully capable of controlling the weak-minded so long as they focus.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 12,
+      "cost": 200,
+      "name": "Ryusaki’s Amulet ",
+      "source": "Wizarding World Jumpchain",
+      "description": "Apparently, Dai Ryusaki was not content with simply creating one magnificent artifact that could stand the test of time. In truth, this amulet was not purposefully made. Rather, in the throes of his final moments, Ryusaki cursed it, infusing with all the rage and hate burning in his soul, forever turning the once bright and beautiful amulet into a thing of darkness. While wearing the amulet, you will find it slightly easier to use abilities of a darker nature but you will quickly find that is not where its true power lies. For you see, this amulet shows its true colors when worn by another, one that might not be so inclined to the Dark Arts. When worn by another, the curse upon the amulet shall make itself known. Within moments, it shall begin to influence the wearer’s mind. Day by day, the wearer’s will shall be tested and they will find themselves more and more willing to use the Dark Arts. And when their path towards the Dark is complete, the amulet shall leave their clutches and find its way back to you. And the best part? Unless they know about the amulet’s curse, they’ll never even notice that they’ve found themselves on a darker path. Like moths to a flame, or clay to be molded, by you.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 13,
+      "cost": 200,
+      "name": "Skull-Hookah ",
+      "source": "Wizarding World Jumpchain",
+      "description": "While Dark relics don’t necessarily need to look the part, like the one above for example, this one certainly does. Bearing a heavy resemblance to the skull-hookah Gellert Grindelwald once possessed, this aged and yellowed skull has been emblazoned with engravings and markings of symbols of the Dark Arts and of your own. And much like Grindelwald’s own, you can use this skull to project the visions within your mind over a vast area, large enough to encompass a colosseum. Useful if you need to impress the masses or perhaps convince them of the righteousness of your cause. However, the skull has one more fascinating ability to it. If it is broken, either by your hands or that of another, the magic within the skull shall rush into the next spell you cast. In doing so, the might of this spell shall be massively improved. A fire that burns down a house, for example, will become one that shall burn down a town. Once broken, you will receive a new one at the start of the next week.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 14,
+      "cost": 200,
+      "name": "Goblin Dagger",
+      "source": "Tri-Wizard Gauntlet",
+      "description": "This goblin made weapon is able to absorb anything that can make the metal stronger into the blade. The metal of the blade is initially as tough as tungsten while being lightweight.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 15,
+      "cost": 200,
+      "name": "Crystal Casket ",
+      "source": "Harry Potter Movie Series",
+      "description": "Through this magical chest, you are able to seal away any selected emotions, protecting them from any supernatural effects that may target them. Any emotions sealed this way for any period of time can be released at will without any negative effects on them or you when unsealed.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 16,
+      "cost": 300,
+      "name": "Goblin Forged Blade",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "Blade forged of silver by a Goblin, never tarnishes, dulls, or breaks, and takes in anything that would make the blade stronger.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 17,
+      "cost": 300,
+      "name": "Death picked up a stone from the riverbank",
+      "source": "Harry Potter Movie Series",
+      "description": "With this Perk guiding you, you are able to imbue any mundane materials with your magic, making them a viable material for crafting magical objects with.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 18,
+      "cost": 400,
+      "name": "Sealed Repository ",
+      "source": "Hogwarts Legacy",
+      "description": "A large set of rings, made out of Goblin Silver and filled to the brim with Ancient Magic. Unlike the repositories that the Keepers guard, this repository is not tainted with negative emotions, but is instead a source of pure magic. It is possible for you to draw out this magic to empower yourself or link it into enchantments and wards to greatly empower them, even if you don't have the ability to see Ancient Magic natively. With such a power, you could use this power even more precisely. The energy within the repository will regenerate over time if used.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 19,
+      "cost": 400,
+      "name": "Mirror of Erised ",
+      "source": "Harry Potter Movie Series",
+      "description": "The Mirror of Erised is a magical mirror that shows the viewer their deepest and most desperate desire that is held in their heart. The mirror is also enchanted so that it can store and perfectly hide anything within it and set conditions for others to access the Items within, such as only those who seek the Item but do not plan to use it may retrieve it.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 20,
+      "cost": 400,
+      "name": "Deluminator",
+      "source": "Wizarding World Jumpchain",
+      "description": "Now just how did you get your hands on this? This little thing, resembling a rather fancy cigarette lighter, is the Deluminator and it is the proud creation of one Albus Dumbledore, quite possibly the greatest wizard of the modern age. Fittingly enough, this device is quite powerful indeed. At the most basic level, the Deluminator can take away and put back light from any source, whether it be technological or magical. Second, whenever your name is mentioned in a conversation, the Deluminator will play back a snippet of the conversation to you. Activate the Deluminator at this point and you will safely be apparated into location, enough to ensure that you may never be separated from your friends again. Finally, there is the Deluminator’s most powerful ability. With this, you may transport yourself and others into a mirror dimension of sorts. Within this world, you may battle to your heart’s content, with no risk to the people and the world beyond. Albus Dumbledore truly was a genius if he could make something like this. Why not follow in his footsteps, at least in this regard?",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 21,
+      "cost": 400,
+      "name": "Goblin Armor",
+      "source": "Wizarding World Jumpchain",
+      "description": "Whatever wizards and witches may believe about goblins, fools dare to underestimate them at their own peril. Look no further than their craftsmanship, a skill so heavily guarded by goblins and vaunted by witches and wizards across the world. Clad yourself in this armor and witness for yourself just how mighty a goblin can be. Forged from goblin silver, this magnificent set of armor has been enhanced with magic beyond what goblins are ordinarily capable of. You see, by channeling your own magic through the armor like you would with a wand, the silver shall glow a malevolent red as the corrupted ancient magic within come to life. Not only will you have a hefty resistance against most spells, almost equal to what a proper Shield Charm can provide, but so long as you continue to channel your magic through the armor, you will have a vast array of newfound abilities to use against your foes.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 22,
+      "cost": 400,
+      "name": "Property-Mover",
+      "source": "Partially Kissed Hero",
+      "description": "A simple, staff-like device, this has a hemispherical cavity at one end, and is covered with runes and powerful spells. By touching the cavity to the ground in any place you own, be it through jump-fiat or acquired in-jump, you can shrink the property into a snow-globe sized, portable form, which you can then move freely. To place it back on the ground in its full size, you need to just put the globe back in the cavity and touch it to the ground in any area of sufficient size. Examples of property moved are greenhouses, manors, castles, farms and chunks of forest, up to and including mines and lakes.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 23,
+      "cost": 600,
+      "name": "Slytherin’s Locket ",
+      "source": "Slytherin’s Locket ",
+      "description": "A golden locket decorated with a serpentine S in glittering green stone inlay on the front, originally owned by none other than Salazar Slytherin himself. It is said that it contains all kinds of magical powers, but that it will only allow itself to be used by those who speak the serpent’s tongue. Should you be capable of such, then the locket will reveal its true power to you. It will allow you to imbue it with a small part of your soul. This ensures that should you somehow shuffle off this mortal coil someone will pick up the locket and be compelled to bring you back to life through a profane ritual within the next few weeks. This ritual does destroy the locket in the process, but curiously you will find it restored to perfect condition at the end of the Jump or after ten years, whichever comes first.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 24,
+      "cost": 600,
+      "name": "Ring of Lordship ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "You’ve inherited, by blood, adoption, or conquest, a dozen or so noble titles of various ranks tied to various families of various levels of prestige and this ring will prove it to anyone who sees it on your finger. Not only that, but your noble heritage somehow gives you the power to vote in the legislative bodies of whatever nation you currently reside in even if you are only a child and the legislature has nothing to do with nobility. Even if nobility isn’t recognized in that nation. Not only that, you get multiple votes. How many? Enough to be a considerable power block by yourself but not enough to be a decisive majority. You may also appoint proxies to vote for you if you’d rather not attend sessions in person.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 25,
+      "cost": 600,
+      "name": "Cloak of Invisibility ",
+      "source": "Harry Potter Movie Series",
+      "description": "A magical artefact used to render the wearer invisible, it can be one of the rare commercially available invisibility cloaks or take the place of the fabled Deathly Hallow though lacking the tracking and compulsion charms the original had. In Jump this can become an independent copy or it can replace the Cloak of Invisibility, absorbing it and either appearing in its place or in your possession.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 26,
+      "cost": 600,
+      "name": "Sword of Godric Gryffindor ",
+      "source": "Harry Potter Movie Series",
+      "description": "A goblin-made magical sword owned by the famed wizard Godric Gryffindor, this sword can be used as a wand and because it is made from goblin's silver, it strengthens itself with what it touches meaning it never requires cleaning and is imbued with Basilisk venom.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 27,
+      "cost": 600,
+      "name": "Resurrection Stone",
+      "source": "Harry Potter Movie Series",
+      "description": "This glass-like Stone engraved with the Peverell coat of arms is fitted into a golden ring.Unlike the original, this one does not harm you if you wear it. It has the power to resurrect the spirits of the deceased as summoned shades that are more physically solid than a ghost but less so than a living body. These shades produce a repelling effect against Dementors and other soul-consuming beings; except yourself if you are able to consume souls.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 28,
+      "cost": 600,
+      "name": "Hufflepuff's Cup ",
+      "source": "Harry Potter Movie Series",
+      "description": "This small golden badger engraved cup was enchanted by Helga Hufflepuff to be an internally isolated space and perform a permanent transmutation. This method of transmutation allows you to convert any liquid into any other type of liquid, even those that don't exist in-universe and thereby surpass Gamp's Law of Elemental Transfiguration. Through this you could convert water into blood, vinegar, wine and even liquid gold with none of it sticking to the inside when poured out. Once a liquid has left the cup the magic keeping it in liquid state will end and may cause an exothermic or endothermic reaction. In Jump this can become an independent copy or it can replace Voldemort's Horcrux, destroying it and either appearing in its place or in your possession.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 29,
+      "cost": 600,
+      "name": "Rowena Ravenclaw's Diadem",
+      "source": "Harry Potter Movie Series",
+      "description": "This diadem is often said to enhance the wisdom of its wearer, however in truth it does far more than that. While being worn the diadem clears the user’s mind of all distractions, allowing them clarity of thought, and increases their perception of events, allowing them longer to think in the same span of time. The diadem also grants the user a form of photographic memory which allows them to call up anything they have ever known and retain any knowledge they gain whilst wearing the diadem perfectly once it has been removed. In Jump this can become an independent copy or it can replace Voldemort's Horcrux, destroying it and either appearing in its place or in your possession.",
+      "chapter": "Gringotts"
+    },
+    {
+      "__source": "Celestial Spellbook 2 by Gothicjedi666 - Gringotts",
+      "__line": 30,
+      "cost": 600,
+      "name": "Elder Wand ",
+      "source": "Harry Potter Movie Series",
+      "description": "This wand is more than just a focus, it is an amplifier allowing any spells cast using it be ten times stronger than a regular wand. While holding this wand you also gain the collective magical knowledge of everyone who has ever used this wand or been defeated by it, though in order to retain the information you will need to hold the Elder Wand and practice using a regular wand. You have truly earned the loyalty of this wand, and so it will take no other master. In Jump this can become an independent copy or it can replace the Elder Wand, absorbing it and either appearing in its place or in your possession.",
+      "chapter": "Gringotts"
     }
   ]
 }

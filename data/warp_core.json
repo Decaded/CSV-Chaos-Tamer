@@ -165,274 +165,220 @@
   ],
   "2": [
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 1,
-      "cost": 400,
-      "name": "Toolkit ",
-      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
-      "description": "You might end up needing to do a lot of engineering work, and you might not always have the tools you need for the job. This toolkit fixes that problem. So long as you – or someone you’re assisting – has the skill and knowledge to actually do something, and all you need is a specific tool, you can now pull said tool out of this thing. The tools will vanish as soon as they’re no longer needed for that particular task, but you can get another as soon as you need it again. Nobody will find this odd unless you point it out.",
-      "chapter": "Engineering and Sick Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
-      "__line": 2,
       "cost": 100,
-      "name": "Engineering",
-      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
-      "description": "You've been trained in the maintenance and repair of Starships. Not only do you have a significant amount of mechanical",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Stasis Fridge ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Whether this uses cryogenics, temporal manipulation or Fiat, you have a set of containers you can use to store all sorts of things. They won’t degrade, they won’t age, and they’ll be just as good as they were when you put them in. Feel free to use for important equipment, groceries, organs and other things you need to keep fresh.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 2,
+      "cost": 400,
+      "name": "Resources ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Being a trader with nothing to trade, a settler with nothing they can use to settle, or generally not having anything to start off with might be a problem. This item resolves this issue, giving you a reasonable amount of resources regarded as at least moderately useful and valuable for wherever you start off. Not a fortune or enough to settle an entire planet by itself, but it could be the start of one, if you know who to talk to and can get them to trade or invest in your endeavours. You get a resupply of the same quantity and quality following whatever rules are applied for Fiat Backed items, and it will adapt to stay useful in different Jumps.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 3,
       "cost": 100,
-      "name": "Robotics",
-      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
-      "description": "A combined study of mechanical engineering, and computer science. You learn how to make a wide array of machines, and you could even figure out Android or Borg technology if you studied it enough.",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Hydroponics Containers",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "These could be put into a bay specialised for that purpose, or just kept somewhere for yourself. They contain a variety of flowers and insects, which won’t escape or cause a mess. Feel free to use them for experiments, decoration, or potentially as food if you or a friend develops odd cravings. Surprisingly, they’re perfectly alright for any species to eat with no complications.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 4,
-      "cost": 400,
-      "name": "Time Agent Toolkit",
-      "source": "Star Trek: Enterprise",
-      "description": "A standard 31st Century Temporal Agent toolbox including; a time-communicator, Temporal Observatory that visualizes the time-stream and any incursions or changes, a futuristic database of historic records and technical specifications, and a spatial interphase device allowing people to walk through walls. The computer doesn’t update, but 31st Century Federation tech is nothing to sneeze at, even if it might take a while to build the tools to build the tools to build it.",
-      "chapter": "Engineering and Sick Bay"
+      "cost": 500,
+      "name": "Portable Replicator",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "Much smaller and lighter than a regular replicator, but still just as capable. This device is able to fit inside of a backpack and can be powered of large amounts of solar energy and raw matter. It can create pretty much any known physical object, but it cannot replicate dangerous or complex things like antimatter or living organisms",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 5,
-      "cost": 800,
-      "name": "Legacy Of The Vor’Soth",
-      "source": "Star Trek: Elite Force",
-      "description": "This semi-spherical machine is only a few feet across, but don't let its size fool you. Known simply as a 'seed', this device is a small, self-contained fabrication system holding the entirety of the Vor’Soth’s knowledge. Given time and materials, the seed can rebuild itself into a new Forge, first by harvesting asteroids and other secluded sources of raw materials, and later by potentially trapping other vessels using the FTL recall system and power suppression field that led to Voyager’s entrapment. It also contains enough biotech to create entire armies of super soldiers and psychically gifted enforcers - be it by recreating the Harvesters, Reapers and Avatars used to create the Vor’Soth’s army... or by altering existing species - or even yourself - to suit your needs instead.",
-      "chapter": "Engineering and Sick Bay"
+      "cost": 100,
+      "name": "Agony Booth",
+      "source": "Star Trek: Enterprise",
+      "description": "A transparent cylinder large enough to stand in and tough enough to keep a person confined. Can stimulate nerves to cause unimaginable pain to any prisoner contained within.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 6,
-      "cost": 200,
-      "name": "I Wouldn’t Be Much Of A Demolitionist…",
-      "source": "Star Trek: Elite Force",
-      "description": "...if I couldn’t blow up a door.” Well, you and Austin Chang would probably get along splendidly, because explosives might as well be in your blood. Grenade launchers, demolitions, breaching charges, maybe a detonator or two… you’ve seen them all, used them all, and you’re the first person anyone goes to whenever they need something to go ‘boom’. More than that, you’re an absolute savant when it comes to recognizing weak points or critical components; even a small bomb could cause a devastating chain reaction if put in the right place, and you’ll know where it is every single time.",
-      "chapter": "Engineering and Sick Bay"
+      "cost": 100,
+      "name": "Trellium-D",
+      "source": "Star Trek: Enterprise",
+      "description": "A handy material that proofs your ship against spatial distortions, as are common in the Delphic Expanse. Also insulates against other exotic effects that might warp, distort, dimensionally shift or corrupt your ship. Unfortunately addictive to Vulcans and can turn th m into rage zombies. Thirty barrels, refills weekly.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 7,
-      "cost": 400,
-      "name": "Systems Specialist",
+      "cost": 100,
+      "name": "Isodesium",
       "source": "Star Trek: Elite Force",
-      "description": "You can’t always shoot your way out of trouble; sometimes you need brains like yours. You’re a talented engineer, hacker and xeno-specialist, with a particular focus on alien system analysis. Though more in-depth use of an alien’s computer systems will obviously require more extensive study, you’re nothing less than a savant when it comes to quickly finding whatever critical program or circuit you need to close a bulkhead on an incoming group of enemies, disable a self-destruct system, or otherwise deal with the latest urgent crisis that’s going to kill everyone in less than ten seconds unless you stop it. Just… try and stay calm under fire, yeah? One Chell’s enough.",
-      "chapter": "Engineering and Sick Bay"
+      "description": "An uncommon resource not usually found in Federation technologies, Isodesium is occasionally employed by less advanced societies; often without recognizing its potential. Appearing as a rough, metallic ore, this compound can be integrated into a variety of energy systems to bolster its function. While it doesn't have any effect on overall power, it makes such systems much more resistant to anything that might interfere with their power, such as those caused by power-draining energy fields, E.M.P. weapons, overloads or similar kinds of issues. You receive several kilos of unrefined Isodesium, which replenishes on a weekly basis when used up, lost, destroyed or otherwise spent. Maybe you can find some use for it?",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 8,
-      "cost": 600,
-      "name": "Star Trek: Elite Force",
-      "source": "Star Trek: Elite Force",
-      "description": "Though the skill of Federation engineers is (in)famous in general, a lot of the time these fine men and women achieve feats of legend while forced to improvise with various amounts of ‘technobabble’. Doing so in the middle of a battle is somewhat dangerous to your health, however, so those in charge of developing and maintaining the equipment used by the Hazard Teams need to anticipate instead. You’re a master engineer, not with starship systems or holodecks or what have you, but with guns. Reverse-engineering recovered equipment is trivial for you, and given an afternoon and a decent supply of components, you could whip up new weapons and other combat systems that could revolutionize Starfleet infantry combat doctrines. Why stop at grenade launchers when you can start blasting enemies apart with miniaturized photon torpedoes instead? With these kinds of skills, the other ‘yellow shirts’ would probably look at you with more than a little awe… and perhaps some fear, as well.",
-      "chapter": "Engineering and Sick Bay"
+      "cost": 400,
+      "name": "Anomaly Consolidation",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A crate which contains hazardous scientific research materials that can not be recycled in a matter recombinator. Although most of the contents are considered dangerous refuse and you may not be able to use them all right away, they are all premium goods of the highest quality. The crate refills once a week with random anomaly waste, everything inside the crate has the potential to be used for a variety of things especially in worlds that have magical crafting.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 9,
       "cost": 400,
-      "name": "Regeneration Alcove ",
-      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
-      "description": "This might not be a particular piece of Borg technology unless you need it to be. As various different species might require special conditions to rest, recover, or survive in a universe with laws of physics different from the one they originated in. That shouldn’t be too much of a problem now. Consider this item an adaptive habitat, suitable for a single individual, altering however you need it to allow the recovery and maintain health of anything inside it. If you don’t have any specific requirements, it can become a bed that allows restful sleep and rapid recovery from any problems that wouldn’t require treatment from a medical specialist to resolve.",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Wireless Drone Printer",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This innate facsimile of AGIMUS is capable of printing dynamic wireless drones that have built in phasers and camera feeds allowing you to use them both for defence, gardening and scouting.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 10,
-      "cost": 100,
-      "name": "24th Century Standard Jab",
-      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
-      "description": "Lots of diseases and conditions either aren’t present here, or you might run into something new. Consider yourself inoculated against the standard stuff here, unable to accidentally infect people with a cold or pick up something yourself. This doesn’t stop weaponised diseases, enormous viruses, or rarer life- threatening communicable problems.",
-      "chapter": "Engineering and Sick Bay"
+      "cost": 200,
+      "name": "Raisin Vineyard",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "Your warehouse now contains an extension that contains a 3000 acre vineyard plantation. The species of grapevines in this vineyard were specifically grown for optimising the texture and flavour of dried raisins. You may also have an additional 1000 acres of land in the room to act as a pineapple and or coffee vineyard. Can also be a pocket dimension or placed on a planet",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 11,
-      "cost": 100,
-      "name": " Medical Kit ",
-      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
-      "description": "In addition to a full supply of bandages and gauze, this kit also contains a hypospray, a device that can inject liquids without breaking a patients skin. The hypospray comes with vials of anesthetic, antibiotics, and healing boosters that automatically refill after 24 hours.",
-      "chapter": "Engineering and Sick Bay"
+      "cost": 200,
+      "name": "Farming Tools and Art Supplies",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A self refilling crate that once a week contains any miscellaneous or common supplies, tools or equipment that could be easily acquired by any federation citizen.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 12,
       "cost": 100,
-      "name": "Surgeon ",
-      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
-      "description": "You’ve been trained in the art of physiological modification. You’ll be able to perform facial and bodily modification procedures that can greatly alter someone’s appearance. At first you’ll only be able to perform minor surgeries, like making a human look like a Vulcan, but with time and practice, you may be able create exotic and terrifying chimeras",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Phaser Drill ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "An excavation device employing phaser technology to drill holes into the rock formations of a planet's mantle. This device has an extendable tripod in order to stabilise itself while firing. Given its size, it is built with a more powerful energy supply to last longer than a typical phaser.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 13,
       "cost": 100,
-      "name": "Medicine",
-      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
-      "description": "Training and knowledge in First-aid, diseases, surgery, anatomy, health and nutrition. You're a fully qualified doctor of the 24th century.",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Outdoor Pizza Oven",
+      "source": "Star Trek Picard Jump Version 1.0",
+      "description": "You can use it for other things too, but any food you cook in here will be perfectly edible, even if it is burned. Works in all weather, never runs out of fuel, self-cleaning.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 14,
-      "cost": 600,
-      "name": "Cold Station 12",
-      "source": "Star Trek: Enterprise",
-      "description": "A space station containing the preserved embryos of 1800 Augments, plus samples of every disease and pathogen known to Starfleet or the Denobulans at this time. Also comes with computer records of all these diseases, their cures and vaccines if any, and every tweak Arik Soong ever made to the human genome.",
-      "chapter": "Engineering and Sick Bay"
+      "cost": 500,
+      "name": "Your Very Fine Chateau ",
+      "source": "Star Trek Picard Jump Version 1.0",
+      "description": "Big oak beams, heirloom furniture ... perfect place to retire to. Or resign in some sort of disgrace, but that is up to you and how people interpret things. This is comfortable, far more so than other accommodation that might be shown in the same setting you are in, and quite relaxing. If you preferred not to spend your days waiting to die and jump at the chance of one last adventure, those seeking you for your aid will be able to track you down here fairly easily, even if they have never met you before. Be aware that less friendly faces might drop in at some point since your fancy family estate is not exactly hidden.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 15,
-      "cost": 200,
-      "name": "Alternative Medicine",
-      "source": "Star Trek: Enterprise",
-      "description": "A menagerie of creatures, who oddly require nothing from you in terms of food or care, and whose bodies yield a surprising number of cures, analgesics or medically useful substances.",
-      "chapter": "Engineering and Sick Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
-      "__line": 16,
       "cost": 600,
-      "name": "Genemods",
-      "source": "Star Trek: Enterprise",
-      "description": "The full package of Cabal mods, including the ability to crawl on walls and ceilings, slip through small cracks, see in the dark, breathe in virtually any atmosphere and tolerate vacuum for a while, camouflage similar to a Jem’Hadar Shroud, and the ability to impersonate other humanoids. You even get Sarin’s ability to tell if a person is trustworthy or telling the truth by making out with them.",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Collector's Guild Starship",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "An automated ship which has an odd modular based design. Most of the modules consist of galleries housing a vast collection of rare and valuable Items. The ship has a wide variety of eclectic defensive weaponry which is widely different on each module. The ship also has a small engine room set apart from the main hull capable of taking the ship into low warp speeds. As your collection expands new modules will be added to store the additional assets that have been added to your collection.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 16,
+      "cost": 200,
+      "name": "Gel traps",
+      "source": "Star Trek - NuTrek Jump ",
+      "description": "You have no idea where these came from, all you know is that this set of 24 pods contains a rapidly-solidifying gas that can trap a fully-grown man. Can be set to manual detonation or proximity detonation. Replenishes weekly in the warehouse.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 17,
       "cost": 100,
-      "name": "Battlefield Triage",
-      "source": "Star Trek: Elite Force",
-      "description": "It’s an inevitable fact of tackling missions into hostile territory that, usually, someone ends up shot. Keeping a squad going when half the members suffer severe phaser burns (to say nothing of more serious injuries) can be challenging, but there’s a good reason your squadmates will turn to you in such situations. You’re a capable doctor, but rather than the more esoteric and wide skill coverage most ordinary Federation medical professionals enjoy, you are especially gifted when it comes to field medicine. You know how to keep people alive through grievous wounds, you can stay calm in the middle of emergency surgery even when disruptor blasts and plasma grenades are flying left and right, and while you might need to get the severely injured to a proper sick bay for more extensive work rather than do a field ‘patch job’, you’ve got pretty good odds of keeping them alive until they actually get there. Bring your hyposprays, keep your medical tricorder charged, and you’ll make a lot of (probably very deadly) friends.",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Shuttlepod",
+      "source": "Star Trek: Enterprise",
+      "description": "It can’t go to warp and is almost certainly less advanced than the shuttlecraft of the 23rd and 24th Century. Then again, they didn’t start arming them again until the Runabout, so which is really the inferior craft, hmmm?",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 18,
-      "cost": 400,
-      "name": "Medical Shotgun",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "A StarFleet medical device used to administer drugs to recalcitrant patients from a distance. It can be disassembled into four pieces.",
-      "chapter": "Engineering and Sick Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
-      "__line": 19,
       "cost": 200,
-      "name": "Anti-Pheromone Spray ",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "This simple spray bottle dynamically fills itself with a chemical that when sprayed will cancel any airborne mind altering chemicals including Orian Pheromones.",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Assault Shuttle",
+      "source": "Star Trek: Elite Force",
+      "description": "Starfleet vessels are typically built for versatility and comfort, but such benefits are largely useless when you need to get somewhere you'll encounter more rocket launchers than diplomats or scientists. This small vessel's design might be based on the classic Federation shuttle framework, but the similarities are little more than aesthetic at best. Heavily shielded and reinforced, it incorporates cutting edge ablative armour to create a vessel unreasonably tough for its size. This cramped ship can fly through intense enemy fire and still guarantee safe delivery of as many as a dozen heavily armed passengers. Indeed, 'rapid insertion' with this craft might involve less actual landing than it does plowing nose-first into the ground at several times the speed of sound - yet the pilot and soldiers inside will at most be slightly rattled. It also comes with a signature masking system to evade detection, though it's only lightly armed (insofar as the usual Phasers and handful of Photon Torpedoes are 'light'). It's still primarily a transport, after all, not a gunship.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__line": 19,
+      "cost": 400,
+      "name": "Runabout",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "A small warp-capable ship slightly larger than a shuttle. It comes equipped with a living quarters, a food replicator, a transporter, 4 phaser arrays, a torpedo launcher, and deflector shields. This is should be able to keep you safe against bandits and pirates, but it'll be almost completely useless against a military ship. You hold all the necessary documents to prove you own this vessel, and you'll be able to fly it regardless of your piloting experience.",
+      "chapter": "Cargo  and Docking Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 20,
-      "cost": 100,
-      "name": "Hypospray",
+      "cost": 400,
+      "name": "Vulcan Reconnaissance Vessel",
       "source": "Star Trek Lower Decks V1.3",
-      "description": "A medical device used to inject liquids into the body. The system used a noninvasive transport mechanism of compressed air to transfer the injectant from the device into the subdermal layer below the skin of the body, or artery without the use of a needle.",
-      "chapter": "Engineering and Sick Bay"
+      "description": "This Vulcan starship is a modern and upgraded variation of the D'kyr-type ship. This ship is far smaller than the D'kyr-type being capable of fitting inside some shuttle bays. This ship can be crewed by as few as two people, contains various types of Vulcan stealth technology not classified as cloaking devices and has additional support structures within the rings which allow it to reach a max warp speed of 9.6.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 21,
       "cost": 600,
-      "name": "The U.S.S. Nerx ",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "This starship is a Osler-type medical transport specifically designed to prevent exacerbating medical conditions by utilising a specialised black hull which prevents all external contaminants. The ship's internal regulators automatically adjust light and heat to safe levels for all patients. In order to accommodate patients who cannot use transporters or be at warp speeds, the ship is capable of atmospheric entry and uses a “Wormhole Drive” to generate synthetic wormholes that allow warp drive equivalent interstellar travel speeds while only moving at impulse speeds.",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Delta Flyer",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Whether or not it still gets made now that you’re here, you somehow have a fully functioning, custom-designed shuttle made to be significantly more capable than standard Starfleet Class 2 shuttle craft used at this time, and lacks a particular microfracture problem. Maybe it’s a prototype? Whatever explanation you have, this one is clearly much tougher than its progenitors and capable of supporting a ship like Voyager in battle. Features include ultra-aerodynamic contours, retractable nacelles, parametallic hull plating, unimatrix shielding based on a design for a multispatial probe, a Borg-inspired weapons system, and even a manual control panel in the style of a Captain Proton holoprogram for hands-on piloting. However any of this actually works or what it’s supposed to mean, if this craft is somehow destroyed you’ll get another one using whatever Fiat Backed Items rules apply, and it retains any upgrades you give it as long as you want them to stay.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 22,
       "cost": 100,
-      "name": "Medical Tricorder",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "This specialised version of the tricorder is equipped with sensors and analysis software tailored for medical diagnostic purposes. They are usually the first tool a StarFleet doctor utilises when assessing a patient's condition.",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Ketracel White",
+      "source": "Star Trek Online",
+      "description": "Probably the most insidious part of the Dominion’s method for control, this drug is a requirement for the continued function of a Jem’Hadar. The supply is usually controlled by the Vorta officers on their ship, but now you have a box filled to the brim with packets of Ketracel. Should this box run out, it refills at the start of the next month.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 23,
-      "cost": 100,
-      "name": "Psycho-tricorder",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "This version of the tricorder is designed to scan specific brain wave patterns during questioning and is helpful in the diagnosis and treatment of mental disorders and ailments. It also possesses a hypnosis-assist subroutine, as well as subroutines for lie-detection and amnesia analysis. The device is normally operated by a medical technician while the attending psychologist directs the patient but is also useful for diplomatic communications and interrogations.",
-      "chapter": "Engineering and Sick Bay"
+      "cost": 200,
+      "name": "Combat Arena",
+      "source": "Star Trek Online",
+      "description": "The Klingon Empire values strength above all else, probably a relic of the Hur’q invasion so long ago. Should you ever need to fight someone, you now have the perfect place. It will shift to become the proper arena for anything you need, but it defaults to the perfect place for Bat’leth combat. As a bonus, it even comes with a few trophies you can hand out to the winners--in proper Klingon fashion, they are sharp enough to use as a weapon.",
+      "chapter": "Cargo  and Docking Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
       "__line": 24,
       "cost": 100,
-      "name": "Medical Phaser ",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "A specialised phaser that is unable to do permanent damage but can be used on virtually any species for instant sedation. The Medical Phaser can also be used to reset a person's biological system as a quick cure for most biorhythmic ills including functioning as a hangover remedy.",
-      "chapter": "Engineering and Sick Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
-      "__line": 25,
-      "cost": 600,
-      "name": "Cybernetically Enhanced ",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "You have now become a StarFleet cybernetically enhanced officer this allows you to have instant and direct access to all of StarFleet's unclassified databases and documentation. Your implants have combat strategy analytics software that can at your discretion take control of your body, and is capable enough to single handedly defeat a dozen borg in seconds.Your visual implant that allows you to detect electromagnetic signals, send a live video/audio feed, view various types of radiation, see upto and beyond the infrared/ultraviolet spectrum ranges and detect biochemical reactions such as heart rate and body temperature. Post Jump you can shift these and any newly installed implants to and from biological implants.",
-      "chapter": "Engineering and Sick Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
-      "__line": 26,
-      "cost": 200,
-      "name": "It’s not so different from engineering ",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "You can now see whenever skills, knowledge or abilities that you have which can be applied to another field, this allows you to see where your skills can interconnect. This also allows overlapping abilities to synergize much more efficiently and makes them more flexible in how they affect each other.",
-      "chapter": "Engineering and Sick Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
-      "__line": 27,
-      "cost": 200,
-      "name": "Oo I love purging",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "You can easily handle normally boring tasks and can choose to find a great deal of joy in the boredom thus allowing you to speed through them with ease. Not only does the boredom not affect you, but you are able to spread the joy to any other individuals who are doing the tasks with you.",
-      "chapter": "Engineering and Sick Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
-      "__line": 28,
-      "cost": 400,
-      "name": "Regenerative Forest",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "This is a pleasant forested area, a large natural in an out-of-the way location that you own and will not be trespassed onto unintentionally. Everything here seems bright, calm, and peaceful, with fresh air and even a lake with perfectly clean water. The trees and plants do not need management, and despite their clear health as they never seem to develop rot or diseases there is no danger of overgrowth or any weeds. It is a nice place to visit at the moment, with plenty of room for children to play safely amongst the woods, and though it currently does not have any sort of building or shelter you can combine this with a property to have this as its surroundings.",
-      "chapter": "Engineering and Sick Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
-      "__line": 29,
-      "cost": 400,
-      "name": " I Thought I Taught You Better Than This",
-      "source": "Star Trek Picard Jump Version 1.0\r",
-      "description": "Your own creations can disappoint you sometimes, Jumper. While this Perk does not stop that disappointment, it does allow you to deal with it in a quick and permanent manner. Anything you have created, anything you have brought to life, you can destroy or killing almost effortlessly. You could even how you see the reason behind their actions but explain that reason is not everything. How you are so disappointed that your ‘child’ helped an enemy kill one of their ‘siblings’. Even if they are far superior mentally and physically to you and anyone else, it turns out they are no better than anyone else with something as simple as the press of a button.",
-      "chapter": "Engineering and Sick Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
-      "__line": 30,
-      "cost": 200,
-      "name": "Vaccines",
-      "source": "Star Trek - NuTrek Jump ",
-      "description": "It’s a big galaxy out there, with nearly as many diseases as there are stars. You now have an immense set of vaccines, shots, and other forms of immunizations against them and most earth diseases. You also have a manual detailing their manufacture, use, and side effects… which can get pretty nasty. Useful for favors.",
-      "chapter": "Engineering and Sick Bay"
+      "name": "Risan Powerboard(",
+      "source": "Star Trek Online",
+      "description": "But that’s not all! We also have on offer the Risan Powerboard, capable of gliding elegantly over the ground and sea! This comes in both full-size and miniature versions, and, unlike certain competitors, has more than enough power to work on water. All this, and more, will be yours, courtesy of the Ferengi Commerce Board.",
+      "chapter": "Cargo  and Docking Bay"
     }
   ],
   "3": [
@@ -709,220 +655,274 @@
   ],
   "4": [
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 1,
-      "cost": 100,
-      "name": "Stasis Fridge ",
-      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
-      "description": "Whether this uses cryogenics, temporal manipulation or Fiat, you have a set of containers you can use to store all sorts of things. They won’t degrade, they won’t age, and they’ll be just as good as they were when you put them in. Feel free to use for important equipment, groceries, organs and other things you need to keep fresh.",
-      "chapter": "Cargo  and Docking Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 2,
       "cost": 400,
-      "name": "Resources ",
+      "name": "Toolkit ",
       "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
-      "description": "Being a trader with nothing to trade, a settler with nothing they can use to settle, or generally not having anything to start off with might be a problem. This item resolves this issue, giving you a reasonable amount of resources regarded as at least moderately useful and valuable for wherever you start off. Not a fortune or enough to settle an entire planet by itself, but it could be the start of one, if you know who to talk to and can get them to trade or invest in your endeavours. You get a resupply of the same quantity and quality following whatever rules are applied for Fiat Backed items, and it will adapt to stay useful in different Jumps.",
-      "chapter": "Cargo  and Docking Bay"
+      "description": "You might end up needing to do a lot of engineering work, and you might not always have the tools you need for the job. This toolkit fixes that problem. So long as you – or someone you’re assisting – has the skill and knowledge to actually do something, and all you need is a specific tool, you can now pull said tool out of this thing. The tools will vanish as soon as they’re no longer needed for that particular task, but you can get another as soon as you need it again. Nobody will find this odd unless you point it out.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 2,
+      "cost": 100,
+      "name": "Engineering",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "You've been trained in the maintenance and repair of Starships. Not only do you have a significant amount of mechanical",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 3,
       "cost": 100,
-      "name": "Hydroponics Containers",
-      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
-      "description": "These could be put into a bay specialised for that purpose, or just kept somewhere for yourself. They contain a variety of flowers and insects, which won’t escape or cause a mess. Feel free to use them for experiments, decoration, or potentially as food if you or a friend develops odd cravings. Surprisingly, they’re perfectly alright for any species to eat with no complications.",
-      "chapter": "Cargo  and Docking Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 4,
-      "cost": 500,
-      "name": "Portable Replicator",
+      "name": "Robotics",
       "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
-      "description": "Much smaller and lighter than a regular replicator, but still just as capable. This device is able to fit inside of a backpack and can be powered of large amounts of solar energy and raw matter. It can create pretty much any known physical object, but it cannot replicate dangerous or complex things like antimatter or living organisms",
-      "chapter": "Cargo  and Docking Bay"
+      "description": "A combined study of mechanical engineering, and computer science. You learn how to make a wide array of machines, and you could even figure out Android or Borg technology if you studied it enough.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 5,
-      "cost": 100,
-      "name": "Agony Booth",
-      "source": "Star Trek: Enterprise",
-      "description": "A transparent cylinder large enough to stand in and tough enough to keep a person confined. Can stimulate nerves to cause unimaginable pain to any prisoner contained within.",
-      "chapter": "Cargo  and Docking Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 6,
-      "cost": 100,
-      "name": "Trellium-D",
-      "source": "Star Trek: Enterprise",
-      "description": "A handy material that proofs your ship against spatial distortions, as are common in the Delphic Expanse. Also insulates against other exotic effects that might warp, distort, dimensionally shift or corrupt your ship. Unfortunately addictive to Vulcans and can turn th m into rage zombies. Thirty barrels, refills weekly.",
-      "chapter": "Cargo  and Docking Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 7,
-      "cost": 100,
-      "name": "Isodesium",
-      "source": "Star Trek: Elite Force",
-      "description": "An uncommon resource not usually found in Federation technologies, Isodesium is occasionally employed by less advanced societies; often without recognizing its potential. Appearing as a rough, metallic ore, this compound can be integrated into a variety of energy systems to bolster its function. While it doesn't have any effect on overall power, it makes such systems much more resistant to anything that might interfere with their power, such as those caused by power-draining energy fields, E.M.P. weapons, overloads or similar kinds of issues. You receive several kilos of unrefined Isodesium, which replenishes on a weekly basis when used up, lost, destroyed or otherwise spent. Maybe you can find some use for it?",
-      "chapter": "Cargo  and Docking Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 8,
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 4,
       "cost": 400,
-      "name": "Anomaly Consolidation",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "A crate which contains hazardous scientific research materials that can not be recycled in a matter recombinator. Although most of the contents are considered dangerous refuse and you may not be able to use them all right away, they are all premium goods of the highest quality. The crate refills once a week with random anomaly waste, everything inside the crate has the potential to be used for a variety of things especially in worlds that have magical crafting.",
-      "chapter": "Cargo  and Docking Bay"
+      "name": "Time Agent Toolkit",
+      "source": "Star Trek: Enterprise",
+      "description": "A standard 31st Century Temporal Agent toolbox including; a time-communicator, Temporal Observatory that visualizes the time-stream and any incursions or changes, a futuristic database of historic records and technical specifications, and a spatial interphase device allowing people to walk through walls. The computer doesn’t update, but 31st Century Federation tech is nothing to sneeze at, even if it might take a while to build the tools to build the tools to build it.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 5,
+      "cost": 800,
+      "name": "Legacy Of The Vor’Soth",
+      "source": "Star Trek: Elite Force",
+      "description": "This semi-spherical machine is only a few feet across, but don't let its size fool you. Known simply as a 'seed', this device is a small, self-contained fabrication system holding the entirety of the Vor’Soth’s knowledge. Given time and materials, the seed can rebuild itself into a new Forge, first by harvesting asteroids and other secluded sources of raw materials, and later by potentially trapping other vessels using the FTL recall system and power suppression field that led to Voyager’s entrapment. It also contains enough biotech to create entire armies of super soldiers and psychically gifted enforcers - be it by recreating the Harvesters, Reapers and Avatars used to create the Vor’Soth’s army... or by altering existing species - or even yourself - to suit your needs instead.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 6,
+      "cost": 200,
+      "name": "I Wouldn’t Be Much Of A Demolitionist…",
+      "source": "Star Trek: Elite Force",
+      "description": "...if I couldn’t blow up a door.” Well, you and Austin Chang would probably get along splendidly, because explosives might as well be in your blood. Grenade launchers, demolitions, breaching charges, maybe a detonator or two… you’ve seen them all, used them all, and you’re the first person anyone goes to whenever they need something to go ‘boom’. More than that, you’re an absolute savant when it comes to recognizing weak points or critical components; even a small bomb could cause a devastating chain reaction if put in the right place, and you’ll know where it is every single time.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 7,
+      "cost": 400,
+      "name": "Systems Specialist",
+      "source": "Star Trek: Elite Force",
+      "description": "You can’t always shoot your way out of trouble; sometimes you need brains like yours. You’re a talented engineer, hacker and xeno-specialist, with a particular focus on alien system analysis. Though more in-depth use of an alien’s computer systems will obviously require more extensive study, you’re nothing less than a savant when it comes to quickly finding whatever critical program or circuit you need to close a bulkhead on an incoming group of enemies, disable a self-destruct system, or otherwise deal with the latest urgent crisis that’s going to kill everyone in less than ten seconds unless you stop it. Just… try and stay calm under fire, yeah? One Chell’s enough.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 8,
+      "cost": 600,
+      "name": "Star Trek: Elite Force",
+      "source": "Star Trek: Elite Force",
+      "description": "Though the skill of Federation engineers is (in)famous in general, a lot of the time these fine men and women achieve feats of legend while forced to improvise with various amounts of ‘technobabble’. Doing so in the middle of a battle is somewhat dangerous to your health, however, so those in charge of developing and maintaining the equipment used by the Hazard Teams need to anticipate instead. You’re a master engineer, not with starship systems or holodecks or what have you, but with guns. Reverse-engineering recovered equipment is trivial for you, and given an afternoon and a decent supply of components, you could whip up new weapons and other combat systems that could revolutionize Starfleet infantry combat doctrines. Why stop at grenade launchers when you can start blasting enemies apart with miniaturized photon torpedoes instead? With these kinds of skills, the other ‘yellow shirts’ would probably look at you with more than a little awe… and perhaps some fear, as well.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 9,
       "cost": 400,
-      "name": "Wireless Drone Printer",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "This innate facsimile of AGIMUS is capable of printing dynamic wireless drones that have built in phasers and camera feeds allowing you to use them both for defence, gardening and scouting.",
-      "chapter": "Cargo  and Docking Bay"
+      "name": "Regeneration Alcove ",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "This might not be a particular piece of Borg technology unless you need it to be. As various different species might require special conditions to rest, recover, or survive in a universe with laws of physics different from the one they originated in. That shouldn’t be too much of a problem now. Consider this item an adaptive habitat, suitable for a single individual, altering however you need it to allow the recovery and maintain health of anything inside it. If you don’t have any specific requirements, it can become a bed that allows restful sleep and rapid recovery from any problems that wouldn’t require treatment from a medical specialist to resolve.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 10,
-      "cost": 200,
-      "name": "Raisin Vineyard",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "Your warehouse now contains an extension that contains a 3000 acre vineyard plantation. The species of grapevines in this vineyard were specifically grown for optimising the texture and flavour of dried raisins. You may also have an additional 1000 acres of land in the room to act as a pineapple and or coffee vineyard. Can also be a pocket dimension or placed on a planet",
-      "chapter": "Cargo  and Docking Bay"
+      "cost": 100,
+      "name": "24th Century Standard Jab",
+      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
+      "description": "Lots of diseases and conditions either aren’t present here, or you might run into something new. Consider yourself inoculated against the standard stuff here, unable to accidentally infect people with a cold or pick up something yourself. This doesn’t stop weaponised diseases, enormous viruses, or rarer life- threatening communicable problems.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 11,
-      "cost": 200,
-      "name": "Farming Tools and Art Supplies",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "A self refilling crate that once a week contains any miscellaneous or common supplies, tools or equipment that could be easily acquired by any federation citizen.",
-      "chapter": "Cargo  and Docking Bay"
+      "cost": 100,
+      "name": " Medical Kit ",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "In addition to a full supply of bandages and gauze, this kit also contains a hypospray, a device that can inject liquids without breaking a patients skin. The hypospray comes with vials of anesthetic, antibiotics, and healing boosters that automatically refill after 24 hours.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 12,
       "cost": 100,
-      "name": "Phaser Drill ",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "An excavation device employing phaser technology to drill holes into the rock formations of a planet's mantle. This device has an extendable tripod in order to stabilise itself while firing. Given its size, it is built with a more powerful energy supply to last longer than a typical phaser.",
-      "chapter": "Cargo  and Docking Bay"
+      "name": "Surgeon ",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "You’ve been trained in the art of physiological modification. You’ll be able to perform facial and bodily modification procedures that can greatly alter someone’s appearance. At first you’ll only be able to perform minor surgeries, like making a human look like a Vulcan, but with time and practice, you may be able create exotic and terrifying chimeras",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 13,
       "cost": 100,
-      "name": "Outdoor Pizza Oven",
-      "source": "Star Trek Picard Jump Version 1.0",
-      "description": "You can use it for other things too, but any food you cook in here will be perfectly edible, even if it is burned. Works in all weather, never runs out of fuel, self-cleaning.",
-      "chapter": "Cargo  and Docking Bay"
+      "name": "Medicine",
+      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
+      "description": "Training and knowledge in First-aid, diseases, surgery, anatomy, health and nutrition. You're a fully qualified doctor of the 24th century.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 14,
-      "cost": 500,
-      "name": "Your Very Fine Chateau ",
-      "source": "Star Trek Picard Jump Version 1.0",
-      "description": "Big oak beams, heirloom furniture ... perfect place to retire to. Or resign in some sort of disgrace, but that is up to you and how people interpret things. This is comfortable, far more so than other accommodation that might be shown in the same setting you are in, and quite relaxing. If you preferred not to spend your days waiting to die and jump at the chance of one last adventure, those seeking you for your aid will be able to track you down here fairly easily, even if they have never met you before. Be aware that less friendly faces might drop in at some point since your fancy family estate is not exactly hidden.",
-      "chapter": "Cargo  and Docking Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 15,
       "cost": 600,
-      "name": "Collector's Guild Starship",
-      "source": "Star Trek Lower Decks V1.3",
-      "description": "An automated ship which has an odd modular based design. Most of the modules consist of galleries housing a vast collection of rare and valuable Items. The ship has a wide variety of eclectic defensive weaponry which is widely different on each module. The ship also has a small engine room set apart from the main hull capable of taking the ship into low warp speeds. As your collection expands new modules will be added to store the additional assets that have been added to your collection.",
-      "chapter": "Cargo  and Docking Bay"
+      "name": "Cold Station 12",
+      "source": "Star Trek: Enterprise",
+      "description": "A space station containing the preserved embryos of 1800 Augments, plus samples of every disease and pathogen known to Starfleet or the Denobulans at this time. Also comes with computer records of all these diseases, their cures and vaccines if any, and every tweak Arik Soong ever made to the human genome.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 16,
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 15,
       "cost": 200,
-      "name": "Gel traps",
-      "source": "Star Trek - NuTrek Jump ",
-      "description": "You have no idea where these came from, all you know is that this set of 24 pods contains a rapidly-solidifying gas that can trap a fully-grown man. Can be set to manual detonation or proximity detonation. Replenishes weekly in the warehouse.",
-      "chapter": "Cargo  and Docking Bay"
+      "name": "Alternative Medicine",
+      "source": "Star Trek: Enterprise",
+      "description": "A menagerie of creatures, who oddly require nothing from you in terms of food or care, and whose bodies yield a surprising number of cures, analgesics or medically useful substances.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 16,
+      "cost": 600,
+      "name": "Genemods",
+      "source": "Star Trek: Enterprise",
+      "description": "The full package of Cabal mods, including the ability to crawl on walls and ceilings, slip through small cracks, see in the dark, breathe in virtually any atmosphere and tolerate vacuum for a while, camouflage similar to a Jem’Hadar Shroud, and the ability to impersonate other humanoids. You even get Sarin’s ability to tell if a person is trustworthy or telling the truth by making out with them.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 17,
       "cost": 100,
-      "name": "Shuttlepod",
-      "source": "Star Trek: Enterprise",
-      "description": "It can’t go to warp and is almost certainly less advanced than the shuttlecraft of the 23rd and 24th Century. Then again, they didn’t start arming them again until the Runabout, so which is really the inferior craft, hmmm?",
-      "chapter": "Cargo  and Docking Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 18,
-      "cost": 200,
-      "name": "Assault Shuttle",
+      "name": "Battlefield Triage",
       "source": "Star Trek: Elite Force",
-      "description": "Starfleet vessels are typically built for versatility and comfort, but such benefits are largely useless when you need to get somewhere you'll encounter more rocket launchers than diplomats or scientists. This small vessel's design might be based on the classic Federation shuttle framework, but the similarities are little more than aesthetic at best. Heavily shielded and reinforced, it incorporates cutting edge ablative armour to create a vessel unreasonably tough for its size. This cramped ship can fly through intense enemy fire and still guarantee safe delivery of as many as a dozen heavily armed passengers. Indeed, 'rapid insertion' with this craft might involve less actual landing than it does plowing nose-first into the ground at several times the speed of sound - yet the pilot and soldiers inside will at most be slightly rattled. It also comes with a signature masking system to evade detection, though it's only lightly armed (insofar as the usual Phasers and handful of Photon Torpedoes are 'light'). It's still primarily a transport, after all, not a gunship.",
-      "chapter": "Cargo  and Docking Bay"
+      "description": "It’s an inevitable fact of tackling missions into hostile territory that, usually, someone ends up shot. Keeping a squad going when half the members suffer severe phaser burns (to say nothing of more serious injuries) can be challenging, but there’s a good reason your squadmates will turn to you in such situations. You’re a capable doctor, but rather than the more esoteric and wide skill coverage most ordinary Federation medical professionals enjoy, you are especially gifted when it comes to field medicine. You know how to keep people alive through grievous wounds, you can stay calm in the middle of emergency surgery even when disruptor blasts and plasma grenades are flying left and right, and while you might need to get the severely injured to a proper sick bay for more extensive work rather than do a field ‘patch job’, you’ve got pretty good odds of keeping them alive until they actually get there. Bring your hyposprays, keep your medical tricorder charged, and you’ll make a lot of (probably very deadly) friends.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 19,
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 18,
       "cost": 400,
-      "name": "Runabout",
-      "source": "Star Trek: TNG & DS9 JumpChain V 1.0 Beta",
-      "description": "A small warp-capable ship slightly larger than a shuttle. It comes equipped with a living quarters, a food replicator, a transporter, 4 phaser arrays, a torpedo launcher, and deflector shields. This is should be able to keep you safe against bandits and pirates, but it'll be almost completely useless against a military ship. You hold all the necessary documents to prove you own this vessel, and you'll be able to fly it regardless of your piloting experience.",
-      "chapter": "Cargo  and Docking Bay"
-    },
-    {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
-      "__line": 20,
-      "cost": 400,
-      "name": "Vulcan Reconnaissance Vessel",
+      "name": "Medical Shotgun",
       "source": "Star Trek Lower Decks V1.3",
-      "description": "This Vulcan starship is a modern and upgraded variation of the D'kyr-type ship. This ship is far smaller than the D'kyr-type being capable of fitting inside some shuttle bays. This ship can be crewed by as few as two people, contains various types of Vulcan stealth technology not classified as cloaking devices and has additional support structures within the rings which allow it to reach a max warp speed of 9.6.",
-      "chapter": "Cargo  and Docking Bay"
+      "description": "A StarFleet medical device used to administer drugs to recalcitrant patients from a distance. It can be disassembled into four pieces.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 19,
+      "cost": 200,
+      "name": "Anti-Pheromone Spray ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This simple spray bottle dynamically fills itself with a chemical that when sprayed will cancel any airborne mind altering chemicals including Orian Pheromones.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 20,
+      "cost": 100,
+      "name": "Hypospray",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A medical device used to inject liquids into the body. The system used a noninvasive transport mechanism of compressed air to transfer the injectant from the device into the subdermal layer below the skin of the body, or artery without the use of a needle.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 21,
       "cost": 600,
-      "name": "Delta Flyer",
-      "source": "Star Trek: Voyager V1.0 – The Reddit Edition",
-      "description": "Whether or not it still gets made now that you’re here, you somehow have a fully functioning, custom-designed shuttle made to be significantly more capable than standard Starfleet Class 2 shuttle craft used at this time, and lacks a particular microfracture problem. Maybe it’s a prototype? Whatever explanation you have, this one is clearly much tougher than its progenitors and capable of supporting a ship like Voyager in battle. Features include ultra-aerodynamic contours, retractable nacelles, parametallic hull plating, unimatrix shielding based on a design for a multispatial probe, a Borg-inspired weapons system, and even a manual control panel in the style of a Captain Proton holoprogram for hands-on piloting. However any of this actually works or what it’s supposed to mean, if this craft is somehow destroyed you’ll get another one using whatever Fiat Backed Items rules apply, and it retains any upgrades you give it as long as you want them to stay.",
-      "chapter": "Cargo  and Docking Bay"
+      "name": "The U.S.S. Nerx ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This starship is a Osler-type medical transport specifically designed to prevent exacerbating medical conditions by utilising a specialised black hull which prevents all external contaminants. The ship's internal regulators automatically adjust light and heat to safe levels for all patients. In order to accommodate patients who cannot use transporters or be at warp speeds, the ship is capable of atmospheric entry and uses a “Wormhole Drive” to generate synthetic wormholes that allow warp drive equivalent interstellar travel speeds while only moving at impulse speeds.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 22,
       "cost": 100,
-      "name": "Ketracel White",
-      "source": "Star Trek Online",
-      "description": "Probably the most insidious part of the Dominion’s method for control, this drug is a requirement for the continued function of a Jem’Hadar. The supply is usually controlled by the Vorta officers on their ship, but now you have a box filled to the brim with packets of Ketracel. Should this box run out, it refills at the start of the next month.",
-      "chapter": "Cargo  and Docking Bay"
+      "name": "Medical Tricorder",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This specialised version of the tricorder is equipped with sensors and analysis software tailored for medical diagnostic purposes. They are usually the first tool a StarFleet doctor utilises when assessing a patient's condition.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 23,
-      "cost": 200,
-      "name": "Combat Arena",
-      "source": "Star Trek Online",
-      "description": "The Klingon Empire values strength above all else, probably a relic of the Hur’q invasion so long ago. Should you ever need to fight someone, you now have the perfect place. It will shift to become the proper arena for anything you need, but it defaults to the perfect place for Bat’leth combat. As a bonus, it even comes with a few trophies you can hand out to the winners--in proper Klingon fashion, they are sharp enough to use as a weapon.",
-      "chapter": "Cargo  and Docking Bay"
+      "cost": 100,
+      "name": "Psycho-tricorder",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This version of the tricorder is designed to scan specific brain wave patterns during questioning and is helpful in the diagnosis and treatment of mental disorders and ailments. It also possesses a hypnosis-assist subroutine, as well as subroutines for lie-detection and amnesia analysis. The device is normally operated by a medical technician while the attending psychologist directs the patient but is also useful for diplomatic communications and interrogations.",
+      "chapter": "Engineering and Sick Bay"
     },
     {
-      "__source": "Celestial Warp Core by Gothicjedi666 - Cargo  and Docking Bay",
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
       "__line": 24,
       "cost": 100,
-      "name": "Risan Powerboard(",
-      "source": "Star Trek Online",
-      "description": "But that’s not all! We also have on offer the Risan Powerboard, capable of gliding elegantly over the ground and sea! This comes in both full-size and miniature versions, and, unlike certain competitors, has more than enough power to work on water. All this, and more, will be yours, courtesy of the Ferengi Commerce Board.",
-      "chapter": "Cargo  and Docking Bay"
+      "name": "Medical Phaser ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "A specialised phaser that is unable to do permanent damage but can be used on virtually any species for instant sedation. The Medical Phaser can also be used to reset a person's biological system as a quick cure for most biorhythmic ills including functioning as a hangover remedy.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 25,
+      "cost": 600,
+      "name": "Cybernetically Enhanced ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "You have now become a StarFleet cybernetically enhanced officer this allows you to have instant and direct access to all of StarFleet's unclassified databases and documentation. Your implants have combat strategy analytics software that can at your discretion take control of your body, and is capable enough to single handedly defeat a dozen borg in seconds.Your visual implant that allows you to detect electromagnetic signals, send a live video/audio feed, view various types of radiation, see upto and beyond the infrared/ultraviolet spectrum ranges and detect biochemical reactions such as heart rate and body temperature. Post Jump you can shift these and any newly installed implants to and from biological implants.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 26,
+      "cost": 200,
+      "name": "It’s not so different from engineering ",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "You can now see whenever skills, knowledge or abilities that you have which can be applied to another field, this allows you to see where your skills can interconnect. This also allows overlapping abilities to synergize much more efficiently and makes them more flexible in how they affect each other.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 27,
+      "cost": 200,
+      "name": "Oo I love purging",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "You can easily handle normally boring tasks and can choose to find a great deal of joy in the boredom thus allowing you to speed through them with ease. Not only does the boredom not affect you, but you are able to spread the joy to any other individuals who are doing the tasks with you.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 28,
+      "cost": 400,
+      "name": "Regenerative Forest",
+      "source": "Star Trek Lower Decks V1.3",
+      "description": "This is a pleasant forested area, a large natural in an out-of-the way location that you own and will not be trespassed onto unintentionally. Everything here seems bright, calm, and peaceful, with fresh air and even a lake with perfectly clean water. The trees and plants do not need management, and despite their clear health as they never seem to develop rot or diseases there is no danger of overgrowth or any weeds. It is a nice place to visit at the moment, with plenty of room for children to play safely amongst the woods, and though it currently does not have any sort of building or shelter you can combine this with a property to have this as its surroundings.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 29,
+      "cost": 400,
+      "name": " I Thought I Taught You Better Than This",
+      "source": "Star Trek Picard Jump Version 1.0\r",
+      "description": "Your own creations can disappoint you sometimes, Jumper. While this Perk does not stop that disappointment, it does allow you to deal with it in a quick and permanent manner. Anything you have created, anything you have brought to life, you can destroy or killing almost effortlessly. You could even how you see the reason behind their actions but explain that reason is not everything. How you are so disappointed that your ‘child’ helped an enemy kill one of their ‘siblings’. Even if they are far superior mentally and physically to you and anyone else, it turns out they are no better than anyone else with something as simple as the press of a button.",
+      "chapter": "Engineering and Sick Bay"
+    },
+    {
+      "__source": "Celestial Warp Core by Gothicjedi666 - Engineering and Sick Bay",
+      "__line": 30,
+      "cost": 200,
+      "name": "Vaccines",
+      "source": "Star Trek - NuTrek Jump ",
+      "description": "It’s a big galaxy out there, with nearly as many diseases as there are stars. You now have an immense set of vaccines, shots, and other forms of immunizations against them and most earth diseases. You also have a manual detailing their manufacture, use, and side effects… which can get pretty nasty. Useful for favors.",
+      "chapter": "Engineering and Sick Bay"
     }
   ],
   "5": [

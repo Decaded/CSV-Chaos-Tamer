@@ -1,175 +1,166 @@
 {
   "1": [
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 1,
       "cost": 0,
-      "name": "Vir Tanadhal ",
+      "name": "A Drunken Dwarf’s Dream",
       "source": "Dragon Age 1.02",
-      "description": "The Vir Tanadhal is a Dalish philosophy espoused by a clan’s hunters in the spirit of the goddess of the hunt, Andruil. It teaches young Dalish hunters to respect nature and be resolute in purpose. You’ve been instructed in this philosophy’s teachings, and have learned how to move through the wilds swiftly, silently, and unencumbered. Furthermore, wild animals will never bother you unless deliberately provoked.",
-      "chapter": "Elf"
+      "description": "Several barrels full of high-quality ale, as well as other alcoholic beverages. Strangely enough, no matter how much you pour from the barrels, they never seem to become empty.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 2,
-      "cost": 100,
-      "name": "Heirloom Necklace ",
+      "cost": 0,
+      "name": "Stone Prisoner",
       "source": "Dragon Age: Origins by Pokebrat",
-      "description": "A necklace made up of hundreds of wooden beads, each carved into the shape of an animal. Deer, hawks, wolves, and rabbits chase each other across its length. Passed down through the Mahariel family of Dalish elves, when worn you will be more resistant towards spiritual damage.",
-      "chapter": "Elf"
+      "description": "The golems of Orzammar once made up the vanguard of the dwarven army, holding back the tides of darkspawn that flooded out of the Deep Roads. But the art of making them was lost, and many of them succumbed to wear and damage in battle. Shale has no memories either of the time spent fighting in the Deep Roads, or of coming to Honnleath, only a few spotty, and bitter, recollections of its last master.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 3,
-      "cost": 100,
-      "name": "Beehive ",
+      "cost": 0,
+      "name": "Stone Sense ",
       "source": "Dragon Age 1.02",
-      "description": "A beehive and several empty glass jars. Simply touch an empty jar to the beehive and think of either honey or bees, and the flask will be filled with whatever you thought of. Any used jars will restock after two hours.",
-      "chapter": "Elf"
+      "description": "The dwarves believe that they are the Children of the Stone, born of the earth itself. The stone is believed to be a living, shifting entity with a will that surrounds and guides the dwarves. She supports them, shelters them, and offers them the most priceless gifts of the earth, such as gems, ore, and lyrium. Dwarves living underground possess this “stone sense”, which provides them with the ability to navigate subterraneously. It’s described as the ability to hear the distant song of lyrium. This connection allows dwarves to sense a passageway before reaching it, and they can navigate the Deep Roads without getting hopelessly lost. Normally, dwarves who spend long periods of time on the surface lose this stone sense over time, and those who are born on the surface appear to not possess it at all. However, because of Jumpchain fiat you will never lose your stone sense, no matter how much time you spend topside. In addition, you also have excellent vision in the dark.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 4,
       "cost": 100,
-      "name": "Legacy of the Dales ",
-      "source": "Dragon Age - Origins",
-      "description": "With the destruction of your homeland, your people have been forced to wander the lands, searching desperately for the slightest scraps of ancient elven knowledge. Whether you’ve been successful on that front or not, this lifestyle has led to the Dalish being unrivalled when it comes to traversing the wilds. The difficult terrain of the natural world doesn't seem to slow you and yours down whatsoever, traversing through thick forests as easily as a meadow.",
-      "chapter": "Elf"
+      "name": "Blood of Aeducan",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Yours is a lineage of kings, of a hero that saved the dwarven people from annihilation during the First Blight. Such a lineage shines through in your mannerisms, in the way you hold yourself, marking you as someone important. It is easy to have yourself placed in charge of a group, to convince others that you’re clearly the best person for the job.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 5,
-      "cost": 200,
-      "name": "Nature’s Bounty",
+      "cost": 100,
+      "name": "Casteless Scum",
       "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
-      "chapter": "Elf"
+      "description": "Looked down upon by all of dwarven society, the Casteless are the dirty secret staining Orzammar’s perfect society, seen as less than even the dirt beneath one’s boots. Yet there are benefits to being the lowest of the low, as rare as they are. People are less likely to notice you when you so desire it, blending into the background as others shine upon their pedestals.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 6,
-      "cost": 200,
-      "name": "Dalish Promise Ring",
+      "cost": 100,
+      "name": "Dwarven Warrior’s Belt ",
       "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Intended for a Dalish elf's betrothed, this enchanted silver band was blessed by the tribe's Keeper to ensure a long, healthy life. Wearing it will see that any healing done to you is more effective, as well as making it less likely to draw the hostility of others towards yourself.",
-      "chapter": "Elf"
+      "description": "Steel rivets have been driven through the leather, making this belt almost armored. Taken from a member of the Warrior Caste involved with the Carta, it slightly improves the protectiveness of one’s armor, as well as allowing their swords and axes to strike with just a bit more force than before.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 7,
-      "cost": 200,
-      "name": "Dalish Woods",
-      "source": "Dragon Age 1.02",
-      "description": "A forest full of special trees such as ironbark, sylvanwood, dragonthorn, vhenadahl, and heartwood, as well as several patches of useful herbs. All of them would yield excellent materials for a dalish woodshaper or herbalist. 24 hours after harvesting any materials they will respawn as good as new.",
-      "chapter": "Elf"
+      "cost": 100,
+      "name": "Lyrium Crate",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "An extremely volatile and sometimes explosive material found deep beneath the earth, only the Mining Caste of dwarves are able to safely mine and process it. When refined, like these monthly shipments are, they can be used for all sorts of things, such as replenishing a mage’s stores of mana, the crafting of runes, and used to enhance the anti-magic abilities of the Templars.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 8,
       "cost": 200,
-      "name": "Nature of the Beast ",
-      "source": "Dragon Age 1.02",
-      "description": "You have an affinity for the open country and wilderness, and the creatures that live within it. You have all the skills needed to survive and thrive in any non-urban environment, are an expert tracker and hunter, and once a day you may call upon the beasts of the wilds to aid you, in battle or outside of it.",
-      "chapter": "Elf"
+      "name": "A Girl’s Best Friend",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "With good steel being somewhat of a rarity amongst the lower echelons of dwarven society, the Casteless have had to make do where they can. This has led to some like you who prefer poisoned caltrops and sleeping gas to take down your enemies over axes and swords. Constructing these traps and lures is like second nature to you at this point, as is disarming any that you may end up running across.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 9,
       "cost": 200,
-      "name": "Herbalist",
+      "name": "Dwarven Crafts, Fine Dwarven Crafts!",
       "source": "Dragon Age 1.02",
-      "description": "Many plants in this world have supernatural effects or healing properties, and so there exist many herbalists who use them to create useful items. You’ve studied under a master herbalist and as a result have gained a near-encyclopedic knowledge of the flora of this world and its effects, and thus have gained the skills required to create various potions, poultices, salves, and incense. By itself that is already an extremely useful skill to have, but for someone like you, Jumper, that wasn’t enough. And so it was that you sought out the Dalish, and had them teach you what they knew about many natural remedies humans have long since forgotten or ignored, such as knowing which type of tree bark cures headaches when chewed upon.",
-      "chapter": "Elf"
+      "description": "Direct from Orzammar! It’s said that the dwarves are the finest craftsmen on Thedas. And this is especially true when it comes to the workings of stone, metals, and minerals. Your skill as a stonemason, smith, and lapidarist is legendary, even amongst the dwarves. You could craft the most exquisite jewelry, forge the strongest metals, build the most durable walls, and work all these in such a manner that whatever you create will stand the test of time itself, whether that’s a hundred years or a thousand, or even longer than that.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 10,
       "cost": 200,
-      "name": "Nature’s Bounty",
-      "source": "Dragon Age - Origins",
-      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
-      "chapter": "Elf"
+      "name": "Dwarven Mine ",
+      "source": "Dragon Age 1.02",
+      "description": "This mine with several large veins of high-quality lyrium, minerals, and precious metals such as veridium, silverite, volcanic aurum, etc. Strangely enough, these veins and deposits never seem to run out, no matter how much is mined. There’s also a small compound where several dwarves seem to live, who are more than happy to mine the stuff for you.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 11,
       "cost": 200,
-      "name": "Halla",
-      "source": "Dragon Age 1.02",
-      "description": "The halla are a type of horned stag. Some of them are herded by the Dalish elves who used them to pull the aravels, or landships. Their milk is also made into cheese and butter. The Dalish do not consider them beasts of burden but noble companions. To get them to accompany a clan, the Dalish elves ask rather than force them to. It is said that the Dalish carve their antlers for decorative purposes, and that their antlers are particularly prized in the Tevinter Imperium.",
-      "chapter": "Elf"
+      "name": "Enchantment? Enchantment!",
+      "source": "Dragon Age - Origins",
+      "description": "You have become one of Ferelden’s foremost scholars on iconography, and have the natural talent to back it up. Not only are you able to apply runes to weapons and armor, granting them arcane properties, but you're even capable of crafting your own. With the right materials, plenty of lyrium, and time to experiment, you could one day create artifacts of legend.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 12,
-      "cost": 300,
-      "name": "An Oversized Mirror",
-      "source": "Dragon Age Inquisition Jump",
-      "description": "A massive ornate mirror standing over 12 feet tall. The mirror is broken, but is obviously magical. It appears as though all of the shards of the mirror are at the foot of the mirror and all that is required to fix it is time and knowledge.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 13,
-      "cost": 400,
-      "name": "Nomadic Hunter",
+      "cost": 200,
+      "name": "Tunnel Fighting ",
       "source": "Dragon Age: Origins by Pokebrat",
-      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. One cannot afford to be ignorant of their surroundings, no matter how seemingly safe it appears. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
-      "chapter": "Elf"
+      "description": "Many nobility are required to spend some amount of time within the military, fending off the endless tide of darkspawn within the Deep Roads. In such cramped environments, surrounded by countless enemies, fighting effectively as a whole is an essential skill. You’re highly experienced in utilizing these group tactics, quickly figuring out which individuals are best for which roles in a fight, and leading them to victory.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
+      "__line": 13,
+      "cost": 200,
+      "name": "Bronto ",
+      "source": "Dragon Age 1.02",
+      "description": "These hulking beasts were originally bred by the dwarven Shaperate as beasts of burden and a food source, the rough equivalent of surface oxen and cows. Some versions of bronto have even been developed as dwarven mounts, valued far more for their sure-footedness and stamina than for their speed. While present within Orzammar in large numbers, some bronto still exist in packs within the Deep Roads, having returned to a wild state after the fall of the dwarven kingdoms. They require remarkably little sustenance, consuming organic material from water, fungi, and even rocks (hence the “Rock-Licker” appellation used by many dwarves to describe them), and exist in primarily dormant states until provoked. An angry, charging bronto is considered to be a rather dangerous opponent.",
+      "chapter": "Dwarf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 14,
       "cost": 400,
-      "name": "Anduril’s Blessing",
+      "name": "Ties to the Carta",
       "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Belts of this type, crafted by ancient elven keepers, were given to a clan's honored allies. Although the fine engravings are faded from age and use, the enchantments remain strong to this day. Not only will it bolster one’s resilience to damage and spiritual magics, but it allows the wearer to swiftly replenish any spent mana, even in the midst of battle. Yet even with such potent equipment, the elves fell all the same to the Imperium.",
-      "chapter": "Elf"
+      "description": "Forced to resort to crime in order to survive, the Carta are the only alternative most Casteless are given if they want a full stomach. With how long you’ve been a member of this crime syndicate, you’ve come to notice other such organizations with just a few glances, as well as finding an in that will allow you to join up with them on the spot. Some may be suspicious of the stranger that suddenly appeared in their ranks and quickly earned the boss’ favor, but that’s just natural in this kind of business.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 15,
       "cost": 400,
-      "name": "Woodshaping",
-      "source": "Dragon Age 1.02",
-      "description": "The Dalish elves practice a craft known as Woodshaping, which allows them to forge outstanding arms, armour, and other items from wooden materials that can easily compare to most of their metal counterparts. Yes, you read that correctly. Forge. They forge wood. How they manage to accomplish this, only the Dalish know, and they’re not telling any outsiders. Except for you, that is. You’ve studied under a Master Woodshaper, and learned all they’ve had to teach you, including the secret of how to work with Ironbark. Any type of wood can be used for this craft, but the best results are gained when Ironbark is used. Ironbark is a rare wood type, somewhat blue in colour, and only grows in the Brecilian Forest in Ferelden. Items fashioned from Ironbark are surprisingly both stronger and lighter than steel, and are exceptionally suited to enchantments.",
-      "chapter": "Elf"
+      "name": "Deep Roads ",
+      "source": "Dragon Age Origins & Dragon Age II",
+      "description": "Home primarily to the darkspawn. No, you don't get the whole of the deep roads. That would be far too much. You do get The Dead Trenches as well as the three massive trenches that are also apart of that area. Just one of a part of them is big enough to contain the entire darkspawn horde. Once home to the Legion of the Dead, then the darkspawn, and now only one. In case you were wondering, it is fully repaired as if in its heyday.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 16,
-      "cost": 400,
-      "name": "Nomadic Hunter",
-      "source": "Dragon Age - Origins",
-      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. No matter how seemingly safe it appears, one cannot afford to be ignorant of one's surroundings. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
-      "chapter": "Elf"
+      "cost": 600,
+      "name": "A Paragon’s Journal",
+      "source": "Dragon Age 1.02",
+      "description": "A tattered old journal belonging to an old dwarven paragon. It seems to be part diary, part instructions on how to build... some kind of anvil? How very curious.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 17,
       "cost": 600,
-      "name": "The Sorrows of Arlathan",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Ancient carvings cover the limbs of this bow. It looks to be some form of elven, either a poem or a prayer of some sort. Not only do arrows fired from this longbow punch through even the thickest of armors, but the user can fire them at such a rate to rival ten of their equals. Strangely, it seems as though this bow is more effective against those who don't possess elven blood, biting into their flesh like the fangs of a dreaded wolf.",
-      "chapter": "Elf"
+      "name": "Maps of the Deep Roads",
+      "source": "Dragon Age Origins & Dragon Age II",
+      "description": "The holy grail, so to speak. A set of maps detailing the location of an old god. The journey to it is almost certainly a long one. Would you really go so far to damn this world? You can conveniently find a similar set of maps for each world you travel In place of an equivalent, they will lead to some great treasure. If neither exists, you will get a set of maps detailing every cave system in the world as they were upon your arrival.",
+      "chapter": "Dwarf"
     },
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
       "__line": 18,
       "cost": 600,
-      "name": "Keeper ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Every Dalish clan has a keeper, a wise mentor dedicated to preserving the elves' ancient lore. It is exceptionally uncommon for a keeper to teach anyone other than a fellow clan member about the unique Dalish understanding of nature magic, which focuses on control of the roots beneath the earth, amongst other abilities. Most prominently, creatures of nature such as sylvans will find themselves compelled to follow your commands, while elves will be more deferential towards you.",
-      "chapter": "Elf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
-      "__line": 19,
-      "cost": 800,
-      "name": "Vir'abelasan",
-      "source": "Dragon Age 1.02",
-      "description": "The Vir’abelasan, or Well of Sorrows, is an ancient nexus of ley energies located within the temple of Mythal. Mythal, one of the elven gods, was betrayed and murdered by her fellow Evanuris. This pool is a reminder of what was lost, a path to be walked by those who toiled in Mythal’s name. Near the end of their life, every servant of Mythal would pass their knowledge on through the Well of Sorrows. Thus, it contains all the collective knowledge and way of life of the ancient favoured elves. Those who drink from the well will gain access to all the knowledge stored within, though it may take quite some time to fully absorb and comprehend everything. There’s so much knowledge to shift, through, after all. It is said that those who drink from the Vir’abelasan are bound to the will of Mythal forevermore. And while that appears to be true for the original, since you are paying so much CP for this, you will gain a copy of the Well that doesn’t enslave the user. What’s even better is that this version of the Well doesn’t just contain the collective knowledge of the servants of Mythal, but the collective knowledge of all of the ancient elves, including the Evanuris.",
-      "chapter": "Elf"
+      "name": "Worked to the Bone",
+      "source": "Dragon Age Origins & Dragon Age II",
+      "description": "You and Wade are probably the best craftsman of the age. You could absolutely create things befitting that title with the right components. Things you make are just simply much better than what others can do, with one or no tries you can fashion items so quick that it should probably be impossible to do so and can do so even with no prior experience a lot of the time, just look at someone to get their measurements, and even do something that seems impossible like changing a flame rune into a frost rune.",
+      "chapter": "Dwarf"
     }
   ],
   "2": [
@@ -419,170 +410,6 @@
   ],
   "3": [
     {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 1,
-      "cost": 0,
-      "name": "A Drunken Dwarf’s Dream",
-      "source": "Dragon Age 1.02",
-      "description": "Several barrels full of high-quality ale, as well as other alcoholic beverages. Strangely enough, no matter how much you pour from the barrels, they never seem to become empty.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 2,
-      "cost": 0,
-      "name": "Stone Prisoner",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "The golems of Orzammar once made up the vanguard of the dwarven army, holding back the tides of darkspawn that flooded out of the Deep Roads. But the art of making them was lost, and many of them succumbed to wear and damage in battle. Shale has no memories either of the time spent fighting in the Deep Roads, or of coming to Honnleath, only a few spotty, and bitter, recollections of its last master.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 3,
-      "cost": 0,
-      "name": "Stone Sense ",
-      "source": "Dragon Age 1.02",
-      "description": "The dwarves believe that they are the Children of the Stone, born of the earth itself. The stone is believed to be a living, shifting entity with a will that surrounds and guides the dwarves. She supports them, shelters them, and offers them the most priceless gifts of the earth, such as gems, ore, and lyrium. Dwarves living underground possess this “stone sense”, which provides them with the ability to navigate subterraneously. It’s described as the ability to hear the distant song of lyrium. This connection allows dwarves to sense a passageway before reaching it, and they can navigate the Deep Roads without getting hopelessly lost. Normally, dwarves who spend long periods of time on the surface lose this stone sense over time, and those who are born on the surface appear to not possess it at all. However, because of Jumpchain fiat you will never lose your stone sense, no matter how much time you spend topside. In addition, you also have excellent vision in the dark.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 4,
-      "cost": 100,
-      "name": "Blood of Aeducan",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Yours is a lineage of kings, of a hero that saved the dwarven people from annihilation during the First Blight. Such a lineage shines through in your mannerisms, in the way you hold yourself, marking you as someone important. It is easy to have yourself placed in charge of a group, to convince others that you’re clearly the best person for the job.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 5,
-      "cost": 100,
-      "name": "Casteless Scum",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Looked down upon by all of dwarven society, the Casteless are the dirty secret staining Orzammar’s perfect society, seen as less than even the dirt beneath one’s boots. Yet there are benefits to being the lowest of the low, as rare as they are. People are less likely to notice you when you so desire it, blending into the background as others shine upon their pedestals.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 6,
-      "cost": 100,
-      "name": "Dwarven Warrior’s Belt ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Steel rivets have been driven through the leather, making this belt almost armored. Taken from a member of the Warrior Caste involved with the Carta, it slightly improves the protectiveness of one’s armor, as well as allowing their swords and axes to strike with just a bit more force than before.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 7,
-      "cost": 100,
-      "name": "Lyrium Crate",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "An extremely volatile and sometimes explosive material found deep beneath the earth, only the Mining Caste of dwarves are able to safely mine and process it. When refined, like these monthly shipments are, they can be used for all sorts of things, such as replenishing a mage’s stores of mana, the crafting of runes, and used to enhance the anti-magic abilities of the Templars.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 8,
-      "cost": 200,
-      "name": "A Girl’s Best Friend",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "With good steel being somewhat of a rarity amongst the lower echelons of dwarven society, the Casteless have had to make do where they can. This has led to some like you who prefer poisoned caltrops and sleeping gas to take down your enemies over axes and swords. Constructing these traps and lures is like second nature to you at this point, as is disarming any that you may end up running across.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 9,
-      "cost": 200,
-      "name": "Dwarven Crafts, Fine Dwarven Crafts!",
-      "source": "Dragon Age 1.02",
-      "description": "Direct from Orzammar! It’s said that the dwarves are the finest craftsmen on Thedas. And this is especially true when it comes to the workings of stone, metals, and minerals. Your skill as a stonemason, smith, and lapidarist is legendary, even amongst the dwarves. You could craft the most exquisite jewelry, forge the strongest metals, build the most durable walls, and work all these in such a manner that whatever you create will stand the test of time itself, whether that’s a hundred years or a thousand, or even longer than that.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 10,
-      "cost": 200,
-      "name": "Dwarven Mine ",
-      "source": "Dragon Age 1.02",
-      "description": "This mine with several large veins of high-quality lyrium, minerals, and precious metals such as veridium, silverite, volcanic aurum, etc. Strangely enough, these veins and deposits never seem to run out, no matter how much is mined. There’s also a small compound where several dwarves seem to live, who are more than happy to mine the stuff for you.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 11,
-      "cost": 200,
-      "name": "Enchantment? Enchantment!",
-      "source": "Dragon Age - Origins",
-      "description": "You have become one of Ferelden’s foremost scholars on iconography, and have the natural talent to back it up. Not only are you able to apply runes to weapons and armor, granting them arcane properties, but you're even capable of crafting your own. With the right materials, plenty of lyrium, and time to experiment, you could one day create artifacts of legend.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 12,
-      "cost": 200,
-      "name": "Tunnel Fighting ",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Many nobility are required to spend some amount of time within the military, fending off the endless tide of darkspawn within the Deep Roads. In such cramped environments, surrounded by countless enemies, fighting effectively as a whole is an essential skill. You’re highly experienced in utilizing these group tactics, quickly figuring out which individuals are best for which roles in a fight, and leading them to victory.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 13,
-      "cost": 200,
-      "name": "Bronto ",
-      "source": "Dragon Age 1.02",
-      "description": "These hulking beasts were originally bred by the dwarven Shaperate as beasts of burden and a food source, the rough equivalent of surface oxen and cows. Some versions of bronto have even been developed as dwarven mounts, valued far more for their sure-footedness and stamina than for their speed. While present within Orzammar in large numbers, some bronto still exist in packs within the Deep Roads, having returned to a wild state after the fall of the dwarven kingdoms. They require remarkably little sustenance, consuming organic material from water, fungi, and even rocks (hence the “Rock-Licker” appellation used by many dwarves to describe them), and exist in primarily dormant states until provoked. An angry, charging bronto is considered to be a rather dangerous opponent.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 14,
-      "cost": 400,
-      "name": "Ties to the Carta",
-      "source": "Dragon Age: Origins by Pokebrat",
-      "description": "Forced to resort to crime in order to survive, the Carta are the only alternative most Casteless are given if they want a full stomach. With how long you’ve been a member of this crime syndicate, you’ve come to notice other such organizations with just a few glances, as well as finding an in that will allow you to join up with them on the spot. Some may be suspicious of the stranger that suddenly appeared in their ranks and quickly earned the boss’ favor, but that’s just natural in this kind of business.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 15,
-      "cost": 400,
-      "name": "Deep Roads ",
-      "source": "Dragon Age Origins & Dragon Age II",
-      "description": "Home primarily to the darkspawn. No, you don't get the whole of the deep roads. That would be far too much. You do get The Dead Trenches as well as the three massive trenches that are also apart of that area. Just one of a part of them is big enough to contain the entire darkspawn horde. Once home to the Legion of the Dead, then the darkspawn, and now only one. In case you were wondering, it is fully repaired as if in its heyday.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 16,
-      "cost": 600,
-      "name": "A Paragon’s Journal",
-      "source": "Dragon Age 1.02",
-      "description": "A tattered old journal belonging to an old dwarven paragon. It seems to be part diary, part instructions on how to build... some kind of anvil? How very curious.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 17,
-      "cost": 600,
-      "name": "Maps of the Deep Roads",
-      "source": "Dragon Age Origins & Dragon Age II",
-      "description": "The holy grail, so to speak. A set of maps detailing the location of an old god. The journey to it is almost certainly a long one. Would you really go so far to damn this world? You can conveniently find a similar set of maps for each world you travel In place of an equivalent, they will lead to some great treasure. If neither exists, you will get a set of maps detailing every cave system in the world as they were upon your arrival.",
-      "chapter": "Dwarf"
-    },
-    {
-      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Dwarf",
-      "__line": 18,
-      "cost": 600,
-      "name": "Worked to the Bone",
-      "source": "Dragon Age Origins & Dragon Age II",
-      "description": "You and Wade are probably the best craftsman of the age. You could absolutely create things befitting that title with the right components. Things you make are just simply much better than what others can do, with one or no tries you can fashion items so quick that it should probably be impossible to do so and can do so even with no prior experience a lot of the time, just look at someone to get their measurements, and even do something that seems impossible like changing a flame rune into a frost rune.",
-      "chapter": "Dwarf"
-    }
-  ],
-  "4": [
-    {
       "__source": "Celestial Tarot v1 by Gothicjedi666_ - Rogue",
       "__line": 1,
       "cost": 0,
@@ -736,7 +563,7 @@
       "chapter": "Rogue"
     }
   ],
-  "5": [
+  "4": [
     {
       "__source": "Celestial Tarot v1 by Gothicjedi666_ - Noble",
       "__line": 1,
@@ -963,7 +790,7 @@
       "chapter": "Noble"
     }
   ],
-  "6": [
+  "5": [
     {
       "__source": "Celestial Tarot v1 by Gothicjedi666_ - Warrior ",
       "__line": 1,
@@ -1233,6 +1060,179 @@
       "source": "Dragon Age: Origins by Pokebrat",
       "description": "Among the ancient elves, there were mages who trained their magical arts to augment their martial prowess. They channeled magical power through their weapons and bodies, becoming terrors on the battlefield. Most consider these skills lost forever, but they may still linger in forgotten corners of the world. Through combining arcane power and martial might, there would be few who could face such a force and survive.",
       "chapter": "Warrior"
+    }
+  ],
+  "6": [
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 1,
+      "cost": 0,
+      "name": "Vir Tanadhal ",
+      "source": "Dragon Age 1.02",
+      "description": "The Vir Tanadhal is a Dalish philosophy espoused by a clan’s hunters in the spirit of the goddess of the hunt, Andruil. It teaches young Dalish hunters to respect nature and be resolute in purpose. You’ve been instructed in this philosophy’s teachings, and have learned how to move through the wilds swiftly, silently, and unencumbered. Furthermore, wild animals will never bother you unless deliberately provoked.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 2,
+      "cost": 100,
+      "name": "Heirloom Necklace ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "A necklace made up of hundreds of wooden beads, each carved into the shape of an animal. Deer, hawks, wolves, and rabbits chase each other across its length. Passed down through the Mahariel family of Dalish elves, when worn you will be more resistant towards spiritual damage.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 3,
+      "cost": 100,
+      "name": "Beehive ",
+      "source": "Dragon Age 1.02",
+      "description": "A beehive and several empty glass jars. Simply touch an empty jar to the beehive and think of either honey or bees, and the flask will be filled with whatever you thought of. Any used jars will restock after two hours.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 4,
+      "cost": 100,
+      "name": "Legacy of the Dales ",
+      "source": "Dragon Age - Origins",
+      "description": "With the destruction of your homeland, your people have been forced to wander the lands, searching desperately for the slightest scraps of ancient elven knowledge. Whether you’ve been successful on that front or not, this lifestyle has led to the Dalish being unrivalled when it comes to traversing the wilds. The difficult terrain of the natural world doesn't seem to slow you and yours down whatsoever, traversing through thick forests as easily as a meadow.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 5,
+      "cost": 200,
+      "name": "Nature’s Bounty",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 6,
+      "cost": 200,
+      "name": "Dalish Promise Ring",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Intended for a Dalish elf's betrothed, this enchanted silver band was blessed by the tribe's Keeper to ensure a long, healthy life. Wearing it will see that any healing done to you is more effective, as well as making it less likely to draw the hostility of others towards yourself.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 7,
+      "cost": 200,
+      "name": "Dalish Woods",
+      "source": "Dragon Age 1.02",
+      "description": "A forest full of special trees such as ironbark, sylvanwood, dragonthorn, vhenadahl, and heartwood, as well as several patches of useful herbs. All of them would yield excellent materials for a dalish woodshaper or herbalist. 24 hours after harvesting any materials they will respawn as good as new.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 8,
+      "cost": 200,
+      "name": "Nature of the Beast ",
+      "source": "Dragon Age 1.02",
+      "description": "You have an affinity for the open country and wilderness, and the creatures that live within it. You have all the skills needed to survive and thrive in any non-urban environment, are an expert tracker and hunter, and once a day you may call upon the beasts of the wilds to aid you, in battle or outside of it.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 9,
+      "cost": 200,
+      "name": "Herbalist",
+      "source": "Dragon Age 1.02",
+      "description": "Many plants in this world have supernatural effects or healing properties, and so there exist many herbalists who use them to create useful items. You’ve studied under a master herbalist and as a result have gained a near-encyclopedic knowledge of the flora of this world and its effects, and thus have gained the skills required to create various potions, poultices, salves, and incense. By itself that is already an extremely useful skill to have, but for someone like you, Jumper, that wasn’t enough. And so it was that you sought out the Dalish, and had them teach you what they knew about many natural remedies humans have long since forgotten or ignored, such as knowing which type of tree bark cures headaches when chewed upon.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 10,
+      "cost": 200,
+      "name": "Nature’s Bounty",
+      "source": "Dragon Age - Origins",
+      "description": "Far from the comforts and safety of civilization, the Dalish have had to use what they can find to survive. Through long practice and basic necessity, you’ve come to be quite the talented herbalist, creating healing poultices and soothing salves to help your fellow elves. Of course, you can easily turn this knowledge towards crafting deadly poisons as well, which are often just as needed.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 11,
+      "cost": 200,
+      "name": "Halla",
+      "source": "Dragon Age 1.02",
+      "description": "The halla are a type of horned stag. Some of them are herded by the Dalish elves who used them to pull the aravels, or landships. Their milk is also made into cheese and butter. The Dalish do not consider them beasts of burden but noble companions. To get them to accompany a clan, the Dalish elves ask rather than force them to. It is said that the Dalish carve their antlers for decorative purposes, and that their antlers are particularly prized in the Tevinter Imperium.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 12,
+      "cost": 300,
+      "name": "An Oversized Mirror",
+      "source": "Dragon Age Inquisition Jump",
+      "description": "A massive ornate mirror standing over 12 feet tall. The mirror is broken, but is obviously magical. It appears as though all of the shards of the mirror are at the foot of the mirror and all that is required to fix it is time and knowledge.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 13,
+      "cost": 400,
+      "name": "Nomadic Hunter",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. One cannot afford to be ignorant of their surroundings, no matter how seemingly safe it appears. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 14,
+      "cost": 400,
+      "name": "Anduril’s Blessing",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Belts of this type, crafted by ancient elven keepers, were given to a clan's honored allies. Although the fine engravings are faded from age and use, the enchantments remain strong to this day. Not only will it bolster one’s resilience to damage and spiritual magics, but it allows the wearer to swiftly replenish any spent mana, even in the midst of battle. Yet even with such potent equipment, the elves fell all the same to the Imperium.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 15,
+      "cost": 400,
+      "name": "Woodshaping",
+      "source": "Dragon Age 1.02",
+      "description": "The Dalish elves practice a craft known as Woodshaping, which allows them to forge outstanding arms, armour, and other items from wooden materials that can easily compare to most of their metal counterparts. Yes, you read that correctly. Forge. They forge wood. How they manage to accomplish this, only the Dalish know, and they’re not telling any outsiders. Except for you, that is. You’ve studied under a Master Woodshaper, and learned all they’ve had to teach you, including the secret of how to work with Ironbark. Any type of wood can be used for this craft, but the best results are gained when Ironbark is used. Ironbark is a rare wood type, somewhat blue in colour, and only grows in the Brecilian Forest in Ferelden. Items fashioned from Ironbark are surprisingly both stronger and lighter than steel, and are exceptionally suited to enchantments.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 16,
+      "cost": 400,
+      "name": "Nomadic Hunter",
+      "source": "Dragon Age - Origins",
+      "description": "There are many dangers found in the lands beyond the walls of human settlements and the mountain holds of the dwarves, all that the Dalish must contend with. No matter how seemingly safe it appears, one cannot afford to be ignorant of one's surroundings. This focus on awareness manifests as an almost sixth sense, allowing you to detect nearly all nearby creatures within a certain range. Even if they were to perfectly conceal themselves, you’d still be able to find that assassin in the trees, or the undead behind the ruined column.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 17,
+      "cost": 600,
+      "name": "The Sorrows of Arlathan",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Ancient carvings cover the limbs of this bow. It looks to be some form of elven, either a poem or a prayer of some sort. Not only do arrows fired from this longbow punch through even the thickest of armors, but the user can fire them at such a rate to rival ten of their equals. Strangely, it seems as though this bow is more effective against those who don't possess elven blood, biting into their flesh like the fangs of a dreaded wolf.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 18,
+      "cost": 600,
+      "name": "Keeper ",
+      "source": "Dragon Age: Origins by Pokebrat",
+      "description": "Every Dalish clan has a keeper, a wise mentor dedicated to preserving the elves' ancient lore. It is exceptionally uncommon for a keeper to teach anyone other than a fellow clan member about the unique Dalish understanding of nature magic, which focuses on control of the roots beneath the earth, amongst other abilities. Most prominently, creatures of nature such as sylvans will find themselves compelled to follow your commands, while elves will be more deferential towards you.",
+      "chapter": "Elf"
+    },
+    {
+      "__source": "Celestial Tarot v1 by Gothicjedi666_ - Elf",
+      "__line": 19,
+      "cost": 800,
+      "name": "Vir'abelasan",
+      "source": "Dragon Age 1.02",
+      "description": "The Vir’abelasan, or Well of Sorrows, is an ancient nexus of ley energies located within the temple of Mythal. Mythal, one of the elven gods, was betrayed and murdered by her fellow Evanuris. This pool is a reminder of what was lost, a path to be walked by those who toiled in Mythal’s name. Near the end of their life, every servant of Mythal would pass their knowledge on through the Well of Sorrows. Thus, it contains all the collective knowledge and way of life of the ancient favoured elves. Those who drink from the well will gain access to all the knowledge stored within, though it may take quite some time to fully absorb and comprehend everything. There’s so much knowledge to shift, through, after all. It is said that those who drink from the Vir’abelasan are bound to the will of Mythal forevermore. And while that appears to be true for the original, since you are paying so much CP for this, you will gain a copy of the Well that doesn’t enslave the user. What’s even better is that this version of the Well doesn’t just contain the collective knowledge of the servants of Mythal, but the collective knowledge of all of the ancient elves, including the Evanuris.",
+      "chapter": "Elf"
     }
   ]
 }

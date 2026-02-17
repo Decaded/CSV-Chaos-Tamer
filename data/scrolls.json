@@ -453,820 +453,6 @@
   ],
   "2": [
     {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 1,
-      "cost": 100,
-      "name": "Wolf Queen ",
-      "source": "TES: Undead",
-      "description": "A scion of the Septim bloodline, cursed by the soul of a fel beast since birth, Potema grew to be an exceptionally powerful necromancer. Such was her talents that she threatened the Empire itself with her undead army, only stopping once she was slain. Now she follows you, either out of loyalty or lust for the power your journey will grant her.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 2,
-      "cost": 100,
-      "name": "Daedric Merchant",
-      "source": "TES: Magic",
-      "description": "Even a Daedra has to make a living, somehow, and this one has chosen the path of the merchant. He can be summoned through a simple and easy spell, and can both sell and purchase items. His wares are often rare and valuable, and often seem to possess a massive amount of whatever the local currency is. His stock and wallet replenish after three days, often with different items, even those of different worlds you've visited.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 3,
-      "cost": 100,
-      "name": "Rebellious Knight ",
-      "source": "TES: Daedra",
-      "description": "The bastard daughter of a noble in High Rock, this Nord warrior has taken up the mantle of a knight, fighting for the people. Wielding a cursed blade given to her by her god, she has struck down numerous corrupt and evil officials, she has inspired hope in countless souls. Now, if only she didn’t carry herself like a thug...",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 4,
-      "cost": 100,
-      "name": "Favored Daughter ",
-      "source": "TES: Daedra",
-      "description": "The pride and joy of Malacath, his very own daughter has agreed to be your Companion. Strong of spirit and strong of heart, her cheerful and friendly demeanor contrasts well with her father's bitterness. But she is still the child of Malacath, and is well versed in the warrior ways, close in power to the strongest of the dovah.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 5,
-      "cost": 100,
-      "name": "Black Cat ",
-      "source": "TES: Daedra",
-      "description": "A noblewoman turned rogue, this Redguard has turned her talents of subterfuge into an art, primarily to help her friend who was wrongfully accused by the law. Skill, she’s fast, smart, and skilled, a deadly combination if ever there was one. She has even developed a spell that transforms her into a cat.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 6,
-      "cost": 100,
-      "name": "Court Jester",
-      "source": "TES: Daedra",
-      "description": "Once a respected healer, this Nord has long since joined Sheogorath's realm due to a toxic romance. But now she has a new target for her affections. You. A skilled acrobat and deadly with her massive warhammer, she'll smash anything that would get in the way of you two being together.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 7,
-      "cost": 100,
-      "name": "Daedric Servant",
-      "source": "The Elder Scrolls Series",
-      "description": "Despite the dangers involved with summoning one, Daedra are useful allies to have at your side. This Daedra, whose race you can choose, is loyal to you and only you. You can summon them whenever you want with no magicka cost, and if killed then simply wait a day before summoning them again. Can stay a free summon or become a Companion at your discretion.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 8,
-      "cost": 100,
-      "name": "Pink Mage",
-      "source": "TES: Magic",
-      "description": "This short Breton girl is a prideful and powerful mage. Though an accident with Alteration permanently left her hair a bright pink, she has an impressive wealth of magical and academic knowledge, and her skill with Destruction is something to behold, outclassing many masters. She strives to become the greatest mage in history, and is stubborn and skilled enough to see it through.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 9,
-      "cost": 100,
-      "name": "Mage Apprentice",
-      "source": "The Elder Scrolls: Oblivion",
-      "description": "As a fresh student accepted into the Arcane University they don’t have any other prospects lined up if their education goes badly. Mostly they busy themselves with attending lectures, strolling around campus, and doing their best to study up on the arcane arts. Currently they know a decent bit about Destruction magic, have some weak summon spells, and through errors in casting those spells have come to understand the value of their singular strong self-healing spell. What they have in intelligence they lack in force of personality. This student seems hesitant to speak much at all, even if they are excellent at following instructions. Perhaps they view you as a respected professor and are afraid to embarrass themselves?",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 10,
-      "cost": 100,
-      "name": "Ice Queen",
-      "source": "TES: Dovah",
-      "description": "An Altmer who studied at the College of Winterhold, she is a magewhose skill in magic is matched only by her arrogance. Her focus on ice magic allows her to generate massive amounts of ice to control the battlefield, or just freeze her opponents solid. Still, she desperately craves a place to belong, and friends who will stand by her side.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 11,
-      "cost": 200,
-      "name": "Mental Bond ",
-      "source": "TES: Magic",
-      "description": "One thing that is often forgotten about the School of Conjuration, is that telepathy can be used on more than just summons. By performing a short and easy ritual, you can permanently mark anyone you desire and create a telepathic link with them. This link cannot be broken in willfully, and you can even communicate with them from entirely separate dimensions.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 12,
-      "cost": 100,
-      "name": "Vampire Princess",
-      "source": "TES: Undead",
-      "description": "Sealed within an ancient tomb in the frozen peaks of Skyrim, Serana is an interesting case. Quick-witted and sarcastic, she is a Daughter of Coldharbour, one of the few Pure-blooded Vampires, and trained in both Alchemy and Necromancy, though her skill in Destruction is nothing to scoff at.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 13,
-      "cost": 200,
-      "name": "Durnehviir",
-      "source": "TES: Undead",
-      "description": "Bound to serve the Ideal Masters of the Soul Cairn for eternity, this dragon has found himself free from that awful realm, all thanks to you. Durnehviir is a powerful necromancer, capable of summoning undead legions from the Soul Cairn and ripping out a person’s soul using the Thu’um. He also loves a good challenge, and would welcome any chance to spar with powerful opponents.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 14,
-      "cost": 100,
-      "name": "Warrior Spirit ",
-      "source": "TES: Imperial Cult",
-      "description": "It is rare indeed when a spirit returns to the mortal plane of their own free will, especially so when they are sent by Arkay. This sword-wielding woman has been assigned as a psychopomp of sorts in your area, releasing ghosts and spirits of their earthly connections in order to ascend to the heavens above. She has found you to be an interesting mortal, and as such will be glad to fight by your side.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 15,
-      "cost": 200,
-      "name": "Star Orphan ",
-      "source": "TES: Imperial Cult",
-      "description": "Few are those who are followers and worshippers of the Magna-Ge, let alone those who have met one in the flesh. Though not the most powerful, this Aetherial entity has chosen to follow you to new worlds as a companion, for reasons completely alien to you. But why care about something as arbitrary as reasons and excuses when you have an entity on par with greater Dovah by your side.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 16,
-      "cost": 0,
-      "name": "Housecarl ",
-      "source": "TES: Dovah",
-      "description": "Having been trained as a warrior from a young age, this Nordic woman has devoted herself to you, swearing to guard you, and all you own, with her life. Stoic and fearless, she will act as both your sword and your shield, taking care of many threats before you're even aware of them.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 17,
-      "cost": 100,
-      "name": "Energetic Barbarian",
-      "source": "TES: Warriors",
-      "description": "Though she may be short for a nord, this redheaded bundle of energy is a right terror in combat. Wielding a warhammer the size of a small child with surprising grace and agility, don't be surprised when anyone who gets in your way cries out over their lost kneecaps.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 18,
-      "cost": 100,
-      "name": "An Adoring Fan",
-      "source": "Elder Scrolls: Oblivion",
-      "description": "Maybe it was a stint in the arena, or perhaps the last job you did saved a life and earned someone’s deepest affection. Regardless, you’ve struck a chord with them earning the eternal enthusiastic adoration of a completely useless civilian. This could anyone from a bosmer lad to an argonian lass. Ultimately they are not very experienced in the ways of the world. But they’ll carry your weapons, shine your boots, and offer backrubs when the mood strikes. For some, this level of adoration could get a bit grating. It wouldn’t be out of character to hear, “You're the best! I'm going to follow you and watch you and worship the ground you walk on!” They are actually pretty dedicated to performing all the tasks they offer well though.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 19,
-      "cost": 200,
-      "name": "Star Beast",
-      "source": "TES: The Warrior Waves",
-      "description": "Not all creatures of the firmament are affectionate or benign, some being more than capable of destruction as the beings of Oblivion. One such creature, known as Aetherion, is a being created of starlight that is easily on par with a Daedric Titan or a dragon, rending flesh and stone as easily as one would a leaf. It would take a grand hero indeed to defeat such a monster, so what does that say about you, who commands it?",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 20,
-      "cost": 100,
-      "name": "Golden Queen",
-      "source": "TES: The Warrior Waves",
-      "description": "An ancient Nedic chieftain, this woman of golden hair underwent a ritual that gave her a life eternal and the very power of the stars above. She rides into battle bearing a stone hammer that glows with divine energy, which strikes with enough force to flatten a man in one blow. It is only through struggle that one can truly grow, and she sees you as a nexus of endless conflict.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 21,
-      "cost": 0,
-      "name": "Winged Assassin ",
-      "source": "TES: The Warrior Waves",
-      "description": "Though native to the mountainous lands to the north, it is not unheard of for harpies to find themselves in the Deathlands. Though charged with assassinating a necromancer searching for eternal life, she has found you to be an interesting soul, and will follow you from now on.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 22,
-      "cost": 0,
-      "name": "Green Princess ",
-      "source": "TES: Main Races ",
-      "description": "When one thinks of royalty, they do not often expect this redheaded orc. For as beautiful a specimen as she is, for an orsimer, do not underestimate her, for she can take on whole groups of armored combatants with just her bare hands. Also, don’t let her sing, as she has caused birds to explode that way.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 23,
-      "cost": 100,
-      "name": "Wolf Kissed ",
-      "source": "TES: Main Races ",
-      "description": "A nordic shieldmaiden from the frozen north, she is the epitome of what it means to be a nordic warrior. With dual axes and great physicality, she can cut off a man’s armored legs with but one swing, but what makes her truly dangerous is her adaptability and cunning.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 24,
-      "cost": 0,
-      "name": "Troubled Kitten",
-      "source": "TES: Main Races ",
-      "description": "Though she may look like a young ohmes-raht and her character is that of pride and feline stereotypes, she is a truly broken soul. Captured and tormented by a high ranking member of the Thalmor until the point where she was completely despondent. Her memories of those events have been mostly purged, though she still has nightmares from those days.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 25,
-      "cost": 100,
-      "name": "Eagle Bearer ",
-      "source": "TES: Main Races ",
-      "description": "A imperial woman from the colovian region who took to the arts of war like a duck to water, a tragedy had her separated from her family. With her enchanted spear, pet eagle, and Legion-like training, she goes out into the world to search for her wayward family.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 26,
-      "cost": 200,
-      "name": "Soul Sword ",
-      "source": "TES: Main Races ",
-      "description": "A sword imbued with the spirit of a redguard prince, it has taken his skill, giving the blade a mind of its own. When in combat, it will seek out the weak points of an opponent, guiding your hand to deal the most damage you can. Should you find a way to awaken the soul within, you can even communicate with it.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 27,
-      "cost": 400,
-      "name": "Staff of Hasedoki",
-      "source": "TES: Main Races ",
-      "description": "A magical staff that belonged to the wizard Hasedoki, who was, to the best of all knowledge, the greatest wizard of his time. It is said that he felt so lonely and isolated because so many feared his power, that he bonded his soul into his very own staff, where it remains. Using it will see a magical ward envelop you, protecting you from most magics while also casting Soul Trap upon any nearby enemies.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 28,
-      "cost": 100,
-      "name": "Barrels of Mead",
-      "source": "TES: Main Races ",
-      "description": "Any true nord knows that there are fewer things better in life than being surrounded by friends and having a belly full of mead. Such is the purpose behind these number of barrels, each one filled with a brand of mead, from the standard stuff all the way to the rare and vaunted Black-Briar Reserve. These barrels will never empty, spilling forth an endless amount of the sweet drink for all to enjoy.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 29,
-      "cost": 400,
-      "name": "Local Leader",
-      "source": "TES: Rogue",
-      "description": "People are often not the best when it comes to deciding what it is they want, focusing more on the short term than the future, and ignoring what they actually need in favor of what they think they desire. You have a powerful insight to your people, your subjects and followers and companions, possessing an almost sixth sense for determining what they want, what they actually need, and what separates the two.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 30,
-      "cost": 200,
-      "name": "Knights of the Nine",
-      "source": "TES: Imperial Cult",
-      "description": "It's not every day when an order of knights dedicated themselves to you, but that is exactly what's happened here. These nine knights of various races and backgrounds share a few things in common, like each one being blessed by a different Divine, and their undying loyalty to you. Whether they become your Companions or Followers is up to you, but each knight is skilled enough in combat to take on ten men at once and come out on top with ease.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 31,
-      "cost": 100,
-      "name": "Faithful Hound",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Dogs have been considered man's best friend for ages and for good reason too. They’re able to help greatly when it comes to tracking a target, they’re loyal, and generally just nice companions to have. Which is nice since you now have a faithful hound of your own. Whether you bought it or found it roaming the wilds this dog is both a loyal and surprisingly capable compatriart more than capable of killing wolves and even bringing bandits down should they not be well armored. Though perhaps you just want the dog as a pet, either works. This acts as a follower and not a companion, if killed the dog will return given a few days and should you wish it your new pet can become a companion if imported later on.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 32,
-      "cost": 600,
-      "name": "Daedric Champion ",
-      "source": "TES: Daedra",
-      "description": "Your Prince has looked upon you, and found within you the perfect instrument to enact their will upon Tamriel. Not only are you a cult leader on par with Mankar Camoran, managing a province spanning network of hidden cultists with very few ever able to locate all of your followers, but you have been given a boon by your chosen Prince. A champion of Azura may receive visions of the future, while a champion of Peryite could unleash a deadly cloud of sickness.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 33,
-      "cost": 100,
-      "name": "Gilded Glory ",
-      "source": "The Elder Scrolls - The Shivering Isle",
-      "description": "The defenders of Mania, the Aureal (or Golden Saints) are the strongest warriors in the Shivering Isles. Typically decked out in their signature golden-hued heavy armor, they excel in close quarters battle and make for excellent shock troops – though they are predisposed towards arrogance and are not particularly suited to more subtle endeavors. You gain the ever-lasting servitude of ten of these soldiers, all of whom are unfailingly loyal to you and will serve your every command without question. Furthermore, as Daedra, death is merely a temporary setback to them, and not even suicidal orders will cause them to hesitate. In most cases, they’ll instead feel honored that they can spend their lives in your service. You can summon each of these individuals to you once per day with a brief exertion of your will, an act which will also restore them to life if they were previously slain. These Golden Saints do not count as Companions by default, though you can make them such if you wish.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 34,
-      "cost": 400,
-      "name": "Dragonguard ",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Every warrior needs his companions and naturally you’re no exception. Following your lead is now a sizable organization of warriors and heroes of notable repute. The group can be designed however you wish and oriented around in a way that pleases you, want a band of dragon slaying Knights at your beck and call, great, or perhaps Vampire hunters like the Dawnguard are more preferable to you. This can even be as much as just being a group of people who congregate together due to a shared love of adventure, the point is that the sky’s the limit with this. The average member is just that, average, however there are a number of higher ranking members who are notably stronger and more capable to make up for this. Fortunately the group is also in a solid position to expand and grow should you wish that as well.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 35,
-      "cost": 600,
-      "name": "The Five Hundred Companions",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "There’s just something about you, a certain aura about your person that just draws people to you. While others may have charisma on a personal level you have it on a far grander level, that of a Warrior King or leader like Ysgramor. This is the charisma required to win over entire peoples and crown oneself king and where a personal level of charisma may be like honeyed words someone can’t resist, this is akin to a roaring tempest that drags people to you. Warriors, mages and others will find themselves drawn to your banner should you raise it and you’ll quickly find yourself surrounded by competent advisors and companions like Ysgramor and his ilk were. This also comes with the knowledge to lead your troops in such a manner that would earn you the respect of grizzled generals and veterans, after all what’s the point of all these people if you can’t lead them?",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 36,
-      "cost": 200,
-      "name": "The Prisoner",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "This rather odd young Nordic woman you ran into not too long ago is a curious sort, clad in a mix-match of worn Stormcloak and Imperial light armor she claims a rather fantastical tale of a dragon laying waste to Helgen just as the Empire was just about to execute Ulfric Stormcloak and other prisoners, though her sheer energy and drive to reach Whiterun to warn the Jarl certainly lend credit to her words. Regardless of your trust in her words you struck of something of an burgeoning friendship with her after you helped fight off several bandits that had ambushed the lass and showed yourself an agreeable sort. Left in over her head she asked if you’d accompany her as a traveling companion of sorts if you’d like given she could use a partner in traveling Skyrim, a homeland she has little experience with in truth. Accept and you’ll be joined by a free spirited young woman eager to see the world and even try to make a difference in it for the better, and while she may lack for skills now the adventures you two engage with will see her grow in ability in leaps and bounds.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 37,
-      "cost": 100,
-      "name": "Royal Lineage ",
-      "source": "Elder Scrolls Companions Supplement",
-      "description": "Altmer restoration mistress specialized in wards and anti-undead spells rather than healing. Claims to be the princess of the Summerset Isles, holds a grudge against orcs and redguards due to having been ousted from her home by a half breed of those races. Blessed by Julianos.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 38,
-      "cost": 200,
-      "name": "Knight Of Treachery ",
-      "source": "Elder Scrolls Companions Supplement",
-      "description": "Bastard daughter of a Daggerfall noble who was made a knight in their father's court. Was denied the position of heir despite being the first born and sought to take her father's throne by force. Wild and aggressive in combat, wears heavy armor, and wields a stolen great sword that she uses alongside crimson lightning spells powered by her hatred for her parents.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 39,
-      "cost": 200,
-      "name": "Mead Hall",
-      "source": "TES: Warriors",
-      "description": "Every good band of warriors needs a place to rest their laurels, where they can drink as much mead as possible and embellish their tales of valor. This mead hall is just that, a place that gives off a constant aura of revelry and brotherhood as surely as the barrels of mead and other such spirits will never run dry. Now it's just a question of how everyone will get home when they're piss drunk.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
-      "__line": 40,
-      "cost": 100,
-      "name": "Twilight Princess",
-      "source": "Elder Scrolls Companions Supplement",
-      "description": "Dunmer who uses alteration to manipulate shadows, allowing her to store objects (and herself) inside them. Also uses it to control her hair as an extra limb, and give it the volume and strength needed to act as a lethal weapon. Formerly the ruler of a small nation of Azura worshipers but was thrown out by one of her subjects who made a deal with Mehrunes Dagon and started a violent revolution.",
-      "chapter": "The Follower"
-    }
-  ],
-  "3": [
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 1,
-      "cost": 100,
-      "name": "Alchemical Ingredients ",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Sometimes it can just be such a pain to go searching for a specific flower, or monster’s organ in some remote part of Skyrim. Well now that’s no longer the case! You’ve got a satchel or backpack of some sort that’s just loaded with high quality ingredients useful for potion making or other magical pursuits. While you won’t find anything incredible in it this will make sure you never run out of the basic materials you need.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 2,
-      "cost": 100,
-      "name": "Alchemy Station",
-      "source": "TES: Magic",
-      "description": "You can't very well practice alchemy if you don't have the correct tools. Thankfully, this purchase is exactly what you need to truly bring out the best of the craft. This master crafted set of mortar and pestle, calcinator, alembic, and retort allow you to make more alchemical substances at a higher quality than you otherwise would have. Alchemical ingredients sold separately.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 3,
-      "cost": 100,
-      "name": "Elementalist",
-      "source": "TES: Magic",
-      "description": "Few schools can match the flashiness of the School of Destruction, nor can many resist the temptation to destroy your enemies in an elemental fashion. Choose one of the three classical elements, Fire, Frost, or Shock. Spells that utilize your chosen element will be twice as devastating, all while costing half the magicka cost they otherwise would have.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 4,
-      "cost": 100,
-      "name": "Healer ",
-      "source": "TES: Magic",
-      "description": "The art of Restoration is a perfectly valid School of Magic, and don’t let anyone tell you otherwise. Though seen as not as broad or cool as the other Schools, being able to heal wounds is an undeniably useful skill to have, no matter who you are. For you, healing spells are twice as powerful, all while costing half as much magicka.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 5,
-      "cost": 100,
-      "name": "Life Extension",
-      "source": "TES: Magic",
-      "description": "It is not unheard of for certain mages to live well beyond their race's standard life expectancy, simply look at Divayth Fyr for one such example. Now you are one of those ambitious few, having cast off the shackles of aging. You are now effectively immortal, though it would be more accurate to say that you can live indefinitely.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 6,
-      "cost": 100,
-      "name": "Magical Beauty ",
-      "source": "TES: Magic",
-      "description": "There is such beauty to be found out there, in this massive world of ours. And through the use of magic, you too can be just as beautiful. Few would be able to deny your attractiveness, and any scars you may unfortunately end up getting are sure to be aesthetically pleasing. Honestly, it's as though your features were sculpted from magic itself.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 7,
-      "cost": 100,
-      "name": "Mystic Tuning Gloves",
-      "source": "TES: Magic",
-      "description": "An enchanted set of gloves used by many mages for numerous reasons, mostly to easily handle unstable and volatile magical artifacts. You, however, have found another use for them, being able to more efficiently use your magic, reducing the cost of all magic if only slightly.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 8,
-      "cost": 100,
-      "name": "Scrying Orb ",
-      "source": "TES: Magic",
-      "description": "To see events happening great distances away is a valuable ability, which makes this crystal orb a valuable tool. With it, you can look anywhere you’ve been before, no matter where you currently are, as well as listen in on conversations. It can be blocked or be fed false information with sufficient magical protections.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 9,
-      "cost": 100,
-      "name": "Staff Creator",
-      "source": "TES: Magic",
-      "description": "Staves are extremely useful tools for mages, able to hold charges of spells, and even be used to focus and empower a user’s spells. But if you want to create your own staves, then this is the option for you. A specialized workstation, this will allow you to create and customize your own magical staves.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 10,
-      "cost": 100,
-      "name": "Varla Stones",
-      "source": "TES: Magic",
-      "description": "Crafted from meteoric glass by the now extinct Aelyids, Varla Stones are highly valuable resources that are similar, yet different, to Welkynd Stones. While they store magicka just like their smaller brethren, these are used to fully replenish an enchantment, or can even act like a magical power source. Just like with Welkynd Stones, the secret to recharging them has been lost alongside the Aelyids, turning to dust after each use. Luckily, you have a stockpile of fifty of these stones, which will replenish weekly.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 11,
-      "cost": 100,
-      "name": "Welkynd Stones",
-      "source": "TES: Magic",
-      "description": "Crafted from meteoric glass by the now extinct Aelyids, Welkynd Stones are highly valuable resources, especially to mages, as they store a considerable amount of magicka within. Suffice to say, a knowledgeable mage is able to replenish their own stores of magicka utilizing these stones. And although the secret to recharging them has been lost alongside the Heartland High Elves, turning to dust after each use, you have a stockpile of fifty of these stones, which will replenish weekly.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 12,
-      "cost": 100,
-      "name": "Basic Mage Set",
-      "source": "The Elder Scrolls Series",
-      "description": "An enchanted set of robes and a hood. Together they will slightly increase your total Magicka and magicka regeneration, but can be worn separately. This also comes with a book detailing the basics of magic, and some common ways to improve your skill with it.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 13,
-      "cost": 200,
-      "name": "Alchemy Tower",
-      "source": "TES: Undead",
-      "description": "When you have eternity to look forward to, it’s not unreasonable to believe that you’ll pick up a few hobbies. A popular one, it seems, is the magical science of alchemy. You are now in possession of a tower devoted to this skill, possessing all manner of alchemical devices and recipes, as well as a large garden and storage area for practically every alchemical reagent found in these lands. These ingredients will restock after a week, so no need to fear running out. Additionally, any potions you create here will be twice as powerful.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 14,
-      "cost": 200,
-      "name": "Arcane Professor",
-      "source": "TES: Magic",
-      "description": "Knowledge is a powerful thing, and is best to be shared and passed down so then it will never be forgotten, something you ensure will never happen. You are an amazing teacher, allowing your students to grasp your lessons and show tangible results in record time. But more important, is when you teach others the arts of magic. Even if they come from a world completely devoid of the supernatural, under your tutelage anyone will be able to utilize any type of magic, and it will continue to spread as your students pass on your teachings.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 15,
-      "cost": 200,
-      "name": "Dual Casting",
-      "source": "TES: Magic",
-      "description": "The gods gave you two hands, so why not use both of them for your magic? When you use both hands to cast a spell, not only does the spell itself require less magicka to use, but it will also see a noticeable increase in potency. Though this may limit you slightly, taking away the option of wielding a weapon in case an enemy gets too close, I’m sure you’ll be able to fry them long before that point.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 16,
-      "cost": 200,
-      "name": "Friendly Fire ",
-      "source": "TES: Magic",
-      "description": "For as fun and as devastating a battlefield through elemental fury is, it can be quite the hassle when you need to ensure any allies you may possess don't get caught up in your destruction. Thankfully, you will never have to worry about that ever again, as your spells will never harm your allies ever again, completely ignoring them. From elemental cloaks to massive explosions of magical power, those by your side will never be harmed by your hands.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 17,
-      "cost": 200,
-      "name": "Gauldur Amulet",
-      "source": "TES: Magic",
-      "description": "Crafted in the First Era by the Archmage Gauldur, this was considered such a powerful artifact that his three sons murdered him and stole a fragment each. And though it isn't as powerful as it was back then, it's still anundeniably useful artifact. While wearing this amulet, you will find your vitality, stamina, and magicka heavily bolstered.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 18,
-      "cost": 200,
-      "name": "Magical Books",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "The art of spellcraft is one that requires an immense amount of dedication and in many ways talent as well. Learning new spells can take ages and this can easily drive many off or act as a massive constraint when time is of the essence. You’ve found a bit of a way around this conundrum, by imbuing a simple book with your understanding of the spellcraft you can create a magical item that when activated immediately passes this onto whoever activated it, though the book is consumed in the process. While this only applies to Elder Scrolls magic at first, you’ll find that adapting it to other systems is an easy process and only requires that the process be fine tuned.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 19,
-      "cost": 200,
-      "name": "Magical Protection ",
-      "source": "The Elder Scrolls Series",
-      "description": "Magic is a powerful force in this world, and is great for protecting buildings. Your walls are stronger, and are resistant to magical attacks. There are also multiple magical traps for anyone stupid enough to attack your home. It also helps keep your home at an ideal temperature at any point in the year, just as an added bonus.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 20,
-      "cost": 200,
-      "name": "Mark and Recall",
-      "source": "TES: Magic",
-      "description": "For the traveling mage, walking back and forth can be quite an annoying and time consuming experience. Thankfully, there are magical solutions. You now know of a unique variation of the Mark and Recall spells. You can leave an almost unlimited amount of permanent Marks, one of which is automatically placed within your Warehouse. And by casting Recall, you can choose any of the Marks you’ve left behind to teleport to. You can remove any of the Marks you want, but most will be lost at the end of a Jump.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 21,
-      "cost": 200,
-      "name": "Master Alchemist",
-      "source": "TES: Magic",
-      "description": "Although it is not a school of magic itself, Alchemy is the art of mixing, boiling, and distilling various substances to obtain their chemo-magical properties and create potions and poisons. You are a master Alchemist, with there being few ingredients outside of your reach. With a bit of trial and effort, you could even use ingredients from magically dead worlds in order to create high quality potions and poisons.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 22,
-      "cost": 200,
-      "name": "Personal Staff",
-      "source": "TES: Magic",
-      "description": "A custom staff lovingly crafted to suit your own tastes and aesthetic, it will be a potent tool in your arsenal. Not only does it greatly empower the spells of one of the Schools of Magic, or some other type of magic found on Tamriel, but it also reduces their magicka cost. You'll also find it quite durable, so you can utilize it as a surprisingly effective bludgeoning weapon if you run out of magicka.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 23,
-      "cost": 200,
-      "name": "Respite ",
-      "source": "TES: Magic",
-      "description": "But wounds are just one malady that plagues the mortal condition. Poisons and diseases, deadly toxins and depleted stamina, all things that are now yours to cast away with. All healing spells you cast will not only replenish a target’s stamina, but it will also purge their bodies of any poisons, toxins, or diseases. Only those genetic in nature, or those that are magically powerful cannot be affected by this.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 24,
-      "cost": 200,
-      "name": "Ring of Phynaster ",
-      "source": "TES: Magic",
-      "description": "This ruby ring is said to have been created by the Hero-God of the Altmer, Phynaster. It offers the wearer great protection against poison, shock, and magical damage. Additionally, it extends the wearer's lifespan indefinitely so long as it is being worn.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 25,
-      "cost": 200,
-      "name": "Staffs, Staffs, and Staffs!",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Every wizard needs a wand, and while these aren’t wands they’re close enough. You now have an extensive collection of the common magical staffs found in this world, examples of which being ice spikes or fire balls. On the surface these may seem of limited use, however the fact that they don’t require your own magic to cast the spells is a nice fallback tool for young mages or those that just can’t channel much. As a final bonus you’ll find these staffs easy to enchant with new spells whatever those may be in the future.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 26,
-      "cost": 200,
-      "name": "Teleportation Grid",
-      "source": "The Elder Scrolls Series",
-      "description": "Aren't you just tired of walking everywhere, and want a more magical solution? In a fair amount of rooms within your home, there's a pad where you can teleport to other pads inside your home. You also now know a special spell, allowing you to teleport yourself back to your home, which you can teach to others.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 27,
-      "cost": 200,
-      "name": "Transmutation",
-      "source": "TES: Magic",
-      "description": "It is a commonly believed rumor that all mages are capable of turning anything into pure gold. It's a lie, of course, but not a baseless one, as proven by your skill. You have been trained in the art of transmutation, allowing you to change iron into silver, silver into gold, and back again. This skill affects both the raw materials and refined products. With a lot of training and experimentation, there is no limit to what you might be able to transmute.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 28,
-      "cost": 200,
-      "name": "Vast Library",
-      "source": "The Elder Scrolls Series",
-      "description": "For those of a more academic persuasion, this large library is a great addition to your home. Large shelves that contain a large number of books, ranging from children's fiction to history. It also contains a fair amount of spell books that make learning the spells within much easier than they otherwise would be. There are also instructions on how to make more of them, some with your own custom spells.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 29,
-      "cost": 200,
-      "name": "Wizardly Studies",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Wizarding is made out to be glorious, casting of fire balls and bolts of lightning, what they unfortunately fail to mention is that a large part of growing in magic is tedious study, research, and training that can become mind numbing. That’d be most people, you on the other hand have no such problems, you’ll find that you greatly enjoy such pursuits and find them to be a relaxing activity, or at the very least you don’t mind them. To spice this up a bit, such activities also take a fraction of the normal time to complete so you’ll always have plenty of time for other pursuits.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 30,
-      "cost": 200,
-      "name": "Ancient Ayleids",
-      "source": "The Elder Scrolls: Oblivion",
-      "description": "A common sight around the landscape of the province, these ruins are all that remains of the city-states that once marked the Ayleid Empire. What is uncommon is that this site has great potential historical value, having been left essentially untouched since it was abandoned eras ago. Within can be found all manner of priceless art and insight into Ayleid life. There are also defenses, puzzles, and remaining treasures. The most notable of these treasures are the welkynd and varla stones that can be uncovered. These were crafted from fallen stars and used by the elves to replenish their personal magicka and the energy of their enchanted items. With the loss of Aldmer civilization the secrets to recharging them was lost too and these treasures crumble to dust when used. That is not the case here. At the heart of this abandoned city lies it’s Great Welkynd Stone which will serve to power any of the enchantments kept within the city. This ensures your various stones will be able to recharge keeping your magicka strong.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 31,
-      "cost": 200,
-      "name": "Psijic Robes ",
-      "source": "TES: Main Races ",
-      "description": "The monks of the Psijic Order are often considered as the greatest group of mages in all of Tamriel, and their standard uniform reflects that. Created from a rare kind of magical silk, these yellow robes may not be the best for protection, but it does greatly increase both your magicka pool as well as the rate in which your magicka replenishes.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 32,
-      "cost": 400,
-      "name": "Archmage",
-      "source": "TES: Magic",
-      "description": "While there are many mages who are masters of their craft, with a skill and understanding of their chosen School that would be difficult to match, few are as suited for the role of Archmage as you. Your magicka reserves are, quite frankly, monstrous, which is not helped by the fact that they replenish at an incredible rate. Yet it is not just power, but your management skills which make you a fitting candidate. You could effectively manage an entire college, or even a province spanning guild, and keep it running efficiently almost single-handedly.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 33,
-      "cost": 400,
-      "name": "Celestial Oculory ",
-      "source": "TES: Magic",
-      "description": "Originally created by the Dwemer to learn the secrets of the stars, mages from the Synod repurposed it for what they believed to be a better use. This Oculory will allow you to locate and pinpoint the location of items of great magical power across an entire continent. Of course, a powerful enough artifact will divert much of the Oculory's attention, but you can set it to ignore such items.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 34,
-      "cost": 400,
-      "name": "Invisible Hand ",
-      "source": "TES: Magic",
-      "description": "Arguably one of the most useful spells, there is a lot of versatility to be found in telekinesis, especially if the caster is a master like yourself. You barely use any magicka when lifting an object the size of a child, and could lift a horse with relative ease. But most astonishing is your precision and control, allowing you to thread a needle with ease, or fight with weapons from a distance.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 35,
-      "cost": 400,
-      "name": "Ring of Wizardry ",
-      "source": "TES: Magic",
-      "description": "A gold ring with the image of the Mage constellation emblazoned upon it. While wearing this enchanted ring, you will find that not only are the magicka cost of all spells reduced, allowing you to use more spells than before, it will also double their potency, making them twice as powerful as before.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 36,
-      "cost": 400,
-      "name": "Spell Crafter",
-      "source": "TES: Magic",
-      "description": "The study of magic is an act that pushes against the preconceived limitations seen by the mage in question, and often necessitates the creation of entirely new and unheard of spells and magical effects. You are exceptionally skilled in creating new spells, or even just mimicking magical and supernatural abilities you see, requiring a bit of trial and error before the final product is perfected. Even those spells that are considered unique or restricted are just within your grasp, if you choose to reach out.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 37,
-      "cost": 400,
-      "name": "Wizard's Tower ",
-      "source": "TES: Magic",
-      "description": "Though it may just be a cliche, there is something to be said about owning your very own arcane tower. This property has multiple levels, each for a certain purpose. You've got the entry level, library, larder, kitchen, garden, storage, basement, vault, study rooms, practice areas, guest rooms, a master bedroom, and even a few bathrooms. It's also got a good amount of magical protection, reinforcing the walls and making them highly resistant to magical damage. Additionally, it's self cleaning. You can combine this with any properties you own, or even those that you purchase here.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 38,
-      "cost": 400,
-      "name": "Ayleid Well ",
-      "source": "The Elder Scrolls Series",
-      "description": "Dotted all throughout Cyrodiil, one will find these wells, and now you yourself own one. Not only does it completely restore and temporarily enhance your own pool of magicka when used, but it can grant those without their very own pools of magicka! Perfect for any Companions you might pick up in the future.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 39,
-      "cost": 400,
-      "name": "Mazed Band",
-      "source": "The Elder Scrolls Series",
-      "description": "Created by an apprentice of Sotha Sil, this enchanted ring is incredibly powerful and useful to anyone. Though it has had some of its uses taken away, it will allow the wearer to teleport themselves as well as whoever they are touching to anywhere they desire, so long as it's within the plane of existence they currently reside in. It can bypass most magic barriers, though there might be a reason for them to be placed where they are, so exercise caution.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 40,
-      "cost": 400,
-      "name": "Spellsword",
-      "source": "The Elder Scrolls Series",
-      "description": "It is an unfortunate truth that sometimes pure might is not enough. You are quite skilled in supplementing your combat capabilities with the use of magic. Enhancing your physical capabilities, momentarily coat your weapon in mystical fire, or just using a blade in one hand and blasting lightning from the other.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 41,
-      "cost": 400,
-      "name": "Lustratorium",
-      "source": "The Elder Scrolls: Oblivion",
-      "description": "A substantial indoor and outdoor botanical garden offers a vast assortment of ingredients that would otherwise be hard to come by. You can plant anything here to grow it safely. Furthermore the area contains a full lab of alchemical equipment for producing potions from the supplies here. The entire space carries a unique enchantment of Alchemical Brilliance on those inside which offers substantial bonuses to the quality of elixirs that can be made here. You personally receive a set of tools suitable for a master of the craft: mortar & pestle, alembic, calcinator, and retort. This includes botanical ingredients from across Tamriel and even rarer specimens from Oblivion, allowing you supplies from the Deadlands and Shivering Isles without needing to brave those regions.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 42,
-      "cost": 400,
-      "name": "Dwemer Observatory",
-      "source": "TES: The Warrior Waves",
-      "description": "As with many other cultures throughout the world, the dwemer held a deep interest in the stars above and their celestial nature. This facility was created in order to help these dwarven astrologers in their research, possessing not only an orrery of the Aurbis, a grand telescope that allows one to gaze far into the sky, allowing one to get an accurate look at even the most distant planets in the system.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 43,
-      "cost": 400,
-      "name": "Ayleid Records ",
-      "source": "TES: Main Races ",
-      "description": "When the ancient ayleids that were fleeing the zealous Alessian Order and chose to integrate themselves with the bosmer of Valenwood, they brought with them their knowledge and histories. Though it may not have impacted the wood elves on a large scale, you may find some uses for it. You now find yourself possessing an ancient library detailing most of what the Ayleids knew before being pushed out of their homes, from their magics and myths to their history and songs and all in between.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 44,
-      "cost": 500,
-      "name": "Archmage Robes",
-      "source": "The Elder Scrolls Series",
-      "description": "The ultimate symbol of the Archmage of the College of Winterhold, it definitely lives up to its hype. This outfit not only decreases the amount of magicka all of your spells would otherwise cost, but greatly increases your total pool of magicka as well as the rate in which your magicka regenerates, and is as protective as steel armor.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 45,
-      "cost": 500,
-      "name": "Diadem of the Savant ",
-      "source": "The Elder Scrolls Series",
-      "description": "This golden circlet is gifted to anyone who is able to complete Shalidor's Maze, and overcome the trials within. It greatly decreases the amount of magicka your spells would otherwise cost, as well as allowing you to have ten times more summons active at once than you could before. Anything summoned while wearing this will be stronger, faster, and more durable than they otherwise would have been.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 46,
-      "cost": 500,
-      "name": "Master of the Elements",
-      "source": "TES: Magic",
-      "description": "I see you have devoted yourself to the School of Destruction, a wise choice should you find yourself frequently on the battlefield. Through countless battles, you have refined your spell work to such an extent that damaging spells are thrice as powerful, with their effects lasting twice as long. And while the greatest enemy to a mage is those who are capable of resisting magic, they are of no concern to you. Indeed, your spells are now capable of ignoring magic resistances in their entirety. Let them feel your wrath.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 47,
-      "cost": 600,
-      "name": "Arcane College ",
-      "source": "TES: Magic",
-      "description": "If there is one thing that is most important to a mage, it is the acquirement and transference of knowledge, and there are few places better than this academy. A large structure that is capable of holding hundreds of students and faculty, it’s got all the amenities you would expect from a magical institute of learning. Most impressive is the extensive library, with innumerable tomes on all manner of subjects, ranging from the mundane to the magical. Should you decide to actually use this to teach, then all who come here to learn will see their progress rapidly increase.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 48,
-      "cost": 600,
-      "name": "Legacy of Shalidor",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Yours is a level of raw power and talent not seen in Skyrim for centuries, if not millennia. Your talent for magic is matched only by the legendary Shalidor and you may easily grasp, unravel, and learn even the most foreign of spells with ease. You’ll also find that your natural ability with spellcraft has also lent itself to doing more than simply learning the old. Creating new spells is something you’ve gotten quite good at as well - after all it’s nice to be able to make up something new should specific issues arise. To supplement this your body and soul are able to handle immense amounts of magicka for casting allowing you vast reserves to call upon for any spellcasting needs. Go forth young mage, you’re a legend in the making and with work and research your name may yet stand with the greats.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 49,
-      "cost": 600,
-      "name": "Lost Arts ",
-      "source": "TES: Magic",
-      "description": "Well now, it certainly seems as though you have broken free of the preconceived limitations of the School System of magic. You may now count yourself as an unequaled master of a long forgotten, or extremely rare, form of magic. It could be the Thu'um, a type of magic that warps reality based on the words you speak. It could be the Tonal Architecture of the Dwemer, capable of innumerable effects that seem fantastical and impossible. Or maybe Tonal Magic is not your style, instead following in Azra Nightwielder's footsteps, becoming a master of Shadow Magic. Weather magic, blood magic, auramancy, even time magic is possible. Though you can purchase this option more than once, it will not be discounted after the first.",
-      "chapter": "The Mage"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
-      "__line": 50,
-      "cost": 600,
-      "name": "Guardian’s Eye ",
-      "source": "TES: The Warrior Waves",
-      "description": "Created by the dwemer of Clan Rourken, this orb of intense power is as highly sought as it is potent. Created by the greatest tonal architects of the clan, it resonates with the world on a level that few mortals could ever envision. Through it, one can create a tonal field that allows one to selectively block the use of magic in a wide radius, or alternatively amplify their effects. When you go into battle with this artifact, know that the only arcane power being thrown around will be on your side.",
-      "chapter": "The Mage"
-    }
-  ],
-  "4": [
-    {
       "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Necromancer",
       "__line": 1,
       "cost": 0,
@@ -1717,7 +903,7 @@
       "chapter": "The Necromancer"
     }
   ],
-  "5": [
+  "3": [
     {
       "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Rogue ",
       "__line": 1,
@@ -2169,7 +1355,369 @@
       "chapter": "The Rogue"
     }
   ],
-  "6": [
+  "4": [
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 1,
+      "cost": 100,
+      "name": "Wolf Queen ",
+      "source": "TES: Undead",
+      "description": "A scion of the Septim bloodline, cursed by the soul of a fel beast since birth, Potema grew to be an exceptionally powerful necromancer. Such was her talents that she threatened the Empire itself with her undead army, only stopping once she was slain. Now she follows you, either out of loyalty or lust for the power your journey will grant her.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 2,
+      "cost": 100,
+      "name": "Daedric Merchant",
+      "source": "TES: Magic",
+      "description": "Even a Daedra has to make a living, somehow, and this one has chosen the path of the merchant. He can be summoned through a simple and easy spell, and can both sell and purchase items. His wares are often rare and valuable, and often seem to possess a massive amount of whatever the local currency is. His stock and wallet replenish after three days, often with different items, even those of different worlds you've visited.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 3,
+      "cost": 100,
+      "name": "Rebellious Knight ",
+      "source": "TES: Daedra",
+      "description": "The bastard daughter of a noble in High Rock, this Nord warrior has taken up the mantle of a knight, fighting for the people. Wielding a cursed blade given to her by her god, she has struck down numerous corrupt and evil officials, she has inspired hope in countless souls. Now, if only she didn’t carry herself like a thug...",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 4,
+      "cost": 100,
+      "name": "Favored Daughter ",
+      "source": "TES: Daedra",
+      "description": "The pride and joy of Malacath, his very own daughter has agreed to be your Companion. Strong of spirit and strong of heart, her cheerful and friendly demeanor contrasts well with her father's bitterness. But she is still the child of Malacath, and is well versed in the warrior ways, close in power to the strongest of the dovah.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 5,
+      "cost": 100,
+      "name": "Black Cat ",
+      "source": "TES: Daedra",
+      "description": "A noblewoman turned rogue, this Redguard has turned her talents of subterfuge into an art, primarily to help her friend who was wrongfully accused by the law. Skill, she’s fast, smart, and skilled, a deadly combination if ever there was one. She has even developed a spell that transforms her into a cat.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 6,
+      "cost": 100,
+      "name": "Court Jester",
+      "source": "TES: Daedra",
+      "description": "Once a respected healer, this Nord has long since joined Sheogorath's realm due to a toxic romance. But now she has a new target for her affections. You. A skilled acrobat and deadly with her massive warhammer, she'll smash anything that would get in the way of you two being together.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 7,
+      "cost": 100,
+      "name": "Daedric Servant",
+      "source": "The Elder Scrolls Series",
+      "description": "Despite the dangers involved with summoning one, Daedra are useful allies to have at your side. This Daedra, whose race you can choose, is loyal to you and only you. You can summon them whenever you want with no magicka cost, and if killed then simply wait a day before summoning them again. Can stay a free summon or become a Companion at your discretion.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 8,
+      "cost": 100,
+      "name": "Pink Mage",
+      "source": "TES: Magic",
+      "description": "This short Breton girl is a prideful and powerful mage. Though an accident with Alteration permanently left her hair a bright pink, she has an impressive wealth of magical and academic knowledge, and her skill with Destruction is something to behold, outclassing many masters. She strives to become the greatest mage in history, and is stubborn and skilled enough to see it through.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 9,
+      "cost": 100,
+      "name": "Mage Apprentice",
+      "source": "The Elder Scrolls: Oblivion",
+      "description": "As a fresh student accepted into the Arcane University they don’t have any other prospects lined up if their education goes badly. Mostly they busy themselves with attending lectures, strolling around campus, and doing their best to study up on the arcane arts. Currently they know a decent bit about Destruction magic, have some weak summon spells, and through errors in casting those spells have come to understand the value of their singular strong self-healing spell. What they have in intelligence they lack in force of personality. This student seems hesitant to speak much at all, even if they are excellent at following instructions. Perhaps they view you as a respected professor and are afraid to embarrass themselves?",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 10,
+      "cost": 100,
+      "name": "Ice Queen",
+      "source": "TES: Dovah",
+      "description": "An Altmer who studied at the College of Winterhold, she is a magewhose skill in magic is matched only by her arrogance. Her focus on ice magic allows her to generate massive amounts of ice to control the battlefield, or just freeze her opponents solid. Still, she desperately craves a place to belong, and friends who will stand by her side.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 11,
+      "cost": 200,
+      "name": "Mental Bond ",
+      "source": "TES: Magic",
+      "description": "One thing that is often forgotten about the School of Conjuration, is that telepathy can be used on more than just summons. By performing a short and easy ritual, you can permanently mark anyone you desire and create a telepathic link with them. This link cannot be broken in willfully, and you can even communicate with them from entirely separate dimensions.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 12,
+      "cost": 100,
+      "name": "Vampire Princess",
+      "source": "TES: Undead",
+      "description": "Sealed within an ancient tomb in the frozen peaks of Skyrim, Serana is an interesting case. Quick-witted and sarcastic, she is a Daughter of Coldharbour, one of the few Pure-blooded Vampires, and trained in both Alchemy and Necromancy, though her skill in Destruction is nothing to scoff at.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 13,
+      "cost": 200,
+      "name": "Durnehviir",
+      "source": "TES: Undead",
+      "description": "Bound to serve the Ideal Masters of the Soul Cairn for eternity, this dragon has found himself free from that awful realm, all thanks to you. Durnehviir is a powerful necromancer, capable of summoning undead legions from the Soul Cairn and ripping out a person’s soul using the Thu’um. He also loves a good challenge, and would welcome any chance to spar with powerful opponents.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 14,
+      "cost": 100,
+      "name": "Warrior Spirit ",
+      "source": "TES: Imperial Cult",
+      "description": "It is rare indeed when a spirit returns to the mortal plane of their own free will, especially so when they are sent by Arkay. This sword-wielding woman has been assigned as a psychopomp of sorts in your area, releasing ghosts and spirits of their earthly connections in order to ascend to the heavens above. She has found you to be an interesting mortal, and as such will be glad to fight by your side.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 15,
+      "cost": 200,
+      "name": "Star Orphan ",
+      "source": "TES: Imperial Cult",
+      "description": "Few are those who are followers and worshippers of the Magna-Ge, let alone those who have met one in the flesh. Though not the most powerful, this Aetherial entity has chosen to follow you to new worlds as a companion, for reasons completely alien to you. But why care about something as arbitrary as reasons and excuses when you have an entity on par with greater Dovah by your side.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 16,
+      "cost": 0,
+      "name": "Housecarl ",
+      "source": "TES: Dovah",
+      "description": "Having been trained as a warrior from a young age, this Nordic woman has devoted herself to you, swearing to guard you, and all you own, with her life. Stoic and fearless, she will act as both your sword and your shield, taking care of many threats before you're even aware of them.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 17,
+      "cost": 100,
+      "name": "Energetic Barbarian",
+      "source": "TES: Warriors",
+      "description": "Though she may be short for a nord, this redheaded bundle of energy is a right terror in combat. Wielding a warhammer the size of a small child with surprising grace and agility, don't be surprised when anyone who gets in your way cries out over their lost kneecaps.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 18,
+      "cost": 100,
+      "name": "An Adoring Fan",
+      "source": "Elder Scrolls: Oblivion",
+      "description": "Maybe it was a stint in the arena, or perhaps the last job you did saved a life and earned someone’s deepest affection. Regardless, you’ve struck a chord with them earning the eternal enthusiastic adoration of a completely useless civilian. This could anyone from a bosmer lad to an argonian lass. Ultimately they are not very experienced in the ways of the world. But they’ll carry your weapons, shine your boots, and offer backrubs when the mood strikes. For some, this level of adoration could get a bit grating. It wouldn’t be out of character to hear, “You're the best! I'm going to follow you and watch you and worship the ground you walk on!” They are actually pretty dedicated to performing all the tasks they offer well though.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 19,
+      "cost": 200,
+      "name": "Star Beast",
+      "source": "TES: The Warrior Waves",
+      "description": "Not all creatures of the firmament are affectionate or benign, some being more than capable of destruction as the beings of Oblivion. One such creature, known as Aetherion, is a being created of starlight that is easily on par with a Daedric Titan or a dragon, rending flesh and stone as easily as one would a leaf. It would take a grand hero indeed to defeat such a monster, so what does that say about you, who commands it?",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 20,
+      "cost": 100,
+      "name": "Golden Queen",
+      "source": "TES: The Warrior Waves",
+      "description": "An ancient Nedic chieftain, this woman of golden hair underwent a ritual that gave her a life eternal and the very power of the stars above. She rides into battle bearing a stone hammer that glows with divine energy, which strikes with enough force to flatten a man in one blow. It is only through struggle that one can truly grow, and she sees you as a nexus of endless conflict.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 21,
+      "cost": 0,
+      "name": "Winged Assassin ",
+      "source": "TES: The Warrior Waves",
+      "description": "Though native to the mountainous lands to the north, it is not unheard of for harpies to find themselves in the Deathlands. Though charged with assassinating a necromancer searching for eternal life, she has found you to be an interesting soul, and will follow you from now on.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 22,
+      "cost": 0,
+      "name": "Green Princess ",
+      "source": "TES: Main Races ",
+      "description": "When one thinks of royalty, they do not often expect this redheaded orc. For as beautiful a specimen as she is, for an orsimer, do not underestimate her, for she can take on whole groups of armored combatants with just her bare hands. Also, don’t let her sing, as she has caused birds to explode that way.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 23,
+      "cost": 100,
+      "name": "Wolf Kissed ",
+      "source": "TES: Main Races ",
+      "description": "A nordic shieldmaiden from the frozen north, she is the epitome of what it means to be a nordic warrior. With dual axes and great physicality, she can cut off a man’s armored legs with but one swing, but what makes her truly dangerous is her adaptability and cunning.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 24,
+      "cost": 0,
+      "name": "Troubled Kitten",
+      "source": "TES: Main Races ",
+      "description": "Though she may look like a young ohmes-raht and her character is that of pride and feline stereotypes, she is a truly broken soul. Captured and tormented by a high ranking member of the Thalmor until the point where she was completely despondent. Her memories of those events have been mostly purged, though she still has nightmares from those days.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 25,
+      "cost": 100,
+      "name": "Eagle Bearer ",
+      "source": "TES: Main Races ",
+      "description": "A imperial woman from the colovian region who took to the arts of war like a duck to water, a tragedy had her separated from her family. With her enchanted spear, pet eagle, and Legion-like training, she goes out into the world to search for her wayward family.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 26,
+      "cost": 200,
+      "name": "Soul Sword ",
+      "source": "TES: Main Races ",
+      "description": "A sword imbued with the spirit of a redguard prince, it has taken his skill, giving the blade a mind of its own. When in combat, it will seek out the weak points of an opponent, guiding your hand to deal the most damage you can. Should you find a way to awaken the soul within, you can even communicate with it.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 27,
+      "cost": 400,
+      "name": "Staff of Hasedoki",
+      "source": "TES: Main Races ",
+      "description": "A magical staff that belonged to the wizard Hasedoki, who was, to the best of all knowledge, the greatest wizard of his time. It is said that he felt so lonely and isolated because so many feared his power, that he bonded his soul into his very own staff, where it remains. Using it will see a magical ward envelop you, protecting you from most magics while also casting Soul Trap upon any nearby enemies.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 28,
+      "cost": 100,
+      "name": "Barrels of Mead",
+      "source": "TES: Main Races ",
+      "description": "Any true nord knows that there are fewer things better in life than being surrounded by friends and having a belly full of mead. Such is the purpose behind these number of barrels, each one filled with a brand of mead, from the standard stuff all the way to the rare and vaunted Black-Briar Reserve. These barrels will never empty, spilling forth an endless amount of the sweet drink for all to enjoy.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 29,
+      "cost": 400,
+      "name": "Local Leader",
+      "source": "TES: Rogue",
+      "description": "People are often not the best when it comes to deciding what it is they want, focusing more on the short term than the future, and ignoring what they actually need in favor of what they think they desire. You have a powerful insight to your people, your subjects and followers and companions, possessing an almost sixth sense for determining what they want, what they actually need, and what separates the two.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 30,
+      "cost": 200,
+      "name": "Knights of the Nine",
+      "source": "TES: Imperial Cult",
+      "description": "It's not every day when an order of knights dedicated themselves to you, but that is exactly what's happened here. These nine knights of various races and backgrounds share a few things in common, like each one being blessed by a different Divine, and their undying loyalty to you. Whether they become your Companions or Followers is up to you, but each knight is skilled enough in combat to take on ten men at once and come out on top with ease.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 31,
+      "cost": 100,
+      "name": "Faithful Hound",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Dogs have been considered man's best friend for ages and for good reason too. They’re able to help greatly when it comes to tracking a target, they’re loyal, and generally just nice companions to have. Which is nice since you now have a faithful hound of your own. Whether you bought it or found it roaming the wilds this dog is both a loyal and surprisingly capable compatriart more than capable of killing wolves and even bringing bandits down should they not be well armored. Though perhaps you just want the dog as a pet, either works. This acts as a follower and not a companion, if killed the dog will return given a few days and should you wish it your new pet can become a companion if imported later on.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 32,
+      "cost": 600,
+      "name": "Daedric Champion ",
+      "source": "TES: Daedra",
+      "description": "Your Prince has looked upon you, and found within you the perfect instrument to enact their will upon Tamriel. Not only are you a cult leader on par with Mankar Camoran, managing a province spanning network of hidden cultists with very few ever able to locate all of your followers, but you have been given a boon by your chosen Prince. A champion of Azura may receive visions of the future, while a champion of Peryite could unleash a deadly cloud of sickness.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 33,
+      "cost": 100,
+      "name": "Gilded Glory ",
+      "source": "The Elder Scrolls - The Shivering Isle",
+      "description": "The defenders of Mania, the Aureal (or Golden Saints) are the strongest warriors in the Shivering Isles. Typically decked out in their signature golden-hued heavy armor, they excel in close quarters battle and make for excellent shock troops – though they are predisposed towards arrogance and are not particularly suited to more subtle endeavors. You gain the ever-lasting servitude of ten of these soldiers, all of whom are unfailingly loyal to you and will serve your every command without question. Furthermore, as Daedra, death is merely a temporary setback to them, and not even suicidal orders will cause them to hesitate. In most cases, they’ll instead feel honored that they can spend their lives in your service. You can summon each of these individuals to you once per day with a brief exertion of your will, an act which will also restore them to life if they were previously slain. These Golden Saints do not count as Companions by default, though you can make them such if you wish.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 34,
+      "cost": 400,
+      "name": "Dragonguard ",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Every warrior needs his companions and naturally you’re no exception. Following your lead is now a sizable organization of warriors and heroes of notable repute. The group can be designed however you wish and oriented around in a way that pleases you, want a band of dragon slaying Knights at your beck and call, great, or perhaps Vampire hunters like the Dawnguard are more preferable to you. This can even be as much as just being a group of people who congregate together due to a shared love of adventure, the point is that the sky’s the limit with this. The average member is just that, average, however there are a number of higher ranking members who are notably stronger and more capable to make up for this. Fortunately the group is also in a solid position to expand and grow should you wish that as well.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 35,
+      "cost": 600,
+      "name": "The Five Hundred Companions",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "There’s just something about you, a certain aura about your person that just draws people to you. While others may have charisma on a personal level you have it on a far grander level, that of a Warrior King or leader like Ysgramor. This is the charisma required to win over entire peoples and crown oneself king and where a personal level of charisma may be like honeyed words someone can’t resist, this is akin to a roaring tempest that drags people to you. Warriors, mages and others will find themselves drawn to your banner should you raise it and you’ll quickly find yourself surrounded by competent advisors and companions like Ysgramor and his ilk were. This also comes with the knowledge to lead your troops in such a manner that would earn you the respect of grizzled generals and veterans, after all what’s the point of all these people if you can’t lead them?",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 36,
+      "cost": 200,
+      "name": "The Prisoner",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "This rather odd young Nordic woman you ran into not too long ago is a curious sort, clad in a mix-match of worn Stormcloak and Imperial light armor she claims a rather fantastical tale of a dragon laying waste to Helgen just as the Empire was just about to execute Ulfric Stormcloak and other prisoners, though her sheer energy and drive to reach Whiterun to warn the Jarl certainly lend credit to her words. Regardless of your trust in her words you struck of something of an burgeoning friendship with her after you helped fight off several bandits that had ambushed the lass and showed yourself an agreeable sort. Left in over her head she asked if you’d accompany her as a traveling companion of sorts if you’d like given she could use a partner in traveling Skyrim, a homeland she has little experience with in truth. Accept and you’ll be joined by a free spirited young woman eager to see the world and even try to make a difference in it for the better, and while she may lack for skills now the adventures you two engage with will see her grow in ability in leaps and bounds.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 37,
+      "cost": 100,
+      "name": "Royal Lineage ",
+      "source": "Elder Scrolls Companions Supplement",
+      "description": "Altmer restoration mistress specialized in wards and anti-undead spells rather than healing. Claims to be the princess of the Summerset Isles, holds a grudge against orcs and redguards due to having been ousted from her home by a half breed of those races. Blessed by Julianos.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 38,
+      "cost": 200,
+      "name": "Knight Of Treachery ",
+      "source": "Elder Scrolls Companions Supplement",
+      "description": "Bastard daughter of a Daggerfall noble who was made a knight in their father's court. Was denied the position of heir despite being the first born and sought to take her father's throne by force. Wild and aggressive in combat, wears heavy armor, and wields a stolen great sword that she uses alongside crimson lightning spells powered by her hatred for her parents.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 39,
+      "cost": 200,
+      "name": "Mead Hall",
+      "source": "TES: Warriors",
+      "description": "Every good band of warriors needs a place to rest their laurels, where they can drink as much mead as possible and embellish their tales of valor. This mead hall is just that, a place that gives off a constant aura of revelry and brotherhood as surely as the barrels of mead and other such spirits will never run dry. Now it's just a question of how everyone will get home when they're piss drunk.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Follower",
+      "__line": 40,
+      "cost": 100,
+      "name": "Twilight Princess",
+      "source": "Elder Scrolls Companions Supplement",
+      "description": "Dunmer who uses alteration to manipulate shadows, allowing her to store objects (and herself) inside them. Also uses it to control her hair as an extra limb, and give it the volume and strength needed to act as a lethal weapon. Formerly the ruler of a small nation of Azura worshipers but was thrown out by one of her subjects who made a deal with Mehrunes Dagon and started a violent revolution.",
+      "chapter": "The Follower"
+    }
+  ],
+  "5": [
     {
       "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Smith",
       "__line": 1,
@@ -2621,7 +2169,902 @@
       "chapter": "The Smith"
     }
   ],
+  "6": [
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 1,
+      "cost": 0,
+      "name": "Basic Set ",
+      "source": "TES: Warriors",
+      "description": "It wouldn’t be fair to send you out into such a dangerous world like Tamriel with no way to protect yourself. As such, you are now in possession of a brand new set of iron armor as well as a steel weapon of your choice. You will also receive a knapsack to carry any other valuables you may find in your travels.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 2,
+      "cost": 0,
+      "name": "Frostbane Bear",
+      "source": "TES: The First Council",
+      "description": "The Bear was one of the ancient Atmoran animal tokens, associated later with the Nord god Tsun, so the Frostbane Bear has historically been one of the most prestigious mounts a tradition-loving Nord could ride.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 3,
+      "cost": 0,
+      "name": "Mixed Unit Tactics",
+      "source": "TES: Warriors",
+      "description": "Sometimes, reading does help you win in a fight, especially when the book you read covers many different battle strategies for both large and small scale conflicts. This book not only covers them, but it also has a few notes written in the margins on different uses for various formations and such.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 4,
+      "cost": 0,
+      "name": "Training Dummy ",
+      "source": "TES: Warriors",
+      "description": "An straw dummy with targets painted onto it that is strangely durable and resistant to all damage, and will repair itself when no one is looking. Any weapons and combat training you do with this will be much more effective. Alternatively, it can look like a certain person of your choice if you’re feeling spiteful.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 5,
+      "cost": 100,
+      "name": "Armored Combatant",
+      "source": "TES: Warriors",
+      "description": "One does not often expect to rush into battle wearing nothing but their bare skin, with armor being so widespread across all cultures. You believe heavily in the utilization of armor, be it simple chainmail or a full set of ebony plate. For you, armor is much easier to wear and put on, and doesn’t weigh you down, allowing you to swim as if unencumbered even while fully armored.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 6,
+      "cost": 100,
+      "name": "Barbarian ",
+      "source": "TES: Warriors",
+      "description": "When you go about wielding a battleaxe or a warhammer, you’ve probably got one thing on your mind. Dishing out as much damage as possible. As such, whenever you use one of these two-handed weapons, you will be dealing twice as much damage as before.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 7,
+      "cost": 100,
+      "name": "Dual Flurry",
+      "source": "TES: Warriors",
+      "description": "The idea behind using two weapons at the same time is that you would be capable of dealing twice as much damage as before, so long as you can actually hit your targets. While you use two weapons at the same time, your attack speed is greatly increased.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 8,
+      "cost": 100,
+      "name": "Dual Wielding",
+      "source": "TES: Warriors",
+      "description": "Despite what many would think, using two weapons at the same time is a tricky thing, especially two different kinds of weapons. Not so for you, as your ambidextrous nature allows you to effectively utilize a weapon in each hand with the same level of skill as if you were only using one.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 9,
+      "cost": 100,
+      "name": "Iron Fist ",
+      "source": "TES: Warriors",
+      "description": "It takes either a brave, skilled, or foolish man to face the foes of the world with naught but your bare hands, but you seem to be the former. Not only are your fists as durable as fine steel, but you deal thrice as much unarmed damage as you could have before.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 10,
+      "cost": 100,
+      "name": "Ring of Vitality",
+      "source": "TES: Warriors",
+      "description": "A very useful ring for any questing warrior, this golden band is engraved with the image of an ox. While wearing it, it will render you immune to all but the most potent or divine diseases, poisons, and paralysis. Even those that are capable of affecting you would be highly weakened.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 11,
+      "cost": 100,
+      "name": "Rugged Beauty ",
+      "source": "TES: Warriors",
+      "description": "Though war and battle wears down all who participate, be it mentally or physically, your heroic visage is comparable to the chiseled marble of a master craftsman. Your beauty is almost unparalleled, and any attempt to mar such beauty with wounds or scars will only see it be enhanced.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 12,
+      "cost": 100,
+      "name": "Shield Wall ",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Since dodging in heavy armor can be difficult, it makes sense to rely on your trusty old shield to tank the blows. You're very good at using it to weather any blow you can't dodge, sometimes even using it to your advantage by directing the enemy's thrusts to make an opening. You're in fact good enough to use it even against ranged attacks, like arrows and even magic, though do keep in mind that if the shield itself is flimsy then it won't be able to take a direct hit; you're not going to be tanking dragonfire with an ordinary shield of common iron, for example. But you will get as much use as is physically possible out of that ordinary iron shield.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 13,
+      "cost": 100,
+      "name": "Sturdy Shield ",
+      "source": "TES: Warriors",
+      "description": "The key behind using both a sword and shield is being able to take blows and then return the favor. It can be hard, though, if your opponent hits you hard enough to stagger you, giving them an opening. Thankfully, all shields you use will be able to negate a quarter of the kinetic force from all incoming attacks.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 14,
+      "cost": 100,
+      "name": "Targe of the Blooded ",
+      "source": "TES: Warriors",
+      "description": "Though it may only be made of steel and wood, this shield is a dangerous item in the right hands, all thanks to the multitude of spikes on the front of it. These spikes can predictably be used to damage foes, but they can also catch incoming weapons and, with a bit of finesse, rip them from your opponents' hands.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 15,
+      "cost": 100,
+      "name": "Weapon Training",
+      "source": "TES: Warriors",
+      "description": "You would be a poor warrior if you were without the proper skills. Not only are you fairly adept with your chosen combat style and in peak physical condition, but you know how to properly maintain your weaponry and armor.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 16,
+      "cost": 100,
+      "name": "Nordic Armor",
+      "source": "TES: The First Council",
+      "description": "Heavy armor made primarily from quicksilver, it is carved with imagery of bears. Not only is it more effective than steel, but it will also keep your temperature regulated, allowing you to be cozy even while in a snowstorm.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 17,
+      "cost": 100,
+      "name": "Battle Cry ",
+      "source": "TES: The First Council",
+      "description": "Upon the defeat of Alduin and their draconic overlords, the nords of Skyrim proved that their Voices, too, were strong. Such power infuses even the least of all nords, allowing them to let out a battlecry that causes those weak of will to flee upon hearing it, and causing a shivering fear into all who hear it.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 18,
+      "cost": 100,
+      "name": "Guards and Servants",
+      "source": "The Elder Scrolls Series",
+      "description": "Whether you're off travelling on the road, or staying home, it can get tedious doing all of this household maintenance yourself. Well, you no longer have to, as you now have people who do that for you. Under the supervision of a Steward and a Guard Captain, you've got servants to take care of your home and guards to protect it, as well as enough room to house them. The amount you gain is proportional to how large your home is.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 19,
+      "cost": 100,
+      "name": "Armory ",
+      "source": "The Elder Scrolls Series",
+      "description": "There are so many interesting and unique pieces of gear found on Nirn, so isn't it a shame that you don't have anywhere to display it? Well, not any more, as this armory is covered in armor mannequins and weapon displays, allowing you to show off the best of what you've got. Anything stored here won't rust or be affected by the passing of the ages, looking just as pristine as when they were placed here.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 20,
+      "cost": 100,
+      "name": "Wild Hunt Set",
+      "source": "TES: Main Races ",
+      "description": "Since mining is largely impossible within Valenwood, for fear of harming the plant life and breaking the Green Pact, the wood elves have found many ways of making weapons and armor from their kills. What you have here is an entire set of armor crafted from leather and bones, being light, flexible, and highly breathable. The helmet appears like the skull of a man or mer, in order to better inspire dread in your opponents.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 21,
+      "cost": 200,
+      "name": "Armoured Juggernaut ",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Heavy armour is great isn’t it? The ability to wade into battle shrugging off arrows, magic, and blades alike, what’s not to like? Well one thing, it’s heavy as can be and will quickly tire out many given some time. This drawback doesn’t really apply to you. You recover from exertion at an astounding rate, to the point that even continuous and strenuous running or hiking in the mountains while wearing Daedric or Dragon bone armour wouldn’t phase you in the slightest, furthermore this unnatural endurance also applies to general health and strength as a warrior. Naturally you’re also quite skilled in the use of heavy armor, being able to make far greater use of it than most and being able to easily cover any weaknesses it has. Now go forth warrior, and let your enemies flee as your armoured form smashes their lines to pieces!",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 22,
+      "cost": 200,
+      "name": "Bearclaw Helm",
+      "source": "TES: Daedra",
+      "description": "Once belonging to a small Dunmer House, this helmet was crafted from the skull of a great beast, and now it is yours. While wearing it, you will find yourself stronger and more agile than before.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 23,
+      "cost": 200,
+      "name": "Decorated General ",
+      "source": "TES: Warriors",
+      "description": "Wars are very, very rarely ever won by a single person. They are won through the effort of numerous people, through armies and tactics and stratagems. You understand this, and have endeavored to master the art of war in a level few ever do. You are a talented general, on par with some of the best in history, able to eke out victories from some of the most hopeless of battles.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 24,
+      "cost": 200,
+      "name": "Elemental Protection ",
+      "source": "TES: Warriors",
+      "description": "While shields can protect against swords and arrows easily enough, magic is very much a real danger that could bypass or ignore your flawless defense. And now, you can ignore it right back, kind of. You will have both your magical resistance as well as your elemental resistances boosted, allowing you to ignore weaker effects all together.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 25,
+      "cost": 200,
+      "name": "Strong Grip ",
+      "source": "TES: Warriors",
+      "description": "As strong as your fists may be, it means nothing if your opponent can just move out of the way. Though it may not entirely solve that problem, when you get close enough there’s no way they’re going to get away, as you are a master of grappling and wrestling your opponents to the ground and keeping them held down.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 26,
+      "cost": 200,
+      "name": "Troll Blood ",
+      "source": "TES: Warriors",
+      "description": "Trolls are infamously difficult to take down, in part due to their special fat that absorb blunt blows, but also because of their potent regeneration. You seem to share in this strange ability, capable of regenerating from all wounds so quickly. Be wary, though, as this regeneration will be greatly slowed if the wounds were inflicted by fire, or were cauterized.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 27,
+      "cost": 200,
+      "name": "Bands of Kwang Lao ",
+      "source": "The Elder Scrolls Series",
+      "description": "These leather bands are said to have belonged to a fierce warrior hailing from Akavir. Wearing them not only increases your skill with unarmed combat, but increases the force behind your strikes and makes your fists as hard as ebony. Who needs a weapon when you have your fists?",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 28,
+      "cost": 200,
+      "name": "Sword of Shabnam",
+      "source": "TES: The Warrior Waves",
+      "description": "A sacred ornament from Yokuda, representing the body. It is an ancient blade that was supposedly created by a master sword-singer, one who was dedicated to a god of war. When it drinks the blood of its foes, it will turn the stolen vitality towards the user, healing their wounds and rejuvenating their stamina.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 29,
+      "cost": 200,
+      "name": "Necklace of Swords ",
+      "source": "TES: The Warrior Waves",
+      "description": "A Yokudan amulet, crafted from orichalcum and shaped to resemble three swords surrounding a shield. It is useful for all manner of warriors, due to the magical effects placed upon it. Not only will it improve the damage you deal with blades weapons, but it will also reflect a third of all damage inflicted upon you back onto your enemy.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 30,
+      "cost": 200,
+      "name": "Bone Arrows ",
+      "source": "TES: Main Races ",
+      "description": "If the bosmer are known for their archery, then they need the perfect arrows to best match their skills while remaining possible within the confines of the Green Pact. You now have a massive stock of bone arrows of various creatures that replenishes daily. Arrows made of bird bones fly farther and faster, while the heavier mammoth arrows strike with a lot of force. There are dozens of types of arrows, each from different animals, so you’re sure to find a favorite.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 31,
+      "cost": 300,
+      "name": "Dual Defence",
+      "source": "TES: Warriors",
+      "description": "Many think that a good offense is a good defense, and you have taken that proverb to heart. You are a master of blocking and redirecting attacks with your weapons, stopping an incoming axe and tossing it to the wayside where it won’t be cracking your skull open.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 32,
+      "cost": 300,
+      "name": "Paralyzing Palm",
+      "source": "TES: Warriors",
+      "description": "There are myths of some martial artists who are capable of striking specific points on the body, paralyzing, manipulating, or even killing them with just a few pokes and strikes. You know that these are not myths, but truths, for you are capable of all of them.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 33,
+      "cost": 300,
+      "name": "Castle Jumper ",
+      "source": "The Elder Scrolls Series",
+      "description": "Why would you have an ordinary house when you could have a castle instead? Your home is vastly increased in size, along with any additions you've bought. Your [Guest Housing] could now house up to forty people, while a [Vast Library] could contain enough books to put some universities to shame. Your home also has at least four floors now.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 34,
+      "cost": 400,
+      "name": "Auriel's Shield ",
+      "source": "TES: Warriors",
+      "description": "Said to be the shield of the elven god Auriel himself, this artifact is both a great defense and potent offense. When struck, it completely absorbs the kinetic energy of the attack, storing it for until you unleash it all in a wave of divine energy that pushes against all in front of you. Even when faced against magic, it still offers you amazing protection.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 35,
+      "cost": 400,
+      "name": "Champion's Cudgel ",
+      "source": "TES: Imperial Cult",
+      "description": "An enchanted warhammer given to General Falx Carius of Fort Frostmoth, it is a fitting weapon for one who fights for the Empire and all it stands for. Its heavy head can be used to crumple steel armor with ease, while its chaotic enchantment will randomly harm the target with either fire, frost, or shock damage.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 36,
+      "cost": 400,
+      "name": "Chillrend",
+      "source": "TES: Warriors",
+      "description": "Though one may think this blue blade emitting frosty mist is made from stalhrim, it is in fact a unique shortsword made from a rare type of blue malachite. Though, its enchantment means that it's easy to get confused, as not only does it unleash a massive amount of frost damage, it will also paralyze most opponents who are struck by it, as though they were frozen solid.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 37,
+      "cost": 400,
+      "name": "Ebony Set ",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Now we’re really starting to talk equipment; ignore that dingy iron or even the mastercrafted armor of the Dwemer, both pale in comparison. Ebony armor is some of the strongest on the planet and now you’ve got a full set including weapons, which in of itself would normally be well beyond what the average person could ever hope to afford. Where before iron would ensure encounters with the lesser enemies of the world were survival, but still an issue they’re now something of the past. Iron and even glass swords will bounce off and arrows will find themselves breaking upon your form unless they’re aimed expertly or enhanced in some form or another. Your weapons are of similar caliber, tearing through lesser materials with ease and being extremely well crafted to fit you just right.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 38,
+      "cost": 400,
+      "name": "Mighty Fortress ",
+      "source": "TES: Warriors",
+      "description": "For those of you who want more than just a bed at an inn or a sleeping roll, you can never go wrong with a sturdy fortress to call your home. Its walls are sturdy, its design focused towards defense and repelling invaders, it has the room to house dozens of soldiers, as well as enough supplies to arm them and keep them fed for as long as needed. The heraldry and aesthetics are ultimately up to you, but regardless of what you choose, this will be a tough nut that few could crack.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 39,
+      "cost": 400,
+      "name": "Savage Strike ",
+      "source": "TES: Warriors",
+      "description": "While the weapons you use may not possess as much weight behind them as a warhammer, it is just as important where you strike as it is how much force you strike with. In your hands, your weapon seems to slightly direct your movements, moving towards an opponent’s weak points.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 40,
+      "cost": 400,
+      "name": "Shield of Ysgramor ",
+      "source": "TES: Undead",
+      "description": "Used by Ysgramor and crafted for him by Ahzidal, this shield is a powerful artifact. Not only does it grant the wearer an increased resistance to frost, it also imbues them with a healing factor. But it’s ultimate ability is being able to unleash the frost of Atmora itself, coating the user in a powerful frost cloak that harms anyone and anything nearby.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 41,
+      "cost": 400,
+      "name": "Wuuthrad ",
+      "source": "TES: The First Council",
+      "description": "The battleaxe of Ysgramor himself, it was crafted using materials and techniques originating from Atmora, it was made specifically to kill elves as easily as possible. Your version is special, as it will deal much more damage to any sentient race of non-humans. It will also ignore any and all magical protections, even allowing you to cut ethereal enemies in half with a mighty swing.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 42,
+      "cost": 400,
+      "name": "Titan Born",
+      "source": "TES: The First Council",
+      "description": "It is often believed that the nords and giants share similar origins, having migrated from Atmora, so it is not unheard of for the two to procreate. You are one of these half-giants, though taking more after your giant side, being a foot taller than most nords while possessing enough strength to throw around an entire horse. This strength goes well with your newfound skill in unarmed combat, allowing you to easily pin down a snow bear, or punch its head clean off.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 43,
+      "cost": 400,
+      "name": "Scrolls of the Ansei ",
+      "source": "TES: The Warrior Waves",
+      "description": "An ancient library of an independent group of Sword Singers, the scrolls within were written to help one gain better insight into gaining and improving their Shehai, as well as a number of useful and powerful techniques. Even if they should come from worlds completely devoid of magic, you can teach them the ways of the Ansei following the writings within.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 44,
+      "cost": 500,
+      "name": "Dual Savagery",
+      "source": "TES: Warriors",
+      "description": "One of the greatest advantages of dual wielding weapons is the increased offensive potential one could possess, and you are undeniably proof of that. When you are in a fight, you become a whirlwind of death, becoming faster and faster the longer a fight goes on. Eventually, you may get to the point where you could slash individual raindrops in the middle of the air, and perhaps even further beyond.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 45,
+      "cost": 500,
+      "name": "Unstoppable Force",
+      "source": "TES: Warriors",
+      "description": "There are few opponents as dangerous on the battlefield as you, an unstoppable force that can crush any immovable object stupid enough to get in your way. Any attack you deal with a two-handed weapon will completely ignore a target’s armor, be they physical or magical, as well as bypassing damage resistance.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 46,
+      "cost": 500,
+      "name": "Eagle Eye",
+      "source": "The Elder Scrolls Series",
+      "description": "When people think of warriors, it's not often that they think of archers. It's not as memorable as a fully armored Nord with a battle axe rushing towards you, but your ability to accurately hit a target's eye a mile away is a great way to avoid being in that situation entirely.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 47,
+      "cost": 600,
+      "name": "Champion of Skyrim ",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "If there was a Fighter’s Guild in Skyrim you’d almost assuredly be its champion. The skill and talent you have for battle is tremendous and fits more in the legendary tales of Ysgramor or possibly even Pelinal Whitestrake than it does reality. To you fighting is an art, an art you’ve mastered, weaving men’s innards like a tapestry with your sword and spear is as easy as dancing your way through the frontlines of a bloody battle without taking a single blow, while felling many of the enemy with ease. As a final boon and to ensure your body can keep up with your skill, your physical form is enhanced further and you’ll find that spending hours upon hours hacking your way through enemies is no issue, nor will shrugging off many wounds. You’re already the stuff Heroes are said to be made of when it comes to the martial way, and yet it seems you’ve still got room to grow. I wonder, how will future generations look back on someone such as you?",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 48,
+      "cost": 600,
+      "name": "Unkillable ",
+      "source": "TES: Werebeasts",
+      "description": "There are rumors of entities that are unkillable, but you could actually pull it off. You have an incredible regeneration ability similar to that of a Troll, capable of healing most flesh wounds in seconds, while broken bones would take a few hours, depending on how bad the damage is. Unfortunately, you cannot regrow entire limbs, but in return you have become effectively immortal. You can live indefinitely, forever in your prime, until someone or something manages to kill you, which itself would be quite the feat.",
+      "chapter": "The Warrior"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
+      "__line": 49,
+      "cost": 600,
+      "name": "Sword Singer ",
+      "source": "TES: Main Races ",
+      "description": "An ancient and forgotten art developed by those residing in Yokuda, you have become one of the rare Sword Singers, capable of manifesting a weapon from your very soul. Many Shehai were thought to be unstoppable weapons of pure thoughts, partly due to the numerous techniques that could wreak untold devastation, one even rumored to have been the cause for the sinking of Yokuda itself. You yourself are only a beginner, but through training and meditation you could go far.",
+      "chapter": "The Warrior"
+    }
+  ],
   "7": [
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 1,
+      "cost": 100,
+      "name": "Alchemical Ingredients ",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Sometimes it can just be such a pain to go searching for a specific flower, or monster’s organ in some remote part of Skyrim. Well now that’s no longer the case! You’ve got a satchel or backpack of some sort that’s just loaded with high quality ingredients useful for potion making or other magical pursuits. While you won’t find anything incredible in it this will make sure you never run out of the basic materials you need.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 2,
+      "cost": 100,
+      "name": "Alchemy Station",
+      "source": "TES: Magic",
+      "description": "You can't very well practice alchemy if you don't have the correct tools. Thankfully, this purchase is exactly what you need to truly bring out the best of the craft. This master crafted set of mortar and pestle, calcinator, alembic, and retort allow you to make more alchemical substances at a higher quality than you otherwise would have. Alchemical ingredients sold separately.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 3,
+      "cost": 100,
+      "name": "Elementalist",
+      "source": "TES: Magic",
+      "description": "Few schools can match the flashiness of the School of Destruction, nor can many resist the temptation to destroy your enemies in an elemental fashion. Choose one of the three classical elements, Fire, Frost, or Shock. Spells that utilize your chosen element will be twice as devastating, all while costing half the magicka cost they otherwise would have.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 4,
+      "cost": 100,
+      "name": "Healer ",
+      "source": "TES: Magic",
+      "description": "The art of Restoration is a perfectly valid School of Magic, and don’t let anyone tell you otherwise. Though seen as not as broad or cool as the other Schools, being able to heal wounds is an undeniably useful skill to have, no matter who you are. For you, healing spells are twice as powerful, all while costing half as much magicka.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 5,
+      "cost": 100,
+      "name": "Life Extension",
+      "source": "TES: Magic",
+      "description": "It is not unheard of for certain mages to live well beyond their race's standard life expectancy, simply look at Divayth Fyr for one such example. Now you are one of those ambitious few, having cast off the shackles of aging. You are now effectively immortal, though it would be more accurate to say that you can live indefinitely.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 6,
+      "cost": 100,
+      "name": "Magical Beauty ",
+      "source": "TES: Magic",
+      "description": "There is such beauty to be found out there, in this massive world of ours. And through the use of magic, you too can be just as beautiful. Few would be able to deny your attractiveness, and any scars you may unfortunately end up getting are sure to be aesthetically pleasing. Honestly, it's as though your features were sculpted from magic itself.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 7,
+      "cost": 100,
+      "name": "Mystic Tuning Gloves",
+      "source": "TES: Magic",
+      "description": "An enchanted set of gloves used by many mages for numerous reasons, mostly to easily handle unstable and volatile magical artifacts. You, however, have found another use for them, being able to more efficiently use your magic, reducing the cost of all magic if only slightly.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 8,
+      "cost": 100,
+      "name": "Scrying Orb ",
+      "source": "TES: Magic",
+      "description": "To see events happening great distances away is a valuable ability, which makes this crystal orb a valuable tool. With it, you can look anywhere you’ve been before, no matter where you currently are, as well as listen in on conversations. It can be blocked or be fed false information with sufficient magical protections.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 9,
+      "cost": 100,
+      "name": "Staff Creator",
+      "source": "TES: Magic",
+      "description": "Staves are extremely useful tools for mages, able to hold charges of spells, and even be used to focus and empower a user’s spells. But if you want to create your own staves, then this is the option for you. A specialized workstation, this will allow you to create and customize your own magical staves.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 10,
+      "cost": 100,
+      "name": "Varla Stones",
+      "source": "TES: Magic",
+      "description": "Crafted from meteoric glass by the now extinct Aelyids, Varla Stones are highly valuable resources that are similar, yet different, to Welkynd Stones. While they store magicka just like their smaller brethren, these are used to fully replenish an enchantment, or can even act like a magical power source. Just like with Welkynd Stones, the secret to recharging them has been lost alongside the Aelyids, turning to dust after each use. Luckily, you have a stockpile of fifty of these stones, which will replenish weekly.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 11,
+      "cost": 100,
+      "name": "Welkynd Stones",
+      "source": "TES: Magic",
+      "description": "Crafted from meteoric glass by the now extinct Aelyids, Welkynd Stones are highly valuable resources, especially to mages, as they store a considerable amount of magicka within. Suffice to say, a knowledgeable mage is able to replenish their own stores of magicka utilizing these stones. And although the secret to recharging them has been lost alongside the Heartland High Elves, turning to dust after each use, you have a stockpile of fifty of these stones, which will replenish weekly.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 12,
+      "cost": 100,
+      "name": "Basic Mage Set",
+      "source": "The Elder Scrolls Series",
+      "description": "An enchanted set of robes and a hood. Together they will slightly increase your total Magicka and magicka regeneration, but can be worn separately. This also comes with a book detailing the basics of magic, and some common ways to improve your skill with it.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 13,
+      "cost": 200,
+      "name": "Alchemy Tower",
+      "source": "TES: Undead",
+      "description": "When you have eternity to look forward to, it’s not unreasonable to believe that you’ll pick up a few hobbies. A popular one, it seems, is the magical science of alchemy. You are now in possession of a tower devoted to this skill, possessing all manner of alchemical devices and recipes, as well as a large garden and storage area for practically every alchemical reagent found in these lands. These ingredients will restock after a week, so no need to fear running out. Additionally, any potions you create here will be twice as powerful.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 14,
+      "cost": 200,
+      "name": "Arcane Professor",
+      "source": "TES: Magic",
+      "description": "Knowledge is a powerful thing, and is best to be shared and passed down so then it will never be forgotten, something you ensure will never happen. You are an amazing teacher, allowing your students to grasp your lessons and show tangible results in record time. But more important, is when you teach others the arts of magic. Even if they come from a world completely devoid of the supernatural, under your tutelage anyone will be able to utilize any type of magic, and it will continue to spread as your students pass on your teachings.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 15,
+      "cost": 200,
+      "name": "Dual Casting",
+      "source": "TES: Magic",
+      "description": "The gods gave you two hands, so why not use both of them for your magic? When you use both hands to cast a spell, not only does the spell itself require less magicka to use, but it will also see a noticeable increase in potency. Though this may limit you slightly, taking away the option of wielding a weapon in case an enemy gets too close, I’m sure you’ll be able to fry them long before that point.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 16,
+      "cost": 200,
+      "name": "Friendly Fire ",
+      "source": "TES: Magic",
+      "description": "For as fun and as devastating a battlefield through elemental fury is, it can be quite the hassle when you need to ensure any allies you may possess don't get caught up in your destruction. Thankfully, you will never have to worry about that ever again, as your spells will never harm your allies ever again, completely ignoring them. From elemental cloaks to massive explosions of magical power, those by your side will never be harmed by your hands.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 17,
+      "cost": 200,
+      "name": "Gauldur Amulet",
+      "source": "TES: Magic",
+      "description": "Crafted in the First Era by the Archmage Gauldur, this was considered such a powerful artifact that his three sons murdered him and stole a fragment each. And though it isn't as powerful as it was back then, it's still anundeniably useful artifact. While wearing this amulet, you will find your vitality, stamina, and magicka heavily bolstered.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 18,
+      "cost": 200,
+      "name": "Magical Books",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "The art of spellcraft is one that requires an immense amount of dedication and in many ways talent as well. Learning new spells can take ages and this can easily drive many off or act as a massive constraint when time is of the essence. You’ve found a bit of a way around this conundrum, by imbuing a simple book with your understanding of the spellcraft you can create a magical item that when activated immediately passes this onto whoever activated it, though the book is consumed in the process. While this only applies to Elder Scrolls magic at first, you’ll find that adapting it to other systems is an easy process and only requires that the process be fine tuned.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 19,
+      "cost": 200,
+      "name": "Magical Protection ",
+      "source": "The Elder Scrolls Series",
+      "description": "Magic is a powerful force in this world, and is great for protecting buildings. Your walls are stronger, and are resistant to magical attacks. There are also multiple magical traps for anyone stupid enough to attack your home. It also helps keep your home at an ideal temperature at any point in the year, just as an added bonus.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 20,
+      "cost": 200,
+      "name": "Mark and Recall",
+      "source": "TES: Magic",
+      "description": "For the traveling mage, walking back and forth can be quite an annoying and time consuming experience. Thankfully, there are magical solutions. You now know of a unique variation of the Mark and Recall spells. You can leave an almost unlimited amount of permanent Marks, one of which is automatically placed within your Warehouse. And by casting Recall, you can choose any of the Marks you’ve left behind to teleport to. You can remove any of the Marks you want, but most will be lost at the end of a Jump.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 21,
+      "cost": 200,
+      "name": "Master Alchemist",
+      "source": "TES: Magic",
+      "description": "Although it is not a school of magic itself, Alchemy is the art of mixing, boiling, and distilling various substances to obtain their chemo-magical properties and create potions and poisons. You are a master Alchemist, with there being few ingredients outside of your reach. With a bit of trial and effort, you could even use ingredients from magically dead worlds in order to create high quality potions and poisons.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 22,
+      "cost": 200,
+      "name": "Personal Staff",
+      "source": "TES: Magic",
+      "description": "A custom staff lovingly crafted to suit your own tastes and aesthetic, it will be a potent tool in your arsenal. Not only does it greatly empower the spells of one of the Schools of Magic, or some other type of magic found on Tamriel, but it also reduces their magicka cost. You'll also find it quite durable, so you can utilize it as a surprisingly effective bludgeoning weapon if you run out of magicka.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 23,
+      "cost": 200,
+      "name": "Respite ",
+      "source": "TES: Magic",
+      "description": "But wounds are just one malady that plagues the mortal condition. Poisons and diseases, deadly toxins and depleted stamina, all things that are now yours to cast away with. All healing spells you cast will not only replenish a target’s stamina, but it will also purge their bodies of any poisons, toxins, or diseases. Only those genetic in nature, or those that are magically powerful cannot be affected by this.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 24,
+      "cost": 200,
+      "name": "Ring of Phynaster ",
+      "source": "TES: Magic",
+      "description": "This ruby ring is said to have been created by the Hero-God of the Altmer, Phynaster. It offers the wearer great protection against poison, shock, and magical damage. Additionally, it extends the wearer's lifespan indefinitely so long as it is being worn.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 25,
+      "cost": 200,
+      "name": "Staffs, Staffs, and Staffs!",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Every wizard needs a wand, and while these aren’t wands they’re close enough. You now have an extensive collection of the common magical staffs found in this world, examples of which being ice spikes or fire balls. On the surface these may seem of limited use, however the fact that they don’t require your own magic to cast the spells is a nice fallback tool for young mages or those that just can’t channel much. As a final bonus you’ll find these staffs easy to enchant with new spells whatever those may be in the future.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 26,
+      "cost": 200,
+      "name": "Teleportation Grid",
+      "source": "The Elder Scrolls Series",
+      "description": "Aren't you just tired of walking everywhere, and want a more magical solution? In a fair amount of rooms within your home, there's a pad where you can teleport to other pads inside your home. You also now know a special spell, allowing you to teleport yourself back to your home, which you can teach to others.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 27,
+      "cost": 200,
+      "name": "Transmutation",
+      "source": "TES: Magic",
+      "description": "It is a commonly believed rumor that all mages are capable of turning anything into pure gold. It's a lie, of course, but not a baseless one, as proven by your skill. You have been trained in the art of transmutation, allowing you to change iron into silver, silver into gold, and back again. This skill affects both the raw materials and refined products. With a lot of training and experimentation, there is no limit to what you might be able to transmute.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 28,
+      "cost": 200,
+      "name": "Vast Library",
+      "source": "The Elder Scrolls Series",
+      "description": "For those of a more academic persuasion, this large library is a great addition to your home. Large shelves that contain a large number of books, ranging from children's fiction to history. It also contains a fair amount of spell books that make learning the spells within much easier than they otherwise would be. There are also instructions on how to make more of them, some with your own custom spells.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 29,
+      "cost": 200,
+      "name": "Wizardly Studies",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Wizarding is made out to be glorious, casting of fire balls and bolts of lightning, what they unfortunately fail to mention is that a large part of growing in magic is tedious study, research, and training that can become mind numbing. That’d be most people, you on the other hand have no such problems, you’ll find that you greatly enjoy such pursuits and find them to be a relaxing activity, or at the very least you don’t mind them. To spice this up a bit, such activities also take a fraction of the normal time to complete so you’ll always have plenty of time for other pursuits.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 30,
+      "cost": 200,
+      "name": "Ancient Ayleids",
+      "source": "The Elder Scrolls: Oblivion",
+      "description": "A common sight around the landscape of the province, these ruins are all that remains of the city-states that once marked the Ayleid Empire. What is uncommon is that this site has great potential historical value, having been left essentially untouched since it was abandoned eras ago. Within can be found all manner of priceless art and insight into Ayleid life. There are also defenses, puzzles, and remaining treasures. The most notable of these treasures are the welkynd and varla stones that can be uncovered. These were crafted from fallen stars and used by the elves to replenish their personal magicka and the energy of their enchanted items. With the loss of Aldmer civilization the secrets to recharging them was lost too and these treasures crumble to dust when used. That is not the case here. At the heart of this abandoned city lies it’s Great Welkynd Stone which will serve to power any of the enchantments kept within the city. This ensures your various stones will be able to recharge keeping your magicka strong.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 31,
+      "cost": 200,
+      "name": "Psijic Robes ",
+      "source": "TES: Main Races ",
+      "description": "The monks of the Psijic Order are often considered as the greatest group of mages in all of Tamriel, and their standard uniform reflects that. Created from a rare kind of magical silk, these yellow robes may not be the best for protection, but it does greatly increase both your magicka pool as well as the rate in which your magicka replenishes.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 32,
+      "cost": 400,
+      "name": "Archmage",
+      "source": "TES: Magic",
+      "description": "While there are many mages who are masters of their craft, with a skill and understanding of their chosen School that would be difficult to match, few are as suited for the role of Archmage as you. Your magicka reserves are, quite frankly, monstrous, which is not helped by the fact that they replenish at an incredible rate. Yet it is not just power, but your management skills which make you a fitting candidate. You could effectively manage an entire college, or even a province spanning guild, and keep it running efficiently almost single-handedly.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 33,
+      "cost": 400,
+      "name": "Celestial Oculory ",
+      "source": "TES: Magic",
+      "description": "Originally created by the Dwemer to learn the secrets of the stars, mages from the Synod repurposed it for what they believed to be a better use. This Oculory will allow you to locate and pinpoint the location of items of great magical power across an entire continent. Of course, a powerful enough artifact will divert much of the Oculory's attention, but you can set it to ignore such items.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 34,
+      "cost": 400,
+      "name": "Invisible Hand ",
+      "source": "TES: Magic",
+      "description": "Arguably one of the most useful spells, there is a lot of versatility to be found in telekinesis, especially if the caster is a master like yourself. You barely use any magicka when lifting an object the size of a child, and could lift a horse with relative ease. But most astonishing is your precision and control, allowing you to thread a needle with ease, or fight with weapons from a distance.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 35,
+      "cost": 400,
+      "name": "Ring of Wizardry ",
+      "source": "TES: Magic",
+      "description": "A gold ring with the image of the Mage constellation emblazoned upon it. While wearing this enchanted ring, you will find that not only are the magicka cost of all spells reduced, allowing you to use more spells than before, it will also double their potency, making them twice as powerful as before.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 36,
+      "cost": 400,
+      "name": "Spell Crafter",
+      "source": "TES: Magic",
+      "description": "The study of magic is an act that pushes against the preconceived limitations seen by the mage in question, and often necessitates the creation of entirely new and unheard of spells and magical effects. You are exceptionally skilled in creating new spells, or even just mimicking magical and supernatural abilities you see, requiring a bit of trial and error before the final product is perfected. Even those spells that are considered unique or restricted are just within your grasp, if you choose to reach out.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 37,
+      "cost": 400,
+      "name": "Wizard's Tower ",
+      "source": "TES: Magic",
+      "description": "Though it may just be a cliche, there is something to be said about owning your very own arcane tower. This property has multiple levels, each for a certain purpose. You've got the entry level, library, larder, kitchen, garden, storage, basement, vault, study rooms, practice areas, guest rooms, a master bedroom, and even a few bathrooms. It's also got a good amount of magical protection, reinforcing the walls and making them highly resistant to magical damage. Additionally, it's self cleaning. You can combine this with any properties you own, or even those that you purchase here.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 38,
+      "cost": 400,
+      "name": "Ayleid Well ",
+      "source": "The Elder Scrolls Series",
+      "description": "Dotted all throughout Cyrodiil, one will find these wells, and now you yourself own one. Not only does it completely restore and temporarily enhance your own pool of magicka when used, but it can grant those without their very own pools of magicka! Perfect for any Companions you might pick up in the future.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 39,
+      "cost": 400,
+      "name": "Mazed Band",
+      "source": "The Elder Scrolls Series",
+      "description": "Created by an apprentice of Sotha Sil, this enchanted ring is incredibly powerful and useful to anyone. Though it has had some of its uses taken away, it will allow the wearer to teleport themselves as well as whoever they are touching to anywhere they desire, so long as it's within the plane of existence they currently reside in. It can bypass most magic barriers, though there might be a reason for them to be placed where they are, so exercise caution.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 40,
+      "cost": 400,
+      "name": "Spellsword",
+      "source": "The Elder Scrolls Series",
+      "description": "It is an unfortunate truth that sometimes pure might is not enough. You are quite skilled in supplementing your combat capabilities with the use of magic. Enhancing your physical capabilities, momentarily coat your weapon in mystical fire, or just using a blade in one hand and blasting lightning from the other.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 41,
+      "cost": 400,
+      "name": "Lustratorium",
+      "source": "The Elder Scrolls: Oblivion",
+      "description": "A substantial indoor and outdoor botanical garden offers a vast assortment of ingredients that would otherwise be hard to come by. You can plant anything here to grow it safely. Furthermore the area contains a full lab of alchemical equipment for producing potions from the supplies here. The entire space carries a unique enchantment of Alchemical Brilliance on those inside which offers substantial bonuses to the quality of elixirs that can be made here. You personally receive a set of tools suitable for a master of the craft: mortar & pestle, alembic, calcinator, and retort. This includes botanical ingredients from across Tamriel and even rarer specimens from Oblivion, allowing you supplies from the Deadlands and Shivering Isles without needing to brave those regions.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 42,
+      "cost": 400,
+      "name": "Dwemer Observatory",
+      "source": "TES: The Warrior Waves",
+      "description": "As with many other cultures throughout the world, the dwemer held a deep interest in the stars above and their celestial nature. This facility was created in order to help these dwarven astrologers in their research, possessing not only an orrery of the Aurbis, a grand telescope that allows one to gaze far into the sky, allowing one to get an accurate look at even the most distant planets in the system.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 43,
+      "cost": 400,
+      "name": "Ayleid Records ",
+      "source": "TES: Main Races ",
+      "description": "When the ancient ayleids that were fleeing the zealous Alessian Order and chose to integrate themselves with the bosmer of Valenwood, they brought with them their knowledge and histories. Though it may not have impacted the wood elves on a large scale, you may find some uses for it. You now find yourself possessing an ancient library detailing most of what the Ayleids knew before being pushed out of their homes, from their magics and myths to their history and songs and all in between.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 44,
+      "cost": 500,
+      "name": "Archmage Robes",
+      "source": "The Elder Scrolls Series",
+      "description": "The ultimate symbol of the Archmage of the College of Winterhold, it definitely lives up to its hype. This outfit not only decreases the amount of magicka all of your spells would otherwise cost, but greatly increases your total pool of magicka as well as the rate in which your magicka regenerates, and is as protective as steel armor.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 45,
+      "cost": 500,
+      "name": "Diadem of the Savant ",
+      "source": "The Elder Scrolls Series",
+      "description": "This golden circlet is gifted to anyone who is able to complete Shalidor's Maze, and overcome the trials within. It greatly decreases the amount of magicka your spells would otherwise cost, as well as allowing you to have ten times more summons active at once than you could before. Anything summoned while wearing this will be stronger, faster, and more durable than they otherwise would have been.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 46,
+      "cost": 500,
+      "name": "Master of the Elements",
+      "source": "TES: Magic",
+      "description": "I see you have devoted yourself to the School of Destruction, a wise choice should you find yourself frequently on the battlefield. Through countless battles, you have refined your spell work to such an extent that damaging spells are thrice as powerful, with their effects lasting twice as long. And while the greatest enemy to a mage is those who are capable of resisting magic, they are of no concern to you. Indeed, your spells are now capable of ignoring magic resistances in their entirety. Let them feel your wrath.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 47,
+      "cost": 600,
+      "name": "Arcane College ",
+      "source": "TES: Magic",
+      "description": "If there is one thing that is most important to a mage, it is the acquirement and transference of knowledge, and there are few places better than this academy. A large structure that is capable of holding hundreds of students and faculty, it’s got all the amenities you would expect from a magical institute of learning. Most impressive is the extensive library, with innumerable tomes on all manner of subjects, ranging from the mundane to the magical. Should you decide to actually use this to teach, then all who come here to learn will see their progress rapidly increase.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 48,
+      "cost": 600,
+      "name": "Legacy of Shalidor",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Yours is a level of raw power and talent not seen in Skyrim for centuries, if not millennia. Your talent for magic is matched only by the legendary Shalidor and you may easily grasp, unravel, and learn even the most foreign of spells with ease. You’ll also find that your natural ability with spellcraft has also lent itself to doing more than simply learning the old. Creating new spells is something you’ve gotten quite good at as well - after all it’s nice to be able to make up something new should specific issues arise. To supplement this your body and soul are able to handle immense amounts of magicka for casting allowing you vast reserves to call upon for any spellcasting needs. Go forth young mage, you’re a legend in the making and with work and research your name may yet stand with the greats.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 49,
+      "cost": 600,
+      "name": "Lost Arts ",
+      "source": "TES: Magic",
+      "description": "Well now, it certainly seems as though you have broken free of the preconceived limitations of the School System of magic. You may now count yourself as an unequaled master of a long forgotten, or extremely rare, form of magic. It could be the Thu'um, a type of magic that warps reality based on the words you speak. It could be the Tonal Architecture of the Dwemer, capable of innumerable effects that seem fantastical and impossible. Or maybe Tonal Magic is not your style, instead following in Azra Nightwielder's footsteps, becoming a master of Shadow Magic. Weather magic, blood magic, auramancy, even time magic is possible. Though you can purchase this option more than once, it will not be discounted after the first.",
+      "chapter": "The Mage"
+    },
+    {
+      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Mage",
+      "__line": 50,
+      "cost": 600,
+      "name": "Guardian’s Eye ",
+      "source": "TES: The Warrior Waves",
+      "description": "Created by the dwemer of Clan Rourken, this orb of intense power is as highly sought as it is potent. Created by the greatest tonal architects of the clan, it resonates with the world on a level that few mortals could ever envision. Through it, one can create a tonal field that allows one to selectively block the use of magic in a wide radius, or alternatively amplify their effects. When you go into battle with this artifact, know that the only arcane power being thrown around will be on your side.",
+      "chapter": "The Mage"
+    }
+  ],
+  "8": [
     {
       "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Vigilant ",
       "__line": 1,
@@ -3071,449 +3514,6 @@
       "source": "TES: Main Races ",
       "description": "The Paladin’s Blade, the Blade of Blades, the Sword of Heroes, this ancient claymore is made of the rare metal known as adamantium and possesses offensive capabilities surpassed only by its own defenses. It lends the wielder health, protects him or her from fire, and reflects most spells cast against the wielder back to the caster. Seldom has Chrysamere been wielded by any bladesman for any length of time, though strangely in you it has found its ideal champion, and will return to your side whenever the two of you are separated for too long.",
       "chapter": "The Vigilant"
-    }
-  ],
-  "8": [
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 1,
-      "cost": 0,
-      "name": "Basic Set ",
-      "source": "TES: Warriors",
-      "description": "It wouldn’t be fair to send you out into such a dangerous world like Tamriel with no way to protect yourself. As such, you are now in possession of a brand new set of iron armor as well as a steel weapon of your choice. You will also receive a knapsack to carry any other valuables you may find in your travels.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 2,
-      "cost": 0,
-      "name": "Frostbane Bear",
-      "source": "TES: The First Council",
-      "description": "The Bear was one of the ancient Atmoran animal tokens, associated later with the Nord god Tsun, so the Frostbane Bear has historically been one of the most prestigious mounts a tradition-loving Nord could ride.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 3,
-      "cost": 0,
-      "name": "Mixed Unit Tactics",
-      "source": "TES: Warriors",
-      "description": "Sometimes, reading does help you win in a fight, especially when the book you read covers many different battle strategies for both large and small scale conflicts. This book not only covers them, but it also has a few notes written in the margins on different uses for various formations and such.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 4,
-      "cost": 0,
-      "name": "Training Dummy ",
-      "source": "TES: Warriors",
-      "description": "An straw dummy with targets painted onto it that is strangely durable and resistant to all damage, and will repair itself when no one is looking. Any weapons and combat training you do with this will be much more effective. Alternatively, it can look like a certain person of your choice if you’re feeling spiteful.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 5,
-      "cost": 100,
-      "name": "Armored Combatant",
-      "source": "TES: Warriors",
-      "description": "One does not often expect to rush into battle wearing nothing but their bare skin, with armor being so widespread across all cultures. You believe heavily in the utilization of armor, be it simple chainmail or a full set of ebony plate. For you, armor is much easier to wear and put on, and doesn’t weigh you down, allowing you to swim as if unencumbered even while fully armored.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 6,
-      "cost": 100,
-      "name": "Barbarian ",
-      "source": "TES: Warriors",
-      "description": "When you go about wielding a battleaxe or a warhammer, you’ve probably got one thing on your mind. Dishing out as much damage as possible. As such, whenever you use one of these two-handed weapons, you will be dealing twice as much damage as before.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 7,
-      "cost": 100,
-      "name": "Dual Flurry",
-      "source": "TES: Warriors",
-      "description": "The idea behind using two weapons at the same time is that you would be capable of dealing twice as much damage as before, so long as you can actually hit your targets. While you use two weapons at the same time, your attack speed is greatly increased.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 8,
-      "cost": 100,
-      "name": "Dual Wielding",
-      "source": "TES: Warriors",
-      "description": "Despite what many would think, using two weapons at the same time is a tricky thing, especially two different kinds of weapons. Not so for you, as your ambidextrous nature allows you to effectively utilize a weapon in each hand with the same level of skill as if you were only using one.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 9,
-      "cost": 100,
-      "name": "Iron Fist ",
-      "source": "TES: Warriors",
-      "description": "It takes either a brave, skilled, or foolish man to face the foes of the world with naught but your bare hands, but you seem to be the former. Not only are your fists as durable as fine steel, but you deal thrice as much unarmed damage as you could have before.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 10,
-      "cost": 100,
-      "name": "Ring of Vitality",
-      "source": "TES: Warriors",
-      "description": "A very useful ring for any questing warrior, this golden band is engraved with the image of an ox. While wearing it, it will render you immune to all but the most potent or divine diseases, poisons, and paralysis. Even those that are capable of affecting you would be highly weakened.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 11,
-      "cost": 100,
-      "name": "Rugged Beauty ",
-      "source": "TES: Warriors",
-      "description": "Though war and battle wears down all who participate, be it mentally or physically, your heroic visage is comparable to the chiseled marble of a master craftsman. Your beauty is almost unparalleled, and any attempt to mar such beauty with wounds or scars will only see it be enhanced.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 12,
-      "cost": 100,
-      "name": "Shield Wall ",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Since dodging in heavy armor can be difficult, it makes sense to rely on your trusty old shield to tank the blows. You're very good at using it to weather any blow you can't dodge, sometimes even using it to your advantage by directing the enemy's thrusts to make an opening. You're in fact good enough to use it even against ranged attacks, like arrows and even magic, though do keep in mind that if the shield itself is flimsy then it won't be able to take a direct hit; you're not going to be tanking dragonfire with an ordinary shield of common iron, for example. But you will get as much use as is physically possible out of that ordinary iron shield.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 13,
-      "cost": 100,
-      "name": "Sturdy Shield ",
-      "source": "TES: Warriors",
-      "description": "The key behind using both a sword and shield is being able to take blows and then return the favor. It can be hard, though, if your opponent hits you hard enough to stagger you, giving them an opening. Thankfully, all shields you use will be able to negate a quarter of the kinetic force from all incoming attacks.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 14,
-      "cost": 100,
-      "name": "Targe of the Blooded ",
-      "source": "TES: Warriors",
-      "description": "Though it may only be made of steel and wood, this shield is a dangerous item in the right hands, all thanks to the multitude of spikes on the front of it. These spikes can predictably be used to damage foes, but they can also catch incoming weapons and, with a bit of finesse, rip them from your opponents' hands.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 15,
-      "cost": 100,
-      "name": "Weapon Training",
-      "source": "TES: Warriors",
-      "description": "You would be a poor warrior if you were without the proper skills. Not only are you fairly adept with your chosen combat style and in peak physical condition, but you know how to properly maintain your weaponry and armor.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 16,
-      "cost": 100,
-      "name": "Nordic Armor",
-      "source": "TES: The First Council",
-      "description": "Heavy armor made primarily from quicksilver, it is carved with imagery of bears. Not only is it more effective than steel, but it will also keep your temperature regulated, allowing you to be cozy even while in a snowstorm.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 17,
-      "cost": 100,
-      "name": "Battle Cry ",
-      "source": "TES: The First Council",
-      "description": "Upon the defeat of Alduin and their draconic overlords, the nords of Skyrim proved that their Voices, too, were strong. Such power infuses even the least of all nords, allowing them to let out a battlecry that causes those weak of will to flee upon hearing it, and causing a shivering fear into all who hear it.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 18,
-      "cost": 100,
-      "name": "Guards and Servants",
-      "source": "The Elder Scrolls Series",
-      "description": "Whether you're off travelling on the road, or staying home, it can get tedious doing all of this household maintenance yourself. Well, you no longer have to, as you now have people who do that for you. Under the supervision of a Steward and a Guard Captain, you've got servants to take care of your home and guards to protect it, as well as enough room to house them. The amount you gain is proportional to how large your home is.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 19,
-      "cost": 100,
-      "name": "Armory ",
-      "source": "The Elder Scrolls Series",
-      "description": "There are so many interesting and unique pieces of gear found on Nirn, so isn't it a shame that you don't have anywhere to display it? Well, not any more, as this armory is covered in armor mannequins and weapon displays, allowing you to show off the best of what you've got. Anything stored here won't rust or be affected by the passing of the ages, looking just as pristine as when they were placed here.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 20,
-      "cost": 100,
-      "name": "Wild Hunt Set",
-      "source": "TES: Main Races ",
-      "description": "Since mining is largely impossible within Valenwood, for fear of harming the plant life and breaking the Green Pact, the wood elves have found many ways of making weapons and armor from their kills. What you have here is an entire set of armor crafted from leather and bones, being light, flexible, and highly breathable. The helmet appears like the skull of a man or mer, in order to better inspire dread in your opponents.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 21,
-      "cost": 200,
-      "name": "Armoured Juggernaut ",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Heavy armour is great isn’t it? The ability to wade into battle shrugging off arrows, magic, and blades alike, what’s not to like? Well one thing, it’s heavy as can be and will quickly tire out many given some time. This drawback doesn’t really apply to you. You recover from exertion at an astounding rate, to the point that even continuous and strenuous running or hiking in the mountains while wearing Daedric or Dragon bone armour wouldn’t phase you in the slightest, furthermore this unnatural endurance also applies to general health and strength as a warrior. Naturally you’re also quite skilled in the use of heavy armor, being able to make far greater use of it than most and being able to easily cover any weaknesses it has. Now go forth warrior, and let your enemies flee as your armoured form smashes their lines to pieces!",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 22,
-      "cost": 200,
-      "name": "Bearclaw Helm",
-      "source": "TES: Daedra",
-      "description": "Once belonging to a small Dunmer House, this helmet was crafted from the skull of a great beast, and now it is yours. While wearing it, you will find yourself stronger and more agile than before.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 23,
-      "cost": 200,
-      "name": "Decorated General ",
-      "source": "TES: Warriors",
-      "description": "Wars are very, very rarely ever won by a single person. They are won through the effort of numerous people, through armies and tactics and stratagems. You understand this, and have endeavored to master the art of war in a level few ever do. You are a talented general, on par with some of the best in history, able to eke out victories from some of the most hopeless of battles.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 24,
-      "cost": 200,
-      "name": "Elemental Protection ",
-      "source": "TES: Warriors",
-      "description": "While shields can protect against swords and arrows easily enough, magic is very much a real danger that could bypass or ignore your flawless defense. And now, you can ignore it right back, kind of. You will have both your magical resistance as well as your elemental resistances boosted, allowing you to ignore weaker effects all together.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 25,
-      "cost": 200,
-      "name": "Strong Grip ",
-      "source": "TES: Warriors",
-      "description": "As strong as your fists may be, it means nothing if your opponent can just move out of the way. Though it may not entirely solve that problem, when you get close enough there’s no way they’re going to get away, as you are a master of grappling and wrestling your opponents to the ground and keeping them held down.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 26,
-      "cost": 200,
-      "name": "Troll Blood ",
-      "source": "TES: Warriors",
-      "description": "Trolls are infamously difficult to take down, in part due to their special fat that absorb blunt blows, but also because of their potent regeneration. You seem to share in this strange ability, capable of regenerating from all wounds so quickly. Be wary, though, as this regeneration will be greatly slowed if the wounds were inflicted by fire, or were cauterized.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 27,
-      "cost": 200,
-      "name": "Bands of Kwang Lao ",
-      "source": "The Elder Scrolls Series",
-      "description": "These leather bands are said to have belonged to a fierce warrior hailing from Akavir. Wearing them not only increases your skill with unarmed combat, but increases the force behind your strikes and makes your fists as hard as ebony. Who needs a weapon when you have your fists?",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 28,
-      "cost": 200,
-      "name": "Sword of Shabnam",
-      "source": "TES: The Warrior Waves",
-      "description": "A sacred ornament from Yokuda, representing the body. It is an ancient blade that was supposedly created by a master sword-singer, one who was dedicated to a god of war. When it drinks the blood of its foes, it will turn the stolen vitality towards the user, healing their wounds and rejuvenating their stamina.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 29,
-      "cost": 200,
-      "name": "Necklace of Swords ",
-      "source": "TES: The Warrior Waves",
-      "description": "A Yokudan amulet, crafted from orichalcum and shaped to resemble three swords surrounding a shield. It is useful for all manner of warriors, due to the magical effects placed upon it. Not only will it improve the damage you deal with blades weapons, but it will also reflect a third of all damage inflicted upon you back onto your enemy.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 30,
-      "cost": 200,
-      "name": "Bone Arrows ",
-      "source": "TES: Main Races ",
-      "description": "If the bosmer are known for their archery, then they need the perfect arrows to best match their skills while remaining possible within the confines of the Green Pact. You now have a massive stock of bone arrows of various creatures that replenishes daily. Arrows made of bird bones fly farther and faster, while the heavier mammoth arrows strike with a lot of force. There are dozens of types of arrows, each from different animals, so you’re sure to find a favorite.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 31,
-      "cost": 300,
-      "name": "Dual Defence",
-      "source": "TES: Warriors",
-      "description": "Many think that a good offense is a good defense, and you have taken that proverb to heart. You are a master of blocking and redirecting attacks with your weapons, stopping an incoming axe and tossing it to the wayside where it won’t be cracking your skull open.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 32,
-      "cost": 300,
-      "name": "Paralyzing Palm",
-      "source": "TES: Warriors",
-      "description": "There are myths of some martial artists who are capable of striking specific points on the body, paralyzing, manipulating, or even killing them with just a few pokes and strikes. You know that these are not myths, but truths, for you are capable of all of them.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 33,
-      "cost": 300,
-      "name": "Castle Jumper ",
-      "source": "The Elder Scrolls Series",
-      "description": "Why would you have an ordinary house when you could have a castle instead? Your home is vastly increased in size, along with any additions you've bought. Your [Guest Housing] could now house up to forty people, while a [Vast Library] could contain enough books to put some universities to shame. Your home also has at least four floors now.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 34,
-      "cost": 400,
-      "name": "Auriel's Shield ",
-      "source": "TES: Warriors",
-      "description": "Said to be the shield of the elven god Auriel himself, this artifact is both a great defense and potent offense. When struck, it completely absorbs the kinetic energy of the attack, storing it for until you unleash it all in a wave of divine energy that pushes against all in front of you. Even when faced against magic, it still offers you amazing protection.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 35,
-      "cost": 400,
-      "name": "Champion's Cudgel ",
-      "source": "TES: Imperial Cult",
-      "description": "An enchanted warhammer given to General Falx Carius of Fort Frostmoth, it is a fitting weapon for one who fights for the Empire and all it stands for. Its heavy head can be used to crumple steel armor with ease, while its chaotic enchantment will randomly harm the target with either fire, frost, or shock damage.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 36,
-      "cost": 400,
-      "name": "Chillrend",
-      "source": "TES: Warriors",
-      "description": "Though one may think this blue blade emitting frosty mist is made from stalhrim, it is in fact a unique shortsword made from a rare type of blue malachite. Though, its enchantment means that it's easy to get confused, as not only does it unleash a massive amount of frost damage, it will also paralyze most opponents who are struck by it, as though they were frozen solid.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 37,
-      "cost": 400,
-      "name": "Ebony Set ",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Now we’re really starting to talk equipment; ignore that dingy iron or even the mastercrafted armor of the Dwemer, both pale in comparison. Ebony armor is some of the strongest on the planet and now you’ve got a full set including weapons, which in of itself would normally be well beyond what the average person could ever hope to afford. Where before iron would ensure encounters with the lesser enemies of the world were survival, but still an issue they’re now something of the past. Iron and even glass swords will bounce off and arrows will find themselves breaking upon your form unless they’re aimed expertly or enhanced in some form or another. Your weapons are of similar caliber, tearing through lesser materials with ease and being extremely well crafted to fit you just right.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 38,
-      "cost": 400,
-      "name": "Mighty Fortress ",
-      "source": "TES: Warriors",
-      "description": "For those of you who want more than just a bed at an inn or a sleeping roll, you can never go wrong with a sturdy fortress to call your home. Its walls are sturdy, its design focused towards defense and repelling invaders, it has the room to house dozens of soldiers, as well as enough supplies to arm them and keep them fed for as long as needed. The heraldry and aesthetics are ultimately up to you, but regardless of what you choose, this will be a tough nut that few could crack.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 39,
-      "cost": 400,
-      "name": "Savage Strike ",
-      "source": "TES: Warriors",
-      "description": "While the weapons you use may not possess as much weight behind them as a warhammer, it is just as important where you strike as it is how much force you strike with. In your hands, your weapon seems to slightly direct your movements, moving towards an opponent’s weak points.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 40,
-      "cost": 400,
-      "name": "Shield of Ysgramor ",
-      "source": "TES: Undead",
-      "description": "Used by Ysgramor and crafted for him by Ahzidal, this shield is a powerful artifact. Not only does it grant the wearer an increased resistance to frost, it also imbues them with a healing factor. But it’s ultimate ability is being able to unleash the frost of Atmora itself, coating the user in a powerful frost cloak that harms anyone and anything nearby.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 41,
-      "cost": 400,
-      "name": "Wuuthrad ",
-      "source": "TES: The First Council",
-      "description": "The battleaxe of Ysgramor himself, it was crafted using materials and techniques originating from Atmora, it was made specifically to kill elves as easily as possible. Your version is special, as it will deal much more damage to any sentient race of non-humans. It will also ignore any and all magical protections, even allowing you to cut ethereal enemies in half with a mighty swing.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 42,
-      "cost": 400,
-      "name": "Titan Born",
-      "source": "TES: The First Council",
-      "description": "It is often believed that the nords and giants share similar origins, having migrated from Atmora, so it is not unheard of for the two to procreate. You are one of these half-giants, though taking more after your giant side, being a foot taller than most nords while possessing enough strength to throw around an entire horse. This strength goes well with your newfound skill in unarmed combat, allowing you to easily pin down a snow bear, or punch its head clean off.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 43,
-      "cost": 400,
-      "name": "Scrolls of the Ansei ",
-      "source": "TES: The Warrior Waves",
-      "description": "An ancient library of an independent group of Sword Singers, the scrolls within were written to help one gain better insight into gaining and improving their Shehai, as well as a number of useful and powerful techniques. Even if they should come from worlds completely devoid of magic, you can teach them the ways of the Ansei following the writings within.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 44,
-      "cost": 500,
-      "name": "Dual Savagery",
-      "source": "TES: Warriors",
-      "description": "One of the greatest advantages of dual wielding weapons is the increased offensive potential one could possess, and you are undeniably proof of that. When you are in a fight, you become a whirlwind of death, becoming faster and faster the longer a fight goes on. Eventually, you may get to the point where you could slash individual raindrops in the middle of the air, and perhaps even further beyond.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 45,
-      "cost": 500,
-      "name": "Unstoppable Force",
-      "source": "TES: Warriors",
-      "description": "There are few opponents as dangerous on the battlefield as you, an unstoppable force that can crush any immovable object stupid enough to get in your way. Any attack you deal with a two-handed weapon will completely ignore a target’s armor, be they physical or magical, as well as bypassing damage resistance.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 46,
-      "cost": 500,
-      "name": "Eagle Eye",
-      "source": "The Elder Scrolls Series",
-      "description": "When people think of warriors, it's not often that they think of archers. It's not as memorable as a fully armored Nord with a battle axe rushing towards you, but your ability to accurately hit a target's eye a mile away is a great way to avoid being in that situation entirely.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 47,
-      "cost": 600,
-      "name": "Champion of Skyrim ",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "If there was a Fighter’s Guild in Skyrim you’d almost assuredly be its champion. The skill and talent you have for battle is tremendous and fits more in the legendary tales of Ysgramor or possibly even Pelinal Whitestrake than it does reality. To you fighting is an art, an art you’ve mastered, weaving men’s innards like a tapestry with your sword and spear is as easy as dancing your way through the frontlines of a bloody battle without taking a single blow, while felling many of the enemy with ease. As a final boon and to ensure your body can keep up with your skill, your physical form is enhanced further and you’ll find that spending hours upon hours hacking your way through enemies is no issue, nor will shrugging off many wounds. You’re already the stuff Heroes are said to be made of when it comes to the martial way, and yet it seems you’ve still got room to grow. I wonder, how will future generations look back on someone such as you?",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 48,
-      "cost": 600,
-      "name": "Unkillable ",
-      "source": "TES: Werebeasts",
-      "description": "There are rumors of entities that are unkillable, but you could actually pull it off. You have an incredible regeneration ability similar to that of a Troll, capable of healing most flesh wounds in seconds, while broken bones would take a few hours, depending on how bad the damage is. Unfortunately, you cannot regrow entire limbs, but in return you have become effectively immortal. You can live indefinitely, forever in your prime, until someone or something manages to kill you, which itself would be quite the feat.",
-      "chapter": "The Warrior"
-    },
-    {
-      "__source": "The Celestial Scrolls v2 by Gothicjedi666 - The Warrior",
-      "__line": 49,
-      "cost": 600,
-      "name": "Sword Singer ",
-      "source": "TES: Main Races ",
-      "description": "An ancient and forgotten art developed by those residing in Yokuda, you have become one of the rare Sword Singers, capable of manifesting a weapon from your very soul. Many Shehai were thought to be unstoppable weapons of pure thoughts, partly due to the numerous techniques that could wreak untold devastation, one even rumored to have been the cause for the sinking of Yokuda itself. You yourself are only a beginner, but through training and meditation you could go far.",
-      "chapter": "The Warrior"
     }
   ]
 }
