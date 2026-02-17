@@ -1,0 +1,334 @@
+0,Perk Name,Cost,Source,Description
+1,Red Science,100 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style automation. This perk provides you with basic theoretical understanding and practical skills: enough to craft your first burner miners, stone furnaces, and assemble simple automation setups.
+
+However, this is only the beginning. True mastery comes through application. By building machines, designing production lines, and proactively automating processes, you will gradually expand your knowledge and capabilities. Each new innovation unlocks further possibilities, allowing you to progress through increasingly complex technologies until you have mastered the full breadth of Factorio's automation content."
+2,Green Science,100 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style logistics and belt-based automation. This perk provides you with basic understanding of transport belts, inserters, and simple material distribution.
+
+True mastery comes through application. By building logistics networks, optimizing supply chains, and proactively designing distribution systems, you will gradually expand your capabilities. Each innovation unlocks further possibilities until you have mastered the full breadth of Factorio's logistics content."
+3,Gray Science,150 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style military production. This perk provides you with basic understanding of turrets, ammunition, and defensive structures.
+
+However, true mastery requires conflict. By building military devices, defending against threats, and actively engaging in battles, you will rapidly expand your capabilities. Actual combat using your creations provides the best returns: each skirmish teaching you how to improve your military technology until you have mastered the full breadth of Factorio's weaponry."
+4,Blue Science,150 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style chemical science and fluid handling. This perk provides you with basic understanding of oil processing, chemical plants, and fluid management.
+
+True mastery comes through application. By building refineries, managing complex fluid networks, and proactively utilizing chemical science, you will gradually expand your capabilities. Each innovation unlocks further possibilities until you have mastered the full breadth of Factorio's chemical production."
+5,Purple Science,200 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style production optimization. This perk provides you with basic understanding of advanced circuits, electric furnaces, and productivity modules.
+
+True mastery comes through large-scale application. By building production lines, manufacturing a variety of advanced items, and proactively optimizing your processes, you will gradually expand your capabilities. Each innovation unlocks further possibilities until you have mastered the full breadth of Factorio's production science."
+6,Yellow Science,200 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style high technology and utility science. This perk provides you with basic understanding of processing units, low-density structures, and rocket control units.
+
+True mastery comes through advanced application. By building complex devices, manufacturing cutting-edge items, and proactively utilizing high-tech knowledge, you will gradually expand your capabilities. Each innovation unlocks further possibilities until you have mastered the full breadth of Factorio's advanced technology."
+7,White Science,250 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style space technology. This perk provides you with basic understanding of rocket construction, satellite payloads, and the principles needed to reach beyond your home world.
+
+True mastery requires exploration. By building space-bound devices, launching rockets, and proactively traveling through space using knowledge from this perk, you will rapidly expand your capabilities. Actual space exploration and travel provide the best returns: each new frontier teaching you how to improve your space-faring technology until you have mastered the full breadth of Factorio's celestial ambitions."
+8,Space Age,600 CP,Vanilla Factorio,"You gain a complete mental compendium of theoretical scientific knowledge and blueprints for every craftable item from the Space Age expansion for Factorio. This includes the technologies required for interplanetary logistics, asteroid processing, advanced platform construction, and the unique resources and production chains found on new worlds.
+
+Simply possessing this knowledge is only the beginning. Applying these blueprints and theories in practice will help you gain expertise in the usage and creation of these technologies at an incredibly rapid rate: allowing your actual skills and practical understanding to advance in leaps and bounds with each new build."
+9,Biters and Other Pests ,400 CP,Vanilla Factorio,"You possess a complete mental compendium of research on the various hostile lifeforms found throughout Factorio: from the humble biter to the devastating behemoth worms, including all variants introduced in the Space Age expansion. You understand their biology, behavior patterns, hive dynamics, and evolution triggers in intimate detail.
+
+Beyond theoretical knowledge, you have developed exceptional tactical skills for engaging and exploiting these creatures. You know how to manipulate their aggression, draw them into killzones, and neutralize even the largest swarms with minimal resources. More importantly, you possess a natural talent for researching alien hostile life and developing effective countermeasures (whether chemical, biological, or mechanical) against such evolutionary threats."
+10,Shield Projector,50 CP,Modded Factorio,"You gain the ability to construct a device that projects an energy shield in an arc: a defensive wall that requires only power to sustain itself. This blueprint and its accompanying basic scientific principles are inspired by the Shield Projector mod for Factorio.
+
+The device can be built relatively easily, though it will function as tinkertech: reliable in your hands but difficult for others to replicate or maintain. This perk provides only the fundamental theory and a single specific blueprint - no deeper understanding of energy shielding beyond this particular application."
+11,Advanced Autonomous Industries,500 CP,Modded Factorio,"This perk provides you with complete blueprints for every craftable item, machine, vehicle, and structure from the Advanced Autonomous Industries mod (AAI) for Factorio, including all its various modules, addons, and expansions.
+
+Beyond simple blueprints, you receive just enough scientific and engineering knowledge to somewhat understand how your creations function: allowing you to troubleshoot issues rather than blindly following instructions. You also gain the practical skills needed to utilize, construct, and reliably maintain this complex automation technology, ensuring your programmable vehicles, scanners, and autonomous systems continue operating long after they leave your workbench."
+12,Factory Planner,50 CP,Modded Factorio,"This perk provides you with a collection of specialized software tools and simple companion devices designed for planning complex production lines. These programs allow you to map out recipes, calculate resource requirements, specify machine configurations, and optimize assembly line layouts before building a single structure.
+
+Beyond the tools themselves, you gain sufficient computer science knowledge and design skills to actually create, modify, and utilize these planning applications effectively: ensuring you can adapt your planning methods to whatever manufacturing challenges you face."
+13,Repair Turret,100 CP,Modded Factorio,"You gain the ability to construct a tower-like structure that projects energy beams to automatically repair your buildings and machinery, consuming both power and repair kits to do so. This blueprint and its accompanying basic principles are inspired by the Repair Turret mod for Factorio.
+
+The device can be built relatively easily, though it will function as tinkertech: reliable in your hands but difficult for others to replicate or maintain. This perk provides only the fundamental theory and a single specific blueprint - you do not actually understand how the technology works on a deeper level, nor do you know if it would be possible to construct using completely mundane science and engineering without the supernatural advantages this perk provides."
+14,Pyanodons Addons,800 CP,Modded Factorio,"This perk provides you with complete blueprints for every craftable item, machine, building, and production chain from the Pyanodons mod suite for Factorio, including all its various modules, addons, and expansions. From the simplest component to the most absurdly complex production loop, the knowledge to construct it all resides within your mind.
+
+Beyond simple blueprints, you receive just enough scientific and engineering knowledge to somewhat understand how your nightmarishly intricate creations function, allowing you to troubleshoot issues within sprawling multi-step production lines rather than blindly following instructions. You also gain the practical skills needed to utilize, construct, and reliably maintain this brutally complex technology, ensuring your factories continue operating even as they spiral into ever-greater complexity."
+15,Modular Turrets ,100 CP,Modded Factorio,"Inspired by the Modular Turrets mod for Factorio, this perk grants you complete blueprints and sufficient skills to build, operate, and maintain the full range of turrets from the mod. You understand their modular construction principles and can customize your defensive installations with various barrels, ammunition types, and support systems to suit any tactical situation.
+
+These machines offer remarkable flexibility in construction approach. You can build them as tinkertech (quick, cheap, and reliable in your hands alone) or invest the time and resources to construct them as true technology that others can understand, replicate, and maintain independently."
+16,Infinite Source,800 CP,Modded Factorio,"Once purchased, this perk allows you to select one existing resource deposit within your immediate vicinity and apply a replenishing quality to it. The chosen source will become endlessly renewable: gradually restoring itself over time as long as you do not mine it too aggressively.
+
+The speed of replenishment depends on the nature of the material. Common resources like coal regenerate quickly, while rarer or more complex substances like redstone restore at a much slower rate. Additionally, the farther a resource deviates from Factorio-style materials in nature and complexity, the less effective this replenishing effect becomes.
+
+There is an upper limit to both the size and complexity of deposits that can be targeted: massive or exceptionally intricate formations may be beyond this perk's ability to affect. The effect is not disruptive to things around the deposit and machines mining it.
+
+This perk may be purchased multiple times, with each additional purchase (discounted to 400 CP) stacking another activation in storage. You may hold these effects indefinitely, waiting until you find a suitable target before spending them."
+17,Electric Weapons,100 CP,Modded Factorio,"Inspired by the mod of the same name, this perk adds several blueprints of electric weaponry to your mental compendium, including plasma rifles, laser-based arms, and other high-tech armaments. Alongside these blueprints, you receive in-depth scientific knowledge of how each weapon functions, from power cells to focusing arrays.
+
+You also gain a significant degree of practical skill in using these weapons effectively in combat, as well as the expertise needed to modify, repair, and customize them for different tactical situations."
+18,Robot Army,250 CP,Modded Factorio,"Inspired by the mod of the same name, this perk allows you to manufacture and deploy automated robot soldiers to attack your foes and defend your factory. You possess complete blueprints for every craftable item from the mod - including robot chassis, weapon mounts, and support infrastructure.
+
+Beyond construction, you also know how to program and command these mechanical legions effectively. You can issue tactical orders, establish patrol routes, coordinate assaults, and manage your robotic forces with the expertise of a seasoned commander."
+19,Krastorio ,500 CP,Modded Factorio,"You possess a complete mental compendium of all blueprints for craftable items from the Krastorio mod for Factorio, along with enough basic theoretical understanding to somewhat grasp how this advanced technology functions.
+
+However, this knowledge does not exist in a vacuum. If you lack sufficient contextual understanding from other Factorio perks (particularly foundational technologies like red, green, or blue science) there will be significant gaps in your comprehension. These gaps will manifest as enforced tinkertech approaches: you can still build the items, but you won't truly understand why they work, and your creations will be difficult for others to replicate or maintain.
+
+The higher tiers of Krastorio technology require genuine understanding of the underlying principles. Without that foundation, pushing too far into advanced tech may have... Interesting consequences."
+20,Bob's Power ,150 CP,Modded Factorio,"You gain the ability to construct all new power generation structures and energy systems added by the Bob's Power mod for Factorio, including advanced boilers, steam engines, and higher-tier energy infrastructure.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+21,Bob's Logistics,100 CP,Modded Factorio,"You gain the ability to construct all logistics-related devices and systems added by the Bob's Logistics mod for Factorio, including higher-tier belts, inserters, pipes, and storage solutions.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology.  Although, other perks or suitable areas of knowledge might play similar role."
+22,Bob's Warfare,100 CP,Modded Factorio,"You gain the ability to create all warfare-related devices and weapon systems added by the Bob's Warfare mod for Factorio - including new turrets, ammunition types, armor, and combat equipment.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+23,,150 CP,Modded Factorio,"You gain the ability to build and utilize all new tiers of assembling machines added by the Bob's Assembling Machines mod for Factorio - ranging from basic to incredibly advanced fabrication units with module slots and specialized capabilities.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+24,Bob's Mining,100 CP,Modded Factorio,"You gain the ability to build and use all new mining machines and excavation tools added by the Bob's Mining mod for Factorio, including advanced miners, ore refining equipment, and resource extraction upgrades.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+25,Bob's Materials,100 CP,Modded Factorio,"This perk provides a complete mental compendium and blueprints for all resource processing and material production chains from Bob's Metals, Chemicals and Intermediates, and Bob's Ores mods. You understand how to extract, refine, and utilize the full spectrum of ores and materials these mods introduce.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+26,Bob's Electronics,50 CP,Modded Factorio,"You gain the ability to create entirely new electronics production chains inspired by Bob's Electronics mod for Factorio: from basic components to advanced circuit boards and processing units.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+27,Bob's Modules,100 CP,Modded Factorio,"You gain the ability to manufacture and utilize all modules added by Bob's Modules mod for Factorio: including productivity, speed, efficiency, and their various advanced tiers and combinations.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+28,Bob's Tech,50 CP,Modded Factorio,"This perk provides deep theoretical knowledge about the technologies introduced by other Bob's Mods. It does not grant blueprints or specific applied knowledge, but instead fills in the conceptual gaps and allows you to integrate elements from different Bob's mods into coherent technological systems.
+
+With this foundation, you can explore more non-tinkertech solutions and truly understand how your creations work. Knowledge accumulates slowly over time, but the process accelerates dramatically when you actually build and use items from your other Bob's mod perks."
+29,Bob's Vehicle Equipment ,100 CP,Modded Factorio,"You gain the ability to build and use all equipment added by Bob's Vehicle Equipment mod for Factorio: including vehicle grids, energy shields, repair packs, and specialized modules for your rolling stock.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+30, Bob's Greenhouse,50 CP,Modded Factorio,"You gain the ability to construct greenhouses from Bob's Greenhouse mod for Factorio - bizarre and unnaturally efficient structures that produce wood from water and a small seed stock. While not magical, their effectiveness defies simple explanation.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+31, Bob's Personal Equipment,50 CP,Modded Factorio,"You gain the ability to create and use all pieces of personal equipment added by Bob's Personal Equipment mod for Factorio, including modular armor, advanced batteries, exoskeletons, personal shields, and night vision enhancements.
+
+This perk synergizes greatly with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology.  Although, other perks or suitable areas of knowledge might play similar role."
+32,Spidertron Extended,200 CP,Modded Factorio,"This perk adds a suite of advanced spider-vehicle blueprints to your repertoire: the Spidertron MK2, Spidertron MK3, the Immolator, the Ghost Weaver, and the formidable Major Spidertron. Each represents a significant upgrade over the original: featuring enhanced firing capabilities, larger inventory sizes, expanded equipment grids, built-in radar coverage, superior mobility, and much more.
+
+However, this technology functions strangely. If you do not have access to the original Factorio Spidertron as a foundational technology, these advanced variants will be forced into a tinkertech paradigm - reliable in your hands but poorly understood, difficult to maintain, and impossible for others to replicate without your direct involvement. Based on Spidertron Extended mod for Factorio."
+33,Electromagnetism,50 CP,Dyson Sphere Program,"""Maxwell's equations poetically describe electricity and magnetism intertwining. With a deeper understanding, machines can be created for acquiring and using electrical energy with high efficiency.""
+
+This perk grants you the scientific knowledge and complete blueprints needed to create all devices unlocked by the Electromagnetism technology from Dyson Sphere Program: including basic wind turbines, tesla towers, and foundational power infrastructure."
+34,Tier Two Technology,100 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Two technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge.
+
+If you are unsatisfied, you may reroll this perk for free."
+35,Tier Three Technology,100 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Three technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+36,Tier Four Technology ,150 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Four technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+37,Tier Five Technology,150 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Five technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+38,Tier Six Technology,200 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Six technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+39,Tier Seven Technology,200 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Seven technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+40,Tier Eight Technology,250 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Eight technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+41,Tier Nine Technology,250 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Nine technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+42,Tier Ten Technology,300 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Ten technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+43,Tier Eleven Technology,400 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Eleven technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps will manifest as enforced tinkertech approaches: your creations will function reliably in your hands, but you will not truly comprehend the underlying principles, and replication by others will prove nearly impossible.
+
+If you are unsatisfied, you may reroll this perk for free."
+44,Tier Twelve Technology ,400 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Twelve technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps will manifest as enforced tinkertech approaches - your creations will function reliably in your hands, but you will not truly comprehend the underlying principles, and replication by others will prove nearly impossible.
+
+If you are unsatisfied, you may reroll this perk for free."
+45,End Game Technology,500 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from Tier Thirteen and above technology levels of Dyson Sphere Program. This represents the absolute pinnacle of achievable advancement.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave catastrophic gaps in your foundational understanding. These gaps will manifest as extreme tinkertech limitations - your creations will function only because the perk forces them to, you will comprehend almost nothing of how they work, replication by others will be impossible, and even you may struggle to maintain them without constant reference to your internal blueprints.
+
+If you are unsatisfied, you may reroll this perk for free."
+46,Icarus Mecha,250 CP,Dyson Sphere Program,"You possess the blueprint and extensive practical skills needed to construct the basic Icarus mecha from Dyson Sphere Program, along with the ability to maintain and operate this machine effectively. However, your knowledge of its inner workings is incomplete: you can build it and make it function, but you do not fully understand why it works.
+
+This incomplete understanding grants significant tinkertech cheating potential: you can cut corners, substitute materials, and force the mecha into existence through sheer applied supernatural ability, though such shortcuts may have consequences.
+
+More importantly, you gain access to the full Icarus upgrade tech tree, which you can explore and progress through over time. Advancement speed depends on how extensively you use your current mecha and on your dedicated research efforts. However, progression becomes increasingly difficult the further you go: from the simple Tier One upgrades all the way to the pinnacle of Tier Eight and beyond."
+47,,,,
+48,,,,
+49,,,,
+50,,,,
+51,,,,
+52,,,,
+53,,,,
+54,,,,
+55,,,,
+56,,,,
+57,,,,
+58,,,,
+59,,,,
+60,,,,
+61,,,,
+62,,,,
+63,,,,
+64,,,,
+65,,,,
+66,,,,
+67,,,,
+68,,,,
+69,,,,
+70,,,,
+71,,,,
+72,,,,
+73,,,,
+74,,,,
+75,,,,
+76,,,,
+77,,,,
+78,,,,
+79,,,,
+80,,,,
+81,,,,
+82,,,,
+83,,,,
+84,,,,
+85,,,,
+86,,,,
+87,,,,
+88,,,,
+89,,,,
+90,,,,
+91,,,,
+92,,,,
+93,,,,
+94,,,,
+95,,,,
+96,,,,
+97,,,,
+98,,,,
+99,,,,
+100,,,,
+101,,,,
+102,,,,
+103,,,,
+104,,,,
+105,,,,
+106,,,,
+107,,,,
+108,,,,
+109,,,,
+110,,,,
+111,,,,
+112,,,,
+113,,,,
+114,,,,
+115,,,,
+116,,,,
+117,,,,
+118,,,,
+119,,,,
+120,,,,
+121,,,,
+122,,,,
+123,,,,
+124,,,,
+125,,,,
+126,,,,
+127,,,,
+128,,,,
+129,,,,
+130,,,,
+131,,,,
+132,,,,
+133,,,,
+134,,,,
+135,,,,
+136,,,,
+137,,,,
+138,,,,
+139,,,,
+140,,,,
+141,,,,
+142,,,,
+143,,,,
+144,,,,
+145,,,,
+146,,,,
+147,,,,
+148,,,,
+149,,,,
+150,,,,
+151,,,,
+152,,,,
+153,,,,
+154,,,,
+155,,,,
+156,,,,
+157,,,,
+158,,,,
+159,,,,
+160,,,,
+161,,,,
+162,,,,
+163,,,,
+164,,,,
+165,,,,
+166,,,,
+167,,,,
+168,,,,
+169,,,,
+170,,,,
+171,,,,
+172,,,,
+173,,,,
+174,,,,
+175,,,,
+176,,,,
+177,,,,
+178,,,,
+179,,,,
+180,,,,
+181,,,,
+182,,,,
+183,,,,
+184,,,,
+185,,,,
+186,,,,
+187,,,,
+188,,,,
+189,,,,
+190,,,,
+191,,,,
+192,,,,
+193,,,,
+194,,,,
+195,,,,
+196,,,,
+197,,,,
+198,,,,
+199,,,,
+200,,,,
+201,,,,
+202,,,,
+203,,,,
+204,,,,
+205,,,,
+206,,,,
+207,,,,
+208,,,,
+209,,,,
