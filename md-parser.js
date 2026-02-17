@@ -139,7 +139,7 @@ async function parseMarkdown(filePath) {
 	}
 
 	let currentCategory = '';
-	let currentChapter = '';
+	let currentSource = '';
 	const rows = [];
 
 	// We'll do a single pass collecting entries.
@@ -165,9 +165,9 @@ async function parseMarkdown(filePath) {
 			continue;
 		}
 
-		// Chapter heading?
+		// Chapter heading? (This becomes the "source" field)
 		if (isChapterHeading(lines, i)) {
-			currentChapter = currentCategory ? `${currentCategory}: ${trimmed}` : trimmed;
+			currentSource = trimmed;
 			continue;
 		}
 
@@ -199,8 +199,8 @@ async function parseMarkdown(filePath) {
 				cost: transforms.cost(cost),
 				name: transforms.name(name),
 				description,
-				chapter: currentChapter || filename,
-				source: filename,
+				chapter: currentCategory || filename,
+				source: currentSource || filename,
 			};
 
 			rows.push(row);
@@ -209,7 +209,7 @@ async function parseMarkdown(filePath) {
 		}
 	}
 
-	return { rows, source: currentChapter || filename };
+	return { rows, source: currentCategory || filename };
 }
 
 module.exports = { parseMarkdown };
