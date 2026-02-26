@@ -94,6 +94,8 @@ const md = {
 				cleaned
 					.replace(/cp$/i, '')
 					.replace(/\s*bp$/i, '')
+					.replace(/\s*kp$/i, '')
+					.replace(/\s+(?:CP|BP|KP)$/i, '')
 					.trim(),
 			);
 			return isNaN(num) ? (cleaned.toLowerCase() === 'free' ? 0 : str) : num;
