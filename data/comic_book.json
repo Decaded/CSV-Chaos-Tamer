@@ -1,458 +1,6 @@
 {
   "1": [
     {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 1,
-      "cost": 0,
-      "name": "Apple Brand Ipod",
-      "source": "Blade",
-      "description": "This is the best music player that ever has been or will be invented. Look at those clean lines, and that wonderfully intuitive UI! You know you want to use it all the time. While that’s... probably not a good idea, at least if you do want to fill it up with tunes you’ll not run out of space. So long as you’re just storing music to enjoy, you’ll find it’s impossible to fill. To give you a bit of a head start, there’s a full selection of the tunes you may have enjoyed from this world’s media.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 2,
-      "cost": 0,
-      "name": "General Jabs ",
-      "source": "Loki Jump",
-      "description": "The smallest things can make huge differences. Diseases you could pick up while you’re here could certainly change your story, but probably not for the better. You are now as immune as anyone else would be if they had access to all the local general vaccinations and treatments to deal with common viruses and allergies, and your immune system can deal with the less serious diseases you might encounter here fairly easily.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 3,
-      "cost": 0,
-      "name": "Great Looks ",
-      "source": "Something Unlimited Jump",
-      "description": "Almost everyone in this world is considerably good-looking, with the men usually having chiseled builds and women tending to look perfectly curvy, so you, my friend, won’t be an exception to this fact. In addition to having an appearance of around 7/10 and 8/10, you can also customize your appearance’s traits, deciding if you want to look rugged, curvy, masculine, seductive, toned, androgynous, delicate, feminine, cute, intimidating or even monstrous if that is what you wish. As a bonus, you’ll always look as good as possible for you considering whatever is your current condition.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 4,
-      "cost": 0,
-      "name": "Journalist",
-      "source": "Megamind Jumpchain",
-      "description": "You are an actual journalist, skilled in all parts of the job - from the actual research and fieldwork that goes into a story, to the public speaking and writing skills to write and present those stories in an engaging manner, and even a decent enough grasp of videography to be a well-qualified cameraman. Alternatively, you can get a similar spread of skills for some other profession of your choice. You can take this perk multiple times, picking up a new set of skills each time.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 5,
-      "cost": 0,
-      "name": "News Van",
-      "source": "Megamind Jumpchain",
-      "description": "Your own news van with everything needed to broadcast from location. It doesn’t need fuel and slowly repairs any damage it receives, including regular wear-and-tear. If you aren’t interested in playing cameraman or reporter, you can set up this van for another line of work of your choice. Maybe a food truck? Maybe you want to profit off of Metro City’s upcoming spike of demand for construction workers? Maybe you glow in the dark.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 6,
-      "cost": 0,
-      "name": "Off The Watch List",
-      "source": "Loki Jump",
-      "description": "It would be unfortunate, not to mention rather unfair, to be erased from existence or otherwise targeted because you’re not ‘supposed’ to exist in this particular reality, or struck down without warning because your mere presence is interfering with some grand cosmic plan. Now, entities and organisations such as The Watcher, The Ancient One and The TVA either won’t notice your presence and actions, not notice you as anything unusual, or will assume what you are doing is all according to a greater plan that they believe in. They’ll completely overlook or ignore you, preventing them from doing anything about your interference or presence... unless you go after them directly, at which point they might take notice.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 7,
-      "cost": 0,
-      "name": "Set of Art Supplies",
-      "source": "Invincible - Jumpchain",
-      "description": "A Set of basic supplies for a single type of artistic pursuit. Painting would come with high quality, paints, brushes and stand, cooking with knives, etc",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 8,
-      "cost": 0,
-      "name": "Soundtrack of the Galaxy",
-      "source": "MCU - Volume 1",
-      "description": "What's a good act of heroism or villainy without some kind of music to back you up? This will ensure that you have a fine selection of music that you feel defines the moment, whatever it may be. Superb orchestra, rock music, even a hefty dash of songs from the 1980s if that's your thing. I'll even throw in this handheld cassette player that can work in deep space to listen to it from if you feel like it. Plan and act your day with style.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 9,
-      "cost": 100,
-      "name": "Acrobatics",
-      "source": "Justice League Unlimited Jumpchain",
-      "description": "Quickly sprint over rooftops, dash through hazardous environments, and avoid being hit by your foes with graceful and impressive displays of agility. You’re skilled enough to easily avoid melee blows from mundane opponents, doge ranged attacks from most thrown weapons, and traverse complex environments like cities, secret labs, and alien hives well enough to keep up with your flying allies or outpace deadly pursuers.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 10,
-      "cost": 100,
-      "name": "Acting Skills ",
-      "source": "Harley Quinn Jumpchain",
-      "description": "Did you used to be an actor? You certainly seem to have the skills to be a Hollywood Movie star. That is even if you were ugly.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 11,
-      "cost": 100,
-      "name": "April Lane",
-      "source": "World Of Lewd Superheroes",
-      "description": "A local media personality who has somehow retained a smidgeon of her idealism and journalistic integrity, this spunky reporter is a huge fan of yours. As a hero you represent a shining beacon of what people with power should strive to emulate, and as a villain your sinister charm and bad boy appeal helps to make her long lonely nights a little warmer. Though enthusiastic about her job and genuinely good at it, enough that she could easily help make you a media star if you wanted, she has a tendency to get caught up in sticky situations and is adorably ignorant of the fact that a lot of her appeal comes from how she’s a bombshell brunette with baby-blue eyes, plump lips, an outrageous hourglass figure, and a pair of perfectly-formed tits so massive you’d almost think she was smuggling watermelons in her top, but her absurdly abundant cleavage makes it blindingly obvious that she’s ‘all natural’. Having long neglected her personal life in the pursuit of her career, she’d drop everything in a heartbeat if you called her over, especially for a ‘private interview’, especially the kind that involves your privates.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 12,
-      "cost": 100,
-      "name": "Artistic ",
-      "source": "Invincible - Jumpchain",
-      "description": "You are a master of an art. What art you ask? Any art,painting, sculpting, writing novels, cooking, and beyond. You are a master at some form of artistic expression, so talented and truly amazing that even as a nobody you will find yourself quickly becoming truly wealthy if you seek to market yourself. Your talent and capabilities are such that none can deny them. Want to top the New York Times Bestseller list? This is the perk for you. This perk may be purchased more than once for additional art forms,",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 13,
-      "cost": 100,
-      "name": "Counseling ",
-      "source": "Young Justice v1.1",
-      "description": "You possess the patience, care, and medical training Black Canary has. Through regular therapy sessions, you could help a group of teenagers who went through traumatic experiences, be the best version of themselves (emotionally). With this, you can even help the likes of Superboy, and Orion with their trauma, and help them through their anger issues.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 14,
-      "cost": 100,
-      "name": "Collection of Gifts ",
-      "source": "Rogue-Like: Evolution Jump V1.0.1",
-      "description": "How romantic. It appears you have acquired a supply of gifts for your possible partners, such as candies, varied flowers, perfumes, cute plush toys, interesting books, dildos, vibrators and other kinds of sex toys for example. All the gifts you receive by taking this item will be mundane and usually have no other uses for you than gifting them to your loved ones, but, as a bonus, the supply will always have gifts your partner(s) will enjoy receiving, including things like bags of fresh human blood if you’re dating a vampire for example. Lastly, this supply of gifts will be replenished weekly.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 15,
-      "cost": 100,
-      "name": "Escape Artistry",
-      "source": "Justice League Unlimited Jumpchain",
-      "description": "You're a pro at getting out of traps and bindings. You could easily escape from any normal kidnapper or prison, and I'm sure plenty of magicians would love to have you as a partner. While you're not yet capable to escaping from anything designed by a super genius or advanced civilization, you can easily learn how to with a bit of study or experience.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 16,
-      "cost": 100,
-      "name": "Fighter ",
-      "source": "Invincible - Jumpchain",
-      "description": "You are a master at some form of combat. With each purchase of this perk you become a master of a single form of combat. With a purchase of this you could snipe like Simo Häyhä, or be a Master of Jeet Kun Do on the level of Bruce Lee",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 17,
-      "cost": 100,
-      "name": "Full Of Song ",
-      "source": "Loki Jump",
-      "description": "It’s easy for you to become the life of a party, even cheering people up that are trying to flee an imminent apocalypse. Not only do you know a wide selection of songs and have a good memory for new ones, but you also possess an excellent singing voice.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 18,
-      "cost": 100,
-      "name": "Happy-Go-Lucky Goth",
-      "source": "DC Occult",
-      "description": "​What’s this? It seems an incredibly pale and perky goth girl with a fondness for ankhs and a zest for life has taken to following you around. She seems to be an entirely mundane human but is utterly unflappable and frustratingly vague when asked about herself. How odd.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 19,
-      "cost": 100,
-      "name": "Hentai Protagonist’s Luck ",
-      "source": "Rogue-Like: Evolution Jump V1.0.1",
-      "description": "You have a pretty unique kind of luck with situations that are very commonly seen in ecchi and hentai protagonists. You’re a magnet to situations involving people you’re attracted to like a woman falling with her tits on your face, skirts being lifted by the wind, or “accidentally” entering a room and catching people changing clothes or masturbating. As a bonus, the people involved in said situations will never get mad with you, so you don't have to worry about tsunderes punching you for something you're technically not at fault for, unless you’re actually doing will ill intent like if you’re planning to get some blackmail material to use on them for example.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 20,
-      "cost": 100,
-      "name": "I’m the Best There is at What I Do ",
-      "source": "Rogue-Like: Evolution Jump V1.0.1",
-      "description": "You seem to already have a good wealth of knowledge and a set of skills that will be useful here. Basically, you’re pretty skilled with various different sexual techniques and positions as well as knowing a lot of basic seduction tactics, which includes how to act like a gentleman and several interesting pickup lines that won’t result in your potential partner finding you pathetic and/or slapping you in the face. As a bonus, you’re also very good with massages and kissing in general, being potentially one of the best kissers in the entire Xavier Institute.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 21,
-      "cost": 100,
-      "name": "Impressive Specimen ",
-      "source": "Something Unlimited Jump",
-      "description": "If you follow things closer to what the game offers, you’ll need to keep up with multiple partners over the entire day. Fortunately, you’re more than able to do this. You have great sexual stamina, allowing you to go on for several hours and reaching orgasm several times before needing a break. Even if you’re left fully emptied, a good night of sleep will always be more than enough to fully replenish your sexual stamina. As a bonus, if you want to, you can also temporarily share this benefit with your partners, allowing them to accompany you. Furthermore, your sexual fluids will also be incredibly delicious and your cock/pussywill also be ... impressive, both in taste and appearance.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 22,
-      "cost": 100,
-      "name": "Leather Outfit and Bike Helmet:",
-      "source": "Blade",
-      "description": "This full outfit (with a heavy leather jacket, pants, gloves, and a darkened bike helmet) are really good for keeping you from getting a permanent sunburn. In fact, they block U.V. rays so completely even a pureblood vampire could walk around outside on a nice day. Though the traditional choice would be black, they can come in any color scheme you’d like, and actually stop so much radiation they could probably serve as a hazmat suit, even though it’s not really sealed.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 23,
-      "cost": 100,
-      "name": "Loft",
-      "source": "Megamind Jumpchain",
-      "description": "A frankly spacious and luxurious apartment with a great view of the city. It comes furnished to your standards, doesn’t cost anything to keep, and even cleans and organizes itself when you aren’t looking.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 24,
-      "cost": 100,
-      "name": "On/Off",
-      "source": "X-Men Evolution Jumpchain V 1.02",
-      "description": "Being a student is hard work. Being a student with dangerous powers that can go off at a moments notice and harm others is much harder work to say the least. It is why you’re more fortunate than others given the fact you are able to selectively turn powers, skills, perks, etc on or off with a mental switch. This effect can just as equally be dialed back however much you want if you wish to have some things remaining in effect. Anything turned off will be made as if you’ve never had it in the first place to begin with.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 25,
-      "cost": 100,
-      "name": "Peak Human Body",
-      "source": "Harley Quinn Jumpchain",
-      "description": "A normal human can never measure up to the craziness of this city, but now you can. A combination of good genetics, and an active lifestyle has allowed you to attain physical perfection. You can now perform at the peak of human ability. This perk comes with great abs.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 26,
-      "cost": 100,
-      "name": "Personal Computer ",
-      "source": "X-Men Evolution Jumpchain V 1.02",
-      "description": "A heavily encrypted laptop that you can use to store all your secrets and important info without fear of someone stealing it. Master hackers would go mad trying to break into this device, only something like a technopathic alien or electrokinetic energy being could steal your secrets off this thing.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 27,
-      "cost": 100,
-      "name": "Police Academy ",
-      "source": "Harley Quinn Jumpchain",
-      "description": "You graduated from the Police Academy at the top of your classes. You are an excellent marksman, capable driver, and are well versed in the procedures of police conduct.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 28,
-      "cost": 100,
-      "name": "Porn Physics",
-      "source": "Something Unlimited Jump",
-      "description": "What would be the fun in going to a hentai world if it followed a more realistic logic related to all the dangers brought by having massive amounts of wild unprotected sex? Thankfully, you don’t have to worry about any of those things in this world. STDs are a thing of the past, unwanted pregnancies just don’t happen and all matters of hentai-logic actions not only don’t cause pain and damage but are actually as pleasurable as the porn claims they are.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 29,
-      "cost": 100,
-      "name": "Secret Double",
-      "source": "Soon I Will Be Invincible",
-      "description": "Turns out you’ve got a twin nobody knows about, or found someone who’s basically identical in appearance and mannerisms. They can hold down your secret identity every so often while you’re off saving the world – being able to do whatever your civilian identity can does. With this person on your side, nobody will ever wonder why the mild-mannered Jumper is never around when JumperMan (or JumperWoman) is on live TV.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 30,
-      "cost": 100,
-      "name": "Shades",
-      "source": "Blade",
-      "description": "These sunglasses look cool. Real cool, man. Somehow, despite appearing to be totally ordinary black sunglasses in any style you’d like, they seem to shift transparency to fit your mood or the situation. Want to give a soulful look or use your real eyes to glare at somebody? They’re almost transparent. Want that blank eyeless face? They’re completely opaque. They even get so reflective they could be used as a mirror. Also, they’re basically indestructible.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 31,
-      "cost": 100,
-      "name": "The Bag of Holding Stuff ",
-      "source": "Deadpool Jumpchain",
-      "description": "You’ve got too much crap to carry and not enough pockets—story of your life, right? Enter the Bag of Holding Stuff. It looks like a regular old backpack, but it can fit an entire arsenal in there. We’re talking weapons, snacks, gadgets—everything. And no matter how much you stuff in, it never gets heavier. The best part? It magically gives you what you need right when you need it. Who needs organization when you’ve got magic?",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 32,
-      "cost": 100,
-      "name": "The Carnival",
-      "source": "Teen Titans (by PsychoAnon)",
-      "description": "Aw, isn't this romantic? This carnival is a place you used to visit a lot in your past, and although it's abandoned it somehow still operates perfectly fine. It's got a ferris wheel, house of mirrors, game stands - all that fun stuff. It's a nice place to forget your troubles and relax, plus any dates you have here are much more likely to succeed.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 33,
-      "cost": 100,
-      "name": "Trench Coat",
-      "source": "Blade",
-      "description": "A cool black leather trenchcoat. This coat is waterproof, breathes easy, is light, and always looks badass. It’s really tough, but if it does manage to get damaged somehow, the rips will only make it look better. As-is, it has a conveniently placed hole for your sword’s handle to stick through (you do have a sword of some kind, I’m sure) and is very useful in a fight as a distraction, almost as though it was also designed as a bullfighter’s coat.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 34,
-      "cost": 200,
-      "name": "Beneath Notice ",
-      "source": "MCU: Age of Ultron Jump",
-      "description": "There are countless gods, demons, and nosy watchers in this Universe. You go unnoticed by these entities unless you are directly meddling with their affairs, then, they may take notice of you, but even then they will be unaware of your nature as a Jumper.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 35,
-      "cost": 200,
-      "name": "Booze ",
-      "source": "Lucifer (TV Show)",
-      "description": "A flask containing an endless supply of whatever beverage you desire. This can only be normal, non-supernatural drinks, so not trying to create potions of invulnerability.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 36,
-      "cost": 200,
-      "name": "Charisma Isn’t Your Dump Stat ",
-      "source": "Invincible - Jumpchain",
-      "description": "You my friend have charisma, a certain je ne sais quoi that surrounds you and your actions. Maybe it is the way you speak or the way you hold yourself. Regardless something about you draws other people in, it makes them pay attention to what you say and at the end of the day helps cement their loyalty to you. You have charisma like very few others, a presence that is so powerful that you would be able to get elected as the president on charisma alone. This knowledge of how to interact with other people is not just in you alone but something that you can channel into your speech writing and delivery. Allowing this writing to impact people so powerful that centuries later people will present what you said as eloquent, respectable, and simply amazing.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 37,
-      "cost": 200,
-      "name": "Contacts",
-      "source": "Megamind Jumpchain",
-      "description": "A binder full of information on local figures, updating each jump to provide you with a list of people who’d be willing to work with you if you get in contact with them. Includes contact information and enough context to know who each person is. The nature of these contacts adjusts to fit with your intentions for the jump.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 38,
-      "cost": 200,
-      "name": "Great Job in Class",
-      "source": "Rogue-Like: Evolution Jump V1.0.1",
-      "description": "As you’ll actually need to study and do all the tests here, this is a good option for you. By taking this perk, you’ll have all the skills and talents expected of a great student. Your learning abilities are greatly improved, allowing you to easily memorize texts and learn academic subjects. However, if you aren’t willing to do the effort needed to actually learn the subjects, you’re able to almost effortlessly get good enough grades here in the Institute. As a bonus, this also makes you extra charming with teachers like Emma Frost and Storm.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 39,
-      "cost": 200,
-      "name": "I Have This... Job",
-      "source": "Batman Beyond JumpChain CYOA",
-      "description": "From now on your civilian life will no longer interfere with your super heroic or super villainous career. If you're a hero you'll always be able to sneak away and save the day without arousing suspicion or permanently angering your friends. And if you're a villain you could easily take on heroes or perform illegal activities without anyone noticing. This perk will only work if you're acting like a superhero or super villain.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 40,
-      "cost": 200,
-      "name": "I Removed Myself From The Equation ",
-      "source": "Loki Jump",
-      "description": "Sometimes, if you think about the universe and your place in it, you can come to realise you’re a large part of the problem. If you wish, you can decide to completely isolate yourself from everything and everyone else, knowing a remote place to go. As long as you stay there and don’t try to get involved in anything, everything else will leave you alone. Even if you’re a feature of reality that isn’t supposed to exist or an outside element that needs to be removed, the forces governing such things will leave you alone if you deliberately isolate yourself. You’ll never have to worry about anyone stumbling across your hiding place, somehow getting dragged into events, or even suffering from collateral damage. The only real enemies you could face in this solitude are loneliness and boredom, for if you return to the wider world this protection will quickly fade away.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 41,
-      "cost": 200,
-      "name": "Kansas Farm ",
-      "source": "All-Star Superman A Jumpchain CYOA",
-      "description": "Just a small town girl...wait, we did that already. It’s a simple, mundane farm. You know, the family kind. Comes with a bunch of livestock and fertile soil for plenty of crops of your own choosing, plus things like a barn and a working tractor.. What are you waiting for? Get to work!",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 42,
-      "cost": 200,
-      "name": "Protected Sex",
-      "source": "Something Unlimited Jump",
-      "description": "Even if you’re immune to things like STDs, there are still risks when you’re banging superpowered beings, even more when they can’t control their abilities properly while they’re ... too excited. For example, Cheetah tends to scratch her partners with her razor-sharp claws while they’re banging, Giganta can wound her partners due to her size as she sometimes grows when she’s turned on, Livewire can enter in short circuit and potentially electrocute other people if she orgarms or if she is covered with certain fluids, and Killer Frost tends to freeze her partners, however Killer Frost’s actions might be more intentional than accidental as she’s a sadistic psychopath. Fortunately, this perk will protect you, allowing you to safely have sex with anyone without having to worry about damaging yourself or any of your partners involved in the action. Even actual wounds that aren’t intentional or are meant to be only a kinky thing during sex will heal perfectly without leaving a scar behind. Unfortunately, if your partner decides to actually attack you during sex, this protection will disappear.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 43,
-      "cost": 200,
-      "name": "Quantum Ore Shovel ",
-      "source": "Loki Jump",
-      "description": "Manufactured by Advanced Idea Mechanics, it’s not entirely clear what special properties this device should have. This one can be used to dig far more effectively than an ordinary shovel and with far less effort, as well as storing a large amount of the dug material within itself to be deposited elsewhere. If that’s not particularly useful for someone on the run from the TVA, you might appreciate its use as a distraction, as it will drawing the attention of others who see it should you activate it and leave it embedded somewhere.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 44,
-      "cost": 300,
-      "name": "Deceiver ",
-      "source": "Batman Beyond JumpChain CYOA",
-      "description": "Sweet words and good looks don't work on you. You're immune to being charmed into doing what someone wants, and you'll no longer lose your senses when confronted with someone who you'd normally instantly fall in love with.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 45,
-      "cost": 400,
-      "name": "Mister Caffeinator Deluxe 4000 ",
-      "source": "Superman The Animated Series - Jumpchain",
-      "description": "This is the ultimate coffee/espresso/latte/milkshake/panini press/bakery machine. Anything you've ever ordered from a coffee shop can be made here in seconds with the press of a button. All food and drinks are as delicious as physically possible and the caffeine from this machine magically has none of the side effects that caffeine usually has. It also never runs out or requires power, though the machine will start making you pay exorbitant prices if you start selling its products. Interns sold separately",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 46,
-      "cost": 400,
-      "name": "Montage",
-      "source": "Harley Quinn Jumpchain",
-      "description": "“Are you gonna help? Or is Batgirl too cool to help her dad in a montage where we skip past the hard parts of beating an alcohol addiction and cut to the part where I’m clean?” Once per year, you may accomplish a goal that you can reasonably accomplish, with a quick montage, allowing you to skip the hard parts of it.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 47,
-      "cost": 400,
-      "name": "No Fool",
-      "source": "Harley Quinn Jumpchain",
-      "description": "“I May Be Simple, But I'm Not A Fool. It Is Hard To Finally Admit It, But Since You Refuse To, I Will. I'm Not The Person For You.\". You know when to cut your losses. Not everything is meant to be, and you are capable of seeing when something is not going to work out. Even if other people are not able to see it, or just choose to ignore it. This is not only applicable to relationships, you may look at a plan, and see it is not going to work.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 48,
-      "cost": 600,
-      "name": "Jumper Mansion",
-      "source": "Rogue-Like: Evolution Jump V1.0.1",
-      "description": "You’re now officially the proud owner of your own mansion, built in the image and likeness of the original X-Mansion, counting with all of its facilities, such as the state-of-the-art classrooms, the pool, the showers, the campus square and the dormitory rooms. Your mansion will be located in a city of your choice anywhere in this world and any future world you visit, with it following you along your Chain and retaining any modifications done to it. Unfortunately, your mansion doesn’t come with a Cerebro or its Danger Room by default.",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 49,
-      "cost": 600,
-      "name": "Multiversal Travel",
-      "source": "Dr. Strange Multiverse of Madness\r\n",
-      "description": "This is the power that everyone is after, the ability to freely the multiverse. This gives you the power to create star shaped portals to other universes. You also can use this energy to enhance yourself. For example when America channeled the energy she was capable of matching Scarlet Witch temporarily and injured her. This energy can also be used as a powerful attack capable of cutting through space. There are few beings capable of surviving a blow like this. Lastly you will start out with proficient control over your abilities. You will be capable of opening and closing the portals at will to your targets. The power will be limited to your local multiverse",
-      "chapter": "Everyman"
-    },
-    {
-      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
-      "__line": 50,
-      "cost": 600,
-      "name": "Will to Get Up",
-      "source": "Harley Quinn Jumpchain",
-      "description": "Kite-Man is a regular human. He has no powers, no special skills, he only has his Kite, so, how does he manage to not only survive so far, but get up every time life or a supervillain puts him down? Let me tell you, he has an ironclad will power. Well that, or he is a comic relief character, but that can’t be it. You now possess a will power strong enough to shoulder any pain, and get up. Even the Dark Knight would be impressed by your sheer will.",
-      "chapter": "Everyman"
-    }
-  ],
-  "2": [
-    {
       "__source": "Celestial Comic Book by Gothicjedi666 - Aliens",
       "__line": 1,
       "cost": 100,
@@ -903,7 +451,7 @@
       "chapter": "Aliens"
     }
   ],
-  "3": [
+  "2": [
     {
       "__source": "Celestial Comic Book by Gothicjedi666 - CEO",
       "__line": 1,
@@ -1353,6 +901,458 @@
       "source": "The Boys Jump v4.0 ",
       "description": "One of the hardest parts of any business is to make sure no one breaks their word. Now, if you get someone to willingly sign a written contract, they will not be able to break it (at least willingly). For example, if someone signs a Non-Disclosure Agreement, they will be unable to tell the truth to anyone. These contracts are so effective that if you somehow get Billy Butcher to sign a piece of paper that says he will become Homelander’s servant, he will be forced to do it. The only way these contracts can be broken, is if you break your end of the deal.",
       "chapter": "CEO"
+    }
+  ],
+  "3": [
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 1,
+      "cost": 0,
+      "name": "Apple Brand Ipod",
+      "source": "Blade",
+      "description": "This is the best music player that ever has been or will be invented. Look at those clean lines, and that wonderfully intuitive UI! You know you want to use it all the time. While that’s... probably not a good idea, at least if you do want to fill it up with tunes you’ll not run out of space. So long as you’re just storing music to enjoy, you’ll find it’s impossible to fill. To give you a bit of a head start, there’s a full selection of the tunes you may have enjoyed from this world’s media.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 2,
+      "cost": 0,
+      "name": "General Jabs ",
+      "source": "Loki Jump",
+      "description": "The smallest things can make huge differences. Diseases you could pick up while you’re here could certainly change your story, but probably not for the better. You are now as immune as anyone else would be if they had access to all the local general vaccinations and treatments to deal with common viruses and allergies, and your immune system can deal with the less serious diseases you might encounter here fairly easily.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 3,
+      "cost": 0,
+      "name": "Great Looks ",
+      "source": "Something Unlimited Jump",
+      "description": "Almost everyone in this world is considerably good-looking, with the men usually having chiseled builds and women tending to look perfectly curvy, so you, my friend, won’t be an exception to this fact. In addition to having an appearance of around 7/10 and 8/10, you can also customize your appearance’s traits, deciding if you want to look rugged, curvy, masculine, seductive, toned, androgynous, delicate, feminine, cute, intimidating or even monstrous if that is what you wish. As a bonus, you’ll always look as good as possible for you considering whatever is your current condition.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 4,
+      "cost": 0,
+      "name": "Journalist",
+      "source": "Megamind Jumpchain",
+      "description": "You are an actual journalist, skilled in all parts of the job - from the actual research and fieldwork that goes into a story, to the public speaking and writing skills to write and present those stories in an engaging manner, and even a decent enough grasp of videography to be a well-qualified cameraman. Alternatively, you can get a similar spread of skills for some other profession of your choice. You can take this perk multiple times, picking up a new set of skills each time.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 5,
+      "cost": 0,
+      "name": "News Van",
+      "source": "Megamind Jumpchain",
+      "description": "Your own news van with everything needed to broadcast from location. It doesn’t need fuel and slowly repairs any damage it receives, including regular wear-and-tear. If you aren’t interested in playing cameraman or reporter, you can set up this van for another line of work of your choice. Maybe a food truck? Maybe you want to profit off of Metro City’s upcoming spike of demand for construction workers? Maybe you glow in the dark.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 6,
+      "cost": 0,
+      "name": "Off The Watch List",
+      "source": "Loki Jump",
+      "description": "It would be unfortunate, not to mention rather unfair, to be erased from existence or otherwise targeted because you’re not ‘supposed’ to exist in this particular reality, or struck down without warning because your mere presence is interfering with some grand cosmic plan. Now, entities and organisations such as The Watcher, The Ancient One and The TVA either won’t notice your presence and actions, not notice you as anything unusual, or will assume what you are doing is all according to a greater plan that they believe in. They’ll completely overlook or ignore you, preventing them from doing anything about your interference or presence... unless you go after them directly, at which point they might take notice.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 7,
+      "cost": 0,
+      "name": "Set of Art Supplies",
+      "source": "Invincible - Jumpchain",
+      "description": "A Set of basic supplies for a single type of artistic pursuit. Painting would come with high quality, paints, brushes and stand, cooking with knives, etc",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 8,
+      "cost": 0,
+      "name": "Soundtrack of the Galaxy",
+      "source": "MCU - Volume 1",
+      "description": "What's a good act of heroism or villainy without some kind of music to back you up? This will ensure that you have a fine selection of music that you feel defines the moment, whatever it may be. Superb orchestra, rock music, even a hefty dash of songs from the 1980s if that's your thing. I'll even throw in this handheld cassette player that can work in deep space to listen to it from if you feel like it. Plan and act your day with style.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 9,
+      "cost": 100,
+      "name": "Acrobatics",
+      "source": "Justice League Unlimited Jumpchain",
+      "description": "Quickly sprint over rooftops, dash through hazardous environments, and avoid being hit by your foes with graceful and impressive displays of agility. You’re skilled enough to easily avoid melee blows from mundane opponents, doge ranged attacks from most thrown weapons, and traverse complex environments like cities, secret labs, and alien hives well enough to keep up with your flying allies or outpace deadly pursuers.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 10,
+      "cost": 100,
+      "name": "Acting Skills ",
+      "source": "Harley Quinn Jumpchain",
+      "description": "Did you used to be an actor? You certainly seem to have the skills to be a Hollywood Movie star. That is even if you were ugly.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 11,
+      "cost": 100,
+      "name": "April Lane",
+      "source": "World Of Lewd Superheroes",
+      "description": "A local media personality who has somehow retained a smidgeon of her idealism and journalistic integrity, this spunky reporter is a huge fan of yours. As a hero you represent a shining beacon of what people with power should strive to emulate, and as a villain your sinister charm and bad boy appeal helps to make her long lonely nights a little warmer. Though enthusiastic about her job and genuinely good at it, enough that she could easily help make you a media star if you wanted, she has a tendency to get caught up in sticky situations and is adorably ignorant of the fact that a lot of her appeal comes from how she’s a bombshell brunette with baby-blue eyes, plump lips, an outrageous hourglass figure, and a pair of perfectly-formed tits so massive you’d almost think she was smuggling watermelons in her top, but her absurdly abundant cleavage makes it blindingly obvious that she’s ‘all natural’. Having long neglected her personal life in the pursuit of her career, she’d drop everything in a heartbeat if you called her over, especially for a ‘private interview’, especially the kind that involves your privates.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 12,
+      "cost": 100,
+      "name": "Artistic ",
+      "source": "Invincible - Jumpchain",
+      "description": "You are a master of an art. What art you ask? Any art,painting, sculpting, writing novels, cooking, and beyond. You are a master at some form of artistic expression, so talented and truly amazing that even as a nobody you will find yourself quickly becoming truly wealthy if you seek to market yourself. Your talent and capabilities are such that none can deny them. Want to top the New York Times Bestseller list? This is the perk for you. This perk may be purchased more than once for additional art forms,",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 13,
+      "cost": 100,
+      "name": "Counseling ",
+      "source": "Young Justice v1.1",
+      "description": "You possess the patience, care, and medical training Black Canary has. Through regular therapy sessions, you could help a group of teenagers who went through traumatic experiences, be the best version of themselves (emotionally). With this, you can even help the likes of Superboy, and Orion with their trauma, and help them through their anger issues.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 14,
+      "cost": 100,
+      "name": "Collection of Gifts ",
+      "source": "Rogue-Like: Evolution Jump V1.0.1",
+      "description": "How romantic. It appears you have acquired a supply of gifts for your possible partners, such as candies, varied flowers, perfumes, cute plush toys, interesting books, dildos, vibrators and other kinds of sex toys for example. All the gifts you receive by taking this item will be mundane and usually have no other uses for you than gifting them to your loved ones, but, as a bonus, the supply will always have gifts your partner(s) will enjoy receiving, including things like bags of fresh human blood if you’re dating a vampire for example. Lastly, this supply of gifts will be replenished weekly.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 15,
+      "cost": 100,
+      "name": "Escape Artistry",
+      "source": "Justice League Unlimited Jumpchain",
+      "description": "You're a pro at getting out of traps and bindings. You could easily escape from any normal kidnapper or prison, and I'm sure plenty of magicians would love to have you as a partner. While you're not yet capable to escaping from anything designed by a super genius or advanced civilization, you can easily learn how to with a bit of study or experience.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 16,
+      "cost": 100,
+      "name": "Fighter ",
+      "source": "Invincible - Jumpchain",
+      "description": "You are a master at some form of combat. With each purchase of this perk you become a master of a single form of combat. With a purchase of this you could snipe like Simo Häyhä, or be a Master of Jeet Kun Do on the level of Bruce Lee",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 17,
+      "cost": 100,
+      "name": "Full Of Song ",
+      "source": "Loki Jump",
+      "description": "It’s easy for you to become the life of a party, even cheering people up that are trying to flee an imminent apocalypse. Not only do you know a wide selection of songs and have a good memory for new ones, but you also possess an excellent singing voice.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 18,
+      "cost": 100,
+      "name": "Happy-Go-Lucky Goth",
+      "source": "DC Occult",
+      "description": "​What’s this? It seems an incredibly pale and perky goth girl with a fondness for ankhs and a zest for life has taken to following you around. She seems to be an entirely mundane human but is utterly unflappable and frustratingly vague when asked about herself. How odd.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 19,
+      "cost": 100,
+      "name": "Hentai Protagonist’s Luck ",
+      "source": "Rogue-Like: Evolution Jump V1.0.1",
+      "description": "You have a pretty unique kind of luck with situations that are very commonly seen in ecchi and hentai protagonists. You’re a magnet to situations involving people you’re attracted to like a woman falling with her tits on your face, skirts being lifted by the wind, or “accidentally” entering a room and catching people changing clothes or masturbating. As a bonus, the people involved in said situations will never get mad with you, so you don't have to worry about tsunderes punching you for something you're technically not at fault for, unless you’re actually doing will ill intent like if you’re planning to get some blackmail material to use on them for example.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 20,
+      "cost": 100,
+      "name": "I’m the Best There is at What I Do ",
+      "source": "Rogue-Like: Evolution Jump V1.0.1",
+      "description": "You seem to already have a good wealth of knowledge and a set of skills that will be useful here. Basically, you’re pretty skilled with various different sexual techniques and positions as well as knowing a lot of basic seduction tactics, which includes how to act like a gentleman and several interesting pickup lines that won’t result in your potential partner finding you pathetic and/or slapping you in the face. As a bonus, you’re also very good with massages and kissing in general, being potentially one of the best kissers in the entire Xavier Institute.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 21,
+      "cost": 100,
+      "name": "Impressive Specimen ",
+      "source": "Something Unlimited Jump",
+      "description": "If you follow things closer to what the game offers, you’ll need to keep up with multiple partners over the entire day. Fortunately, you’re more than able to do this. You have great sexual stamina, allowing you to go on for several hours and reaching orgasm several times before needing a break. Even if you’re left fully emptied, a good night of sleep will always be more than enough to fully replenish your sexual stamina. As a bonus, if you want to, you can also temporarily share this benefit with your partners, allowing them to accompany you. Furthermore, your sexual fluids will also be incredibly delicious and your cock/pussywill also be ... impressive, both in taste and appearance.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 22,
+      "cost": 100,
+      "name": "Leather Outfit and Bike Helmet:",
+      "source": "Blade",
+      "description": "This full outfit (with a heavy leather jacket, pants, gloves, and a darkened bike helmet) are really good for keeping you from getting a permanent sunburn. In fact, they block U.V. rays so completely even a pureblood vampire could walk around outside on a nice day. Though the traditional choice would be black, they can come in any color scheme you’d like, and actually stop so much radiation they could probably serve as a hazmat suit, even though it’s not really sealed.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 23,
+      "cost": 100,
+      "name": "Loft",
+      "source": "Megamind Jumpchain",
+      "description": "A frankly spacious and luxurious apartment with a great view of the city. It comes furnished to your standards, doesn’t cost anything to keep, and even cleans and organizes itself when you aren’t looking.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 24,
+      "cost": 100,
+      "name": "On/Off",
+      "source": "X-Men Evolution Jumpchain V 1.02",
+      "description": "Being a student is hard work. Being a student with dangerous powers that can go off at a moments notice and harm others is much harder work to say the least. It is why you’re more fortunate than others given the fact you are able to selectively turn powers, skills, perks, etc on or off with a mental switch. This effect can just as equally be dialed back however much you want if you wish to have some things remaining in effect. Anything turned off will be made as if you’ve never had it in the first place to begin with.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 25,
+      "cost": 100,
+      "name": "Peak Human Body",
+      "source": "Harley Quinn Jumpchain",
+      "description": "A normal human can never measure up to the craziness of this city, but now you can. A combination of good genetics, and an active lifestyle has allowed you to attain physical perfection. You can now perform at the peak of human ability. This perk comes with great abs.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 26,
+      "cost": 100,
+      "name": "Personal Computer ",
+      "source": "X-Men Evolution Jumpchain V 1.02",
+      "description": "A heavily encrypted laptop that you can use to store all your secrets and important info without fear of someone stealing it. Master hackers would go mad trying to break into this device, only something like a technopathic alien or electrokinetic energy being could steal your secrets off this thing.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 27,
+      "cost": 100,
+      "name": "Police Academy ",
+      "source": "Harley Quinn Jumpchain",
+      "description": "You graduated from the Police Academy at the top of your classes. You are an excellent marksman, capable driver, and are well versed in the procedures of police conduct.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 28,
+      "cost": 100,
+      "name": "Porn Physics",
+      "source": "Something Unlimited Jump",
+      "description": "What would be the fun in going to a hentai world if it followed a more realistic logic related to all the dangers brought by having massive amounts of wild unprotected sex? Thankfully, you don’t have to worry about any of those things in this world. STDs are a thing of the past, unwanted pregnancies just don’t happen and all matters of hentai-logic actions not only don’t cause pain and damage but are actually as pleasurable as the porn claims they are.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 29,
+      "cost": 100,
+      "name": "Secret Double",
+      "source": "Soon I Will Be Invincible",
+      "description": "Turns out you’ve got a twin nobody knows about, or found someone who’s basically identical in appearance and mannerisms. They can hold down your secret identity every so often while you’re off saving the world – being able to do whatever your civilian identity can does. With this person on your side, nobody will ever wonder why the mild-mannered Jumper is never around when JumperMan (or JumperWoman) is on live TV.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 30,
+      "cost": 100,
+      "name": "Shades",
+      "source": "Blade",
+      "description": "These sunglasses look cool. Real cool, man. Somehow, despite appearing to be totally ordinary black sunglasses in any style you’d like, they seem to shift transparency to fit your mood or the situation. Want to give a soulful look or use your real eyes to glare at somebody? They’re almost transparent. Want that blank eyeless face? They’re completely opaque. They even get so reflective they could be used as a mirror. Also, they’re basically indestructible.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 31,
+      "cost": 100,
+      "name": "The Bag of Holding Stuff ",
+      "source": "Deadpool Jumpchain",
+      "description": "You’ve got too much crap to carry and not enough pockets—story of your life, right? Enter the Bag of Holding Stuff. It looks like a regular old backpack, but it can fit an entire arsenal in there. We’re talking weapons, snacks, gadgets—everything. And no matter how much you stuff in, it never gets heavier. The best part? It magically gives you what you need right when you need it. Who needs organization when you’ve got magic?",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 32,
+      "cost": 100,
+      "name": "The Carnival",
+      "source": "Teen Titans (by PsychoAnon)",
+      "description": "Aw, isn't this romantic? This carnival is a place you used to visit a lot in your past, and although it's abandoned it somehow still operates perfectly fine. It's got a ferris wheel, house of mirrors, game stands - all that fun stuff. It's a nice place to forget your troubles and relax, plus any dates you have here are much more likely to succeed.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 33,
+      "cost": 100,
+      "name": "Trench Coat",
+      "source": "Blade",
+      "description": "A cool black leather trenchcoat. This coat is waterproof, breathes easy, is light, and always looks badass. It’s really tough, but if it does manage to get damaged somehow, the rips will only make it look better. As-is, it has a conveniently placed hole for your sword’s handle to stick through (you do have a sword of some kind, I’m sure) and is very useful in a fight as a distraction, almost as though it was also designed as a bullfighter’s coat.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 34,
+      "cost": 200,
+      "name": "Beneath Notice ",
+      "source": "MCU: Age of Ultron Jump",
+      "description": "There are countless gods, demons, and nosy watchers in this Universe. You go unnoticed by these entities unless you are directly meddling with their affairs, then, they may take notice of you, but even then they will be unaware of your nature as a Jumper.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 35,
+      "cost": 200,
+      "name": "Booze ",
+      "source": "Lucifer (TV Show)",
+      "description": "A flask containing an endless supply of whatever beverage you desire. This can only be normal, non-supernatural drinks, so not trying to create potions of invulnerability.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 36,
+      "cost": 200,
+      "name": "Charisma Isn’t Your Dump Stat ",
+      "source": "Invincible - Jumpchain",
+      "description": "You my friend have charisma, a certain je ne sais quoi that surrounds you and your actions. Maybe it is the way you speak or the way you hold yourself. Regardless something about you draws other people in, it makes them pay attention to what you say and at the end of the day helps cement their loyalty to you. You have charisma like very few others, a presence that is so powerful that you would be able to get elected as the president on charisma alone. This knowledge of how to interact with other people is not just in you alone but something that you can channel into your speech writing and delivery. Allowing this writing to impact people so powerful that centuries later people will present what you said as eloquent, respectable, and simply amazing.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 37,
+      "cost": 200,
+      "name": "Contacts",
+      "source": "Megamind Jumpchain",
+      "description": "A binder full of information on local figures, updating each jump to provide you with a list of people who’d be willing to work with you if you get in contact with them. Includes contact information and enough context to know who each person is. The nature of these contacts adjusts to fit with your intentions for the jump.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 38,
+      "cost": 200,
+      "name": "Great Job in Class",
+      "source": "Rogue-Like: Evolution Jump V1.0.1",
+      "description": "As you’ll actually need to study and do all the tests here, this is a good option for you. By taking this perk, you’ll have all the skills and talents expected of a great student. Your learning abilities are greatly improved, allowing you to easily memorize texts and learn academic subjects. However, if you aren’t willing to do the effort needed to actually learn the subjects, you’re able to almost effortlessly get good enough grades here in the Institute. As a bonus, this also makes you extra charming with teachers like Emma Frost and Storm.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 39,
+      "cost": 200,
+      "name": "I Have This... Job",
+      "source": "Batman Beyond JumpChain CYOA",
+      "description": "From now on your civilian life will no longer interfere with your super heroic or super villainous career. If you're a hero you'll always be able to sneak away and save the day without arousing suspicion or permanently angering your friends. And if you're a villain you could easily take on heroes or perform illegal activities without anyone noticing. This perk will only work if you're acting like a superhero or super villain.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 40,
+      "cost": 200,
+      "name": "I Removed Myself From The Equation ",
+      "source": "Loki Jump",
+      "description": "Sometimes, if you think about the universe and your place in it, you can come to realise you’re a large part of the problem. If you wish, you can decide to completely isolate yourself from everything and everyone else, knowing a remote place to go. As long as you stay there and don’t try to get involved in anything, everything else will leave you alone. Even if you’re a feature of reality that isn’t supposed to exist or an outside element that needs to be removed, the forces governing such things will leave you alone if you deliberately isolate yourself. You’ll never have to worry about anyone stumbling across your hiding place, somehow getting dragged into events, or even suffering from collateral damage. The only real enemies you could face in this solitude are loneliness and boredom, for if you return to the wider world this protection will quickly fade away.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 41,
+      "cost": 200,
+      "name": "Kansas Farm ",
+      "source": "All-Star Superman A Jumpchain CYOA",
+      "description": "Just a small town girl...wait, we did that already. It’s a simple, mundane farm. You know, the family kind. Comes with a bunch of livestock and fertile soil for plenty of crops of your own choosing, plus things like a barn and a working tractor.. What are you waiting for? Get to work!",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 42,
+      "cost": 200,
+      "name": "Protected Sex",
+      "source": "Something Unlimited Jump",
+      "description": "Even if you’re immune to things like STDs, there are still risks when you’re banging superpowered beings, even more when they can’t control their abilities properly while they’re ... too excited. For example, Cheetah tends to scratch her partners with her razor-sharp claws while they’re banging, Giganta can wound her partners due to her size as she sometimes grows when she’s turned on, Livewire can enter in short circuit and potentially electrocute other people if she orgarms or if she is covered with certain fluids, and Killer Frost tends to freeze her partners, however Killer Frost’s actions might be more intentional than accidental as she’s a sadistic psychopath. Fortunately, this perk will protect you, allowing you to safely have sex with anyone without having to worry about damaging yourself or any of your partners involved in the action. Even actual wounds that aren’t intentional or are meant to be only a kinky thing during sex will heal perfectly without leaving a scar behind. Unfortunately, if your partner decides to actually attack you during sex, this protection will disappear.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 43,
+      "cost": 200,
+      "name": "Quantum Ore Shovel ",
+      "source": "Loki Jump",
+      "description": "Manufactured by Advanced Idea Mechanics, it’s not entirely clear what special properties this device should have. This one can be used to dig far more effectively than an ordinary shovel and with far less effort, as well as storing a large amount of the dug material within itself to be deposited elsewhere. If that’s not particularly useful for someone on the run from the TVA, you might appreciate its use as a distraction, as it will drawing the attention of others who see it should you activate it and leave it embedded somewhere.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 44,
+      "cost": 300,
+      "name": "Deceiver ",
+      "source": "Batman Beyond JumpChain CYOA",
+      "description": "Sweet words and good looks don't work on you. You're immune to being charmed into doing what someone wants, and you'll no longer lose your senses when confronted with someone who you'd normally instantly fall in love with.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 45,
+      "cost": 400,
+      "name": "Mister Caffeinator Deluxe 4000 ",
+      "source": "Superman The Animated Series - Jumpchain",
+      "description": "This is the ultimate coffee/espresso/latte/milkshake/panini press/bakery machine. Anything you've ever ordered from a coffee shop can be made here in seconds with the press of a button. All food and drinks are as delicious as physically possible and the caffeine from this machine magically has none of the side effects that caffeine usually has. It also never runs out or requires power, though the machine will start making you pay exorbitant prices if you start selling its products. Interns sold separately",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 46,
+      "cost": 400,
+      "name": "Montage",
+      "source": "Harley Quinn Jumpchain",
+      "description": "“Are you gonna help? Or is Batgirl too cool to help her dad in a montage where we skip past the hard parts of beating an alcohol addiction and cut to the part where I’m clean?” Once per year, you may accomplish a goal that you can reasonably accomplish, with a quick montage, allowing you to skip the hard parts of it.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 47,
+      "cost": 400,
+      "name": "No Fool",
+      "source": "Harley Quinn Jumpchain",
+      "description": "“I May Be Simple, But I'm Not A Fool. It Is Hard To Finally Admit It, But Since You Refuse To, I Will. I'm Not The Person For You.\". You know when to cut your losses. Not everything is meant to be, and you are capable of seeing when something is not going to work out. Even if other people are not able to see it, or just choose to ignore it. This is not only applicable to relationships, you may look at a plan, and see it is not going to work.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 48,
+      "cost": 600,
+      "name": "Jumper Mansion",
+      "source": "Rogue-Like: Evolution Jump V1.0.1",
+      "description": "You’re now officially the proud owner of your own mansion, built in the image and likeness of the original X-Mansion, counting with all of its facilities, such as the state-of-the-art classrooms, the pool, the showers, the campus square and the dormitory rooms. Your mansion will be located in a city of your choice anywhere in this world and any future world you visit, with it following you along your Chain and retaining any modifications done to it. Unfortunately, your mansion doesn’t come with a Cerebro or its Danger Room by default.",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 49,
+      "cost": 600,
+      "name": "Multiversal Travel",
+      "source": "Dr. Strange Multiverse of Madness\r\n",
+      "description": "This is the power that everyone is after, the ability to freely the multiverse. This gives you the power to create star shaped portals to other universes. You also can use this energy to enhance yourself. For example when America channeled the energy she was capable of matching Scarlet Witch temporarily and injured her. This energy can also be used as a powerful attack capable of cutting through space. There are few beings capable of surviving a blow like this. Lastly you will start out with proficient control over your abilities. You will be capable of opening and closing the portals at will to your targets. The power will be limited to your local multiverse",
+      "chapter": "Everyman"
+    },
+    {
+      "__source": "Celestial Comic Book by Gothicjedi666 - Everyman",
+      "__line": 50,
+      "cost": 600,
+      "name": "Will to Get Up",
+      "source": "Harley Quinn Jumpchain",
+      "description": "Kite-Man is a regular human. He has no powers, no special skills, he only has his Kite, so, how does he manage to not only survive so far, but get up every time life or a supervillain puts him down? Let me tell you, he has an ironclad will power. Well that, or he is a comic relief character, but that can’t be it. You now possess a will power strong enough to shoulder any pain, and get up. Even the Dark Knight would be impressed by your sheer will.",
+      "chapter": "Everyman"
     }
   ],
   "4": [

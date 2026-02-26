@@ -273,278 +273,6 @@
   ],
   "2": [
     {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 1,
-      "cost": 0,
-      "name": "Oculus Fighter",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "The Oculus Fighter is a small, agile spacecraft used by the Reapers for reconnaissance and interception. With a length of only 20 meters, the Oculus is one of the smallest Reaper ships, but it is no less deadly. It is equipped with advanced sensor systems and communications arrays, allowing it to track enemy ships and relay information back to Reaper command. The Oculus is armed with a pair of mass accelerator cannons and can be fitted with additional weapons, such as missiles or drones, depending on the mission requirements. Its maneuverability and speed make it a difficult target to hit, and it is often used to harry and distract enemy ships while larger Reaper vessels move into position.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 2,
-      "cost": 100,
-      "name": "Air Car ",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "One of the finest on the market, this is the kind of car you'd find in the garages of the rich and powerful. It's easy to drive, can reach altitudes of 50 miles, has four luxurious seats, bulletproof windows, a trunk large enough to hold a body, and many more amenities that you'd expect a vehicle like this to. Best part is, you never have to worry about fuel or recharging again.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 3,
-      "cost": 100,
-      "name": "Research & Development Center ",
-      "source": "Mass Effect: Andromeda JumpChain",
-      "description": "The R&D center is integral to the Initiative’s colonization efforts in the Heleus cluster. There is one in every settlement. As you increase the amount of information you discover, the more you will be able to progress and discover in the Research section. And Development allows a user to build any object that you have the blueprints/plans for and resources to make it. If you have a ship, you can choose to integrate this into the ship. While the R&D centre is initially limited to making things that are man portable, with the appropriate upgrades, that may change. After all, Remnant Vaults have such interesting technology...",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 4,
-      "cost": 200,
-      "name": "Kodiak Shuttle ",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "Often called the \"Combat Cockroach\" by the Human Alliance, the government that made and primarily uses it, this is a durable personnel carrier capable of planetary flight and limited FTL. It can carry up to 14 people, including the pilots and a VI, and can withstand hard vacuums, high pressure, and temperatures from near-absolute zero to over 900 degrees Celsius.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 5,
-      "cost": 200,
-      "name": "M35 Mako",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "This vehicle was designed by the Human Alliance for their frigates, made for rapid deployment, and can be deployed on virtually any world. It's armor is tough enough to withstand high drops, extreme heat and cold and rough terrain, with the suspension and propulsion system allowing the vehicle to adapt to various terrain. It's not unarmed either, as it is in possession of a 155mm mass accelerator and a mounted machine gun, it's perfect for both travel and combat.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 6,
-      "cost": 200,
-      "name": "Shuttle",
-      "source": "Mass Effect: Andromeda JumpChain",
-      "description": "Your choice of a Nexus, Angaran, or Kett Shuttle. All of these have FTL capability, can carry a squad’s worth of people, and has a moderate amount of resistance to environmental issues such as radiation or deadly winds. If it gets hit by lightning though, it’s basically a goner, unless you put some upgrades in. If the Shuttle is destroyed, it will respawn in 48 hours either in your warehouse or on a landing pad, whichever is more convenient.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 7,
-      "cost": 200,
-      "name": "Mantis Gunship ",
-      "source": "Mass Effect - Jumpchain",
-      "description": "With this baby, you could hold off a small army from taking an important city. At least until you run out of ammo! Well, not like that’s a problem for you Jumper. This baby is vacuum capable, if only in an extremely limited sense, equipped with kinetic barriers, thick armor, micro rocket pods, an autocannon, and advanced in atmosphere flight capabilities, this beauty is lethal. You’d even be a threat against most civilian ships, such is the power of your heaviest weapons!",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 8,
-      "cost": 200,
-      "name": "Atlas Mech",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "When there are giant monsters, when one man isn't enough, when all else fails, there will always be giant fighting robots. Okay, that might be an exaggeration, but this machine designed by the human terrorist organization Cerberus is an impressive piece of tech. It combines the deadly armor and firepower of a YMIR mech with the tactical superiority of a trained pilot. Equipped with a powerful rocket launcher and a high-power mass accelerator cannon, powerful kinetic shields and a polycrystalline composite hull, it's sure to be a terror on any battlefield.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 9,
-      "cost": 200,
-      "name": "Weapons Locker",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "When there is a problem, the answer you're looking for can often be found in the form of a gun. And if that doesn't work, use more guns. You now have a shipment filled with all sorts of handheld weapons found in this Cycle of the galaxy, enough to arm an entire battalion of troops. If any of them are broken, then you'll find a brand new replacement waiting in your Warehouse. Never let it be said that you don't have enough firepower.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 10,
-      "cost": 200,
-      "name": "Armor Locker ",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "Armor is a very important part of a battle, and has been since our ancestors first adorned fur covers. This shipment is absolutely filled with all sorts of armor for all sorts of modern races, from Volus to Krogan, along with kinetic shields to match, enough to outfit an entire battalion. If any of these are broken or destroyed, you'll find a brand new replacement waiting in your Warehouse or on your ship.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 11,
-      "cost": 200,
-      "name": "YMIR Mech",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "The YMIR Mech is a massive and powerful combat robot, capable of taking on entire squads of enemy soldiers and emerging victorious. Its heavy armor and shielding make it nearly impervious to small arms fire, while its twin heavy machine guns can shred through infantry and light vehicles with ease. In addition to its powerful armaments, the YMIR Mech also has the ability to enter a compact state for easy transportation. This makes it an excellent choice for mercenary companies or other organizations that need to move large amounts of heavy firepower quickly. With this purchase, you will gain access to three fully operational YMIR Mechs, as well as the blueprints and technology necessary to manufacture more.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 12,
-      "cost": 800,
-      "name": "Azazil",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "The Reapers are ancient beings, driven by a misguided mission. They are horrifying opponents, but potentially a powerful ally. This Reaper is not held back by the same code that controls it's brethren, and has decided to use it's newfound freedom to help you. How fortunate. Azazil has all of the abilities that you'd expect on a standard Reaper, but is interestingly not capable of Indoctrination. It isn't really concerned about regaining this ability, or doing much of anything, really. It might be a bit lazy.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 13,
-      "cost": 400,
-      "name": "The Destiny Ascension",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "This massive Asari dreadnought is the flagship of the Citadel Fleet, and there will be many questions on how you own one of your own. It's easily four times the size of the largest human spaceship, and has a functioning crew numbering 10,000. It's rumoured that it has enough firepower to match the rest of the Asari fleet, and you'd believe it, as its weapons can punch through a Reaper's defences with a few shots. Its defences are also impressive, as while it's not as good as a Reaper, it's still the apex of what the Citadel Races can achieve.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 14,
-      "cost": 400,
-      "name": "Normandy SR-2 ",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "Soon to be one of the most iconic ships in the galaxy, this \"deep scout\" frigate was co-developed by the Human Alliance and the Turian Hierarchy, and upgraded by Cerberus. It's stealth system is the main selling point of this ship, storing any heat generated in lithium heat sinks deep within the hull. Twice the size of the original, it has many amenities that make it very comfortable for its crew while still being an effective ship. It is also open to installing an AI within, allowing it to control the many systems within effectively.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 15,
-      "cost": 400,
-      "name": "Arcturus II",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Actually named the Orion, this is a prototype deep space station that disappeared during a malfunction with an experimental FTL drive. Aside from the phrase liberate tutemet ex inferis scrawled in blood over the docking bay, and the command compartment looking like Slaanesh and Khorne had a baby, it’s mostly intact. Fully stocked and supplied, including a full crew compliment of LOKI mechs, sitting quietly above an out of the way planet in and out of the way system in an out of the way corner of the galaxy. Of course, some of the megaliths on said planet look pretty ominous, but that’s surely nothing serious. In fact, it’s got level after level of limited production and resource refining facilities, all the subsystems you would need to house up to fifty thousand people, enough weapons to duel three or four Reapers and win, and it even comes fully loaded with all the supplies, resources, and equipment you would expect to find on one of the most powerful defensive stations to have ever existed. And hey, if you snoop around its exhaustive research facilities enough, maybe you can even figure out how to turn its engines back on!",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 16,
-      "cost": 400,
-      "name": "The SSV Normandy SR-1 ",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Congratulations! You’re now the proud owner of a near exact replica of a prototype military stealth frigate. She’s got guns, big honking engines, and she’s mean as all get out. Assuming a more advanced alien race doesn’t use her for target practice, of course. She’s also yours to customize. Change her name, her paint job, her decals, anything at all you want. Just be warned, if anyone realizes what you’re flying, they will ask questions. By default, she comes with a crew of LOKI mechs. They will... keep her operational but don’t expect them to do more than the absolute bare minimum. I hope you’ve got a crew.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 17,
-      "cost": 400,
-      "name": "Shadow Hand ",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Incredibly advanced, massive, and incredibly secretive, this ship is the home base of the Shadow Broker... and now you. Equipped with hard light constructs, a horde of maintenance mechs, and deck after deck of sensor and communications equipment and you have one of the two most advanced command and control vessels every created. Reams of economic data, hundreds of thousands of secure servers, quantum communications arrays, and access to nearly every possible data stream that an information broker could ever dream of is more than available onboard this pinnacle of luxury and terror. Torture suite’s located in the dungeon, in case you were wondering.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 18,
-      "cost": 400,
-      "name": "Space Station",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "For so long, sentient life has looked to the stars and wished to live amongst them. And now, you can. This space station of your own design is practically a metropolis on its own, with all the necessary amenities and systems that would include. It's reactor will never run out of energy to power everything, and you'll find any damaged areas repaired within about an hour. Now, should you be the creative type, any upgrades you or your companions might install within this station will be fiat backed as if it was there all along.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 19,
-      "cost": 500,
-      "name": "Omega ",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "Omega is a mobile space station that has been retrofitted as a criminal hub and a center of black market activities. It is a hub for smugglers, mercenaries, and other unsavory characters, making it an ideal location for recruiting soldiers and acquiring resources. Omega Station is also heavily armed and armored, making it a formidable force in any battle. Its FTL engines allow it to quickly deploy to any location in the galaxy, making it an excellent base of operations for covert missions.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 20,
-      "cost": 500,
-      "name": "Kronos Station ",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "Kronos Station is the original headquarters of Cerberus and one of their most heavily defended locations. This is a heavily fortified mobile space station that has been retrofitted as a Heavy Weapon Platform. It is equipped with state-of-the-art weapons and technology, making it a formidable force in any battle. With its advanced FTL engines, Kronos Station can be deployed to any point in the galaxy to serve as a Forward Operating Base, providing tactical support and strategic advantages to your forces. Aside from its role as a powerful fortress this facility is filled with a vast number of powerful warriors such as Phantoms, Assault Troopers, Guardians, and Atlas Mechs",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 21,
-      "cost": 500,
-      "name": "Purgatory Prison Ship",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "A massive prison ship, similar to the one used by the Blue Suns in the Omega Nebula. The Purgatory Prison Ship is designed to hold dangerous criminals and keep them isolated from the rest of the galaxy. It has multiple levels, with each level being more heavily guarded and more dangerous than the one before it. The ship is heavily armed and well-defended, making any escape attempts nearly impossible. The Purgatory Prison Ship can be summoned and controlled by the jumper, allowing them to use it as a mobile base or a tool for capturing and imprisoning enemies. The ship is equipped with advanced technology that allows it to scan and detect criminal activity, making it an effective tool for tracking down wanted fugitives. Additionally, the ship comes with a variety of weapons and equipment that can be used by the jumper or their companions. This includes advanced security gear, heavy weapons, and even a fleet of small fighters that can be launched from the ship. Overall, the Purgatory Prison Ship is an extremely valuable asset that can be used for a variety of purposes, from capturing and imprisoning dangerous criminals to providing a mobile base of operations for the jumper and their allies.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 22,
-      "cost": 600,
-      "name": "Tempest-class",
-      "source": "Mass Effect: Andromeda JumpChain",
-      "description": "You get a copy of the Tempest survey ship, and all ships of this type are meant for long-range, long-term exploration. It doesn’t have any weapons, but it’s got a research center, tech lab, bio lab, crew quarters, your quarters (which are the biggest on the ship), med bay, a vehicle bay, and a ODSY drive that’s nice and stealthy. It also somehow has an Internal Emission Sink stealth system, which is a classified stealth system developed by the Turian Hierarchy and the Systems Alliance. You will have to source your own pilot though: Kallo Jath may have helped build the Tempest-class ships, but he’s loyal to the one he made with his compatriots.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 23,
-      "cost": 600,
-      "name": "Cruiser",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Actual fire power, and the mainstay of conventional space navies, the cruiser is more of an investment than a ride. You have at your fingertips a ship capable of gutting any civilian vessels and most smaller military ships in a single volley. Even other cruisers tend to die in a relatively small number of shots. Though that same flimsiness is also imparted upon you as well. In terms of pure gratis, you have a rather impressive range, easily able to run for months without needing resupply, a crew of LOKI mechs to manage your ship’s needs, and all of the specialized rooms one would expect on a cruiser. This includes a science lab, captain’s quarters, fabrication benches, medical suite, armory, and even a hanger large enough to serve as a training room and gym in one. While not as developed as the SR-2 technologically speaking, your ship is much better suited for the rigors of pure combat and much, much lower profile. Despite needing to use one of your two complimentary shuttles to operate in atmosphere, you won’t have entire nation states freaking out about you having a stealth cruiser. And if you’re lucky, or rich, enough they might even buy the story you’re telling them about how it’s totally legitimate for a civilian to own a piece of hyper lethal military hardware.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 24,
-      "cost": 600,
-      "name": "Nexus Station",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "Nexus Station is a mobile space station that has been retrofitted as a diplomatic hub. It is equipped with advanced communication systems and facilities for hosting negotiations and other diplomatic events. The station is also home to some of the galaxy's most prominent diplomats and politicians, making it an ideal location for forging alliances and establishing treaties. With its powerful engines, Nexus Station can quickly travel to any point in the galaxy, making it an invaluable asset for any faction seeking to expand its influence and establish new relationships with other factions.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 25,
-      "cost": 600,
-      "name": "Geth Dreadnought",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "The Geth Dreadnought is a massive warship used by the synthetic race known as the Geth. It is heavily armed and armored, and is capable of generating powerful energy shields that protect it from all but the most powerful attacks. The Geth Dreadnought is operated by a sophisticated AI, and is capable of coordinating with other Geth ships to devastating effect. It is often used by the Geth for offensive purposes, and is a feared sight on the battlefield.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 26,
-      "cost": 800,
-      "name": "Collector Cruiser",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Second in advancement only to the Reapers themselves, this ship is as much a mobile hive as it is a ship of war. Utilizing advanced technologies, including some (non brainwashing) Reaper tech, it’s faster, better armed, better armored, and more sensitive than any other cruiser in the galaxy. Able to use esoteric sensors, possessing hyper efficient reactors, able to gut dreadnoughts, this is, unquestionably, one of the best ships in the galaxy. And, even though it lacks any real stealth capability, it still has an advanced electronic warfare suite, communications and sensor jammers, and even a seeker swarm that you can deploy in battle. Even better, you get a full hive of collectors to man and maintain it for you. They’re weird, but fanatically loyal and the Reapers can’t seize control of them unless you let them.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 27,
-      "cost": 800,
-      "name": "Mass Relay Network",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "The greatest and most useful system around when it comes to travelling across the galaxy, the Mass Relays can transport starships instantaneously to another relay within the network, allowing for journeys that would otherwise take years or even centuries with only FTL drives. You now have an extensive network of these following you from world to world, with one Mass Relay in every solar system within the Milky Way galaxy, or whatever galaxy you initially start in. You have admin privileges, so you can turn off individual relays, limit what can pass through them, and even remove their safety systems, essentially turning them into giant interstellar railguns. Should you own the [Citadel] then you can do all of these and more from the space station, as opposed to having to manually do it for each relay. If any are damaged or destroyed, either by your hand or another's, they will be fully repaired in your next Jump.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 28,
-      "cost": 800,
-      "name": "Quarian Flotilla",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "The Quarian Flotilla is a massive fleet composed of hundreds of ships, each home to a small part of the Quarian race. The fleet is led by the Admiralty Board, a council of the most experienced captains and tacticians in the Flotilla. The ships are equipped with advanced engineering systems, allowing them to repair damage quickly in the heat of battle. By purchasing this option, you can claim the Quarian Flotilla for yourself, giving you access to the full might of the Quarian fleet. You will also gain the loyalty of the Quarian people, who will fight alongside you,",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 29,
-      "cost": 800,
-      "name": "Volus Trade Fleet",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "The Volus Trade Fleet is a massive collection of cargo ships that spans the entire galaxy. The fleet is operated by the Volus, a race of small but industrious beings known for their expertise in trade and commerce. Each ship is equipped with advanced Volus technology, including state-of-the-art communication systems and powerful engines. By purchasing this option, you will gain control of the Volus Trade Fleet and all of its resources. You can use this fleet to establish lucrative trade routes, or to defend your cargo against pirates and other threats.",
-      "chapter": "The Ship"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Ship",
-      "__line": 30,
-      "cost": 900,
-      "name": "Asari Armada",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "The Asari Armada is a formidable force made up of hundreds of warships, including dreadnoughts, cruisers, frigates, and fighters. The armada is commanded by the most experienced and skilled asari commanders and is equipped with advanced asari technology, including biotic amplifiers, energy shields, and mass effect fields. With their mastery of biotics and tactical abilities, the Asari Armada is a powerful force that can quickly respond to threats and engage enemies in any situation. By purchasing this option, you may claim the Asari Armada for yourself and command it to defend your interests.",
-      "chapter": "The Ship"
-    }
-  ],
-  "3": [
-    {
       "__source": "The Celestial Omni-Tool - The Spectre ",
       "__line": 1,
       "cost": 0,
@@ -815,7 +543,7 @@
       "chapter": "The Spectre"
     }
   ],
-  "4": [
+  "3": [
     {
       "__source": "The Celestial Omni-Tool - Your Resources",
       "__line": 1,
@@ -1085,6 +813,278 @@
       "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
       "description": "The Conduit is a miniaturized version of the mass relays designed to allow for planet-to- planet FTL travel using Mass Relay technology. While the technology is still theoretical and highly experimental, the Conduit is a breakthrough in travel technology. It can be easily hidden and transported, making it an ideal tool for military operations and covert missions. The device is powered by Element Zero and can be activated remotely using a specialized interface. Once activated, the Conduit can transport a small group of individuals or equipment from one location to another instantaneously. This will also come with blueprints to recreate the Conduit and expand on it in the future.",
       "chapter": "Your Resources"
+    }
+  ],
+  "4": [
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 1,
+      "cost": 0,
+      "name": "Oculus Fighter",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "The Oculus Fighter is a small, agile spacecraft used by the Reapers for reconnaissance and interception. With a length of only 20 meters, the Oculus is one of the smallest Reaper ships, but it is no less deadly. It is equipped with advanced sensor systems and communications arrays, allowing it to track enemy ships and relay information back to Reaper command. The Oculus is armed with a pair of mass accelerator cannons and can be fitted with additional weapons, such as missiles or drones, depending on the mission requirements. Its maneuverability and speed make it a difficult target to hit, and it is often used to harry and distract enemy ships while larger Reaper vessels move into position.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 2,
+      "cost": 100,
+      "name": "Air Car ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "One of the finest on the market, this is the kind of car you'd find in the garages of the rich and powerful. It's easy to drive, can reach altitudes of 50 miles, has four luxurious seats, bulletproof windows, a trunk large enough to hold a body, and many more amenities that you'd expect a vehicle like this to. Best part is, you never have to worry about fuel or recharging again.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 3,
+      "cost": 100,
+      "name": "Research & Development Center ",
+      "source": "Mass Effect: Andromeda JumpChain",
+      "description": "The R&D center is integral to the Initiative’s colonization efforts in the Heleus cluster. There is one in every settlement. As you increase the amount of information you discover, the more you will be able to progress and discover in the Research section. And Development allows a user to build any object that you have the blueprints/plans for and resources to make it. If you have a ship, you can choose to integrate this into the ship. While the R&D centre is initially limited to making things that are man portable, with the appropriate upgrades, that may change. After all, Remnant Vaults have such interesting technology...",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 4,
+      "cost": 200,
+      "name": "Kodiak Shuttle ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "Often called the \"Combat Cockroach\" by the Human Alliance, the government that made and primarily uses it, this is a durable personnel carrier capable of planetary flight and limited FTL. It can carry up to 14 people, including the pilots and a VI, and can withstand hard vacuums, high pressure, and temperatures from near-absolute zero to over 900 degrees Celsius.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 5,
+      "cost": 200,
+      "name": "M35 Mako",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "This vehicle was designed by the Human Alliance for their frigates, made for rapid deployment, and can be deployed on virtually any world. It's armor is tough enough to withstand high drops, extreme heat and cold and rough terrain, with the suspension and propulsion system allowing the vehicle to adapt to various terrain. It's not unarmed either, as it is in possession of a 155mm mass accelerator and a mounted machine gun, it's perfect for both travel and combat.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 6,
+      "cost": 200,
+      "name": "Shuttle",
+      "source": "Mass Effect: Andromeda JumpChain",
+      "description": "Your choice of a Nexus, Angaran, or Kett Shuttle. All of these have FTL capability, can carry a squad’s worth of people, and has a moderate amount of resistance to environmental issues such as radiation or deadly winds. If it gets hit by lightning though, it’s basically a goner, unless you put some upgrades in. If the Shuttle is destroyed, it will respawn in 48 hours either in your warehouse or on a landing pad, whichever is more convenient.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 7,
+      "cost": 200,
+      "name": "Mantis Gunship ",
+      "source": "Mass Effect - Jumpchain",
+      "description": "With this baby, you could hold off a small army from taking an important city. At least until you run out of ammo! Well, not like that’s a problem for you Jumper. This baby is vacuum capable, if only in an extremely limited sense, equipped with kinetic barriers, thick armor, micro rocket pods, an autocannon, and advanced in atmosphere flight capabilities, this beauty is lethal. You’d even be a threat against most civilian ships, such is the power of your heaviest weapons!",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 8,
+      "cost": 200,
+      "name": "Atlas Mech",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "When there are giant monsters, when one man isn't enough, when all else fails, there will always be giant fighting robots. Okay, that might be an exaggeration, but this machine designed by the human terrorist organization Cerberus is an impressive piece of tech. It combines the deadly armor and firepower of a YMIR mech with the tactical superiority of a trained pilot. Equipped with a powerful rocket launcher and a high-power mass accelerator cannon, powerful kinetic shields and a polycrystalline composite hull, it's sure to be a terror on any battlefield.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 9,
+      "cost": 200,
+      "name": "Weapons Locker",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "When there is a problem, the answer you're looking for can often be found in the form of a gun. And if that doesn't work, use more guns. You now have a shipment filled with all sorts of handheld weapons found in this Cycle of the galaxy, enough to arm an entire battalion of troops. If any of them are broken, then you'll find a brand new replacement waiting in your Warehouse. Never let it be said that you don't have enough firepower.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 10,
+      "cost": 200,
+      "name": "Armor Locker ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "Armor is a very important part of a battle, and has been since our ancestors first adorned fur covers. This shipment is absolutely filled with all sorts of armor for all sorts of modern races, from Volus to Krogan, along with kinetic shields to match, enough to outfit an entire battalion. If any of these are broken or destroyed, you'll find a brand new replacement waiting in your Warehouse or on your ship.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 11,
+      "cost": 200,
+      "name": "YMIR Mech",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "The YMIR Mech is a massive and powerful combat robot, capable of taking on entire squads of enemy soldiers and emerging victorious. Its heavy armor and shielding make it nearly impervious to small arms fire, while its twin heavy machine guns can shred through infantry and light vehicles with ease. In addition to its powerful armaments, the YMIR Mech also has the ability to enter a compact state for easy transportation. This makes it an excellent choice for mercenary companies or other organizations that need to move large amounts of heavy firepower quickly. With this purchase, you will gain access to three fully operational YMIR Mechs, as well as the blueprints and technology necessary to manufacture more.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 12,
+      "cost": 800,
+      "name": "Azazil",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "The Reapers are ancient beings, driven by a misguided mission. They are horrifying opponents, but potentially a powerful ally. This Reaper is not held back by the same code that controls it's brethren, and has decided to use it's newfound freedom to help you. How fortunate. Azazil has all of the abilities that you'd expect on a standard Reaper, but is interestingly not capable of Indoctrination. It isn't really concerned about regaining this ability, or doing much of anything, really. It might be a bit lazy.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 13,
+      "cost": 400,
+      "name": "The Destiny Ascension",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "This massive Asari dreadnought is the flagship of the Citadel Fleet, and there will be many questions on how you own one of your own. It's easily four times the size of the largest human spaceship, and has a functioning crew numbering 10,000. It's rumoured that it has enough firepower to match the rest of the Asari fleet, and you'd believe it, as its weapons can punch through a Reaper's defences with a few shots. Its defences are also impressive, as while it's not as good as a Reaper, it's still the apex of what the Citadel Races can achieve.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 14,
+      "cost": 400,
+      "name": "Normandy SR-2 ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "Soon to be one of the most iconic ships in the galaxy, this \"deep scout\" frigate was co-developed by the Human Alliance and the Turian Hierarchy, and upgraded by Cerberus. It's stealth system is the main selling point of this ship, storing any heat generated in lithium heat sinks deep within the hull. Twice the size of the original, it has many amenities that make it very comfortable for its crew while still being an effective ship. It is also open to installing an AI within, allowing it to control the many systems within effectively.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 15,
+      "cost": 400,
+      "name": "Arcturus II",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Actually named the Orion, this is a prototype deep space station that disappeared during a malfunction with an experimental FTL drive. Aside from the phrase liberate tutemet ex inferis scrawled in blood over the docking bay, and the command compartment looking like Slaanesh and Khorne had a baby, it’s mostly intact. Fully stocked and supplied, including a full crew compliment of LOKI mechs, sitting quietly above an out of the way planet in and out of the way system in an out of the way corner of the galaxy. Of course, some of the megaliths on said planet look pretty ominous, but that’s surely nothing serious. In fact, it’s got level after level of limited production and resource refining facilities, all the subsystems you would need to house up to fifty thousand people, enough weapons to duel three or four Reapers and win, and it even comes fully loaded with all the supplies, resources, and equipment you would expect to find on one of the most powerful defensive stations to have ever existed. And hey, if you snoop around its exhaustive research facilities enough, maybe you can even figure out how to turn its engines back on!",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 16,
+      "cost": 400,
+      "name": "The SSV Normandy SR-1 ",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Congratulations! You’re now the proud owner of a near exact replica of a prototype military stealth frigate. She’s got guns, big honking engines, and she’s mean as all get out. Assuming a more advanced alien race doesn’t use her for target practice, of course. She’s also yours to customize. Change her name, her paint job, her decals, anything at all you want. Just be warned, if anyone realizes what you’re flying, they will ask questions. By default, she comes with a crew of LOKI mechs. They will... keep her operational but don’t expect them to do more than the absolute bare minimum. I hope you’ve got a crew.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 17,
+      "cost": 400,
+      "name": "Shadow Hand ",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Incredibly advanced, massive, and incredibly secretive, this ship is the home base of the Shadow Broker... and now you. Equipped with hard light constructs, a horde of maintenance mechs, and deck after deck of sensor and communications equipment and you have one of the two most advanced command and control vessels every created. Reams of economic data, hundreds of thousands of secure servers, quantum communications arrays, and access to nearly every possible data stream that an information broker could ever dream of is more than available onboard this pinnacle of luxury and terror. Torture suite’s located in the dungeon, in case you were wondering.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 18,
+      "cost": 400,
+      "name": "Space Station",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "For so long, sentient life has looked to the stars and wished to live amongst them. And now, you can. This space station of your own design is practically a metropolis on its own, with all the necessary amenities and systems that would include. It's reactor will never run out of energy to power everything, and you'll find any damaged areas repaired within about an hour. Now, should you be the creative type, any upgrades you or your companions might install within this station will be fiat backed as if it was there all along.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 19,
+      "cost": 500,
+      "name": "Omega ",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "Omega is a mobile space station that has been retrofitted as a criminal hub and a center of black market activities. It is a hub for smugglers, mercenaries, and other unsavory characters, making it an ideal location for recruiting soldiers and acquiring resources. Omega Station is also heavily armed and armored, making it a formidable force in any battle. Its FTL engines allow it to quickly deploy to any location in the galaxy, making it an excellent base of operations for covert missions.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 20,
+      "cost": 500,
+      "name": "Kronos Station ",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "Kronos Station is the original headquarters of Cerberus and one of their most heavily defended locations. This is a heavily fortified mobile space station that has been retrofitted as a Heavy Weapon Platform. It is equipped with state-of-the-art weapons and technology, making it a formidable force in any battle. With its advanced FTL engines, Kronos Station can be deployed to any point in the galaxy to serve as a Forward Operating Base, providing tactical support and strategic advantages to your forces. Aside from its role as a powerful fortress this facility is filled with a vast number of powerful warriors such as Phantoms, Assault Troopers, Guardians, and Atlas Mechs",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 21,
+      "cost": 500,
+      "name": "Purgatory Prison Ship",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "A massive prison ship, similar to the one used by the Blue Suns in the Omega Nebula. The Purgatory Prison Ship is designed to hold dangerous criminals and keep them isolated from the rest of the galaxy. It has multiple levels, with each level being more heavily guarded and more dangerous than the one before it. The ship is heavily armed and well-defended, making any escape attempts nearly impossible. The Purgatory Prison Ship can be summoned and controlled by the jumper, allowing them to use it as a mobile base or a tool for capturing and imprisoning enemies. The ship is equipped with advanced technology that allows it to scan and detect criminal activity, making it an effective tool for tracking down wanted fugitives. Additionally, the ship comes with a variety of weapons and equipment that can be used by the jumper or their companions. This includes advanced security gear, heavy weapons, and even a fleet of small fighters that can be launched from the ship. Overall, the Purgatory Prison Ship is an extremely valuable asset that can be used for a variety of purposes, from capturing and imprisoning dangerous criminals to providing a mobile base of operations for the jumper and their allies.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 22,
+      "cost": 600,
+      "name": "Tempest-class",
+      "source": "Mass Effect: Andromeda JumpChain",
+      "description": "You get a copy of the Tempest survey ship, and all ships of this type are meant for long-range, long-term exploration. It doesn’t have any weapons, but it’s got a research center, tech lab, bio lab, crew quarters, your quarters (which are the biggest on the ship), med bay, a vehicle bay, and a ODSY drive that’s nice and stealthy. It also somehow has an Internal Emission Sink stealth system, which is a classified stealth system developed by the Turian Hierarchy and the Systems Alliance. You will have to source your own pilot though: Kallo Jath may have helped build the Tempest-class ships, but he’s loyal to the one he made with his compatriots.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 23,
+      "cost": 600,
+      "name": "Cruiser",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Actual fire power, and the mainstay of conventional space navies, the cruiser is more of an investment than a ride. You have at your fingertips a ship capable of gutting any civilian vessels and most smaller military ships in a single volley. Even other cruisers tend to die in a relatively small number of shots. Though that same flimsiness is also imparted upon you as well. In terms of pure gratis, you have a rather impressive range, easily able to run for months without needing resupply, a crew of LOKI mechs to manage your ship’s needs, and all of the specialized rooms one would expect on a cruiser. This includes a science lab, captain’s quarters, fabrication benches, medical suite, armory, and even a hanger large enough to serve as a training room and gym in one. While not as developed as the SR-2 technologically speaking, your ship is much better suited for the rigors of pure combat and much, much lower profile. Despite needing to use one of your two complimentary shuttles to operate in atmosphere, you won’t have entire nation states freaking out about you having a stealth cruiser. And if you’re lucky, or rich, enough they might even buy the story you’re telling them about how it’s totally legitimate for a civilian to own a piece of hyper lethal military hardware.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 24,
+      "cost": 600,
+      "name": "Nexus Station",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "Nexus Station is a mobile space station that has been retrofitted as a diplomatic hub. It is equipped with advanced communication systems and facilities for hosting negotiations and other diplomatic events. The station is also home to some of the galaxy's most prominent diplomats and politicians, making it an ideal location for forging alliances and establishing treaties. With its powerful engines, Nexus Station can quickly travel to any point in the galaxy, making it an invaluable asset for any faction seeking to expand its influence and establish new relationships with other factions.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 25,
+      "cost": 600,
+      "name": "Geth Dreadnought",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "The Geth Dreadnought is a massive warship used by the synthetic race known as the Geth. It is heavily armed and armored, and is capable of generating powerful energy shields that protect it from all but the most powerful attacks. The Geth Dreadnought is operated by a sophisticated AI, and is capable of coordinating with other Geth ships to devastating effect. It is often used by the Geth for offensive purposes, and is a feared sight on the battlefield.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 26,
+      "cost": 800,
+      "name": "Collector Cruiser",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Second in advancement only to the Reapers themselves, this ship is as much a mobile hive as it is a ship of war. Utilizing advanced technologies, including some (non brainwashing) Reaper tech, it’s faster, better armed, better armored, and more sensitive than any other cruiser in the galaxy. Able to use esoteric sensors, possessing hyper efficient reactors, able to gut dreadnoughts, this is, unquestionably, one of the best ships in the galaxy. And, even though it lacks any real stealth capability, it still has an advanced electronic warfare suite, communications and sensor jammers, and even a seeker swarm that you can deploy in battle. Even better, you get a full hive of collectors to man and maintain it for you. They’re weird, but fanatically loyal and the Reapers can’t seize control of them unless you let them.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 27,
+      "cost": 800,
+      "name": "Mass Relay Network",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "The greatest and most useful system around when it comes to travelling across the galaxy, the Mass Relays can transport starships instantaneously to another relay within the network, allowing for journeys that would otherwise take years or even centuries with only FTL drives. You now have an extensive network of these following you from world to world, with one Mass Relay in every solar system within the Milky Way galaxy, or whatever galaxy you initially start in. You have admin privileges, so you can turn off individual relays, limit what can pass through them, and even remove their safety systems, essentially turning them into giant interstellar railguns. Should you own the [Citadel] then you can do all of these and more from the space station, as opposed to having to manually do it for each relay. If any are damaged or destroyed, either by your hand or another's, they will be fully repaired in your next Jump.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 28,
+      "cost": 800,
+      "name": "Quarian Flotilla",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "The Quarian Flotilla is a massive fleet composed of hundreds of ships, each home to a small part of the Quarian race. The fleet is led by the Admiralty Board, a council of the most experienced captains and tacticians in the Flotilla. The ships are equipped with advanced engineering systems, allowing them to repair damage quickly in the heat of battle. By purchasing this option, you can claim the Quarian Flotilla for yourself, giving you access to the full might of the Quarian fleet. You will also gain the loyalty of the Quarian people, who will fight alongside you,",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 29,
+      "cost": 800,
+      "name": "Volus Trade Fleet",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "The Volus Trade Fleet is a massive collection of cargo ships that spans the entire galaxy. The fleet is operated by the Volus, a race of small but industrious beings known for their expertise in trade and commerce. Each ship is equipped with advanced Volus technology, including state-of-the-art communication systems and powerful engines. By purchasing this option, you will gain control of the Volus Trade Fleet and all of its resources. You can use this fleet to establish lucrative trade routes, or to defend your cargo against pirates and other threats.",
+      "chapter": "The Ship"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Ship",
+      "__line": 30,
+      "cost": 900,
+      "name": "Asari Armada",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "The Asari Armada is a formidable force made up of hundreds of warships, including dreadnoughts, cruisers, frigates, and fighters. The armada is commanded by the most experienced and skilled asari commanders and is equipped with advanced asari technology, including biotic amplifiers, energy shields, and mass effect fields. With their mastery of biotics and tactical abilities, the Asari Armada is a powerful force that can quickly respond to threats and engage enemies in any situation. By purchasing this option, you may claim the Asari Armada for yourself and command it to defend your interests.",
+      "chapter": "The Ship"
     }
   ]
 }

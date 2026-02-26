@@ -453,458 +453,6 @@
   ],
   "2": [
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 1,
-      "cost": 100,
-      "name": "Wolf Queen ",
-      "source": "TES: Undead",
-      "description": "A scion of the Septim bloodline, cursed by the soul of a fel beast since birth, Potema grew to be an exceptionally powerful necromancer. Such was her talents that she threatened the Empire itself with her undead army, only stopping once she was slain. Now she follows you, either out of loyalty or lust for the power your journey will grant her.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 2,
-      "cost": 100,
-      "name": "Daedric Merchant",
-      "source": "TES: Magic",
-      "description": "Even a Daedra has to make a living, somehow, and this one has chosen the path of the merchant. He can be summoned through a simple and easy spell, and can both sell and purchase items. His wares are often rare and valuable, and often seem to possess a massive amount of whatever the local currency is. His stock and wallet replenish after three days, often with different items, even those of different worlds you've visited.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 3,
-      "cost": 100,
-      "name": "Rebellious Knight ",
-      "source": "TES: Daedra",
-      "description": "The bastard daughter of a noble in High Rock, this Nord warrior has taken up the mantle of a knight, fighting for the people. Wielding a cursed blade given to her by her god, she has struck down numerous corrupt and evil officials, she has inspired hope in countless souls. Now, if only she didn’t carry herself like a thug...",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 4,
-      "cost": 100,
-      "name": "Favored Daughter ",
-      "source": "TES: Daedra",
-      "description": "The pride and joy of Malacath, his very own daughter has agreed to be your Companion. Strong of spirit and strong of heart, her cheerful and friendly demeanor contrasts well with her father's bitterness. But she is still the child of Malacath, and is well versed in the warrior ways, close in power to the strongest of the dovah.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 5,
-      "cost": 100,
-      "name": "Black Cat ",
-      "source": "TES: Daedra",
-      "description": "A noblewoman turned rogue, this Redguard has turned her talents of subterfuge into an art, primarily to help her friend who was wrongfully accused by the law. Skill, she’s fast, smart, and skilled, a deadly combination if ever there was one. She has even developed a spell that transforms her into a cat.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 6,
-      "cost": 100,
-      "name": "Court Jester",
-      "source": "TES: Daedra",
-      "description": "Once a respected healer, this Nord has long since joined Sheogorath's realm due to a toxic romance. But now she has a new target for her affections. You. A skilled acrobat and deadly with her massive warhammer, she'll smash anything that would get in the way of you two being together.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 7,
-      "cost": 100,
-      "name": "Daedric Servant",
-      "source": "The Elder Scrolls Series",
-      "description": "Despite the dangers involved with summoning one, Daedra are useful allies to have at your side. This Daedra, whose race you can choose, is loyal to you and only you. You can summon them whenever you want with no magicka cost, and if killed then simply wait a day before summoning them again. Can stay a free summon or become a Companion at your discretion.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 8,
-      "cost": 100,
-      "name": "Pink Mage",
-      "source": "TES: Magic",
-      "description": "This short Breton girl is a prideful and powerful mage. Though an accident with Alteration permanently left her hair a bright pink, she has an impressive wealth of magical and academic knowledge, and her skill with Destruction is something to behold, outclassing many masters. She strives to become the greatest mage in history, and is stubborn and skilled enough to see it through.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 9,
-      "cost": 100,
-      "name": "Mage Apprentice",
-      "source": "The Elder Scrolls: Oblivion",
-      "description": "As a fresh student accepted into the Arcane University they don’t have any other prospects lined up if their education goes badly. Mostly they busy themselves with attending lectures, strolling around campus, and doing their best to study up on the arcane arts. Currently they know a decent bit about Destruction magic, have some weak summon spells, and through errors in casting those spells have come to understand the value of their singular strong self-healing spell. What they have in intelligence they lack in force of personality. This student seems hesitant to speak much at all, even if they are excellent at following instructions. Perhaps they view you as a respected professor and are afraid to embarrass themselves?",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 10,
-      "cost": 100,
-      "name": "Ice Queen",
-      "source": "TES: Dovah",
-      "description": "An Altmer who studied at the College of Winterhold, she is a magewhose skill in magic is matched only by her arrogance. Her focus on ice magic allows her to generate massive amounts of ice to control the battlefield, or just freeze her opponents solid. Still, she desperately craves a place to belong, and friends who will stand by her side.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 11,
-      "cost": 200,
-      "name": "Mental Bond ",
-      "source": "TES: Magic",
-      "description": "One thing that is often forgotten about the School of Conjuration, is that telepathy can be used on more than just summons. By performing a short and easy ritual, you can permanently mark anyone you desire and create a telepathic link with them. This link cannot be broken in willfully, and you can even communicate with them from entirely separate dimensions.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 12,
-      "cost": 100,
-      "name": "Vampire Princess",
-      "source": "TES: Undead",
-      "description": "Sealed within an ancient tomb in the frozen peaks of Skyrim, Serana is an interesting case. Quick-witted and sarcastic, she is a Daughter of Coldharbour, one of the few Pure-blooded Vampires, and trained in both Alchemy and Necromancy, though her skill in Destruction is nothing to scoff at.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 13,
-      "cost": 200,
-      "name": "Durnehviir",
-      "source": "TES: Undead",
-      "description": "Bound to serve the Ideal Masters of the Soul Cairn for eternity, this dragon has found himself free from that awful realm, all thanks to you. Durnehviir is a powerful necromancer, capable of summoning undead legions from the Soul Cairn and ripping out a person’s soul using the Thu’um. He also loves a good challenge, and would welcome any chance to spar with powerful opponents.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 14,
-      "cost": 100,
-      "name": "Warrior Spirit ",
-      "source": "TES: Imperial Cult",
-      "description": "It is rare indeed when a spirit returns to the mortal plane of their own free will, especially so when they are sent by Arkay. This sword-wielding woman has been assigned as a psychopomp of sorts in your area, releasing ghosts and spirits of their earthly connections in order to ascend to the heavens above. She has found you to be an interesting mortal, and as such will be glad to fight by your side.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 15,
-      "cost": 200,
-      "name": "Star Orphan ",
-      "source": "TES: Imperial Cult",
-      "description": "Few are those who are followers and worshippers of the Magna-Ge, let alone those who have met one in the flesh. Though not the most powerful, this Aetherial entity has chosen to follow you to new worlds as a companion, for reasons completely alien to you. But why care about something as arbitrary as reasons and excuses when you have an entity on par with greater Dovah by your side.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 16,
-      "cost": 0,
-      "name": "Housecarl ",
-      "source": "TES: Dovah",
-      "description": "Having been trained as a warrior from a young age, this Nordic woman has devoted herself to you, swearing to guard you, and all you own, with her life. Stoic and fearless, she will act as both your sword and your shield, taking care of many threats before you're even aware of them.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 17,
-      "cost": 100,
-      "name": "Energetic Barbarian",
-      "source": "TES: Warriors",
-      "description": "Though she may be short for a nord, this redheaded bundle of energy is a right terror in combat. Wielding a warhammer the size of a small child with surprising grace and agility, don't be surprised when anyone who gets in your way cries out over their lost kneecaps.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 18,
-      "cost": 100,
-      "name": "An Adoring Fan",
-      "source": "Elder Scrolls: Oblivion",
-      "description": "Maybe it was a stint in the arena, or perhaps the last job you did saved a life and earned someone’s deepest affection. Regardless, you’ve struck a chord with them earning the eternal enthusiastic adoration of a completely useless civilian. This could anyone from a bosmer lad to an argonian lass. Ultimately they are not very experienced in the ways of the world. But they’ll carry your weapons, shine your boots, and offer backrubs when the mood strikes. For some, this level of adoration could get a bit grating. It wouldn’t be out of character to hear, “You're the best! I'm going to follow you and watch you and worship the ground you walk on!” They are actually pretty dedicated to performing all the tasks they offer well though.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 19,
-      "cost": 200,
-      "name": "Star Beast",
-      "source": "TES: The Warrior Waves",
-      "description": "Not all creatures of the firmament are affectionate or benign, some being more than capable of destruction as the beings of Oblivion. One such creature, known as Aetherion, is a being created of starlight that is easily on par with a Daedric Titan or a dragon, rending flesh and stone as easily as one would a leaf. It would take a grand hero indeed to defeat such a monster, so what does that say about you, who commands it?",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 20,
-      "cost": 100,
-      "name": "Golden Queen",
-      "source": "TES: The Warrior Waves",
-      "description": "An ancient Nedic chieftain, this woman of golden hair underwent a ritual that gave her a life eternal and the very power of the stars above. She rides into battle bearing a stone hammer that glows with divine energy, which strikes with enough force to flatten a man in one blow. It is only through struggle that one can truly grow, and she sees you as a nexus of endless conflict.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 21,
-      "cost": 0,
-      "name": "Winged Assassin ",
-      "source": "TES: The Warrior Waves",
-      "description": "Though native to the mountainous lands to the north, it is not unheard of for harpies to find themselves in the Deathlands. Though charged with assassinating a necromancer searching for eternal life, she has found you to be an interesting soul, and will follow you from now on.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 22,
-      "cost": 0,
-      "name": "Green Princess ",
-      "source": "TES: Main Races ",
-      "description": "When one thinks of royalty, they do not often expect this redheaded orc. For as beautiful a specimen as she is, for an orsimer, do not underestimate her, for she can take on whole groups of armored combatants with just her bare hands. Also, don’t let her sing, as she has caused birds to explode that way.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 23,
-      "cost": 100,
-      "name": "Wolf Kissed ",
-      "source": "TES: Main Races ",
-      "description": "A nordic shieldmaiden from the frozen north, she is the epitome of what it means to be a nordic warrior. With dual axes and great physicality, she can cut off a man’s armored legs with but one swing, but what makes her truly dangerous is her adaptability and cunning.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 24,
-      "cost": 0,
-      "name": "Troubled Kitten",
-      "source": "TES: Main Races ",
-      "description": "Though she may look like a young ohmes-raht and her character is that of pride and feline stereotypes, she is a truly broken soul. Captured and tormented by a high ranking member of the Thalmor until the point where she was completely despondent. Her memories of those events have been mostly purged, though she still has nightmares from those days.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 25,
-      "cost": 100,
-      "name": "Eagle Bearer ",
-      "source": "TES: Main Races ",
-      "description": "A imperial woman from the colovian region who took to the arts of war like a duck to water, a tragedy had her separated from her family. With her enchanted spear, pet eagle, and Legion-like training, she goes out into the world to search for her wayward family.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 26,
-      "cost": 200,
-      "name": "Soul Sword ",
-      "source": "TES: Main Races ",
-      "description": "A sword imbued with the spirit of a redguard prince, it has taken his skill, giving the blade a mind of its own. When in combat, it will seek out the weak points of an opponent, guiding your hand to deal the most damage you can. Should you find a way to awaken the soul within, you can even communicate with it.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 27,
-      "cost": 400,
-      "name": "Staff of Hasedoki",
-      "source": "TES: Main Races ",
-      "description": "A magical staff that belonged to the wizard Hasedoki, who was, to the best of all knowledge, the greatest wizard of his time. It is said that he felt so lonely and isolated because so many feared his power, that he bonded his soul into his very own staff, where it remains. Using it will see a magical ward envelop you, protecting you from most magics while also casting Soul Trap upon any nearby enemies.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 28,
-      "cost": 100,
-      "name": "Barrels of Mead",
-      "source": "TES: Main Races ",
-      "description": "Any true nord knows that there are fewer things better in life than being surrounded by friends and having a belly full of mead. Such is the purpose behind these number of barrels, each one filled with a brand of mead, from the standard stuff all the way to the rare and vaunted Black-Briar Reserve. These barrels will never empty, spilling forth an endless amount of the sweet drink for all to enjoy.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 29,
-      "cost": 400,
-      "name": "Local Leader",
-      "source": "TES: Rogue",
-      "description": "People are often not the best when it comes to deciding what it is they want, focusing more on the short term than the future, and ignoring what they actually need in favor of what they think they desire. You have a powerful insight to your people, your subjects and followers and companions, possessing an almost sixth sense for determining what they want, what they actually need, and what separates the two.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 30,
-      "cost": 200,
-      "name": "Knights of the Nine",
-      "source": "TES: Imperial Cult",
-      "description": "It's not every day when an order of knights dedicated themselves to you, but that is exactly what's happened here. These nine knights of various races and backgrounds share a few things in common, like each one being blessed by a different Divine, and their undying loyalty to you. Whether they become your Companions or Followers is up to you, but each knight is skilled enough in combat to take on ten men at once and come out on top with ease.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 31,
-      "cost": 100,
-      "name": "Faithful Hound",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Dogs have been considered man's best friend for ages and for good reason too. They’re able to help greatly when it comes to tracking a target, they’re loyal, and generally just nice companions to have. Which is nice since you now have a faithful hound of your own. Whether you bought it or found it roaming the wilds this dog is both a loyal and surprisingly capable compatriart more than capable of killing wolves and even bringing bandits down should they not be well armored. Though perhaps you just want the dog as a pet, either works. This acts as a follower and not a companion, if killed the dog will return given a few days and should you wish it your new pet can become a companion if imported later on.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 32,
-      "cost": 600,
-      "name": "Daedric Champion ",
-      "source": "TES: Daedra",
-      "description": "Your Prince has looked upon you, and found within you the perfect instrument to enact their will upon Tamriel. Not only are you a cult leader on par with Mankar Camoran, managing a province spanning network of hidden cultists with very few ever able to locate all of your followers, but you have been given a boon by your chosen Prince. A champion of Azura may receive visions of the future, while a champion of Peryite could unleash a deadly cloud of sickness.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 33,
-      "cost": 100,
-      "name": "Gilded Glory ",
-      "source": "The Elder Scrolls - The Shivering Isle",
-      "description": "The defenders of Mania, the Aureal (or Golden Saints) are the strongest warriors in the Shivering Isles. Typically decked out in their signature golden-hued heavy armor, they excel in close quarters battle and make for excellent shock troops – though they are predisposed towards arrogance and are not particularly suited to more subtle endeavors. You gain the ever-lasting servitude of ten of these soldiers, all of whom are unfailingly loyal to you and will serve your every command without question. Furthermore, as Daedra, death is merely a temporary setback to them, and not even suicidal orders will cause them to hesitate. In most cases, they’ll instead feel honored that they can spend their lives in your service. You can summon each of these individuals to you once per day with a brief exertion of your will, an act which will also restore them to life if they were previously slain. These Golden Saints do not count as Companions by default, though you can make them such if you wish.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 34,
-      "cost": 400,
-      "name": "Dragonguard ",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "Every warrior needs his companions and naturally you’re no exception. Following your lead is now a sizable organization of warriors and heroes of notable repute. The group can be designed however you wish and oriented around in a way that pleases you, want a band of dragon slaying Knights at your beck and call, great, or perhaps Vampire hunters like the Dawnguard are more preferable to you. This can even be as much as just being a group of people who congregate together due to a shared love of adventure, the point is that the sky’s the limit with this. The average member is just that, average, however there are a number of higher ranking members who are notably stronger and more capable to make up for this. Fortunately the group is also in a solid position to expand and grow should you wish that as well.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 35,
-      "cost": 600,
-      "name": "The Five Hundred Companions",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "There’s just something about you, a certain aura about your person that just draws people to you. While others may have charisma on a personal level you have it on a far grander level, that of a Warrior King or leader like Ysgramor. This is the charisma required to win over entire peoples and crown oneself king and where a personal level of charisma may be like honeyed words someone can’t resist, this is akin to a roaring tempest that drags people to you. Warriors, mages and others will find themselves drawn to your banner should you raise it and you’ll quickly find yourself surrounded by competent advisors and companions like Ysgramor and his ilk were. This also comes with the knowledge to lead your troops in such a manner that would earn you the respect of grizzled generals and veterans, after all what’s the point of all these people if you can’t lead them?",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 36,
-      "cost": 200,
-      "name": "The Prisoner",
-      "source": "Elder Scrolls Skyrim SB Jump",
-      "description": "This rather odd young Nordic woman you ran into not too long ago is a curious sort, clad in a mix-match of worn Stormcloak and Imperial light armor she claims a rather fantastical tale of a dragon laying waste to Helgen just as the Empire was just about to execute Ulfric Stormcloak and other prisoners, though her sheer energy and drive to reach Whiterun to warn the Jarl certainly lend credit to her words. Regardless of your trust in her words you struck of something of an burgeoning friendship with her after you helped fight off several bandits that had ambushed the lass and showed yourself an agreeable sort. Left in over her head she asked if you’d accompany her as a traveling companion of sorts if you’d like given she could use a partner in traveling Skyrim, a homeland she has little experience with in truth. Accept and you’ll be joined by a free spirited young woman eager to see the world and even try to make a difference in it for the better, and while she may lack for skills now the adventures you two engage with will see her grow in ability in leaps and bounds.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 37,
-      "cost": 100,
-      "name": "Royal Lineage ",
-      "source": "Elder Scrolls Companions Supplement",
-      "description": "Altmer restoration mistress specialized in wards and anti-undead spells rather than healing. Claims to be the princess of the Summerset Isles, holds a grudge against orcs and redguards due to having been ousted from her home by a half breed of those races. Blessed by Julianos.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 38,
-      "cost": 200,
-      "name": "Knight Of Treachery ",
-      "source": "Elder Scrolls Companions Supplement",
-      "description": "Bastard daughter of a Daggerfall noble who was made a knight in their father's court. Was denied the position of heir despite being the first born and sought to take her father's throne by force. Wild and aggressive in combat, wears heavy armor, and wields a stolen great sword that she uses alongside crimson lightning spells powered by her hatred for her parents.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 39,
-      "cost": 200,
-      "name": "Mead Hall",
-      "source": "TES: Warriors",
-      "description": "Every good band of warriors needs a place to rest their laurels, where they can drink as much mead as possible and embellish their tales of valor. This mead hall is just that, a place that gives off a constant aura of revelry and brotherhood as surely as the barrels of mead and other such spirits will never run dry. Now it's just a question of how everyone will get home when they're piss drunk.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 40,
-      "cost": 100,
-      "name": "Twilight Princess",
-      "source": "Elder Scrolls Companions Supplement",
-      "description": "Dunmer who uses alteration to manipulate shadows, allowing her to store objects (and herself) inside them. Also uses it to control her hair as an extra limb, and give it the volume and strength needed to act as a lethal weapon. Formerly the ruler of a small nation of Azura worshipers but was thrown out by one of her subjects who made a deal with Mehrunes Dagon and started a violent revolution.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 41,
-      "cost": 0,
-      "name": "Armored Horse ",
-      "source": "TES IV: Oblivion Remastered",
-      "description": "The Heartlands are a large area, one that cannot simply be traversed through on foot in any timely manner. As such, you have been given this armored steed, a hearty warhorse that will never flinch in even the most hectic of battles. You will also find that it possesses great speed that scales with your own, always capable of going faster than you.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 42,
-      "cost": 600,
-      "name": "Thieves Den",
-      "source": "TES IV: Oblivion Remastered",
-      "description": "The final resting place of the infamous pirate ship, the Red Sabre, Dunbarrow Cove is the ideal haven for ne’er-do-wells. While you may one day get the ship sea worthy again, the true value is in the pirate crew that now pledge their loyalty to you, not only offering you training and a reliable fence to sell your stolen goods to, but the crew will go out and raid, bringing back the loot and sharing a sizable amount with their captain. The best part is that they never seem to be followed back to the Cove, as though it is impossible for the law to locate your den.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 43,
-      "cost": 600,
-      "name": "Knightly Lodge",
-      "source": "TES IV: Oblivion Remastered",
-      "description": "Tucked away into the countryside, this priory is the perfect place for any burgeoning knightly order to make a home for themselves. It holds enough room for a dozen knights, a training yard to keep their skills sharp, a smithy to keep their blades even sharper, a chapel for those of a religious persuasion, as well as other quality of life facilities. Yet the true value of this lodge is the undercroft, where the bodies of eight other knights have been laid to rest. By offering your respects to one of the graves, you will be blessed with a notably increased attribute, though you may only have one blessing at a time.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 44,
-      "cost": 200,
-      "name": "Friendly Fire ",
-      "source": "TES: Magic",
-      "description": "For as fun and as devastating a battlefield through elemental fury is, it can be quite the hassle when you need to ensure any allies you may possess don't get caught up in your destruction. Thankfully, you will never have to worry about that ever again, as your spells will never harm your allies ever again, completely ignoring them. From elemental cloaks to massive explosions of magical power, those by your side will never be harmed by your hands.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 45,
-      "cost": 400,
-      "name": "Mighty Fortress ",
-      "source": "TES: Warriors",
-      "description": "For those of you who want more than just a bed at an inn or a sleeping roll, you can never go wrong with a sturdy fortress to call your home. Its walls are sturdy, its design focused towards defense and repelling invaders, it has the room to house dozens of soldiers, as well as enough supplies to arm them and keep them fed for as long as needed. The heraldry and aesthetics are ultimately up to you, but regardless of what you choose, this will be a tough nut that few could crack.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 46,
-      "cost": 600,
-      "name": "Vile Lair ",
-      "source": "TES IV: Oblivion Remastered",
-      "description": "An asylum for the wicked, giving refuge from persecution by the virtuous. Deepscorn Hollow is an underwater hideout that provides the infamous with a safe haven. Those willingly inflicted, or should we say graced, with vampirism will find a means to feed, and if necessary, a means to cure their infliction. The evil minions within will be all too eager to do your bidding, and the shrine to Sithis will offer its blessing when one prays to it.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 47,
-      "cost": 100,
-      "name": "Guards and Servants",
-      "source": "The Elder Scrolls Series",
-      "description": "Whether you're off travelling on the road, or staying home, it can get tedious doing all of this household maintenance yourself. Well, you no longer have to, as you now have people who do that for you. Under the supervision of a Steward and a Guard Captain, you've got servants to take care of your home and guards to protect it, as well as enough room to house them. The amount you gain is proportional to how large your home is.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 48,
-      "cost": 200,
-      "name": "Love Eternal",
-      "source": "TES: Imperial Cult",
-      "description": "It is a sad day when love withers and dies, the knots tying their hearts no longer as strong as they once were. Yet there is hope, for you now bear an amazing gift, that of fixing relationships. You seem to know exactly what to do in order to strengthen the relationships of both yourself and others, turning those weak saplings into mighty oaks that cannot be worn down by time or negligence, such that not even in death will they part. Any relationships you have are especially mighty, unable to degrade without active participation on your end.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 49,
-      "cost": 50,
-      "name": "Oaken Maiden",
-      "source": "TES IV: Oblivion Remastered",
-      "description": "An experienced adventurer, this bosmer has been around and facing all that Tamriel has to offer for the better part of a century, and has only emerged more deadly. As one of the elder members of the Guild, she takes it upon herself to make sure that many of the fresh recruits are actually able to take on more dangerous jobs. Perhaps in you she was reminded of an old friend, or just another young hero that could need her guidance and wisdom.",
-      "chapter": "The Follower"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
-      "__line": 50,
-      "cost": 50,
-      "name": "Stellar Soldier",
-      "source": "TES IV: Oblivion Remastered",
-      "description": "Crashed down to Cyrodiil from the stars, this lithe woman is a fierce warrior, even by the standards of orcish society. She claims to be a member of an order of knights that have carved a place for themselves amidst the infinite waters of Oblivion, and sees the ongoing crisis as a way to prove her worth and the right to rejoin her people. Will her strength and determination be enough to prove herself to her order’s grandmaster, or must she walk another path in exile?",
-      "chapter": "The Follower"
-    }
-  ],
-  "3": [
-    {
       "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Mage",
       "__line": 1,
       "cost": 100,
@@ -1355,459 +903,459 @@
       "chapter": "The Mage"
     }
   ],
-  "4": [
+  "3": [
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 1,
-      "cost": 0,
-      "name": "Burial Urn ",
+      "cost": 100,
+      "name": "Wolf Queen ",
       "source": "TES: Undead",
-      "description": "What you now possess is a small urn with your name on it, only around the size of the average horse skull. Inside will always be a few gold coins, a gem or two, as well as the ashes of a dead person. These will restock when you place the lid back on.",
-      "chapter": "The Necromancer"
+      "description": "A scion of the Septim bloodline, cursed by the soul of a fel beast since birth, Potema grew to be an exceptionally powerful necromancer. Such was her talents that she threatened the Empire itself with her undead army, only stopping once she was slain. Now she follows you, either out of loyalty or lust for the power your journey will grant her.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 2,
       "cost": 100,
-      "name": "Ancient Nord Set ",
-      "source": "TES: Undead",
-      "description": "You were entombed with your armor in death, and now it will protect you in unlife. You are now in possession of a high-quality set of ancient nordic armor and weapons, as well as daily replenishing arrows, each just as effective as the day they were forged.",
-      "chapter": "The Necromancer"
+      "name": "Daedric Merchant",
+      "source": "TES: Magic",
+      "description": "Even a Daedra has to make a living, somehow, and this one has chosen the path of the merchant. He can be summoned through a simple and easy spell, and can both sell and purchase items. His wares are often rare and valuable, and often seem to possess a massive amount of whatever the local currency is. His stock and wallet replenish after three days, often with different items, even those of different worlds you've visited.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 3,
       "cost": 100,
-      "name": "Black Soul Gems ",
-      "source": "TES: Undead",
-      "description": "During your studies of necromancy, you have discovered that there were few items as useful in the dark arts than black soul gems. These are the only type of soul gems that can handle the souls of the mortal races. How lucky you are, then, that you are now in possession of twenty replenishing black soul gems, each filled and replenishing after a week.",
-      "chapter": "The Necromancer"
+      "name": "Rebellious Knight ",
+      "source": "TES: Daedra",
+      "description": "The bastard daughter of a noble in High Rock, this Nord warrior has taken up the mantle of a knight, fighting for the people. Wielding a cursed blade given to her by her god, she has struck down numerous corrupt and evil officials, she has inspired hope in countless souls. Now, if only she didn’t carry herself like a thug...",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 4,
       "cost": 100,
-      "name": "Life Return Ritual",
-      "source": "TES: Undead",
-      "description": "Well then, it seems as though you have taken a page out of Falion’s journal, quite literally I might add. You are now in possession of a small book containing various rituals meant to return the various types of Undead back into their original mortal selves. This can also be used to affect undead creatures in any future worlds you may decide to visit. Not many who embraced undeath may be so willing to undergo such a ritual, though.",
-      "chapter": "The Necromancer"
+      "name": "Favored Daughter ",
+      "source": "TES: Daedra",
+      "description": "The pride and joy of Malacath, his very own daughter has agreed to be your Companion. Strong of spirit and strong of heart, her cheerful and friendly demeanor contrasts well with her father's bitterness. But she is still the child of Malacath, and is well versed in the warrior ways, close in power to the strongest of the dovah.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 5,
       "cost": 100,
-      "name": "Ancient Coins",
-      "source": "TES: Undead",
-      "description": "Did you really expect that septims were the only currency found within Tamriel? No, many cultures before the Third Empire utilized coins as currency, and you now have proof of that. One hundred coins from some ancient or far off civilization, they're more valuable as collectors items then anything, but at least they'll replenish each week.",
-      "chapter": "The Necromancer"
+      "name": "Black Cat ",
+      "source": "TES: Daedra",
+      "description": "A noblewoman turned rogue, this Redguard has turned her talents of subterfuge into an art, primarily to help her friend who was wrongfully accused by the law. Skill, she’s fast, smart, and skilled, a deadly combination if ever there was one. She has even developed a spell that transforms her into a cat.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 6,
       "cost": 100,
-      "name": "Priestly Staff ",
-      "source": "TES: Dovah",
-      "description": "An elegant staff carved in the likeness of a dragon, these were gifted to many of the Dragon Priests, and were highly treasured. Not only does wielding one of these staves reduce the cost of your destruction magic, but it will make any fire related abilities twice as powerful.",
-      "chapter": "The Necromancer"
+      "name": "Court Jester",
+      "source": "TES: Daedra",
+      "description": "Once a respected healer, this Nord has long since joined Sheogorath's realm due to a toxic romance. But now she has a new target for her affections. You. A skilled acrobat and deadly with her massive warhammer, she'll smash anything that would get in the way of you two being together.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 7,
       "cost": 100,
-      "name": "Treasure Pile",
-      "source": "TES: Dovah",
-      "description": "Though it may be a stereotype, there is nothing wrong with hoarding vast amounts of wealth. With each purchase of this, you will receive a pile of gold, gems, and jewelry that is worth around one hundred thousand septims.",
-      "chapter": "The Necromancer"
+      "name": "Daedric Servant",
+      "source": "The Elder Scrolls Series",
+      "description": "Despite the dangers involved with summoning one, Daedra are useful allies to have at your side. This Daedra, whose race you can choose, is loyal to you and only you. You can summon them whenever you want with no magicka cost, and if killed then simply wait a day before summoning them again. Can stay a free summon or become a Companion at your discretion.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 8,
       "cost": 100,
-      "name": "Kahvozein's Fang ",
-      "source": "TES: Dovah",
-      "description": "A bronze dagger made in the standard fashion of the Dragon Cult, it was used in many arcane rituals utilizing Dragon Heartscales. Their draconic essence seems to have granted this dagger some manner of power, allowing it to completely bypass the natural defenses of dragons.",
-      "chapter": "The Necromancer"
+      "name": "Pink Mage",
+      "source": "TES: Magic",
+      "description": "This short Breton girl is a prideful and powerful mage. Though an accident with Alteration permanently left her hair a bright pink, she has an impressive wealth of magical and academic knowledge, and her skill with Destruction is something to behold, outclassing many masters. She strives to become the greatest mage in history, and is stubborn and skilled enough to see it through.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 9,
       "cost": 100,
-      "name": "Bone Hawk",
-      "source": "TES: Undead",
-      "description": "These predatory birds are actually a type of undead creature, and can typically be found as pets or familiars to various undead. Yours is bonded to you, obeying your commands and allowing you to see through its eyes and ears. This bird especially loves it when given red meat, even though they don’t need to eat.",
-      "chapter": "The Necromancer"
+      "name": "Mage Apprentice",
+      "source": "The Elder Scrolls: Oblivion",
+      "description": "As a fresh student accepted into the Arcane University they don’t have any other prospects lined up if their education goes badly. Mostly they busy themselves with attending lectures, strolling around campus, and doing their best to study up on the arcane arts. Currently they know a decent bit about Destruction magic, have some weak summon spells, and through errors in casting those spells have come to understand the value of their singular strong self-healing spell. What they have in intelligence they lack in force of personality. This student seems hesitant to speak much at all, even if they are excellent at following instructions. Perhaps they view you as a respected professor and are afraid to embarrass themselves?",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 10,
       "cost": 100,
-      "name": "Death Hound",
-      "source": "TES: Undead",
-      "description": "Death Hounds are used as guardians by vampires. How they came to be is unknown, but their bite is as cold as the grave. This one in particular is exceptionally trained, and will obey your orders to the best of its abilities. Be sure to give it plenty of belly rubs, yeah?",
-      "chapter": "The Necromancer"
+      "name": "Ice Queen",
+      "source": "TES: Dovah",
+      "description": "An Altmer who studied at the College of Winterhold, she is a magewhose skill in magic is matched only by her arrogance. Her focus on ice magic allows her to generate massive amounts of ice to control the battlefield, or just freeze her opponents solid. Still, she desperately craves a place to belong, and friends who will stand by her side.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 11,
-      "cost": 100,
-      "name": "Skeletal Dragon",
-      "source": "TES: Undead",
-      "description": "There are few creatures as mighty as the Dragons, and that strength permeates their very bones. Literally, as they are considered more durable as refined ebony. So I’m certain you can find some uses for this animated dragon skeleton, which is skill capable of flight, somehow, and can only use the shouts Unrelenting Force, Fire Breath, and Frost Breathe.",
-      "chapter": "The Necromancer"
+      "cost": 200,
+      "name": "Mental Bond ",
+      "source": "TES: Magic",
+      "description": "One thing that is often forgotten about the School of Conjuration, is that telepathy can be used on more than just summons. By performing a short and easy ritual, you can permanently mark anyone you desire and create a telepathic link with them. This link cannot be broken in willfully, and you can even communicate with them from entirely separate dimensions.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 12,
       "cost": 100,
-      "name": "Monstrous Gargoyle ",
-      "source": "The Elder Scrolls Series",
-      "description": "Gargoyles are a race of living statues that have been animated by a wizard or vampire, often found guarding dungeons, castles, and ancient ruins. As expected, this powerful Gargoyle is extremely loyal to you, has skin as tough as stone, claws that can easily rend flesh, and is immune to poison and paralysis effects.",
-      "chapter": "The Necromancer"
+      "name": "Vampire Princess",
+      "source": "TES: Undead",
+      "description": "Sealed within an ancient tomb in the frozen peaks of Skyrim, Serana is an interesting case. Quick-witted and sarcastic, she is a Daughter of Coldharbour, one of the few Pure-blooded Vampires, and trained in both Alchemy and Necromancy, though her skill in Destruction is nothing to scoff at.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 13,
       "cost": 200,
-      "name": "Ideal Master ",
+      "name": "Durnehviir",
       "source": "TES: Undead",
-      "description": "The power offered by the Ideal Masters of the Soul Cairn is a tempting prize, leading the ambitious and foolhardy necromancers to their certain doom. But you? You knew what you were doing, knew just how to deal with those entities, and are one of the few that prospered. You are able to summon the powerful undead found within the Soul Cairn, from the common Bonemen to the powerful Keepers, all at a fraction of the magicka cost it would normally take.",
-      "chapter": "The Necromancer"
+      "description": "Bound to serve the Ideal Masters of the Soul Cairn for eternity, this dragon has found himself free from that awful realm, all thanks to you. Durnehviir is a powerful necromancer, capable of summoning undead legions from the Soul Cairn and ripping out a person’s soul using the Thu’um. He also loves a good challenge, and would welcome any chance to spar with powerful opponents.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 14,
-      "cost": 200,
-      "name": "Wisp Mother ",
-      "source": "TES: Undead",
-      "description": "There are many legends of wisps, of how they lure the unsuspecting into the arms of ghostly women who feed on their life force. It seems like the legends are not incorrect, as you are capable of summoning wisps to your side. They can drain the health and stamina from enemies, healing you in the process. They can also disguise themselves as you, though it will only be an illusion.",
-      "chapter": "The Necromancer"
+      "cost": 100,
+      "name": "Warrior Spirit ",
+      "source": "TES: Imperial Cult",
+      "description": "It is rare indeed when a spirit returns to the mortal plane of their own free will, especially so when they are sent by Arkay. This sword-wielding woman has been assigned as a psychopomp of sorts in your area, releasing ghosts and spirits of their earthly connections in order to ascend to the heavens above. She has found you to be an interesting mortal, and as such will be glad to fight by your side.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 15,
       "cost": 200,
-      "name": "Phantom Armor ",
-      "source": "TES: Undead",
-      "description": "When you died, you died in your armor. And when you returned, your armor returned with you, now possessing new properties. In addition to its new spectral look, it has brought the coldness of the grave with it. Whenever you’re struck by an enemy, the attacker will suffer frost damage equal to the damage they dealt to you.",
-      "chapter": "The Necromancer"
+      "name": "Star Orphan ",
+      "source": "TES: Imperial Cult",
+      "description": "Few are those who are followers and worshippers of the Magna-Ge, let alone those who have met one in the flesh. Though not the most powerful, this Aetherial entity has chosen to follow you to new worlds as a companion, for reasons completely alien to you. But why care about something as arbitrary as reasons and excuses when you have an entity on par with greater Dovah by your side.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 16,
-      "cost": 200,
-      "name": "Royal Attire ",
-      "source": "TES: Undead",
-      "description": "As an existence head and shoulders above mortals, it would only make sense that you would wear the best. Indeed, this elegant set of armor is just as useful as it is intimidating. Not only will you find that it’s much more durable than expected, but it is enchanted to boost your vampiric abilities, as well as lessening the effect the sun has on you.",
-      "chapter": "The Necromancer"
+      "cost": 0,
+      "name": "Housecarl ",
+      "source": "TES: Dovah",
+      "description": "Having been trained as a warrior from a young age, this Nordic woman has devoted herself to you, swearing to guard you, and all you own, with her life. Stoic and fearless, she will act as both your sword and your shield, taking care of many threats before you're even aware of them.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 17,
-      "cost": 200,
-      "name": "Bloodstone Chalice ",
-      "source": "TES: Daedra",
-      "description": "A relic created by a vampiric mage of old, this chalice is utterly unique in that it will never run out of fresh blood. But if that was the only draw, then it would be a rather poor relic. No, upon drinking from this chalice, a vampire would find their vampiric abilities doubled for three days. Drinking from it will also heal the vampire, as well as restoring any spent magicka.",
-      "chapter": "The Necromancer"
+      "cost": 100,
+      "name": "Energetic Barbarian",
+      "source": "TES: Warriors",
+      "description": "Though she may be short for a nord, this redheaded bundle of energy is a right terror in combat. Wielding a warhammer the size of a small child with surprising grace and agility, don't be surprised when anyone who gets in your way cries out over their lost kneecaps.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 18,
-      "cost": 200,
-      "name": "Shadowmere",
+      "cost": 100,
+      "name": "An Adoring Fan",
       "source": "Elder Scrolls: Oblivion",
-      "description": "Inky waters frothed and billowed unholy thick plumes of smoke, from which the silhouette of a horse was barely visible. When its glowing crimson eyes pierced this sinister cloud before the beast emerged it appeared more like a malevolent daedra than any creature of Nirn. This aggressively loyal and seemingly immortal being has entered your service. Her attacks are powerful and she never shies from entering combat alongside her master. Though it is undead Shadowmere shows no outward evidence of this nature beyond the overtly menacing stature. One tell might be the frankly unnatural rate of recovery from injury. Should this unparalleled steed somehow be slain, fear not! In a period of no greater than ten days she will be restored to unholy life near the site of death once again emerging in her frightening display from darkest depths.",
-      "chapter": "The Necromancer"
+      "description": "Maybe it was a stint in the arena, or perhaps the last job you did saved a life and earned someone’s deepest affection. Regardless, you’ve struck a chord with them earning the eternal enthusiastic adoration of a completely useless civilian. This could anyone from a bosmer lad to an argonian lass. Ultimately they are not very experienced in the ways of the world. But they’ll carry your weapons, shine your boots, and offer backrubs when the mood strikes. For some, this level of adoration could get a bit grating. It wouldn’t be out of character to hear, “You're the best! I'm going to follow you and watch you and worship the ground you walk on!” They are actually pretty dedicated to performing all the tasks they offer well though.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 19,
       "cost": 200,
-      "name": "An Uncaged Mind",
-      "source": "Elder Scrolls: Oblivion",
-      "description": "Little boys shouldn't summon up the forces of eternal darkness unless they have an adult supervision. Now normally, you need a witches coven, or a mages guild, or at least matching pillow case and sheets to invoke a daedric prince. They’re beyond the mortal scope, breadth, ken, blah, blah, blah. But these things are not beyond your scope, no siree! You have escaped limited scopes, breadths, and kens too! Your mind is free of such trappings. You have nothing to fear from the mind-shattering madness that comes from forbidden knowledge or embracing avatars of madness. Do you know what it’s called when you do the same thing over and over again and expect different results? Practice! And you, my good sir or ma’am or other preferred term of polite address are so extremely well-practiced at being sane it’s frankly insane. Nothing could break your mind any further than has already been done, congratulations!",
-      "chapter": "The Necromancer"
+      "name": "Star Beast",
+      "source": "TES: The Warrior Waves",
+      "description": "Not all creatures of the firmament are affectionate or benign, some being more than capable of destruction as the beings of Oblivion. One such creature, known as Aetherion, is a being created of starlight that is easily on par with a Daedric Titan or a dragon, rending flesh and stone as easily as one would a leaf. It would take a grand hero indeed to defeat such a monster, so what does that say about you, who commands it?",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 20,
-      "cost": 200,
-      "name": "Three Masks",
-      "source": "TES: Dovah",
-      "description": "The masks gifted to three of the Dragon Priests of Solstheim, each of these are connected to a specific element. Ahzidal allows the wearer to resist half of all hostile fire effects, while boosting their fire spells. Dukaan allows the wearer to resist half of all hostile frost effects, while boosting their frost spells. Zahkriisos allows the wearer to resist half of all hostile shock effects, while boosting their shock spells.",
-      "chapter": "The Necromancer"
+      "cost": 100,
+      "name": "Golden Queen",
+      "source": "TES: The Warrior Waves",
+      "description": "An ancient Nedic chieftain, this woman of golden hair underwent a ritual that gave her a life eternal and the very power of the stars above. She rides into battle bearing a stone hammer that glows with divine energy, which strikes with enough force to flatten a man in one blow. It is only through struggle that one can truly grow, and she sees you as a nexus of endless conflict.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 21,
-      "cost": 200,
-      "name": "Dragonhorn",
-      "source": "TES: Dovah",
-      "description": "Crafted from the horn of a slain dragon, this is one of many artifacts crafted by the Dragonguard, used as weapons against the Dragons. This magical warhorn is inscribed with various arcane runes, and capable of producing a tonal sound that temporarily incapacitates any dragons that hear it.",
-      "chapter": "The Necromancer"
+      "cost": 0,
+      "name": "Winged Assassin ",
+      "source": "TES: The Warrior Waves",
+      "description": "Though native to the mountainous lands to the north, it is not unheard of for harpies to find themselves in the Deathlands. Though charged with assassinating a necromancer searching for eternal life, she has found you to be an interesting soul, and will follow you from now on.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 22,
-      "cost": 200,
-      "name": "Armored Robes",
-      "source": "TES: Dovah",
-      "description": "Not all members of the Dragon Priests were content with the ceremonial robes, instead desiring something with more protection. This set of armored robes is as protective as steel armor, and offers a decent amount of magic resistance, reducing its effects by a quarter. Additionally, wearing it allows you to levitate a foot off the ground.",
-      "chapter": "The Necromancer"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
-      "__line": 23,
-      "cost": 200,
-      "name": "Necromantic Grimoire",
-      "source": "TES: Undead",
-      "description": "[200]: An ancient tome written by an unnamed necromancer, meant to help his students grow. This book is filled with a number of necromantic spells for you to learn, such as raising the nearby dead or summoning a spirit animal, but the amazing thing is that it will add new spells and rituals as you grow in both power and skill with necromancy.",
-      "chapter": "The Necromancer"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
-      "__line": 24,
-      "cost": 200,
-      "name": "Briarheart Tree ",
+      "cost": 0,
+      "name": "Green Princess ",
       "source": "TES: Main Races ",
-      "description": "A strange tree of red leaves that is cultivated by the Reachmen for their use in the ritual to create a Briarheart, it would ordinarily be planted within a corpse. Whether you actually do that or not is up to you, but the fruit they produce are useful for the previously mentioned ritual, using them as alchemical ingredients, or just having it to give some life to your home.",
-      "chapter": "The Necromancer"
+      "description": "When one thinks of royalty, they do not often expect this redheaded orc. For as beautiful a specimen as she is, for an orsimer, do not underestimate her, for she can take on whole groups of armored combatants with just her bare hands. Also, don’t let her sing, as she has caused birds to explode that way.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
+      "__line": 23,
+      "cost": 100,
+      "name": "Wolf Kissed ",
+      "source": "TES: Main Races ",
+      "description": "A nordic shieldmaiden from the frozen north, she is the epitome of what it means to be a nordic warrior. With dual axes and great physicality, she can cut off a man’s armored legs with but one swing, but what makes her truly dangerous is her adaptability and cunning.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
+      "__line": 24,
+      "cost": 0,
+      "name": "Troubled Kitten",
+      "source": "TES: Main Races ",
+      "description": "Though she may look like a young ohmes-raht and her character is that of pride and feline stereotypes, she is a truly broken soul. Captured and tormented by a high ranking member of the Thalmor until the point where she was completely despondent. Her memories of those events have been mostly purged, though she still has nightmares from those days.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 25,
-      "cost": 300,
-      "name": "Black Winter ",
-      "source": "Dark Brotherhood Jumpchain",
-      "description": "A powerful contact spell that freezes and paralyzes anyone you touch for several seconds, fairly expensive but deadly",
-      "chapter": "The Necromancer"
+      "cost": 100,
+      "name": "Eagle Bearer ",
+      "source": "TES: Main Races ",
+      "description": "A imperial woman from the colovian region who took to the arts of war like a duck to water, a tragedy had her separated from her family. With her enchanted spear, pet eagle, and Legion-like training, she goes out into the world to search for her wayward family.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 26,
-      "cost": 400,
-      "name": "Dragon Priest Masks ",
-      "source": "TES: Undead",
-      "description": "Granted to the Dragon Priests of Skyrim by the very Dragons themselves, each Dragon Priest Mask was a masterpiece, and imbued with unique enchantments. Hevnoraak, Krosis, Morokei, Nahkriin, Otar, Rahgot, Vokun, Volsung, Ahzidal, Dukaan, Zahkriisos. You are now the owner of all of these masks, with all the powers they grant.",
-      "chapter": "The Necromancer"
+      "cost": 200,
+      "name": "Soul Sword ",
+      "source": "TES: Main Races ",
+      "description": "A sword imbued with the spirit of a redguard prince, it has taken his skill, giving the blade a mind of its own. When in combat, it will seek out the weak points of an opponent, guiding your hand to deal the most damage you can. Should you find a way to awaken the soul within, you can even communicate with it.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 27,
       "cost": 400,
-      "name": "Silence of the Grave ",
-      "source": "TES: Undead",
-      "description": "Possibly the worst thing about death that you remember was the silence. The unending quiet, only your thoughts with you as you lay trapped within the void. This experience has changed you, granting you a power feared by most.You can unleash a curse upon a target that silences them, not only taking away their voice but also their ability to use magic. This may only be temporary, at most a minute or two, but it's enough to render many powerful entities into harmless bags of flesh.",
-      "chapter": "The Necromancer"
+      "name": "Staff of Hasedoki",
+      "source": "TES: Main Races ",
+      "description": "A magical staff that belonged to the wizard Hasedoki, who was, to the best of all knowledge, the greatest wizard of his time. It is said that he felt so lonely and isolated because so many feared his power, that he bonded his soul into his very own staff, where it remains. Using it will see a magical ward envelop you, protecting you from most magics while also casting Soul Trap upon any nearby enemies.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 28,
-      "cost": 400,
-      "name": "Soul Magic ",
-      "source": "TES: Magic",
-      "description": "Seen as a heretical and forbidden art, many forget that Mysticism does involve spells that facilitate the interaction and manipulation of souls. Soul trapping is the least of what you could do, with the potential to mend and cure the souls of any damage or impurities they may have. Of course, should you try your hand at it, you would have a great talent for the necromantic arts.",
-      "chapter": "The Necromancer"
+      "cost": 100,
+      "name": "Barrels of Mead",
+      "source": "TES: Main Races ",
+      "description": "Any true nord knows that there are fewer things better in life than being surrounded by friends and having a belly full of mead. Such is the purpose behind these number of barrels, each one filled with a brand of mead, from the standard stuff all the way to the rare and vaunted Black-Briar Reserve. These barrels will never empty, spilling forth an endless amount of the sweet drink for all to enjoy.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 29,
       "cost": 400,
-      "name": "Ghostblade",
-      "source": "TES: Undead",
-      "description": "Just like your armor, when you died you died with your weapon in your hand. Now that you have arisen with it, it has gained new ghostly properties. In addition to dealing a large amount of frost damage to your target, it can also bypass armor and even skin completely, damaging the insides of your target directly.",
-      "chapter": "The Necromancer"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
-      "__line": 30,
-      "cost": 400,
-      "name": "Ghostly Pack",
-      "source": "TES: Undead",
-      "description": "No man is an island, and a lone wolf is a dead wolf. Sometimes personal power isn't enough, and where you are against forces that vastly outnumber you. Now though, you never have to fear being alone. With a haunting howl, you can summon up to ten spectral werebeasts to fight by your side. Though they may never be as strong as you are, nor have the versatility you might possess, you will find that quantity is a quality unto itself.",
-      "chapter": "The Necromancer"
-    },
-    {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
-      "__line": 31,
-      "cost": 400,
-      "name": "Nightwielder ",
+      "name": "Local Leader",
       "source": "TES: Rogue",
-      "description": "You have learned the signature magic of Azra Nightwielder, Shadow Magic, which grants powerful abilities outside the classical schools of magic. You are an undisputed master of this rare and difficult magic, able to can create objects and familiars of pure shadow, teleport short distances by slipping through the cracks of reality, hide yourself in the tatters of space-time to evade the notice of everything around you, manipulate probability and potential, and much more. At its strongest, it even has the capability to reach into and affect the multiverse.",
-      "chapter": "The Necromancer"
+      "description": "People are often not the best when it comes to deciding what it is they want, focusing more on the short term than the future, and ignoring what they actually need in favor of what they think they desire. You have a powerful insight to your people, your subjects and followers and companions, possessing an almost sixth sense for determining what they want, what they actually need, and what separates the two.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
+      "__line": 30,
+      "cost": 200,
+      "name": "Knights of the Nine",
+      "source": "TES: Imperial Cult",
+      "description": "It's not every day when an order of knights dedicated themselves to you, but that is exactly what's happened here. These nine knights of various races and backgrounds share a few things in common, like each one being blessed by a different Divine, and their undying loyalty to you. Whether they become your Companions or Followers is up to you, but each knight is skilled enough in combat to take on ten men at once and come out on top with ease.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
+      "__line": 31,
+      "cost": 100,
+      "name": "Faithful Hound",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Dogs have been considered man's best friend for ages and for good reason too. They’re able to help greatly when it comes to tracking a target, they’re loyal, and generally just nice companions to have. Which is nice since you now have a faithful hound of your own. Whether you bought it or found it roaming the wilds this dog is both a loyal and surprisingly capable compatriart more than capable of killing wolves and even bringing bandits down should they not be well armored. Though perhaps you just want the dog as a pet, either works. This acts as a follower and not a companion, if killed the dog will return given a few days and should you wish it your new pet can become a companion if imported later on.",
+      "chapter": "The Follower"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 32,
-      "cost": 400,
-      "name": "Will Of Sithis ",
-      "source": "Dark Brotherhood Jumpchain",
-      "description": "You have learned a spell that allows you to give commands to any sentient humanoid and have them obey any orders you give them for a short time, powerful but high magic cost to use",
-      "chapter": "The Necromancer"
+      "cost": 600,
+      "name": "Daedric Champion ",
+      "source": "TES: Daedra",
+      "description": "Your Prince has looked upon you, and found within you the perfect instrument to enact their will upon Tamriel. Not only are you a cult leader on par with Mankar Camoran, managing a province spanning network of hidden cultists with very few ever able to locate all of your followers, but you have been given a boon by your chosen Prince. A champion of Azura may receive visions of the future, while a champion of Peryite could unleash a deadly cloud of sickness.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 33,
-      "cost": 400,
-      "name": "A Kiss, Sweet Mother: ",
-      "source": "Elder Scrolls: Oblivion",
-      "description": "They became as black queens, screaming live with a hundred murderous sons, a thousand murderous arms, and a hundred thousand murderous hands, one vast moving event of thrusting-kill-laughter in alleys, palaces, workshops, cities and secret halls.” The immortal spirit of the Night Mother is revered and worshipped by the Dark Brotherhood. Whenever a person prays for the death of another, it is heard. A ritual known as the Black Sacrament is often used to best communicate these desires and intent to reach her – where an effigy made from deceased remains is used in a macabre display of reenacting the Night Mother’s own death. The Night Mother hears these requests and passes on the details to her Listener. You are that Listener. From this point you can reach out to the desperate party to come to an arrangement on how to grant their prayers. Through this system you can be contacted by prospective clients that want you to end lives. This alone is easily enough to begin a vast information network and untraceable assassination business.",
-      "chapter": "The Necromancer"
+      "cost": 100,
+      "name": "Gilded Glory ",
+      "source": "The Elder Scrolls - The Shivering Isle",
+      "description": "The defenders of Mania, the Aureal (or Golden Saints) are the strongest warriors in the Shivering Isles. Typically decked out in their signature golden-hued heavy armor, they excel in close quarters battle and make for excellent shock troops – though they are predisposed towards arrogance and are not particularly suited to more subtle endeavors. You gain the ever-lasting servitude of ten of these soldiers, all of whom are unfailingly loyal to you and will serve your every command without question. Furthermore, as Daedra, death is merely a temporary setback to them, and not even suicidal orders will cause them to hesitate. In most cases, they’ll instead feel honored that they can spend their lives in your service. You can summon each of these individuals to you once per day with a brief exertion of your will, an act which will also restore them to life if they were previously slain. These Golden Saints do not count as Companions by default, though you can make them such if you wish.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 34,
       "cost": 400,
-      "name": "The Dark Practice",
-      "source": "Elder Scrolls: Oblivion",
-      "description": "To view necromancy as part of the school of conjuration is misinformed. This is a multidisciplinary magic requires an understanding on mysticism, restoration, and enchantment practices as well. You have a foundation in each of these fields. Most soul trapping busies itself with the binding and use of white souls of lesser beings, only taking the animating energy of the spirit instead of the identity. You have branched into the arcane arts which harvest and use the black souls of sentient beings. This entraps not just the energy of life, but their identity with it. You understand the secret rituals of crafting black soul gems from white ones. The necromantic rituals for creating your own permanent undead minions are likewise known to you. With time and access to resources, you could build a formidable army of skeletons, spirits, zombies, or whatever other undead you require. Your skill in reanimating the dead makes you peer to figures like Mannimarco and Potema. When you wrest a soul from its owner and use that power to create another undead minion, you will them easy control, keeping any original personality subjugated as you refashion it into the servant you need. Achieving a state of lichdom would be possible for you, should you wish it. Binding your servants to your own life force as a means to control them, like some vampire clans or dragon cults is also within your skillset.",
-      "chapter": "The Necromancer"
+      "name": "Dragonguard ",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "Every warrior needs his companions and naturally you’re no exception. Following your lead is now a sizable organization of warriors and heroes of notable repute. The group can be designed however you wish and oriented around in a way that pleases you, want a band of dragon slaying Knights at your beck and call, great, or perhaps Vampire hunters like the Dawnguard are more preferable to you. This can even be as much as just being a group of people who congregate together due to a shared love of adventure, the point is that the sky’s the limit with this. The average member is just that, average, however there are a number of higher ranking members who are notably stronger and more capable to make up for this. Fortunately the group is also in a solid position to expand and grow should you wish that as well.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 35,
-      "cost": 400,
-      "name": "Peerless Eyes",
-      "source": "TES: Dovah",
-      "description": "The eyes of mortals do more than see, and you have got some unique eyes of your own, capable of seeing past illusions in order to see reality for what it truly is. This is more than a metaphor, as illusions no longer affect you, be they visual, audial, or even scent or taste based. You are also immune to lesser forms of illusions, such as hypnosis.",
-      "chapter": "The Necromancer"
+      "cost": 600,
+      "name": "The Five Hundred Companions",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "There’s just something about you, a certain aura about your person that just draws people to you. While others may have charisma on a personal level you have it on a far grander level, that of a Warrior King or leader like Ysgramor. This is the charisma required to win over entire peoples and crown oneself king and where a personal level of charisma may be like honeyed words someone can’t resist, this is akin to a roaring tempest that drags people to you. Warriors, mages and others will find themselves drawn to your banner should you raise it and you’ll quickly find yourself surrounded by competent advisors and companions like Ysgramor and his ilk were. This also comes with the knowledge to lead your troops in such a manner that would earn you the respect of grizzled generals and veterans, after all what’s the point of all these people if you can’t lead them?",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 36,
-      "cost": 400,
-      "name": "Eternal Corpse",
-      "source": "TES: Alessian Rebellion",
-      "description": "Even though Mannimarco would be thought of as the first recorded lich, one who utilized necromancy to achieve eternal unlife, he was not the first to walk the path. Like many powerful sorcerers and Ayleid kings, you have managed to imbue yourself with death magicks to achieve a similar result, becoming as ageless as the stars themselves. You no longer possess any need to eat, drink, sleep, or even breathe, as well as requiring only your skeleton to be mostly intact to continue surviving. Additionally, you will find that all magicks related to the soul and its manipulation have been empowered, nearly three times as potent as before.",
-      "chapter": "The Necromancer"
+      "cost": 200,
+      "name": "The Prisoner",
+      "source": "Elder Scrolls Skyrim SB Jump",
+      "description": "This rather odd young Nordic woman you ran into not too long ago is a curious sort, clad in a mix-match of worn Stormcloak and Imperial light armor she claims a rather fantastical tale of a dragon laying waste to Helgen just as the Empire was just about to execute Ulfric Stormcloak and other prisoners, though her sheer energy and drive to reach Whiterun to warn the Jarl certainly lend credit to her words. Regardless of your trust in her words you struck of something of an burgeoning friendship with her after you helped fight off several bandits that had ambushed the lass and showed yourself an agreeable sort. Left in over her head she asked if you’d accompany her as a traveling companion of sorts if you’d like given she could use a partner in traveling Skyrim, a homeland she has little experience with in truth. Accept and you’ll be joined by a free spirited young woman eager to see the world and even try to make a difference in it for the better, and while she may lack for skills now the adventures you two engage with will see her grow in ability in leaps and bounds.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 37,
-      "cost": 400,
-      "name": "Flesh Shaping",
-      "source": "TES: Alessian Rebellion",
-      "description": "Many cruel Ayleid sorcerers, especially those who embraced the worship of the daedra, have created horrors beyond what most modern people could even conceive. Some of the worst involved the manipulation of their subject’s own flesh and blood. Their skills with biomancy could be used to heal grievous wounds, or keep their victims alive for nearly as long as they desire, much to the victim’s despair. They could even create horrific, chimeric monsters from the flesh of the dead as well as living. You are an expert with this type of magic, as well as possessing an in depth knowledge of human and elven biology.",
-      "chapter": "The Necromancer"
+      "cost": 100,
+      "name": "Royal Lineage ",
+      "source": "Elder Scrolls Companions Supplement",
+      "description": "Altmer restoration mistress specialized in wards and anti-undead spells rather than healing. Claims to be the princess of the Summerset Isles, holds a grudge against orcs and redguards due to having been ousted from her home by a half breed of those races. Blessed by Julianos.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 38,
-      "cost": 400,
-      "name": "Blade of Harkon ",
-      "source": "TES: Undead",
-      "description": "An akaviri katana once wielded by the head of the Volkihar Clan, Lord Harkon. The crossguard has been designed to resemble the face of Molag Bal. When used by a vampire, it will drink deeply of it's target's life force, draining away their vitality, stamina, and magicka in order to replenish your own. It also acts as an excellent catalyst for blood magicks, should you be proficient with them.",
-      "chapter": "The Necromancer"
+      "cost": 200,
+      "name": "Knight Of Treachery ",
+      "source": "Elder Scrolls Companions Supplement",
+      "description": "Bastard daughter of a Daggerfall noble who was made a knight in their father's court. Was denied the position of heir despite being the first born and sought to take her father's throne by force. Wild and aggressive in combat, wears heavy armor, and wields a stolen great sword that she uses alongside crimson lightning spells powered by her hatred for her parents.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 39,
-      "cost": 400,
-      "name": "Golden Skull of Beela-Kaar ",
-      "source": "TES: Main Races ",
-      "description": "Long ago, the argonian necromancer Beela-Kaar performed a ritual. The original goal of this ritual is unknown, as it ultimately consumed his body and only left his now golden skull. When channeling magic through this skull, you are capable of summoning and controlling numerous argonian ghosts and spirits, allowing you access to an army of the dead and damned. They can only be harmed by magic, silver, daedric and enchanted weaponry, and are absolutely subservient to you and no one else.",
-      "chapter": "The Necromancer"
+      "cost": 200,
+      "name": "Mead Hall",
+      "source": "TES: Warriors",
+      "description": "Every good band of warriors needs a place to rest their laurels, where they can drink as much mead as possible and embellish their tales of valor. This mead hall is just that, a place that gives off a constant aura of revelry and brotherhood as surely as the barrels of mead and other such spirits will never run dry. Now it's just a question of how everyone will get home when they're piss drunk.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 40,
-      "cost": 600,
-      "name": "King of Worms",
-      "source": "TES: Undead",
-      "description": "Mannimarco is often credited as the first modern lich as we know them today, and is one of the most powerful mages to have existed. Much like him, you have reached the peak of necromancy. All undead you raise are much more powerful, durable, faster, and more intelligent than they otherwise would be. Additionally, there is no limit to how long your undead may be animated, nor how many you can control at any given time. With such power at your fingertips, it would be wise to fear you.",
-      "chapter": "The Necromancer"
+      "cost": 100,
+      "name": "Twilight Princess",
+      "source": "Elder Scrolls Companions Supplement",
+      "description": "Dunmer who uses alteration to manipulate shadows, allowing her to store objects (and herself) inside them. Also uses it to control her hair as an extra limb, and give it the volume and strength needed to act as a lethal weapon. Formerly the ruler of a small nation of Azura worshipers but was thrown out by one of her subjects who made a deal with Mehrunes Dagon and started a violent revolution.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 41,
-      "cost": 600,
-      "name": "Overtaken",
-      "source": "TES: Undead",
-      "description": "It was your will that brought you back from the realm of the dead, your resolve that allows you to retain your free will. Not many possess the same amount of willpower, which is quite unfortunate for them. Why? Because you can now possess people and objects, controlling them and their actions as if it was yourself should their willpower be found lacking. You will retain full access to your abilities, and can access your vessel's memories. Why, you could even possess dragons, should you be powerful enough.",
-      "chapter": "The Necromancer"
+      "cost": 0,
+      "name": "Armored Horse ",
+      "source": "TES IV: Oblivion Remastered",
+      "description": "The Heartlands are a large area, one that cannot simply be traversed through on foot in any timely manner. As such, you have been given this armored steed, a hearty warhorse that will never flinch in even the most hectic of battles. You will also find that it possesses great speed that scales with your own, always capable of going faster than you.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 42,
       "cost": 600,
-      "name": "Staff of Worms",
-      "source": "TES: Undead",
-      "description": "The ebony staff once owned by the King of Worms, Mannimarco. Not only does it greatly empower any spells channeled through it, but it makes any of the undead you have risen far more physically capable than they otherwise would have been, easily the equivalent of ten others. Additionally, it allows you to perfectly see and hear through your undead’s eyes and ears, somehow.",
-      "chapter": "The Necromancer"
+      "name": "Thieves Den",
+      "source": "TES IV: Oblivion Remastered",
+      "description": "The final resting place of the infamous pirate ship, the Red Sabre, Dunbarrow Cove is the ideal haven for ne’er-do-wells. While you may one day get the ship sea worthy again, the true value is in the pirate crew that now pledge their loyalty to you, not only offering you training and a reliable fence to sell your stolen goods to, but the crew will go out and raid, bringing back the loot and sharing a sizable amount with their captain. The best part is that they never seem to be followed back to the Cove, as though it is impossible for the law to locate your den.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 43,
       "cost": 600,
-      "name": "Portal ",
-      "source": "TES: Undead",
-      "description": "With your newfound existence, a question must be asked. Now that you came back from the afterlife to the mortal realm, can you do the reverse? With this purchase, that answer is yes. You now own a portal into your chosen afterlife, be it the eternal feasts of Sovngarde, or even a Daedric Realm should you so desire. No inhabitants can cross over to your side without your express and willing permission, so that should ease some of your worries.",
-      "chapter": "The Necromancer"
+      "name": "Knightly Lodge",
+      "source": "TES IV: Oblivion Remastered",
+      "description": "Tucked away into the countryside, this priory is the perfect place for any burgeoning knightly order to make a home for themselves. It holds enough room for a dozen knights, a training yard to keep their skills sharp, a smithy to keep their blades even sharper, a chapel for those of a religious persuasion, as well as other quality of life facilities. Yet the true value of this lodge is the undercroft, where the bodies of eight other knights have been laid to rest. By offering your respects to one of the graves, you will be blessed with a notably increased attribute, though you may only have one blessing at a time.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 44,
-      "cost": 600,
-      "name": "Vampiric Castle",
-      "source": "TES: Undead",
-      "description": "After many decades or even centuries of unlife, it is not uncommon for a vampire to gain their very own castle. You are one of those, owning your own dark castle perfectly fit for your vampiric self. In addition to all the amenities you’d expect from a castle, the windows block out the harmful effects of the sun, there are many replenishing barrels of blood in the basement, and there are dozens of gargoyles to protect the area from any invaders. There’s also an alter to Molag Bal, where he can communicate with you and vice versa, but that’s entirely optional.",
-      "chapter": "The Necromancer"
+      "cost": 200,
+      "name": "Friendly Fire ",
+      "source": "TES: Magic",
+      "description": "For as fun and as devastating a battlefield through elemental fury is, it can be quite the hassle when you need to ensure any allies you may possess don't get caught up in your destruction. Thankfully, you will never have to worry about that ever again, as your spells will never harm your allies ever again, completely ignoring them. From elemental cloaks to massive explosions of magical power, those by your side will never be harmed by your hands.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 45,
-      "cost": 600,
-      "name": "Vampire Lord",
-      "source": "TES: Undead",
-      "description": "You are not some freshly turned fledgeling, but a proper Vampire Lord, one who has been around for centuries. No matter what bloodline you hail from, all of your vampiric abilities are at the very peak. No matter what, all will be able to shapeshift into two or three mundane animals, turn into mist, hypnotize others with a glance, possess flawless control over bats, and even a limited ability to alter the weather. In addition, all of your vampiric weaknesses have been heavily reduced, if not removed completely, and you are no longer weakened by the sun.",
-      "chapter": "The Necromancer"
+      "cost": 400,
+      "name": "Mighty Fortress ",
+      "source": "TES: Warriors",
+      "description": "For those of you who want more than just a bed at an inn or a sleeping roll, you can never go wrong with a sturdy fortress to call your home. Its walls are sturdy, its design focused towards defense and repelling invaders, it has the room to house dozens of soldiers, as well as enough supplies to arm them and keep them fed for as long as needed. The heraldry and aesthetics are ultimately up to you, but regardless of what you choose, this will be a tough nut that few could crack.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 46,
       "cost": 600,
-      "name": "Mysterium Xarxes:",
-      "source": "Elder Scrolls: Oblivion",
-      "description": "Greetings, novitiate, and know first a reassurance: Mankar Camoran was once like you, asleep, unwise, protonymic. This book is your doorway to liberate yourselves from the trappings of Mundus. It is an artifact of great power. It is revolution, cutting, and change. Merely handling the book can be dangerous. One example of the power of this tome would be creating a personal plane of Oblivion to bring the souls of those that follow your teachings upon their deaths. It is also possible to remake one’s body through transformative powers of the tome, altering your race and even carrying the blood of kings. In less direct power, the teachings within allow one great understanding in how to sever magical covenants and overthrow empires, but it would be up to you to put that knowledge into practice.",
-      "chapter": "The Necromancer"
+      "name": "Vile Lair ",
+      "source": "TES IV: Oblivion Remastered",
+      "description": "An asylum for the wicked, giving refuge from persecution by the virtuous. Deepscorn Hollow is an underwater hideout that provides the infamous with a safe haven. Those willingly inflicted, or should we say graced, with vampirism will find a means to feed, and if necessary, a means to cure their infliction. The evil minions within will be all too eager to do your bidding, and the shrine to Sithis will offer its blessing when one prays to it.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 47,
-      "cost": 600,
-      "name": "Large Island",
-      "source": "TES: Dovah",
-      "description": "The island of Solstheim is a remote place, it has a long history of habitation by other races, but it has traditionally been primarily Nordic in influence. The southern half is relatively temperate, and houses the town of Raven Rock, as well as Fort Frostmoth. The northern half is more arctic in nature, with constant snow and large glaciers. In the center is a mighty temple, built around one of the six All-Maker Stones that dot the island. You are this island’s new master, with all who inhabit it bowing to your rule. Should you desire it, the southern half of the island may better resemble Morrowind, like it was after the eruption of Red Mountain.",
-      "chapter": "The Necromancer"
+      "cost": 100,
+      "name": "Guards and Servants",
+      "source": "The Elder Scrolls Series",
+      "description": "Whether you're off travelling on the road, or staying home, it can get tedious doing all of this household maintenance yourself. Well, you no longer have to, as you now have people who do that for you. Under the supervision of a Steward and a Guard Captain, you've got servants to take care of your home and guards to protect it, as well as enough room to house them. The amount you gain is proportional to how large your home is.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 48,
-      "cost": 600,
-      "name": "Unfeathered",
-      "source": "TES: Alessian Rebellion",
-      "description": "Much like the demigod hero of the Ayleids, Umaril the Unfeathered, you possess a connection to the waters of Oblivion, similar in nature to that of a daedra. Due to this connection, death will come to hold little meaning to you. Once per year, you are capable of resurrecting yourself no matter how horrifically brutal your death was. You’ll simply reappear the next day in a flash of golden light. The only way to bypass this resurrective power of yours would be to strike directly at your soul, though few can boast such capabilities.",
-      "chapter": "The Necromancer"
+      "cost": 200,
+      "name": "Love Eternal",
+      "source": "TES: Imperial Cult",
+      "description": "It is a sad day when love withers and dies, the knots tying their hearts no longer as strong as they once were. Yet there is hope, for you now bear an amazing gift, that of fixing relationships. You seem to know exactly what to do in order to strengthen the relationships of both yourself and others, turning those weak saplings into mighty oaks that cannot be worn down by time or negligence, such that not even in death will they part. Any relationships you have are especially mighty, unable to degrade without active participation on your end.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 49,
-      "cost": 600,
-      "name": "Soul Cairn",
-      "source": "TES: Undead",
-      "description": "Perhaps you made a deal with one of the Ideal Masters, or you conquered their territory for yourself. Regardless, you now claim ownership of a portion of the Soul Cairn, with all that entails. Not only will you receive a steady supply of souls for whatever purpose you desire, but it is also filled with powerful undead that will obey your every command, including three dragonbone-clad Keepers and a powerful entity known only as the Soul Reaper.",
-      "chapter": "The Necromancer"
+      "cost": 50,
+      "name": "Oaken Maiden",
+      "source": "TES IV: Oblivion Remastered",
+      "description": "An experienced adventurer, this bosmer has been around and facing all that Tamriel has to offer for the better part of a century, and has only emerged more deadly. As one of the elder members of the Guild, she takes it upon herself to make sure that many of the fresh recruits are actually able to take on more dangerous jobs. Perhaps in you she was reminded of an old friend, or just another young hero that could need her guidance and wisdom.",
+      "chapter": "The Follower"
     },
     {
-      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Follower",
       "__line": 50,
-      "cost": 600,
-      "name": "Ghul-Mora ",
-      "source": "TES: Main Races ",
-      "description": "All bosmer know that to take part in the Wild Hunt is to lose your form forever, to be reduced to just a beast. It is even believed that all bestial monsters originate from at least one Wild Hunt. You are now in possession of an absolutely massive stretch of forest filled with all manner of beasts and monsters, both familiar and alien. The exact population is self-regulating, and even if you were to clear this dark forest in its entirety, it would simply replenish itself after a week, with all sorts of new monsters eager for flesh.",
-      "chapter": "The Necromancer"
+      "cost": 50,
+      "name": "Stellar Soldier",
+      "source": "TES IV: Oblivion Remastered",
+      "description": "Crashed down to Cyrodiil from the stars, this lithe woman is a fierce warrior, even by the standards of orcish society. She claims to be a member of an order of knights that have carved a place for themselves amidst the infinite waters of Oblivion, and sees the ongoing crisis as a way to prove her worth and the right to rejoin her people. Will her strength and determination be enough to prove herself to her order’s grandmaster, or must she walk another path in exile?",
+      "chapter": "The Follower"
     }
   ],
-  "5": [
+  "4": [
     {
       "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Rogue ",
       "__line": 1,
@@ -2257,6 +1805,458 @@
       "source": "Elder Scrolls Skyrim SB Jump",
       "description": "Send your child unto me, for the sins of the unworthy must be baptised in blood and fear. A child of Sithis, or at least someone who must’ve been touched by the entity is here. That would be you Jumper, for your world is that of the shadows and your trade is in blood and murder. When it comes to the art of assassination there are very few in the Dark Brotherhood’s history who were quite as good as you were. Sneaking into a heavily guarded fortress, silently slaughtering your way through so you can plant your dagger in a King’s chest is just as easy as it would be for you to cut your way through a camp of drunken bandits. More than that, skills such as impersonating officials and guards is child’s play and dancing around alerted foes and slipping a dagger through their armor is much the same, all without even being close to touched. An Archmage or a Warrior King may be titans on the field of battle, but what can they do about the knife they can’t even see?",
       "chapter": "The Rogue"
+    }
+  ],
+  "5": [
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 1,
+      "cost": 0,
+      "name": "Burial Urn ",
+      "source": "TES: Undead",
+      "description": "What you now possess is a small urn with your name on it, only around the size of the average horse skull. Inside will always be a few gold coins, a gem or two, as well as the ashes of a dead person. These will restock when you place the lid back on.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 2,
+      "cost": 100,
+      "name": "Ancient Nord Set ",
+      "source": "TES: Undead",
+      "description": "You were entombed with your armor in death, and now it will protect you in unlife. You are now in possession of a high-quality set of ancient nordic armor and weapons, as well as daily replenishing arrows, each just as effective as the day they were forged.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 3,
+      "cost": 100,
+      "name": "Black Soul Gems ",
+      "source": "TES: Undead",
+      "description": "During your studies of necromancy, you have discovered that there were few items as useful in the dark arts than black soul gems. These are the only type of soul gems that can handle the souls of the mortal races. How lucky you are, then, that you are now in possession of twenty replenishing black soul gems, each filled and replenishing after a week.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 4,
+      "cost": 100,
+      "name": "Life Return Ritual",
+      "source": "TES: Undead",
+      "description": "Well then, it seems as though you have taken a page out of Falion’s journal, quite literally I might add. You are now in possession of a small book containing various rituals meant to return the various types of Undead back into their original mortal selves. This can also be used to affect undead creatures in any future worlds you may decide to visit. Not many who embraced undeath may be so willing to undergo such a ritual, though.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 5,
+      "cost": 100,
+      "name": "Ancient Coins",
+      "source": "TES: Undead",
+      "description": "Did you really expect that septims were the only currency found within Tamriel? No, many cultures before the Third Empire utilized coins as currency, and you now have proof of that. One hundred coins from some ancient or far off civilization, they're more valuable as collectors items then anything, but at least they'll replenish each week.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 6,
+      "cost": 100,
+      "name": "Priestly Staff ",
+      "source": "TES: Dovah",
+      "description": "An elegant staff carved in the likeness of a dragon, these were gifted to many of the Dragon Priests, and were highly treasured. Not only does wielding one of these staves reduce the cost of your destruction magic, but it will make any fire related abilities twice as powerful.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 7,
+      "cost": 100,
+      "name": "Treasure Pile",
+      "source": "TES: Dovah",
+      "description": "Though it may be a stereotype, there is nothing wrong with hoarding vast amounts of wealth. With each purchase of this, you will receive a pile of gold, gems, and jewelry that is worth around one hundred thousand septims.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 8,
+      "cost": 100,
+      "name": "Kahvozein's Fang ",
+      "source": "TES: Dovah",
+      "description": "A bronze dagger made in the standard fashion of the Dragon Cult, it was used in many arcane rituals utilizing Dragon Heartscales. Their draconic essence seems to have granted this dagger some manner of power, allowing it to completely bypass the natural defenses of dragons.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 9,
+      "cost": 100,
+      "name": "Bone Hawk",
+      "source": "TES: Undead",
+      "description": "These predatory birds are actually a type of undead creature, and can typically be found as pets or familiars to various undead. Yours is bonded to you, obeying your commands and allowing you to see through its eyes and ears. This bird especially loves it when given red meat, even though they don’t need to eat.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 10,
+      "cost": 100,
+      "name": "Death Hound",
+      "source": "TES: Undead",
+      "description": "Death Hounds are used as guardians by vampires. How they came to be is unknown, but their bite is as cold as the grave. This one in particular is exceptionally trained, and will obey your orders to the best of its abilities. Be sure to give it plenty of belly rubs, yeah?",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 11,
+      "cost": 100,
+      "name": "Skeletal Dragon",
+      "source": "TES: Undead",
+      "description": "There are few creatures as mighty as the Dragons, and that strength permeates their very bones. Literally, as they are considered more durable as refined ebony. So I’m certain you can find some uses for this animated dragon skeleton, which is skill capable of flight, somehow, and can only use the shouts Unrelenting Force, Fire Breath, and Frost Breathe.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 12,
+      "cost": 100,
+      "name": "Monstrous Gargoyle ",
+      "source": "The Elder Scrolls Series",
+      "description": "Gargoyles are a race of living statues that have been animated by a wizard or vampire, often found guarding dungeons, castles, and ancient ruins. As expected, this powerful Gargoyle is extremely loyal to you, has skin as tough as stone, claws that can easily rend flesh, and is immune to poison and paralysis effects.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 13,
+      "cost": 200,
+      "name": "Ideal Master ",
+      "source": "TES: Undead",
+      "description": "The power offered by the Ideal Masters of the Soul Cairn is a tempting prize, leading the ambitious and foolhardy necromancers to their certain doom. But you? You knew what you were doing, knew just how to deal with those entities, and are one of the few that prospered. You are able to summon the powerful undead found within the Soul Cairn, from the common Bonemen to the powerful Keepers, all at a fraction of the magicka cost it would normally take.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 14,
+      "cost": 200,
+      "name": "Wisp Mother ",
+      "source": "TES: Undead",
+      "description": "There are many legends of wisps, of how they lure the unsuspecting into the arms of ghostly women who feed on their life force. It seems like the legends are not incorrect, as you are capable of summoning wisps to your side. They can drain the health and stamina from enemies, healing you in the process. They can also disguise themselves as you, though it will only be an illusion.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 15,
+      "cost": 200,
+      "name": "Phantom Armor ",
+      "source": "TES: Undead",
+      "description": "When you died, you died in your armor. And when you returned, your armor returned with you, now possessing new properties. In addition to its new spectral look, it has brought the coldness of the grave with it. Whenever you’re struck by an enemy, the attacker will suffer frost damage equal to the damage they dealt to you.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 16,
+      "cost": 200,
+      "name": "Royal Attire ",
+      "source": "TES: Undead",
+      "description": "As an existence head and shoulders above mortals, it would only make sense that you would wear the best. Indeed, this elegant set of armor is just as useful as it is intimidating. Not only will you find that it’s much more durable than expected, but it is enchanted to boost your vampiric abilities, as well as lessening the effect the sun has on you.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 17,
+      "cost": 200,
+      "name": "Bloodstone Chalice ",
+      "source": "TES: Daedra",
+      "description": "A relic created by a vampiric mage of old, this chalice is utterly unique in that it will never run out of fresh blood. But if that was the only draw, then it would be a rather poor relic. No, upon drinking from this chalice, a vampire would find their vampiric abilities doubled for three days. Drinking from it will also heal the vampire, as well as restoring any spent magicka.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 18,
+      "cost": 200,
+      "name": "Shadowmere",
+      "source": "Elder Scrolls: Oblivion",
+      "description": "Inky waters frothed and billowed unholy thick plumes of smoke, from which the silhouette of a horse was barely visible. When its glowing crimson eyes pierced this sinister cloud before the beast emerged it appeared more like a malevolent daedra than any creature of Nirn. This aggressively loyal and seemingly immortal being has entered your service. Her attacks are powerful and she never shies from entering combat alongside her master. Though it is undead Shadowmere shows no outward evidence of this nature beyond the overtly menacing stature. One tell might be the frankly unnatural rate of recovery from injury. Should this unparalleled steed somehow be slain, fear not! In a period of no greater than ten days she will be restored to unholy life near the site of death once again emerging in her frightening display from darkest depths.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 19,
+      "cost": 200,
+      "name": "An Uncaged Mind",
+      "source": "Elder Scrolls: Oblivion",
+      "description": "Little boys shouldn't summon up the forces of eternal darkness unless they have an adult supervision. Now normally, you need a witches coven, or a mages guild, or at least matching pillow case and sheets to invoke a daedric prince. They’re beyond the mortal scope, breadth, ken, blah, blah, blah. But these things are not beyond your scope, no siree! You have escaped limited scopes, breadths, and kens too! Your mind is free of such trappings. You have nothing to fear from the mind-shattering madness that comes from forbidden knowledge or embracing avatars of madness. Do you know what it’s called when you do the same thing over and over again and expect different results? Practice! And you, my good sir or ma’am or other preferred term of polite address are so extremely well-practiced at being sane it’s frankly insane. Nothing could break your mind any further than has already been done, congratulations!",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 20,
+      "cost": 200,
+      "name": "Three Masks",
+      "source": "TES: Dovah",
+      "description": "The masks gifted to three of the Dragon Priests of Solstheim, each of these are connected to a specific element. Ahzidal allows the wearer to resist half of all hostile fire effects, while boosting their fire spells. Dukaan allows the wearer to resist half of all hostile frost effects, while boosting their frost spells. Zahkriisos allows the wearer to resist half of all hostile shock effects, while boosting their shock spells.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 21,
+      "cost": 200,
+      "name": "Dragonhorn",
+      "source": "TES: Dovah",
+      "description": "Crafted from the horn of a slain dragon, this is one of many artifacts crafted by the Dragonguard, used as weapons against the Dragons. This magical warhorn is inscribed with various arcane runes, and capable of producing a tonal sound that temporarily incapacitates any dragons that hear it.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 22,
+      "cost": 200,
+      "name": "Armored Robes",
+      "source": "TES: Dovah",
+      "description": "Not all members of the Dragon Priests were content with the ceremonial robes, instead desiring something with more protection. This set of armored robes is as protective as steel armor, and offers a decent amount of magic resistance, reducing its effects by a quarter. Additionally, wearing it allows you to levitate a foot off the ground.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 23,
+      "cost": 200,
+      "name": "Necromantic Grimoire",
+      "source": "TES: Undead",
+      "description": "[200]: An ancient tome written by an unnamed necromancer, meant to help his students grow. This book is filled with a number of necromantic spells for you to learn, such as raising the nearby dead or summoning a spirit animal, but the amazing thing is that it will add new spells and rituals as you grow in both power and skill with necromancy.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 24,
+      "cost": 200,
+      "name": "Briarheart Tree ",
+      "source": "TES: Main Races ",
+      "description": "A strange tree of red leaves that is cultivated by the Reachmen for their use in the ritual to create a Briarheart, it would ordinarily be planted within a corpse. Whether you actually do that or not is up to you, but the fruit they produce are useful for the previously mentioned ritual, using them as alchemical ingredients, or just having it to give some life to your home.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 25,
+      "cost": 300,
+      "name": "Black Winter ",
+      "source": "Dark Brotherhood Jumpchain",
+      "description": "A powerful contact spell that freezes and paralyzes anyone you touch for several seconds, fairly expensive but deadly",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 26,
+      "cost": 400,
+      "name": "Dragon Priest Masks ",
+      "source": "TES: Undead",
+      "description": "Granted to the Dragon Priests of Skyrim by the very Dragons themselves, each Dragon Priest Mask was a masterpiece, and imbued with unique enchantments. Hevnoraak, Krosis, Morokei, Nahkriin, Otar, Rahgot, Vokun, Volsung, Ahzidal, Dukaan, Zahkriisos. You are now the owner of all of these masks, with all the powers they grant.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 27,
+      "cost": 400,
+      "name": "Silence of the Grave ",
+      "source": "TES: Undead",
+      "description": "Possibly the worst thing about death that you remember was the silence. The unending quiet, only your thoughts with you as you lay trapped within the void. This experience has changed you, granting you a power feared by most.You can unleash a curse upon a target that silences them, not only taking away their voice but also their ability to use magic. This may only be temporary, at most a minute or two, but it's enough to render many powerful entities into harmless bags of flesh.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 28,
+      "cost": 400,
+      "name": "Soul Magic ",
+      "source": "TES: Magic",
+      "description": "Seen as a heretical and forbidden art, many forget that Mysticism does involve spells that facilitate the interaction and manipulation of souls. Soul trapping is the least of what you could do, with the potential to mend and cure the souls of any damage or impurities they may have. Of course, should you try your hand at it, you would have a great talent for the necromantic arts.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 29,
+      "cost": 400,
+      "name": "Ghostblade",
+      "source": "TES: Undead",
+      "description": "Just like your armor, when you died you died with your weapon in your hand. Now that you have arisen with it, it has gained new ghostly properties. In addition to dealing a large amount of frost damage to your target, it can also bypass armor and even skin completely, damaging the insides of your target directly.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 30,
+      "cost": 400,
+      "name": "Ghostly Pack",
+      "source": "TES: Undead",
+      "description": "No man is an island, and a lone wolf is a dead wolf. Sometimes personal power isn't enough, and where you are against forces that vastly outnumber you. Now though, you never have to fear being alone. With a haunting howl, you can summon up to ten spectral werebeasts to fight by your side. Though they may never be as strong as you are, nor have the versatility you might possess, you will find that quantity is a quality unto itself.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 31,
+      "cost": 400,
+      "name": "Nightwielder ",
+      "source": "TES: Rogue",
+      "description": "You have learned the signature magic of Azra Nightwielder, Shadow Magic, which grants powerful abilities outside the classical schools of magic. You are an undisputed master of this rare and difficult magic, able to can create objects and familiars of pure shadow, teleport short distances by slipping through the cracks of reality, hide yourself in the tatters of space-time to evade the notice of everything around you, manipulate probability and potential, and much more. At its strongest, it even has the capability to reach into and affect the multiverse.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 32,
+      "cost": 400,
+      "name": "Will Of Sithis ",
+      "source": "Dark Brotherhood Jumpchain",
+      "description": "You have learned a spell that allows you to give commands to any sentient humanoid and have them obey any orders you give them for a short time, powerful but high magic cost to use",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 33,
+      "cost": 400,
+      "name": "A Kiss, Sweet Mother: ",
+      "source": "Elder Scrolls: Oblivion",
+      "description": "They became as black queens, screaming live with a hundred murderous sons, a thousand murderous arms, and a hundred thousand murderous hands, one vast moving event of thrusting-kill-laughter in alleys, palaces, workshops, cities and secret halls.” The immortal spirit of the Night Mother is revered and worshipped by the Dark Brotherhood. Whenever a person prays for the death of another, it is heard. A ritual known as the Black Sacrament is often used to best communicate these desires and intent to reach her – where an effigy made from deceased remains is used in a macabre display of reenacting the Night Mother’s own death. The Night Mother hears these requests and passes on the details to her Listener. You are that Listener. From this point you can reach out to the desperate party to come to an arrangement on how to grant their prayers. Through this system you can be contacted by prospective clients that want you to end lives. This alone is easily enough to begin a vast information network and untraceable assassination business.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 34,
+      "cost": 400,
+      "name": "The Dark Practice",
+      "source": "Elder Scrolls: Oblivion",
+      "description": "To view necromancy as part of the school of conjuration is misinformed. This is a multidisciplinary magic requires an understanding on mysticism, restoration, and enchantment practices as well. You have a foundation in each of these fields. Most soul trapping busies itself with the binding and use of white souls of lesser beings, only taking the animating energy of the spirit instead of the identity. You have branched into the arcane arts which harvest and use the black souls of sentient beings. This entraps not just the energy of life, but their identity with it. You understand the secret rituals of crafting black soul gems from white ones. The necromantic rituals for creating your own permanent undead minions are likewise known to you. With time and access to resources, you could build a formidable army of skeletons, spirits, zombies, or whatever other undead you require. Your skill in reanimating the dead makes you peer to figures like Mannimarco and Potema. When you wrest a soul from its owner and use that power to create another undead minion, you will them easy control, keeping any original personality subjugated as you refashion it into the servant you need. Achieving a state of lichdom would be possible for you, should you wish it. Binding your servants to your own life force as a means to control them, like some vampire clans or dragon cults is also within your skillset.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 35,
+      "cost": 400,
+      "name": "Peerless Eyes",
+      "source": "TES: Dovah",
+      "description": "The eyes of mortals do more than see, and you have got some unique eyes of your own, capable of seeing past illusions in order to see reality for what it truly is. This is more than a metaphor, as illusions no longer affect you, be they visual, audial, or even scent or taste based. You are also immune to lesser forms of illusions, such as hypnosis.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 36,
+      "cost": 400,
+      "name": "Eternal Corpse",
+      "source": "TES: Alessian Rebellion",
+      "description": "Even though Mannimarco would be thought of as the first recorded lich, one who utilized necromancy to achieve eternal unlife, he was not the first to walk the path. Like many powerful sorcerers and Ayleid kings, you have managed to imbue yourself with death magicks to achieve a similar result, becoming as ageless as the stars themselves. You no longer possess any need to eat, drink, sleep, or even breathe, as well as requiring only your skeleton to be mostly intact to continue surviving. Additionally, you will find that all magicks related to the soul and its manipulation have been empowered, nearly three times as potent as before.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 37,
+      "cost": 400,
+      "name": "Flesh Shaping",
+      "source": "TES: Alessian Rebellion",
+      "description": "Many cruel Ayleid sorcerers, especially those who embraced the worship of the daedra, have created horrors beyond what most modern people could even conceive. Some of the worst involved the manipulation of their subject’s own flesh and blood. Their skills with biomancy could be used to heal grievous wounds, or keep their victims alive for nearly as long as they desire, much to the victim’s despair. They could even create horrific, chimeric monsters from the flesh of the dead as well as living. You are an expert with this type of magic, as well as possessing an in depth knowledge of human and elven biology.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 38,
+      "cost": 400,
+      "name": "Blade of Harkon ",
+      "source": "TES: Undead",
+      "description": "An akaviri katana once wielded by the head of the Volkihar Clan, Lord Harkon. The crossguard has been designed to resemble the face of Molag Bal. When used by a vampire, it will drink deeply of it's target's life force, draining away their vitality, stamina, and magicka in order to replenish your own. It also acts as an excellent catalyst for blood magicks, should you be proficient with them.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 39,
+      "cost": 400,
+      "name": "Golden Skull of Beela-Kaar ",
+      "source": "TES: Main Races ",
+      "description": "Long ago, the argonian necromancer Beela-Kaar performed a ritual. The original goal of this ritual is unknown, as it ultimately consumed his body and only left his now golden skull. When channeling magic through this skull, you are capable of summoning and controlling numerous argonian ghosts and spirits, allowing you access to an army of the dead and damned. They can only be harmed by magic, silver, daedric and enchanted weaponry, and are absolutely subservient to you and no one else.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 40,
+      "cost": 600,
+      "name": "King of Worms",
+      "source": "TES: Undead",
+      "description": "Mannimarco is often credited as the first modern lich as we know them today, and is one of the most powerful mages to have existed. Much like him, you have reached the peak of necromancy. All undead you raise are much more powerful, durable, faster, and more intelligent than they otherwise would be. Additionally, there is no limit to how long your undead may be animated, nor how many you can control at any given time. With such power at your fingertips, it would be wise to fear you.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 41,
+      "cost": 600,
+      "name": "Overtaken",
+      "source": "TES: Undead",
+      "description": "It was your will that brought you back from the realm of the dead, your resolve that allows you to retain your free will. Not many possess the same amount of willpower, which is quite unfortunate for them. Why? Because you can now possess people and objects, controlling them and their actions as if it was yourself should their willpower be found lacking. You will retain full access to your abilities, and can access your vessel's memories. Why, you could even possess dragons, should you be powerful enough.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 42,
+      "cost": 600,
+      "name": "Staff of Worms",
+      "source": "TES: Undead",
+      "description": "The ebony staff once owned by the King of Worms, Mannimarco. Not only does it greatly empower any spells channeled through it, but it makes any of the undead you have risen far more physically capable than they otherwise would have been, easily the equivalent of ten others. Additionally, it allows you to perfectly see and hear through your undead’s eyes and ears, somehow.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 43,
+      "cost": 600,
+      "name": "Portal ",
+      "source": "TES: Undead",
+      "description": "With your newfound existence, a question must be asked. Now that you came back from the afterlife to the mortal realm, can you do the reverse? With this purchase, that answer is yes. You now own a portal into your chosen afterlife, be it the eternal feasts of Sovngarde, or even a Daedric Realm should you so desire. No inhabitants can cross over to your side without your express and willing permission, so that should ease some of your worries.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 44,
+      "cost": 600,
+      "name": "Vampiric Castle",
+      "source": "TES: Undead",
+      "description": "After many decades or even centuries of unlife, it is not uncommon for a vampire to gain their very own castle. You are one of those, owning your own dark castle perfectly fit for your vampiric self. In addition to all the amenities you’d expect from a castle, the windows block out the harmful effects of the sun, there are many replenishing barrels of blood in the basement, and there are dozens of gargoyles to protect the area from any invaders. There’s also an alter to Molag Bal, where he can communicate with you and vice versa, but that’s entirely optional.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 45,
+      "cost": 600,
+      "name": "Vampire Lord",
+      "source": "TES: Undead",
+      "description": "You are not some freshly turned fledgeling, but a proper Vampire Lord, one who has been around for centuries. No matter what bloodline you hail from, all of your vampiric abilities are at the very peak. No matter what, all will be able to shapeshift into two or three mundane animals, turn into mist, hypnotize others with a glance, possess flawless control over bats, and even a limited ability to alter the weather. In addition, all of your vampiric weaknesses have been heavily reduced, if not removed completely, and you are no longer weakened by the sun.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 46,
+      "cost": 600,
+      "name": "Mysterium Xarxes:",
+      "source": "Elder Scrolls: Oblivion",
+      "description": "Greetings, novitiate, and know first a reassurance: Mankar Camoran was once like you, asleep, unwise, protonymic. This book is your doorway to liberate yourselves from the trappings of Mundus. It is an artifact of great power. It is revolution, cutting, and change. Merely handling the book can be dangerous. One example of the power of this tome would be creating a personal plane of Oblivion to bring the souls of those that follow your teachings upon their deaths. It is also possible to remake one’s body through transformative powers of the tome, altering your race and even carrying the blood of kings. In less direct power, the teachings within allow one great understanding in how to sever magical covenants and overthrow empires, but it would be up to you to put that knowledge into practice.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 47,
+      "cost": 600,
+      "name": "Large Island",
+      "source": "TES: Dovah",
+      "description": "The island of Solstheim is a remote place, it has a long history of habitation by other races, but it has traditionally been primarily Nordic in influence. The southern half is relatively temperate, and houses the town of Raven Rock, as well as Fort Frostmoth. The northern half is more arctic in nature, with constant snow and large glaciers. In the center is a mighty temple, built around one of the six All-Maker Stones that dot the island. You are this island’s new master, with all who inhabit it bowing to your rule. Should you desire it, the southern half of the island may better resemble Morrowind, like it was after the eruption of Red Mountain.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 48,
+      "cost": 600,
+      "name": "Unfeathered",
+      "source": "TES: Alessian Rebellion",
+      "description": "Much like the demigod hero of the Ayleids, Umaril the Unfeathered, you possess a connection to the waters of Oblivion, similar in nature to that of a daedra. Due to this connection, death will come to hold little meaning to you. Once per year, you are capable of resurrecting yourself no matter how horrifically brutal your death was. You’ll simply reappear the next day in a flash of golden light. The only way to bypass this resurrective power of yours would be to strike directly at your soul, though few can boast such capabilities.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 49,
+      "cost": 600,
+      "name": "Soul Cairn",
+      "source": "TES: Undead",
+      "description": "Perhaps you made a deal with one of the Ideal Masters, or you conquered their territory for yourself. Regardless, you now claim ownership of a portion of the Soul Cairn, with all that entails. Not only will you receive a steady supply of souls for whatever purpose you desire, but it is also filled with powerful undead that will obey your every command, including three dragonbone-clad Keepers and a powerful entity known only as the Soul Reaper.",
+      "chapter": "The Necromancer"
+    },
+    {
+      "__source": "The Celestial Scrolls v3 by Gothicjedi666 - The Necromancer",
+      "__line": 50,
+      "cost": 600,
+      "name": "Ghul-Mora ",
+      "source": "TES: Main Races ",
+      "description": "All bosmer know that to take part in the Wild Hunt is to lose your form forever, to be reduced to just a beast. It is even believed that all bestial monsters originate from at least one Wild Hunt. You are now in possession of an absolutely massive stretch of forest filled with all manner of beasts and monsters, both familiar and alien. The exact population is self-regulating, and even if you were to clear this dark forest in its entirety, it would simply replenish itself after a week, with all sorts of new monsters eager for flesh.",
+      "chapter": "The Necromancer"
     }
   ],
   "6": [

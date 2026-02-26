@@ -1,278 +1,6 @@
 {
   "1": [
     {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 1,
-      "cost": 0,
-      "name": "Starting Gear ",
-      "source": "The Legend of Zelda Series ",
-      "description": "Very few start their journey truly deprived, and you are no different. You possess a simple outfit and a steel weapon of your chosen design. It's not much, but it's better than nothing.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 2,
-      "cost": 0,
-      "name": "Boomerang",
-      "source": "The Legend of Zelda Series ",
-      "description": "What may at first seem like a children’s toy, this boomerang is razor sharp and easy to use. No matter how you throw it or how many targets it hits, it will always return to your height.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 3,
-      "cost": 0,
-      "name": "Compass ",
-      "source": "The Legend of Zelda Series ",
-      "description": "A bronze tool meant to help those navigate their surroundings, you could never go wrong with a compass in hand. It always points north, regardless of how much an environment should be screwing with it.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 4,
-      "cost": 0,
-      "name": "Endless Wallet ",
-      "source": "The Legend of Zelda Series ",
-      "description": "So many clinky shiny rupees for you to find, but so few places to store all of them. No longer, as this pouch can contain any amount of money you collect, regardless of if it's rupees, gold, or paper bills. It will hold them all and never get heavier. It will also convert them into any other types of currency you need at the moment.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 5,
-      "cost": 0,
-      "name": "Fairy Lantern ",
-      "source": "The Legend of Zelda Series ",
-      "description": "A lantern that was blessed by fairies was gifted to a courageous explorer who desired to plunge deep into the dark. It glows with a fae light, never going out no matter what may happen to it.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 6,
-      "cost": 0,
-      "name": "Magic Bottles",
-      "source": "The Legend of Zelda Series ",
-      "description": "What seem like ordinary bottles to some, these have been specially enchanted to contain and preserve anything that can fit inside. From hot soup to fairies to magical fire, the only way it's getting out is if you let it.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 7,
-      "cost": 0,
-      "name": "Premium Lonlon Milk",
-      "source": "The Legend of Zelda Series ",
-      "description": "For when you want to unwind after a long day’s hard work, Lonlon Milk is there to help you along. Ice cold and delicious, this magically enhanced milk has an almost alcoholic effect on those who drink it, and will replenish afterwards.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 8,
-      "cost": 0,
-      "name": "Slingshot ",
-      "source": "The Legend of Zelda Series ",
-      "description": "Though it may look like a children's toy, never underestimate the power of a slingshot. This one hits with a surprising amount of force, and can hit a target from a hundred meters away. You will also receive a satchel filled with fifty deku seeds to use as ammo, which will replenish daily.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 9,
-      "cost": 100,
-      "name": "Ancient Whip",
-      "source": "The Legend of Zelda Series ",
-      "description": "An ancient treasure from the Era of the Sky, the end of it has an orb of light that grabs tightly to whatever the user desires. It is also possible to hang on poles, branches, and other things with the whip and swing in the air with it. This whip can extend to reach up to fifteen feet, and can be used for a number of other purposes, should one be clever enough.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 10,
-      "cost": 100,
-      "name": "Ball and Chain",
-      "source": "The Legend of Zelda Series ",
-      "description": "Are you ready to cause some extreme damage and mayhem? If so, then there's no better weapon for you. A steel ball as big as a man's torso, yet light to you, it can be swung around to great effect using its extending chain. Use it to smash rocks and ice, or twirl it around to smash any monsters foolish enough to get close.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 11,
-      "cost": 100,
-      "name": "Golden Gauntlets",
-      "source": "The Legend of Zelda Series ",
-      "description": "Crafted by the ancient gerudo, these golden gauntlets with a ruby embedded into it, they will grant a great boon to its wielder. While wearing them, you will see an exponential increase in strength, enough to toss around a massive pillar of stone, though the magic within makes it so this strength cannot be used in combat.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 12,
-      "cost": 100,
-      "name": "Magical Instrument ",
-      "source": "The Legend of Zelda Series ",
-      "description": "It is often said that music is its own kind of magic, capable of moving the hearts and souls of any who listen to it. And when played through an instrument like this, that claim becomes a bit more literal. Not only will this enhance any music based magic when played, but the music played will always be pleasant to hear, even from a complete novice.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 13,
-      "cost": 100,
-      "name": "Pegasus Boots",
-      "source": "The Legend of Zelda Series ",
-      "description": "A long time ago, mortals began to walk. And then, they ran. Ever looking for increased speed, they have crafted these leather boots with wings on the side. Wearing them will triple your speed with no loss of control.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 14,
-      "cost": 100,
-      "name": "Set of Potions ",
-      "source": "The Legend of Zelda Series \n",
-      "description": "It takes a special kind of fool to travel these lands without any kind of support, and few are as good as these. Within your possession are six glass bottles, each filled with potions. Three options to restore health, and three to restore stamina. They will refill themselves after a day, so don't worry about running out in the long term. Thankfully, they actually taste pretty good.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 15,
-      "cost": 100,
-      "name": "Adventure Pouches",
-      "source": "The Legend of Zelda Series ",
-      "description": "There are so many neat goodies and tools to be found while adventuring the land of Hyrule, so it's always a shame when you can't carry more. Never again, as these three hip pouches are practically endless, able to hold whatever you need without any increase in weight, so long as they can fit into the opening. If you're looking for a specific item, just reach in while thinking of it, and it's there.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 16,
-      "cost": 100,
-      "name": "Hero Outfit ",
-      "source": "The Legend of Zelda Series ",
-      "description": "If you want to play the part of a hero, then you're going to need to look the part. This set of green clothes are perfect for long adventures, resistant to wear and tear, very breathable, and very comfortable. The boots won't ever leave you with blisters, and the hat never seems to fall off.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 17,
-      "cost": 100,
-      "name": "Comfork",
-      "source": "The Legend of Zelda - A Link To The Past Jumpchain",
-      "description": "A rather oddly shaped tuning fork made out of crystal, and in roughly in the shape of a ‘C’ instead of the normal ‘U’. It was given to Link by one of the seven Maidens after rescuing her from the Dark World. Simply put, it’s a fork that communicates, hence the name. You now have a set of two such forks. To use them, simply ring them as though they were an actual tuning fork, and it’s counterpart will ring in response. Heck, they’ll even generate a minor illusion of the person holding the other one. Of note, the two forks will respond to each other regardless of any physical barrier - such as the walls between dimensions, the Light and Dark Worlds.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 18,
-      "cost": 200,
-      "name": "Four Sword",
-      "source": "The Legend of Zelda Series \n",
-      "description": "Though this magical sword is not as famous as the Sword that Seals the Darkness, it's still an incredibly powerful weapon. In addition to being completely indestructible and incapable of losing its edge, this blade will allow the wielder to create up to three copies of themselves, each as capable and powerful as the original, though they only have a quarter of the durability. They are even color coded ensuring that all of them know just who the original is.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 19,
-      "cost": 200,
-      "name": "Master Key ",
-      "source": "The Legend of Zelda Series \n",
-      "description": "Throughout your journeys in this land, you will find many locks blocking your path. Fear not, though, for you possess this. A golden, ornate key that shifts itself to perfectly fit into any physical lock.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 20,
-      "cost": 200,
-      "name": "Roc's Cape",
-      "source": "The Legend of Zelda Series \n",
-      "description": "A beautiful cape crafted from silk and bird feathers. It has been enchanted to vastly increase the wearer’s jumping capabilities. Additionally, you can become one with the wind for a time, becoming intangible and immune to harm, though in return you cannot cause harm, either.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 21,
-      "cost": 200,
-      "name": "Sheikah Slate",
-      "source": "The Legend of Zelda Series \n",
-      "description": "Created by the ancient sheikah, it is a useful tool and a deadly weapon in the right hands. This magitek tablet contains an updating map, camera, video recorder, and a journal. But most impressively are the four runes, each with their own effects. Magnesis allows you to manipulate metallic objects. Remote Bomb allows you to place round and square bombs. Stasis temporarily stops an object in time while storing its kinetic energy. And Cryonics creates a pillar of ice.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 22,
-      "cost": 200,
-      "name": "Bomb Pouch",
-      "source": "The Legend of Zelda Series ",
-      "description": "If there's any kind of weapon that's extremely fun to use, it would almost always be explosives. The loud noise, the flash of light, the pure devastation they leave behind, the only downside is that they're single use only. But now you'll never be running out any time soon, not with this. This leather pouch holds fifty bombs within while weighing like it's empty. The bombs you pull out will already be lit, so fire away and watch the fireworks. These bombs will replenish hourly.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 23,
-      "cost": 200,
-      "name": "Fairy Bow",
-      "source": "The Legend of Zelda - Ocarina of Time",
-      "description": "This reliable bow comes with a quiver of 50 arrows - perfectly balanced and easy to use, you’ll find yourself quickly hitting bullseyes and taking down the more evasive foes you’ll find in Hyrule. As a bonus, this comes with both Fire and Ice arrows already prepared - requiring a bit of magical energy to create more within the quiver, but well worth the price.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 24,
-      "cost": 200,
-      "name": "Paraglider",
-      "source": "The Legend of Zelda Series ",
-      "description": "A glider with the symbol of the Hylian royal family on its cloth, it is perfect for anyone who’s not afraid of heights. Simply having it on your person will allow you to reduce the speed at which you fall, while actually pulling it out will allow you to glide for however long you can hold on.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 25,
-      "cost": 400,
-      "name": "Wind Waker ",
-      "source": "The Legend of Zelda Series ",
-      "description": "A magical conductor's baton, one made of the purest silver. The user of the Wind Waker is capable of altering the winds and weather, as well as being able to call upon and borrow the power of the gods. Simply move it in the correct positions and in the right order, and the very winds themselves will obey your every command.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 26,
-      "cost": 400,
-      "name": "Automatic Crossbow",
-      "source": "The Legend of Zelda Series ",
-      "description": "Bows are all well and good, but do you know what's even better? A crossbow. They shoot farther, hit harder, and are easier to use than standard bows. Your crossbow is a rapid fire one that has infinite ammo. Simply pull the trigger, and watch the bolts fly. And should the standard bolts not be enough for you, a button on the side allows you to switch back and forth between bolts with small bombs attached to them.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 27,
-      "cost": 400,
-      "name": "Hylian Shield",
-      "source": "The Legend of Zelda Series ",
-      "description": "A shield created by the Thunder Dragon Lanayru for the Hero of the Sky, no other shield comes close to matching this one. It is completely indestructible, nullifies most of the kinetic force behind whatever hits it, and it can even protect against magic or elemental attacks. Though it may seem a bit lacking, it should be more than enough to help protect you.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 28,
-      "cost": 400,
-      "name": "Megaton Hammer",
-      "source": "The Legend of Zelda - Ocarina of Time",
-      "description": "A hammer once wielded by a powerful Goron warrior, its heft makes it less agile than a sword but more than capable of bringing to bear a mighty force - capable of caving in strong armor and shaking the earth with each smash!",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 29,
-      "cost": 400,
-      "name": "Lens of Truth",
-      "source": "The Legend of Zelda - Ocarina of Time",
-      "description": "A Sheikah Artifact that allows one to see the invisible and spiritual, it can also be used as a sort of “X ray vision” in addition to seeing past mystical deception.",
-      "chapter": "Equipment"
-    },
-    {
-      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
-      "__line": 30,
-      "cost": 600,
-      "name": "Bow of Light",
-      "source": "The Legend of Zelda Series ",
-      "description": "Imbued with the holy light of the Goddess Hylia, there are few bows who could match this artifact. All arrows unleashed from this indestructible bow cause a massive explosion of holy magic, and anyone unlucky enough to actually be hit by them will feel like they just got slammed by a ship. How fortuitous then, that you will never run out of arrows, as the quiver will automatically replenish itself after each use.",
-      "chapter": "Equipment"
-    }
-  ],
-  "2": [
-    {
       "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Courage ",
       "__line": 1,
       "cost": 0,
@@ -541,6 +269,278 @@
       "source": "Out of Context Triforce Supplement",
       "description": "You are a true wielder of the Triforce of courage. Farore herself has blessed you with indomitable courage and a fierce ability to do battle with the forces of evil, as well as a handsome or beautiful visage to inspire others with. You can stand up to vile hordes of marauding foes and can bring them low with weak, broken weapons by yourself, and as you defeat foes you will grow stronger and faster for it, allowing you to begin a journey as little more than a child struggling against even two foes and ending it as a demigod of war bringing low entire armies. Your blows also pierce magical protections and the armor of the mighty, when you fight for goodness and justice, allowing you to bring down even the mightiest tyrannical champions of iron-fisted dark kings. Animals also positively adore you, and are always eager to help you out whenever and however they can.",
       "chapter": "Courage"
+    }
+  ],
+  "2": [
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 1,
+      "cost": 0,
+      "name": "Starting Gear ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Very few start their journey truly deprived, and you are no different. You possess a simple outfit and a steel weapon of your chosen design. It's not much, but it's better than nothing.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 2,
+      "cost": 0,
+      "name": "Boomerang",
+      "source": "The Legend of Zelda Series ",
+      "description": "What may at first seem like a children’s toy, this boomerang is razor sharp and easy to use. No matter how you throw it or how many targets it hits, it will always return to your height.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 3,
+      "cost": 0,
+      "name": "Compass ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A bronze tool meant to help those navigate their surroundings, you could never go wrong with a compass in hand. It always points north, regardless of how much an environment should be screwing with it.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 4,
+      "cost": 0,
+      "name": "Endless Wallet ",
+      "source": "The Legend of Zelda Series ",
+      "description": "So many clinky shiny rupees for you to find, but so few places to store all of them. No longer, as this pouch can contain any amount of money you collect, regardless of if it's rupees, gold, or paper bills. It will hold them all and never get heavier. It will also convert them into any other types of currency you need at the moment.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 5,
+      "cost": 0,
+      "name": "Fairy Lantern ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A lantern that was blessed by fairies was gifted to a courageous explorer who desired to plunge deep into the dark. It glows with a fae light, never going out no matter what may happen to it.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 6,
+      "cost": 0,
+      "name": "Magic Bottles",
+      "source": "The Legend of Zelda Series ",
+      "description": "What seem like ordinary bottles to some, these have been specially enchanted to contain and preserve anything that can fit inside. From hot soup to fairies to magical fire, the only way it's getting out is if you let it.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 7,
+      "cost": 0,
+      "name": "Premium Lonlon Milk",
+      "source": "The Legend of Zelda Series ",
+      "description": "For when you want to unwind after a long day’s hard work, Lonlon Milk is there to help you along. Ice cold and delicious, this magically enhanced milk has an almost alcoholic effect on those who drink it, and will replenish afterwards.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 8,
+      "cost": 0,
+      "name": "Slingshot ",
+      "source": "The Legend of Zelda Series ",
+      "description": "Though it may look like a children's toy, never underestimate the power of a slingshot. This one hits with a surprising amount of force, and can hit a target from a hundred meters away. You will also receive a satchel filled with fifty deku seeds to use as ammo, which will replenish daily.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 9,
+      "cost": 100,
+      "name": "Ancient Whip",
+      "source": "The Legend of Zelda Series ",
+      "description": "An ancient treasure from the Era of the Sky, the end of it has an orb of light that grabs tightly to whatever the user desires. It is also possible to hang on poles, branches, and other things with the whip and swing in the air with it. This whip can extend to reach up to fifteen feet, and can be used for a number of other purposes, should one be clever enough.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 10,
+      "cost": 100,
+      "name": "Ball and Chain",
+      "source": "The Legend of Zelda Series ",
+      "description": "Are you ready to cause some extreme damage and mayhem? If so, then there's no better weapon for you. A steel ball as big as a man's torso, yet light to you, it can be swung around to great effect using its extending chain. Use it to smash rocks and ice, or twirl it around to smash any monsters foolish enough to get close.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 11,
+      "cost": 100,
+      "name": "Golden Gauntlets",
+      "source": "The Legend of Zelda Series ",
+      "description": "Crafted by the ancient gerudo, these golden gauntlets with a ruby embedded into it, they will grant a great boon to its wielder. While wearing them, you will see an exponential increase in strength, enough to toss around a massive pillar of stone, though the magic within makes it so this strength cannot be used in combat.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 12,
+      "cost": 100,
+      "name": "Magical Instrument ",
+      "source": "The Legend of Zelda Series ",
+      "description": "It is often said that music is its own kind of magic, capable of moving the hearts and souls of any who listen to it. And when played through an instrument like this, that claim becomes a bit more literal. Not only will this enhance any music based magic when played, but the music played will always be pleasant to hear, even from a complete novice.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 13,
+      "cost": 100,
+      "name": "Pegasus Boots",
+      "source": "The Legend of Zelda Series ",
+      "description": "A long time ago, mortals began to walk. And then, they ran. Ever looking for increased speed, they have crafted these leather boots with wings on the side. Wearing them will triple your speed with no loss of control.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 14,
+      "cost": 100,
+      "name": "Set of Potions ",
+      "source": "The Legend of Zelda Series \n",
+      "description": "It takes a special kind of fool to travel these lands without any kind of support, and few are as good as these. Within your possession are six glass bottles, each filled with potions. Three options to restore health, and three to restore stamina. They will refill themselves after a day, so don't worry about running out in the long term. Thankfully, they actually taste pretty good.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 15,
+      "cost": 100,
+      "name": "Adventure Pouches",
+      "source": "The Legend of Zelda Series ",
+      "description": "There are so many neat goodies and tools to be found while adventuring the land of Hyrule, so it's always a shame when you can't carry more. Never again, as these three hip pouches are practically endless, able to hold whatever you need without any increase in weight, so long as they can fit into the opening. If you're looking for a specific item, just reach in while thinking of it, and it's there.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 16,
+      "cost": 100,
+      "name": "Hero Outfit ",
+      "source": "The Legend of Zelda Series ",
+      "description": "If you want to play the part of a hero, then you're going to need to look the part. This set of green clothes are perfect for long adventures, resistant to wear and tear, very breathable, and very comfortable. The boots won't ever leave you with blisters, and the hat never seems to fall off.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 17,
+      "cost": 100,
+      "name": "Comfork",
+      "source": "The Legend of Zelda - A Link To The Past Jumpchain",
+      "description": "A rather oddly shaped tuning fork made out of crystal, and in roughly in the shape of a ‘C’ instead of the normal ‘U’. It was given to Link by one of the seven Maidens after rescuing her from the Dark World. Simply put, it’s a fork that communicates, hence the name. You now have a set of two such forks. To use them, simply ring them as though they were an actual tuning fork, and it’s counterpart will ring in response. Heck, they’ll even generate a minor illusion of the person holding the other one. Of note, the two forks will respond to each other regardless of any physical barrier - such as the walls between dimensions, the Light and Dark Worlds.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 18,
+      "cost": 200,
+      "name": "Four Sword",
+      "source": "The Legend of Zelda Series \n",
+      "description": "Though this magical sword is not as famous as the Sword that Seals the Darkness, it's still an incredibly powerful weapon. In addition to being completely indestructible and incapable of losing its edge, this blade will allow the wielder to create up to three copies of themselves, each as capable and powerful as the original, though they only have a quarter of the durability. They are even color coded ensuring that all of them know just who the original is.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 19,
+      "cost": 200,
+      "name": "Master Key ",
+      "source": "The Legend of Zelda Series \n",
+      "description": "Throughout your journeys in this land, you will find many locks blocking your path. Fear not, though, for you possess this. A golden, ornate key that shifts itself to perfectly fit into any physical lock.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 20,
+      "cost": 200,
+      "name": "Roc's Cape",
+      "source": "The Legend of Zelda Series \n",
+      "description": "A beautiful cape crafted from silk and bird feathers. It has been enchanted to vastly increase the wearer’s jumping capabilities. Additionally, you can become one with the wind for a time, becoming intangible and immune to harm, though in return you cannot cause harm, either.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 21,
+      "cost": 200,
+      "name": "Sheikah Slate",
+      "source": "The Legend of Zelda Series \n",
+      "description": "Created by the ancient sheikah, it is a useful tool and a deadly weapon in the right hands. This magitek tablet contains an updating map, camera, video recorder, and a journal. But most impressively are the four runes, each with their own effects. Magnesis allows you to manipulate metallic objects. Remote Bomb allows you to place round and square bombs. Stasis temporarily stops an object in time while storing its kinetic energy. And Cryonics creates a pillar of ice.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 22,
+      "cost": 200,
+      "name": "Bomb Pouch",
+      "source": "The Legend of Zelda Series ",
+      "description": "If there's any kind of weapon that's extremely fun to use, it would almost always be explosives. The loud noise, the flash of light, the pure devastation they leave behind, the only downside is that they're single use only. But now you'll never be running out any time soon, not with this. This leather pouch holds fifty bombs within while weighing like it's empty. The bombs you pull out will already be lit, so fire away and watch the fireworks. These bombs will replenish hourly.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 23,
+      "cost": 200,
+      "name": "Fairy Bow",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "This reliable bow comes with a quiver of 50 arrows - perfectly balanced and easy to use, you’ll find yourself quickly hitting bullseyes and taking down the more evasive foes you’ll find in Hyrule. As a bonus, this comes with both Fire and Ice arrows already prepared - requiring a bit of magical energy to create more within the quiver, but well worth the price.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 24,
+      "cost": 200,
+      "name": "Paraglider",
+      "source": "The Legend of Zelda Series ",
+      "description": "A glider with the symbol of the Hylian royal family on its cloth, it is perfect for anyone who’s not afraid of heights. Simply having it on your person will allow you to reduce the speed at which you fall, while actually pulling it out will allow you to glide for however long you can hold on.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 25,
+      "cost": 400,
+      "name": "Wind Waker ",
+      "source": "The Legend of Zelda Series ",
+      "description": "A magical conductor's baton, one made of the purest silver. The user of the Wind Waker is capable of altering the winds and weather, as well as being able to call upon and borrow the power of the gods. Simply move it in the correct positions and in the right order, and the very winds themselves will obey your every command.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 26,
+      "cost": 400,
+      "name": "Automatic Crossbow",
+      "source": "The Legend of Zelda Series ",
+      "description": "Bows are all well and good, but do you know what's even better? A crossbow. They shoot farther, hit harder, and are easier to use than standard bows. Your crossbow is a rapid fire one that has infinite ammo. Simply pull the trigger, and watch the bolts fly. And should the standard bolts not be enough for you, a button on the side allows you to switch back and forth between bolts with small bombs attached to them.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 27,
+      "cost": 400,
+      "name": "Hylian Shield",
+      "source": "The Legend of Zelda Series ",
+      "description": "A shield created by the Thunder Dragon Lanayru for the Hero of the Sky, no other shield comes close to matching this one. It is completely indestructible, nullifies most of the kinetic force behind whatever hits it, and it can even protect against magic or elemental attacks. Though it may seem a bit lacking, it should be more than enough to help protect you.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 28,
+      "cost": 400,
+      "name": "Megaton Hammer",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "A hammer once wielded by a powerful Goron warrior, its heft makes it less agile than a sword but more than capable of bringing to bear a mighty force - capable of caving in strong armor and shaking the earth with each smash!",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 29,
+      "cost": 400,
+      "name": "Lens of Truth",
+      "source": "The Legend of Zelda - Ocarina of Time",
+      "description": "A Sheikah Artifact that allows one to see the invisible and spiritual, it can also be used as a sort of “X ray vision” in addition to seeing past mystical deception.",
+      "chapter": "Equipment"
+    },
+    {
+      "__source": "Celestial Ocarina v1 by Gothicjedi666_ - Equipment",
+      "__line": 30,
+      "cost": 600,
+      "name": "Bow of Light",
+      "source": "The Legend of Zelda Series ",
+      "description": "Imbued with the holy light of the Goddess Hylia, there are few bows who could match this artifact. All arrows unleashed from this indestructible bow cause a massive explosion of holy magic, and anyone unlucky enough to actually be hit by them will feel like they just got slammed by a ship. How fortuitous then, that you will never run out of arrows, as the quiver will automatically replenish itself after each use.",
+      "chapter": "Equipment"
     }
   ],
   "3": [

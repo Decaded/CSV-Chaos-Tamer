@@ -1,459 +1,277 @@
 {
   "1": [
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 1,
       "cost": 0,
-      "name": "Forthog Orc-Slayer ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "This unusual figure will occasionally show up out of nowhere to help you out, give you some advice and perhaps a motivational word or two, before disappearing again just as mysteriously. Armed with a weapon that seems to be a cross between a guitar, a spiked club and an axe, they are a very skilled fighter. They’ll occasionally provide you some support and encouragement on your long journey.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "name": "Pipeweed Pouch",
+      "source": "Shadow of MordorJumpchain",
+      "description": "A refilling pouch of dried, extremely high quality pipe weed. Chills out even the most megalomaniacal of wizards.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 2,
       "cost": 100,
-      "name": "Troll’s Might",
-      "source": "Twilight of the North - A Jumpchain CYOA",
-      "description": "From the hot lands of the Far South there come huge men, oft likened to half-trolls in appearance, with white eyes and red tongues. Traditionally they wield large weapons that even the strongest of men would struggle to wield, let alone swing them with such ferocity as do these men of Harad. To kill them takes no few number of wounds, and even then they are likely to slay more than a few men before they are brought down. You are one of these men, and whether you have their troll-like appearance is up to you. As well, you are resistant to poisons and venom.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "name": " Your Mark ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition\n",
+      "description": "You might want to make it clear you are active within a given area, either to give others somewhere to find to interact with you or to try to ward off intruders. This could be a symbol that you can place within a location, or even something like a strong feeling of your presence to those who enter the area.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 3,
       "cost": 100,
-      "name": "The Black Speech",
+      "name": "I Deal Only In Truth ",
       "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "This Perk does cover certain secret languages you might encounter, in this case being the Black Speech of Mordor. Not all Orcs know it, with some thinking it’s just gibberish. Speaking, reading, writing and understanding these sorts of languages is instinctual for you, and you won’t suffer from any side effects or negative aspects of knowing or using various dark and eldritch languages, nor do those around you. You can toggle that safety feature off if you really want.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "description": "When you’re telling the truth people know, you can also tell when people are lying to you. You might not necessarily be nice and certainly not setting a shining example to others with other things you might be up to, but at least you are notably honest.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 4,
       "cost": 100,
-      "name": "Mordor, Born And Razed",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "This may not be a misspelling, considering the Orcish culture. You have been born or created in a harsh environment and you can certainly survive in it. Raw meat, freezing blizzards, scorching volcanic environments, disease and hardship... well, it really isn’t that hard for you to live in it. You might not be comfortable in it, but you’ll survive the environment. Just need to keep an eye out for the inhabitants that are just as well adjusted as you are.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "name": "Ungol Egg",
+      "source": "Shadow of Mordor Jumpchain",
+      "description": "An unhatched child of the great spider Shelob. When it hatches, it will think whoever it sees first is mommy and will do whatever they say. Buy two, and you can start a nest... but why would you want to?",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 5,
-      "cost": 100,
-      "name": "Grog Drinker",
+      "cost": 200,
+      "name": " Wraith Bow ",
       "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Better for you than milk, if you’re an Orc. Really, Orcs here seem to use Grog as an alcohol and a medicine, and since you bought this Perk you can benefit from the same thing. You can stomach any form of alcohol in any quantity, choose whether to appreciate or negate the taste regardless of its contents, and rapidly heal yourself of any maladies by drinking it. Just bear in mind that you might still be affected by poison slipped into it, or explosions caused by it.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "description": "Whether this is Azkar or another bow depends on whether or not the Wraith inhabiting you is Celebrimbor or not. Rather than using arrows of conventional physical materials, this instead conjures insubstantial glowing blue arrows of Wraith-magic. While you may be able to find more of these Wraith-magic arrows throughout the battlefields of Mordor, purchasing this will ensure your supply steadily regenerates by itself. Inscription: Narvi had me made for the ring-smith and for his loyal service. His arrows truly may they hit their mark.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 6,
-      "cost": 100,
-      "name": "The Dragon Spell",
-      "source": "Silmarillion Jumpchain",
-      "description": "Dragons are famous for their cunning dragon spell. It is a form of hypnosis that can overpower many beings by gaze and word alone. At your baseline skill you are able to hypnotize the weak willed or despairing and give them simple commands. As you practice and grow in age you might one day be able to rewrite the memories of a man with a simple gaze and a few spoken words.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "cost": 200,
+      "name": "Brood",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Creatures that serve you, perhaps ones you gave birth to, or created or altered using your abilities. Whatever it is, they will match your particular type of being. If you are a spider the size of a cart, perhaps these will be spiders up to the size of a large dog. If you are a creature of wood and leaf, perhaps some manner of woodland animal. If you are a creature of fire and shadow, perhaps they will be smaller beings of a similar nature. Whatever they are, they are significantly smaller and weaker than you, though potentially great in number. You may direct them as you will.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 7,
-      "cost": 100,
-      "name": "Brutal Weapon",
+      "cost": 200,
+      "name": "Elemental Manipulation",
       "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "This might take on the form of an enormous stone club, or a jagged sword, or perhaps a serrated dagger. It will be an effective weapon, if not particularly elegant, and noticeably intimidate your enemies.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "description": "Pick one non-manufactured feature of the world, such as ‘plants’, ‘shadows’, or ‘fire’. You are able to wield it as a weapon if you wished, such as creating a whip of fire, hide within it, or create and control facsimiles of another creature. The original must be weaker than you, and your duplicate will obviously be composed of whatever ‘element’ you chose, but it will have similar abilities to the original if it would not be antithetical to whatever the ‘element’ is. If this is the case, their abilities will change in form but not potency. As a drake made of plants would easily combust if it used fire, yours would instead breathe ice.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 8,
-      "cost": 100,
-      "name": "Chief’s Armour ",
+      "cost": 200,
+      "name": "Great And Terrible",
       "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "A set of armour suitable for you. Even if it doesn’t cover your entire body or looks crude, it is incredibly durable and protective. Particularly the back of it, something that might come in handy considering the propensity for backstabbing around here. Even uncovered areas of your body seem to share the durability this armour provides.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "description": "You are not of the race of Men, but you’re not an Orc, an Elf or a Wraith either. While you can certainly have a passably human form, you gain a ‘true’ form of some manner of immense creature and great affinity for others of its kind. While this defaults to a thing in a spider-like form that could very well be a descendent of Ungoliant like Shelob, you could instead choose to be a vast serpent, centipede, or raven. Or you could choose to be a towering tree-like being. Alternatively, you could be a looming monster of smoke and flame. Either way, you are very powerful physically, unnaturally durable, essentially ageless, and get more powerful as you grow older.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 9,
-      "cost": 100,
-      "name": "Warg Mount",
-      "source": "The Hobbit Jumpchain",
-      "description": "A creature of war, you now possess a warg mount which is absolutely loyal to you even unto death. It is a lethal mount and will fearlessly bear you into battle against anyone or anything without hesitation. Counts as an item and does not take up a companion",
-      "chapter": "Dragons, Trolls & Orcs"
+      "cost": 200,
+      "name": "Last Gasp ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "As long as you are not killed instantly by something, you have a chance of escaping death for just a little longer. Should you be battered and beaten to the point you would and may actually fall to your knees, you have a short grace period. If nobody finishes you off, you will be able to get back up and fight once more. If somebody does try to finish you off, you will have a small but noticeable opportunity to counter the final blow and force yourself back into the fight. If you time it right you could even take out your attempted executioner with the same counter, but if you get it wrong...",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 10,
-      "cost": 100,
-      "name": "Caragor",
-      "source": "Shadow of Mordor Jumpchain",
-      "description": "A particularly large and ferocious caragor (armoured, spiky, bulky, hairless sabre-toothed tigers) that loves you, is happy to let you ride it and will do as you instruct.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "cost": 200,
+      "name": "Morgul Blade",
+      "source": "Twilight of the North - A Jumpchain CYOA",
+      "description": "Made from iron ingots found in the Dark Land, these blades are sharp and strong, but that is not their true purpose. Their purpose is to inflict wounds that will not heal by normal means, and if used properly even turn the victim into a wraith under the control of the one who wounded them. A worthy weapon for a sorcerer, this longsword will not crumble upon use nor will it fade with the light of dawn after being used. As well, it is able to withstand strikes from even the finest of Dwarf-wrought weapons. It is cold to the touch, the edge will never dull and nor will the blade rust.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 11,
-      "cost": 100,
-      "name": "Serpentine Blade",
-      "source": "Shadow of Mordor Jumpchain",
-      "description": "An asymmetrical, wavy dagger of orcish origin. Has mystical armour-piercing qualities when used to attack somebody from behind.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "cost": 200,
+      "name": "The Guardian",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition\n",
+      "description": "It seems you have earned the favour of something old and powerful. Rather than forcing you to carry out their orders, they seem to be more inclined to guide and aid you, as your unusual nature has caught their interest. To see something new after so long intrigues them, and to ensure their mere presence does not harm you, they have granted you significant resistance to their nature.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 12,
-      "cost": 100,
-      "name": "Iron Shackles",
-      "source": "Shadow of Mordor Jumpchain",
-      "description": "Prisoner's leg irons with a brutal history. Have the strange quality of sapping the mental strength and will to resist those forced into them.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "cost": 200,
+      "name": "Treasure ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "You might not have much need for worldly possessions, but you might have accumulated things over time. This is a hidden stash of wealth that you have acquired over the years, or perhaps found in some forgotten place. It will mostly be simple material goods like gold, jewels and perhaps some artefacts of minor historical interest, but in each Jump you will be able to find one particularly notable artefact in your collection. Not necessarily powerful, but perhaps famous in some way.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 13,
-      "cost": 100,
-      "name": "A Lair ",
-      "source": "Silmarillion Jumpchain",
-      "description": "Whether a cave or some abandoned underground ruin, you have a private lair of your own. Place your hoard here if you have one. This is a safe place that is very hard for outsiders to find but has nothing in it that you don’t bring or purchase.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "cost": 200,
+      "name": "Wizard Staff",
+      "source": "The Hobbit Jumpchain\n",
+      "description": "Somehow you came into possession of a wizard’s staff. It acts as a focus for those with magical talent, providing a moderate boost in the potency of their spells. Comes with a free pointy hat!",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 14,
-      "cost": 100,
-      "name": "Thick-Skinned",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "Your people were made to suffer under the whips and lashes of Melkor, but even those fierce scourges don’t retain their power forever. Your skin is literally thickened, tough and leathery and hard to pierce; it’s not as good as armour, but it’s something. You are inured to much pain, able to endure even great agonies and tortures without breaking. Your body has been strengthened, too, giving you great endurance and not-inconsiderable might. Perhaps most vital of your gifts, however, is the ability to retreat into yourself to outlast even the worst of torments. When another dominates your will, or you are placed in unendurable circumstances, you will not be entirely broken. Instead, your own will and selfhood will retreat deep inside you, hidden from all but the most piercing examinations of your thought. Though your body may toil at the behest of another, and go on without hope or happiness, still some vestige of your former spirit is sheltered inside, ready to emerge once again if you should escape such dire circumstances.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 15,
-      "cost": 200,
-      "name": "Bright Lord, Dark Lord, Same Thing Really",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "With various forces that can’t really be killed by conventional head-popping zooming around Mordor these days, sometimes it’s better to bend the knee. If you do, you’ll find yourself accepted by whoever has defeated you regardless of who and what you are or your previous actions, and you’ll be appropriately rewarded for whatever aid you are able to provide. You help your new boss conquer a fortress and throw your hat into the ring for position of owning it, they’ll be far more likely to give you the position than any of their other allies.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 16,
-      "cost": 200,
-      "name": "Et Tu, Brûz?",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "They never saw your betrayal coming. Even if it should have been somewhat obvious, but they should have just treated you better, really. You have the skills, timing and will be lucky with opportunities to betray those you serve under and take everything for yourself – or just leave defences open for your allies, whatever works for you. Even the most paranoid of employers or well-armoured of Warchiefs won’t notice you sharpening the knife or be suspicious if you’re approaching them as they’re standing on a very high point. Just... make sure once you pull it off, they won’t be able to come after you in revenge.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 17,
-      "cost": 200,
-      "name": "Cruel Crossbow ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Rather than a fancy bow, you have decided to arm yourself with a cruder looking but perfectly functional crossbow. This is designed for more rapid fire than a normal bow and causing the maximum amount of damage to opponents they hit at the expense of extreme accuracy or range. The barbed bolts fired from this weapon tend to stick into opponents and wound them beyond the initial impact does. You have a rapidly regenerating supply of this ammunition. It even has spikes on it, and is durable enough to act as a more direct weapon in a pinch.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 18,
-      "cost": 200,
-      "name": "The Fixer",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "This masked figure approached you, pointing out they were worth more to you alive. See, they provide solutions. Most problems in Mordor can be solved with the swing of a blade. But when the situation at hand is more complex, for example when you need to not only kill one enemy but also make it appear that a second was responsible, this figure is the one to call. They can make difficult problems go away and can draw on a vast network of manipulations and owed favours to make it happen. They are valued as much for their results as for their discretion, a quality virtually unknown in Mordor. Should they need to accompany you in person, you will find they are just as fleet as foot and subtle as you are.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 19,
-      "cost": 200,
-      "name": "The Lookout",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "While you’re keeping watch, it might be helpful to have someone to watch your back. You get along well with this figure. You might be long- lost siblings, or perhaps they are someone related to an important official. You can leave them to look after things in your absence, as they’re quite a good leader and administrator in their own right, but they are equally capable of accompanying you into the field of battle.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 20,
-      "cost": 200,
-      "name": "The Bodyguard ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "As brutal as life in Mordor might seem to outsiders, it is entirely possible for strong bonds to form between some of its inhabitants. You’ve forged one with this figure, a find addition to your army. From here on out, they will be your shadow. No one gets to you without their say so. They will do what they can to protect you and your territory, and have the unusual ability fill in roles in combat opposite to your own. For example, if you are a huge and durable figure using a giant but slow weapon, they will be a smaller but much more agile figure. If you specialise in ranged attacks, they will focus on close combat. Your bond is so great that should any harm befall one of you, the other will immediately be aware of the danger and the cause.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 21,
-      "cost": 200,
-      "name": "Cavern Lake",
+      "cost": 300,
+      "name": "Dol Guldur",
       "source": "The Hobbit Jumpchain",
-      "description": "​The sun can be a bitter foe for creatures of darkness, so for that, you have this place. It is a vast cavern lake filled with juicy fishes just waiting to be caught and eaten raw and wriggling. No sunlight can penetrate this domain, and all creatures of darkness find it strangely homey and comforting. Can be dropped into other jumps or added as a warehouse attachment.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "description": "Dol Guldur, also known as the Hill of Dark Sorcery, was Sauron's stronghold and base of operations when he worked his sorcery in the wood under the name of The Necromancer. You now have a copy of this dark fortress, filled with dark creatures ready to do your bidding. It can be dropped into a jump or added as a warehouse attachment.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 15,
+      "cost": 400,
+      "name": " Spirit ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "You are not alone anymore. A long-dead being has been bound to you, and though they will not have any power except that which you allow them to have, they can guide you in the use of the abilities of a Wraith if you have the Perk. They can separate themselves from your body as a ghostly apparition that cannot be seen by others unless they are perceptive to such things or overlay your own to give yourself a ghostly visage. This can be partial, projecting their spirit over your flesh such as having half of your body take on their appearance, or you can choose to visually replace yourself with their ghostly form.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 16,
+      "cost": 400,
+      "name": "Hunting Ground",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Powerful you might be, but you didn’t last this long by not taking every advantage you could. You might not survive much longer if you don’t continue to do so. That might be why you decided to purchase this. It seems to be an environment that was almost designed to give you advantages in combat based on your abilities and weaknesses, which your enemies find difficult to navigate. If you could walk on any surface, it could be a series of caverns and tunnels that allow you to exploit this ability to attack at unexpected angles. If you were made of plants, it could be a forested area you can easily blend into and damp enough to make starting fires difficult. If you were of a fiery nature, it might be a chamber filled with lava and scorching air that you can comfortably inhabit while your enemies must endure the terrible heat. It can either be a location by itself, or you can assign its properties to a building or territory you already own.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 17,
+      "cost": 400,
+      "name": "Palantir ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "A magical artefact also known as a Seeing Stone. This one is separate from the others here and enemy forces cannot use it to see or affect you. This Item allows whoever possesses it to see any item, person or location they wish in real time, though it is possible for powerful forces akin to Sauron to conceal what you are trying to view in shadow if they are trying to specifically hide it. This comes with a stand, should you not wish to carry this treasure around with you.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 18,
+      "cost": 400,
+      "name": "Secret Ways",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "You may have walked this world for a long time, and in your wandering you have discovered or created paths that others do not dare to venture on, or perhaps know nothing about. This is a wide network of old and unknown ways that you and your allies could use to get around unnoticed, like underground tunnels and overlooked paths that others do not use. These ways are hidden from others, allowing you to travel across the breadth of Mordor without being spotted by even the most watchful and piercing of eyes. In future Jumps, you can give a territory this collection of hidden pathways, and even link it to any properties you own to allow unseen travel between them. It isn’t any faster than other routes but being subtle can have advantages over speed.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 19,
+      "cost": 400,
+      "name": "Spider’s Web ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "You and what you can control are more than mere matter. You can capture and contain even insubstantial things such as bodiless wraiths, if they are sufficiently weakened or distracted, either to finish them off, use them as a hostage, or keep them around for other purposes. The exact method will depend upon your other capabilities, such as ensnaring them in roots, trapping them within a cage of fire, or weaving a shadowy cloud around them.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 20,
+      "cost": 400,
+      "name": "The Cycle Is Unbroken",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "A being that exists for aeons may still need to rest and recuperate after battling with similarly powerful beings. You might even want to take a long nap and just sleep through the current problem if you have no interest in it. You can bind yourself to a location that embodies your chosen element, such as a forest for nature, a magma flow for fire, or a network of caverns for darkness, and not only gain awareness of what goes on within it but use it to recuperate. Even if you have been grievously wounded or exhausted in battle with a being that is your antithesis, you can come here to recuperate. Be warned, binding yourself to such a place can also bring about a vulnerability in your weakened state. If you were the embodiment of a forest and retreated to its heart, your enemies could potentially kill you should they find a way to burn down your resting place.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 21,
+      "cost": 400,
+      "name": "Wraith",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "It seems you are more than mortal, possessing abilities that the living normally do not have in Middle-Earth. You can fall from great heights without harm, perform incredible leaps, run at great speed, even conjure up phantasmal weapons. Ranged equivalents may need you to locate some form of ammunition or give you time to recharge as unlike others this involves your ghostly energy permanently leaving your body as the projectiles. You can let yourself partially slip into a shadowy netherworld, remaining physically within the living world but able to perceive other beings within either even through solid surfaces. Given time and experimentation, you could develop other abilities such as a second leap off of thin air, unleashing blasts of ice or fire or poison, teleporting yourself or others to you by expending the same energy you would use for projectiles, or fight in multiple places simultaneously as your wraith acts under your mental command. With just this Perk, this power is entirely yours and unshared with any other being,",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 22,
-      "cost": 200,
-      "name": "Hatred",
-      "source": "Shadow of Mordor Jumpchain",
-      "description": "Uruks tend to fight harder against things they hate. You however have it in you to hate everything. This surge of hatred makes you significantly stronger, more resistant to damage and (somehow) heal faster than you should be able to.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 23,
       "cost": 400,
-      "name": "Necromancy ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Feel like raising an army using other means? There’s no shortage of the dead in these conditions. This ability will grow over time, starting with animating one or two weak corpses using energy gleaned from killing enough. In time you could learn to summon up corporeal ghosts of the dead as an army, create totems that repeatedly revive nearby corpses under your control as long as the totem remains intact, or even perform rituals to bind wraiths into living or near-dead beings for a variety of purposes. Those killed by undead are far easier to call back, sentient or otherwise, than those killed by the living.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 24,
-      "cost": 400,
-      "name": "Brutal Cunning ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "You wouldn’t exactly be a Warchief for too long amongst the forces of Mordor if you weren’t good at fighting. Those that rely too much on their bodyguards might end up being backstabbed by them. You have a combination of instinct, training, and the right body type for an approach to combat you prefer. Maybe you’re a sneakier fellow using traps and bombs, so you’ll have a more agile and dextrous frame. Stay at range, you’ll develop much better eyesight and aim for your powerful crossbow. Maybe you go for the direct approach, and as a result you’ll have a towering and muscle-bound body capable of lifting up a Caragor and breaking it in half. Uruk, Olog or Goblin, whatever species or sub-species you’ve become, you are amongst the best at your particular style of combat.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 25,
-      "cost": 400,
-      "name": "Cunningly Brutal",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Some might think you have two heads, on account of you being so smart. In this case probably smart for an Orc, but if you were some other species you’d be among what passes for the more intelligent amongst them. Perhaps you’re not necessarily incredibly intelligent, you just know exactly how the rest of your kind thinks and how to exploit it. You’d certainly be able to lead your own people into an ambush at least twice before they caught on, which might be enough if they didn’t have some outside help. Either way, you’re good at tactics, ambushes and fooling your own species.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 26,
-      "cost": 400,
-      "name": "Beasts Of Mordor",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "You have bonded with examples of various dangerous creatures that live in these lands. When you call upon them, they shall come, skuttling, fluttering, leaping and lumbering forth to aid you. They are trained and consider you an ally, and the weaker they are the greater in number they can be, while the stronger or more specialised creatures may only come in a pair. You could summon a swarm of hungry Ungol Spiders or Mordor Rats, unleash a nest of stinging Morgai Flies, call forth a flock of Hell-Hawks, or muster up a group of vicious Ghûls to feast on your enemies or a pack of Caragors to ride upon. If you are in need of something more powerful but less numerous, you could instead bring forth a pair of towering Graugs to smash your opponents into greasy smears, or fiery Drakes to take flight and burn your foes to ashes. Once you use this Perk there is a waiting period before you can use it again in the same area. While you can keep this limited to the creatures from Mordor, you can also update it to equivalent beasts you encounter in future Jumps. When pack animals that can be ridden are called upon, they will include a strongpack-leader for your personal use, such as a Dire Caragor. If there is a variety of a specific type of creature, such as the Flame, Frost or Poison Graugs, you can decide which ones you want to come to your aid.",
-      "chapter": "Dragons, Trolls & Orcs"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
-      "__line": 27,
-      "cost": 400,
-      "name": "Hoard",
+      "name": "Angainor ",
       "source": "Silmarillion Jumpchain",
-      "description": "Every Dragon worth anything needs a hoard. Gathered up from your enemies over the years and collected in a safe place of your choosing is the amazing wealth of your hoard. Countless pieces of gold, gems, hundreds of precious stones, and armories worth of weapons and armor are scattered in grand mounds. This hoard can either be located in a safe place of your choosing or as an attachment to the warehouse from jump to jump. Good luck ever spending it all, even if you wanted to do anything other than nap on it.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "description": "You now have a copy of the great chains Aule crafted to bind the great Valar Melkor before throwing him into the Timeless Void. These powerful chains can bind an enemy of any size and easily hold any being below those of God-like might, if you can capture them.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 23,
+      "cost": 500,
+      "name": "Morgul-Lore",
+      "source": "Twilight of the North - A Jumpchain CYOA",
+      "description": "You are deep in sorcery and possess knowledge surpassing any save perhaps the Witch-king himself. With but a gesture and a word you can make a sword crumble in the hands of a man, a door seal shut against any but those with might greater than your own, enchant siege weapons with dark spells to blast asunder great gates, and enspell daggers with enchantments akin to those of the morgul blades. You can stir up a storm on a cloudy day, and in winter make the cold more deadly. You can brew disease and plague. You can bind the spirits of the dead and command them. Send them into tombs to inhabit the long deceased. Create illusions and phantasms. Make flame and lightning. Force orcs and trolls into your service with a few words or even merely a hard look. Extend your life. Speak with the crows and wolves and other evil creatures. With time and effort, you may even approach the might of the Witch-king himself, should you acquire even a lesser Ring.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 24,
+      "cost": 600,
+      "name": "Cult",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Sometimes it’s nice to be appreciated, and this group certainly likes you.They’re rather fanatical about it really, outright worshipping you if that’s what you want. Or they could just quietly guard a location with their lives and do their best to prevent anyone from disturbing you if you would prefer an existence of solitude. While they are not an army and would not fare will against the more powerful figures of Middle-Earth or other worlds, should you somehow be imprisoned or killed they have an uncanny capability to succeed in releasing or reviving you. The latter only works once a Jump or every decade, as it requires quite a lot of effort and sacrifice on their part. They will most likely decorate themselves or where they are staying with affectations to your own appearance and nature, unless you tell them otherwise.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 25,
+      "cost": 600,
+      "name": "Forge ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition\n",
+      "description": "Do you intend to create a Ring of Power for yourself? That is certainly possible here, should you have enough time, skill and potency of your own. This Item takes the form of an appropriately equipped forge with an appearance of your choice and a source of materials for whatever it is you intend to make. If you intend to forge something like a Ring of Power, you will find yourself with something akin to Mount Doom. If you only need to fix a normal suit of armour or create something mundane like new horseshoes you will be presented with a more modest and discrete workshop. You can decide what you will be working on when you come to place this Item in the Jump, which can be in any territory you own. It can also be imported into any building you have, or into the Warehouse.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 26,
+      "cost": 600,
+      "name": "Haedir Towers ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition\n",
+      "description": "These might be called dark imitations of the Palantir by some, but they can grant sight once they have been claimed. Interacting with the fiery stone in the chamber atop them allows you to perceive through an eye-like blue flame above the tower. They allow you to locate lost secrets and memories of their environment’s past, with points of interest found through the eye being automatically marked on any map you are using if desired. While you will find these towers in the various regions of Mordor even without this purchase that you can purify and claim for yourself, paying for it here allows similar towers to be established within any territory you claim within the future. For one final advantage you can utilise to guard territory you have managed to claim, they allow you to instantly transport yourself between them so long as you are not in danger.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
+      "__line": 27,
+      "cost": 600,
+      "name": "Ring of Power",
+      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
+      "description": "The Rings of Power were forged in Eregion by the great smiths of the Gwaith-i-Mírdain during the Second Age. All of the Great Rings save the One had a single gem, and not one design was repeated. Every ring was imbued with a power that came from the combined skill of the great Noldor craftsmen that wrought them and the knowledge brought by Sauron in the guise of Annatar. Your Ring of Power, greater than any of the Nine, possessing to at least some degree the powers of the Three, and to a minor extent even carries some form of the power of the One, is untouched by the corruption of the Ruling Ring, independent in power, and wholly yours. In material it is mithril or a mithril-gold alloy depending on your taste in color, it has an inscription of your choice in Quenya or Khuzdul using the Tengwar, and a unique jewel set into it. This Ring cannot be seen by any save for another who wears a Ring of Power, or Sauron himself. In potency, your Ring is lesser than the One, but greater than any others, occupying a halfway point.",
+      "chapter": "Ancients and Spirits"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 28,
-      "cost": 400,
-      "name": "Warchief",
-      "source": "Shadow of Mordor Jumpchain",
-      "description": "You have a reputation that even amongst Sauron's forces is considered intensely scary. Through sheer menace you are capable of keeping thousands of members of a duplicitous and quarrelsome species in check and obedient.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "cost": 600,
+      "name": "The New Ring ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "It is up to you if this is the most recent ring crafted by Celebrimbor, or you have your own independent one, depending on whether you have taken another’s place in this story in the Bright Lord Scenario. Either way, this one is loyal to you. Your own strength has been used in its creation, rendering it free of others influence, yet you are not diminished or limited for it. Should you allow it to be taken from you, something that is not possible against your will, you can cause its influence to wear away at the minds and souls of those who foolishly dared to lay claim to your treasure. Or you could lend it as a gift, knowing its wielders cannot use the might it grants them against you. Made with the intent of rivalling Sauron’s own One Ring, it bestows upon its wearers the power of Domination, allowing users to force their will upon other life forms susceptible to its immense magical power. This effect is not absolute, as sufficiently powerful beings can potentially resist its power and break free of it. The mentally weak and broken are more prone to its influence, whilst those with a will of iron have a chance of denying it altogether. If you already have this ability through purchasing The Power Of Domination Perk, you will find it easier and more intuitive to use, able to seize control of even the most powerful beasts such as Graugs and Drakes if you can weaken their resolve or somehow make them more vulnerable. You can also sacrifice your own followers, causing their heads to explode in an attempt to intimidate your enemies, or provide aid by healing those within close range at the expense of your own health. Additionally, you can restore your own wellbeing by draining others of theirs. As it was made to combat Sauron’s own One Ring and the other Rings Of Power, you will find it is capable of breaking Sauron’s hold over his Ringwraiths, either dominating them or releasing them from undeath. In future Jumps, you will find this power can be used to free others from mental control and contamination, as well as releasing those bound to undeath and letting those forced to remain lingering amongst the living to pass on. Like other Rings of Power, it grants augmentative effects to those who wear it, enhancing their existing abilities to new heights.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 29,
       "cost": 600,
-      "name": "Iron Will ",
+      "name": "The Power of Domination ",
       "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Being called stubborn is one thing, but anyone trying to modify your mind against your will might find it easier to get through your thick skull with metal rather than relying on a magical ring. You’re essentially immune to mind control, mental alteration intended to make you more pliable, or other such puppetry. You will not be bent, and the best they might manage to do is be forced to break you entirely. Even then, you could bounce back given time.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "description": "You are capable of essentially enslaving the minds of others, bending them to your will. It is faster if you can physically contact their head, but can also be done from a short distance, though still only one at a time. This can be done to any living creature, and some undead, that possess something akin to a functional mind. Those with more power or stronger wills may need to be broken in first by seriously harming them, but average grunts will fall to you within a few uninterrupted seconds. With some practice, beasts can be rapidly dominated without needing to harm them. You can use this ability tolook within the minds of others as well. Bear in mind, however, that some beings are protected against this sort of mental interference through some means. They might not serve you with just this power at your disposal, so you will have to find other means to remove them as an enemy, or perhaps find ways to weaken them to the point they are vulnerable. It won’t work on mindless puppet corpses or the equivalent, but you have a chance of dominating anything that actually has some sort of mind. Perhaps even creatures like Ringwraiths, or stranger things, should they lack a way to stop you seizing control.",
+      "chapter": "Ancients and Spirits"
     },
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
       "__line": 30,
       "cost": 600,
-      "name": "Goblin King",
-      "source": "The Hobbit Jumpchain",
-      "description": "​Some kings rule through love, benevolence, and justice. You are not such a king. You inspire loyalty through fear, and because of that, it doesn't matter how badly you treat your people, they will always accept your brutality without question. Those under your command are unlikely to betray you, too frightened of the potential consequences to even consider it.",
-      "chapter": "Dragons, Trolls & Orcs"
+      "name": "Seedlings of Trees",
+      "source": "Silmarillion Jumpchain",
+      "description": "Telperion and Laurelin were the greatest trees to exist. The only source of light in the world after the destruction of the lamps and before the creation of the Sun and Moon. With leaves of gold upon the one and leaves of silver upon the other, they shined with a beautiful light that the Sun and Moon are but pale imitations of. Ungoliant destroyed these trees, draining their light and increasing her might. Somehow, two seedlings of the trees have survived and ended up in your hands. These seedlings, when planted will sprout and over the course of a few years grow into new trees with same light. These are hallowed and sacred things. Bring light back to this enshadowed realm, or perhaps hoard it for yourself and see what you can gain from exploiting such great lights. The trees can either be placed in a garden-like attachment to your warehouse or planted in a spot of your choosing from jump to jump.",
+      "chapter": "Ancients and Spirits"
     }
   ],
   "2": [
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 1,
-      "cost": 0,
-      "name": "Home",
-      "source": "LOTR Jumpchain",
-      "description": "You don't want to always live on the road, do you? You have a small, but comfortable, home in whatever town or city you choose (this may be different from your starting location).",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 2,
-      "cost": 0,
-      "name": "Basic Camping Supplies",
-      "source": "The Hobbit Jumpchain",
-      "description": "You step onto the road, and if you don’t keep your feet, there is no telling where you might be swept off to. Sometimes, those roads don't have modern conveniences like beds and roofs, but now you have a large backpack with high quality camping gear. It's oddly light and easy to pack up, and the gear never seems to wear out.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 3,
-      "cost": 100,
-      "name": "Burglar",
-      "source": "The Hobbit Jumpchain",
-      "description": "You're really sneaky. You can find good hiding spots anywhere, including plain sight, and most people will not be able to spot you until you purposefully reveal yourself. All of your allies and enemies could be in the middle of a brawl, and you could slip away unnoticed with only the barest effort.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 4,
-      "cost": 100,
-      "name": "Might",
-      "source": "LOTR Jumpchain",
-      "description": "You are exceptionally strong and tough. You can lift far more than the average human, can walk or run for hours on end without tiring, and are unlikely to get sick.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 5,
-      "cost": 100,
-      "name": "Sneakiness",
-      "source": "LOTR Jumpchain",
-      "description": "You are very good at not being seen when you don’t want to be. You have talents in the realm of camouflage, and are generally unobtrusive. You might make an excellent burglar.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 6,
-      "cost": 100,
-      "name": "Shepherds of the Olvar",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "As creatures of Yavanna, the Ents are the closest of all speaking peoples to the olvar, the plants. You share in this, having the ability to understand plants on an incredible level. You are able to quickly intuit a plant’s current state and what it needs, and with a little longer you can quickly learn its properties, and even learn what they have experienced in their vicinity - though given a plant’s senses, mundane plants will likely not be able to tell you more this way than when the last rains came or similar. By the same token, you can communicate your wishes to the plants as well, both by normal means and in a subtle, more spiritual manner, such that they will tend to grow in the way you want. In short, you have the green thumb to end all green thumbs, bordering on a magical understanding of plant-life in general - and this is a skill which can be taught to others, albeit only with great patience on their part. It'll be much quicker to teach a more mundane level of the skill, like how to be a good gardener or farmer. This understanding extends beyond mundane plants, however, and into beings which have a plant-like nature. If you should encounter forest elementals, animate plants, grain-spirits, dryads or even plant-based macroorganisms on your travels, you will be able to understand and communicate with them in a peaceful manner, and will find it relatively easy to convince them you mean no harm, or to befriend you and regard you as an ally.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 7,
-      "cost": 200,
-      "name": "Riddles in the Dark",
-      "source": "The Hobbit Jumpchain",
-      "description": "You are naturally talented with games of intellect and puzzles. Whether it's playing riddles in the dark against a sinister creature or coming up with clever ways to avoid telling a dragon who you are, you can match their wits and come up with ingenious answers to even the trickiest games.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 8,
-      "cost": 200,
-      "name": "Loyal Hunter",
-      "source": "LOTR Jumpchain",
-      "description": "A loyal hunting assistant follows you. It is probably a Hound of the Woodsman or Rangers, able and dutiful, but it may instead be a savage Warg. In any case, it is far more intelligent than your average dog (though not truly sentient) and will aid you throughout your journey.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 9,
-      "cost": 200,
-      "name": "Among the Leaves ",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "Despite being over four metres tall on average, the ents are rarely seen. You share this skill of hiding, able to conceal yourself via camouflage to the point that you become almost invisible; so long as you look similar to your surroundings (wearing sand-colours in a desert, or just being a tree-like being in a forest) and you move (or don’t move) with their motions, you can blend into the background to the point that only careful examination from the keenest-eyed, or help from magic or technology has a chance of picking you out - and even then it will be hard. This concealment extends to your spiritual aspects as well; if you were disguised amidst a forest, even those who can see souls would perceive your spirit only as that of a tree. Additionally, your patience has become that of the trees themselves; you could wait still long enough for a forest to grow before your eyes if need be, though doing nothing at all for such long stretches risks becoming more treeish than entish.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 10,
-      "cost": 300,
-      "name": "Mearas",
-      "source": "LOTR Jumpchain",
-      "description": "You have been blessed to ride one of the descendants of Felof, Lords of Horses. Your horse is more intelligent than the average human, can understand English, and can run at up to 50 MPH for days upon end.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 11,
-      "cost": 400,
-      "name": "Incorruptible",
-      "source": "The Hobbit Jumpchain",
-      "description": "​Evil and corruption can find no hold on your soul. Even entities of great power and malice find you incredibly resistant to their influence. You could hold onto a ring of pure evil for 60 years and still be able to let it go in the end through simple willpower",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 12,
-      "cost": 400,
-      "name": "Skin Changer",
-      "source": "The Hobbit Jumpchain",
-      "description": "Skin Changers are a rare, nearly extinct race. But now there is one more in Middle Earth. You now have the ability to transform into a great and powerful animal of your choice. This form has enhanced strength, durability, and speed relative to the animal that it is modeled after, and you can maintain your human mind while transformed.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 13,
-      "cost": 400,
-      "name": "Tree-Herds ",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "The ents are named ‘shepherds of the trees’, and you more than live up to that name. In a process half-magic, half-gardening, you can shape lands and ecosystems, working wood and water, stick and stone to create new landscapes. Given an empty plain and long enough, you could grow a forest as dense and strong as Fangorn, or enrich the earth to make it as bountiful as the Shire. This expertise extends from growing living things into transforming the landscape; redirecting rivers, moving hills and other such grand projects. Or, if you are roused to anger, the use of the environment in war: Directing rivers to wash away cities, preparing cliffs for rock-falls and similar. If you are an ent, your great strength will be very useful in such grand projects, but even if you are not, you still maintain the skill to direct many people together to accomplish similar results. More than these mundane aspects, however, you also know the secrets of brewing ent-draughts; concentrating the spiritual power of growing things deep in the earth into blessed waters with potent virtues of growth and flourishing. Brewing such draughts requires that you shape landscapes to purpose, it takes time for the power to gather, and it can only be done in intensely verdant lands. Once the labour is complete, though, there will come forth springs of these potent waters, able to give especial strength, vitality, growth and endurance to those who drink them, and to sustain people even without ordinary food.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 14,
-      "cost": 400,
-      "name": "Beast Master",
-      "source": "The Hobbit Jumpchain",
-      "description": "You are skilled at riding animals, including somewhat intelligent animals like wargs. You can stay on even under duress, guiding them by force and threat rather than kindness and trust.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 15,
-      "cost": 600,
-      "name": "Luck",
-      "source": "The Hobbit Jumpchain",
-      "description": "​You have an absurd amount of luck. You can be lost in a cave and manage to stumble across the most powerful object on the planet. Or maybe your escape just so happens to be planned on the one night when everyone is too drunk to care why the 'empty' barrels are so heavy. If you put in any effort, everything just seems to go your way.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 16,
-      "cost": 600,
-      "name": "The Wakeful Woods",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "When you tend a verdant landscape which is at least somewhat wild, you may at your will begin to quicken a transformation in the plants therein. Over time, and to a degree according to the plant’s own strength, age and general power, they begin to awaken, gaining greater awareness of the world around them, and a greater ability to affect it. They become, essentially, ensouled; thinking beings in their own right, though their thoughts are strange and quite different to those of humans. Lands filled with such awakened plants gain a certain degree of spiritual potency; they are in a subtle way, enchanted, and strange things may occur there. Most such ensouled plants are capable of little but sensing the world around them, communicating with one another, projecting a sense of their emotions to those around in a vague, difficult-to-define manner (so a forest full of watchful, suspicious trees would create a feeling of unwelcomeness and being watched), and moving to a limited degree. This movement doesn’t tend to happen when anyone’s looking; rather a person might bend down to look at something, then find the path back to have vanished. Older and more powerful plants gain greater power in their turn, able to move in a more deliberate manner (such as opening caves beneath their roots to trap unwelcome travellers) and project their will with such force as to induce drowsiness or perhaps hallucinations. Furthermore, as something akin to leaders amongst their kind, they can direct other ensouled plants and use them as channels for their own will, so as to act at a distance or collectively create labyrinths to bewilder intruders. Perhaps most importantly, by tending to such ensouled plant-life, watering them with ent-draughts and the like, you may transform them into Huorns; trees not only aware and animate, but able to move long distances and make faster movements, capable of true attacks. With enough time, you might even find a way to cultivate true ents in this way. Creatures you awaken via this perk are by default well-disposed towards you and will obey you so long as you treat and tend them well.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 17,
-      "cost": 600,
-      "name": "Were-Wyrm",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Usually found in desert areas, you have somehow acquired one of these enormous subterranean and very carnivorous creatures that can travel beneath the ground and emerge to devour unfortunate figures. You also managed to accomplish something considered impossible and tamed this normally aggressive predator. They tend to respond to sound, and you know a signal to make them start and stop hunting within the local area. Bear in mind they go for anything walking around on the ground and cannot go through solid rock, though they have learnt how to recognise and avoid attacking yourself and your allies. Given enough time, this pet of yours can grow to be larger than most buildings, though this might limit where they can go if there isn’t enough room. Still, they would be very potent siege weapons at that point. You might not need to bother assembling an army to take a fortress if your pet can just devour or sink the whole thing.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 18,
-      "cost": 800,
-      "name": "Vision of Primordial Spring ",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "It is said that in the spring of Arda, when the world was lit as it were a changeless day by the lamps Illuin and Ormal, Yavanna first brought forth the fruits of her thought. There were trees in those days which grew like living mountains, cloud-crowned with their feet deep in a green twilight of their own making. Those days are vanished and gone - but in you there lives a memory which can be brought forth once more. At your will, lands you cultivate grow strong and swiftly, plants bursting forth eagerly from the soil at twice the rate elsewhere, with no greater need for nutrients or water. This is but the least of your gifts, however. Under your care, plants of all kinds evoke a memorial of those early days in the spring of Arda, growing five or more times their normal size. This growth is more than physical, though. Lands you cause to flourish in this manner grow strong in spirit as well; they are greatly more resilient to corruption and desecration of all kinds, while animal denizens grow larger, stronger and wiser as well. Herbs and plants are more potent, fruits and crops more fulfilling, and any magical crafts which take advantage of them find their results increased as well. Finally, though, there is the change in you yourself. These bountiful lands nourish you as much as you nourish them. While within these lands, your resilience to injury, disease, poisons and other harms is greatly increased, your stamina and endurance becomes to all intents and purposes infinite, and your strength is magnified twice over. These benefits linger to an extent while outside of these lands, but fade over time; within a week or so the benefits will be lost until you return, whereupon they return at approximately twice the rate.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 19,
-      "cost": 0,
-      "name": "Song And Dance ",
-      "source": "The Lord of the Rings",
-      "description": "This world was made in song, and if you compare it to the one you came from, this can be rather evident. After all, everyone, even the wretched, likes to sing and occasionally even dance. Poetry and song are rather pervasive aspects of culture in this world. And you wouldn’t want to be left out, would you? So for free, you gain a respectable level of skill at song and dance, and you will also learn many songs and small tales to entertain yourself and others with. Lastly, you’ll have a gift for translating your own experiences into songs and poetry, to be sung when you return home and tell others of your exploits and the things you’ve seen. Perhaps you’ll get your hands on an instrument to supplement your singing?",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 20,
-      "cost": 100,
-      "name": "Blessing Of Light Journeys",
-      "source": "The Lord of the Rings",
-      "description": "While adventuring sounds quite good on paper, there are many little mundanities that can be rather annoying in the moment. Thankfully you won’t have to worry about it, perhaps due to some magic spell laid on you? You’ll find that pests such as insects generally keep their distance from you, and that any clothing you wear will never chafe at you or be uncomfortable to wear even after days of running. Lastly, you’ll find that equipping and unequipping armor and the like will be a quick and smooth affair, despite how it might normally be. Long journeys won’t be quite as difficult anymore, but do remember to still bring some food with you.",
-      "chapter": "Hobbits, Ents and Others"
-    }
-  ],
-  "3": [
     {
       "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
       "__line": 1,
@@ -725,7 +543,461 @@
       "chapter": "Dwarves"
     }
   ],
+  "3": [
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 1,
+      "cost": 0,
+      "name": "Forthog Orc-Slayer ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "This unusual figure will occasionally show up out of nowhere to help you out, give you some advice and perhaps a motivational word or two, before disappearing again just as mysteriously. Armed with a weapon that seems to be a cross between a guitar, a spiked club and an axe, they are a very skilled fighter. They’ll occasionally provide you some support and encouragement on your long journey.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 2,
+      "cost": 100,
+      "name": "Troll’s Might",
+      "source": "Twilight of the North - A Jumpchain CYOA",
+      "description": "From the hot lands of the Far South there come huge men, oft likened to half-trolls in appearance, with white eyes and red tongues. Traditionally they wield large weapons that even the strongest of men would struggle to wield, let alone swing them with such ferocity as do these men of Harad. To kill them takes no few number of wounds, and even then they are likely to slay more than a few men before they are brought down. You are one of these men, and whether you have their troll-like appearance is up to you. As well, you are resistant to poisons and venom.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 3,
+      "cost": 100,
+      "name": "The Black Speech",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "This Perk does cover certain secret languages you might encounter, in this case being the Black Speech of Mordor. Not all Orcs know it, with some thinking it’s just gibberish. Speaking, reading, writing and understanding these sorts of languages is instinctual for you, and you won’t suffer from any side effects or negative aspects of knowing or using various dark and eldritch languages, nor do those around you. You can toggle that safety feature off if you really want.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 4,
+      "cost": 100,
+      "name": "Mordor, Born And Razed",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "This may not be a misspelling, considering the Orcish culture. You have been born or created in a harsh environment and you can certainly survive in it. Raw meat, freezing blizzards, scorching volcanic environments, disease and hardship... well, it really isn’t that hard for you to live in it. You might not be comfortable in it, but you’ll survive the environment. Just need to keep an eye out for the inhabitants that are just as well adjusted as you are.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 5,
+      "cost": 100,
+      "name": "Grog Drinker",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Better for you than milk, if you’re an Orc. Really, Orcs here seem to use Grog as an alcohol and a medicine, and since you bought this Perk you can benefit from the same thing. You can stomach any form of alcohol in any quantity, choose whether to appreciate or negate the taste regardless of its contents, and rapidly heal yourself of any maladies by drinking it. Just bear in mind that you might still be affected by poison slipped into it, or explosions caused by it.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 6,
+      "cost": 100,
+      "name": "The Dragon Spell",
+      "source": "Silmarillion Jumpchain",
+      "description": "Dragons are famous for their cunning dragon spell. It is a form of hypnosis that can overpower many beings by gaze and word alone. At your baseline skill you are able to hypnotize the weak willed or despairing and give them simple commands. As you practice and grow in age you might one day be able to rewrite the memories of a man with a simple gaze and a few spoken words.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 7,
+      "cost": 100,
+      "name": "Brutal Weapon",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "This might take on the form of an enormous stone club, or a jagged sword, or perhaps a serrated dagger. It will be an effective weapon, if not particularly elegant, and noticeably intimidate your enemies.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 8,
+      "cost": 100,
+      "name": "Chief’s Armour ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "A set of armour suitable for you. Even if it doesn’t cover your entire body or looks crude, it is incredibly durable and protective. Particularly the back of it, something that might come in handy considering the propensity for backstabbing around here. Even uncovered areas of your body seem to share the durability this armour provides.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 9,
+      "cost": 100,
+      "name": "Warg Mount",
+      "source": "The Hobbit Jumpchain",
+      "description": "A creature of war, you now possess a warg mount which is absolutely loyal to you even unto death. It is a lethal mount and will fearlessly bear you into battle against anyone or anything without hesitation. Counts as an item and does not take up a companion",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 10,
+      "cost": 100,
+      "name": "Caragor",
+      "source": "Shadow of Mordor Jumpchain",
+      "description": "A particularly large and ferocious caragor (armoured, spiky, bulky, hairless sabre-toothed tigers) that loves you, is happy to let you ride it and will do as you instruct.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 11,
+      "cost": 100,
+      "name": "Serpentine Blade",
+      "source": "Shadow of Mordor Jumpchain",
+      "description": "An asymmetrical, wavy dagger of orcish origin. Has mystical armour-piercing qualities when used to attack somebody from behind.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 12,
+      "cost": 100,
+      "name": "Iron Shackles",
+      "source": "Shadow of Mordor Jumpchain",
+      "description": "Prisoner's leg irons with a brutal history. Have the strange quality of sapping the mental strength and will to resist those forced into them.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 13,
+      "cost": 100,
+      "name": "A Lair ",
+      "source": "Silmarillion Jumpchain",
+      "description": "Whether a cave or some abandoned underground ruin, you have a private lair of your own. Place your hoard here if you have one. This is a safe place that is very hard for outsiders to find but has nothing in it that you don’t bring or purchase.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 14,
+      "cost": 100,
+      "name": "Thick-Skinned",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "Your people were made to suffer under the whips and lashes of Melkor, but even those fierce scourges don’t retain their power forever. Your skin is literally thickened, tough and leathery and hard to pierce; it’s not as good as armour, but it’s something. You are inured to much pain, able to endure even great agonies and tortures without breaking. Your body has been strengthened, too, giving you great endurance and not-inconsiderable might. Perhaps most vital of your gifts, however, is the ability to retreat into yourself to outlast even the worst of torments. When another dominates your will, or you are placed in unendurable circumstances, you will not be entirely broken. Instead, your own will and selfhood will retreat deep inside you, hidden from all but the most piercing examinations of your thought. Though your body may toil at the behest of another, and go on without hope or happiness, still some vestige of your former spirit is sheltered inside, ready to emerge once again if you should escape such dire circumstances.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 15,
+      "cost": 200,
+      "name": "Bright Lord, Dark Lord, Same Thing Really",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "With various forces that can’t really be killed by conventional head-popping zooming around Mordor these days, sometimes it’s better to bend the knee. If you do, you’ll find yourself accepted by whoever has defeated you regardless of who and what you are or your previous actions, and you’ll be appropriately rewarded for whatever aid you are able to provide. You help your new boss conquer a fortress and throw your hat into the ring for position of owning it, they’ll be far more likely to give you the position than any of their other allies.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 16,
+      "cost": 200,
+      "name": "Et Tu, Brûz?",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "They never saw your betrayal coming. Even if it should have been somewhat obvious, but they should have just treated you better, really. You have the skills, timing and will be lucky with opportunities to betray those you serve under and take everything for yourself – or just leave defences open for your allies, whatever works for you. Even the most paranoid of employers or well-armoured of Warchiefs won’t notice you sharpening the knife or be suspicious if you’re approaching them as they’re standing on a very high point. Just... make sure once you pull it off, they won’t be able to come after you in revenge.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 17,
+      "cost": 200,
+      "name": "Cruel Crossbow ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Rather than a fancy bow, you have decided to arm yourself with a cruder looking but perfectly functional crossbow. This is designed for more rapid fire than a normal bow and causing the maximum amount of damage to opponents they hit at the expense of extreme accuracy or range. The barbed bolts fired from this weapon tend to stick into opponents and wound them beyond the initial impact does. You have a rapidly regenerating supply of this ammunition. It even has spikes on it, and is durable enough to act as a more direct weapon in a pinch.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 18,
+      "cost": 200,
+      "name": "The Fixer",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "This masked figure approached you, pointing out they were worth more to you alive. See, they provide solutions. Most problems in Mordor can be solved with the swing of a blade. But when the situation at hand is more complex, for example when you need to not only kill one enemy but also make it appear that a second was responsible, this figure is the one to call. They can make difficult problems go away and can draw on a vast network of manipulations and owed favours to make it happen. They are valued as much for their results as for their discretion, a quality virtually unknown in Mordor. Should they need to accompany you in person, you will find they are just as fleet as foot and subtle as you are.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 19,
+      "cost": 200,
+      "name": "The Lookout",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "While you’re keeping watch, it might be helpful to have someone to watch your back. You get along well with this figure. You might be long- lost siblings, or perhaps they are someone related to an important official. You can leave them to look after things in your absence, as they’re quite a good leader and administrator in their own right, but they are equally capable of accompanying you into the field of battle.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 20,
+      "cost": 200,
+      "name": "The Bodyguard ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "As brutal as life in Mordor might seem to outsiders, it is entirely possible for strong bonds to form between some of its inhabitants. You’ve forged one with this figure, a find addition to your army. From here on out, they will be your shadow. No one gets to you without their say so. They will do what they can to protect you and your territory, and have the unusual ability fill in roles in combat opposite to your own. For example, if you are a huge and durable figure using a giant but slow weapon, they will be a smaller but much more agile figure. If you specialise in ranged attacks, they will focus on close combat. Your bond is so great that should any harm befall one of you, the other will immediately be aware of the danger and the cause.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 21,
+      "cost": 200,
+      "name": "Cavern Lake",
+      "source": "The Hobbit Jumpchain",
+      "description": "​The sun can be a bitter foe for creatures of darkness, so for that, you have this place. It is a vast cavern lake filled with juicy fishes just waiting to be caught and eaten raw and wriggling. No sunlight can penetrate this domain, and all creatures of darkness find it strangely homey and comforting. Can be dropped into other jumps or added as a warehouse attachment.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 22,
+      "cost": 200,
+      "name": "Hatred",
+      "source": "Shadow of Mordor Jumpchain",
+      "description": "Uruks tend to fight harder against things they hate. You however have it in you to hate everything. This surge of hatred makes you significantly stronger, more resistant to damage and (somehow) heal faster than you should be able to.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 23,
+      "cost": 400,
+      "name": "Necromancy ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Feel like raising an army using other means? There’s no shortage of the dead in these conditions. This ability will grow over time, starting with animating one or two weak corpses using energy gleaned from killing enough. In time you could learn to summon up corporeal ghosts of the dead as an army, create totems that repeatedly revive nearby corpses under your control as long as the totem remains intact, or even perform rituals to bind wraiths into living or near-dead beings for a variety of purposes. Those killed by undead are far easier to call back, sentient or otherwise, than those killed by the living.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 24,
+      "cost": 400,
+      "name": "Brutal Cunning ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "You wouldn’t exactly be a Warchief for too long amongst the forces of Mordor if you weren’t good at fighting. Those that rely too much on their bodyguards might end up being backstabbed by them. You have a combination of instinct, training, and the right body type for an approach to combat you prefer. Maybe you’re a sneakier fellow using traps and bombs, so you’ll have a more agile and dextrous frame. Stay at range, you’ll develop much better eyesight and aim for your powerful crossbow. Maybe you go for the direct approach, and as a result you’ll have a towering and muscle-bound body capable of lifting up a Caragor and breaking it in half. Uruk, Olog or Goblin, whatever species or sub-species you’ve become, you are amongst the best at your particular style of combat.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 25,
+      "cost": 400,
+      "name": "Cunningly Brutal",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Some might think you have two heads, on account of you being so smart. In this case probably smart for an Orc, but if you were some other species you’d be among what passes for the more intelligent amongst them. Perhaps you’re not necessarily incredibly intelligent, you just know exactly how the rest of your kind thinks and how to exploit it. You’d certainly be able to lead your own people into an ambush at least twice before they caught on, which might be enough if they didn’t have some outside help. Either way, you’re good at tactics, ambushes and fooling your own species.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 26,
+      "cost": 400,
+      "name": "Beasts Of Mordor",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "You have bonded with examples of various dangerous creatures that live in these lands. When you call upon them, they shall come, skuttling, fluttering, leaping and lumbering forth to aid you. They are trained and consider you an ally, and the weaker they are the greater in number they can be, while the stronger or more specialised creatures may only come in a pair. You could summon a swarm of hungry Ungol Spiders or Mordor Rats, unleash a nest of stinging Morgai Flies, call forth a flock of Hell-Hawks, or muster up a group of vicious Ghûls to feast on your enemies or a pack of Caragors to ride upon. If you are in need of something more powerful but less numerous, you could instead bring forth a pair of towering Graugs to smash your opponents into greasy smears, or fiery Drakes to take flight and burn your foes to ashes. Once you use this Perk there is a waiting period before you can use it again in the same area. While you can keep this limited to the creatures from Mordor, you can also update it to equivalent beasts you encounter in future Jumps. When pack animals that can be ridden are called upon, they will include a strongpack-leader for your personal use, such as a Dire Caragor. If there is a variety of a specific type of creature, such as the Flame, Frost or Poison Graugs, you can decide which ones you want to come to your aid.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 27,
+      "cost": 400,
+      "name": "Hoard",
+      "source": "Silmarillion Jumpchain",
+      "description": "Every Dragon worth anything needs a hoard. Gathered up from your enemies over the years and collected in a safe place of your choosing is the amazing wealth of your hoard. Countless pieces of gold, gems, hundreds of precious stones, and armories worth of weapons and armor are scattered in grand mounds. This hoard can either be located in a safe place of your choosing or as an attachment to the warehouse from jump to jump. Good luck ever spending it all, even if you wanted to do anything other than nap on it.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 28,
+      "cost": 400,
+      "name": "Warchief",
+      "source": "Shadow of Mordor Jumpchain",
+      "description": "You have a reputation that even amongst Sauron's forces is considered intensely scary. Through sheer menace you are capable of keeping thousands of members of a duplicitous and quarrelsome species in check and obedient.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 29,
+      "cost": 600,
+      "name": "Iron Will ",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Being called stubborn is one thing, but anyone trying to modify your mind against your will might find it easier to get through your thick skull with metal rather than relying on a magical ring. You’re essentially immune to mind control, mental alteration intended to make you more pliable, or other such puppetry. You will not be bent, and the best they might manage to do is be forced to break you entirely. Even then, you could bounce back given time.",
+      "chapter": "Dragons, Trolls & Orcs"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
+      "__line": 30,
+      "cost": 600,
+      "name": "Goblin King",
+      "source": "The Hobbit Jumpchain",
+      "description": "​Some kings rule through love, benevolence, and justice. You are not such a king. You inspire loyalty through fear, and because of that, it doesn't matter how badly you treat your people, they will always accept your brutality without question. Those under your command are unlikely to betray you, too frightened of the potential consequences to even consider it.",
+      "chapter": "Dragons, Trolls & Orcs"
+    }
+  ],
   "4": [
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 1,
+      "cost": 0,
+      "name": "Home",
+      "source": "LOTR Jumpchain",
+      "description": "You don't want to always live on the road, do you? You have a small, but comfortable, home in whatever town or city you choose (this may be different from your starting location).",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 2,
+      "cost": 0,
+      "name": "Basic Camping Supplies",
+      "source": "The Hobbit Jumpchain",
+      "description": "You step onto the road, and if you don’t keep your feet, there is no telling where you might be swept off to. Sometimes, those roads don't have modern conveniences like beds and roofs, but now you have a large backpack with high quality camping gear. It's oddly light and easy to pack up, and the gear never seems to wear out.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 3,
+      "cost": 100,
+      "name": "Burglar",
+      "source": "The Hobbit Jumpchain",
+      "description": "You're really sneaky. You can find good hiding spots anywhere, including plain sight, and most people will not be able to spot you until you purposefully reveal yourself. All of your allies and enemies could be in the middle of a brawl, and you could slip away unnoticed with only the barest effort.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 4,
+      "cost": 100,
+      "name": "Might",
+      "source": "LOTR Jumpchain",
+      "description": "You are exceptionally strong and tough. You can lift far more than the average human, can walk or run for hours on end without tiring, and are unlikely to get sick.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 5,
+      "cost": 100,
+      "name": "Sneakiness",
+      "source": "LOTR Jumpchain",
+      "description": "You are very good at not being seen when you don’t want to be. You have talents in the realm of camouflage, and are generally unobtrusive. You might make an excellent burglar.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 6,
+      "cost": 100,
+      "name": "Shepherds of the Olvar",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "As creatures of Yavanna, the Ents are the closest of all speaking peoples to the olvar, the plants. You share in this, having the ability to understand plants on an incredible level. You are able to quickly intuit a plant’s current state and what it needs, and with a little longer you can quickly learn its properties, and even learn what they have experienced in their vicinity - though given a plant’s senses, mundane plants will likely not be able to tell you more this way than when the last rains came or similar. By the same token, you can communicate your wishes to the plants as well, both by normal means and in a subtle, more spiritual manner, such that they will tend to grow in the way you want. In short, you have the green thumb to end all green thumbs, bordering on a magical understanding of plant-life in general - and this is a skill which can be taught to others, albeit only with great patience on their part. It'll be much quicker to teach a more mundane level of the skill, like how to be a good gardener or farmer. This understanding extends beyond mundane plants, however, and into beings which have a plant-like nature. If you should encounter forest elementals, animate plants, grain-spirits, dryads or even plant-based macroorganisms on your travels, you will be able to understand and communicate with them in a peaceful manner, and will find it relatively easy to convince them you mean no harm, or to befriend you and regard you as an ally.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 7,
+      "cost": 200,
+      "name": "Riddles in the Dark",
+      "source": "The Hobbit Jumpchain",
+      "description": "You are naturally talented with games of intellect and puzzles. Whether it's playing riddles in the dark against a sinister creature or coming up with clever ways to avoid telling a dragon who you are, you can match their wits and come up with ingenious answers to even the trickiest games.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 8,
+      "cost": 200,
+      "name": "Loyal Hunter",
+      "source": "LOTR Jumpchain",
+      "description": "A loyal hunting assistant follows you. It is probably a Hound of the Woodsman or Rangers, able and dutiful, but it may instead be a savage Warg. In any case, it is far more intelligent than your average dog (though not truly sentient) and will aid you throughout your journey.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 9,
+      "cost": 200,
+      "name": "Among the Leaves ",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "Despite being over four metres tall on average, the ents are rarely seen. You share this skill of hiding, able to conceal yourself via camouflage to the point that you become almost invisible; so long as you look similar to your surroundings (wearing sand-colours in a desert, or just being a tree-like being in a forest) and you move (or don’t move) with their motions, you can blend into the background to the point that only careful examination from the keenest-eyed, or help from magic or technology has a chance of picking you out - and even then it will be hard. This concealment extends to your spiritual aspects as well; if you were disguised amidst a forest, even those who can see souls would perceive your spirit only as that of a tree. Additionally, your patience has become that of the trees themselves; you could wait still long enough for a forest to grow before your eyes if need be, though doing nothing at all for such long stretches risks becoming more treeish than entish.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 10,
+      "cost": 300,
+      "name": "Mearas",
+      "source": "LOTR Jumpchain",
+      "description": "You have been blessed to ride one of the descendants of Felof, Lords of Horses. Your horse is more intelligent than the average human, can understand English, and can run at up to 50 MPH for days upon end.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 11,
+      "cost": 400,
+      "name": "Incorruptible",
+      "source": "The Hobbit Jumpchain",
+      "description": "​Evil and corruption can find no hold on your soul. Even entities of great power and malice find you incredibly resistant to their influence. You could hold onto a ring of pure evil for 60 years and still be able to let it go in the end through simple willpower",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 12,
+      "cost": 400,
+      "name": "Skin Changer",
+      "source": "The Hobbit Jumpchain",
+      "description": "Skin Changers are a rare, nearly extinct race. But now there is one more in Middle Earth. You now have the ability to transform into a great and powerful animal of your choice. This form has enhanced strength, durability, and speed relative to the animal that it is modeled after, and you can maintain your human mind while transformed.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 13,
+      "cost": 400,
+      "name": "Tree-Herds ",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "The ents are named ‘shepherds of the trees’, and you more than live up to that name. In a process half-magic, half-gardening, you can shape lands and ecosystems, working wood and water, stick and stone to create new landscapes. Given an empty plain and long enough, you could grow a forest as dense and strong as Fangorn, or enrich the earth to make it as bountiful as the Shire. This expertise extends from growing living things into transforming the landscape; redirecting rivers, moving hills and other such grand projects. Or, if you are roused to anger, the use of the environment in war: Directing rivers to wash away cities, preparing cliffs for rock-falls and similar. If you are an ent, your great strength will be very useful in such grand projects, but even if you are not, you still maintain the skill to direct many people together to accomplish similar results. More than these mundane aspects, however, you also know the secrets of brewing ent-draughts; concentrating the spiritual power of growing things deep in the earth into blessed waters with potent virtues of growth and flourishing. Brewing such draughts requires that you shape landscapes to purpose, it takes time for the power to gather, and it can only be done in intensely verdant lands. Once the labour is complete, though, there will come forth springs of these potent waters, able to give especial strength, vitality, growth and endurance to those who drink them, and to sustain people even without ordinary food.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 14,
+      "cost": 400,
+      "name": "Beast Master",
+      "source": "The Hobbit Jumpchain",
+      "description": "You are skilled at riding animals, including somewhat intelligent animals like wargs. You can stay on even under duress, guiding them by force and threat rather than kindness and trust.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 15,
+      "cost": 600,
+      "name": "Luck",
+      "source": "The Hobbit Jumpchain",
+      "description": "​You have an absurd amount of luck. You can be lost in a cave and manage to stumble across the most powerful object on the planet. Or maybe your escape just so happens to be planned on the one night when everyone is too drunk to care why the 'empty' barrels are so heavy. If you put in any effort, everything just seems to go your way.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 16,
+      "cost": 600,
+      "name": "The Wakeful Woods",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "When you tend a verdant landscape which is at least somewhat wild, you may at your will begin to quicken a transformation in the plants therein. Over time, and to a degree according to the plant’s own strength, age and general power, they begin to awaken, gaining greater awareness of the world around them, and a greater ability to affect it. They become, essentially, ensouled; thinking beings in their own right, though their thoughts are strange and quite different to those of humans. Lands filled with such awakened plants gain a certain degree of spiritual potency; they are in a subtle way, enchanted, and strange things may occur there. Most such ensouled plants are capable of little but sensing the world around them, communicating with one another, projecting a sense of their emotions to those around in a vague, difficult-to-define manner (so a forest full of watchful, suspicious trees would create a feeling of unwelcomeness and being watched), and moving to a limited degree. This movement doesn’t tend to happen when anyone’s looking; rather a person might bend down to look at something, then find the path back to have vanished. Older and more powerful plants gain greater power in their turn, able to move in a more deliberate manner (such as opening caves beneath their roots to trap unwelcome travellers) and project their will with such force as to induce drowsiness or perhaps hallucinations. Furthermore, as something akin to leaders amongst their kind, they can direct other ensouled plants and use them as channels for their own will, so as to act at a distance or collectively create labyrinths to bewilder intruders. Perhaps most importantly, by tending to such ensouled plant-life, watering them with ent-draughts and the like, you may transform them into Huorns; trees not only aware and animate, but able to move long distances and make faster movements, capable of true attacks. With enough time, you might even find a way to cultivate true ents in this way. Creatures you awaken via this perk are by default well-disposed towards you and will obey you so long as you treat and tend them well.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 17,
+      "cost": 600,
+      "name": "Were-Wyrm",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Usually found in desert areas, you have somehow acquired one of these enormous subterranean and very carnivorous creatures that can travel beneath the ground and emerge to devour unfortunate figures. You also managed to accomplish something considered impossible and tamed this normally aggressive predator. They tend to respond to sound, and you know a signal to make them start and stop hunting within the local area. Bear in mind they go for anything walking around on the ground and cannot go through solid rock, though they have learnt how to recognise and avoid attacking yourself and your allies. Given enough time, this pet of yours can grow to be larger than most buildings, though this might limit where they can go if there isn’t enough room. Still, they would be very potent siege weapons at that point. You might not need to bother assembling an army to take a fortress if your pet can just devour or sink the whole thing.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 18,
+      "cost": 800,
+      "name": "Vision of Primordial Spring ",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "It is said that in the spring of Arda, when the world was lit as it were a changeless day by the lamps Illuin and Ormal, Yavanna first brought forth the fruits of her thought. There were trees in those days which grew like living mountains, cloud-crowned with their feet deep in a green twilight of their own making. Those days are vanished and gone - but in you there lives a memory which can be brought forth once more. At your will, lands you cultivate grow strong and swiftly, plants bursting forth eagerly from the soil at twice the rate elsewhere, with no greater need for nutrients or water. This is but the least of your gifts, however. Under your care, plants of all kinds evoke a memorial of those early days in the spring of Arda, growing five or more times their normal size. This growth is more than physical, though. Lands you cause to flourish in this manner grow strong in spirit as well; they are greatly more resilient to corruption and desecration of all kinds, while animal denizens grow larger, stronger and wiser as well. Herbs and plants are more potent, fruits and crops more fulfilling, and any magical crafts which take advantage of them find their results increased as well. Finally, though, there is the change in you yourself. These bountiful lands nourish you as much as you nourish them. While within these lands, your resilience to injury, disease, poisons and other harms is greatly increased, your stamina and endurance becomes to all intents and purposes infinite, and your strength is magnified twice over. These benefits linger to an extent while outside of these lands, but fade over time; within a week or so the benefits will be lost until you return, whereupon they return at approximately twice the rate.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 19,
+      "cost": 0,
+      "name": "Song And Dance ",
+      "source": "The Lord of the Rings",
+      "description": "This world was made in song, and if you compare it to the one you came from, this can be rather evident. After all, everyone, even the wretched, likes to sing and occasionally even dance. Poetry and song are rather pervasive aspects of culture in this world. And you wouldn’t want to be left out, would you? So for free, you gain a respectable level of skill at song and dance, and you will also learn many songs and small tales to entertain yourself and others with. Lastly, you’ll have a gift for translating your own experiences into songs and poetry, to be sung when you return home and tell others of your exploits and the things you’ve seen. Perhaps you’ll get your hands on an instrument to supplement your singing?",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 20,
+      "cost": 100,
+      "name": "Blessing Of Light Journeys",
+      "source": "The Lord of the Rings",
+      "description": "While adventuring sounds quite good on paper, there are many little mundanities that can be rather annoying in the moment. Thankfully you won’t have to worry about it, perhaps due to some magic spell laid on you? You’ll find that pests such as insects generally keep their distance from you, and that any clothing you wear will never chafe at you or be uncomfortable to wear even after days of running. Lastly, you’ll find that equipping and unequipping armor and the like will be a quick and smooth affair, despite how it might normally be. Long journeys won’t be quite as difficult anymore, but do remember to still bring some food with you.",
+      "chapter": "Hobbits, Ents and Others"
+    }
+  ],
+  "5": [
     {
       "__source": "The Celestial Ring by Gothicjedi666 - Elves",
       "__line": 1,
@@ -995,278 +1267,6 @@
       "source": "The Hobbit Jumpchain",
       "description": "​You have the power of preservation. You cannot die from old age, nor will you become visibly older over time. All of the accumulated abilities and knowledge you've gained over the years will not degrade or be forgotten no matter how infrequently you use them. You also gain an eidetic memory with limitless storage. Finally, your powers of preservation seep into the lands you inhabit, protecting them from decay and corruption.",
       "chapter": "Elves"
-    }
-  ],
-  "5": [
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 1,
-      "cost": 0,
-      "name": "Pipeweed Pouch",
-      "source": "Shadow of MordorJumpchain",
-      "description": "A refilling pouch of dried, extremely high quality pipe weed. Chills out even the most megalomaniacal of wizards.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 2,
-      "cost": 100,
-      "name": " Your Mark ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition\n",
-      "description": "You might want to make it clear you are active within a given area, either to give others somewhere to find to interact with you or to try to ward off intruders. This could be a symbol that you can place within a location, or even something like a strong feeling of your presence to those who enter the area.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 3,
-      "cost": 100,
-      "name": "I Deal Only In Truth ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "When you’re telling the truth people know, you can also tell when people are lying to you. You might not necessarily be nice and certainly not setting a shining example to others with other things you might be up to, but at least you are notably honest.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 4,
-      "cost": 100,
-      "name": "Ungol Egg",
-      "source": "Shadow of Mordor Jumpchain",
-      "description": "An unhatched child of the great spider Shelob. When it hatches, it will think whoever it sees first is mommy and will do whatever they say. Buy two, and you can start a nest... but why would you want to?",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 5,
-      "cost": 200,
-      "name": " Wraith Bow ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Whether this is Azkar or another bow depends on whether or not the Wraith inhabiting you is Celebrimbor or not. Rather than using arrows of conventional physical materials, this instead conjures insubstantial glowing blue arrows of Wraith-magic. While you may be able to find more of these Wraith-magic arrows throughout the battlefields of Mordor, purchasing this will ensure your supply steadily regenerates by itself. Inscription: Narvi had me made for the ring-smith and for his loyal service. His arrows truly may they hit their mark.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 6,
-      "cost": 200,
-      "name": "Brood",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Creatures that serve you, perhaps ones you gave birth to, or created or altered using your abilities. Whatever it is, they will match your particular type of being. If you are a spider the size of a cart, perhaps these will be spiders up to the size of a large dog. If you are a creature of wood and leaf, perhaps some manner of woodland animal. If you are a creature of fire and shadow, perhaps they will be smaller beings of a similar nature. Whatever they are, they are significantly smaller and weaker than you, though potentially great in number. You may direct them as you will.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 7,
-      "cost": 200,
-      "name": "Elemental Manipulation",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Pick one non-manufactured feature of the world, such as ‘plants’, ‘shadows’, or ‘fire’. You are able to wield it as a weapon if you wished, such as creating a whip of fire, hide within it, or create and control facsimiles of another creature. The original must be weaker than you, and your duplicate will obviously be composed of whatever ‘element’ you chose, but it will have similar abilities to the original if it would not be antithetical to whatever the ‘element’ is. If this is the case, their abilities will change in form but not potency. As a drake made of plants would easily combust if it used fire, yours would instead breathe ice.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 8,
-      "cost": 200,
-      "name": "Great And Terrible",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "You are not of the race of Men, but you’re not an Orc, an Elf or a Wraith either. While you can certainly have a passably human form, you gain a ‘true’ form of some manner of immense creature and great affinity for others of its kind. While this defaults to a thing in a spider-like form that could very well be a descendent of Ungoliant like Shelob, you could instead choose to be a vast serpent, centipede, or raven. Or you could choose to be a towering tree-like being. Alternatively, you could be a looming monster of smoke and flame. Either way, you are very powerful physically, unnaturally durable, essentially ageless, and get more powerful as you grow older.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 9,
-      "cost": 200,
-      "name": "Last Gasp ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "As long as you are not killed instantly by something, you have a chance of escaping death for just a little longer. Should you be battered and beaten to the point you would and may actually fall to your knees, you have a short grace period. If nobody finishes you off, you will be able to get back up and fight once more. If somebody does try to finish you off, you will have a small but noticeable opportunity to counter the final blow and force yourself back into the fight. If you time it right you could even take out your attempted executioner with the same counter, but if you get it wrong...",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 10,
-      "cost": 200,
-      "name": "Morgul Blade",
-      "source": "Twilight of the North - A Jumpchain CYOA",
-      "description": "Made from iron ingots found in the Dark Land, these blades are sharp and strong, but that is not their true purpose. Their purpose is to inflict wounds that will not heal by normal means, and if used properly even turn the victim into a wraith under the control of the one who wounded them. A worthy weapon for a sorcerer, this longsword will not crumble upon use nor will it fade with the light of dawn after being used. As well, it is able to withstand strikes from even the finest of Dwarf-wrought weapons. It is cold to the touch, the edge will never dull and nor will the blade rust.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 11,
-      "cost": 200,
-      "name": "The Guardian",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition\n",
-      "description": "It seems you have earned the favour of something old and powerful. Rather than forcing you to carry out their orders, they seem to be more inclined to guide and aid you, as your unusual nature has caught their interest. To see something new after so long intrigues them, and to ensure their mere presence does not harm you, they have granted you significant resistance to their nature.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 12,
-      "cost": 200,
-      "name": "Treasure ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "You might not have much need for worldly possessions, but you might have accumulated things over time. This is a hidden stash of wealth that you have acquired over the years, or perhaps found in some forgotten place. It will mostly be simple material goods like gold, jewels and perhaps some artefacts of minor historical interest, but in each Jump you will be able to find one particularly notable artefact in your collection. Not necessarily powerful, but perhaps famous in some way.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 13,
-      "cost": 200,
-      "name": "Wizard Staff",
-      "source": "The Hobbit Jumpchain\n",
-      "description": "Somehow you came into possession of a wizard’s staff. It acts as a focus for those with magical talent, providing a moderate boost in the potency of their spells. Comes with a free pointy hat!",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 14,
-      "cost": 300,
-      "name": "Dol Guldur",
-      "source": "The Hobbit Jumpchain",
-      "description": "Dol Guldur, also known as the Hill of Dark Sorcery, was Sauron's stronghold and base of operations when he worked his sorcery in the wood under the name of The Necromancer. You now have a copy of this dark fortress, filled with dark creatures ready to do your bidding. It can be dropped into a jump or added as a warehouse attachment.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 15,
-      "cost": 400,
-      "name": " Spirit ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "You are not alone anymore. A long-dead being has been bound to you, and though they will not have any power except that which you allow them to have, they can guide you in the use of the abilities of a Wraith if you have the Perk. They can separate themselves from your body as a ghostly apparition that cannot be seen by others unless they are perceptive to such things or overlay your own to give yourself a ghostly visage. This can be partial, projecting their spirit over your flesh such as having half of your body take on their appearance, or you can choose to visually replace yourself with their ghostly form.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 16,
-      "cost": 400,
-      "name": "Hunting Ground",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Powerful you might be, but you didn’t last this long by not taking every advantage you could. You might not survive much longer if you don’t continue to do so. That might be why you decided to purchase this. It seems to be an environment that was almost designed to give you advantages in combat based on your abilities and weaknesses, which your enemies find difficult to navigate. If you could walk on any surface, it could be a series of caverns and tunnels that allow you to exploit this ability to attack at unexpected angles. If you were made of plants, it could be a forested area you can easily blend into and damp enough to make starting fires difficult. If you were of a fiery nature, it might be a chamber filled with lava and scorching air that you can comfortably inhabit while your enemies must endure the terrible heat. It can either be a location by itself, or you can assign its properties to a building or territory you already own.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 17,
-      "cost": 400,
-      "name": "Palantir ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "A magical artefact also known as a Seeing Stone. This one is separate from the others here and enemy forces cannot use it to see or affect you. This Item allows whoever possesses it to see any item, person or location they wish in real time, though it is possible for powerful forces akin to Sauron to conceal what you are trying to view in shadow if they are trying to specifically hide it. This comes with a stand, should you not wish to carry this treasure around with you.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 18,
-      "cost": 400,
-      "name": "Secret Ways",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "You may have walked this world for a long time, and in your wandering you have discovered or created paths that others do not dare to venture on, or perhaps know nothing about. This is a wide network of old and unknown ways that you and your allies could use to get around unnoticed, like underground tunnels and overlooked paths that others do not use. These ways are hidden from others, allowing you to travel across the breadth of Mordor without being spotted by even the most watchful and piercing of eyes. In future Jumps, you can give a territory this collection of hidden pathways, and even link it to any properties you own to allow unseen travel between them. It isn’t any faster than other routes but being subtle can have advantages over speed.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 19,
-      "cost": 400,
-      "name": "Spider’s Web ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "You and what you can control are more than mere matter. You can capture and contain even insubstantial things such as bodiless wraiths, if they are sufficiently weakened or distracted, either to finish them off, use them as a hostage, or keep them around for other purposes. The exact method will depend upon your other capabilities, such as ensnaring them in roots, trapping them within a cage of fire, or weaving a shadowy cloud around them.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 20,
-      "cost": 400,
-      "name": "The Cycle Is Unbroken",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "A being that exists for aeons may still need to rest and recuperate after battling with similarly powerful beings. You might even want to take a long nap and just sleep through the current problem if you have no interest in it. You can bind yourself to a location that embodies your chosen element, such as a forest for nature, a magma flow for fire, or a network of caverns for darkness, and not only gain awareness of what goes on within it but use it to recuperate. Even if you have been grievously wounded or exhausted in battle with a being that is your antithesis, you can come here to recuperate. Be warned, binding yourself to such a place can also bring about a vulnerability in your weakened state. If you were the embodiment of a forest and retreated to its heart, your enemies could potentially kill you should they find a way to burn down your resting place.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 21,
-      "cost": 400,
-      "name": "Wraith",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "It seems you are more than mortal, possessing abilities that the living normally do not have in Middle-Earth. You can fall from great heights without harm, perform incredible leaps, run at great speed, even conjure up phantasmal weapons. Ranged equivalents may need you to locate some form of ammunition or give you time to recharge as unlike others this involves your ghostly energy permanently leaving your body as the projectiles. You can let yourself partially slip into a shadowy netherworld, remaining physically within the living world but able to perceive other beings within either even through solid surfaces. Given time and experimentation, you could develop other abilities such as a second leap off of thin air, unleashing blasts of ice or fire or poison, teleporting yourself or others to you by expending the same energy you would use for projectiles, or fight in multiple places simultaneously as your wraith acts under your mental command. With just this Perk, this power is entirely yours and unshared with any other being,",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 22,
-      "cost": 400,
-      "name": "Angainor ",
-      "source": "Silmarillion Jumpchain",
-      "description": "You now have a copy of the great chains Aule crafted to bind the great Valar Melkor before throwing him into the Timeless Void. These powerful chains can bind an enemy of any size and easily hold any being below those of God-like might, if you can capture them.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 23,
-      "cost": 500,
-      "name": "Morgul-Lore",
-      "source": "Twilight of the North - A Jumpchain CYOA",
-      "description": "You are deep in sorcery and possess knowledge surpassing any save perhaps the Witch-king himself. With but a gesture and a word you can make a sword crumble in the hands of a man, a door seal shut against any but those with might greater than your own, enchant siege weapons with dark spells to blast asunder great gates, and enspell daggers with enchantments akin to those of the morgul blades. You can stir up a storm on a cloudy day, and in winter make the cold more deadly. You can brew disease and plague. You can bind the spirits of the dead and command them. Send them into tombs to inhabit the long deceased. Create illusions and phantasms. Make flame and lightning. Force orcs and trolls into your service with a few words or even merely a hard look. Extend your life. Speak with the crows and wolves and other evil creatures. With time and effort, you may even approach the might of the Witch-king himself, should you acquire even a lesser Ring.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 24,
-      "cost": 600,
-      "name": "Cult",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Sometimes it’s nice to be appreciated, and this group certainly likes you.They’re rather fanatical about it really, outright worshipping you if that’s what you want. Or they could just quietly guard a location with their lives and do their best to prevent anyone from disturbing you if you would prefer an existence of solitude. While they are not an army and would not fare will against the more powerful figures of Middle-Earth or other worlds, should you somehow be imprisoned or killed they have an uncanny capability to succeed in releasing or reviving you. The latter only works once a Jump or every decade, as it requires quite a lot of effort and sacrifice on their part. They will most likely decorate themselves or where they are staying with affectations to your own appearance and nature, unless you tell them otherwise.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 25,
-      "cost": 600,
-      "name": "Forge ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition\n",
-      "description": "Do you intend to create a Ring of Power for yourself? That is certainly possible here, should you have enough time, skill and potency of your own. This Item takes the form of an appropriately equipped forge with an appearance of your choice and a source of materials for whatever it is you intend to make. If you intend to forge something like a Ring of Power, you will find yourself with something akin to Mount Doom. If you only need to fix a normal suit of armour or create something mundane like new horseshoes you will be presented with a more modest and discrete workshop. You can decide what you will be working on when you come to place this Item in the Jump, which can be in any territory you own. It can also be imported into any building you have, or into the Warehouse.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 26,
-      "cost": 600,
-      "name": "Haedir Towers ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition\n",
-      "description": "These might be called dark imitations of the Palantir by some, but they can grant sight once they have been claimed. Interacting with the fiery stone in the chamber atop them allows you to perceive through an eye-like blue flame above the tower. They allow you to locate lost secrets and memories of their environment’s past, with points of interest found through the eye being automatically marked on any map you are using if desired. While you will find these towers in the various regions of Mordor even without this purchase that you can purify and claim for yourself, paying for it here allows similar towers to be established within any territory you claim within the future. For one final advantage you can utilise to guard territory you have managed to claim, they allow you to instantly transport yourself between them so long as you are not in danger.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 27,
-      "cost": 600,
-      "name": "Ring of Power",
-      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
-      "description": "The Rings of Power were forged in Eregion by the great smiths of the Gwaith-i-Mírdain during the Second Age. All of the Great Rings save the One had a single gem, and not one design was repeated. Every ring was imbued with a power that came from the combined skill of the great Noldor craftsmen that wrought them and the knowledge brought by Sauron in the guise of Annatar. Your Ring of Power, greater than any of the Nine, possessing to at least some degree the powers of the Three, and to a minor extent even carries some form of the power of the One, is untouched by the corruption of the Ruling Ring, independent in power, and wholly yours. In material it is mithril or a mithril-gold alloy depending on your taste in color, it has an inscription of your choice in Quenya or Khuzdul using the Tengwar, and a unique jewel set into it. This Ring cannot be seen by any save for another who wears a Ring of Power, or Sauron himself. In potency, your Ring is lesser than the One, but greater than any others, occupying a halfway point.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 28,
-      "cost": 600,
-      "name": "The New Ring ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "It is up to you if this is the most recent ring crafted by Celebrimbor, or you have your own independent one, depending on whether you have taken another’s place in this story in the Bright Lord Scenario. Either way, this one is loyal to you. Your own strength has been used in its creation, rendering it free of others influence, yet you are not diminished or limited for it. Should you allow it to be taken from you, something that is not possible against your will, you can cause its influence to wear away at the minds and souls of those who foolishly dared to lay claim to your treasure. Or you could lend it as a gift, knowing its wielders cannot use the might it grants them against you. Made with the intent of rivalling Sauron’s own One Ring, it bestows upon its wearers the power of Domination, allowing users to force their will upon other life forms susceptible to its immense magical power. This effect is not absolute, as sufficiently powerful beings can potentially resist its power and break free of it. The mentally weak and broken are more prone to its influence, whilst those with a will of iron have a chance of denying it altogether. If you already have this ability through purchasing The Power Of Domination Perk, you will find it easier and more intuitive to use, able to seize control of even the most powerful beasts such as Graugs and Drakes if you can weaken their resolve or somehow make them more vulnerable. You can also sacrifice your own followers, causing their heads to explode in an attempt to intimidate your enemies, or provide aid by healing those within close range at the expense of your own health. Additionally, you can restore your own wellbeing by draining others of theirs. As it was made to combat Sauron’s own One Ring and the other Rings Of Power, you will find it is capable of breaking Sauron’s hold over his Ringwraiths, either dominating them or releasing them from undeath. In future Jumps, you will find this power can be used to free others from mental control and contamination, as well as releasing those bound to undeath and letting those forced to remain lingering amongst the living to pass on. Like other Rings of Power, it grants augmentative effects to those who wear it, enhancing their existing abilities to new heights.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 29,
-      "cost": 600,
-      "name": "The Power of Domination ",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "You are capable of essentially enslaving the minds of others, bending them to your will. It is faster if you can physically contact their head, but can also be done from a short distance, though still only one at a time. This can be done to any living creature, and some undead, that possess something akin to a functional mind. Those with more power or stronger wills may need to be broken in first by seriously harming them, but average grunts will fall to you within a few uninterrupted seconds. With some practice, beasts can be rapidly dominated without needing to harm them. You can use this ability tolook within the minds of others as well. Bear in mind, however, that some beings are protected against this sort of mental interference through some means. They might not serve you with just this power at your disposal, so you will have to find other means to remove them as an enemy, or perhaps find ways to weaken them to the point they are vulnerable. It won’t work on mindless puppet corpses or the equivalent, but you have a chance of dominating anything that actually has some sort of mind. Perhaps even creatures like Ringwraiths, or stranger things, should they lack a way to stop you seizing control.",
-      "chapter": "Ancients and Spirits"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Ancients and Spirits",
-      "__line": 30,
-      "cost": 600,
-      "name": "Seedlings of Trees",
-      "source": "Silmarillion Jumpchain",
-      "description": "Telperion and Laurelin were the greatest trees to exist. The only source of light in the world after the destruction of the lamps and before the creation of the Sun and Moon. With leaves of gold upon the one and leaves of silver upon the other, they shined with a beautiful light that the Sun and Moon are but pale imitations of. Ungoliant destroyed these trees, draining their light and increasing her might. Somehow, two seedlings of the trees have survived and ended up in your hands. These seedlings, when planted will sprout and over the course of a few years grow into new trees with same light. These are hallowed and sacred things. Bring light back to this enshadowed realm, or perhaps hoard it for yourself and see what you can gain from exploiting such great lights. The trees can either be placed in a garden-like attachment to your warehouse or planted in a spot of your choosing from jump to jump.",
-      "chapter": "Ancients and Spirits"
     }
   ],
   "6": [
