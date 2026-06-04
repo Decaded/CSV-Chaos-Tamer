@@ -273,278 +273,6 @@
   ],
   "2": [
     {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 1,
-      "cost": 0,
-      "name": "Map",
-      "source": "The Hobbit Jumpchain",
-      "description": "This map is not the most detailed guide in the world, but it does have some useful information. Whenever you set out on a quest, this map will update with your destination and mark any secret methods of entering it.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 2,
-      "cost": 0,
-      "name": "Masterwork Armor ",
-      "source": "Twilight of the North - A Jumpchain CYOA",
-      "description": "Whether made by Dwarven or Mannish hands, this armor is a work of art as well as some of the greatest protection available short of mithril. Equal even to the works of the greatest of the armor-smiths in Númenor. A helm cunningly wrought and quite strong complementing the masterfully-wrought mail for your body.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 3,
-      "cost": 0,
-      "name": "Masterwork Weapon ",
-      "source": "Twilight of the North - A Jumpchain CYOA",
-      "description": "Whether or a finely wrought composite bow of wood and horn decorated with silver and gold, or an axe forged by the dwarves. This weapon will serve you well in battle and last for generations, perfect for an heirloom and fit for a lord of good wealth.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 4,
-      "cost": 100,
-      "name": "Mithril Armor",
-      "source": "Twilight of the North - A Jumpchain CYOA",
-      "description": "Armor forged of mithril is wondrously light and surprisingly strong, providing excellent protection in battle, and is also quite rare. This set of dwarf-wrought chainmail and helmet are fit for a mighty lord indeed.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 5,
-      "cost": 100,
-      "name": "Dwarven Craftsmanship",
-      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
-      "description": "In the tempering of steel, and in the making of mail the children of Aulë have no equal, not even among the greatest of the Noldor. While you are no truly great craftsman, you possess that natural aptitude of your race, as well as a fair understanding and skill in working steel. Even your relatively low skill, compared with your elders and those more naturally talented than you, is still good by the standards of Men. Good enough that even here your works look like masterworks to them, and your armor serviceable to any dwarf warrior.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 6,
-      "cost": 100,
-      "name": "Dwarf-Hoard ",
-      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
-      "description": "Gold, silver, precious gems, ornate armor, and gilded, jewel-encrusted weapons - all are to be found in any respectable Dwarf-hoard. Amassed over hundreds of years, these treasure piles bring happiness to the Dwarves who jealously guard them. Now you have one of these hoards of wealth and a place to keep them in if you do not already have one. Indeed, the wealth contained is suitable for even a very wealthy king of Men, and will restore itself should parts be spent. At least the gold and silver will. It is a hoard perhaps a twentieth the size of that which the King of Erebor would one day have amassed.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 7,
-      "cost": 100,
-      "name": "Legendary Weapon",
-      "source": "The Hobbit Jumpchain",
-      "description": "A true warrior must be in possession of a weapon named for its great deeds. Now you have just such a legendary weapon: Glamdring, Orcrist, or another blade of similar renown.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 8,
-      "cost": 100,
-      "name": "Miner",
-      "source": "The Hobbit Jumpchain",
-      "description": "As a child of the earth you are extremely strong and durable. You are able to lift far more than the average human or elf and can work long hours tirelessly. You gain special adeptness when it comes to mining, and you are exceptionally lucky when it comes to discovering valuable gems and minerals within the earth.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 9,
-      "cost": 100,
-      "name": "Lockbox and Key",
-      "source": "Shadow of Mordor Jumpchain",
-      "description": "A completely impregnable, large, dwarven-made lockbox and the only key able to open it.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 10,
-      "cost": 100,
-      "name": "Mithril Equipment",
-      "source": "Silmarillion Jumpchain",
-      "description": "Mithril is the greatest secret of the dwarves. A silvery metal, it is stronger than steel and much lighter. Mined mostly in Khazad-dum, it can be fashioned into armour that, while far lighter than anything of steel, is all but invulnerable to sword or dart. You have a mithril mail shirt and a mithril helmet.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 11,
-      "cost": 100,
-      "name": "Stonecunning ",
-      "source": "Silmarillion Jumpchain",
-      "description": "You are like the others of your kind, well at home in the deep places of the world. You always know which direction you are travelling when underground. You can easily identify most stones and metals and are excellent at finding secret passages underground and flaws in caves and stonework.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 12,
-      "cost": 200,
-      "name": "Wealth of the Dwarves ",
-      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
-      "description": "Wealth begets wealth, or so the saying goes. This is doubly true for the Dwarves, with them having an affinity for all things of Aulë, the substances of the earth, and being naturally talented miners and workers of metals. With you this goes somewhat beyond that, and you possess a sense for where to find minerals of your choice. From copper to mithril, no mineral can evade your detection if you put yourself to looking. As well, you have a knack for gaining greater wealth from trade. If you were placed in a small frontier-town you would have a thriving mining settlement with the start of a great fortune within three years, within ten you’d have the beginnings of a true trading city home to many skilled craftsman, and by the end of your third decade you would have a hoard worthy of a dwarf-lord and a city renowned for its works and wealth, bringing more wealth to you. Lastly, you are a great worker of gemstones, able to bring out dazzling beauty from even the dullest uncut precious stone.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 13,
-      "cost": 200,
-      "name": " Worker of Stone",
-      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
-      "description": "Before the Sun and Moon, the dwarves had already made their own great halls within mountains and hills using unrivaled skill in the working of stone. Your skill is comparable to the finest of dwarven stone-masons living. Devising sturdy walls and stone monuments and buildings is as easy as breathing. As well, you somehow can get construction projects utilizing stone as a majority resource done in less than half the time it should realistically take. You have a knack for finding concealed doors and passages in stone, and even for finding weaknesses in defenses such as stone walls or mighty fortresses",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 14,
-      "cost": 200,
-      "name": "Erebor Treasure Room",
-      "source": "The Hobbit Jumpchain",
-      "description": "A replica of the great treasure room of Erebor is attached to your warehouse. It contains enough gold, silver, jewels, weapons, armor, and other assorted treasures to satisfy even the greediest dragon. The treasure room also replenishes every ten years and at the start of each new jump. Good luck spending it all.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 15,
-      "cost": 200,
-      "name": "Mithril Armour",
-      "source": "The Hobbit Jumpchain",
-      "description": "Here's a pretty thing...light as a feather, and hard as dragon's scales. Mithril is one of the finest and most sought after metals for crafting weapons and armor, and now you have a perfectly tailored mail coat that will defend against weapons and blows that would easily skewer a wild boar.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 16,
-      "cost": 200,
-      "name": "Warrior",
-      "source": "The Hobbit Jumpchain",
-      "description": "​You've lived a hard life on the edge having to fight for survival against hordes of goblins and other foul creatures, and that has turned you into a master of melee combat. You can wield axes, swords, and spears in close combat with ease.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 17,
-      "cost": 200,
-      "name": "Wind Lance:",
-      "source": "The Hobbit Jumpchain",
-      "description": "When a regular sized bow just doesn't cut it for defense, a Wind Lance might be better suited for the job. This is a dwarf-crafted weapon similar to a ballista or giant crossbow. Its arrows are large and strong enough to take down even incredibly large and tough foes.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 18,
-      "cost": 200,
-      "name": "Tough and Hardy",
-      "source": "Silmarillion Jumpchain",
-      "description": "You are tough like stone and iron. Work or fight for days without tiring, grimace through the pain of wounds and keep going. With the proper armor, withstand the flame of Dragon’s fire without breaking a sweat. Even your mind is stronger, resistant to the effects of despair and doubt. Fight on and endure as Aulë intended you to.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 19,
-      "cost": 300,
-      "name": "Craftsman ",
-      "source": "Twilight of the North - A Jumpchain CYOA",
-      "description": "You have been educated in the working of metal, stone, and other materials used by Men in their arts. You can fashion swords and armor of good quality, repair your existing armor, design a building or plan the sewage system for a city. Sketch out and lead the construction of defensive walls, or some great palace fit for a mighty king. You could start with naught but the clothes on your back and in a few years be working for a king, or even build a city of your own, as your variety of skills and quality of craftsmanship will draw apprentices to you like moths to flame.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 20,
-      "cost": 300,
-      "name": "War-gear of the Dwarf-lord ",
-      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
-      "description": "Consisting of a war-helm wrought by Telchar, mithril mail and the finest weapons forged for only the greatest of dwarven lords, this war-gear is resistant to even dragonflame and even the Dark Lord himself would be hard-pressed to damage such a wondrous panoply.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 21,
-      "cost": 300,
-      "name": "The Arkenstone",
-      "source": "The Hobbit Jumpchain",
-      "description": "​The Arkenstone of Thrain, also known as the Heart of the Mountain and the King's Jewel, is a wondrous gem that glows with inner light. It grants the holder the power to unite people. Where once there was strife and the threat of war, now all will become more reasonable, joining together against common enemies, though not necessarily under your command.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 22,
-      "cost": 400,
-      "name": "Child of Mahal",
-      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
-      "description": "To be renowned for one's metalwork amongst a folk famed for such craft is no small thing. Not only have you a talent for working metal, but your craft is among the finest of any dwarf alive in this Age. You know the secrets to working mithril with great skill. You also possess knowledge of lost lore including the dwarf-masks of the Elder Days that could resist even dragonflame. A true child of Mahal you withstand heat better than many of your kin allowing you to spend longer periods of time working the forge with less need for water to cool you and in fact you find that when working at a forge you feel more awake than normal.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 23,
-      "cost": 400,
-      "name": "The Lonely Mountain",
-      "source": "The Hobbit Jumpchain",
-      "description": "Your gain a replica of the Lonely Mountain, including the vast underground city of Erebor and its untapped natural resources. It can be dropped into a jump or kept as a warehouse attachment. The Treasure Room is empty unless purchased below. Alternately, Erebor and its resources can be imported into any mountain you",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 24,
-      "cost": 400,
-      "name": "Dragon Helm",
-      "source": "Silmarillion Jumpchain",
-      "description": "The Dragon Helm of the Dwarves is a famed helmet. Crafted of the finest metals and infused with the power of the dwarves, these helms allow warriors to withstand the flames of Dragons. While wearing this helm, you are protected from flames of all but the mightiest of dragons.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 25,
-      "cost": 400,
-      "name": "Hold/Fortress ",
-      "source": "Silmarillion Jumpchain",
-      "description": "Like the dwarven fortress of Khazad-dum, the mighty keep of Melkor Utumno, or the glorious abode of Manwe Ilmarin, you possess a grand fortress. It can be within a mountain, atop a cliff, or anywhere befitting a grand fortified mansion. It can be in the style of any of the races and has enough room for a city’s worth of people. It is populated by enough people of your chosen race to keep it maintained and has a token military force for protection. In future jumps, you can place it in any appropriate spot. Upgrades to it follow you from jump to jump.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 26,
-      "cost": 400,
-      "name": "Artisan ",
-      "source": "Silmarillion Jumpchain",
-      "description": "You are considered a skilled craftsman even among the Dwarves. Weapons and armor that can stand the test of time and come out looking newly crafted centuries later. Mithril and other mystical metals are no harder to work with Iron and Steel for you. With much time and energy, you may also enchant the items as you craft them, like the Dragon-helm which struck an unnatural fear into the enemies of its wearer. While you are skilled in the crafting of many things, it is your mastery of the construction of weapons and armor that is truly awe inspiring. Perhaps with practice and time you might even be considered the equal of Telchar.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 27,
-      "cost": 500,
-      "name": "Jumper the Deathless/Heir to the Father",
-      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
-      "description": "The Seven Fathers were the first of the Dwarves, and the fathers to the various clans from whom all dwarves descend. It is said among the dwarves that the Fathers are reincarnated among their folk across many generations. Now, you are the Heir to one of the Seven Fathers, whether you bear their name or no, or whether that is strictly true or not. You look akin to the Father of your kindred, and indeed you are mightier and have a presence to you that seems to indicate an innate greatness. Your skill and might in battle is enough that even surrounded you could expect to slay a dozen trolls on your own with a bit of luck and the right equipment. Should you die, you will reincarnate among one of your descendants or distant kin within a decade. In future",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 28,
-      "cost": 600,
-      "name": "Mithril Mines and Armory",
-      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
-      "description": "There may be older and fouler things than Orcs in the deep places of the world, but there are great treasures and opportunities to be found in those places as well. Dwarven miners know this, and the lure of mithril often proves irresistible. With this, you need not worry about the presence of any Balrog or Orcs, as your veins of mithril shall lie within a mine dropped into a location near to where you start or even just connected to your Warehouse. The tremendous quantities of mithril that these mines make available allow Dwarf-smiths to craft marvellously strong and light armor for your warriors and yourself. More than simply a store-room and workshop for Dwarven smiths, a Mithril Armory is capable of outfitting an entire host in the most supple and strong metal known in Middle-earth. The presence of such materials naturally attracts the finest Dwarven smiths, who may also turn their efforts to forging superior weapons in addition to crafting mithril armor. Armored and armed in shining mithril and dwarf-make weapons, your forces are certain to be fearsome indeed on the battlefield.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 29,
-      "cost": 600,
-      "name": "King Under the Mountain",
-      "source": "The Hobbit Jumpchain",
-      "description": "​It doesn't matter if you spent over a hundred and fifty years as little more than a beggar. You are the true King under the Mountain. When something has been wrongly taken from you, you gain unparalleled luck and insight for gaining it back. Fate will align so that if you seek to regain what has been stolen from you, you will always succeed. Bewarned, though, as the price for getting it back may be steep.",
-      "chapter": "Dwarves"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
-      "__line": 30,
-      "cost": 600,
-      "name": "Forge and Ore ",
-      "source": "Silmarillion Jumpchain",
-      "description": "The Dwarves are known for their crafting above all things. Crafting the proper equipment takes a fine forge and proper raw materials. You now have your own forge fully equipped for forging any item of metal. Attached to the grand forge is a cave filled with much of the most common ores and even a bit of mithril. In future jumps, ores of materials in that setting will begin to appear deeper in the cave. The rarer the metal, the less of it there will be. The forge and cave may be attached to your warehouse or another property you own.",
-      "chapter": "Dwarves"
-    }
-  ],
-  "3": [
-    {
       "__source": "The Celestial Ring by Gothicjedi666 - Dragons, Trolls & Orcs",
       "__line": 1,
       "cost": 0,
@@ -815,189 +543,7 @@
       "chapter": "Dragons, Trolls & Orcs"
     }
   ],
-  "4": [
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 1,
-      "cost": 0,
-      "name": "Home",
-      "source": "LOTR Jumpchain",
-      "description": "You don't want to always live on the road, do you? You have a small, but comfortable, home in whatever town or city you choose (this may be different from your starting location).",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 2,
-      "cost": 0,
-      "name": "Basic Camping Supplies",
-      "source": "The Hobbit Jumpchain",
-      "description": "You step onto the road, and if you don’t keep your feet, there is no telling where you might be swept off to. Sometimes, those roads don't have modern conveniences like beds and roofs, but now you have a large backpack with high quality camping gear. It's oddly light and easy to pack up, and the gear never seems to wear out.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 3,
-      "cost": 100,
-      "name": "Burglar",
-      "source": "The Hobbit Jumpchain",
-      "description": "You're really sneaky. You can find good hiding spots anywhere, including plain sight, and most people will not be able to spot you until you purposefully reveal yourself. All of your allies and enemies could be in the middle of a brawl, and you could slip away unnoticed with only the barest effort.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 4,
-      "cost": 100,
-      "name": "Might",
-      "source": "LOTR Jumpchain",
-      "description": "You are exceptionally strong and tough. You can lift far more than the average human, can walk or run for hours on end without tiring, and are unlikely to get sick.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 5,
-      "cost": 100,
-      "name": "Sneakiness",
-      "source": "LOTR Jumpchain",
-      "description": "You are very good at not being seen when you don’t want to be. You have talents in the realm of camouflage, and are generally unobtrusive. You might make an excellent burglar.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 6,
-      "cost": 100,
-      "name": "Shepherds of the Olvar",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "As creatures of Yavanna, the Ents are the closest of all speaking peoples to the olvar, the plants. You share in this, having the ability to understand plants on an incredible level. You are able to quickly intuit a plant’s current state and what it needs, and with a little longer you can quickly learn its properties, and even learn what they have experienced in their vicinity - though given a plant’s senses, mundane plants will likely not be able to tell you more this way than when the last rains came or similar. By the same token, you can communicate your wishes to the plants as well, both by normal means and in a subtle, more spiritual manner, such that they will tend to grow in the way you want. In short, you have the green thumb to end all green thumbs, bordering on a magical understanding of plant-life in general - and this is a skill which can be taught to others, albeit only with great patience on their part. It'll be much quicker to teach a more mundane level of the skill, like how to be a good gardener or farmer. This understanding extends beyond mundane plants, however, and into beings which have a plant-like nature. If you should encounter forest elementals, animate plants, grain-spirits, dryads or even plant-based macroorganisms on your travels, you will be able to understand and communicate with them in a peaceful manner, and will find it relatively easy to convince them you mean no harm, or to befriend you and regard you as an ally.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 7,
-      "cost": 200,
-      "name": "Riddles in the Dark",
-      "source": "The Hobbit Jumpchain",
-      "description": "You are naturally talented with games of intellect and puzzles. Whether it's playing riddles in the dark against a sinister creature or coming up with clever ways to avoid telling a dragon who you are, you can match their wits and come up with ingenious answers to even the trickiest games.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 8,
-      "cost": 200,
-      "name": "Loyal Hunter",
-      "source": "LOTR Jumpchain",
-      "description": "A loyal hunting assistant follows you. It is probably a Hound of the Woodsman or Rangers, able and dutiful, but it may instead be a savage Warg. In any case, it is far more intelligent than your average dog (though not truly sentient) and will aid you throughout your journey.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 9,
-      "cost": 200,
-      "name": "Among the Leaves ",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "Despite being over four metres tall on average, the ents are rarely seen. You share this skill of hiding, able to conceal yourself via camouflage to the point that you become almost invisible; so long as you look similar to your surroundings (wearing sand-colours in a desert, or just being a tree-like being in a forest) and you move (or don’t move) with their motions, you can blend into the background to the point that only careful examination from the keenest-eyed, or help from magic or technology has a chance of picking you out - and even then it will be hard. This concealment extends to your spiritual aspects as well; if you were disguised amidst a forest, even those who can see souls would perceive your spirit only as that of a tree. Additionally, your patience has become that of the trees themselves; you could wait still long enough for a forest to grow before your eyes if need be, though doing nothing at all for such long stretches risks becoming more treeish than entish.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 10,
-      "cost": 300,
-      "name": "Mearas",
-      "source": "LOTR Jumpchain",
-      "description": "You have been blessed to ride one of the descendants of Felof, Lords of Horses. Your horse is more intelligent than the average human, can understand English, and can run at up to 50 MPH for days upon end.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 11,
-      "cost": 400,
-      "name": "Incorruptible",
-      "source": "The Hobbit Jumpchain",
-      "description": "​Evil and corruption can find no hold on your soul. Even entities of great power and malice find you incredibly resistant to their influence. You could hold onto a ring of pure evil for 60 years and still be able to let it go in the end through simple willpower",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 12,
-      "cost": 400,
-      "name": "Skin Changer",
-      "source": "The Hobbit Jumpchain",
-      "description": "Skin Changers are a rare, nearly extinct race. But now there is one more in Middle Earth. You now have the ability to transform into a great and powerful animal of your choice. This form has enhanced strength, durability, and speed relative to the animal that it is modeled after, and you can maintain your human mind while transformed.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 13,
-      "cost": 400,
-      "name": "Tree-Herds ",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "The ents are named ‘shepherds of the trees’, and you more than live up to that name. In a process half-magic, half-gardening, you can shape lands and ecosystems, working wood and water, stick and stone to create new landscapes. Given an empty plain and long enough, you could grow a forest as dense and strong as Fangorn, or enrich the earth to make it as bountiful as the Shire. This expertise extends from growing living things into transforming the landscape; redirecting rivers, moving hills and other such grand projects. Or, if you are roused to anger, the use of the environment in war: Directing rivers to wash away cities, preparing cliffs for rock-falls and similar. If you are an ent, your great strength will be very useful in such grand projects, but even if you are not, you still maintain the skill to direct many people together to accomplish similar results. More than these mundane aspects, however, you also know the secrets of brewing ent-draughts; concentrating the spiritual power of growing things deep in the earth into blessed waters with potent virtues of growth and flourishing. Brewing such draughts requires that you shape landscapes to purpose, it takes time for the power to gather, and it can only be done in intensely verdant lands. Once the labour is complete, though, there will come forth springs of these potent waters, able to give especial strength, vitality, growth and endurance to those who drink them, and to sustain people even without ordinary food.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 14,
-      "cost": 400,
-      "name": "Beast Master",
-      "source": "The Hobbit Jumpchain",
-      "description": "You are skilled at riding animals, including somewhat intelligent animals like wargs. You can stay on even under duress, guiding them by force and threat rather than kindness and trust.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 15,
-      "cost": 600,
-      "name": "Luck",
-      "source": "The Hobbit Jumpchain",
-      "description": "​You have an absurd amount of luck. You can be lost in a cave and manage to stumble across the most powerful object on the planet. Or maybe your escape just so happens to be planned on the one night when everyone is too drunk to care why the 'empty' barrels are so heavy. If you put in any effort, everything just seems to go your way.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 16,
-      "cost": 600,
-      "name": "The Wakeful Woods",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "When you tend a verdant landscape which is at least somewhat wild, you may at your will begin to quicken a transformation in the plants therein. Over time, and to a degree according to the plant’s own strength, age and general power, they begin to awaken, gaining greater awareness of the world around them, and a greater ability to affect it. They become, essentially, ensouled; thinking beings in their own right, though their thoughts are strange and quite different to those of humans. Lands filled with such awakened plants gain a certain degree of spiritual potency; they are in a subtle way, enchanted, and strange things may occur there. Most such ensouled plants are capable of little but sensing the world around them, communicating with one another, projecting a sense of their emotions to those around in a vague, difficult-to-define manner (so a forest full of watchful, suspicious trees would create a feeling of unwelcomeness and being watched), and moving to a limited degree. This movement doesn’t tend to happen when anyone’s looking; rather a person might bend down to look at something, then find the path back to have vanished. Older and more powerful plants gain greater power in their turn, able to move in a more deliberate manner (such as opening caves beneath their roots to trap unwelcome travellers) and project their will with such force as to induce drowsiness or perhaps hallucinations. Furthermore, as something akin to leaders amongst their kind, they can direct other ensouled plants and use them as channels for their own will, so as to act at a distance or collectively create labyrinths to bewilder intruders. Perhaps most importantly, by tending to such ensouled plant-life, watering them with ent-draughts and the like, you may transform them into Huorns; trees not only aware and animate, but able to move long distances and make faster movements, capable of true attacks. With enough time, you might even find a way to cultivate true ents in this way. Creatures you awaken via this perk are by default well-disposed towards you and will obey you so long as you treat and tend them well.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 17,
-      "cost": 600,
-      "name": "Were-Wyrm",
-      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
-      "description": "Usually found in desert areas, you have somehow acquired one of these enormous subterranean and very carnivorous creatures that can travel beneath the ground and emerge to devour unfortunate figures. You also managed to accomplish something considered impossible and tamed this normally aggressive predator. They tend to respond to sound, and you know a signal to make them start and stop hunting within the local area. Bear in mind they go for anything walking around on the ground and cannot go through solid rock, though they have learnt how to recognise and avoid attacking yourself and your allies. Given enough time, this pet of yours can grow to be larger than most buildings, though this might limit where they can go if there isn’t enough room. Still, they would be very potent siege weapons at that point. You might not need to bother assembling an army to take a fortress if your pet can just devour or sink the whole thing.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 18,
-      "cost": 800,
-      "name": "Vision of Primordial Spring ",
-      "source": "Silmarillion JumpChain 1.0",
-      "description": "It is said that in the spring of Arda, when the world was lit as it were a changeless day by the lamps Illuin and Ormal, Yavanna first brought forth the fruits of her thought. There were trees in those days which grew like living mountains, cloud-crowned with their feet deep in a green twilight of their own making. Those days are vanished and gone - but in you there lives a memory which can be brought forth once more. At your will, lands you cultivate grow strong and swiftly, plants bursting forth eagerly from the soil at twice the rate elsewhere, with no greater need for nutrients or water. This is but the least of your gifts, however. Under your care, plants of all kinds evoke a memorial of those early days in the spring of Arda, growing five or more times their normal size. This growth is more than physical, though. Lands you cause to flourish in this manner grow strong in spirit as well; they are greatly more resilient to corruption and desecration of all kinds, while animal denizens grow larger, stronger and wiser as well. Herbs and plants are more potent, fruits and crops more fulfilling, and any magical crafts which take advantage of them find their results increased as well. Finally, though, there is the change in you yourself. These bountiful lands nourish you as much as you nourish them. While within these lands, your resilience to injury, disease, poisons and other harms is greatly increased, your stamina and endurance becomes to all intents and purposes infinite, and your strength is magnified twice over. These benefits linger to an extent while outside of these lands, but fade over time; within a week or so the benefits will be lost until you return, whereupon they return at approximately twice the rate.",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 19,
-      "cost": 0,
-      "name": "Song And Dance ",
-      "source": "The Lord of the Rings",
-      "description": "This world was made in song, and if you compare it to the one you came from, this can be rather evident. After all, everyone, even the wretched, likes to sing and occasionally even dance. Poetry and song are rather pervasive aspects of culture in this world. And you wouldn’t want to be left out, would you? So for free, you gain a respectable level of skill at song and dance, and you will also learn many songs and small tales to entertain yourself and others with. Lastly, you’ll have a gift for translating your own experiences into songs and poetry, to be sung when you return home and tell others of your exploits and the things you’ve seen. Perhaps you’ll get your hands on an instrument to supplement your singing?",
-      "chapter": "Hobbits, Ents and Others"
-    },
-    {
-      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
-      "__line": 20,
-      "cost": 100,
-      "name": "Blessing Of Light Journeys",
-      "source": "The Lord of the Rings",
-      "description": "While adventuring sounds quite good on paper, there are many little mundanities that can be rather annoying in the moment. Thankfully you won’t have to worry about it, perhaps due to some magic spell laid on you? You’ll find that pests such as insects generally keep their distance from you, and that any clothing you wear will never chafe at you or be uncomfortable to wear even after days of running. Lastly, you’ll find that equipping and unequipping armor and the like will be a quick and smooth affair, despite how it might normally be. Long journeys won’t be quite as difficult anymore, but do remember to still bring some food with you.",
-      "chapter": "Hobbits, Ents and Others"
-    }
-  ],
-  "5": [
+  "3": [
     {
       "__source": "The Celestial Ring by Gothicjedi666 - Elves",
       "__line": 1,
@@ -1267,6 +813,460 @@
       "source": "The Hobbit Jumpchain",
       "description": "​You have the power of preservation. You cannot die from old age, nor will you become visibly older over time. All of the accumulated abilities and knowledge you've gained over the years will not degrade or be forgotten no matter how infrequently you use them. You also gain an eidetic memory with limitless storage. Finally, your powers of preservation seep into the lands you inhabit, protecting them from decay and corruption.",
       "chapter": "Elves"
+    }
+  ],
+  "4": [
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 1,
+      "cost": 0,
+      "name": "Map",
+      "source": "The Hobbit Jumpchain",
+      "description": "This map is not the most detailed guide in the world, but it does have some useful information. Whenever you set out on a quest, this map will update with your destination and mark any secret methods of entering it.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 2,
+      "cost": 0,
+      "name": "Masterwork Armor ",
+      "source": "Twilight of the North - A Jumpchain CYOA",
+      "description": "Whether made by Dwarven or Mannish hands, this armor is a work of art as well as some of the greatest protection available short of mithril. Equal even to the works of the greatest of the armor-smiths in Númenor. A helm cunningly wrought and quite strong complementing the masterfully-wrought mail for your body.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 3,
+      "cost": 0,
+      "name": "Masterwork Weapon ",
+      "source": "Twilight of the North - A Jumpchain CYOA",
+      "description": "Whether or a finely wrought composite bow of wood and horn decorated with silver and gold, or an axe forged by the dwarves. This weapon will serve you well in battle and last for generations, perfect for an heirloom and fit for a lord of good wealth.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 4,
+      "cost": 100,
+      "name": "Mithril Armor",
+      "source": "Twilight of the North - A Jumpchain CYOA",
+      "description": "Armor forged of mithril is wondrously light and surprisingly strong, providing excellent protection in battle, and is also quite rare. This set of dwarf-wrought chainmail and helmet are fit for a mighty lord indeed.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 5,
+      "cost": 100,
+      "name": "Dwarven Craftsmanship",
+      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
+      "description": "In the tempering of steel, and in the making of mail the children of Aulë have no equal, not even among the greatest of the Noldor. While you are no truly great craftsman, you possess that natural aptitude of your race, as well as a fair understanding and skill in working steel. Even your relatively low skill, compared with your elders and those more naturally talented than you, is still good by the standards of Men. Good enough that even here your works look like masterworks to them, and your armor serviceable to any dwarf warrior.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 6,
+      "cost": 100,
+      "name": "Dwarf-Hoard ",
+      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
+      "description": "Gold, silver, precious gems, ornate armor, and gilded, jewel-encrusted weapons - all are to be found in any respectable Dwarf-hoard. Amassed over hundreds of years, these treasure piles bring happiness to the Dwarves who jealously guard them. Now you have one of these hoards of wealth and a place to keep them in if you do not already have one. Indeed, the wealth contained is suitable for even a very wealthy king of Men, and will restore itself should parts be spent. At least the gold and silver will. It is a hoard perhaps a twentieth the size of that which the King of Erebor would one day have amassed.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 7,
+      "cost": 100,
+      "name": "Legendary Weapon",
+      "source": "The Hobbit Jumpchain",
+      "description": "A true warrior must be in possession of a weapon named for its great deeds. Now you have just such a legendary weapon: Glamdring, Orcrist, or another blade of similar renown.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 8,
+      "cost": 100,
+      "name": "Miner",
+      "source": "The Hobbit Jumpchain",
+      "description": "As a child of the earth you are extremely strong and durable. You are able to lift far more than the average human or elf and can work long hours tirelessly. You gain special adeptness when it comes to mining, and you are exceptionally lucky when it comes to discovering valuable gems and minerals within the earth.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 9,
+      "cost": 100,
+      "name": "Lockbox and Key",
+      "source": "Shadow of Mordor Jumpchain",
+      "description": "A completely impregnable, large, dwarven-made lockbox and the only key able to open it.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 10,
+      "cost": 100,
+      "name": "Mithril Equipment",
+      "source": "Silmarillion Jumpchain",
+      "description": "Mithril is the greatest secret of the dwarves. A silvery metal, it is stronger than steel and much lighter. Mined mostly in Khazad-dum, it can be fashioned into armour that, while far lighter than anything of steel, is all but invulnerable to sword or dart. You have a mithril mail shirt and a mithril helmet.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 11,
+      "cost": 100,
+      "name": "Stonecunning ",
+      "source": "Silmarillion Jumpchain",
+      "description": "You are like the others of your kind, well at home in the deep places of the world. You always know which direction you are travelling when underground. You can easily identify most stones and metals and are excellent at finding secret passages underground and flaws in caves and stonework.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 12,
+      "cost": 200,
+      "name": "Wealth of the Dwarves ",
+      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
+      "description": "Wealth begets wealth, or so the saying goes. This is doubly true for the Dwarves, with them having an affinity for all things of Aulë, the substances of the earth, and being naturally talented miners and workers of metals. With you this goes somewhat beyond that, and you possess a sense for where to find minerals of your choice. From copper to mithril, no mineral can evade your detection if you put yourself to looking. As well, you have a knack for gaining greater wealth from trade. If you were placed in a small frontier-town you would have a thriving mining settlement with the start of a great fortune within three years, within ten you’d have the beginnings of a true trading city home to many skilled craftsman, and by the end of your third decade you would have a hoard worthy of a dwarf-lord and a city renowned for its works and wealth, bringing more wealth to you. Lastly, you are a great worker of gemstones, able to bring out dazzling beauty from even the dullest uncut precious stone.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 13,
+      "cost": 200,
+      "name": " Worker of Stone",
+      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
+      "description": "Before the Sun and Moon, the dwarves had already made their own great halls within mountains and hills using unrivaled skill in the working of stone. Your skill is comparable to the finest of dwarven stone-masons living. Devising sturdy walls and stone monuments and buildings is as easy as breathing. As well, you somehow can get construction projects utilizing stone as a majority resource done in less than half the time it should realistically take. You have a knack for finding concealed doors and passages in stone, and even for finding weaknesses in defenses such as stone walls or mighty fortresses",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 14,
+      "cost": 200,
+      "name": "Erebor Treasure Room",
+      "source": "The Hobbit Jumpchain",
+      "description": "A replica of the great treasure room of Erebor is attached to your warehouse. It contains enough gold, silver, jewels, weapons, armor, and other assorted treasures to satisfy even the greediest dragon. The treasure room also replenishes every ten years and at the start of each new jump. Good luck spending it all.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 15,
+      "cost": 200,
+      "name": "Mithril Armour",
+      "source": "The Hobbit Jumpchain",
+      "description": "Here's a pretty thing...light as a feather, and hard as dragon's scales. Mithril is one of the finest and most sought after metals for crafting weapons and armor, and now you have a perfectly tailored mail coat that will defend against weapons and blows that would easily skewer a wild boar.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 16,
+      "cost": 200,
+      "name": "Warrior",
+      "source": "The Hobbit Jumpchain",
+      "description": "​You've lived a hard life on the edge having to fight for survival against hordes of goblins and other foul creatures, and that has turned you into a master of melee combat. You can wield axes, swords, and spears in close combat with ease.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 17,
+      "cost": 200,
+      "name": "Wind Lance:",
+      "source": "The Hobbit Jumpchain",
+      "description": "When a regular sized bow just doesn't cut it for defense, a Wind Lance might be better suited for the job. This is a dwarf-crafted weapon similar to a ballista or giant crossbow. Its arrows are large and strong enough to take down even incredibly large and tough foes.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 18,
+      "cost": 200,
+      "name": "Tough and Hardy",
+      "source": "Silmarillion Jumpchain",
+      "description": "You are tough like stone and iron. Work or fight for days without tiring, grimace through the pain of wounds and keep going. With the proper armor, withstand the flame of Dragon’s fire without breaking a sweat. Even your mind is stronger, resistant to the effects of despair and doubt. Fight on and endure as Aulë intended you to.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 19,
+      "cost": 300,
+      "name": "Craftsman ",
+      "source": "Twilight of the North - A Jumpchain CYOA",
+      "description": "You have been educated in the working of metal, stone, and other materials used by Men in their arts. You can fashion swords and armor of good quality, repair your existing armor, design a building or plan the sewage system for a city. Sketch out and lead the construction of defensive walls, or some great palace fit for a mighty king. You could start with naught but the clothes on your back and in a few years be working for a king, or even build a city of your own, as your variety of skills and quality of craftsmanship will draw apprentices to you like moths to flame.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 20,
+      "cost": 300,
+      "name": "War-gear of the Dwarf-lord ",
+      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
+      "description": "Consisting of a war-helm wrought by Telchar, mithril mail and the finest weapons forged for only the greatest of dwarven lords, this war-gear is resistant to even dragonflame and even the Dark Lord himself would be hard-pressed to damage such a wondrous panoply.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 21,
+      "cost": 300,
+      "name": "The Arkenstone",
+      "source": "The Hobbit Jumpchain",
+      "description": "​The Arkenstone of Thrain, also known as the Heart of the Mountain and the King's Jewel, is a wondrous gem that glows with inner light. It grants the holder the power to unite people. Where once there was strife and the threat of war, now all will become more reasonable, joining together against common enemies, though not necessarily under your command.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 22,
+      "cost": 400,
+      "name": "Child of Mahal",
+      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
+      "description": "To be renowned for one's metalwork amongst a folk famed for such craft is no small thing. Not only have you a talent for working metal, but your craft is among the finest of any dwarf alive in this Age. You know the secrets to working mithril with great skill. You also possess knowledge of lost lore including the dwarf-masks of the Elder Days that could resist even dragonflame. A true child of Mahal you withstand heat better than many of your kin allowing you to spend longer periods of time working the forge with less need for water to cool you and in fact you find that when working at a forge you feel more awake than normal.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 23,
+      "cost": 400,
+      "name": "The Lonely Mountain",
+      "source": "The Hobbit Jumpchain",
+      "description": "Your gain a replica of the Lonely Mountain, including the vast underground city of Erebor and its untapped natural resources. It can be dropped into a jump or kept as a warehouse attachment. The Treasure Room is empty unless purchased below. Alternately, Erebor and its resources can be imported into any mountain you",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 24,
+      "cost": 400,
+      "name": "Dragon Helm",
+      "source": "Silmarillion Jumpchain",
+      "description": "The Dragon Helm of the Dwarves is a famed helmet. Crafted of the finest metals and infused with the power of the dwarves, these helms allow warriors to withstand the flames of Dragons. While wearing this helm, you are protected from flames of all but the mightiest of dragons.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 25,
+      "cost": 400,
+      "name": "Hold/Fortress ",
+      "source": "Silmarillion Jumpchain",
+      "description": "Like the dwarven fortress of Khazad-dum, the mighty keep of Melkor Utumno, or the glorious abode of Manwe Ilmarin, you possess a grand fortress. It can be within a mountain, atop a cliff, or anywhere befitting a grand fortified mansion. It can be in the style of any of the races and has enough room for a city’s worth of people. It is populated by enough people of your chosen race to keep it maintained and has a token military force for protection. In future jumps, you can place it in any appropriate spot. Upgrades to it follow you from jump to jump.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 26,
+      "cost": 400,
+      "name": "Artisan ",
+      "source": "Silmarillion Jumpchain",
+      "description": "You are considered a skilled craftsman even among the Dwarves. Weapons and armor that can stand the test of time and come out looking newly crafted centuries later. Mithril and other mystical metals are no harder to work with Iron and Steel for you. With much time and energy, you may also enchant the items as you craft them, like the Dragon-helm which struck an unnatural fear into the enemies of its wearer. While you are skilled in the crafting of many things, it is your mastery of the construction of weapons and armor that is truly awe inspiring. Perhaps with practice and time you might even be considered the equal of Telchar.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 27,
+      "cost": 500,
+      "name": "Jumper the Deathless/Heir to the Father",
+      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
+      "description": "The Seven Fathers were the first of the Dwarves, and the fathers to the various clans from whom all dwarves descend. It is said among the dwarves that the Fathers are reincarnated among their folk across many generations. Now, you are the Heir to one of the Seven Fathers, whether you bear their name or no, or whether that is strictly true or not. You look akin to the Father of your kindred, and indeed you are mightier and have a presence to you that seems to indicate an innate greatness. Your skill and might in battle is enough that even surrounded you could expect to slay a dozen trolls on your own with a bit of luck and the right equipment. Should you die, you will reincarnate among one of your descendants or distant kin within a decade. In future",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 28,
+      "cost": 600,
+      "name": "Mithril Mines and Armory",
+      "source": "Of Elves and Dwarves -- A Twilight of the North Supplement",
+      "description": "There may be older and fouler things than Orcs in the deep places of the world, but there are great treasures and opportunities to be found in those places as well. Dwarven miners know this, and the lure of mithril often proves irresistible. With this, you need not worry about the presence of any Balrog or Orcs, as your veins of mithril shall lie within a mine dropped into a location near to where you start or even just connected to your Warehouse. The tremendous quantities of mithril that these mines make available allow Dwarf-smiths to craft marvellously strong and light armor for your warriors and yourself. More than simply a store-room and workshop for Dwarven smiths, a Mithril Armory is capable of outfitting an entire host in the most supple and strong metal known in Middle-earth. The presence of such materials naturally attracts the finest Dwarven smiths, who may also turn their efforts to forging superior weapons in addition to crafting mithril armor. Armored and armed in shining mithril and dwarf-make weapons, your forces are certain to be fearsome indeed on the battlefield.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 29,
+      "cost": 600,
+      "name": "King Under the Mountain",
+      "source": "The Hobbit Jumpchain",
+      "description": "​It doesn't matter if you spent over a hundred and fifty years as little more than a beggar. You are the true King under the Mountain. When something has been wrongly taken from you, you gain unparalleled luck and insight for gaining it back. Fate will align so that if you seek to regain what has been stolen from you, you will always succeed. Bewarned, though, as the price for getting it back may be steep.",
+      "chapter": "Dwarves"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Dwarves",
+      "__line": 30,
+      "cost": 600,
+      "name": "Forge and Ore ",
+      "source": "Silmarillion Jumpchain",
+      "description": "The Dwarves are known for their crafting above all things. Crafting the proper equipment takes a fine forge and proper raw materials. You now have your own forge fully equipped for forging any item of metal. Attached to the grand forge is a cave filled with much of the most common ores and even a bit of mithril. In future jumps, ores of materials in that setting will begin to appear deeper in the cave. The rarer the metal, the less of it there will be. The forge and cave may be attached to your warehouse or another property you own.",
+      "chapter": "Dwarves"
+    }
+  ],
+  "5": [
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 1,
+      "cost": 0,
+      "name": "Home",
+      "source": "LOTR Jumpchain",
+      "description": "You don't want to always live on the road, do you? You have a small, but comfortable, home in whatever town or city you choose (this may be different from your starting location).",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 2,
+      "cost": 0,
+      "name": "Basic Camping Supplies",
+      "source": "The Hobbit Jumpchain",
+      "description": "You step onto the road, and if you don’t keep your feet, there is no telling where you might be swept off to. Sometimes, those roads don't have modern conveniences like beds and roofs, but now you have a large backpack with high quality camping gear. It's oddly light and easy to pack up, and the gear never seems to wear out.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 3,
+      "cost": 100,
+      "name": "Burglar",
+      "source": "The Hobbit Jumpchain",
+      "description": "You're really sneaky. You can find good hiding spots anywhere, including plain sight, and most people will not be able to spot you until you purposefully reveal yourself. All of your allies and enemies could be in the middle of a brawl, and you could slip away unnoticed with only the barest effort.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 4,
+      "cost": 100,
+      "name": "Might",
+      "source": "LOTR Jumpchain",
+      "description": "You are exceptionally strong and tough. You can lift far more than the average human, can walk or run for hours on end without tiring, and are unlikely to get sick.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 5,
+      "cost": 100,
+      "name": "Sneakiness",
+      "source": "LOTR Jumpchain",
+      "description": "You are very good at not being seen when you don’t want to be. You have talents in the realm of camouflage, and are generally unobtrusive. You might make an excellent burglar.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 6,
+      "cost": 100,
+      "name": "Shepherds of the Olvar",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "As creatures of Yavanna, the Ents are the closest of all speaking peoples to the olvar, the plants. You share in this, having the ability to understand plants on an incredible level. You are able to quickly intuit a plant’s current state and what it needs, and with a little longer you can quickly learn its properties, and even learn what they have experienced in their vicinity - though given a plant’s senses, mundane plants will likely not be able to tell you more this way than when the last rains came or similar. By the same token, you can communicate your wishes to the plants as well, both by normal means and in a subtle, more spiritual manner, such that they will tend to grow in the way you want. In short, you have the green thumb to end all green thumbs, bordering on a magical understanding of plant-life in general - and this is a skill which can be taught to others, albeit only with great patience on their part. It'll be much quicker to teach a more mundane level of the skill, like how to be a good gardener or farmer. This understanding extends beyond mundane plants, however, and into beings which have a plant-like nature. If you should encounter forest elementals, animate plants, grain-spirits, dryads or even plant-based macroorganisms on your travels, you will be able to understand and communicate with them in a peaceful manner, and will find it relatively easy to convince them you mean no harm, or to befriend you and regard you as an ally.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 7,
+      "cost": 200,
+      "name": "Riddles in the Dark",
+      "source": "The Hobbit Jumpchain",
+      "description": "You are naturally talented with games of intellect and puzzles. Whether it's playing riddles in the dark against a sinister creature or coming up with clever ways to avoid telling a dragon who you are, you can match their wits and come up with ingenious answers to even the trickiest games.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 8,
+      "cost": 200,
+      "name": "Loyal Hunter",
+      "source": "LOTR Jumpchain",
+      "description": "A loyal hunting assistant follows you. It is probably a Hound of the Woodsman or Rangers, able and dutiful, but it may instead be a savage Warg. In any case, it is far more intelligent than your average dog (though not truly sentient) and will aid you throughout your journey.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 9,
+      "cost": 200,
+      "name": "Among the Leaves ",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "Despite being over four metres tall on average, the ents are rarely seen. You share this skill of hiding, able to conceal yourself via camouflage to the point that you become almost invisible; so long as you look similar to your surroundings (wearing sand-colours in a desert, or just being a tree-like being in a forest) and you move (or don’t move) with their motions, you can blend into the background to the point that only careful examination from the keenest-eyed, or help from magic or technology has a chance of picking you out - and even then it will be hard. This concealment extends to your spiritual aspects as well; if you were disguised amidst a forest, even those who can see souls would perceive your spirit only as that of a tree. Additionally, your patience has become that of the trees themselves; you could wait still long enough for a forest to grow before your eyes if need be, though doing nothing at all for such long stretches risks becoming more treeish than entish.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 10,
+      "cost": 300,
+      "name": "Mearas",
+      "source": "LOTR Jumpchain",
+      "description": "You have been blessed to ride one of the descendants of Felof, Lords of Horses. Your horse is more intelligent than the average human, can understand English, and can run at up to 50 MPH for days upon end.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 11,
+      "cost": 400,
+      "name": "Incorruptible",
+      "source": "The Hobbit Jumpchain",
+      "description": "​Evil and corruption can find no hold on your soul. Even entities of great power and malice find you incredibly resistant to their influence. You could hold onto a ring of pure evil for 60 years and still be able to let it go in the end through simple willpower",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 12,
+      "cost": 400,
+      "name": "Skin Changer",
+      "source": "The Hobbit Jumpchain",
+      "description": "Skin Changers are a rare, nearly extinct race. But now there is one more in Middle Earth. You now have the ability to transform into a great and powerful animal of your choice. This form has enhanced strength, durability, and speed relative to the animal that it is modeled after, and you can maintain your human mind while transformed.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 13,
+      "cost": 400,
+      "name": "Tree-Herds ",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "The ents are named ‘shepherds of the trees’, and you more than live up to that name. In a process half-magic, half-gardening, you can shape lands and ecosystems, working wood and water, stick and stone to create new landscapes. Given an empty plain and long enough, you could grow a forest as dense and strong as Fangorn, or enrich the earth to make it as bountiful as the Shire. This expertise extends from growing living things into transforming the landscape; redirecting rivers, moving hills and other such grand projects. Or, if you are roused to anger, the use of the environment in war: Directing rivers to wash away cities, preparing cliffs for rock-falls and similar. If you are an ent, your great strength will be very useful in such grand projects, but even if you are not, you still maintain the skill to direct many people together to accomplish similar results. More than these mundane aspects, however, you also know the secrets of brewing ent-draughts; concentrating the spiritual power of growing things deep in the earth into blessed waters with potent virtues of growth and flourishing. Brewing such draughts requires that you shape landscapes to purpose, it takes time for the power to gather, and it can only be done in intensely verdant lands. Once the labour is complete, though, there will come forth springs of these potent waters, able to give especial strength, vitality, growth and endurance to those who drink them, and to sustain people even without ordinary food.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 14,
+      "cost": 400,
+      "name": "Beast Master",
+      "source": "The Hobbit Jumpchain",
+      "description": "You are skilled at riding animals, including somewhat intelligent animals like wargs. You can stay on even under duress, guiding them by force and threat rather than kindness and trust.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 15,
+      "cost": 600,
+      "name": "Luck",
+      "source": "The Hobbit Jumpchain",
+      "description": "​You have an absurd amount of luck. You can be lost in a cave and manage to stumble across the most powerful object on the planet. Or maybe your escape just so happens to be planned on the one night when everyone is too drunk to care why the 'empty' barrels are so heavy. If you put in any effort, everything just seems to go your way.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 16,
+      "cost": 600,
+      "name": "The Wakeful Woods",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "When you tend a verdant landscape which is at least somewhat wild, you may at your will begin to quicken a transformation in the plants therein. Over time, and to a degree according to the plant’s own strength, age and general power, they begin to awaken, gaining greater awareness of the world around them, and a greater ability to affect it. They become, essentially, ensouled; thinking beings in their own right, though their thoughts are strange and quite different to those of humans. Lands filled with such awakened plants gain a certain degree of spiritual potency; they are in a subtle way, enchanted, and strange things may occur there. Most such ensouled plants are capable of little but sensing the world around them, communicating with one another, projecting a sense of their emotions to those around in a vague, difficult-to-define manner (so a forest full of watchful, suspicious trees would create a feeling of unwelcomeness and being watched), and moving to a limited degree. This movement doesn’t tend to happen when anyone’s looking; rather a person might bend down to look at something, then find the path back to have vanished. Older and more powerful plants gain greater power in their turn, able to move in a more deliberate manner (such as opening caves beneath their roots to trap unwelcome travellers) and project their will with such force as to induce drowsiness or perhaps hallucinations. Furthermore, as something akin to leaders amongst their kind, they can direct other ensouled plants and use them as channels for their own will, so as to act at a distance or collectively create labyrinths to bewilder intruders. Perhaps most importantly, by tending to such ensouled plant-life, watering them with ent-draughts and the like, you may transform them into Huorns; trees not only aware and animate, but able to move long distances and make faster movements, capable of true attacks. With enough time, you might even find a way to cultivate true ents in this way. Creatures you awaken via this perk are by default well-disposed towards you and will obey you so long as you treat and tend them well.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 17,
+      "cost": 600,
+      "name": "Were-Wyrm",
+      "source": "Middle-Earth: Shadow Of War – The Reddit Edition",
+      "description": "Usually found in desert areas, you have somehow acquired one of these enormous subterranean and very carnivorous creatures that can travel beneath the ground and emerge to devour unfortunate figures. You also managed to accomplish something considered impossible and tamed this normally aggressive predator. They tend to respond to sound, and you know a signal to make them start and stop hunting within the local area. Bear in mind they go for anything walking around on the ground and cannot go through solid rock, though they have learnt how to recognise and avoid attacking yourself and your allies. Given enough time, this pet of yours can grow to be larger than most buildings, though this might limit where they can go if there isn’t enough room. Still, they would be very potent siege weapons at that point. You might not need to bother assembling an army to take a fortress if your pet can just devour or sink the whole thing.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 18,
+      "cost": 800,
+      "name": "Vision of Primordial Spring ",
+      "source": "Silmarillion JumpChain 1.0",
+      "description": "It is said that in the spring of Arda, when the world was lit as it were a changeless day by the lamps Illuin and Ormal, Yavanna first brought forth the fruits of her thought. There were trees in those days which grew like living mountains, cloud-crowned with their feet deep in a green twilight of their own making. Those days are vanished and gone - but in you there lives a memory which can be brought forth once more. At your will, lands you cultivate grow strong and swiftly, plants bursting forth eagerly from the soil at twice the rate elsewhere, with no greater need for nutrients or water. This is but the least of your gifts, however. Under your care, plants of all kinds evoke a memorial of those early days in the spring of Arda, growing five or more times their normal size. This growth is more than physical, though. Lands you cause to flourish in this manner grow strong in spirit as well; they are greatly more resilient to corruption and desecration of all kinds, while animal denizens grow larger, stronger and wiser as well. Herbs and plants are more potent, fruits and crops more fulfilling, and any magical crafts which take advantage of them find their results increased as well. Finally, though, there is the change in you yourself. These bountiful lands nourish you as much as you nourish them. While within these lands, your resilience to injury, disease, poisons and other harms is greatly increased, your stamina and endurance becomes to all intents and purposes infinite, and your strength is magnified twice over. These benefits linger to an extent while outside of these lands, but fade over time; within a week or so the benefits will be lost until you return, whereupon they return at approximately twice the rate.",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 19,
+      "cost": 0,
+      "name": "Song And Dance ",
+      "source": "The Lord of the Rings",
+      "description": "This world was made in song, and if you compare it to the one you came from, this can be rather evident. After all, everyone, even the wretched, likes to sing and occasionally even dance. Poetry and song are rather pervasive aspects of culture in this world. And you wouldn’t want to be left out, would you? So for free, you gain a respectable level of skill at song and dance, and you will also learn many songs and small tales to entertain yourself and others with. Lastly, you’ll have a gift for translating your own experiences into songs and poetry, to be sung when you return home and tell others of your exploits and the things you’ve seen. Perhaps you’ll get your hands on an instrument to supplement your singing?",
+      "chapter": "Hobbits, Ents and Others"
+    },
+    {
+      "__source": "The Celestial Ring by Gothicjedi666 - Hobbits, Ents and Others",
+      "__line": 20,
+      "cost": 100,
+      "name": "Blessing Of Light Journeys",
+      "source": "The Lord of the Rings",
+      "description": "While adventuring sounds quite good on paper, there are many little mundanities that can be rather annoying in the moment. Thankfully you won’t have to worry about it, perhaps due to some magic spell laid on you? You’ll find that pests such as insects generally keep their distance from you, and that any clothing you wear will never chafe at you or be uncomfortable to wear even after days of running. Lastly, you’ll find that equipping and unequipping armor and the like will be a quick and smooth affair, despite how it might normally be. Long journeys won’t be quite as difficult anymore, but do remember to still bring some food with you.",
+      "chapter": "Hobbits, Ents and Others"
     }
   ],
   "6": [

@@ -273,274 +273,274 @@
   ],
   "2": [
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 1,
       "cost": 100,
-      "name": "Of Oaths and Vows ",
+      "name": "Skinchanger ",
       "source": "ASOIAF - Small Council Jumpchain",
-      "description": "In a world where oaths hold ironclad weight, you somehow stand exempt. Oaths, vows, and the bonds that demand loyalty and sacrifice simply don’t cling to you in the same way as they do for others. The life-long service of the Night’s Watch becomes voluntary, the Kingsguard’s oath of celibacy becomes a mere formality, and the restrictions of the Silent Sisters are waived as needed—all without consequence or any resentment from others. People around you naturally accept that you can step outside the bounds of duty, understanding, if not entirely rationalizing, that the typical rules simply don’t apply.",
-      "chapter": "The Knight"
+      "description": "You are a beastling, a skinchanger. The ancient and feared gift of warging is yours to command. You can possess animals, entering their minds and controlling their bodies as if they were your own. This bond initially manifests in dreams, connecting you to a single creature with whom you share a special bond, but with practice, it expands to conscious control and a growing number of animals. A purchase of this allows you a free purchase of Furry(or Not So Furry) Friend.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 2,
       "cost": 100,
-      "name": "Sworn Shield ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You have a Sworn Shield, a true paragon of loyalty, discipline, and martial prowess, rivaling the most legendary warriors of Westeros.",
-      "chapter": "The Knight"
+      "name": "Mummer’s Farce",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "At least in Westeros, magic is commonly believed to be dead or faded. This makes it harder for an aspiring mage to gain the patronage often necessary to get reagents and artefacts with which to do magic. Thankfully, you don’t have that problem! You are an expert in getting people to believe in your prowess, and can get them to sacrifice things on your behalf to power your magic. Yes, you too can convince a man to burn his own daughter!",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 3,
       "cost": 100,
-      "name": "A Proficient Warrior",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You are the equal of any knight in swordfighting, jousting and riding, as well as capable of caring for your armour and weapons without the aid of a squire. You have a weapon you are slightly more skilled in, than your average knight, whether that is a greatsword, a warhammer or something different.",
-      "chapter": "The Knight"
+      "name": "Ship of Wonder",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "A magnificent ship rivaling the legendary Sun Chaser in speed, durability, and design. Crafted with rare materials and imbued with subtle enchantments, this vessel can weather the fiercest storms, outrun pirates, and cross vast oceans with ease. It comes with a fully trained and loyal crew, ready to follow your every command. After this jump, the ship will adapt to fit the setting, remaining the best possible vessel for its time and place, whether that’s a spaceship, airship, or something else entirely.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 4,
       "cost": 100,
-      "name": "Always Armoured",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "For whatever reason, it’s a fairly common practice in Westeros for nobles and important characters to fight without all their armour - rule of cool maybe? Nonetheless, now you can too! As long as you are wearing some kind of armour, you will be protected by the concept of armour to the same extent that what you are already wearing would protect you. Finally, you too can run around the battlefield without a helmet like all the other morons - and as a bonus, you won’t die doing so!",
-      "chapter": "The Knight"
+      "name": "Silver‘s Saddle ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "This unassuming saddle, crafted from supple leather and silver-chased buckles, transforms any mount into a paragon of its kind. Place it on a donkey, and the beast becomes a warhorse with the speed of a Dornish sand steed and the endurance of a mammoth. Strap it to a lizard-lion, and the creature gains the cunning of a direwolf and the resilience of scaled plate. The saddle’s magic seeps into the mount, sharpening its instincts, tripling its stamina, and bending its loyalty unshakably to you. The mount instinctively understands complex mental commands, leap chasms, feign death, or navigate tight city streets, and heals from near-fatal wounds overnight.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 5,
-      "cost": 100,
-      "name": "Weapons and Armour",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Weapons and armour suitable for your station, profession and location. If you are a Stormslander knight, then you get heavy plate armour and your specialty weapon. If you are a diplomat from Dorne, you probably have leather armour and a poisoned dagger. This gear respawns in the warehouse a day after if lost or destroyed. This gear is generally about average for what your social position would expect.",
-      "chapter": "The Knight"
+      "cost": 200,
+      "name": "Dancing in Two Skins",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "One of the most difficult aspects of warging is the helplessness that comes with leaving your own body behind. Not for you. With this upgrade, you can move, act, and even fight as your human self while your mind resides in another creature. It’s as though you inhabit two bodies at once, maintaining total awareness and coordination between them.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 6,
-      "cost": 100,
-      "name": "Gold Cloak",
-      "source": "House of the Dragon Jumpchain",
-      "description": "This set consists of black armour and a gold cloak. Despite its more ceremonious appearance it is as tough as steel and can resist any glancing blow from the weapons here (aside from Valyrian steel and supernatural threats like Dragons). Any breakages will be repaired within two weeks. It has the special aura of a patrolling officer.",
-      "chapter": "The Knight"
+      "cost": 200,
+      "name": "Glamouring",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You have a subtle yet powerful gift: the ability to alter your appearance and that of items you touch. These changes are minor and cannot radically transform your body or disguise you entirely, but they are perfect for creating plausible deceptions. A slight shift in your features, the color of your eyes, or the cut of your clothing—these illusions are as real as the world believes them to be.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 7,
-      "cost": 100,
-      "name": "The Battlefield ",
-      "source": "Hedge Knight",
-      "description": "Due to it being the crossroads of Westeros, it is very common for the different kingdoms to have their battles in the Riverlands. Now it is easier for you to figure out where battles will take place and even figure out how to use the surroundings against enemies. Environmental kills will be much easier.",
-      "chapter": "The Knight"
+      "cost": 200,
+      "name": "Faceless ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "The dark art of the Faceless Men is yours to command. By harvesting the face of a willing subject—or removing it from the dead before decay claims it—you can take on their visage. Each face must be expertly preserved, a skill you instinctively possess. The magic imbued in these faces allows you to completely adopt the identity of their previous owner, from voice to mannerisms.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 8,
-      "cost": 100,
-      "name": "Giant Falcon",
-      "source": "A Song of Ice and Fire: The Epoch of Legends",
-      "description": "The Winged Knight, sometimes conflated with Ser Artys Arryn, was a legendary hero that was certainly a character. He received his title due to the massive falcon that he rode. This may have been some ancient dragon, but where’s the fun in that? You have a giant falcon at your beck and call, able to carry a grown man, and fly at tremendous speeds. Unlike normal birds, it’s bones are not hollow either, and can thus take a serious beating before it takes any real damage.",
-      "chapter": "The Knight"
+      "cost": 200,
+      "name": "Alchemy ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "The alchemical arts are at your command. You possess the skills of a veteran member of the Alchemist's Guild of King's Landing, with a deep understanding of herbs, mixtures, and their medicinal uses. You are, of course, adept at creating wildfire, the volatile and destructive substance feared throughout Westeros.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 9,
-      "cost": 100,
-      "name": "The Knight",
-      "source": "A Song of Ice and Fire: The Epoch of Legends",
-      "description": "You are now accompanied by the knight, an archetypical hero, even in this era before knights allegedly existed. They are the perfect embodiment of chivalry, willing to help those in need, and fight any evil or injustice. They can also tell good jokes, as all men are fools, and all men are knights, so far as women are concerned.",
-      "chapter": "The Knight"
+      "cost": 200,
+      "name": "Transmutation",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You have unlocked the ability to transmute metals. With the right resources and focus, you can transform lead into gold or iron into steel. This power is not instantaneous and requires precise alchemical processes, but the results are undeniable. Beyond wealth, this skill has practical applications, such as forging superior tools or armaments from otherwise inferior materials.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 10,
       "cost": 200,
-      "name": "Through All the Seven Hells",
+      "name": "Elemental Magic ",
       "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You embody an ideal of heroism that can stir even the most hardened of hearts. In you, people see the possibility of a brighter future and recognize the dreams told in the stories of great heroes long past. Those around you become far more likely to hold to their oaths, fight bravely, and resist the temptations of dishonor. In your presence, even those who have lost everything can finally have hope for the days to come and feel motivated to fight for that hope. You believe the dream that you inspire, and that belief lends you a unique resilience: as long as you keep fighting, you are always able to hold onto hope, always finding some chance at victory, no matter how grim the odds.",
-      "chapter": "The Knight"
+      "description": "You can command the primal forces of nature, bending them to your will. With the base purchase, you gain the ability to manipulate one of three elements—Air, Fire, or Water. While initially limited to minor feats and parlor tricks—stirring a breeze, sparking a flame, or rippling water—you have the foundation for growth into a powerful elemental adept. This perk may be purchased multiple times, once for each element, but upgrades apply only to the element selected for their respective purchase.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 11,
+      "cost": 200,
+      "name": "Resistant to Magical Area Effects",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Does an area seem too cold to be natural? Is an area still volcanically deadly even almost five hundred years after the area was blighted by an unspecified doom? Perhaps being too long in an area will cause grayscale to latch onto you. Well, no longer. You are resistant to the effects of magical environments, be the source of a curse, damnation of fourteen gods, or just a shroud worn by the White Walkers. Now, it takes a bit longer for the effect to affect you. As long as you’re moving through the area, the magic won’t take hold on you, but the moment you stop with the intent of staying, the magic will very slowly start to work, 1% per ten minutes until you start leaving the area again. When it gets to 100%, the magic works on you as it would any other person.",
+      "chapter": "The Greenseer"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
+      "__line": 12,
+      "cost": 200,
+      "name": "Beloved of Magic",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Ordinarily, the overall strength of magic on Planetos is related to the tides of the earth, and the existence of magical creatures such as dragons. This means that in times of great magical power, the least of magicians could cast complex and powerful magics limited only to the strongest in times when magic wanes. Of course the flipside of this is that in times when magic isn’t strong, magicians can barely cast, with that same magician from before barely being able to summon sparks of fire with an ignition source. You gracefully avoid this problem, as magic seems to favour you preventing any such environmental factors affecting your power negatively.",
+      "chapter": "The Greenseer"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
+      "__line": 13,
+      "cost": 200,
+      "name": "Crate of Weirwood, or Black-Barked Saplings",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Ten of either or five of both. They grow to full maturity within a year. Every ten years, another crate of twenty arrives. Weirwoods are sacred trees grown by the Children of the Forest and used as places of worship for those who follow the Old Gods. They have white bark, red sap and red leaves. The children often carve elaborate faces into the trunks as well, which the sap will swell up from, giving the appearance of tears. Black-Barked trees on the other hand are the trees Qarthian Warlocks use the leaves of, to make the Shade of Evening. Black-Barked trees have black bark and inky blue leaves. Both may have magical properties yet undiscovered, but will most likely relate to the two’s mystical properties. May be purchased multiple times. Both types of tree will create a mystical connection to trees of their fellow species, and can be used as a network to divine anything that has happened in their presence in the past or present. They can even be used to communicate through, over vast distances, as long as you have skills in divination.",
+      "chapter": "The Greenseer"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
+      "__line": 14,
+      "cost": 200,
+      "name": "Inheritor",
+      "source": "Generic ASOIAF Fanfiction",
+      "description": "The Asshai’i are a mysterious people, steeped in lore, versed in magic and myth. And few more than you. You have a natural gift for learning magic, for digging lore and artifacts out of the darkness of the past. You know the right way to step in haunted ruins, methods to translate and understand long-dead scripts, ways of testing for and diffusing lingering magic on that which you seek to take... while this does very little for your actual power or talent with magic, it does make you incredibly able when it comes to acquiring knowledge or artifacts. And knowledge is a power all its own.",
+      "chapter": "The Greenseer"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
+      "__line": 15,
+      "cost": 200,
+      "name": "Counselor’s Map",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "A map enchanted much like the Marauder's Map, revealing the location of everyone within the Red Keep. It includes every room and hidden passage within the castle, though it is limited to a bird’s eye view.",
+      "chapter": "The Greenseer"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
+      "__line": 16,
+      "cost": 200,
+      "name": "Signed in Blood ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "This dark, beautifully crafted quill binds any contract signed with it to the full force of fate itself. Once someone signs their name, they are bound to their oath without question, though they remain unquestioning of the quill’s true nature. Anyone who uses the quill will be aware of the consequences of signing with it. Neither oaths nor terms can be violated by the signer without dire consequence.",
+      "chapter": "The Greenseer"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
+      "__line": 17,
       "cost": 200,
       "name": "Mythical Weapon",
       "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you.",
-      "chapter": "The Knight"
+      "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you. This weapon may take on whatever appearance you desire, and regardless of its form, this weapon will function impeccably, even if it might otherwise seem impractical.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 12,
-      "cost": 200,
-      "name": "Master of Arms",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You are a skilled teacher, capable of imparting a mastery of five weapon types and a martial philosophy over the course of a few years.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 13,
-      "cost": 200,
-      "name": "Armour of the Laughing Tree",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Despite its name, the Armour of the Laughing Tree is not necessarily an armour. Instead, it is an upgrade you can apply to any piece of clothing or armour you wear. When activated, the wearer will be near-impossible to unmask or capture, whilst people’s memories seem to gloss over any attempts to connect the unmasked and masked forms.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 14,
-      "cost": 200,
-      "name": "Bold",
-      "source": "A Song of Ice and Fire Jumpchain",
-      "description": "You are brave without recklessness. You can keep your cool in even the most heated situations and you will not balk at a dangerous challenge.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 15,
-      "cost": 200,
-      "name": "Starforged Sword\r",
-      "source": "A Song of Ice and Fire Jumpchain",
-      "description": "A sword made out of the remnants of a fallen star. Milky white and intensely shiny. Around as sharp and light as Valyrian Steel. Gives a strong impression of chivalry and honour. You may also import any melee weapon you own to take on the appearance and strengths of the sword.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 16,
-      "cost": 200,
-      "name": "Poisonous",
-      "source": "Hedge Knight",
-      "description": "The weaponry you use can be instantly coated in deadly poisons. This is done by pouring the catalysts onto the blade. The effect will stay on the blade for twenty-four hours before fading. These poisons don’t harm you and you can switch them out for a cure without any ingredients.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 17,
-      "cost": 200,
-      "name": "Stormy Berserker",
-      "source": "Hedge Knight",
-      "description": "During a fight you can choose to enter a heightened state of reaction where your sense of pain lowers and you seem to have more energy. Once the adrenaline fades your injuries will catch up with you and you will have twenty four hours to get medical attention.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 18,
-      "cost": 200,
-      "name": "Squire ",
-      "source": "Hedge Knight",
-      "description": "A nine-year-old child has begged and pleaded to become your squire. Possibly a bastard noble orphan as seen in their reading skills, it is difficult to figure out what house they come from due to the broad brim hat that keeps their face in shadow and their shaved head. In time they will grow up and under your tutelage become a powerful fighter, basing their honour on you.",
-      "chapter": "The Knight"
+      "cost": 300,
+      "name": "Packmaster",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "Where most wargs can control only one creature at a time, you wield dominion over entire packs. Like Varamyr Sixskins, you can command multiple animals simultaneously, coordinating them as extensions of your will. Whether it’s a swarm of ravens, a pack of wolves, or a pride of lions, your influence over beasts knows few limits.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 19,
-      "cost": 200,
-      "name": "Warrior’s Son ",
-      "source": "Hedge Knight",
-      "description": "A mystery knight wearing a rainbow cloak, possibly a remnant from the Faith Militant. Either way they are an unofficial holy man and follow the Faith of the Seven in a way that does not go against you; figuring out an interpretation that fits the idea of many worlds. They seem to channel their faith which increases their damage and defense against magical enemies.",
-      "chapter": "The Knight"
+      "cost": 300,
+      "name": "Born of the Divine",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "There was a divinity in your family history, and no matter how many generations the benefits have skipped over, they are shining through you now. You’re a little taller, a lot smarter, a little more attractive and charming, and a fair bit stronger and faster than you were before. You will live maybe half again as long as others of your kind, and be in full vigour until the end of your years. This works as a capstone booster, boosting all of your perks slightly, but most especially all of your capstone perks. The enhanced version of the perks are in the notes, as are the height differences.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 20,
-      "cost": 200,
-      "name": "Commander",
-      "source": "Generic ASOIAF Fanfiction",
-      "description": "Learning to command is the job of a lifetime, it’s something nobles are trained in from the moment they can walk. Although very few ever achieve more than basic competency, to work autonomously from their liege and lead men into battle, you’ve reached a greater height. Whether from years of being a squire under a fantastic commander, learning all of their secrets, or a combination of a good library and a mind for the craft, you have become one of the greatest commanders of your realm, and recognised as such in the entire civilised world. Tactics, strategy, logistics, even propaganda and morale, you know it all, and can easily adapt your talents to other worlds and weapons as well.",
-      "chapter": "The Knight"
+      "cost": 300,
+      "name": "Songs of the Earth ",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Those who sing the songs of the earth have many gifts. Chief amongst these is the ability to speak the True Tongue, a great affinity for magic, and a deep spiritual connection to nature which increases potency of nature based magics. The True Tongue is based on the sounds of the world, including things like wind on leaves, rain on water and the sound of stones in a brook. By binding themselves to a weirwood, an earthsinger may live for far longer than any other of their kind. There is evidence that some of the Children currently alive today were amongst those who created the Others 12,000 years ago.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 21,
       "cost": 300,
-      "name": "Cold Hands",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "It is common for men to break when they come eye to eye with the Dark. You are made of far stronger stuff. Even tortured to the brink, isolated and abandoned, you will never forget your beliefs and purpose. If you are part of an organisation, that organisation will always recognize you as one of them, as long as you abide by their rules to the best of your ability. In addition, your adamantine will grants you immunity to possession or trickery based magics such as warging, mind control, glamours or shadow binding.",
-      "chapter": "The Knight"
+      "name": " Winter’s Children ",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "More than any other beings, the White Walkers are the children of winter. This manifests in their immensely powerful winter magic, as well as their ability to reshape ice into any form they wish. At first, all you will be able to do is create crude forms out of ice, and affect the weather around you towards the cooler side. But as you gain experience, you will learn to create weapons of ice capable of cutting castle forged steel like butter as well as alter the weather on a large enough scale to plunge an entire continent into a decades long ice age. As one of the others, you also possess the ability to raise vast armies of the dead as wights. Other species can do this if they practice, however White Walkers have a greater affinity, and are capable of simultaneously raising hosts numbering in the thousands with a bit of effort.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 22,
       "cost": 300,
-      "name": "Unsullied Grit",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You have unbreakable will, easily equal to that of the Unsullied Legions from Astapor, able to stand through extreme pain and hardship. You are also capable of completely controlling yourself, no longer falling into a bloodthirsty rage in the case of a battle, only to then commit atrocities.",
-      "chapter": "The Knight"
+      "name": "Flaming Weapon",
+      "source": "A Song of Ice and Fire Jumpchain",
+      "description": "You can use your blood to set alight your weapon. Such fire blazes incredibly hot and is unnaturally intimidating to your enemies and heartening to your allies but will ruin ordinary steel.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 23,
-      "cost": 300,
-      "name": "Qyburn's Scorpion",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Repeating scorpion, range of several miles, hits what it’s aimed at in a straight line. You will not need to adjust for either distance, curvature of the earth, or weather.",
-      "chapter": "The Knight"
+      "cost": 400,
+      "name": "Divination ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "The First Men would name you a greenseer; the Targaryens would call you a dreamer. You possess the rare and enigmatic gift of prophecy. This ability grants you premonitions, glimpses of the future that come in visions, dreams, or sudden flashes of insight. These visions can be cryptic and open to interpretation, with truths often hidden beneath layers of symbolism. While the Sight can be a powerful tool, beware: prophecy is a double-edged sword. Misinterpretation of what you see can lead to unintended consequences, and knowing the future does not always mean you can change it.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 24,
       "cost": 400,
-      "name": "What Do We Say to the God of Death?",
+      "name": "The Green ",
       "source": "ASOIAF - Small Council Jumpchain",
-      "description": "Your years as a warrior and protector have given you a heightened awareness of threats, even those directed at others in your charge. You experience a sixth sense regarding impending danger, feeling subtle warnings when an ambush or betrayal is imminent. This extends to any threat against yourself, your allies, or those you are sworn to protect, whether in the heat of battle, the backrooms of court or poison in a chalice. You are also attuned to conspiracies, possessing an instinctive awareness of plots aimed at harming you or those close to you.",
-      "chapter": "The Knight"
+      "description": "Like Garth Greenhand before you, you are a fountain of life and vitality, a living embodiment of fertility and abundance. Women touched by your blessing are granted extraordinary fertility, often bearing twins or triplets, while crops thrive and flourish in your presence. Wherever you tread, the land awakens: barren fields ripen with grain, orchards yield fruit beyond expectation, and flowers bloom in your wake. This gift of life flows from you effortlessly, rejuvenating both people and nature alike. Your presence is a blessing to any who rely on the land, ensuring prosperity wherever you choose to wander.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 25,
       "cost": 400,
-      "name": "Fear Cuts Deeper Than Swords ",
+      "name": "Iron Coin ",
       "source": "ASOIAF - Small Council Jumpchain",
-      "description": "Your unmatched willpower allows you to stay focused and disciplined no matter the circumstances. You do not stop fighting. Even drenched in your own blood, you press on until there is no life left behind your eyes. You will survive, you will push on, you will not yield, no matter the tribulations. You can stand and draw your sword against a tide of death without hesitation, and you will cling to survival with every ounce of your strength a dozen times over.",
-      "chapter": "The Knight"
+      "description": "A simple yet ominous iron coin bearing the mark of the Faceless Men. When you present this coin and whisper the name of your intended target, a Faceless Man will ensure their death within a week—no matter where they hide or how well-guarded they are. This can only be used once per year, and the Faceless Men will not divulge how they completed the task.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 26,
       "cost": 400,
-      "name": "Armor of the Kingsguard ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You possess a suit of exquisitely crafted white armor of the Kingsguard, perfectly fitted to you and aesthetically pleasing. This armor can take on any appearance you desire, should it be traditional Kingsguard regalia or something entirely different. Lightweight and comfortable, it won’t hinder your movement, yet it offers the protection of fully enclosing plate armor as long as it covers most of your body. This armor is virtually indestructible, even largely impervious to Valyrian steel or starmetal. Additionally, you may choose to have it enchanted with protective runes, similar to the ancient armor of House Royce. After each battle, the armor will magically repair and cleanse itself, requiring no upkeep on your part.",
-      "chapter": "The Knight"
+      "name": "Necromancy",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "The magic of life and death, necromancy is a fell magic used by many,including Qyburn, the Others, some Qarthian Warlocks, and the Bloodstone Emperor. By purchasing this perk, you have gained the ability to raise groups of undead wights bound by your will and life force, as well as the ability to perform a true resurrection once per year.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 27,
       "cost": 400,
-      "name": "Genius Strategist",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You are now a strategist unparallelled on Planetos, rivalling the likes of Napoleon and Alexander the Great, with a strategic mind that can, with enough resources and determination, change the face of the world. You can now win a battle whilst greatly outnumbered if only you have the time to prepare.",
-      "chapter": "The Knight"
+      "name": "\nThe Mother’s River",
+      "source": "ASOIAF Small Council Jumpchain\r",
+      "description": "The Rhoyne’s children did not kneel to dragons. They fought with currents, not swords, and drowned fire in the Mother’s embrace. Now, her power flows through you. You wield the ancient water magic of the Rhoynar, a legacy of the river priests who once defied Valyria itself. While crude hydrokinesis is a small portion of this gift, the Mother’s blessings run deeper. You can summon impenetrable fogs that stretch for miles, shrouding fleets or armies in mist that only you and your allies can see through. Wounds immersed in flowing water knit together under your touch, bones mending and gashes closing as if time itself bends to the river’s song. Poisoned wine turns harmless at your command, and blighted wells run clear again. Yet the Rhoyne’s mercy is matched by her wrath, her currents answer your fury, dragging ships beneath the waves or crashing torrents against castle walls.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 28,
-      "cost": 500,
-      "name": "Sword of the Morning",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You are one of the greatest warriors to grace the face of Planetos in a generation. Your mind and body are in perfect sync with combat. You could easily analyse a battlefield to create an imaginary version of it in your Mind’s Eye to easily predict the movements of your opponent until they stop being a threat... or if they play dead. You could fight 10 men, perhaps even 20 by yourself, and come out without a scratch. Against truly skilled opponents on the level of Ned Stark in his prime, this number goes down to 4-7. This is quite straining to a baseline human, but it is possible to expand the limits of your predictions with training, unnatural modifications or perks from another Jump. You also gain a substantial increase in skill to dual wield your preferred weapon with the same level of mastery that you wield one.",
-      "chapter": "The Knight"
+      "cost": 400,
+      "name": "Of Flame and Forge",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "Your mastery extends beyond ordinary smithing to include secret techniques and alchemical processes that elevate your creations into legendary artefacts. You can forge entirely new Valyrian Steel without needing dragonfire, making you perhaps the only living individual capable of creating these legendary blades from scratch. Though the process is still resource-intensive and arduous, the results are unparalleled.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 29,
       "cost": 600,
-      "name": "Storied Hero",
+      "name": "The Builder",
       "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You are the epitome of knighthood, an unparalleled force on the battlefield and the paragon of the Kingsguard. You could match the swordsmanship of Ser Arthur Dayne, the leadership of Ser Duncan the Tall, the bravery of Ser Barristan the Bold, the beauty of Ser Jaime Lannister, and the nobility of Prince Aemon the Dragonknight. You easily stand as the greatest knight to ever live in every facet of the ideal. Your presence alone can sway the tide of battles, lifting allies’ spirits and striking despair into foes. Your skill with a blade is such that people would call you the Warrior reborn, allowing you to win a bout when outnumbered and surrounded on all sides. Your poise, gallantry, and skill set you apart, making you a living legend, an example for all the world to follow.",
-      "chapter": "The Knight"
+      "description": "You have inherited the ingenuity and creativity that Bran the Builder was said to possess, granting you the ability to design and construct monumental projects that rival the greatest wonders of Westeros. Fortresses that defy siegecraft, walls that stand against the ages, and sprawling structures that awe all who see them are within your grasp. You can complete immense projects in a fraction of the time and with far fewer resources than should be possible, your efficiency supernatural. The things you create are not only practical and enduring but works of art in their own right, imbued with a sense of purpose and majesty that captures the imagination. Whether constructing a castle, designing defenses, or raising a tower to scrape the heavens, your work is guaranteed to stand for generations as a marvel of the world.",
+      "chapter": "The Greenseer"
     },
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
       "__line": 30,
       "cost": 600,
-      "name": "Company",
-      "source": "Hedge Knight",
-      "description": "You have command over a hundred sellswords willing to follow your orders to the grave. These professional mercenaries are considered men at arms with average fighting skills but learn what you teach them incredibly quickly. The group regains any losses at one person a week and accepts any additions but they are followers and not companions.",
-      "chapter": "The Knight"
+      "name": "Shadowbinder",
+      "source": "A Song of Ice and Fire Jumpchain",
+      "description": "Once a week you may produce a shadow. Such a shadow will obey your command to assassinate someone. Highly effective but must have surfaces to walk on. Ineffective against magical targets.",
+      "chapter": "The Greenseer"
     }
   ],
   "3": [
@@ -817,278 +817,6 @@
   ],
   "4": [
     {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 1,
-      "cost": 100,
-      "name": "Skinchanger ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You are a beastling, a skinchanger. The ancient and feared gift of warging is yours to command. You can possess animals, entering their minds and controlling their bodies as if they were your own. This bond initially manifests in dreams, connecting you to a single creature with whom you share a special bond, but with practice, it expands to conscious control and a growing number of animals. A purchase of this allows you a free purchase of Furry(or Not So Furry) Friend.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 2,
-      "cost": 100,
-      "name": "Mummer’s Farce",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "At least in Westeros, magic is commonly believed to be dead or faded. This makes it harder for an aspiring mage to gain the patronage often necessary to get reagents and artefacts with which to do magic. Thankfully, you don’t have that problem! You are an expert in getting people to believe in your prowess, and can get them to sacrifice things on your behalf to power your magic. Yes, you too can convince a man to burn his own daughter!",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 3,
-      "cost": 100,
-      "name": "Ship of Wonder",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "A magnificent ship rivaling the legendary Sun Chaser in speed, durability, and design. Crafted with rare materials and imbued with subtle enchantments, this vessel can weather the fiercest storms, outrun pirates, and cross vast oceans with ease. It comes with a fully trained and loyal crew, ready to follow your every command. After this jump, the ship will adapt to fit the setting, remaining the best possible vessel for its time and place, whether that’s a spaceship, airship, or something else entirely.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 4,
-      "cost": 100,
-      "name": "Silver‘s Saddle ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "This unassuming saddle, crafted from supple leather and silver-chased buckles, transforms any mount into a paragon of its kind. Place it on a donkey, and the beast becomes a warhorse with the speed of a Dornish sand steed and the endurance of a mammoth. Strap it to a lizard-lion, and the creature gains the cunning of a direwolf and the resilience of scaled plate. The saddle’s magic seeps into the mount, sharpening its instincts, tripling its stamina, and bending its loyalty unshakably to you. The mount instinctively understands complex mental commands, leap chasms, feign death, or navigate tight city streets, and heals from near-fatal wounds overnight.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 5,
-      "cost": 200,
-      "name": "Dancing in Two Skins",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "One of the most difficult aspects of warging is the helplessness that comes with leaving your own body behind. Not for you. With this upgrade, you can move, act, and even fight as your human self while your mind resides in another creature. It’s as though you inhabit two bodies at once, maintaining total awareness and coordination between them.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 6,
-      "cost": 200,
-      "name": "Glamouring",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You have a subtle yet powerful gift: the ability to alter your appearance and that of items you touch. These changes are minor and cannot radically transform your body or disguise you entirely, but they are perfect for creating plausible deceptions. A slight shift in your features, the color of your eyes, or the cut of your clothing—these illusions are as real as the world believes them to be.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 7,
-      "cost": 200,
-      "name": "Faceless ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "The dark art of the Faceless Men is yours to command. By harvesting the face of a willing subject—or removing it from the dead before decay claims it—you can take on their visage. Each face must be expertly preserved, a skill you instinctively possess. The magic imbued in these faces allows you to completely adopt the identity of their previous owner, from voice to mannerisms.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 8,
-      "cost": 200,
-      "name": "Alchemy ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "The alchemical arts are at your command. You possess the skills of a veteran member of the Alchemist's Guild of King's Landing, with a deep understanding of herbs, mixtures, and their medicinal uses. You are, of course, adept at creating wildfire, the volatile and destructive substance feared throughout Westeros.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 9,
-      "cost": 200,
-      "name": "Transmutation",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You have unlocked the ability to transmute metals. With the right resources and focus, you can transform lead into gold or iron into steel. This power is not instantaneous and requires precise alchemical processes, but the results are undeniable. Beyond wealth, this skill has practical applications, such as forging superior tools or armaments from otherwise inferior materials.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 10,
-      "cost": 200,
-      "name": "Elemental Magic ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You can command the primal forces of nature, bending them to your will. With the base purchase, you gain the ability to manipulate one of three elements—Air, Fire, or Water. While initially limited to minor feats and parlor tricks—stirring a breeze, sparking a flame, or rippling water—you have the foundation for growth into a powerful elemental adept. This perk may be purchased multiple times, once for each element, but upgrades apply only to the element selected for their respective purchase.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 11,
-      "cost": 200,
-      "name": "Resistant to Magical Area Effects",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Does an area seem too cold to be natural? Is an area still volcanically deadly even almost five hundred years after the area was blighted by an unspecified doom? Perhaps being too long in an area will cause grayscale to latch onto you. Well, no longer. You are resistant to the effects of magical environments, be the source of a curse, damnation of fourteen gods, or just a shroud worn by the White Walkers. Now, it takes a bit longer for the effect to affect you. As long as you’re moving through the area, the magic won’t take hold on you, but the moment you stop with the intent of staying, the magic will very slowly start to work, 1% per ten minutes until you start leaving the area again. When it gets to 100%, the magic works on you as it would any other person.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 12,
-      "cost": 200,
-      "name": "Beloved of Magic",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Ordinarily, the overall strength of magic on Planetos is related to the tides of the earth, and the existence of magical creatures such as dragons. This means that in times of great magical power, the least of magicians could cast complex and powerful magics limited only to the strongest in times when magic wanes. Of course the flipside of this is that in times when magic isn’t strong, magicians can barely cast, with that same magician from before barely being able to summon sparks of fire with an ignition source. You gracefully avoid this problem, as magic seems to favour you preventing any such environmental factors affecting your power negatively.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 13,
-      "cost": 200,
-      "name": "Crate of Weirwood, or Black-Barked Saplings",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Ten of either or five of both. They grow to full maturity within a year. Every ten years, another crate of twenty arrives. Weirwoods are sacred trees grown by the Children of the Forest and used as places of worship for those who follow the Old Gods. They have white bark, red sap and red leaves. The children often carve elaborate faces into the trunks as well, which the sap will swell up from, giving the appearance of tears. Black-Barked trees on the other hand are the trees Qarthian Warlocks use the leaves of, to make the Shade of Evening. Black-Barked trees have black bark and inky blue leaves. Both may have magical properties yet undiscovered, but will most likely relate to the two’s mystical properties. May be purchased multiple times. Both types of tree will create a mystical connection to trees of their fellow species, and can be used as a network to divine anything that has happened in their presence in the past or present. They can even be used to communicate through, over vast distances, as long as you have skills in divination.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 14,
-      "cost": 200,
-      "name": "Inheritor",
-      "source": "Generic ASOIAF Fanfiction",
-      "description": "The Asshai’i are a mysterious people, steeped in lore, versed in magic and myth. And few more than you. You have a natural gift for learning magic, for digging lore and artifacts out of the darkness of the past. You know the right way to step in haunted ruins, methods to translate and understand long-dead scripts, ways of testing for and diffusing lingering magic on that which you seek to take... while this does very little for your actual power or talent with magic, it does make you incredibly able when it comes to acquiring knowledge or artifacts. And knowledge is a power all its own.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 15,
-      "cost": 200,
-      "name": "Counselor’s Map",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "A map enchanted much like the Marauder's Map, revealing the location of everyone within the Red Keep. It includes every room and hidden passage within the castle, though it is limited to a bird’s eye view.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 16,
-      "cost": 200,
-      "name": "Signed in Blood ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "This dark, beautifully crafted quill binds any contract signed with it to the full force of fate itself. Once someone signs their name, they are bound to their oath without question, though they remain unquestioning of the quill’s true nature. Anyone who uses the quill will be aware of the consequences of signing with it. Neither oaths nor terms can be violated by the signer without dire consequence.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 17,
-      "cost": 200,
-      "name": "Mythical Weapon",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you. This weapon may take on whatever appearance you desire, and regardless of its form, this weapon will function impeccably, even if it might otherwise seem impractical.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 18,
-      "cost": 300,
-      "name": "Packmaster",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "Where most wargs can control only one creature at a time, you wield dominion over entire packs. Like Varamyr Sixskins, you can command multiple animals simultaneously, coordinating them as extensions of your will. Whether it’s a swarm of ravens, a pack of wolves, or a pride of lions, your influence over beasts knows few limits.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 19,
-      "cost": 300,
-      "name": "Born of the Divine",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "There was a divinity in your family history, and no matter how many generations the benefits have skipped over, they are shining through you now. You’re a little taller, a lot smarter, a little more attractive and charming, and a fair bit stronger and faster than you were before. You will live maybe half again as long as others of your kind, and be in full vigour until the end of your years. This works as a capstone booster, boosting all of your perks slightly, but most especially all of your capstone perks. The enhanced version of the perks are in the notes, as are the height differences.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 20,
-      "cost": 300,
-      "name": "Songs of the Earth ",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Those who sing the songs of the earth have many gifts. Chief amongst these is the ability to speak the True Tongue, a great affinity for magic, and a deep spiritual connection to nature which increases potency of nature based magics. The True Tongue is based on the sounds of the world, including things like wind on leaves, rain on water and the sound of stones in a brook. By binding themselves to a weirwood, an earthsinger may live for far longer than any other of their kind. There is evidence that some of the Children currently alive today were amongst those who created the Others 12,000 years ago.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 21,
-      "cost": 300,
-      "name": " Winter’s Children ",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "More than any other beings, the White Walkers are the children of winter. This manifests in their immensely powerful winter magic, as well as their ability to reshape ice into any form they wish. At first, all you will be able to do is create crude forms out of ice, and affect the weather around you towards the cooler side. But as you gain experience, you will learn to create weapons of ice capable of cutting castle forged steel like butter as well as alter the weather on a large enough scale to plunge an entire continent into a decades long ice age. As one of the others, you also possess the ability to raise vast armies of the dead as wights. Other species can do this if they practice, however White Walkers have a greater affinity, and are capable of simultaneously raising hosts numbering in the thousands with a bit of effort.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 22,
-      "cost": 300,
-      "name": "Flaming Weapon",
-      "source": "A Song of Ice and Fire Jumpchain",
-      "description": "You can use your blood to set alight your weapon. Such fire blazes incredibly hot and is unnaturally intimidating to your enemies and heartening to your allies but will ruin ordinary steel.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 23,
-      "cost": 400,
-      "name": "Divination ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "The First Men would name you a greenseer; the Targaryens would call you a dreamer. You possess the rare and enigmatic gift of prophecy. This ability grants you premonitions, glimpses of the future that come in visions, dreams, or sudden flashes of insight. These visions can be cryptic and open to interpretation, with truths often hidden beneath layers of symbolism. While the Sight can be a powerful tool, beware: prophecy is a double-edged sword. Misinterpretation of what you see can lead to unintended consequences, and knowing the future does not always mean you can change it.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 24,
-      "cost": 400,
-      "name": "The Green ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "Like Garth Greenhand before you, you are a fountain of life and vitality, a living embodiment of fertility and abundance. Women touched by your blessing are granted extraordinary fertility, often bearing twins or triplets, while crops thrive and flourish in your presence. Wherever you tread, the land awakens: barren fields ripen with grain, orchards yield fruit beyond expectation, and flowers bloom in your wake. This gift of life flows from you effortlessly, rejuvenating both people and nature alike. Your presence is a blessing to any who rely on the land, ensuring prosperity wherever you choose to wander.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 25,
-      "cost": 400,
-      "name": "Iron Coin ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "A simple yet ominous iron coin bearing the mark of the Faceless Men. When you present this coin and whisper the name of your intended target, a Faceless Man will ensure their death within a week—no matter where they hide or how well-guarded they are. This can only be used once per year, and the Faceless Men will not divulge how they completed the task.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 26,
-      "cost": 400,
-      "name": "Necromancy",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "The magic of life and death, necromancy is a fell magic used by many,including Qyburn, the Others, some Qarthian Warlocks, and the Bloodstone Emperor. By purchasing this perk, you have gained the ability to raise groups of undead wights bound by your will and life force, as well as the ability to perform a true resurrection once per year.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 27,
-      "cost": 400,
-      "name": "\nThe Mother’s River",
-      "source": "ASOIAF Small Council Jumpchain\r",
-      "description": "The Rhoyne’s children did not kneel to dragons. They fought with currents, not swords, and drowned fire in the Mother’s embrace. Now, her power flows through you. You wield the ancient water magic of the Rhoynar, a legacy of the river priests who once defied Valyria itself. While crude hydrokinesis is a small portion of this gift, the Mother’s blessings run deeper. You can summon impenetrable fogs that stretch for miles, shrouding fleets or armies in mist that only you and your allies can see through. Wounds immersed in flowing water knit together under your touch, bones mending and gashes closing as if time itself bends to the river’s song. Poisoned wine turns harmless at your command, and blighted wells run clear again. Yet the Rhoyne’s mercy is matched by her wrath, her currents answer your fury, dragging ships beneath the waves or crashing torrents against castle walls.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 28,
-      "cost": 400,
-      "name": "Of Flame and Forge",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "Your mastery extends beyond ordinary smithing to include secret techniques and alchemical processes that elevate your creations into legendary artefacts. You can forge entirely new Valyrian Steel without needing dragonfire, making you perhaps the only living individual capable of creating these legendary blades from scratch. Though the process is still resource-intensive and arduous, the results are unparalleled.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 29,
-      "cost": 600,
-      "name": "The Builder",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You have inherited the ingenuity and creativity that Bran the Builder was said to possess, granting you the ability to design and construct monumental projects that rival the greatest wonders of Westeros. Fortresses that defy siegecraft, walls that stand against the ages, and sprawling structures that awe all who see them are within your grasp. You can complete immense projects in a fraction of the time and with far fewer resources than should be possible, your efficiency supernatural. The things you create are not only practical and enduring but works of art in their own right, imbued with a sense of purpose and majesty that captures the imagination. Whether constructing a castle, designing defenses, or raising a tower to scrape the heavens, your work is guaranteed to stand for generations as a marvel of the world.",
-      "chapter": "The Greenseer"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Greenseer",
-      "__line": 30,
-      "cost": 600,
-      "name": "Shadowbinder",
-      "source": "A Song of Ice and Fire Jumpchain",
-      "description": "Once a week you may produce a shadow. Such a shadow will obey your command to assassinate someone. Highly effective but must have surfaces to walk on. Ineffective against magical targets.",
-      "chapter": "The Greenseer"
-    }
-  ],
-  "5": [
-    {
       "__source": "Celestial Song v2 by Gothicjedi666 - The Maester & Merchant",
       "__line": 1,
       "cost": 100,
@@ -1359,7 +1087,7 @@
       "chapter": "The Maester & Merchant"
     }
   ],
-  "6": [
+  "5": [
     {
       "__source": "Celestial Song v2 by Gothicjedi666 - The Smallfolk",
       "__line": 1,
@@ -1620,6 +1348,278 @@
       "source": "A Song of Ice and Fire Jumpchain",
       "description": "A large, ornate and legendary hunting horn capable of massive destruction to even the largest of structures. Can only be used on a weekly basis but can bring practically any building (or Wall) tumbling down when blown.",
       "chapter": "The Smallfolk"
+    }
+  ],
+  "6": [
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 1,
+      "cost": 100,
+      "name": "Of Oaths and Vows ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "In a world where oaths hold ironclad weight, you somehow stand exempt. Oaths, vows, and the bonds that demand loyalty and sacrifice simply don’t cling to you in the same way as they do for others. The life-long service of the Night’s Watch becomes voluntary, the Kingsguard’s oath of celibacy becomes a mere formality, and the restrictions of the Silent Sisters are waived as needed—all without consequence or any resentment from others. People around you naturally accept that you can step outside the bounds of duty, understanding, if not entirely rationalizing, that the typical rules simply don’t apply.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 2,
+      "cost": 100,
+      "name": "Sworn Shield ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You have a Sworn Shield, a true paragon of loyalty, discipline, and martial prowess, rivaling the most legendary warriors of Westeros.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 3,
+      "cost": 100,
+      "name": "A Proficient Warrior",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You are the equal of any knight in swordfighting, jousting and riding, as well as capable of caring for your armour and weapons without the aid of a squire. You have a weapon you are slightly more skilled in, than your average knight, whether that is a greatsword, a warhammer or something different.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 4,
+      "cost": 100,
+      "name": "Always Armoured",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "For whatever reason, it’s a fairly common practice in Westeros for nobles and important characters to fight without all their armour - rule of cool maybe? Nonetheless, now you can too! As long as you are wearing some kind of armour, you will be protected by the concept of armour to the same extent that what you are already wearing would protect you. Finally, you too can run around the battlefield without a helmet like all the other morons - and as a bonus, you won’t die doing so!",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 5,
+      "cost": 100,
+      "name": "Weapons and Armour",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Weapons and armour suitable for your station, profession and location. If you are a Stormslander knight, then you get heavy plate armour and your specialty weapon. If you are a diplomat from Dorne, you probably have leather armour and a poisoned dagger. This gear respawns in the warehouse a day after if lost or destroyed. This gear is generally about average for what your social position would expect.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 6,
+      "cost": 100,
+      "name": "Gold Cloak",
+      "source": "House of the Dragon Jumpchain",
+      "description": "This set consists of black armour and a gold cloak. Despite its more ceremonious appearance it is as tough as steel and can resist any glancing blow from the weapons here (aside from Valyrian steel and supernatural threats like Dragons). Any breakages will be repaired within two weeks. It has the special aura of a patrolling officer.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 7,
+      "cost": 100,
+      "name": "The Battlefield ",
+      "source": "Hedge Knight",
+      "description": "Due to it being the crossroads of Westeros, it is very common for the different kingdoms to have their battles in the Riverlands. Now it is easier for you to figure out where battles will take place and even figure out how to use the surroundings against enemies. Environmental kills will be much easier.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 8,
+      "cost": 100,
+      "name": "Giant Falcon",
+      "source": "A Song of Ice and Fire: The Epoch of Legends",
+      "description": "The Winged Knight, sometimes conflated with Ser Artys Arryn, was a legendary hero that was certainly a character. He received his title due to the massive falcon that he rode. This may have been some ancient dragon, but where’s the fun in that? You have a giant falcon at your beck and call, able to carry a grown man, and fly at tremendous speeds. Unlike normal birds, it’s bones are not hollow either, and can thus take a serious beating before it takes any real damage.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 9,
+      "cost": 100,
+      "name": "The Knight",
+      "source": "A Song of Ice and Fire: The Epoch of Legends",
+      "description": "You are now accompanied by the knight, an archetypical hero, even in this era before knights allegedly existed. They are the perfect embodiment of chivalry, willing to help those in need, and fight any evil or injustice. They can also tell good jokes, as all men are fools, and all men are knights, so far as women are concerned.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 10,
+      "cost": 200,
+      "name": "Through All the Seven Hells",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You embody an ideal of heroism that can stir even the most hardened of hearts. In you, people see the possibility of a brighter future and recognize the dreams told in the stories of great heroes long past. Those around you become far more likely to hold to their oaths, fight bravely, and resist the temptations of dishonor. In your presence, even those who have lost everything can finally have hope for the days to come and feel motivated to fight for that hope. You believe the dream that you inspire, and that belief lends you a unique resilience: as long as you keep fighting, you are always able to hold onto hope, always finding some chance at victory, no matter how grim the odds.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 11,
+      "cost": 200,
+      "name": "Mythical Weapon",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 12,
+      "cost": 200,
+      "name": "Master of Arms",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You are a skilled teacher, capable of imparting a mastery of five weapon types and a martial philosophy over the course of a few years.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 13,
+      "cost": 200,
+      "name": "Armour of the Laughing Tree",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Despite its name, the Armour of the Laughing Tree is not necessarily an armour. Instead, it is an upgrade you can apply to any piece of clothing or armour you wear. When activated, the wearer will be near-impossible to unmask or capture, whilst people’s memories seem to gloss over any attempts to connect the unmasked and masked forms.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 14,
+      "cost": 200,
+      "name": "Bold",
+      "source": "A Song of Ice and Fire Jumpchain",
+      "description": "You are brave without recklessness. You can keep your cool in even the most heated situations and you will not balk at a dangerous challenge.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 15,
+      "cost": 200,
+      "name": "Starforged Sword\r",
+      "source": "A Song of Ice and Fire Jumpchain",
+      "description": "A sword made out of the remnants of a fallen star. Milky white and intensely shiny. Around as sharp and light as Valyrian Steel. Gives a strong impression of chivalry and honour. You may also import any melee weapon you own to take on the appearance and strengths of the sword.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 16,
+      "cost": 200,
+      "name": "Poisonous",
+      "source": "Hedge Knight",
+      "description": "The weaponry you use can be instantly coated in deadly poisons. This is done by pouring the catalysts onto the blade. The effect will stay on the blade for twenty-four hours before fading. These poisons don’t harm you and you can switch them out for a cure without any ingredients.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 17,
+      "cost": 200,
+      "name": "Stormy Berserker",
+      "source": "Hedge Knight",
+      "description": "During a fight you can choose to enter a heightened state of reaction where your sense of pain lowers and you seem to have more energy. Once the adrenaline fades your injuries will catch up with you and you will have twenty four hours to get medical attention.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 18,
+      "cost": 200,
+      "name": "Squire ",
+      "source": "Hedge Knight",
+      "description": "A nine-year-old child has begged and pleaded to become your squire. Possibly a bastard noble orphan as seen in their reading skills, it is difficult to figure out what house they come from due to the broad brim hat that keeps their face in shadow and their shaved head. In time they will grow up and under your tutelage become a powerful fighter, basing their honour on you.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 19,
+      "cost": 200,
+      "name": "Warrior’s Son ",
+      "source": "Hedge Knight",
+      "description": "A mystery knight wearing a rainbow cloak, possibly a remnant from the Faith Militant. Either way they are an unofficial holy man and follow the Faith of the Seven in a way that does not go against you; figuring out an interpretation that fits the idea of many worlds. They seem to channel their faith which increases their damage and defense against magical enemies.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 20,
+      "cost": 200,
+      "name": "Commander",
+      "source": "Generic ASOIAF Fanfiction",
+      "description": "Learning to command is the job of a lifetime, it’s something nobles are trained in from the moment they can walk. Although very few ever achieve more than basic competency, to work autonomously from their liege and lead men into battle, you’ve reached a greater height. Whether from years of being a squire under a fantastic commander, learning all of their secrets, or a combination of a good library and a mind for the craft, you have become one of the greatest commanders of your realm, and recognised as such in the entire civilised world. Tactics, strategy, logistics, even propaganda and morale, you know it all, and can easily adapt your talents to other worlds and weapons as well.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 21,
+      "cost": 300,
+      "name": "Cold Hands",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "It is common for men to break when they come eye to eye with the Dark. You are made of far stronger stuff. Even tortured to the brink, isolated and abandoned, you will never forget your beliefs and purpose. If you are part of an organisation, that organisation will always recognize you as one of them, as long as you abide by their rules to the best of your ability. In addition, your adamantine will grants you immunity to possession or trickery based magics such as warging, mind control, glamours or shadow binding.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 22,
+      "cost": 300,
+      "name": "Unsullied Grit",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You have unbreakable will, easily equal to that of the Unsullied Legions from Astapor, able to stand through extreme pain and hardship. You are also capable of completely controlling yourself, no longer falling into a bloodthirsty rage in the case of a battle, only to then commit atrocities.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 23,
+      "cost": 300,
+      "name": "Qyburn's Scorpion",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Repeating scorpion, range of several miles, hits what it’s aimed at in a straight line. You will not need to adjust for either distance, curvature of the earth, or weather.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 24,
+      "cost": 400,
+      "name": "What Do We Say to the God of Death?",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "Your years as a warrior and protector have given you a heightened awareness of threats, even those directed at others in your charge. You experience a sixth sense regarding impending danger, feeling subtle warnings when an ambush or betrayal is imminent. This extends to any threat against yourself, your allies, or those you are sworn to protect, whether in the heat of battle, the backrooms of court or poison in a chalice. You are also attuned to conspiracies, possessing an instinctive awareness of plots aimed at harming you or those close to you.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 25,
+      "cost": 400,
+      "name": "Fear Cuts Deeper Than Swords ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "Your unmatched willpower allows you to stay focused and disciplined no matter the circumstances. You do not stop fighting. Even drenched in your own blood, you press on until there is no life left behind your eyes. You will survive, you will push on, you will not yield, no matter the tribulations. You can stand and draw your sword against a tide of death without hesitation, and you will cling to survival with every ounce of your strength a dozen times over.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 26,
+      "cost": 400,
+      "name": "Armor of the Kingsguard ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You possess a suit of exquisitely crafted white armor of the Kingsguard, perfectly fitted to you and aesthetically pleasing. This armor can take on any appearance you desire, should it be traditional Kingsguard regalia or something entirely different. Lightweight and comfortable, it won’t hinder your movement, yet it offers the protection of fully enclosing plate armor as long as it covers most of your body. This armor is virtually indestructible, even largely impervious to Valyrian steel or starmetal. Additionally, you may choose to have it enchanted with protective runes, similar to the ancient armor of House Royce. After each battle, the armor will magically repair and cleanse itself, requiring no upkeep on your part.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 27,
+      "cost": 400,
+      "name": "Genius Strategist",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You are now a strategist unparallelled on Planetos, rivalling the likes of Napoleon and Alexander the Great, with a strategic mind that can, with enough resources and determination, change the face of the world. You can now win a battle whilst greatly outnumbered if only you have the time to prepare.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 28,
+      "cost": 500,
+      "name": "Sword of the Morning",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You are one of the greatest warriors to grace the face of Planetos in a generation. Your mind and body are in perfect sync with combat. You could easily analyse a battlefield to create an imaginary version of it in your Mind’s Eye to easily predict the movements of your opponent until they stop being a threat... or if they play dead. You could fight 10 men, perhaps even 20 by yourself, and come out without a scratch. Against truly skilled opponents on the level of Ned Stark in his prime, this number goes down to 4-7. This is quite straining to a baseline human, but it is possible to expand the limits of your predictions with training, unnatural modifications or perks from another Jump. You also gain a substantial increase in skill to dual wield your preferred weapon with the same level of mastery that you wield one.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 29,
+      "cost": 600,
+      "name": "Storied Hero",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You are the epitome of knighthood, an unparalleled force on the battlefield and the paragon of the Kingsguard. You could match the swordsmanship of Ser Arthur Dayne, the leadership of Ser Duncan the Tall, the bravery of Ser Barristan the Bold, the beauty of Ser Jaime Lannister, and the nobility of Prince Aemon the Dragonknight. You easily stand as the greatest knight to ever live in every facet of the ideal. Your presence alone can sway the tide of battles, lifting allies’ spirits and striking despair into foes. Your skill with a blade is such that people would call you the Warrior reborn, allowing you to win a bout when outnumbered and surrounded on all sides. Your poise, gallantry, and skill set you apart, making you a living legend, an example for all the world to follow.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 30,
+      "cost": 600,
+      "name": "Company",
+      "source": "Hedge Knight",
+      "description": "You have command over a hundred sellswords willing to follow your orders to the grave. These professional mercenaries are considered men at arms with average fighting skills but learn what you teach them incredibly quickly. The group regains any losses at one person a week and accepts any additions but they are followers and not companions.",
+      "chapter": "The Knight"
     }
   ]
 }

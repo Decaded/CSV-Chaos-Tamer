@@ -1215,368 +1215,6 @@
   ],
   "5": [
     {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 1,
-      "cost": 0,
-      "name": "Godric’s Guts ",
-      "source": "Harry Potter Movie Series ",
-      "description": "Though you may feel fear you will never allow that fear to control you as this Perk allows you to fight off any fear, even a supernatural fear that would normally paralyse or kill someone.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 2,
-      "cost": 0,
-      "name": "Occlumency",
-      "source": "Harry Potter Movie Series ",
-      "description": "Through this art you magically close your mind against mental intrusions. This can prevent Legilimens and telepaths from accessing your thoughts and feelings, or manipulating them.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 3,
-      "cost": 0,
-      "name": "Legilimency",
-      "source": "Harry Potter Movie Series ",
-      "description": "This art aids you in magically navigating through the many layers of a person's mind and correctly interpreting your finding This functions differently from mind-reading as the results tend to be more abstract and biassed to the person’s memories.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 4,
-      "cost": 0,
-      "name": "Hogwarts Field ",
-      "source": "Harry Potter Movie Series ",
-      "description": "You may place the Quidditch Field within a replica of Hogwarts School of Witchcraft and Wizardry that cannot be interacted with beyond the quidditch match.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 5,
-      "cost": 100,
-      "name": "Curious ",
-      "source": "Hogwarts Legacy",
-      "description": "You have a thirst for knowledge. You are always able to find learning exciting and engaging, and when you are receiving instruction, your teachers will always have an instinctive knowledge for how to explain things simply enough to match your current level of knowledge.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 6,
-      "cost": 100,
-      "name": "Well-Read",
-      "source": "Hogwarts Legacy",
-      "description": "You have read a high number of books on a variety of magical topics, and you have an extremely keen memory to hold them all. Your memory in general is near-eidetic, and in connection to books and other writings, anything you read is perfectly stored and indexed in your mind.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 7,
-      "cost": 100,
-      "name": "Lumos",
-      "source": "Hogwarts Legacy",
-      "description": "You have a talent for the spell Lumos, which can allow you to keep your wand lit, even when casting other spells, as well as manifesting Lumos in different ways, such as floating orbs of light. Your light also has a minor repelling effect on ghosts and similar beings.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 8,
-      "cost": 100,
-      "name": "Revelio ",
-      "source": "Hogwarts Legacy",
-      "description": "You have a talent for the spell Revelio, causing your casting of the spell to have a wider array of colors with a wider array of meanings for things it can detect, such as a golden glow for wands or a brown glow for books. You can also hold onto the glows, allowing you to continue to see what was revealed for up to several minutes without needing to recast the spell.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 9,
-      "cost": 100,
-      "name": "Protego ",
-      "source": "Hogwarts Legacy",
-      "description": "You have a talent for the spell Protego, allowing you to ‘attune’ your shield to only be weak against certain types of spells, such as direct combat or binding spells, in turn making it almost impenetrable to all other types of force and magic.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 10,
-      "cost": 100,
-      "name": "Reparo",
-      "source": "Hogwarts Legacy",
-      "description": "You have a talent for the spell Reparo, allowing you to be far more flexible in how you repair things. You could unfade a painting, unburn a log of wood, or unmelt a block of ice, as long as what you are undoing can be generally conceived of as damage.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 11,
-      "cost": 100,
-      "name": "Course Books",
-      "source": "Hogwarts Legacy",
-      "description": "A set of books covering the basics for every class from first year through seventh. Individual teachers may assign additional texts, but even if you only had these books to study from, it would be enough for you to pass your OWLs and NEWTs.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 12,
-      "cost": 100,
-      "name": "Library Annex ",
-      "source": "Hogwarts Legacy",
-      "description": "A room filled with bookshelves. Initially, the shelves are filled with a random assortment of books copied from the Hogwarts library. Whenever you hold and at least skim through a book, a copy will appear on the shelves of this library for you.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 13,
-      "cost": 100,
-      "name": "No Snooping",
-      "source": "Hogwarts Legacy",
-      "description": "While not an outright immunity to legilimency or mind reading, this perk will ensure that no nosey old men or antique hats or what have you will find any of your meta-knowledge, proof of your extradimensional nature, knowledge of your outside context abilities, information about your real age, or anything else that would inherently prove that you don’t belong here.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 14,
-      "cost": 100,
-      "name": "Quidditch Prodigy ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "You’re a born expert on the broom, able to outfly professionals in a race with little practice and dominate in all flying sports with similar ease.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 15,
-      "cost": 100,
-      "name": "Disciple of Trelawney",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "You are incredibly skilled at cold reading and at making general predictions of things that may come true in a general time period. You're also a talented showman, able to cater to a general audience, and when push comes to shove you're pretty good at BSing your way out of a corner. Now if you want to be an actual seer, that's another Perk.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 16,
-      "cost": 100,
-      "name": "Study hard and you will be rewarded ",
-      "source": "Harry Potter Movie Series ",
-      "description": "The more you research and study the better you will be able to retain the information gained, and you also are better able to differentiate correct information from mistakes and misinformation.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 17,
-      "cost": 100,
-      "name": "1⁄3 of The Golden Trio",
-      "source": "Harry Potter Movie Series ",
-      "description": "You may select one of the members of the main cast of the Harry Potter franchise from Ron, Harry or Hermione.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 18,
-      "cost": 200,
-      "name": "Apparition ",
-      "source": "Wizarding World Jump",
-      "description": "Apparition is an advanced art of magic but one that is nonetheless very useful despite how difficult it might be. With it, a wizard can get to practically anywhere, instantly transporting themselves from one place to another. To learn it, one must come to master the three D’s. Destination, Determination, Deliberation! And you have done so indeed, becoming capable of Apparating with the utmost precision and at only a moment’s notice. Right now, so long as you have a clear image of where you’re going, and nothing is blocking you, you can Apparate anywhere within a few hundred miles or so. And you’ve mastered Apparition to such an extent that you won’t need to worry about making a mistake either. That is a very good thing given how... severe the consequences of a failed Apparition can be.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 19,
-      "cost": 200,
-      "name": "Power of Patronus",
-      "source": "Wizarding World Jump",
-      "description": "An ancient and mysterious spell, the Patronus Charm is an extraordinarily difficult piece of magic that summons forth a magical sentinel, a projection formed from your innermost hopes and positive emotions. It is a guardian angel that shall stand by your side guarding from the creatures and monsters of the Dark. And now, not only are you capable of conjuring a corporeal Patronus regardless of the horrors you face, a guardian that shall push back and repel all the creatures of the Dark, but because of your training, you have learned to hold onto hope in even the darkest of times. So long as hope burns bright within you, the fight shall rage on.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 20,
-      "cost": 200,
-      "name": "Rumor and Gossip ",
-      "source": "Hogwarts Legacy",
-      "description": "Rumors move fast, and they are particularly quick to reach your ears. You are always keyed into the grapevine wherever you might happen to be, quickly hearing tales of people in need, strange phenomena, buried treasures, and roaming beasts. Even if you rarely, if ever, talk to people, you somehow still know what rumors are flying around.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 21,
-      "cost": 200,
-      "name": "Lingering Clues ",
-      "source": "Hogwarts Legacy",
-      "description": "Time wears down all things, which can make research difficult when information has been lost to accident or disaster. But now, when you are searching for something, you will find that happenstance has led to the data managing to survive through the centuries. Carvings will still be detailed, paintings will not have faded, books will have survived without mildew or rot, even in damp basements or caves. Lost knowledge is far less lost when you are searching for it.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 22,
-      "cost": 200,
-      "name": "Combat",
-      "source": "Hogwarts Legacy",
-      "description": "You have a talent for combat spells, such as Expelliarmus, Bombarda, Diffindo, and Stupify. All such spells hit harder against your enemies, and, when you are focusing on a specific enemy, you will occasionally see glyphs flash briefly into existence over their head. These glyphs represent specific spells that would be particularly useful against your target (such as one for Expelliarmus when their grip on their wand slips a bit), and with practice, you can use these indicators to greatly improve your combat casting.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 23,
-      "cost": 200,
-      "name": "Impediment ",
-      "source": "Hogwarts Legacy",
-      "description": "You have a talent for magic that restricts movement, including Glacius, Arresto Momentum, and Petrificus Totalus. Any such magic you use tends to last for far longer, and will linger on those affected for some time after they break, continuing to slow their movements for a while. You are also resistant to such effects yourself.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 24,
-      "cost": 200,
-      "name": "Stealth",
-      "source": "Hogwarts Legacy",
-      "description": "You have a talent for both Disillusionment and Alohomora. Your Disillusionment spell has expanded to include muffling both sound and scent, and your Alohomora can handle even the toughest locks. You also have a general sense when someone is looking at you, or, when Disillusioned, when they would see you if you dropped your spell.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 25,
-      "cost": 200,
-      "name": "Quidditch Training Equipment",
-      "source": "Hogwarts Legacy",
-      "description": "Headmaster Black may be banning Quidditch this year, but that is no reason to slack off practicing. This wooden trunk contains equipment that can help with practicing for each position, as well as three dozen enchanted floating rings that can be set to expand and form racecourses around the area to help with practicing broom handling skills.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 26,
-      "cost": 200,
-      "name": "Seer ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "You’re a seer. Someone with the ability to foresee the future. While the ability can be trained to an extent, for the most part, it’s inborn. By itself, this Perk gives you a talent akin to Trelawny, where you will merely spout off a cryptic prophecy at important junctures that predict a possible future if properly deciphered, with the caveat that unlike her you’ll remember what you said, and maybe get an occasional coincidental or accidentally correct prediction,",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 27,
-      "cost": 200,
-      "name": "Great Teacher",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "Maybe you'd rather be a teacher than a student, or maybe you’d like to establish something akin to the DA a bit early. Either way, you’re remarkably talented when it comes to teaching what you know to other people in a way that will let them put it to practical use.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 28,
-      "cost": 200,
-      "name": "Swish and Flick",
-      "source": "Harry Potter Movie Series ",
-      "description": "You have perfect wrist control allowing you to wield your wand like a master, this allows you to cast spells with incredible precision and strengthens your hand eye coordination immensely.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 29,
-      "cost": 200,
-      "name": "Cushioning Charm ",
-      "source": "Harry Potter Movie Series ",
-      "description": "You have learned the art of comfort optimisation allowing you to implement the best options to make anything that you rest on as comfortable as possible.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 30,
-      "cost": 300,
-      "name": "Fire Magic",
-      "source": "Hogwarts Legacy",
-      "description": "You have a talent for magic involving flames, including Incendio and Confringo. You are able to direct flames you create precisely, preventing them from burning anything you don’t want them to, to the point where you could burn the webs off an Acromantula victim without so much as singeing the hair on their head. You also have a basic grasp of Fiendfyre, though you still have to focus to keep it under control.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 31,
-      "cost": 300,
-      "name": "Transfiguration",
-      "source": "Hogwarts Legacy",
-      "description": "You have a general mastery of Transfiguration, allowing you to conjure, vanish, and transform materials, with far less material / effort needed for permanent effects. You also have a firm grasp on the tricks of Human Transfiguration, allowing you to turn people into objects and back again, and you have gained an Animagus Transformation of your own, allowing you to transform into a mundane animal of your choice.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 32,
-      "cost": 400,
-      "name": "\nTop of the Class",
-      "source": "Hogwarts Legacy",
-      "description": "Even if you started Hogwarts late, you’ll soon sail past your classmates, because your learning speed is simply unreal. You are able to pick up in weeks what it would take others years to learn, and your learning isn’t simply static and rote. You are a wellspring of inspiration, capable of taking what you learn and building on it and synergizing to discover new applications of your own.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 33,
-      "cost": 400,
-      "name": "Enchanting Education",
-      "source": "Hogwarts Legacy",
-      "description": "It does little good to collect knowledge if you can’t share it. You are an exceptional teacher, capable of teaching your skills and knowledge at an accelerated rate without any loss in understanding. But you particularly shine as a teacher of magic. Put simply, any spellcasting abilities or related magical skills that you possess can be taught to absolutely anyone, so long as you are the one teaching them.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 34,
-      "cost": 400,
-      "name": "Hogwarts Castle ",
-      "source": "The Other Harry Potter Fanfic Jump",
-      "description": "A number of fanfics have Harry become or be revealed to be the Heir of all four founders and thus somehow the rightful owner of the school. During this Jump, you will always have reasonable access to the school grounds and its facilities and at least a token say on decisions made by the board of governors. Post Jump, you’ll receive a copy of the castle with all of its supplies and facilities as well as the grounds, with a suite of NPC house elves, portraits, and optionally teachers. You can use it as a school, as anyone you bring here to learn will gain the Magic perk and their own Wand and School Supplies Items, or you could repurpose it for some other use. Maybe a base? It comes with the full suite of Canon security at its greatest. This castle and its grounds can be imported into a suitable location in your current Jump or kept as a pocket dimension attached to your warehouse.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 35,
-      "cost": 400,
-      "name": "I’m rather gifted with memory charms",
-      "source": "Harry Potter Movie Series ",
-      "description": "You have an excellent memory and have memorised all of the mind relating spells and charms to such a degree that even if you were a muggle you could use this knowledge to replicate the effects of the spells without magic.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 36,
-      "cost": 400,
-      "name": "Ancient Runes that’s a fascinating subject ",
-      "source": "Harry Potter Movie Series ",
-      "description": "You are a master of magical runes beyond the scale of most wizards as you gain an understanding of the underlying logic of rune crafting. Through this understanding you can use any language to create runes by inserting your magic and will into each, though some languages are more powerful than others.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 37,
-      "cost": 600,
-      "name": "Book and Quill",
-      "source": "Slytherin Jump",
-      "description": "Within a small locked tower at Hogwarts lies a magical book and an equally magical quill. Together, these two artefacts are responsible for recording the births, names, and displays of magic of magical children within the United Kingdom. This urchase does not grant you those two artefacts, but it does grant you similar ones. You’ll receive a magical book that, when one writes their name and date of birth in the book with the magical quill, grants them magical power. No matter how many people have written their details down, there will always be space available for more people to write their name and date of birth down. A box of second-hand wands which are still in excellent shape is included with the purchase of this book and quill, there will always be a suitable wand present in the box for those who’ve just signed the book.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 38,
-      "cost": 600,
-      "name": "Dueling Skills",
-      "source": "Hogwarts Professor Jumpchain",
-      "description": "Skill in Magical Combat equal to Albus Percival Wulfric Brian Dumbledore. Needless to say you are very very good at using Magic to make sure someone has a really really bad day.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 39,
-      "cost": 600,
-      "name": "I've Always Wanted To Use That Spell",
-      "source": "Hogwarts Professor Jumpchain",
-      "description": "Ability to simultaneously conjure or animate an army of Stone (or Metal) suits of armor, sufficient to guard a Castle the size of Hogwarts from any non magical threat on their own.",
-      "chapter": "Hogwarts"
-    },
-    {
-      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
-      "__line": 40,
-      "cost": 200,
-      "name": "I Can Mend Bones In A Heartbeat, But Growing Them Back.",
-      "source": "Hogwarts Professor Jumpchain",
-      "description": "Probably one of the better skills to have in a school as violent as Hogwarts, you have the full medical knowledge of Madame Pomphrey allowing you to as said mend broken limbs with the flick of your wand and cure almost any other injuries and illnesses you may encounter.",
-      "chapter": "Hogwarts"
-    }
-  ],
-  "6": [
-    {
       "__source": "Celestial Spellbook by Gothicjedi666 - Knockturn Alley",
       "__line": 1,
       "cost": 0,
@@ -1935,6 +1573,368 @@
       "source": "Harry Potter - Magic Edition",
       "description": "You learn the foul art on how to make abominations or magic and nature, making things like Dementors or an army of Inferi are not out of your reach.",
       "chapter": "Knockturn Alley"
+    }
+  ],
+  "6": [
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 1,
+      "cost": 0,
+      "name": "Godric’s Guts ",
+      "source": "Harry Potter Movie Series ",
+      "description": "Though you may feel fear you will never allow that fear to control you as this Perk allows you to fight off any fear, even a supernatural fear that would normally paralyse or kill someone.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 2,
+      "cost": 0,
+      "name": "Occlumency",
+      "source": "Harry Potter Movie Series ",
+      "description": "Through this art you magically close your mind against mental intrusions. This can prevent Legilimens and telepaths from accessing your thoughts and feelings, or manipulating them.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 3,
+      "cost": 0,
+      "name": "Legilimency",
+      "source": "Harry Potter Movie Series ",
+      "description": "This art aids you in magically navigating through the many layers of a person's mind and correctly interpreting your finding This functions differently from mind-reading as the results tend to be more abstract and biassed to the person’s memories.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 4,
+      "cost": 0,
+      "name": "Hogwarts Field ",
+      "source": "Harry Potter Movie Series ",
+      "description": "You may place the Quidditch Field within a replica of Hogwarts School of Witchcraft and Wizardry that cannot be interacted with beyond the quidditch match.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 5,
+      "cost": 100,
+      "name": "Curious ",
+      "source": "Hogwarts Legacy",
+      "description": "You have a thirst for knowledge. You are always able to find learning exciting and engaging, and when you are receiving instruction, your teachers will always have an instinctive knowledge for how to explain things simply enough to match your current level of knowledge.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 6,
+      "cost": 100,
+      "name": "Well-Read",
+      "source": "Hogwarts Legacy",
+      "description": "You have read a high number of books on a variety of magical topics, and you have an extremely keen memory to hold them all. Your memory in general is near-eidetic, and in connection to books and other writings, anything you read is perfectly stored and indexed in your mind.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 7,
+      "cost": 100,
+      "name": "Lumos",
+      "source": "Hogwarts Legacy",
+      "description": "You have a talent for the spell Lumos, which can allow you to keep your wand lit, even when casting other spells, as well as manifesting Lumos in different ways, such as floating orbs of light. Your light also has a minor repelling effect on ghosts and similar beings.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 8,
+      "cost": 100,
+      "name": "Revelio ",
+      "source": "Hogwarts Legacy",
+      "description": "You have a talent for the spell Revelio, causing your casting of the spell to have a wider array of colors with a wider array of meanings for things it can detect, such as a golden glow for wands or a brown glow for books. You can also hold onto the glows, allowing you to continue to see what was revealed for up to several minutes without needing to recast the spell.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 9,
+      "cost": 100,
+      "name": "Protego ",
+      "source": "Hogwarts Legacy",
+      "description": "You have a talent for the spell Protego, allowing you to ‘attune’ your shield to only be weak against certain types of spells, such as direct combat or binding spells, in turn making it almost impenetrable to all other types of force and magic.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 10,
+      "cost": 100,
+      "name": "Reparo",
+      "source": "Hogwarts Legacy",
+      "description": "You have a talent for the spell Reparo, allowing you to be far more flexible in how you repair things. You could unfade a painting, unburn a log of wood, or unmelt a block of ice, as long as what you are undoing can be generally conceived of as damage.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 11,
+      "cost": 100,
+      "name": "Course Books",
+      "source": "Hogwarts Legacy",
+      "description": "A set of books covering the basics for every class from first year through seventh. Individual teachers may assign additional texts, but even if you only had these books to study from, it would be enough for you to pass your OWLs and NEWTs.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 12,
+      "cost": 100,
+      "name": "Library Annex ",
+      "source": "Hogwarts Legacy",
+      "description": "A room filled with bookshelves. Initially, the shelves are filled with a random assortment of books copied from the Hogwarts library. Whenever you hold and at least skim through a book, a copy will appear on the shelves of this library for you.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 13,
+      "cost": 100,
+      "name": "No Snooping",
+      "source": "Hogwarts Legacy",
+      "description": "While not an outright immunity to legilimency or mind reading, this perk will ensure that no nosey old men or antique hats or what have you will find any of your meta-knowledge, proof of your extradimensional nature, knowledge of your outside context abilities, information about your real age, or anything else that would inherently prove that you don’t belong here.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 14,
+      "cost": 100,
+      "name": "Quidditch Prodigy ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "You’re a born expert on the broom, able to outfly professionals in a race with little practice and dominate in all flying sports with similar ease.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 15,
+      "cost": 100,
+      "name": "Disciple of Trelawney",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "You are incredibly skilled at cold reading and at making general predictions of things that may come true in a general time period. You're also a talented showman, able to cater to a general audience, and when push comes to shove you're pretty good at BSing your way out of a corner. Now if you want to be an actual seer, that's another Perk.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 16,
+      "cost": 100,
+      "name": "Study hard and you will be rewarded ",
+      "source": "Harry Potter Movie Series ",
+      "description": "The more you research and study the better you will be able to retain the information gained, and you also are better able to differentiate correct information from mistakes and misinformation.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 17,
+      "cost": 100,
+      "name": "1⁄3 of The Golden Trio",
+      "source": "Harry Potter Movie Series ",
+      "description": "You may select one of the members of the main cast of the Harry Potter franchise from Ron, Harry or Hermione.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 18,
+      "cost": 200,
+      "name": "Apparition ",
+      "source": "Wizarding World Jump",
+      "description": "Apparition is an advanced art of magic but one that is nonetheless very useful despite how difficult it might be. With it, a wizard can get to practically anywhere, instantly transporting themselves from one place to another. To learn it, one must come to master the three D’s. Destination, Determination, Deliberation! And you have done so indeed, becoming capable of Apparating with the utmost precision and at only a moment’s notice. Right now, so long as you have a clear image of where you’re going, and nothing is blocking you, you can Apparate anywhere within a few hundred miles or so. And you’ve mastered Apparition to such an extent that you won’t need to worry about making a mistake either. That is a very good thing given how... severe the consequences of a failed Apparition can be.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 19,
+      "cost": 200,
+      "name": "Power of Patronus",
+      "source": "Wizarding World Jump",
+      "description": "An ancient and mysterious spell, the Patronus Charm is an extraordinarily difficult piece of magic that summons forth a magical sentinel, a projection formed from your innermost hopes and positive emotions. It is a guardian angel that shall stand by your side guarding from the creatures and monsters of the Dark. And now, not only are you capable of conjuring a corporeal Patronus regardless of the horrors you face, a guardian that shall push back and repel all the creatures of the Dark, but because of your training, you have learned to hold onto hope in even the darkest of times. So long as hope burns bright within you, the fight shall rage on.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 20,
+      "cost": 200,
+      "name": "Rumor and Gossip ",
+      "source": "Hogwarts Legacy",
+      "description": "Rumors move fast, and they are particularly quick to reach your ears. You are always keyed into the grapevine wherever you might happen to be, quickly hearing tales of people in need, strange phenomena, buried treasures, and roaming beasts. Even if you rarely, if ever, talk to people, you somehow still know what rumors are flying around.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 21,
+      "cost": 200,
+      "name": "Lingering Clues ",
+      "source": "Hogwarts Legacy",
+      "description": "Time wears down all things, which can make research difficult when information has been lost to accident or disaster. But now, when you are searching for something, you will find that happenstance has led to the data managing to survive through the centuries. Carvings will still be detailed, paintings will not have faded, books will have survived without mildew or rot, even in damp basements or caves. Lost knowledge is far less lost when you are searching for it.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 22,
+      "cost": 200,
+      "name": "Combat",
+      "source": "Hogwarts Legacy",
+      "description": "You have a talent for combat spells, such as Expelliarmus, Bombarda, Diffindo, and Stupify. All such spells hit harder against your enemies, and, when you are focusing on a specific enemy, you will occasionally see glyphs flash briefly into existence over their head. These glyphs represent specific spells that would be particularly useful against your target (such as one for Expelliarmus when their grip on their wand slips a bit), and with practice, you can use these indicators to greatly improve your combat casting.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 23,
+      "cost": 200,
+      "name": "Impediment ",
+      "source": "Hogwarts Legacy",
+      "description": "You have a talent for magic that restricts movement, including Glacius, Arresto Momentum, and Petrificus Totalus. Any such magic you use tends to last for far longer, and will linger on those affected for some time after they break, continuing to slow their movements for a while. You are also resistant to such effects yourself.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 24,
+      "cost": 200,
+      "name": "Stealth",
+      "source": "Hogwarts Legacy",
+      "description": "You have a talent for both Disillusionment and Alohomora. Your Disillusionment spell has expanded to include muffling both sound and scent, and your Alohomora can handle even the toughest locks. You also have a general sense when someone is looking at you, or, when Disillusioned, when they would see you if you dropped your spell.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 25,
+      "cost": 200,
+      "name": "Quidditch Training Equipment",
+      "source": "Hogwarts Legacy",
+      "description": "Headmaster Black may be banning Quidditch this year, but that is no reason to slack off practicing. This wooden trunk contains equipment that can help with practicing for each position, as well as three dozen enchanted floating rings that can be set to expand and form racecourses around the area to help with practicing broom handling skills.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 26,
+      "cost": 200,
+      "name": "Seer ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "You’re a seer. Someone with the ability to foresee the future. While the ability can be trained to an extent, for the most part, it’s inborn. By itself, this Perk gives you a talent akin to Trelawny, where you will merely spout off a cryptic prophecy at important junctures that predict a possible future if properly deciphered, with the caveat that unlike her you’ll remember what you said, and maybe get an occasional coincidental or accidentally correct prediction,",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 27,
+      "cost": 200,
+      "name": "Great Teacher",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "Maybe you'd rather be a teacher than a student, or maybe you’d like to establish something akin to the DA a bit early. Either way, you’re remarkably talented when it comes to teaching what you know to other people in a way that will let them put it to practical use.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 28,
+      "cost": 200,
+      "name": "Swish and Flick",
+      "source": "Harry Potter Movie Series ",
+      "description": "You have perfect wrist control allowing you to wield your wand like a master, this allows you to cast spells with incredible precision and strengthens your hand eye coordination immensely.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 29,
+      "cost": 200,
+      "name": "Cushioning Charm ",
+      "source": "Harry Potter Movie Series ",
+      "description": "You have learned the art of comfort optimisation allowing you to implement the best options to make anything that you rest on as comfortable as possible.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 30,
+      "cost": 300,
+      "name": "Fire Magic",
+      "source": "Hogwarts Legacy",
+      "description": "You have a talent for magic involving flames, including Incendio and Confringo. You are able to direct flames you create precisely, preventing them from burning anything you don’t want them to, to the point where you could burn the webs off an Acromantula victim without so much as singeing the hair on their head. You also have a basic grasp of Fiendfyre, though you still have to focus to keep it under control.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 31,
+      "cost": 300,
+      "name": "Transfiguration",
+      "source": "Hogwarts Legacy",
+      "description": "You have a general mastery of Transfiguration, allowing you to conjure, vanish, and transform materials, with far less material / effort needed for permanent effects. You also have a firm grasp on the tricks of Human Transfiguration, allowing you to turn people into objects and back again, and you have gained an Animagus Transformation of your own, allowing you to transform into a mundane animal of your choice.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 32,
+      "cost": 400,
+      "name": "\nTop of the Class",
+      "source": "Hogwarts Legacy",
+      "description": "Even if you started Hogwarts late, you’ll soon sail past your classmates, because your learning speed is simply unreal. You are able to pick up in weeks what it would take others years to learn, and your learning isn’t simply static and rote. You are a wellspring of inspiration, capable of taking what you learn and building on it and synergizing to discover new applications of your own.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 33,
+      "cost": 400,
+      "name": "Enchanting Education",
+      "source": "Hogwarts Legacy",
+      "description": "It does little good to collect knowledge if you can’t share it. You are an exceptional teacher, capable of teaching your skills and knowledge at an accelerated rate without any loss in understanding. But you particularly shine as a teacher of magic. Put simply, any spellcasting abilities or related magical skills that you possess can be taught to absolutely anyone, so long as you are the one teaching them.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 34,
+      "cost": 400,
+      "name": "Hogwarts Castle ",
+      "source": "The Other Harry Potter Fanfic Jump",
+      "description": "A number of fanfics have Harry become or be revealed to be the Heir of all four founders and thus somehow the rightful owner of the school. During this Jump, you will always have reasonable access to the school grounds and its facilities and at least a token say on decisions made by the board of governors. Post Jump, you’ll receive a copy of the castle with all of its supplies and facilities as well as the grounds, with a suite of NPC house elves, portraits, and optionally teachers. You can use it as a school, as anyone you bring here to learn will gain the Magic perk and their own Wand and School Supplies Items, or you could repurpose it for some other use. Maybe a base? It comes with the full suite of Canon security at its greatest. This castle and its grounds can be imported into a suitable location in your current Jump or kept as a pocket dimension attached to your warehouse.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 35,
+      "cost": 400,
+      "name": "I’m rather gifted with memory charms",
+      "source": "Harry Potter Movie Series ",
+      "description": "You have an excellent memory and have memorised all of the mind relating spells and charms to such a degree that even if you were a muggle you could use this knowledge to replicate the effects of the spells without magic.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 36,
+      "cost": 400,
+      "name": "Ancient Runes that’s a fascinating subject ",
+      "source": "Harry Potter Movie Series ",
+      "description": "You are a master of magical runes beyond the scale of most wizards as you gain an understanding of the underlying logic of rune crafting. Through this understanding you can use any language to create runes by inserting your magic and will into each, though some languages are more powerful than others.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 37,
+      "cost": 600,
+      "name": "Book and Quill",
+      "source": "Slytherin Jump",
+      "description": "Within a small locked tower at Hogwarts lies a magical book and an equally magical quill. Together, these two artefacts are responsible for recording the births, names, and displays of magic of magical children within the United Kingdom. This urchase does not grant you those two artefacts, but it does grant you similar ones. You’ll receive a magical book that, when one writes their name and date of birth in the book with the magical quill, grants them magical power. No matter how many people have written their details down, there will always be space available for more people to write their name and date of birth down. A box of second-hand wands which are still in excellent shape is included with the purchase of this book and quill, there will always be a suitable wand present in the box for those who’ve just signed the book.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 38,
+      "cost": 600,
+      "name": "Dueling Skills",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "Skill in Magical Combat equal to Albus Percival Wulfric Brian Dumbledore. Needless to say you are very very good at using Magic to make sure someone has a really really bad day.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 39,
+      "cost": 600,
+      "name": "I've Always Wanted To Use That Spell",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "Ability to simultaneously conjure or animate an army of Stone (or Metal) suits of armor, sufficient to guard a Castle the size of Hogwarts from any non magical threat on their own.",
+      "chapter": "Hogwarts"
+    },
+    {
+      "__source": "Celestial Spellbook by Gothicjedi666 - Hogwarts",
+      "__line": 40,
+      "cost": 200,
+      "name": "I Can Mend Bones In A Heartbeat, But Growing Them Back.",
+      "source": "Hogwarts Professor Jumpchain",
+      "description": "Probably one of the better skills to have in a school as violent as Hogwarts, you have the full medical knowledge of Madame Pomphrey allowing you to as said mend broken limbs with the flick of your wand and cure almost any other injuries and illnesses you may encounter.",
+      "chapter": "Hogwarts"
     }
   ],
   "7": [
