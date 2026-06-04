@@ -13,7 +13,7 @@
   "main": "index.js",
   "scripts": {
     "run": "node index.js",
-    "test": "node test/md-parser.test.js"
+    "test": "node test/md-parser.test.js && node test/index.test.js"
   },
   "keywords": [
     "celestial",

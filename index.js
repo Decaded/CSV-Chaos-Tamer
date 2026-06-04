@@ -110,17 +110,19 @@ async function parseCsv(filePath) {
 
 /**
  * Splits out special chapters from the database and removes them from the main data.
- * Writes each split chapter as a separate JSON file.
+ * Stores split chapter rows in global buckets so multiple folders cannot overwrite each other.
  * @param {Record<string, object[]>} database - The chapter-keyed database
- * @returns {Promise<void>}
+ * @param {Record<string, object[]>} splitBuckets - Output filename-keyed split rows
+ * @returns {void}
  */
-async function splitAndRemove(database) {
+function collectSplitRows(database, splitBuckets) {
 	const allRows = Object.values(database).flat();
 	for (const [chapterName, fileName] of Object.entries(SPLIT_CHAPTERS)) {
 		const filtered = allRows.filter(r => r.chapter?.toLowerCase() === chapterName.toLowerCase());
 		if (filtered.length) {
-			await fs.promises.writeFile(path.join(OUT_ROOT, `${fileName}.json`), JSON.stringify({ 1: filtered }, null, 2), 'utf8');
-			console.log(`✅ Split: ${filtered.length} rows from "${chapterName}"`);
+			splitBuckets[fileName] ||= [];
+			splitBuckets[fileName].push(...filtered);
+			console.log(`Queued split: ${filtered.length} rows from "${chapterName}"`);
 		}
 	}
 	for (const key in database) {
@@ -129,65 +131,116 @@ async function splitAndRemove(database) {
 }
 
 /**
+ * Writes all globally collected split chapter files.
+ * @param {Record<string, object[]>} splitBuckets - Output filename-keyed split rows
+ * @returns {Promise<void>}
+ */
+async function writeSplitFiles(splitBuckets) {
+	for (const [fileName, rows] of Object.entries(splitBuckets).sort(([a], [b]) => a.localeCompare(b))) {
+		await fs.promises.writeFile(path.join(OUT_ROOT, `${fileName}.json`), JSON.stringify({ 1: rows }, null, 2), 'utf8');
+		console.log(`✅ Split: ${rows.length} rows to "${fileName}.json"`);
+	}
+}
+
+/**
  * Main build function: parses all CSVs and MDs in SHEETS_ROOT, builds category JSON files, and splits special chapters.
  * @returns {Promise<void>}
  */
 async function buildDatabase() {
+	await fs.promises.mkdir(OUT_ROOT, { recursive: true });
+
 	let globalMaxCP = 0;
+	const splitBuckets = {};
 	const folders = fs
 		.readdirSync(SHEETS_ROOT, { withFileTypes: true })
 		.filter(d => d.isDirectory())
-		.map(d => d.name);
+		.map(d => d.name)
+		.sort((a, b) => a.localeCompare(b));
 
 	for (const folder of folders) {
 		const db = {};
-		const allFiles = fs.readdirSync(path.join(SHEETS_ROOT, folder));
+		const allFiles = fs.readdirSync(path.join(SHEETS_ROOT, folder)).sort((a, b) => a.localeCompare(b));
 		const csvFiles = allFiles.filter(f => f.endsWith('.csv'));
 		const mdFiles = allFiles.filter(f => f.endsWith('.md'));
 
 		let fileIndex = 1;
 
 		// Process CSV files
-		await Promise.all(
+		const csvResults = await Promise.all(
 			csvFiles.map(async file => {
 				try {
 					const { rows, maxCP } = await parseCsv(path.join(SHEETS_ROOT, folder, file));
-					if (!rows.length) return console.warn(`Skipping empty: ${folder}/${file}`);
-					db[fileIndex++] = rows;
-					if (maxCP > globalMaxCP) globalMaxCP = maxCP;
-					console.log(`${folder}/${file} → ${rows.length} rows, max CP: ${maxCP}`);
+					return { file, rows, maxCP };
 				} catch (e) {
 					console.error(`Error parsing ${file}:`, e);
+					return null;
 				}
 			}),
 		);
+
+		for (const result of csvResults) {
+			if (!result) continue;
+			const { file, rows, maxCP } = result;
+			if (!rows.length) {
+				console.warn(`Skipping empty: ${folder}/${file}`);
+				continue;
+			}
+			db[fileIndex++] = rows;
+			if (maxCP > globalMaxCP) globalMaxCP = maxCP;
+			console.log(`${folder}/${file} → ${rows.length} rows, max CP: ${maxCP}`);
+		}
 
 		// Process Markdown files
-		await Promise.all(
+		const mdResults = await Promise.all(
 			mdFiles.map(async file => {
 				try {
-					const { rows, source } = await parseMarkdown(path.join(SHEETS_ROOT, folder, file));
-					if (!rows.length) return console.warn(`Skipping empty: ${folder}/${file}`);
-
-					// Calculate max CP from markdown rows
-					const maxCP = Math.max(...rows.map(r => (typeof r.cost === 'number' ? r.cost : 0)));
-
-					db[fileIndex++] = rows;
-					if (maxCP > globalMaxCP) globalMaxCP = maxCP;
-					console.log(`${folder}/${file} → ${rows.length} rows, max CP: ${maxCP}`);
+					const { rows } = await parseMarkdown(path.join(SHEETS_ROOT, folder, file));
+					const sourceName = path.basename(file, '.md');
+					const rowsWithMetadata = rows.map((row, index) => ({
+						__source: sourceName,
+						__line: row.id ?? index + 1,
+						...row,
+					}));
+					const maxCP = rowsWithMetadata.length ? Math.max(...rowsWithMetadata.map(r => (typeof r.cost === 'number' ? r.cost : 0))) : 0;
+					return { file, rows: rowsWithMetadata, maxCP };
 				} catch (e) {
 					console.error(`Error parsing ${file}:`, e);
+					return null;
 				}
 			}),
 		);
+
+		for (const result of mdResults) {
+			if (!result) continue;
+			const { file, rows, maxCP } = result;
+			if (!rows.length) {
+				console.warn(`Skipping empty: ${folder}/${file}`);
+				continue;
+			}
+			db[fileIndex++] = rows;
+			if (maxCP > globalMaxCP) globalMaxCP = maxCP;
+			console.log(`${folder}/${file} → ${rows.length} rows, max CP: ${maxCP}`);
+		}
 
 		if (!Object.keys(db).length) continue;
 
-		await splitAndRemove(db);
+		collectSplitRows(db, splitBuckets);
 		await fs.promises.writeFile(path.join(OUT_ROOT, `${slugify(folder)}.json`), JSON.stringify(db, null, 2), 'utf8');
 		console.log(`Wrote "${folder}"`);
 	}
+	await writeSplitFiles(splitBuckets);
 	console.log(`Highest CP found: ${globalMaxCP}`);
 }
 
-buildDatabase().catch(console.error);
+if (require.main === module) {
+	buildDatabase().catch(console.error);
+}
+
+module.exports = {
+	buildDatabase,
+	collectSplitRows,
+	extractChapterFromFilename,
+	normalizeHeader,
+	parseCsv,
+	writeSplitFiles,
+};
