@@ -1,9 +1,9 @@
 # CSV Chaos Tamer
 
-A Node.js script that processes multiple differently formatted CSV files into clean, normalized JSON. It’s built specifically to prepare data for
+A Node.js script that processes differently formatted CSV and Markdown files into clean, normalized JSON. It’s built specifically to prepare data for
 [celestial.decaded.dev](https://celestial.decaded.dev), but it can work with any similar dataset structure.
 
-This parser handles inconsistent headers, missing fields, and various formatting quirks so the data is ready to be consumed by the main project without manual cleanup.
+This parser handles inconsistent CSV headers, Markdown formatting quirks, missing fields, and source-specific oddities so the data is ready to be consumed by the main project without manual cleanup.
 
 ---
 
@@ -14,33 +14,36 @@ are often messy:
 
 - Column names vary wildly between files.
 - Some datasets bury important metadata in filenames instead of proper columns.
+- Some source documents are easier to export as Markdown than DOCX, but still contain inconsistent entry formats.
 - Formatting can change mid-series due to different contributors.
 
-The CSV Chaos Tamer standardizes this chaos into a consistent JSON format that celestial can read without breaking. It’s not just a parser -- it’s the gatekeeper that ensures
-imported data actually makes sense.
+The CSV Chaos Tamer standardizes this chaos into a consistent JSON format that celestial can read without breaking.
 
 ---
 
 ## What it does
 
-- Handles multiple CSV formats without requiring a separate config for each.
+- Handles multiple CSV and Markdown formats without requiring a separate config for each.
 - Normalizes headers so variations like `Price`, `cost`, and `CPCost` are unified under `cost`.
-- Detects chapter information from either a column or the filename.
-- Splits out specific chapters into their own JSON files if configured.
+- Parses numbered Markdown entries with common cost/name layouts.
+- Detects chapter information from columns, filenames, Markdown category markers, and Markdown headings.
+- Splits out specific chapters into their own JSON files if configured, aggregating split rows across all input folders.
 - Cleans text by trimming whitespace, fixing newlines, and removing stray characters.
-- Can be easily extended to support new header mappings or split rules.
+- Adds source metadata to parsed rows for easier debugging.
+- Can be extended with new CSV header mappings, Markdown entry formats, or split rules.
 
 ---
 
 ## How to set it up
 
-1. Place CSV files into subfolders inside `sheets/`:
+1. Place CSV and/or Markdown files into subfolders inside `sheets/`:
 
 ```bash
 sheets/
 └── DatasetName/
     ├── file1.csv
-    └── file2.csv
+    ├── file2.csv
+    └── source.md
 ```
 
 2. Install dependencies:
@@ -52,10 +55,22 @@ npm install
 3. Run the parser:
 
 ```bash
-node index.js
+npm run run
 ```
 
 4. Collect your cleaned JSON from `data/`.
+
+You can also run the parser directly:
+
+```bash
+node index.js
+```
+
+Run the regression tests with:
+
+```bash
+npm test
+```
 
 ---
 
@@ -70,35 +85,43 @@ perkname: 'name',
 setting: 'source',
 ```
 
-If you need to split specific chapters into separate files, modify `SPLIT_CHAPTERS`:
+If you need to split specific chapters into separate files, modify `shared.splitChapters` in `config.js`:
 
 ```js
 'waifu catalogue': 'waifu',
 'lewd': 'companion_(lewd)',
 ```
 
+Markdown parsing rules live in `md-parser.js`. When a new Markdown export has a weird entry layout, add a small regression case in `test/md-parser.test.js` before changing the parser.
+
+To inspect Markdown parse quality without dumping a huge source file, run:
+
+```bash
+node scripts/md-diagnose.js "sheets/DatasetName/source.md"
+```
+
 ---
 
 ## Output format
 
-The script generates one JSON file per input folder, plus any additional split chapter files.
+The script generates one JSON file per input folder, plus any configured split chapter files. Split chapter files are collected globally, so rows from multiple folders are written together instead of overwriting each other.
 
 Example output:
 
 ```json
 {
-	"1": [
-		{
-			"id": 1,
-			"cost": 200,
-			"name": "Example Perk",
-			"source": "Example Jump",
-			"chapter": "Example Chapter",
-			"description": "Cleaned description here.",
-			"__source": "file1",
-			"__line": 2
-		}
-	]
+  "1": [
+    {
+      "__source": "file1",
+      "__line": 2,
+      "id": 1,
+      "cost": 200,
+      "name": "Example Perk",
+      "source": "Example Jump",
+      "chapter": "Example Chapter",
+      "description": "Cleaned description here."
+    }
+  ]
 }
 ```
 
@@ -107,7 +130,7 @@ Example output:
 ## Requirements
 
 - Node.js 16 or newer
-- CSV files encoded in UTF-8
+- CSV and Markdown files encoded in UTF-8
 
 ---
 
