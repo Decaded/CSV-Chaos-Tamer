@@ -545,6 +545,278 @@
   ],
   "3": [
     {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 1,
+      "cost": 100,
+      "name": "Of Oaths and Vows ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "In a world where oaths hold ironclad weight, you somehow stand exempt. Oaths, vows, and the bonds that demand loyalty and sacrifice simply don’t cling to you in the same way as they do for others. The life-long service of the Night’s Watch becomes voluntary, the Kingsguard’s oath of celibacy becomes a mere formality, and the restrictions of the Silent Sisters are waived as needed—all without consequence or any resentment from others. People around you naturally accept that you can step outside the bounds of duty, understanding, if not entirely rationalizing, that the typical rules simply don’t apply.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 2,
+      "cost": 100,
+      "name": "Sworn Shield ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You have a Sworn Shield, a true paragon of loyalty, discipline, and martial prowess, rivaling the most legendary warriors of Westeros.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 3,
+      "cost": 100,
+      "name": "A Proficient Warrior",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You are the equal of any knight in swordfighting, jousting and riding, as well as capable of caring for your armour and weapons without the aid of a squire. You have a weapon you are slightly more skilled in, than your average knight, whether that is a greatsword, a warhammer or something different.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 4,
+      "cost": 100,
+      "name": "Always Armoured",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "For whatever reason, it’s a fairly common practice in Westeros for nobles and important characters to fight without all their armour - rule of cool maybe? Nonetheless, now you can too! As long as you are wearing some kind of armour, you will be protected by the concept of armour to the same extent that what you are already wearing would protect you. Finally, you too can run around the battlefield without a helmet like all the other morons - and as a bonus, you won’t die doing so!",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 5,
+      "cost": 100,
+      "name": "Weapons and Armour",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Weapons and armour suitable for your station, profession and location. If you are a Stormslander knight, then you get heavy plate armour and your specialty weapon. If you are a diplomat from Dorne, you probably have leather armour and a poisoned dagger. This gear respawns in the warehouse a day after if lost or destroyed. This gear is generally about average for what your social position would expect.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 6,
+      "cost": 100,
+      "name": "Gold Cloak",
+      "source": "House of the Dragon Jumpchain",
+      "description": "This set consists of black armour and a gold cloak. Despite its more ceremonious appearance it is as tough as steel and can resist any glancing blow from the weapons here (aside from Valyrian steel and supernatural threats like Dragons). Any breakages will be repaired within two weeks. It has the special aura of a patrolling officer.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 7,
+      "cost": 100,
+      "name": "The Battlefield ",
+      "source": "Hedge Knight",
+      "description": "Due to it being the crossroads of Westeros, it is very common for the different kingdoms to have their battles in the Riverlands. Now it is easier for you to figure out where battles will take place and even figure out how to use the surroundings against enemies. Environmental kills will be much easier.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 8,
+      "cost": 100,
+      "name": "Giant Falcon",
+      "source": "A Song of Ice and Fire: The Epoch of Legends",
+      "description": "The Winged Knight, sometimes conflated with Ser Artys Arryn, was a legendary hero that was certainly a character. He received his title due to the massive falcon that he rode. This may have been some ancient dragon, but where’s the fun in that? You have a giant falcon at your beck and call, able to carry a grown man, and fly at tremendous speeds. Unlike normal birds, it’s bones are not hollow either, and can thus take a serious beating before it takes any real damage.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 9,
+      "cost": 100,
+      "name": "The Knight",
+      "source": "A Song of Ice and Fire: The Epoch of Legends",
+      "description": "You are now accompanied by the knight, an archetypical hero, even in this era before knights allegedly existed. They are the perfect embodiment of chivalry, willing to help those in need, and fight any evil or injustice. They can also tell good jokes, as all men are fools, and all men are knights, so far as women are concerned.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 10,
+      "cost": 200,
+      "name": "Through All the Seven Hells",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You embody an ideal of heroism that can stir even the most hardened of hearts. In you, people see the possibility of a brighter future and recognize the dreams told in the stories of great heroes long past. Those around you become far more likely to hold to their oaths, fight bravely, and resist the temptations of dishonor. In your presence, even those who have lost everything can finally have hope for the days to come and feel motivated to fight for that hope. You believe the dream that you inspire, and that belief lends you a unique resilience: as long as you keep fighting, you are always able to hold onto hope, always finding some chance at victory, no matter how grim the odds.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 11,
+      "cost": 200,
+      "name": "Mythical Weapon",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 12,
+      "cost": 200,
+      "name": "Master of Arms",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You are a skilled teacher, capable of imparting a mastery of five weapon types and a martial philosophy over the course of a few years.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 13,
+      "cost": 200,
+      "name": "Armour of the Laughing Tree",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Despite its name, the Armour of the Laughing Tree is not necessarily an armour. Instead, it is an upgrade you can apply to any piece of clothing or armour you wear. When activated, the wearer will be near-impossible to unmask or capture, whilst people’s memories seem to gloss over any attempts to connect the unmasked and masked forms.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 14,
+      "cost": 200,
+      "name": "Bold",
+      "source": "A Song of Ice and Fire Jumpchain",
+      "description": "You are brave without recklessness. You can keep your cool in even the most heated situations and you will not balk at a dangerous challenge.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 15,
+      "cost": 200,
+      "name": "Starforged Sword\r",
+      "source": "A Song of Ice and Fire Jumpchain",
+      "description": "A sword made out of the remnants of a fallen star. Milky white and intensely shiny. Around as sharp and light as Valyrian Steel. Gives a strong impression of chivalry and honour. You may also import any melee weapon you own to take on the appearance and strengths of the sword.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 16,
+      "cost": 200,
+      "name": "Poisonous",
+      "source": "Hedge Knight",
+      "description": "The weaponry you use can be instantly coated in deadly poisons. This is done by pouring the catalysts onto the blade. The effect will stay on the blade for twenty-four hours before fading. These poisons don’t harm you and you can switch them out for a cure without any ingredients.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 17,
+      "cost": 200,
+      "name": "Stormy Berserker",
+      "source": "Hedge Knight",
+      "description": "During a fight you can choose to enter a heightened state of reaction where your sense of pain lowers and you seem to have more energy. Once the adrenaline fades your injuries will catch up with you and you will have twenty four hours to get medical attention.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 18,
+      "cost": 200,
+      "name": "Squire ",
+      "source": "Hedge Knight",
+      "description": "A nine-year-old child has begged and pleaded to become your squire. Possibly a bastard noble orphan as seen in their reading skills, it is difficult to figure out what house they come from due to the broad brim hat that keeps their face in shadow and their shaved head. In time they will grow up and under your tutelage become a powerful fighter, basing their honour on you.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 19,
+      "cost": 200,
+      "name": "Warrior’s Son ",
+      "source": "Hedge Knight",
+      "description": "A mystery knight wearing a rainbow cloak, possibly a remnant from the Faith Militant. Either way they are an unofficial holy man and follow the Faith of the Seven in a way that does not go against you; figuring out an interpretation that fits the idea of many worlds. They seem to channel their faith which increases their damage and defense against magical enemies.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 20,
+      "cost": 200,
+      "name": "Commander",
+      "source": "Generic ASOIAF Fanfiction",
+      "description": "Learning to command is the job of a lifetime, it’s something nobles are trained in from the moment they can walk. Although very few ever achieve more than basic competency, to work autonomously from their liege and lead men into battle, you’ve reached a greater height. Whether from years of being a squire under a fantastic commander, learning all of their secrets, or a combination of a good library and a mind for the craft, you have become one of the greatest commanders of your realm, and recognised as such in the entire civilised world. Tactics, strategy, logistics, even propaganda and morale, you know it all, and can easily adapt your talents to other worlds and weapons as well.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 21,
+      "cost": 300,
+      "name": "Cold Hands",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "It is common for men to break when they come eye to eye with the Dark. You are made of far stronger stuff. Even tortured to the brink, isolated and abandoned, you will never forget your beliefs and purpose. If you are part of an organisation, that organisation will always recognize you as one of them, as long as you abide by their rules to the best of your ability. In addition, your adamantine will grants you immunity to possession or trickery based magics such as warging, mind control, glamours or shadow binding.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 22,
+      "cost": 300,
+      "name": "Unsullied Grit",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You have unbreakable will, easily equal to that of the Unsullied Legions from Astapor, able to stand through extreme pain and hardship. You are also capable of completely controlling yourself, no longer falling into a bloodthirsty rage in the case of a battle, only to then commit atrocities.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 23,
+      "cost": 300,
+      "name": "Qyburn's Scorpion",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "Repeating scorpion, range of several miles, hits what it’s aimed at in a straight line. You will not need to adjust for either distance, curvature of the earth, or weather.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 24,
+      "cost": 400,
+      "name": "What Do We Say to the God of Death?",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "Your years as a warrior and protector have given you a heightened awareness of threats, even those directed at others in your charge. You experience a sixth sense regarding impending danger, feeling subtle warnings when an ambush or betrayal is imminent. This extends to any threat against yourself, your allies, or those you are sworn to protect, whether in the heat of battle, the backrooms of court or poison in a chalice. You are also attuned to conspiracies, possessing an instinctive awareness of plots aimed at harming you or those close to you.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 25,
+      "cost": 400,
+      "name": "Fear Cuts Deeper Than Swords ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "Your unmatched willpower allows you to stay focused and disciplined no matter the circumstances. You do not stop fighting. Even drenched in your own blood, you press on until there is no life left behind your eyes. You will survive, you will push on, you will not yield, no matter the tribulations. You can stand and draw your sword against a tide of death without hesitation, and you will cling to survival with every ounce of your strength a dozen times over.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 26,
+      "cost": 400,
+      "name": "Armor of the Kingsguard ",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You possess a suit of exquisitely crafted white armor of the Kingsguard, perfectly fitted to you and aesthetically pleasing. This armor can take on any appearance you desire, should it be traditional Kingsguard regalia or something entirely different. Lightweight and comfortable, it won’t hinder your movement, yet it offers the protection of fully enclosing plate armor as long as it covers most of your body. This armor is virtually indestructible, even largely impervious to Valyrian steel or starmetal. Additionally, you may choose to have it enchanted with protective runes, similar to the ancient armor of House Royce. After each battle, the armor will magically repair and cleanse itself, requiring no upkeep on your part.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 27,
+      "cost": 400,
+      "name": "Genius Strategist",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You are now a strategist unparallelled on Planetos, rivalling the likes of Napoleon and Alexander the Great, with a strategic mind that can, with enough resources and determination, change the face of the world. You can now win a battle whilst greatly outnumbered if only you have the time to prepare.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 28,
+      "cost": 500,
+      "name": "Sword of the Morning",
+      "source": "Game Of Thrones - Version 1.201",
+      "description": "You are one of the greatest warriors to grace the face of Planetos in a generation. Your mind and body are in perfect sync with combat. You could easily analyse a battlefield to create an imaginary version of it in your Mind’s Eye to easily predict the movements of your opponent until they stop being a threat... or if they play dead. You could fight 10 men, perhaps even 20 by yourself, and come out without a scratch. Against truly skilled opponents on the level of Ned Stark in his prime, this number goes down to 4-7. This is quite straining to a baseline human, but it is possible to expand the limits of your predictions with training, unnatural modifications or perks from another Jump. You also gain a substantial increase in skill to dual wield your preferred weapon with the same level of mastery that you wield one.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 29,
+      "cost": 600,
+      "name": "Storied Hero",
+      "source": "ASOIAF - Small Council Jumpchain",
+      "description": "You are the epitome of knighthood, an unparalleled force on the battlefield and the paragon of the Kingsguard. You could match the swordsmanship of Ser Arthur Dayne, the leadership of Ser Duncan the Tall, the bravery of Ser Barristan the Bold, the beauty of Ser Jaime Lannister, and the nobility of Prince Aemon the Dragonknight. You easily stand as the greatest knight to ever live in every facet of the ideal. Your presence alone can sway the tide of battles, lifting allies’ spirits and striking despair into foes. Your skill with a blade is such that people would call you the Warrior reborn, allowing you to win a bout when outnumbered and surrounded on all sides. Your poise, gallantry, and skill set you apart, making you a living legend, an example for all the world to follow.",
+      "chapter": "The Knight"
+    },
+    {
+      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
+      "__line": 30,
+      "cost": 600,
+      "name": "Company",
+      "source": "Hedge Knight",
+      "description": "You have command over a hundred sellswords willing to follow your orders to the grave. These professional mercenaries are considered men at arms with average fighting skills but learn what you teach them incredibly quickly. The group regains any losses at one person a week and accepts any additions but they are followers and not companions.",
+      "chapter": "The Knight"
+    }
+  ],
+  "4": [
+    {
       "__source": "Celestial Song v2 by Gothicjedi666 - The Lord",
       "__line": 1,
       "cost": 0,
@@ -815,7 +1087,7 @@
       "chapter": "The Lord"
     }
   ],
-  "4": [
+  "5": [
     {
       "__source": "Celestial Song v2 by Gothicjedi666 - The Maester & Merchant",
       "__line": 1,
@@ -1087,7 +1359,7 @@
       "chapter": "The Maester & Merchant"
     }
   ],
-  "5": [
+  "6": [
     {
       "__source": "Celestial Song v2 by Gothicjedi666 - The Smallfolk",
       "__line": 1,
@@ -1348,278 +1620,6 @@
       "source": "A Song of Ice and Fire Jumpchain",
       "description": "A large, ornate and legendary hunting horn capable of massive destruction to even the largest of structures. Can only be used on a weekly basis but can bring practically any building (or Wall) tumbling down when blown.",
       "chapter": "The Smallfolk"
-    }
-  ],
-  "6": [
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 1,
-      "cost": 100,
-      "name": "Of Oaths and Vows ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "In a world where oaths hold ironclad weight, you somehow stand exempt. Oaths, vows, and the bonds that demand loyalty and sacrifice simply don’t cling to you in the same way as they do for others. The life-long service of the Night’s Watch becomes voluntary, the Kingsguard’s oath of celibacy becomes a mere formality, and the restrictions of the Silent Sisters are waived as needed—all without consequence or any resentment from others. People around you naturally accept that you can step outside the bounds of duty, understanding, if not entirely rationalizing, that the typical rules simply don’t apply.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 2,
-      "cost": 100,
-      "name": "Sworn Shield ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You have a Sworn Shield, a true paragon of loyalty, discipline, and martial prowess, rivaling the most legendary warriors of Westeros.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 3,
-      "cost": 100,
-      "name": "A Proficient Warrior",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You are the equal of any knight in swordfighting, jousting and riding, as well as capable of caring for your armour and weapons without the aid of a squire. You have a weapon you are slightly more skilled in, than your average knight, whether that is a greatsword, a warhammer or something different.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 4,
-      "cost": 100,
-      "name": "Always Armoured",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "For whatever reason, it’s a fairly common practice in Westeros for nobles and important characters to fight without all their armour - rule of cool maybe? Nonetheless, now you can too! As long as you are wearing some kind of armour, you will be protected by the concept of armour to the same extent that what you are already wearing would protect you. Finally, you too can run around the battlefield without a helmet like all the other morons - and as a bonus, you won’t die doing so!",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 5,
-      "cost": 100,
-      "name": "Weapons and Armour",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Weapons and armour suitable for your station, profession and location. If you are a Stormslander knight, then you get heavy plate armour and your specialty weapon. If you are a diplomat from Dorne, you probably have leather armour and a poisoned dagger. This gear respawns in the warehouse a day after if lost or destroyed. This gear is generally about average for what your social position would expect.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 6,
-      "cost": 100,
-      "name": "Gold Cloak",
-      "source": "House of the Dragon Jumpchain",
-      "description": "This set consists of black armour and a gold cloak. Despite its more ceremonious appearance it is as tough as steel and can resist any glancing blow from the weapons here (aside from Valyrian steel and supernatural threats like Dragons). Any breakages will be repaired within two weeks. It has the special aura of a patrolling officer.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 7,
-      "cost": 100,
-      "name": "The Battlefield ",
-      "source": "Hedge Knight",
-      "description": "Due to it being the crossroads of Westeros, it is very common for the different kingdoms to have their battles in the Riverlands. Now it is easier for you to figure out where battles will take place and even figure out how to use the surroundings against enemies. Environmental kills will be much easier.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 8,
-      "cost": 100,
-      "name": "Giant Falcon",
-      "source": "A Song of Ice and Fire: The Epoch of Legends",
-      "description": "The Winged Knight, sometimes conflated with Ser Artys Arryn, was a legendary hero that was certainly a character. He received his title due to the massive falcon that he rode. This may have been some ancient dragon, but where’s the fun in that? You have a giant falcon at your beck and call, able to carry a grown man, and fly at tremendous speeds. Unlike normal birds, it’s bones are not hollow either, and can thus take a serious beating before it takes any real damage.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 9,
-      "cost": 100,
-      "name": "The Knight",
-      "source": "A Song of Ice and Fire: The Epoch of Legends",
-      "description": "You are now accompanied by the knight, an archetypical hero, even in this era before knights allegedly existed. They are the perfect embodiment of chivalry, willing to help those in need, and fight any evil or injustice. They can also tell good jokes, as all men are fools, and all men are knights, so far as women are concerned.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 10,
-      "cost": 200,
-      "name": "Through All the Seven Hells",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You embody an ideal of heroism that can stir even the most hardened of hearts. In you, people see the possibility of a brighter future and recognize the dreams told in the stories of great heroes long past. Those around you become far more likely to hold to their oaths, fight bravely, and resist the temptations of dishonor. In your presence, even those who have lost everything can finally have hope for the days to come and feel motivated to fight for that hope. You believe the dream that you inspire, and that belief lends you a unique resilience: as long as you keep fighting, you are always able to hold onto hope, always finding some chance at victory, no matter how grim the odds.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 11,
-      "cost": 200,
-      "name": "Mythical Weapon",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 12,
-      "cost": 200,
-      "name": "Master of Arms",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You are a skilled teacher, capable of imparting a mastery of five weapon types and a martial philosophy over the course of a few years.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 13,
-      "cost": 200,
-      "name": "Armour of the Laughing Tree",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Despite its name, the Armour of the Laughing Tree is not necessarily an armour. Instead, it is an upgrade you can apply to any piece of clothing or armour you wear. When activated, the wearer will be near-impossible to unmask or capture, whilst people’s memories seem to gloss over any attempts to connect the unmasked and masked forms.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 14,
-      "cost": 200,
-      "name": "Bold",
-      "source": "A Song of Ice and Fire Jumpchain",
-      "description": "You are brave without recklessness. You can keep your cool in even the most heated situations and you will not balk at a dangerous challenge.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 15,
-      "cost": 200,
-      "name": "Starforged Sword\r",
-      "source": "A Song of Ice and Fire Jumpchain",
-      "description": "A sword made out of the remnants of a fallen star. Milky white and intensely shiny. Around as sharp and light as Valyrian Steel. Gives a strong impression of chivalry and honour. You may also import any melee weapon you own to take on the appearance and strengths of the sword.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 16,
-      "cost": 200,
-      "name": "Poisonous",
-      "source": "Hedge Knight",
-      "description": "The weaponry you use can be instantly coated in deadly poisons. This is done by pouring the catalysts onto the blade. The effect will stay on the blade for twenty-four hours before fading. These poisons don’t harm you and you can switch them out for a cure without any ingredients.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 17,
-      "cost": 200,
-      "name": "Stormy Berserker",
-      "source": "Hedge Knight",
-      "description": "During a fight you can choose to enter a heightened state of reaction where your sense of pain lowers and you seem to have more energy. Once the adrenaline fades your injuries will catch up with you and you will have twenty four hours to get medical attention.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 18,
-      "cost": 200,
-      "name": "Squire ",
-      "source": "Hedge Knight",
-      "description": "A nine-year-old child has begged and pleaded to become your squire. Possibly a bastard noble orphan as seen in their reading skills, it is difficult to figure out what house they come from due to the broad brim hat that keeps their face in shadow and their shaved head. In time they will grow up and under your tutelage become a powerful fighter, basing their honour on you.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 19,
-      "cost": 200,
-      "name": "Warrior’s Son ",
-      "source": "Hedge Knight",
-      "description": "A mystery knight wearing a rainbow cloak, possibly a remnant from the Faith Militant. Either way they are an unofficial holy man and follow the Faith of the Seven in a way that does not go against you; figuring out an interpretation that fits the idea of many worlds. They seem to channel their faith which increases their damage and defense against magical enemies.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 20,
-      "cost": 200,
-      "name": "Commander",
-      "source": "Generic ASOIAF Fanfiction",
-      "description": "Learning to command is the job of a lifetime, it’s something nobles are trained in from the moment they can walk. Although very few ever achieve more than basic competency, to work autonomously from their liege and lead men into battle, you’ve reached a greater height. Whether from years of being a squire under a fantastic commander, learning all of their secrets, or a combination of a good library and a mind for the craft, you have become one of the greatest commanders of your realm, and recognised as such in the entire civilised world. Tactics, strategy, logistics, even propaganda and morale, you know it all, and can easily adapt your talents to other worlds and weapons as well.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 21,
-      "cost": 300,
-      "name": "Cold Hands",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "It is common for men to break when they come eye to eye with the Dark. You are made of far stronger stuff. Even tortured to the brink, isolated and abandoned, you will never forget your beliefs and purpose. If you are part of an organisation, that organisation will always recognize you as one of them, as long as you abide by their rules to the best of your ability. In addition, your adamantine will grants you immunity to possession or trickery based magics such as warging, mind control, glamours or shadow binding.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 22,
-      "cost": 300,
-      "name": "Unsullied Grit",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You have unbreakable will, easily equal to that of the Unsullied Legions from Astapor, able to stand through extreme pain and hardship. You are also capable of completely controlling yourself, no longer falling into a bloodthirsty rage in the case of a battle, only to then commit atrocities.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 23,
-      "cost": 300,
-      "name": "Qyburn's Scorpion",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "Repeating scorpion, range of several miles, hits what it’s aimed at in a straight line. You will not need to adjust for either distance, curvature of the earth, or weather.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 24,
-      "cost": 400,
-      "name": "What Do We Say to the God of Death?",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "Your years as a warrior and protector have given you a heightened awareness of threats, even those directed at others in your charge. You experience a sixth sense regarding impending danger, feeling subtle warnings when an ambush or betrayal is imminent. This extends to any threat against yourself, your allies, or those you are sworn to protect, whether in the heat of battle, the backrooms of court or poison in a chalice. You are also attuned to conspiracies, possessing an instinctive awareness of plots aimed at harming you or those close to you.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 25,
-      "cost": 400,
-      "name": "Fear Cuts Deeper Than Swords ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "Your unmatched willpower allows you to stay focused and disciplined no matter the circumstances. You do not stop fighting. Even drenched in your own blood, you press on until there is no life left behind your eyes. You will survive, you will push on, you will not yield, no matter the tribulations. You can stand and draw your sword against a tide of death without hesitation, and you will cling to survival with every ounce of your strength a dozen times over.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 26,
-      "cost": 400,
-      "name": "Armor of the Kingsguard ",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You possess a suit of exquisitely crafted white armor of the Kingsguard, perfectly fitted to you and aesthetically pleasing. This armor can take on any appearance you desire, should it be traditional Kingsguard regalia or something entirely different. Lightweight and comfortable, it won’t hinder your movement, yet it offers the protection of fully enclosing plate armor as long as it covers most of your body. This armor is virtually indestructible, even largely impervious to Valyrian steel or starmetal. Additionally, you may choose to have it enchanted with protective runes, similar to the ancient armor of House Royce. After each battle, the armor will magically repair and cleanse itself, requiring no upkeep on your part.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 27,
-      "cost": 400,
-      "name": "Genius Strategist",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You are now a strategist unparallelled on Planetos, rivalling the likes of Napoleon and Alexander the Great, with a strategic mind that can, with enough resources and determination, change the face of the world. You can now win a battle whilst greatly outnumbered if only you have the time to prepare.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 28,
-      "cost": 500,
-      "name": "Sword of the Morning",
-      "source": "Game Of Thrones - Version 1.201",
-      "description": "You are one of the greatest warriors to grace the face of Planetos in a generation. Your mind and body are in perfect sync with combat. You could easily analyse a battlefield to create an imaginary version of it in your Mind’s Eye to easily predict the movements of your opponent until they stop being a threat... or if they play dead. You could fight 10 men, perhaps even 20 by yourself, and come out without a scratch. Against truly skilled opponents on the level of Ned Stark in his prime, this number goes down to 4-7. This is quite straining to a baseline human, but it is possible to expand the limits of your predictions with training, unnatural modifications or perks from another Jump. You also gain a substantial increase in skill to dual wield your preferred weapon with the same level of mastery that you wield one.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 29,
-      "cost": 600,
-      "name": "Storied Hero",
-      "source": "ASOIAF - Small Council Jumpchain",
-      "description": "You are the epitome of knighthood, an unparalleled force on the battlefield and the paragon of the Kingsguard. You could match the swordsmanship of Ser Arthur Dayne, the leadership of Ser Duncan the Tall, the bravery of Ser Barristan the Bold, the beauty of Ser Jaime Lannister, and the nobility of Prince Aemon the Dragonknight. You easily stand as the greatest knight to ever live in every facet of the ideal. Your presence alone can sway the tide of battles, lifting allies’ spirits and striking despair into foes. Your skill with a blade is such that people would call you the Warrior reborn, allowing you to win a bout when outnumbered and surrounded on all sides. Your poise, gallantry, and skill set you apart, making you a living legend, an example for all the world to follow.",
-      "chapter": "The Knight"
-    },
-    {
-      "__source": "Celestial Song v2 by Gothicjedi666 - The Knight",
-      "__line": 30,
-      "cost": 600,
-      "name": "Company",
-      "source": "Hedge Knight",
-      "description": "You have command over a hundred sellswords willing to follow your orders to the grave. These professional mercenaries are considered men at arms with average fighting skills but learn what you teach them incredibly quickly. The group regains any losses at one person a week and accepts any additions but they are followers and not companions.",
-      "chapter": "The Knight"
     }
   ]
 }

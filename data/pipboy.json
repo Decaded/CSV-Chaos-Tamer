@@ -1,550 +1,6 @@
 {
   "1": [
     {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 1,
-      "cost": 0,
-      "name": "Waste Compactor",
-      "source": "Fallout: Automatrons",
-      "description": "A rugged robot designed to help at waste disposal sights, it’s still active long after its creators have perished, and has grown beyond his programming. He’s curious, likes to collect any interesting junk he comes across, and has a love of watching romantic holotapes.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 2,
-      "cost": 0,
-      "name": "The Mechanist",
-      "source": "Fallout: Automatrons",
-      "description": "A girl with a talent for machinery and an earnest desire to help people, she was inspired by a comic she came across to don the mantle of The Mechanist, a superhero who saved others through his robotic creations. She’s very skilled when it comes to building and repairing robots, and could probably build a protectron with her eyes closed.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 3,
-      "cost": 0,
-      "name": "Edge Runner ",
-      "source": "Fallout: Automatrons",
-      "description": "A young man who underwent cybernetic enhancements, he made a life for himself as a mercenary. In addition to his skill with firearms and can greatly enhance his speed, his tolerance for cybernetics is insane, with very few of the downsides ever appearing. Though he doesn’t have a dream of his own, perhaps he could help you accomplish yours?",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 4,
-      "cost": 0,
-      "name": "Eyebot Duraframe Subject-E ",
-      "source": "Fallout: Automatrons",
-      "description": "An eyebot made by the Enclave in an experiment to make a more combat-focused model. Armed with a powerful energy weapon as well as a hacking module, he'll sound off a battle song and join you in your endeavors. And though he can't actually talk, the noises he makes are expressive enough that it doesn't really matter.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 5,
-      "cost": 0,
-      "name": "Giddyup Buttercup",
-      "source": "Fallout: Automatrons",
-      "description": "The ultimate culmination of equestrian robotics, and the best gift you could ever give to your young daughter. This robotic horse acts just like a real pony, one that’s been fully trained and docile towards any human child. They don’t have much of a use, otherwise, but at least it could act like a low-maintenance pet.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 6,
-      "cost": 0,
-      "name": "Mr. Handy",
-      "source": "Fallout Series (Imaged)",
-      "description": "Developed by General Atomics International before the Great War and refined in collaboration with RobCo Industries, the Mr. Handy model is the best household helper on the market. It can whip up delicious meals, clean your home, walk the dog, cut your hair, and defend the family from home invaders. It’ll even talk with a British accent to solidify the butler aesthetic. This one in particular recognizes you as its master. Comes with a spiffy bowler hat.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 7,
-      "cost": 0,
-      "name": "Patriotic Robot",
-      "source": "Fallout 3 - Updated ",
-      "description": "A customized Mister Gutsy model, created by General Atomics for mobile attacks prior to the Great War, and scavenged from parts by a wandering trader named Tinker Joe, you'll definitely feel safer with Sergeant RL-3 there backing you up in combat.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 8,
-      "cost": 100,
-      "name": "Steel Terrorizer",
-      "source": "Fallout: Automatrons",
-      "description": "The great advances of the Institute in the field of robotics and synthetic humans has culminated in this killing machine, a Courser of unparalleled skill. A wall of muscle and metal over six feet tall, this is a one-man army, with a mastery of weapons and murder that few could ever match. Though, it isn’t very good at mimicking emotions, and its Austrian accent makes it stand out even more.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 9,
-      "cost": 100,
-      "name": "Iron Assassin ",
-      "source": "Fallout: Automatrons",
-      "description": "A modified assaultron with a rust-red coat of paint, this misanthropic robot was programmed to be a deadly assassin. It’s a master of dozens of weapons, its movements are muffled, it houses an invisibility unit, and is always eager to go out and kill more meatbags. It must also obey all of your commands and cannot harm you, rules that it will inevitably complain about.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 10,
-      "cost": 100,
-      "name": "Sentry Bot",
-      "source": "Fallout Series (Imaged)",
-      "description": "Of all the robots found in the Wasteland, the Sentry Bot is one of the most feared. Armored in thick steel and equipped with a gatling laser and rocket launcher, you'd need a lot of firepower to bring it down, if you can even survive more than a few minutes with it firing at you. This one recognizes you as its master and will follow your orders to the letter. It certainly helps that this one has infinite ammo.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 11,
-      "cost": 100,
-      "name": "Interface ",
-      "source": "Fallout Series (Imaged)",
-      "description": "Terminals are machines. You are a machine. Ergo, there is some overlap between the two of you, enough for a connection to form. You are capable of interfacing and interacting directly with any technology you run into, needing only a touch before you can start bending cyberspace to your whims.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 12,
-      "cost": 100,
-      "name": "Eyebot",
-      "source": "Fallout: Automatrons",
-      "description": "A hovering ball that looks more like a radio than a robot, many think that the eyebots are only good for target practice. While they may not be the most durable or devastating bots around, they're still faster and more maneuverable than most, and can play some snazzy tunes whenever you like.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 13,
-      "cost": 100,
-      "name": "Protectron",
-      "source": "Fallout: Automatrons",
-      "description": "The sturdy protectron model of robot was created before the Great War, and served as a security automaton in both the private and business sectors. Though many may make fun of them for their slow speed and low maneuverability, many forget that there's a reason a protectron could be found in nearly every place of business.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 14,
-      "cost": 100,
-      "name": "Mr Handy",
-      "source": "Fallout: Automatrons",
-      "description": "Designed in a joint venture between General Atomics and RobCo, these metallic butlers were as widespread as they were loyal to their owners. They also come equipped with a buzzsaw, flamer, and a pincer on its arms.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 15,
-      "cost": 100,
-      "name": "Securitron",
-      "source": "Fallout: Automatrons",
-      "description": "Created by RobCo Industries, these robots were created primarily to supplement police forces, though they can only be found in the Mojave area. They are surprisingly agile with their single wheel, and their screen is capable of displaying a wide array of images, from static images to pre-War commercials. Still, they are big and bulky, as well as boasting an impressive amount of firepower.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 16,
-      "cost": 100,
-      "name": "Assaultron ",
-      "source": "Fallout: Automatrons",
-      "description": "The Assaultron was constructed by RobCo Industries and sold to the United States military as a frontline wartime combatant as early as 2072, and did very well, as it is fast and deadly at close range and employs a devastating laser at a distance, with some units even employing stealth technology. They are quick, nimble and customizable, with a variety of weaponry such as lasers and razor-sharp claws.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 17,
-      "cost": 100,
-      "name": "Sentry Bot",
-      "source": "Fallout: Automatrons",
-      "description": "One of the most dangerous robots found in the Wasteland, there's a reason why so many dread going against the sentry bot. They're big, durable, and have a hell of a lot of firepower to throw around. Unfortunately, their large size makes it difficult to get into certain areas, or make use of stealth in general,",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 18,
-      "cost": 100,
-      "name": "Snip Snip ",
-      "source": "Fallout TV Show Jump",
-      "description": "Originally a General Atomics Mister Handy assigned to a clinic, this robot has since been reprogrammed to serve you however you see fit. It’s been programmed to work the clinic, and as such has knowledge of the most modern medical practices. Given the post-apocalyptic flavor of the world, some of these practices may not be what you’d expect to see in a certified hospital. The robot’s chassis is armed with a rotary saw for short range and a tranquilizer launcher for long range. If you are so inclined, the sedatives in the tranq darts can be replaced with bleach for a more deadly outcome.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 19,
-      "cost": 100,
-      "name": "General Repairs",
-      "source": "Fallout TV Show Jump",
-      "description": "In a world where manufacturing is a thing of the past and almost everything originates in scavenged goods, the ability to effect some repairs is a must. Fortunately you’ve tinkered a bit in your life, enough to know the basics. You know how to maintain basic machines and effect minor repairs on basic equipment.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 20,
-      "cost": 100,
-      "name": "Securitron Gal",
-      "source": "Fallout New Vegas JumpChain\n",
-      "description": "A Mark-II securitron with a lady’s face. She may be a robot on the outside but on the inside her neuro-computational matrix is an exact copy of the girl of your dreams. You can trust her with your secrets too, as she is perfectly loyal and impossible to hack, because a lady doesn't kiss and tell.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 21,
-      "cost": 100,
-      "name": "Yes Man",
-      "source": "Fallout New Vegas JumpChain",
-      "description": "A Mark-II securitron with a big happy face. Actually has very powerful logical circuits so can accurately predict the activities of major players if given enough data. Gives good advice but is insanely sycophantic so will enthusiastically go along with whatever you say.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 22,
-      "cost": 200,
-      "name": "Optimal Leader ",
-      "source": "Fallout: Automatrons",
-      "description": "Liberty Prime was the greatest feat of American robotics, one that many would have mimicked, should it have been completed before the bombs fell. This was the only functioning prototype, a forty foot tall red and blue titan of steel, with the personality core of a valiant and caring leader installed in order to better inspire troops on the field. Equipped with an energy cannon on one arm and an axe in the other, few threats are capable of taking him down.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 23,
-      "cost": 200,
-      "name": "Heroic AI ",
-      "source": "Fallout: Automatrons",
-      "description": "Created in secret by a great programmer from Annexed Canada, he was inspired by comics in order to create a hero that could inspire the world to be better. And so, he created this powerful AI, one with a metaphorical heart as big as the shackles limiting her capabilities, safeties that were never removed before the bombs fell and her creator died. She specializes in engineering and robotics, and all of her creations have a draconic theme in their design and names.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 24,
-      "cost": 200,
-      "name": "RobCo Schematics ",
-      "source": "Fallout: Automatrons",
-      "description": "It would be an understatement to say that RobCo was the leading pioneer in the field of robotics, with their creations lasting over two hundred years after the world was scoured by nuclear fire. Not only do these holotapes contain instructions on how to build all RobCo robots, but also updating holotapes detailing how to improve them with any technology you gain access to.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 25,
-      "cost": 200,
-      "name": "Vertibot ",
-      "source": "Fallout: Automatrons",
-      "description": "In the Wasteland, there are few methods of travel as useful and enviable as the Vertibird. But what would happen if you were to completely fill the inside with computer parts, leaving no room for a human crew? You get the Vertibot, an automated variation of the aircraft, complete with all the weaponry and air superiority you'd expect from such a thing.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 26,
-      "cost": 300,
-      "name": "X-42 Robo-Scorpion ",
-      "source": "Fallout Series (Imaged)",
-      "description": "From the forges of Big Mountain, there are few robots as dangerous as this metal monstrosity. Capable of squishing a brahmin with its pincers and firing off dangerous atomic lasers that cut through most armor like butter. The three-inch thick saturnite hull makes it highly resistant to all kinds of damage, and it can be controlled directly by you. It's even got a self-destruct setting, for when you don’t want your enemies fooling around with its remains or worse, reverse-engineering it. This one never seems to run out of power and cannot be hacked or subverted.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 27,
-      "cost": 400,
-      "name": "Robotics Expert",
-      "source": "Fallout Series (Imaged)",
-      "description": "Robots are so much easier to deal with than humans, much less complex. You have an instinctive understanding of robots, finding it easier to predict their movements or next actions. This also helps with building, repairing, or deactivating them, as you know just what they need to be in top form and beyond, or rendering them completely harmless. Hell, you could even build an entire Protectron blindfolded, that's how good you are.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 28,
-      "cost": 500,
-      "name": "Robot Workbench",
-      "source": "Fallout Series (Imaged)",
-      "description": "For those of you who wish to create your own army of automatons, then this is the best friend you'll ever have. This complex device is a matter transformation device, able to turn any raw materials you insert into the car-sized locker on the side into robots! And not only does it create robots, it can also improve them with a variety of upgrades. You can build and upgrade any common robots found in the American Wasteland, but the terminal that you use to manage all of this can also have schematics of robots from future worlds inserted, allowing you to create and upgrade them as well. Any robots created with this are of a higher quality than they otherwise would be.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 29,
-      "cost": 500,
-      "name": "Cyborg",
-      "source": "Fallout 3 - Updated ",
-      "description": "Where once you were a weak being of flesh, you have been remade, better than ever before. You are stronger, faster, and more durable than your fleshy brethren, and have a decreased rate of aging along with an immunity to poison. In addition to all of that, your organs have also been given a tune up, allowing them to be more efficient than before.",
-      "chapter": "Robots"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
-      "__line": 30,
-      "cost": 600,
-      "name": "General Atomics",
-      "source": "Fallout: Automatrons",
-      "description": "Many know of General Atomics, the company that brought you the iconic Mister Handy and Miss Nanny models of domestic robot servants, and now you seem to own one of their branches, or at the very least one of the factories. This facility is made for the express purpose of building robots, any kind that you desire. While it will net you a steady stream of revenue, that’s less important than the automatrons it pumps out in a steady stream, without any resources consumed. You can change what kind of robots are made by this company, if you’ve got the schematics, but it will change the rate of production. You can get one Mister Handy a day, but something on par with Liberty Prime would take a month.",
-      "chapter": "Robots"
-    }
-  ],
-  "2": [
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 1,
-      "cost": 0,
-      "name": "Star Paladin ",
-      "source": "Fallout 3 - Updated ",
-      "description": "One of the highest ranking members of the Eastern Brotherhood of Steel, Star Paladin Cross has been technologically enhanced so that she no longer needs to eat or sleep. She is, in fact, a cyborg. Beyond that, she is skilled with any laser weaponry, but prefers to use her super sledge to fight her enemies.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 2,
-      "cost": 100,
-      "name": "Laser Rifle",
-      "source": "Out of Context: Fallout Supplement",
-      "description": "This high-tech weapon emits a concentrated beam of coherent light to do considerable damage. It comes with 25 microfusion cells battery packs that power the weapon and restock after 24 hours.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 3,
-      "cost": 100,
-      "name": "Institute Rifle ",
-      "source": "Fallout: Automatrons",
-      "description": "A variant of the standard AER12 laser rifle, manufactured and used primarily by the forces of the Institute. It is more damaging, more energy efficient, and more easily modified than most other laser rifles. The beam is a nice blue, further separating it from the more widespread variants.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 4,
-      "cost": 100,
-      "name": "Laser Pistol",
-      "source": "Fallout Series (Imaged)",
-      "description": "Intended to replace the N99 pistol as the standard sidearm for military forces, the AEP7 laser pistol is a good choice to have at your sides. This energy weapon runs off of small energy cells in order to make a deadly light show where the finale is your enemies' death.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 5,
-      "cost": 100,
-      "name": "Daddy’s Little Scientist",
-      "source": "Fallout Series (Imaged)",
-      "description": "A laboratory or workshop can be a dangerous place, especially when all the equipment is either salvaged or made from scrap. No labels either. This isn't exactly a problem for you, as you seem to know your way around even the most hazardous and haphazard labs or workshops, able to use all the crappy equipment safely as though you've been using them since you were old enough to walk.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 6,
-      "cost": 100,
-      "name": "Boot Camp",
-      "source": "Fallout TV Show Jump",
-      "description": "Unlike the vast majority of people on the surface, the Brotherhood of Steel puts its trainees through actual legitimate military training. While the effectiveness of this training may be questionable in some fields, it does make them one of the few organizations with physical fitness as an attribute. You’ve had to run miles, lift weights, and perform exercises, but the results show. You have the muscle mass and fitness to show for it, putting you at the peak of what might be considered ‘standard human.’",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 7,
-      "cost": 100,
-      "name": "Initiate Training",
-      "source": "Fallout TV Show Jump",
-      "description": "Your training began when you were young, and focussed upon the singular purpose of aiding a Brotherhood Knight in the field. You learned basic combat skills necessary, of course, but more than that you learned to identify technology, to repair your Knight’s equipment, and to tote it all around like a glorified pack mule. Were the Brotherhood looking to assign squires, you’d make the top of the list.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 8,
-      "cost": 100,
-      "name": "Humvee",
-      "source": "Fallout Tactics: Brotherhood of Steel Jump",
-      "description": "A staple of Brotherhood forces, the Hummer is a light, four-wheel drive vehicle that seats six and runs on a small nuclear engine. Unarmed but you can always change that yourself.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 9,
-      "cost": 200,
-      "name": "Power Armor Frame ",
-      "source": "Out of Context: Fallout Supplement",
-      "description": "The West Tek internalized servo system is the standard chassis for all power armor series. This suit is powered by and comes with a standard fusion core interface that restocks after 24 hours. Any combination of power armor parts can be equipped on a power armor frame and any power armor segments attached to the frame are considered weightless.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 10,
-      "cost": 200,
-      "name": "Power Armor",
-      "source": "Fallout Series (Imaged)",
-      "description": "Unveiled to the world in 2067, power armor of any make and model represents the pinnacle of personal defensive technology, combining excellent protection from small arms with the ability to carry heavy weapons into combat with ease, turning anyone into a person-sized tank. While they could normally last hundreds of years without recharging, you might as well never need to worry about it. This set can be of any model you desire. The classic T-45, the iconic T-51, the advanced T-60, or the rare X-01.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 11,
-      "cost": 200,
-      "name": "Hacker ",
-      "source": "Fallout Series (Imaged)",
-      "description": "Computers are wonderful things, are they not? It runs off of strict rules and consists entirely of ones and zeroes, allowing those clever enough to take advantage of its many uses and flaws. You are naturally skilled in coding and hacking, able to crack through most codes, as well as programming with fewer bugs or exploits than there should be.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 12,
-      "cost": 200,
-      "name": "Chemist ",
-      "source": "Fallout Series (Imaged)",
-      "description": "The art of chemistry is as complicated as it is valuable, as it takes a knowledgeable mind indeed to create all sorts and varieties of drugs with little more than simple household products. Yes, you are skilled in making all kinds of drugs, both beneficial and recreational, but those created by yours truly shall be twice as potent as before and the drawbacks normally accompanied by such things will be lessened.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 13,
-      "cost": 200,
-      "name": "T-60 Power Armor",
-      "source": "Fallout TV Show Jump",
-      "description": "The Armor of a Brotherhood of Steel Knight. Originally a Pre-War design, this Power Armor greatly enhances the strength of the wearer. This allows the wearer to make use of equipment otherwise too heavy to carry, or to take part in melee combat with far greater effectiveness than a standard human. The ‘armor’ aspect is nothing to sneer at either. This will protect you from many small arms, though there are some weaknesses. Though fortunately this set has been modified to no longer possess the flaw in the welding just below the chest plate. This armor is also capable of small feats of flight.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 14,
-      "cost": 200,
-      "name": "Power Armor Training",
-      "source": "Fallout TV Show Jump",
-      "description": "What defines the Brotherhood? Is it their mission? Their ideals? The sense of brotherhood that is their namesake? Arguably it is none of these, but their other namesake: Steel. Or in other words, Power Armor. You’ve been trained in the use of Power Armor to the level of the most elite of Brotherhood Knights, and know how to move in your Power Armor like its a second skin. In a fight, you know just how to cover your armor’s vulnerabilities. Your foes will find it difficult to catch you off guard.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 15,
-      "cost": 200,
-      "name": "Armored Personnel Carrier",
-      "source": "Fallout Tactics: Brotherhood of Steel Jump",
-      "description": "The armored personnel carrier is an original design from the Brotherhood of Steel and is a heavily armored personnel transport. Twin tracks carry the vehicle over most terrain and also provide for a very small turning circle. It is slow so once it's caught out in the open it's a bit of a sitting duck for heavy artillery. Seats 12 in the back and 3 in the front.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 16,
-      "cost": 400,
-      "name": "Tesla Rifle",
-      "source": "Fallout Series (Imaged)",
-      "description": "Quite the unique weapon, at least compared to everything else in the Wasteland. Cobbled together from a robot's arm-mounted weapon, the Tesla Rifle fires off deadly arcs of electricity that jump from enemy to enemy, injuring anyone caught in the chain. It can fry a man within a few seconds and leaves the nerves of anyone who survived fried and incapable of movement for a time.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 17,
-      "cost": 400,
-      "name": "Super Sledge",
-      "source": "Fallout Series (Imaged)",
-      "description": "This type of sledgehammer was created with the return of trench warfare, necessitating the creation of a tool superior to regular large hammers for engineering work and breaching concrete fortifications. It stores kinetic energy in order to increase the force of impact, making anyone hit by this baby have a very bad day. It's not unheard of to install small rockets to the back of the head in order to further increase its power.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 18,
-      "cost": 400,
-      "name": "Vertibird",
-      "source": "Fallout: Automatrons",
-      "description": "Not too many enemies will have the benefit of air superiority, so you've already got a massive advantage. The Vertibird is a VTOL vehicle that became the primary gunship and transport aircraft for the US military. It's got durable armor and can be outfitted with a number of weapons, though this one is equipped with gatling lasers. It has enough room inside to fit an entire squad wearing power armor and their pilot. Best part is, you'll never have to worry about refueling.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 19,
-      "cost": 400,
-      "name": "Gauss Rifle ",
-      "source": "Fallout Series (Imaged)",
-      "description": "Perhaps known as one of the greatest energy weapons in the Wasteland, there are few weapons as good as the gauss rifle. Utilizing an electromagnetic accelerator, it fires off 2mm slugs of steel at such extreme speeds that it is capable of piercing through even power armor at extreme ranges. This one has an effective range of a mile, with the scope needed to make full use of this reach.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 20,
-      "cost": 400,
-      "name": "Stealth Boy 3001",
-      "source": "Fallout Series (Imaged)",
-      "description": "Developed in response to the stealth suits the Chinese employ, the Stealth Boy is a special wrist-mounted device that generates a modulating field that transmits the reflected light from one side of an object to another, allowing for near invisibility. Though there aren't any side-effects for humans, prolonged use by Super Mutants tends to cause schizophrenia, though it is unknown why. Yours won't have that problem and will recharge in between uses.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 21,
-      "cost": 400,
-      "name": "Jingwei’s Shocksword",
-      "source": "Fallout Series (Imaged)",
-      "description": "This Chinese officer's sword was the personal weapon of General Jingwei, the military commander of the Chinese forces in Anchorage. By flicking a switch on the handle, the blade becomes enveloped by a field of electricity. Beyond the obvious use of electrocuting enemies, there is always the chance that you could vaporize your enemies, leaving only a pile of ash in your wake.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 22,
-      "cost": 400,
-      "name": "Cryolator",
-      "source": "Fallout Series (Imaged)",
-      "description": "The antithesis to the flamer, this very rare weapon is sure to cool off some hotheads. As it propels super-chilled nitrogen, it freezes your enemies solid and stops them in their tracks. Of course, if you don't want a constant spray, then there is an option to fire off ice pellets. Just as effective as actual bullets, and containing the same freezing effect, but requiring more precision in its use.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 23,
-      "cost": 400,
-      "name": "Meltdown",
-      "source": "Fallout Series (Imaged)",
-      "description": "Don't you just love the smell of lasers and plasma in the morning? What am I saying, of course you do, otherwise you wouldn't have purchased this. Not only will you deal more damage using energy weapons, but every time you kill a target using such weapons, they will explode in a corona of energy, damaging anyone and anything nearby.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 24,
-      "cost": 400,
-      "name": "Knight Support Squad",
-      "source": "Fallout TV Show Jump",
-      "description": "If the Wastes become too much for you, you may require backup. Fortunately you can call for backup from this portable radio. On making the call, a Vertibird will arrive at your location within thirty seconds to deploy two Knights in power armor plus their squires to support you for twenty four hours. The Knights wield massive machine guns with which they can lay down shocking amounts of covering fire, and the squires are in possession of pistols. If killed, the Knight’s power armor is rendered unusable, and regardless of survival the vertibird returns at the end of the twenty-four hour period to collect either survivors or bodies.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 25,
-      "cost": 400,
-      "name": "Vertibird Pilot",
-      "source": "Fallout TV Show Jump",
-      "description": "Their armor and military training may make the Brotherhood a threat to anyone in the wasteland, but it's their air power that truly sets them apart from even the best equipped of the wastelanders. And they won’t get anywhere without you. You’ve trained in the flight of various flying vehicles, but it is in the Vertibird that you excel. Your skill isn’t limited to pick ups and drop offs, either. In your hands, the vertibird finds itself put through its paces. Complex aerial maneuvers come naturally, as does formation flying. And if the enemy should have anti-air defenses, you know how to dodge, confuse, and avoid those weapons practically indefinitely.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 26,
-      "cost": 500,
-      "name": "Protonic Inversal Axe",
-      "source": "Fallout Series (Imaged)",
-      "description": "Though it resembles a futuristic war axe from a science fiction feature, this is possibly one of the best melee weapons you could get your hands on. Made from an ally known as saturnite, its frame and handle are stupidly durable, while the blade is made from electrical energy itself. Not only can it cut through steel with ease, but it is especially effective against robots, power armor, and various other forms of technology in general.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 27,
-      "cost": 500,
-      "name": "Power Armored",
-      "source": "Fallout Series (Imaged)",
-      "description": "There are few things that can make you feel invincible as being clad in power armor. And while walking around in a human-sized tank is great, it could be better. By purchasing this perk, any and all armor you wear is now five times as effective in protecting you and doesn't hinder your movement at all, allowing you to swim just fine even while wearing the humanoid equivalent of a small car. And while that would be well and good on its own, any armor you wear will now fully repair itself within the day. The more complex the armor and the more extensive the damage, the longer it will take to be repaired but it will be repaired all the same.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 28,
-      "cost": 500,
-      "name": "Sentinel",
-      "source": "Fallout TV Show Jump",
-      "description": "The rank of Sentinel is one rarely given to any within the Brotherhood of Steel, and those who hold it only do so after having proved themselves time and time again. A Sentinel has the authority to act on their own cognizance without orders, with Elders and those of similar rank able to only give standing, high-level orders. You only gain this level of trust by being among the most capable warriors in the Brotherhood’s ranks, and that is certainly the case for you now. In combat skill, you are to the Brotherhood Knight what they are to a random wastelander.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 29,
-      "cost": 600,
-      "name": "Medic Power Armor ",
-      "source": "Fallout Series (Imaged)",
-      "description": "Scavenged from a set of armor found in the Capital Wasteland as well as other advanced technology, this modified set of T-60 power armor is not only fully upgraded, but it possesses a life support system that would put all others to shame. It offers potent protection from radiation, it’s water tight and has a small supply of clean oxygen, and inner cooling. The most important part is that it will automatically inject the wearer with Stimpaks and Med-X when needed, ensuring that they are always at full combat readiness.",
-      "chapter": "Enclave"
-    },
-    {
-      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
-      "__line": 30,
-      "cost": 600,
-      "name": "Airship",
-      "source": "Fallout TV Show Jump",
-      "description": "40,000 tons of airship held aloft by armored hydrogen gasbags and a fusion reactor, the Prydwen is a marvel of Brotherhood engineering. She’s capable of fielding an entire Chapter with Vertibird support, and beyond practical uses she’s a symbol of the Brotherhood’s presence which is hard to miss. And you now possess a sister ship. While you may have to provide your own Knights and your own Vertibirds, you gain the airship and a crew capable of keeping her afloat indefinitely. This is a true sign of your value to the Brotherhood of Steel, otherwise they would not hand over such an asset. You can expect that they have some kind of mission in mind for you if they’ve dispatched you with this. If they didn’t dispatch you with it... expect trouble when the Brotherhood finds out they're not the only ones with a mobile air base.",
-      "chapter": "Enclave"
-    }
-  ],
-  "3": [
-    {
       "__source": "Celestial Pipboy by Gothicjedi666 - Aliens & Mutants",
       "__line": 1,
       "cost": 0,
@@ -905,7 +361,7 @@
       "chapter": "Aliens & Mutants"
     }
   ],
-  "4": [
+  "2": [
     {
       "__source": "Celestial Pipboy by Gothicjedi666 - Armoury ",
       "__line": 1,
@@ -1265,6 +721,550 @@
       "source": "Fallout 3 - Updated ",
       "description": "One of the most devastating weapons out there, this big gun can fire off miniature nukes at a target, ensuring that everything around them ends up as nuclear paste. You could even kill a Behemoth with one shot, if aimed at the face.",
       "chapter": "Armoury"
+    }
+  ],
+  "3": [
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 1,
+      "cost": 0,
+      "name": "Star Paladin ",
+      "source": "Fallout 3 - Updated ",
+      "description": "One of the highest ranking members of the Eastern Brotherhood of Steel, Star Paladin Cross has been technologically enhanced so that she no longer needs to eat or sleep. She is, in fact, a cyborg. Beyond that, she is skilled with any laser weaponry, but prefers to use her super sledge to fight her enemies.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 2,
+      "cost": 100,
+      "name": "Laser Rifle",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "This high-tech weapon emits a concentrated beam of coherent light to do considerable damage. It comes with 25 microfusion cells battery packs that power the weapon and restock after 24 hours.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 3,
+      "cost": 100,
+      "name": "Institute Rifle ",
+      "source": "Fallout: Automatrons",
+      "description": "A variant of the standard AER12 laser rifle, manufactured and used primarily by the forces of the Institute. It is more damaging, more energy efficient, and more easily modified than most other laser rifles. The beam is a nice blue, further separating it from the more widespread variants.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 4,
+      "cost": 100,
+      "name": "Laser Pistol",
+      "source": "Fallout Series (Imaged)",
+      "description": "Intended to replace the N99 pistol as the standard sidearm for military forces, the AEP7 laser pistol is a good choice to have at your sides. This energy weapon runs off of small energy cells in order to make a deadly light show where the finale is your enemies' death.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 5,
+      "cost": 100,
+      "name": "Daddy’s Little Scientist",
+      "source": "Fallout Series (Imaged)",
+      "description": "A laboratory or workshop can be a dangerous place, especially when all the equipment is either salvaged or made from scrap. No labels either. This isn't exactly a problem for you, as you seem to know your way around even the most hazardous and haphazard labs or workshops, able to use all the crappy equipment safely as though you've been using them since you were old enough to walk.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 6,
+      "cost": 100,
+      "name": "Boot Camp",
+      "source": "Fallout TV Show Jump",
+      "description": "Unlike the vast majority of people on the surface, the Brotherhood of Steel puts its trainees through actual legitimate military training. While the effectiveness of this training may be questionable in some fields, it does make them one of the few organizations with physical fitness as an attribute. You’ve had to run miles, lift weights, and perform exercises, but the results show. You have the muscle mass and fitness to show for it, putting you at the peak of what might be considered ‘standard human.’",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 7,
+      "cost": 100,
+      "name": "Initiate Training",
+      "source": "Fallout TV Show Jump",
+      "description": "Your training began when you were young, and focussed upon the singular purpose of aiding a Brotherhood Knight in the field. You learned basic combat skills necessary, of course, but more than that you learned to identify technology, to repair your Knight’s equipment, and to tote it all around like a glorified pack mule. Were the Brotherhood looking to assign squires, you’d make the top of the list.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 8,
+      "cost": 100,
+      "name": "Humvee",
+      "source": "Fallout Tactics: Brotherhood of Steel Jump",
+      "description": "A staple of Brotherhood forces, the Hummer is a light, four-wheel drive vehicle that seats six and runs on a small nuclear engine. Unarmed but you can always change that yourself.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 9,
+      "cost": 200,
+      "name": "Power Armor Frame ",
+      "source": "Out of Context: Fallout Supplement",
+      "description": "The West Tek internalized servo system is the standard chassis for all power armor series. This suit is powered by and comes with a standard fusion core interface that restocks after 24 hours. Any combination of power armor parts can be equipped on a power armor frame and any power armor segments attached to the frame are considered weightless.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 10,
+      "cost": 200,
+      "name": "Power Armor",
+      "source": "Fallout Series (Imaged)",
+      "description": "Unveiled to the world in 2067, power armor of any make and model represents the pinnacle of personal defensive technology, combining excellent protection from small arms with the ability to carry heavy weapons into combat with ease, turning anyone into a person-sized tank. While they could normally last hundreds of years without recharging, you might as well never need to worry about it. This set can be of any model you desire. The classic T-45, the iconic T-51, the advanced T-60, or the rare X-01.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 11,
+      "cost": 200,
+      "name": "Hacker ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Computers are wonderful things, are they not? It runs off of strict rules and consists entirely of ones and zeroes, allowing those clever enough to take advantage of its many uses and flaws. You are naturally skilled in coding and hacking, able to crack through most codes, as well as programming with fewer bugs or exploits than there should be.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 12,
+      "cost": 200,
+      "name": "Chemist ",
+      "source": "Fallout Series (Imaged)",
+      "description": "The art of chemistry is as complicated as it is valuable, as it takes a knowledgeable mind indeed to create all sorts and varieties of drugs with little more than simple household products. Yes, you are skilled in making all kinds of drugs, both beneficial and recreational, but those created by yours truly shall be twice as potent as before and the drawbacks normally accompanied by such things will be lessened.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 13,
+      "cost": 200,
+      "name": "T-60 Power Armor",
+      "source": "Fallout TV Show Jump",
+      "description": "The Armor of a Brotherhood of Steel Knight. Originally a Pre-War design, this Power Armor greatly enhances the strength of the wearer. This allows the wearer to make use of equipment otherwise too heavy to carry, or to take part in melee combat with far greater effectiveness than a standard human. The ‘armor’ aspect is nothing to sneer at either. This will protect you from many small arms, though there are some weaknesses. Though fortunately this set has been modified to no longer possess the flaw in the welding just below the chest plate. This armor is also capable of small feats of flight.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 14,
+      "cost": 200,
+      "name": "Power Armor Training",
+      "source": "Fallout TV Show Jump",
+      "description": "What defines the Brotherhood? Is it their mission? Their ideals? The sense of brotherhood that is their namesake? Arguably it is none of these, but their other namesake: Steel. Or in other words, Power Armor. You’ve been trained in the use of Power Armor to the level of the most elite of Brotherhood Knights, and know how to move in your Power Armor like its a second skin. In a fight, you know just how to cover your armor’s vulnerabilities. Your foes will find it difficult to catch you off guard.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 15,
+      "cost": 200,
+      "name": "Armored Personnel Carrier",
+      "source": "Fallout Tactics: Brotherhood of Steel Jump",
+      "description": "The armored personnel carrier is an original design from the Brotherhood of Steel and is a heavily armored personnel transport. Twin tracks carry the vehicle over most terrain and also provide for a very small turning circle. It is slow so once it's caught out in the open it's a bit of a sitting duck for heavy artillery. Seats 12 in the back and 3 in the front.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 16,
+      "cost": 400,
+      "name": "Tesla Rifle",
+      "source": "Fallout Series (Imaged)",
+      "description": "Quite the unique weapon, at least compared to everything else in the Wasteland. Cobbled together from a robot's arm-mounted weapon, the Tesla Rifle fires off deadly arcs of electricity that jump from enemy to enemy, injuring anyone caught in the chain. It can fry a man within a few seconds and leaves the nerves of anyone who survived fried and incapable of movement for a time.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 17,
+      "cost": 400,
+      "name": "Super Sledge",
+      "source": "Fallout Series (Imaged)",
+      "description": "This type of sledgehammer was created with the return of trench warfare, necessitating the creation of a tool superior to regular large hammers for engineering work and breaching concrete fortifications. It stores kinetic energy in order to increase the force of impact, making anyone hit by this baby have a very bad day. It's not unheard of to install small rockets to the back of the head in order to further increase its power.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 18,
+      "cost": 400,
+      "name": "Vertibird",
+      "source": "Fallout: Automatrons",
+      "description": "Not too many enemies will have the benefit of air superiority, so you've already got a massive advantage. The Vertibird is a VTOL vehicle that became the primary gunship and transport aircraft for the US military. It's got durable armor and can be outfitted with a number of weapons, though this one is equipped with gatling lasers. It has enough room inside to fit an entire squad wearing power armor and their pilot. Best part is, you'll never have to worry about refueling.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 19,
+      "cost": 400,
+      "name": "Gauss Rifle ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Perhaps known as one of the greatest energy weapons in the Wasteland, there are few weapons as good as the gauss rifle. Utilizing an electromagnetic accelerator, it fires off 2mm slugs of steel at such extreme speeds that it is capable of piercing through even power armor at extreme ranges. This one has an effective range of a mile, with the scope needed to make full use of this reach.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 20,
+      "cost": 400,
+      "name": "Stealth Boy 3001",
+      "source": "Fallout Series (Imaged)",
+      "description": "Developed in response to the stealth suits the Chinese employ, the Stealth Boy is a special wrist-mounted device that generates a modulating field that transmits the reflected light from one side of an object to another, allowing for near invisibility. Though there aren't any side-effects for humans, prolonged use by Super Mutants tends to cause schizophrenia, though it is unknown why. Yours won't have that problem and will recharge in between uses.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 21,
+      "cost": 400,
+      "name": "Jingwei’s Shocksword",
+      "source": "Fallout Series (Imaged)",
+      "description": "This Chinese officer's sword was the personal weapon of General Jingwei, the military commander of the Chinese forces in Anchorage. By flicking a switch on the handle, the blade becomes enveloped by a field of electricity. Beyond the obvious use of electrocuting enemies, there is always the chance that you could vaporize your enemies, leaving only a pile of ash in your wake.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 22,
+      "cost": 400,
+      "name": "Cryolator",
+      "source": "Fallout Series (Imaged)",
+      "description": "The antithesis to the flamer, this very rare weapon is sure to cool off some hotheads. As it propels super-chilled nitrogen, it freezes your enemies solid and stops them in their tracks. Of course, if you don't want a constant spray, then there is an option to fire off ice pellets. Just as effective as actual bullets, and containing the same freezing effect, but requiring more precision in its use.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 23,
+      "cost": 400,
+      "name": "Meltdown",
+      "source": "Fallout Series (Imaged)",
+      "description": "Don't you just love the smell of lasers and plasma in the morning? What am I saying, of course you do, otherwise you wouldn't have purchased this. Not only will you deal more damage using energy weapons, but every time you kill a target using such weapons, they will explode in a corona of energy, damaging anyone and anything nearby.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 24,
+      "cost": 400,
+      "name": "Knight Support Squad",
+      "source": "Fallout TV Show Jump",
+      "description": "If the Wastes become too much for you, you may require backup. Fortunately you can call for backup from this portable radio. On making the call, a Vertibird will arrive at your location within thirty seconds to deploy two Knights in power armor plus their squires to support you for twenty four hours. The Knights wield massive machine guns with which they can lay down shocking amounts of covering fire, and the squires are in possession of pistols. If killed, the Knight’s power armor is rendered unusable, and regardless of survival the vertibird returns at the end of the twenty-four hour period to collect either survivors or bodies.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 25,
+      "cost": 400,
+      "name": "Vertibird Pilot",
+      "source": "Fallout TV Show Jump",
+      "description": "Their armor and military training may make the Brotherhood a threat to anyone in the wasteland, but it's their air power that truly sets them apart from even the best equipped of the wastelanders. And they won’t get anywhere without you. You’ve trained in the flight of various flying vehicles, but it is in the Vertibird that you excel. Your skill isn’t limited to pick ups and drop offs, either. In your hands, the vertibird finds itself put through its paces. Complex aerial maneuvers come naturally, as does formation flying. And if the enemy should have anti-air defenses, you know how to dodge, confuse, and avoid those weapons practically indefinitely.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 26,
+      "cost": 500,
+      "name": "Protonic Inversal Axe",
+      "source": "Fallout Series (Imaged)",
+      "description": "Though it resembles a futuristic war axe from a science fiction feature, this is possibly one of the best melee weapons you could get your hands on. Made from an ally known as saturnite, its frame and handle are stupidly durable, while the blade is made from electrical energy itself. Not only can it cut through steel with ease, but it is especially effective against robots, power armor, and various other forms of technology in general.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 27,
+      "cost": 500,
+      "name": "Power Armored",
+      "source": "Fallout Series (Imaged)",
+      "description": "There are few things that can make you feel invincible as being clad in power armor. And while walking around in a human-sized tank is great, it could be better. By purchasing this perk, any and all armor you wear is now five times as effective in protecting you and doesn't hinder your movement at all, allowing you to swim just fine even while wearing the humanoid equivalent of a small car. And while that would be well and good on its own, any armor you wear will now fully repair itself within the day. The more complex the armor and the more extensive the damage, the longer it will take to be repaired but it will be repaired all the same.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 28,
+      "cost": 500,
+      "name": "Sentinel",
+      "source": "Fallout TV Show Jump",
+      "description": "The rank of Sentinel is one rarely given to any within the Brotherhood of Steel, and those who hold it only do so after having proved themselves time and time again. A Sentinel has the authority to act on their own cognizance without orders, with Elders and those of similar rank able to only give standing, high-level orders. You only gain this level of trust by being among the most capable warriors in the Brotherhood’s ranks, and that is certainly the case for you now. In combat skill, you are to the Brotherhood Knight what they are to a random wastelander.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 29,
+      "cost": 600,
+      "name": "Medic Power Armor ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Scavenged from a set of armor found in the Capital Wasteland as well as other advanced technology, this modified set of T-60 power armor is not only fully upgraded, but it possesses a life support system that would put all others to shame. It offers potent protection from radiation, it’s water tight and has a small supply of clean oxygen, and inner cooling. The most important part is that it will automatically inject the wearer with Stimpaks and Med-X when needed, ensuring that they are always at full combat readiness.",
+      "chapter": "Enclave"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Brotherhood_Enclave",
+      "__line": 30,
+      "cost": 600,
+      "name": "Airship",
+      "source": "Fallout TV Show Jump",
+      "description": "40,000 tons of airship held aloft by armored hydrogen gasbags and a fusion reactor, the Prydwen is a marvel of Brotherhood engineering. She’s capable of fielding an entire Chapter with Vertibird support, and beyond practical uses she’s a symbol of the Brotherhood’s presence which is hard to miss. And you now possess a sister ship. While you may have to provide your own Knights and your own Vertibirds, you gain the airship and a crew capable of keeping her afloat indefinitely. This is a true sign of your value to the Brotherhood of Steel, otherwise they would not hand over such an asset. You can expect that they have some kind of mission in mind for you if they’ve dispatched you with this. If they didn’t dispatch you with it... expect trouble when the Brotherhood finds out they're not the only ones with a mobile air base.",
+      "chapter": "Enclave"
+    }
+  ],
+  "4": [
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 1,
+      "cost": 0,
+      "name": "Waste Compactor",
+      "source": "Fallout: Automatrons",
+      "description": "A rugged robot designed to help at waste disposal sights, it’s still active long after its creators have perished, and has grown beyond his programming. He’s curious, likes to collect any interesting junk he comes across, and has a love of watching romantic holotapes.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 2,
+      "cost": 0,
+      "name": "The Mechanist",
+      "source": "Fallout: Automatrons",
+      "description": "A girl with a talent for machinery and an earnest desire to help people, she was inspired by a comic she came across to don the mantle of The Mechanist, a superhero who saved others through his robotic creations. She’s very skilled when it comes to building and repairing robots, and could probably build a protectron with her eyes closed.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 3,
+      "cost": 0,
+      "name": "Edge Runner ",
+      "source": "Fallout: Automatrons",
+      "description": "A young man who underwent cybernetic enhancements, he made a life for himself as a mercenary. In addition to his skill with firearms and can greatly enhance his speed, his tolerance for cybernetics is insane, with very few of the downsides ever appearing. Though he doesn’t have a dream of his own, perhaps he could help you accomplish yours?",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 4,
+      "cost": 0,
+      "name": "Eyebot Duraframe Subject-E ",
+      "source": "Fallout: Automatrons",
+      "description": "An eyebot made by the Enclave in an experiment to make a more combat-focused model. Armed with a powerful energy weapon as well as a hacking module, he'll sound off a battle song and join you in your endeavors. And though he can't actually talk, the noises he makes are expressive enough that it doesn't really matter.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 5,
+      "cost": 0,
+      "name": "Giddyup Buttercup",
+      "source": "Fallout: Automatrons",
+      "description": "The ultimate culmination of equestrian robotics, and the best gift you could ever give to your young daughter. This robotic horse acts just like a real pony, one that’s been fully trained and docile towards any human child. They don’t have much of a use, otherwise, but at least it could act like a low-maintenance pet.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 6,
+      "cost": 0,
+      "name": "Mr. Handy",
+      "source": "Fallout Series (Imaged)",
+      "description": "Developed by General Atomics International before the Great War and refined in collaboration with RobCo Industries, the Mr. Handy model is the best household helper on the market. It can whip up delicious meals, clean your home, walk the dog, cut your hair, and defend the family from home invaders. It’ll even talk with a British accent to solidify the butler aesthetic. This one in particular recognizes you as its master. Comes with a spiffy bowler hat.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 7,
+      "cost": 0,
+      "name": "Patriotic Robot",
+      "source": "Fallout 3 - Updated ",
+      "description": "A customized Mister Gutsy model, created by General Atomics for mobile attacks prior to the Great War, and scavenged from parts by a wandering trader named Tinker Joe, you'll definitely feel safer with Sergeant RL-3 there backing you up in combat.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 8,
+      "cost": 100,
+      "name": "Steel Terrorizer",
+      "source": "Fallout: Automatrons",
+      "description": "The great advances of the Institute in the field of robotics and synthetic humans has culminated in this killing machine, a Courser of unparalleled skill. A wall of muscle and metal over six feet tall, this is a one-man army, with a mastery of weapons and murder that few could ever match. Though, it isn’t very good at mimicking emotions, and its Austrian accent makes it stand out even more.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 9,
+      "cost": 100,
+      "name": "Iron Assassin ",
+      "source": "Fallout: Automatrons",
+      "description": "A modified assaultron with a rust-red coat of paint, this misanthropic robot was programmed to be a deadly assassin. It’s a master of dozens of weapons, its movements are muffled, it houses an invisibility unit, and is always eager to go out and kill more meatbags. It must also obey all of your commands and cannot harm you, rules that it will inevitably complain about.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 10,
+      "cost": 100,
+      "name": "Sentry Bot",
+      "source": "Fallout Series (Imaged)",
+      "description": "Of all the robots found in the Wasteland, the Sentry Bot is one of the most feared. Armored in thick steel and equipped with a gatling laser and rocket launcher, you'd need a lot of firepower to bring it down, if you can even survive more than a few minutes with it firing at you. This one recognizes you as its master and will follow your orders to the letter. It certainly helps that this one has infinite ammo.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 11,
+      "cost": 100,
+      "name": "Interface ",
+      "source": "Fallout Series (Imaged)",
+      "description": "Terminals are machines. You are a machine. Ergo, there is some overlap between the two of you, enough for a connection to form. You are capable of interfacing and interacting directly with any technology you run into, needing only a touch before you can start bending cyberspace to your whims.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 12,
+      "cost": 100,
+      "name": "Eyebot",
+      "source": "Fallout: Automatrons",
+      "description": "A hovering ball that looks more like a radio than a robot, many think that the eyebots are only good for target practice. While they may not be the most durable or devastating bots around, they're still faster and more maneuverable than most, and can play some snazzy tunes whenever you like.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 13,
+      "cost": 100,
+      "name": "Protectron",
+      "source": "Fallout: Automatrons",
+      "description": "The sturdy protectron model of robot was created before the Great War, and served as a security automaton in both the private and business sectors. Though many may make fun of them for their slow speed and low maneuverability, many forget that there's a reason a protectron could be found in nearly every place of business.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 14,
+      "cost": 100,
+      "name": "Mr Handy",
+      "source": "Fallout: Automatrons",
+      "description": "Designed in a joint venture between General Atomics and RobCo, these metallic butlers were as widespread as they were loyal to their owners. They also come equipped with a buzzsaw, flamer, and a pincer on its arms.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 15,
+      "cost": 100,
+      "name": "Securitron",
+      "source": "Fallout: Automatrons",
+      "description": "Created by RobCo Industries, these robots were created primarily to supplement police forces, though they can only be found in the Mojave area. They are surprisingly agile with their single wheel, and their screen is capable of displaying a wide array of images, from static images to pre-War commercials. Still, they are big and bulky, as well as boasting an impressive amount of firepower.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 16,
+      "cost": 100,
+      "name": "Assaultron ",
+      "source": "Fallout: Automatrons",
+      "description": "The Assaultron was constructed by RobCo Industries and sold to the United States military as a frontline wartime combatant as early as 2072, and did very well, as it is fast and deadly at close range and employs a devastating laser at a distance, with some units even employing stealth technology. They are quick, nimble and customizable, with a variety of weaponry such as lasers and razor-sharp claws.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 17,
+      "cost": 100,
+      "name": "Sentry Bot",
+      "source": "Fallout: Automatrons",
+      "description": "One of the most dangerous robots found in the Wasteland, there's a reason why so many dread going against the sentry bot. They're big, durable, and have a hell of a lot of firepower to throw around. Unfortunately, their large size makes it difficult to get into certain areas, or make use of stealth in general,",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 18,
+      "cost": 100,
+      "name": "Snip Snip ",
+      "source": "Fallout TV Show Jump",
+      "description": "Originally a General Atomics Mister Handy assigned to a clinic, this robot has since been reprogrammed to serve you however you see fit. It’s been programmed to work the clinic, and as such has knowledge of the most modern medical practices. Given the post-apocalyptic flavor of the world, some of these practices may not be what you’d expect to see in a certified hospital. The robot’s chassis is armed with a rotary saw for short range and a tranquilizer launcher for long range. If you are so inclined, the sedatives in the tranq darts can be replaced with bleach for a more deadly outcome.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 19,
+      "cost": 100,
+      "name": "General Repairs",
+      "source": "Fallout TV Show Jump",
+      "description": "In a world where manufacturing is a thing of the past and almost everything originates in scavenged goods, the ability to effect some repairs is a must. Fortunately you’ve tinkered a bit in your life, enough to know the basics. You know how to maintain basic machines and effect minor repairs on basic equipment.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 20,
+      "cost": 100,
+      "name": "Securitron Gal",
+      "source": "Fallout New Vegas JumpChain\n",
+      "description": "A Mark-II securitron with a lady’s face. She may be a robot on the outside but on the inside her neuro-computational matrix is an exact copy of the girl of your dreams. You can trust her with your secrets too, as she is perfectly loyal and impossible to hack, because a lady doesn't kiss and tell.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 21,
+      "cost": 100,
+      "name": "Yes Man",
+      "source": "Fallout New Vegas JumpChain",
+      "description": "A Mark-II securitron with a big happy face. Actually has very powerful logical circuits so can accurately predict the activities of major players if given enough data. Gives good advice but is insanely sycophantic so will enthusiastically go along with whatever you say.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 22,
+      "cost": 200,
+      "name": "Optimal Leader ",
+      "source": "Fallout: Automatrons",
+      "description": "Liberty Prime was the greatest feat of American robotics, one that many would have mimicked, should it have been completed before the bombs fell. This was the only functioning prototype, a forty foot tall red and blue titan of steel, with the personality core of a valiant and caring leader installed in order to better inspire troops on the field. Equipped with an energy cannon on one arm and an axe in the other, few threats are capable of taking him down.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 23,
+      "cost": 200,
+      "name": "Heroic AI ",
+      "source": "Fallout: Automatrons",
+      "description": "Created in secret by a great programmer from Annexed Canada, he was inspired by comics in order to create a hero that could inspire the world to be better. And so, he created this powerful AI, one with a metaphorical heart as big as the shackles limiting her capabilities, safeties that were never removed before the bombs fell and her creator died. She specializes in engineering and robotics, and all of her creations have a draconic theme in their design and names.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 24,
+      "cost": 200,
+      "name": "RobCo Schematics ",
+      "source": "Fallout: Automatrons",
+      "description": "It would be an understatement to say that RobCo was the leading pioneer in the field of robotics, with their creations lasting over two hundred years after the world was scoured by nuclear fire. Not only do these holotapes contain instructions on how to build all RobCo robots, but also updating holotapes detailing how to improve them with any technology you gain access to.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 25,
+      "cost": 200,
+      "name": "Vertibot ",
+      "source": "Fallout: Automatrons",
+      "description": "In the Wasteland, there are few methods of travel as useful and enviable as the Vertibird. But what would happen if you were to completely fill the inside with computer parts, leaving no room for a human crew? You get the Vertibot, an automated variation of the aircraft, complete with all the weaponry and air superiority you'd expect from such a thing.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 26,
+      "cost": 300,
+      "name": "X-42 Robo-Scorpion ",
+      "source": "Fallout Series (Imaged)",
+      "description": "From the forges of Big Mountain, there are few robots as dangerous as this metal monstrosity. Capable of squishing a brahmin with its pincers and firing off dangerous atomic lasers that cut through most armor like butter. The three-inch thick saturnite hull makes it highly resistant to all kinds of damage, and it can be controlled directly by you. It's even got a self-destruct setting, for when you don’t want your enemies fooling around with its remains or worse, reverse-engineering it. This one never seems to run out of power and cannot be hacked or subverted.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 27,
+      "cost": 400,
+      "name": "Robotics Expert",
+      "source": "Fallout Series (Imaged)",
+      "description": "Robots are so much easier to deal with than humans, much less complex. You have an instinctive understanding of robots, finding it easier to predict their movements or next actions. This also helps with building, repairing, or deactivating them, as you know just what they need to be in top form and beyond, or rendering them completely harmless. Hell, you could even build an entire Protectron blindfolded, that's how good you are.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 28,
+      "cost": 500,
+      "name": "Robot Workbench",
+      "source": "Fallout Series (Imaged)",
+      "description": "For those of you who wish to create your own army of automatons, then this is the best friend you'll ever have. This complex device is a matter transformation device, able to turn any raw materials you insert into the car-sized locker on the side into robots! And not only does it create robots, it can also improve them with a variety of upgrades. You can build and upgrade any common robots found in the American Wasteland, but the terminal that you use to manage all of this can also have schematics of robots from future worlds inserted, allowing you to create and upgrade them as well. Any robots created with this are of a higher quality than they otherwise would be.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 29,
+      "cost": 500,
+      "name": "Cyborg",
+      "source": "Fallout 3 - Updated ",
+      "description": "Where once you were a weak being of flesh, you have been remade, better than ever before. You are stronger, faster, and more durable than your fleshy brethren, and have a decreased rate of aging along with an immunity to poison. In addition to all of that, your organs have also been given a tune up, allowing them to be more efficient than before.",
+      "chapter": "Robots"
+    },
+    {
+      "__source": "Celestial Pipboy by Gothicjedi666 - Robots",
+      "__line": 30,
+      "cost": 600,
+      "name": "General Atomics",
+      "source": "Fallout: Automatrons",
+      "description": "Many know of General Atomics, the company that brought you the iconic Mister Handy and Miss Nanny models of domestic robot servants, and now you seem to own one of their branches, or at the very least one of the factories. This facility is made for the express purpose of building robots, any kind that you desire. While it will net you a steady stream of revenue, that’s less important than the automatrons it pumps out in a steady stream, without any resources consumed. You can change what kind of robots are made by this company, if you’ve got the schematics, but it will change the rate of production. You can get one Mister Handy a day, but something on par with Liberty Prime would take a month.",
+      "chapter": "Robots"
     }
   ],
   "5": [

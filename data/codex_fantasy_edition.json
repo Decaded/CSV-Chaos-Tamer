@@ -453,386 +453,6 @@
   ],
   "2": [
     {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 1,
-      "cost": 100,
-      "name": "Slavemaster’s Daughter",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "A particularly nasty kind of whip. Nine ropes are attached to a sturdy, comfortable-to-grip handle, and each rope has a heady, barbed lead weight attached to the end. The whip seems to almost come alive in your hands, it is so eager to punish and split open any who angers you. It’d never harm you, seemingly to have a sort of affection for you that you can feel when you hold it, and it unerringly seeks out the tenderest spots on those you strike with it. Any slave struck with this would be very unlikely indeed to risk another stroke.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 2,
-      "cost": 400,
-      "name": "Enhil’s Kanopi",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "The Kanopi is a small jar, holding the heart of a High Priest from long ago. A powerful tool for and against magic users, opening the jar will result in all magical energy in a small area being sucked into the jar. Though the storage space is not infinite, it can still hold enough to drain many high-level magicians of everything they have. It only affects magical energy in the air already, allowing it to destroy active spells and enchantments in an instant. It can also be utilised by magic users by drawing out the magic energy contained within, though such is an often risky process, as if the jar breaks, it will release all it stores in a great explosion.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 3,
-      "cost": 600,
-      "name": "Destroyer of Eternities",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "An immense black blade, ornately decorated with gold and almost as long as a man is tall. The Destroyer of Eternities is perhaps the most feared weapon ever to be created in Nehekhara, a weapon capable of destroying the very soul. The blade itself is impossibly sharp, able to slice through even the magically enchanted metal of a Necrosphinx with effortless ease, but what it slays, it destroys utterly. When the body of a being is killed by the blade, the soul of that being is destroyed along with it. Not scattered or torn to shreds, simply erased from existence, never to pass on to the afterlife. It’s no wonder a culture so obsessed with the great beyond would shiver at the thought of this black blade.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 4,
-      "cost": 200,
-      "name": "Cloak of the Dunes",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "A long brown cloak originally created by Khsar, the God of the Desert Winds. When worn, the user can transform themselves into a living sandstorm, whirling across the dunes at great speed. Not only is the sand storm violent enough to strip skin and muscle from bone in under a minute, a large trail of whirling sand at almost the same speed is left behind the wearer as he travels, allowing him to trap people in dangerous sandstorms. This form may be held for a few minutes at a time, needing a short rest in between uses before the cloak will allow the user to transform again.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 5,
-      "cost": 100,
-      "name": "Heraldry Armour",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "A gift from your master, a splendid set of armour fit for his right hand. Formed from the strongest and rarest metals in Nehekhara, the armour offers excellent protection across your entire body and looks quite good too. It has no magical enchantments on it, save for a minor one that allows it to slowly repair and clean itself when not worn.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 6,
-      "cost": 400,
-      "name": "Liche Staff",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "An ancient copper staff, twisted in on itself at both ends. It has been engraved with the names of all the Gods of the desert and grants a significant boost to the power of any magic cast while it is in hand. The Liche Staff’s real power however, is that it allows the user to avert catastrophic failures in their casting, making the caster aware of when their attempt is about to fail and bolstering their skill with its own to try and avert it if the caster does not decide to stop.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 7,
-      "cost": 200,
-      "name": "Scroll of the Cursing Word",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "Created as a way to deal with enemy spell casters without wasting the energy of the wizard himself, these scrolls were created to kill those who try to cast a spell in the users’ presence. When the incantation upon the scroll is read out, it will activate and attack any who are actively using magic within the surrounding area. Those who cast in this time will find their lungs filled with burning sand and their mouths filled with biting dung beetles. The scroll is used up by this and will replenish its use a day later.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 8,
-      "cost": 400,
-      "name": "Chariot of the Gods",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "An immense golden chariot with scythed wheels, drawn by four similarly large, skeletal horses. This chariot has been blessed by each God of the desert, granting it speed far beyond any other chariot, the ability to move smoothly on any terrain no matter how uneven or dangerous and the ability to light itself on fire with holy flames, flames that will only damage the enemies of the rightful driver, yourself. The Chariot and its mounts can batter their way through anything short of a warded tomb wall and each horse will act to strike out at any foe who comes too close. The chariot will never break and nothing short of an outright attack will make the horses trip or stumble.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 9,
-      "cost": 200,
-      "name": "Nehekharan Crown",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "A full headed crown created by the artisans of your family. Made for a king, it is quite obvious to all who see the wearer that the wearer is of most noble birth, though not all people will respect you just for that. Those who wear the crown however, may force their will upon those around them, gaining an ability to compel those who hear the wearer’s words to follow those words as absolute orders. Sadly, the effect on its own is rather weak and while it does increase with the user’s willpower, it would take a truly immense amount to turn it into a powerful form of domination.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 10,
-      "cost": 100,
-      "name": "Deathmask",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "For your burial, an ornate, full-face mask was created. Fitted perfectly to you and crafted with the most incredible skill, this mask looks like you if you were even more beautiful than you truly are. From porcelain, gold and other valuable materials, it was enchanted with magic to act and move as if it were your real face. A minor addition at the time, but a surprise boon in your current state, as it allows you to take on the appearance of being truly alive, even if under the mask, you are as bony as ever.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 11,
-      "cost": 400,
-      "name": "A Monument to Time Itself-",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "You built things to last. A monument to death that itself dies may have a certain appeal to more philosophical sorts but you wanted your monuments to last for eternity, so that everyone would look upon them and know the glories that your mind had wrought. What objects or structures you create, by your own hand or by your direction, will last forever. The passage of time and the environment around it will not degrade it or damage it or destroy it. Even blows against it, attempts to demolish what you have made, will see their blades break long before the stone you laid down does. Your creations are imbued with supernatural durability, though they will not last forever or be protected against anything, they will be proof against mere mortals trying to defile your art.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 12,
-      "cost": 200,
-      "name": "Rune Carving",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "Necrotects themselves are usually inexperienced in the ways of magic. It’s rarely their duty to cast spells or command rituals, yet they are often called upon to inscribe runes on a vast scale or otherwise prepare things for magical means. You’re very skilled at creating structures or items that can be channelled or used with magic, even whilst lacking it yourself. If you had a mage or wizard on hand, you’d even be able to work in tandem effortlessly, crafting items or structures suited to that person’s magic in particular, working even better for them than anyone else.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 13,
-      "cost": 200,
-      "name": "Master of Slaves",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "To construct the immense tombs and monoliths you were ordered to create, you needed the assistance of countless labourers and workers. You could not construct it on your own but you could direct many others to do it for you. You became a slave driver unlike any other. Not only can you motivate a force of thousands to work on your own, without a single rebellious action being taken against you by any less than a real heroic sort, you can also turn even uneducated slaves into an effective work force. They are unlikely to know what they are doing or how it should be done but under your watchful eye, they will not make mistakes and will work as if using your own two hands.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 14,
-      "cost": 100,
-      "name": "Heart’s Desire",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "All Necrotects are skilled architects and designers. They wouldn’t have the job if they weren’t and you’re no different. You’re gifted with any sort of architecture, trap making or monument designing. What makes you special is that you have a sense for what your customers really want. You can picture in your mind the exact ideal of the thing they’re hiring you to build and create it. Closer than any instructions could communicate to you, you understand their wish and you know what it should look like, though the construction of such a thing may yet be beyond your means. Still, if you can carry it out, they’ll love you for it, even if it differs from the instructions they said to you.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 15,
-      "cost": 100,
-      "name": "My Weight in Gold",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "There are so many like you, architects and artisans who aspired to have their skills chosen to create the tomb of some particularly notable King. With all the hotheads and big egos, it’s important to keep note of how good you really are and how much someone would pay for the use of someone with your skills. Gives you a better bargaining point if you know what people will start at. You’ve always got an accurate assessment of how good your own skills are in comparison to the majority of your peers in that skill area, as well as how much those skills are worth to any particular person.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 16,
-      "cost": 200,
-      "name": "The Eternal Soldier",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "When you were buried alongside your liege, your armour and sword were left on you. It would be needed for the moment you wake up, as you would be required to immediately look to protect your King from any possible dangers. For that sake, those weapons and armour were enchanted in a similar way to your own body, to prevent them from rusting and aging to dust. Your gear is all the same way, sharing in your magic to ensure that it will never age or become damaged from the passing of time. Swords never rust or lose their edge, armour does not gain weaker bonds over time and even food will not spoil when held in your bags.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 17,
-      "cost": 100,
-      "name": "Horse of the Sands",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "The Chariots of the Nehekharan army were once feared across the world. In the open fields or the rolling dunes, they were unmatched in speed and power and the cavalry of the other kingdoms could have no hope of ever matching them. Many times you commanded one of these vehicles, for war and for the entertainment of your lord as well. You’re a master of handling a chariot and a horse, able to fight just as well as if you were on solid ground, even if you are standing atop a galloping horse. You are even able to use your mount or vehicle itself to attack, expertly directing it to smash into opposing cavalry without taking damage yourself.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 18,
-      "cost": 100,
-      "name": "Don’t Kill The Messenger",
-      "source": "Warhammer Fantasy: Tomb Kings",
-      "description": "As excelling at lying as the priesthood was, there came times when one would have to directly answer the interrogations of the King. These were rarely pleasant and usually resulted in the death of whoever was sent as messenger. Only the very canniest of Priests, such as yourself, figured out ways to avoid the wroth of their rulers. When you are the messenger of bad news, you’ll find yourself never blamed or harmed for the act of delivering it. Even the most prone to anger lords won’t think to harm you and if you were actually a part of the cause of that bad news, you’ll find this the perfect opportunity to deflect attention onto another involved in the incident, even tangentially. Turn an attempt to get rid of you with the anger of your lord into a chance to rid yourself of one of your many rivals.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 19,
-      "cost": 600,
-      "name": "Nine Books of Nagash ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "Nagash was the first and greatest necromancer, and his infamous Nine Books recount his secret knowledge and the records of his experiments. Each is a heavily sought after source of necromantic knowledge, and you possess the full set, sure to provide a treasure trove of dark lore that any necromancer would salivate over.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 20,
-      "cost": 200,
-      "name": "Necromancer’s Tower",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "This tower is designed for experimentation. Its basement is filled with cells to hold prisoners or experimental subjects. It also has living quarters for servants (a few heavily mutated assistants come with this as followers if desired) and a library full of necromantic texts. The top of the tower has an observatory and a lightning rod, meant to aid in the study of the stars and harness lightning.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 21,
-      "cost": 100,
-      "name": "Necrotic Powder",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "This alchemically treated pouch contains necrotic powder, pure Dhar solidified into a powdered warpstone. The powder can eat through nearly anything: papers that need to be destroyed, locks or doors blocking the user’s way, minions who have outlived their usefulness, etc.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 22,
-      "cost": 100,
-      "name": "Lady Zmada’s Portrait ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "It is expected for a vampire to hide from the daylight. But apparently one member of the Zmada family had the clever idea to hide in plain sight. A vampire can walk into this empty portrait, appearing inside as a painted image until they emerge.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 23,
-      "cost": 400,
-      "name": "Blood Chalice",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "This magic chalice was used by the Order of the Blood Dragon in mockery of the Lady of the Lake and her own Grail. Walach Harkon added the blood of any opponent he respected, from knights and witch hunters to even his own lover Aurora. Dipping a weapon in the chalice will enchant it and set it aflame. Drinking from it instead heals wounds.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 24,
-      "cost": 200,
-      "name": "Survivalist ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "The Strigoi were forced into hiding in the wilderness after the fall of Strigos, and like them you are an expert at living and hiding in the deep wilds. You could survive for centuries, hunting animals and staying hidden until you were nothing but a legend.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 25,
-      "cost": 100,
-      "name": "Grudges",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "That’s what the Strigoi were left with when the Lahmians destroyed their city. Hate for the Lahmians themselves, their greenskin pawns, the Blood Dragons and Necrarchs that scorned them... hate that filled their dreams as they slept in the wilderness and plotted revenge. You share their capacity for hate, the ability to hold grudges that would do a Dwarf proud. So long as someone has wronged you, you find yourself empowered when working against them.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 26,
-      "cost": 200,
-      "name": "Madness Immunity",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "Vampires have a tendency to go mad over the centuries. Really, even the men of Mallus seem to have fragile minds that go mad at the drop of a hat. Maybe it’s all the Chaos leaking into the world through the polar gates? But the Necrarchs have it particularly bad, tending to go so paranoid that their bloodline cannot even work together, instead all huddling in their individual towers penning insane prophecies about the undead replacing humanity. But at least now you’re immune to insanity, whether the cause be external or internal.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 27,
-      "cost": 100,
-      "name": "Dark Teacher ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "There is only so much a single necromancer can achieve, yet the Necrarchs have always had a problem with rebellious apprentices. W’soran was betrayed and killed by his apprentice Melkhior, who was in turn attacked by his own rebellious apprentice Zacharius. You are not only a skilled teacher in the sense of being good at imparting knowledge, but you know how to instill loyalty in your students or failing that at least the wit to notice when they’re planning to turn on you.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 28,
-      "cost": 200,
-      "name": "Worthy Foe",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "When Walach Harkon challenged the Order of the Blood Dragon, he killed the cowardly and inept but granted the blood kiss to the brave warriors who put up a fight. Indeed, it is common for Blood Dragons to duel a prospective child-in-darkness to decide whether they are worthy of vampirism. You will find that your enemies adopt a similar attitude towards you, their minds filling with respect and dreams of how useful you might be so long as you give a good showing in your battles with them. They’ll still kill you if it isn’t safe to capture you or should you refuse the honor of joining them.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 29,
-      "cost": 100,
-      "name": "Wellspring of Dhar ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "Your soul is a natural pool of Dhar. All wizards near you who draw on dark magic, chaos magic, or necromancy have their spells empowered. You can toggle this effect on and off.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 30,
-      "cost": 100,
-      "name": "Wolf Form ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "You can transform back and forth from a Doom Wolf (one of the gigantic wolves native to Slyvania) at will, subsuming your clothing and equipment into the transformation.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 31,
-      "cost": 100,
-      "name": "Wings ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "You can grow wings on your back or between your arm and side, allowing you to fly at twice your running speed.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 32,
-      "cost": 100,
-      "name": "Transfixing Gaze ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "Your gaze can immobilize the weak willed who meet it, allowing you to keep them helpless while you kill them.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 33,
-      "cost": 100,
-      "name": "Swarm Form",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "Choose one of beetles, cockroaches, flies, or ravens. You can transform into a swarm of these creatures for a few minutes. As long as even one of your swarm survives, so do you. You won’t be able to turn back into a swarm again until the next sunset.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 34,
-      "cost": 100,
-      "name": "Summon Wolves",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "Once per day you can call any nearby wolves or dire wolves to do your bidding for the next few hours.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 35,
-      "cost": 100,
-      "name": "Regeneration",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "You regenerate wounds quickly and constantly, except ones inflicted by silver weapons.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 36,
-      "cost": 100,
-      "name": "Psychic Drain",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "You drain the will from any living creature nearby. Those without great willpower will find their ability to put effort into anything they do quickly eroding by being near you, needing hours to recover afterwords.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 37,
-      "cost": 100,
-      "name": "Ethereal Mist",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "Once per day, you can transform yourself and your clothing and equipment into mist. In this form, you are immune to any damage except spells. After several hours, you’ll be able to try to re-coalesce as an act of willpower, trying again ever few hours until you succeed.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 38,
-      "cost": 100,
-      "name": "Domination",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "You can control the mind of a nearby mortal, pitting your charisma against their willpower. Any danger, before or after the control, breaks the effect.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 39,
-      "cost": 100,
-      "name": "Deathsight ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "You can naturally see immaterial spirits and souls.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 40,
-      "cost": 100,
-      "name": "Dark Majesty ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "You can naturally control several dozens of lesser undead (ie not vampires, mummies, or liches) separate from whatever you might control with necromancy. The number scales with your willpower.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 41,
-      "cost": 100,
-      "name": "Call Forth Thunder",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "Once per day you can instantly create a storm severe enough to blot out the sun and allow you to walk in sunlight. The storm will last for hours.",
-      "chapter": "The Undead"
-    },
-    {
-      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
-      "__line": 42,
-      "cost": 100,
-      "name": "Bat Form ",
-      "source": "Warhammer Fantasy: Vampire Counts",
-      "description": "You can transform back and forth from a bat at will, subsuming your clothing and equipment into the transformation.",
-      "chapter": "The Undead"
-    }
-  ],
-  "3": [
-    {
       "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - Elves",
       "__line": 1,
       "cost": 100,
@@ -1283,7 +903,7 @@
       "chapter": "Elves"
     }
   ],
-  "4": [
+  "3": [
     {
       "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - Men",
       "__line": 1,
@@ -1735,7 +1355,7 @@
       "chapter": "Men"
     }
   ],
-  "5": [
+  "4": [
     {
       "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - Orcs, Goblins, Ogres, & Beastmen",
       "__line": 1,
@@ -2095,6 +1715,386 @@
       "source": "Warhammer Fantasy - Orcs and Goblins",
       "description": "Every Greenskin has a proper amount of killing skill instilled into them by their instincts but you have even greater amounts. Any melee weapon you pick up can be used with a blunt form of what could be kindly called ‘grace’ and unfamiliarity bleeds away with use. Ranged weapons may not become more accurate from this ability to ‘pick up’ skill but you’d be able to fire half a dozen arrows in the time it takes for most take to line up one shot. This ability allows you to skip the inital rote skill development via being an awesome Greenskin.",
       "chapter": "Orcs, Goblins, Ogres, & Beastmen"
+    }
+  ],
+  "5": [
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 1,
+      "cost": 100,
+      "name": "Slavemaster’s Daughter",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "A particularly nasty kind of whip. Nine ropes are attached to a sturdy, comfortable-to-grip handle, and each rope has a heady, barbed lead weight attached to the end. The whip seems to almost come alive in your hands, it is so eager to punish and split open any who angers you. It’d never harm you, seemingly to have a sort of affection for you that you can feel when you hold it, and it unerringly seeks out the tenderest spots on those you strike with it. Any slave struck with this would be very unlikely indeed to risk another stroke.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 2,
+      "cost": 400,
+      "name": "Enhil’s Kanopi",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "The Kanopi is a small jar, holding the heart of a High Priest from long ago. A powerful tool for and against magic users, opening the jar will result in all magical energy in a small area being sucked into the jar. Though the storage space is not infinite, it can still hold enough to drain many high-level magicians of everything they have. It only affects magical energy in the air already, allowing it to destroy active spells and enchantments in an instant. It can also be utilised by magic users by drawing out the magic energy contained within, though such is an often risky process, as if the jar breaks, it will release all it stores in a great explosion.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 3,
+      "cost": 600,
+      "name": "Destroyer of Eternities",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "An immense black blade, ornately decorated with gold and almost as long as a man is tall. The Destroyer of Eternities is perhaps the most feared weapon ever to be created in Nehekhara, a weapon capable of destroying the very soul. The blade itself is impossibly sharp, able to slice through even the magically enchanted metal of a Necrosphinx with effortless ease, but what it slays, it destroys utterly. When the body of a being is killed by the blade, the soul of that being is destroyed along with it. Not scattered or torn to shreds, simply erased from existence, never to pass on to the afterlife. It’s no wonder a culture so obsessed with the great beyond would shiver at the thought of this black blade.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 4,
+      "cost": 200,
+      "name": "Cloak of the Dunes",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "A long brown cloak originally created by Khsar, the God of the Desert Winds. When worn, the user can transform themselves into a living sandstorm, whirling across the dunes at great speed. Not only is the sand storm violent enough to strip skin and muscle from bone in under a minute, a large trail of whirling sand at almost the same speed is left behind the wearer as he travels, allowing him to trap people in dangerous sandstorms. This form may be held for a few minutes at a time, needing a short rest in between uses before the cloak will allow the user to transform again.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 5,
+      "cost": 100,
+      "name": "Heraldry Armour",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "A gift from your master, a splendid set of armour fit for his right hand. Formed from the strongest and rarest metals in Nehekhara, the armour offers excellent protection across your entire body and looks quite good too. It has no magical enchantments on it, save for a minor one that allows it to slowly repair and clean itself when not worn.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 6,
+      "cost": 400,
+      "name": "Liche Staff",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "An ancient copper staff, twisted in on itself at both ends. It has been engraved with the names of all the Gods of the desert and grants a significant boost to the power of any magic cast while it is in hand. The Liche Staff’s real power however, is that it allows the user to avert catastrophic failures in their casting, making the caster aware of when their attempt is about to fail and bolstering their skill with its own to try and avert it if the caster does not decide to stop.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 7,
+      "cost": 200,
+      "name": "Scroll of the Cursing Word",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "Created as a way to deal with enemy spell casters without wasting the energy of the wizard himself, these scrolls were created to kill those who try to cast a spell in the users’ presence. When the incantation upon the scroll is read out, it will activate and attack any who are actively using magic within the surrounding area. Those who cast in this time will find their lungs filled with burning sand and their mouths filled with biting dung beetles. The scroll is used up by this and will replenish its use a day later.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 8,
+      "cost": 400,
+      "name": "Chariot of the Gods",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "An immense golden chariot with scythed wheels, drawn by four similarly large, skeletal horses. This chariot has been blessed by each God of the desert, granting it speed far beyond any other chariot, the ability to move smoothly on any terrain no matter how uneven or dangerous and the ability to light itself on fire with holy flames, flames that will only damage the enemies of the rightful driver, yourself. The Chariot and its mounts can batter their way through anything short of a warded tomb wall and each horse will act to strike out at any foe who comes too close. The chariot will never break and nothing short of an outright attack will make the horses trip or stumble.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 9,
+      "cost": 200,
+      "name": "Nehekharan Crown",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "A full headed crown created by the artisans of your family. Made for a king, it is quite obvious to all who see the wearer that the wearer is of most noble birth, though not all people will respect you just for that. Those who wear the crown however, may force their will upon those around them, gaining an ability to compel those who hear the wearer’s words to follow those words as absolute orders. Sadly, the effect on its own is rather weak and while it does increase with the user’s willpower, it would take a truly immense amount to turn it into a powerful form of domination.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 10,
+      "cost": 100,
+      "name": "Deathmask",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "For your burial, an ornate, full-face mask was created. Fitted perfectly to you and crafted with the most incredible skill, this mask looks like you if you were even more beautiful than you truly are. From porcelain, gold and other valuable materials, it was enchanted with magic to act and move as if it were your real face. A minor addition at the time, but a surprise boon in your current state, as it allows you to take on the appearance of being truly alive, even if under the mask, you are as bony as ever.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 11,
+      "cost": 400,
+      "name": "A Monument to Time Itself-",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "You built things to last. A monument to death that itself dies may have a certain appeal to more philosophical sorts but you wanted your monuments to last for eternity, so that everyone would look upon them and know the glories that your mind had wrought. What objects or structures you create, by your own hand or by your direction, will last forever. The passage of time and the environment around it will not degrade it or damage it or destroy it. Even blows against it, attempts to demolish what you have made, will see their blades break long before the stone you laid down does. Your creations are imbued with supernatural durability, though they will not last forever or be protected against anything, they will be proof against mere mortals trying to defile your art.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 12,
+      "cost": 200,
+      "name": "Rune Carving",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "Necrotects themselves are usually inexperienced in the ways of magic. It’s rarely their duty to cast spells or command rituals, yet they are often called upon to inscribe runes on a vast scale or otherwise prepare things for magical means. You’re very skilled at creating structures or items that can be channelled or used with magic, even whilst lacking it yourself. If you had a mage or wizard on hand, you’d even be able to work in tandem effortlessly, crafting items or structures suited to that person’s magic in particular, working even better for them than anyone else.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 13,
+      "cost": 200,
+      "name": "Master of Slaves",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "To construct the immense tombs and monoliths you were ordered to create, you needed the assistance of countless labourers and workers. You could not construct it on your own but you could direct many others to do it for you. You became a slave driver unlike any other. Not only can you motivate a force of thousands to work on your own, without a single rebellious action being taken against you by any less than a real heroic sort, you can also turn even uneducated slaves into an effective work force. They are unlikely to know what they are doing or how it should be done but under your watchful eye, they will not make mistakes and will work as if using your own two hands.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 14,
+      "cost": 100,
+      "name": "Heart’s Desire",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "All Necrotects are skilled architects and designers. They wouldn’t have the job if they weren’t and you’re no different. You’re gifted with any sort of architecture, trap making or monument designing. What makes you special is that you have a sense for what your customers really want. You can picture in your mind the exact ideal of the thing they’re hiring you to build and create it. Closer than any instructions could communicate to you, you understand their wish and you know what it should look like, though the construction of such a thing may yet be beyond your means. Still, if you can carry it out, they’ll love you for it, even if it differs from the instructions they said to you.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 15,
+      "cost": 100,
+      "name": "My Weight in Gold",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "There are so many like you, architects and artisans who aspired to have their skills chosen to create the tomb of some particularly notable King. With all the hotheads and big egos, it’s important to keep note of how good you really are and how much someone would pay for the use of someone with your skills. Gives you a better bargaining point if you know what people will start at. You’ve always got an accurate assessment of how good your own skills are in comparison to the majority of your peers in that skill area, as well as how much those skills are worth to any particular person.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 16,
+      "cost": 200,
+      "name": "The Eternal Soldier",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "When you were buried alongside your liege, your armour and sword were left on you. It would be needed for the moment you wake up, as you would be required to immediately look to protect your King from any possible dangers. For that sake, those weapons and armour were enchanted in a similar way to your own body, to prevent them from rusting and aging to dust. Your gear is all the same way, sharing in your magic to ensure that it will never age or become damaged from the passing of time. Swords never rust or lose their edge, armour does not gain weaker bonds over time and even food will not spoil when held in your bags.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 17,
+      "cost": 100,
+      "name": "Horse of the Sands",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "The Chariots of the Nehekharan army were once feared across the world. In the open fields or the rolling dunes, they were unmatched in speed and power and the cavalry of the other kingdoms could have no hope of ever matching them. Many times you commanded one of these vehicles, for war and for the entertainment of your lord as well. You’re a master of handling a chariot and a horse, able to fight just as well as if you were on solid ground, even if you are standing atop a galloping horse. You are even able to use your mount or vehicle itself to attack, expertly directing it to smash into opposing cavalry without taking damage yourself.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 18,
+      "cost": 100,
+      "name": "Don’t Kill The Messenger",
+      "source": "Warhammer Fantasy: Tomb Kings",
+      "description": "As excelling at lying as the priesthood was, there came times when one would have to directly answer the interrogations of the King. These were rarely pleasant and usually resulted in the death of whoever was sent as messenger. Only the very canniest of Priests, such as yourself, figured out ways to avoid the wroth of their rulers. When you are the messenger of bad news, you’ll find yourself never blamed or harmed for the act of delivering it. Even the most prone to anger lords won’t think to harm you and if you were actually a part of the cause of that bad news, you’ll find this the perfect opportunity to deflect attention onto another involved in the incident, even tangentially. Turn an attempt to get rid of you with the anger of your lord into a chance to rid yourself of one of your many rivals.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 19,
+      "cost": 600,
+      "name": "Nine Books of Nagash ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "Nagash was the first and greatest necromancer, and his infamous Nine Books recount his secret knowledge and the records of his experiments. Each is a heavily sought after source of necromantic knowledge, and you possess the full set, sure to provide a treasure trove of dark lore that any necromancer would salivate over.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 20,
+      "cost": 200,
+      "name": "Necromancer’s Tower",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "This tower is designed for experimentation. Its basement is filled with cells to hold prisoners or experimental subjects. It also has living quarters for servants (a few heavily mutated assistants come with this as followers if desired) and a library full of necromantic texts. The top of the tower has an observatory and a lightning rod, meant to aid in the study of the stars and harness lightning.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 21,
+      "cost": 100,
+      "name": "Necrotic Powder",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "This alchemically treated pouch contains necrotic powder, pure Dhar solidified into a powdered warpstone. The powder can eat through nearly anything: papers that need to be destroyed, locks or doors blocking the user’s way, minions who have outlived their usefulness, etc.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 22,
+      "cost": 100,
+      "name": "Lady Zmada’s Portrait ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "It is expected for a vampire to hide from the daylight. But apparently one member of the Zmada family had the clever idea to hide in plain sight. A vampire can walk into this empty portrait, appearing inside as a painted image until they emerge.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 23,
+      "cost": 400,
+      "name": "Blood Chalice",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "This magic chalice was used by the Order of the Blood Dragon in mockery of the Lady of the Lake and her own Grail. Walach Harkon added the blood of any opponent he respected, from knights and witch hunters to even his own lover Aurora. Dipping a weapon in the chalice will enchant it and set it aflame. Drinking from it instead heals wounds.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 24,
+      "cost": 200,
+      "name": "Survivalist ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "The Strigoi were forced into hiding in the wilderness after the fall of Strigos, and like them you are an expert at living and hiding in the deep wilds. You could survive for centuries, hunting animals and staying hidden until you were nothing but a legend.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 25,
+      "cost": 100,
+      "name": "Grudges",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "That’s what the Strigoi were left with when the Lahmians destroyed their city. Hate for the Lahmians themselves, their greenskin pawns, the Blood Dragons and Necrarchs that scorned them... hate that filled their dreams as they slept in the wilderness and plotted revenge. You share their capacity for hate, the ability to hold grudges that would do a Dwarf proud. So long as someone has wronged you, you find yourself empowered when working against them.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 26,
+      "cost": 200,
+      "name": "Madness Immunity",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "Vampires have a tendency to go mad over the centuries. Really, even the men of Mallus seem to have fragile minds that go mad at the drop of a hat. Maybe it’s all the Chaos leaking into the world through the polar gates? But the Necrarchs have it particularly bad, tending to go so paranoid that their bloodline cannot even work together, instead all huddling in their individual towers penning insane prophecies about the undead replacing humanity. But at least now you’re immune to insanity, whether the cause be external or internal.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 27,
+      "cost": 100,
+      "name": "Dark Teacher ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "There is only so much a single necromancer can achieve, yet the Necrarchs have always had a problem with rebellious apprentices. W’soran was betrayed and killed by his apprentice Melkhior, who was in turn attacked by his own rebellious apprentice Zacharius. You are not only a skilled teacher in the sense of being good at imparting knowledge, but you know how to instill loyalty in your students or failing that at least the wit to notice when they’re planning to turn on you.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 28,
+      "cost": 200,
+      "name": "Worthy Foe",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "When Walach Harkon challenged the Order of the Blood Dragon, he killed the cowardly and inept but granted the blood kiss to the brave warriors who put up a fight. Indeed, it is common for Blood Dragons to duel a prospective child-in-darkness to decide whether they are worthy of vampirism. You will find that your enemies adopt a similar attitude towards you, their minds filling with respect and dreams of how useful you might be so long as you give a good showing in your battles with them. They’ll still kill you if it isn’t safe to capture you or should you refuse the honor of joining them.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 29,
+      "cost": 100,
+      "name": "Wellspring of Dhar ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "Your soul is a natural pool of Dhar. All wizards near you who draw on dark magic, chaos magic, or necromancy have their spells empowered. You can toggle this effect on and off.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 30,
+      "cost": 100,
+      "name": "Wolf Form ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "You can transform back and forth from a Doom Wolf (one of the gigantic wolves native to Slyvania) at will, subsuming your clothing and equipment into the transformation.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 31,
+      "cost": 100,
+      "name": "Wings ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "You can grow wings on your back or between your arm and side, allowing you to fly at twice your running speed.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 32,
+      "cost": 100,
+      "name": "Transfixing Gaze ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "Your gaze can immobilize the weak willed who meet it, allowing you to keep them helpless while you kill them.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 33,
+      "cost": 100,
+      "name": "Swarm Form",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "Choose one of beetles, cockroaches, flies, or ravens. You can transform into a swarm of these creatures for a few minutes. As long as even one of your swarm survives, so do you. You won’t be able to turn back into a swarm again until the next sunset.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 34,
+      "cost": 100,
+      "name": "Summon Wolves",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "Once per day you can call any nearby wolves or dire wolves to do your bidding for the next few hours.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 35,
+      "cost": 100,
+      "name": "Regeneration",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "You regenerate wounds quickly and constantly, except ones inflicted by silver weapons.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 36,
+      "cost": 100,
+      "name": "Psychic Drain",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "You drain the will from any living creature nearby. Those without great willpower will find their ability to put effort into anything they do quickly eroding by being near you, needing hours to recover afterwords.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 37,
+      "cost": 100,
+      "name": "Ethereal Mist",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "Once per day, you can transform yourself and your clothing and equipment into mist. In this form, you are immune to any damage except spells. After several hours, you’ll be able to try to re-coalesce as an act of willpower, trying again ever few hours until you succeed.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 38,
+      "cost": 100,
+      "name": "Domination",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "You can control the mind of a nearby mortal, pitting your charisma against their willpower. Any danger, before or after the control, breaks the effect.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 39,
+      "cost": 100,
+      "name": "Deathsight ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "You can naturally see immaterial spirits and souls.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 40,
+      "cost": 100,
+      "name": "Dark Majesty ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "You can naturally control several dozens of lesser undead (ie not vampires, mummies, or liches) separate from whatever you might control with necromancy. The number scales with your willpower.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 41,
+      "cost": 100,
+      "name": "Call Forth Thunder",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "Once per day you can instantly create a storm severe enough to blot out the sun and allow you to walk in sunlight. The storm will last for hours.",
+      "chapter": "The Undead"
+    },
+    {
+      "__source": "The Codex Celestial by Gothicjedi666 - Fantasy Edition - The Undead",
+      "__line": 42,
+      "cost": 100,
+      "name": "Bat Form ",
+      "source": "Warhammer Fantasy: Vampire Counts",
+      "description": "You can transform back and forth from a bat at will, subsuming your clothing and equipment into the transformation.",
+      "chapter": "The Undead"
     }
   ]
 }

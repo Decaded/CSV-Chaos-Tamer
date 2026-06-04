@@ -1,6 +1,278 @@
 {
   "1": [
     {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 1,
+      "cost": 0,
+      "name": "Hamster ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "Isn't he just the most adorable little thing? You are now the proud owner of this Earthling pet that is known for randomly killing itself. Luckily, there's no way yours will suffer such a fate, and if he is killed, then it will just be resurrected the next day. You receive a glass cage to hold it in, as well as the food needed to feed it.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 2,
+      "cost": 0,
+      "name": "Fleet and Flotilla ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "Love is a fickle thing, both impossibly wonderful and thoroughly miserable. Hopefully, this will smooth out some of that. When in a romantic relationship, you will find that neither of your feelings for each other will ever fade, in fact they seem to do the opposite. The only way a relationship will fail is if you actively commit multiple acts that the other strongly disagrees with.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 3,
+      "cost": 0,
+      "name": "FENRIS Mech",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "Designed by Hahne-Kedar specifically for security, this robotic canine is very friendly to its owner and their allies, while being a terror to its enemies. Their advanced sensors can detect weapons and narcotics, used in the same manner bomb and drug-sniffing dogs would, and this one is not hackable, meaning that pesky programmers won't be able to turn your beloved pet against you. You may import a pet you already own into this option.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 4,
+      "cost": 0,
+      "name": "Varren",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "Native to the planet Tuchanka, these reptilian omnivores are savage survivors and opportune scavengers. Their fangs and claws are very dangerous to unprotected flesh and can easily adapt to most environments. This one has been trained, is extremely loyal to you, and acts much like any other dog you'd find on Earth.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 5,
+      "cost": 0,
+      "name": "Fish Tank ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "As boring as they may be, most can agree that fishes are pretty to look at. What you have here is a massive tank filled with tropical, freshwater fishes from a number of planets, primarily from Earth. You will never have to worry about feeding them or cleaning out the tank, and the fish inside never seem to die. At the very least, it will look good in your office or bedroom.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 6,
+      "cost": 100,
+      "name": "LOKI Mech",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "For those robot enthusiasts, there's no better security than one of these. Designed by Hahne-Kedar, this bipedal robot is often used in security detail or as expendable assault units by mercenary companies. While incapable of complex tactics or taking cover, they can be equipped with a number of armaments, both lethal and non-lethal, can have pre recorded lines, and are waterproof. If all else fails, they can just self-destruct. You receive one of these, and will be fully repaired within a day should it be damaged or destroyed.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 7,
+      "cost": 100,
+      "name": "Assistant VI ",
+      "source": "Mass Effect - Legendary Edition",
+      "description": "It can be argued that the development of AI is inevitable, as all sufficiently advanced technology will eventually become an AI, and the fate of those who deny it is stagnation. We aren't quite there yet, but this personal assistant model, Virtual Intelligence, is the closest thing allowed in Citadel Space. It can be stored in your Omni-Tool and can keep track of large amounts of data. With some tweaking, it might eventually become an actual AI, but that is ultimately up to you.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 8,
+      "cost": 100,
+      "name": "Remnant Companion",
+      "source": "Mass Effect: Andromeda JumpChain",
+      "description": "You managed to stumble upon a way to control this non-sentient Remnant robot, and now it follows you around. You can designate targets for it to attack and use it to give you a foothold into Remnant systems. If it’s destroyed in battle, you will be able to repair it either back at base or on the field, depending on your technical skills and resources available. An AI companion is also able to control the bot, if you so choose.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 9,
+      "cost": 100,
+      "name": "Backup Storage",
+      "source": "Mass Effect: Andromeda JumpChain",
+      "description": "When you are in the field, you never know what kind of data you will stumble across. And it’d be a shame if the only record of that incredible find was somehow damaged or destroyed. That’s why you bought this lovely little VI drone! It has essentially unlimited storage capacity, so you never have to worry about having to choose between those etchings you took of that ruined temple and that databurst you got from that dying AI. However, you will have to input the data from whatever recording device you used, the drone can’t record things itself. And the storage capacity is for storage only. While you can store encrypted information, you would still have to decrypt it at some point. And while you can find stored data based on when you input the info into the Backup Storage, you aren’t able to search through it. It’d be best to use this drone as a data mule of sorts. Best of all, if the drone gets destroyed or otherwise ruined, the data is still safe! You just have to get some other device to solely perform the role of the drone, and the new device will have access to your stored data.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 10,
+      "cost": 100,
+      "name": "Kett Guard Dog",
+      "source": "Mass Effect: Andromeda JumpChain",
+      "description": "Wraiths are invisible Kett-formed guard dog things. Non-Kett get the original race that the Kett made the Wraiths from, which is known as a Challyrion. Your Challyrion is smarter and stronger than normal, in order to equal a Wraith.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 11,
+      "cost": 100,
+      "name": "Humane Human",
+      "source": "Mass Effect - Jumpchain",
+      "description": "He likes dogs. Lots of dogs. Especially alien dogs. Do Vorcha count? He seems to think so. Long story short, this sandy haired, somewhat shady looking man is a master at handling animals of almost any kind, is probably the most skilled unlicensed veterinarian in the galaxy, and comes with his own pack of fighting animals. These range from the merely exotic to the downright terrifying. After all, it takes a special kind of crazy to tame a Klixen. And I hope you like crazy, because he likes you.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 12,
+      "cost": 100,
+      "name": "Dour Drell",
+      "source": "Mass Effect - Jumpchain",
+      "description": "A somewhat bitter middle aged alien, he’s a focused individual, an excellent middle manager, and a ruthless killer. Sociopathic, in the clinical sense, he struggles to find either purpose or direction in his life. You, however, seem to be... more. Almost enough to give him Religion. And despite being an assassin turned serial killer, he’s still incredibly loyal. Though, perhaps, only good company if you like quiet evenings cleaning your trophies and drinking fancy teas - of which he is a most excellent connoisseur.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 13,
+      "cost": 100,
+      "name": "Assiduous Asari ",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Young, only about fifty years old, this Maiden Asari is bright, bubbly, kind, and, well, naive. In the extreme. You’ll meet her getting into trouble with some Batarians, of the “rape and torture” persuasion, and even if she’s got some fire, she’s naff in a fight. Assuming you don’t step in it’s going to be a definite bad end. However, once you’ve rescued her you’ll find she’s loyal to a fault and, while lacking common sense, an excellent cook, wonderful company, and a balm to any weary soul. She’s also most wonderfully talented at all the skills needed at keeping up a household. Somehow, she also managed to win the genetic lottery - having the potential to end a biotic on the level of Samara. Assuming you train her up.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 14,
+      "cost": 100,
+      "name": "Freeman’s Free Intel ",
+      "source": "Shepard Quest",
+      "description": "This group of political analysts, ex-intelligence services, and other various agent sorts are at your disposal. Either they’re attached to a company you own, or you have a retainer with their “private investigator” firm. Either way, the payments are already handled. Beyond keeping track of major events across the entire galaxy and providing relevant and insightful summaries, they also use VI programs and their own intuitions to find events relevant to you - even if “the intel suggests the Batarians might have crash-built a carrier or dreadnought in secret somewhere” might not be immediately apparent as to why you in particular should be concerned. They also have the resources to launch in-person investigations of various things around the galaxy, like looking for rogue super-soldiers in the Terminus or going through a secured-by-our-side lab. Only one expedition at a time, unless you add more resources to grow and maintain a larger team.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 15,
+      "cost": 100,
+      "name": "Patents",
+      "source": "Shepard Quest",
+      "description": "Getting things patented first requires getting your ducks in a row. But this team of lawyers will not only get your ducks in a row, they’ll brush out their feathers and teach them to dance. They’ll automatically take care of patenting anything you want patented, and will advise you on patent issues. In addition, this will also enforce your patents for you, even in regions with no patent laws, or against people who don’t care about patent laws (like the STG, software pirates, and Reapers.) No one will be manufacturing anything without first signing a licensing agreement.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 16,
+      "cost": 100,
+      "name": "New Geth",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "This option allows you to create or recruit a New Geth platform to fight by your side. These companions are highly advanced and customizable, allowing you to tailor them to your specific needs in battle. With their unique modifications, each platform brings a different set of abilities and strengths to the fight, making them a valuable asset in any combat situation. Whether you need a sniper, a heavy weapons platform, or a stealthy infiltrator, the New Geth have got you covered. Plus, their advanced AI means they can adapt to changing situations on the fly, making them a reliable ally in even the most chaotic battles.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 17,
+      "cost": 100,
+      "name": "N7 Operative ",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "This individual is a highly trained and experienced soldier who has been recruited into the elite N7 program. They possess a wide range of combat skills and are capable of handling any situation that comes their way. They are fiercely loyal to you and your mission, and will do whatever it takes to protect you and ensure that you succeed in your goals. You may design their appearance, personality, and species if you wish.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 18,
+      "cost": 100,
+      "name": "Battle-Hardened Veteran",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "This companion is a battle-hardened veteran with extensive experience in various forms of combat, from hand-to-hand combat to advanced weaponry. They have survived countless battles and possess a wealth of knowledge on tactics and strategy. As a result, they are an invaluable asset in any situation. They are fiercely loyal to you and your cause, and will fight with everything they have to ensure your success. Additionally, their experiences have given them a unique perspective on life, making them an interesting and compelling companion to travel with. You may design their personality, appearance, and species if you wish.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 19,
+      "cost": 100,
+      "name": "Council Spectre",
+      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+      "description": "As a Council Spectre, this individual is a highly skilled and respected agent of the Citadel Council. They possess a wide range of abilities, from combat training to advanced diplomacy and espionage tactics. They are fiercely loyal to the Council and its ideals, and will do whatever it takes to protect the galaxy from threats. You may choose their appearance, personality, and species to fit your needs.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 20,
+      "cost": 200,
+      "name": "Research Assistants",
+      "source": "Mass Effect: Andromeda JumpChain",
+      "description": "A true scientist will realize that when they are reaching for the stars, that they are standing on the shoulders of the giants who came before them. So sometimes, it’s nice to not have to stand alone. You have a group of scientists helping you out. While you are in the field, others will be checking your work and conclusions, cleaning up miscellaneous details, and getting the word out there about who exactly is trailblazing. And sometimes, the folks back in the lab will catch sometime you missed. Maybe they spotted a rune you needed, or saw something reflective off in the distance. No matter what, every so often, your science helpers will help you make progress on your current science goals. And in between those bursts of helpfulness, they also handle a lot of the grunt work of science for you.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 21,
+      "cost": 200,
+      "name": "Can’t Bribe The Paid ",
+      "source": "Shepard Quest",
+      "description": "Corporate espionage is a pain in a lot of different places. Fortunately you really don’t have to worry about it. As long as you pay people well and on time, they will be strongly loyal to you, and any attempts to bribe them for information or access will fail.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 22,
+      "cost": 200,
+      "name": "Custom AI",
+      "source": "Mass Effect - Jumpchain",
+      "description": "An artificial intelligence on the scale of EDI or SAM. It represents something a few inches from the technological singularity and it has the ability to prove it. Without exception, it is the most effective electronic and cyber warfare expert in the galaxy except for the actual EDI and SAM. And, more importantly, it doesn’t have game limitations. Hacking computers, doors, security systems, and more takes nano seconds. Even military installations will only require access to a hardline and nothing else. Somewhat boringly, they are neither prone to bouts of megalomania nor omnicidal ambitions. In fact, they’re quite... loyal. Almost disappointingly so. Acting a bit like a dog in how they simply can’t seem to conceive of turning on the being that gave them life. Even better, you get to custom design your own snazzy AI robo body (in any configuration of species, gender, and physical form that fits within what the technology of the time would consider “reasonable”) and may chose, if you’re capable of doing so, to integrate the AI directly into your body and nervous system as well. Fanwank responsibly.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 23,
+      "cost": 200,
+      "name": "Blood Pack Mercenary Contract ",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Blunt, short, to the point. Oh, and signed in blood. This paper contract means the Krogan warlord (Wrex would smash his skull in for using that title, even if it would take a good while) you’ve contracted with is your blunt hammer. Krogan, Vorcha, a few Humans, and lots of varren are going to work for you. They’re a full company, too. 150 fighting men equipped with radiadioactive, incendiary, and biological weapons. Plus their leader has stupidly powerful armor and a healing factor that would let him take multiple anti tank rounds to the face and keep killing. These blood thirsty psycopaths utterly lack subtlety, but are willing to loot, rape, and pillage their way across the galaxy. All in your name.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 24,
+      "cost": 200,
+      "name": "Eclipse Mercenary Contract",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Thick with legalease, this many, many pages long digital contract permits the command and deployment of a company of Eclipse Private Security Specialists. That means a mix of Asari, Salarians, and a smattering of Humans. Only 120 this time, but they specialize in high tech weapons and their captain is more than just an officer. She’s a powerful (and sadistic) biotic who wields a heavy shotgun and lethal space magic. On top of that, she’s brought her own Mantis Gunship. Hell, if she likes you, she’ll even sleep with you too. Technically corporate security, Eclipse forces are respectable enough to have with you, even if they’re notorious drug smugglers, gun runners, sentient traffickers, and sometimes even worse.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 25,
+      "cost": 200,
+      "name": "Blue Suns Mercenary Contract ",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Relatively straightforward, this document entitles the bearer (hopefully that’s you) to the services of a company of Blue Sun Mercenaries. That’s about 150 Turians, Batarians, and Humans that are relatively well disciplined, relatively well equipped, led by a veteran captain that’s killed, more or less, any species you care to ask them to shoot at, and even come with their own pair of YMIR mechs. That said, these are mercs. They’ll work for you, even fight quite enthusiastically, but don’t expect them to take on a suicide mission unless they’re exceedingly well compensated. In general, the Blue Suns specialize in drug smuggling, slaving, and various odd jobs including running a prison. Disciplined, but vanilla. Also, Batarians. There’s a reason the other groups don’t hire them.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 26,
+      "cost": 200,
+      "name": "Salubrious Salarian",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Fast talking, clever, and good at fucking people over, this guy is a sheister through and through. Luckily, he likes you. Or maybe the fact that you protected him from some rather rough-looking Turians who wanted to break his kneecaps. Now he’s put his many talents, and business contacts, at your disposal. Essentially, if you want something, he can get it for you, no matter how difficult or illegal it is to acquire. Even better, it’s all about the thrill of the deal for this guy and money means almost nothing to him. So if he can help out his “Best Buddy”, he will. No strings attached. A bit oddly, he has a fear of gambling machines and insists all games of chance be done manually.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 27,
+      "cost": 200,
+      "name": "Quiet Quarian ",
+      "source": "Mass Effect - Jumpchain",
+      "description": "She’s the scary kind of quiet. The one where you don’t know what she’s thinking. And it’s probably something really, really messed up. Thankfully, she’s got the skills to back it up. A master at coding, without the morals needed to really understand why she shouldn’t do certain things, you’ve managed to win her trust - and mild obsession - by rescuing her from (you guessed it) Batarian slavers. Strangely enough, her tastes seem to be... rather extreme. And she will watch you in your sleep. And maybe in the shower. But if you ever need a computer system ruined, she can out code any VI in existence and is both fast and smart enough to challenge, and perhaps beat, an AI in real time. If you ever take her out on a date, she’ll be more than eager to impress you with her knowledge of opera and, somewhat surprisingly, her own impressive vocal ability.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 28,
+      "cost": 200,
+      "name": "Kind Krogan ",
+      "source": "Mass Effect - Jumpchain",
+      "description": "Putting someone down quickly is kind, right? And he only uses radioactive rounds because it’s fun, not because it melts people’s insides. A master of applying excessive force in a surgical manner, this Krogan is a bit of a hotshot, being young enough to think himself immortal, and experienced enough to know what he likes. Which is lots and lots and lots of heavy weapons. Thankfully he likes you, more than a little, and will spend hours explaining every niche use of every weapon mod in the galaxy. And even showing you pictures of how he put the theory into practice on his many, many dead enemies.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 29,
+      "cost": 200,
+      "name": "Privately-Owned Business",
+      "source": "Shepard Quest",
+      "description": "Think Shifting Developments, Lucca’s R&D Co., or a similar smaller outfit that generally licenses technology to larger corporations instead of manufacturing and selling it themselves. As far as assets go, this company has a small amount of lab space and manufacturing capability - generally enough to prototype technology and make a few demonstrators. It also has a few technologies - possibly patented - based on your Specialty purchase. It also comes with administrative, legal, and marketing support. At small business sizes the staff is competent, with nothing exceptional, but at This includes sales, marketing, and supplies. They’ll be able to get you eezo, rare earth materials, and any other materials commonly used in the technologies you design without breaking the bank.",
+      "chapter": "The Crew"
+    },
+    {
+      "__source": "The Celestial Omni-Tool - The Crew",
+      "__line": 30,
+      "cost": 400,
+      "name": "Tiny Ninja Recruitment",
+      "source": "Shepard Quest",
+      "description": "A tiny Kasumi sneaking into your lab because her father took her into work, Liara getting pushed by her mother into going to you for patronage so she acts as an intel source, a call for people with genetic disorders snagging Joker. You’re very lucky when it comes to running across the people who will be important in the course of events, randomly meeting people well before events make them famous. (Time of entry permitting, of course) You also have the charisma and interpersonal skills needed to develop good relations with these people. No sense in making a bad first impression, right?",
+      "chapter": "The Crew"
+    }
+  ],
+  "2": [
+    {
       "__source": "The Celestial Omni-Tool - The Ship",
       "__line": 1,
       "cost": 0,
@@ -271,7 +543,7 @@
       "chapter": "The Ship"
     }
   ],
-  "2": [
+  "3": [
     {
       "__source": "The Celestial Omni-Tool - The Spectre ",
       "__line": 1,
@@ -541,278 +813,6 @@
       "source": "Mass Effect - Jumpchain",
       "description": "Not even alien space gods can crush your mind! Well, not without trying really, really hard at least. Will to Power gives you a powerful resistance to all mind altering effects, allowing you to simply ignore most passive forms of mental domination and fight off more active attempts. In context, it would take at least three Leviathans working in concert to break your will or five to six Reapers. Hopefully you don’t mind your head popping like a pimple from the strain. As an aside, this does apply to all mind altering effects, even narcotics or alcohol. Go wild and never black out again!",
       "chapter": "The Spectre"
-    }
-  ],
-  "3": [
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 1,
-      "cost": 0,
-      "name": "Hamster ",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "Isn't he just the most adorable little thing? You are now the proud owner of this Earthling pet that is known for randomly killing itself. Luckily, there's no way yours will suffer such a fate, and if he is killed, then it will just be resurrected the next day. You receive a glass cage to hold it in, as well as the food needed to feed it.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 2,
-      "cost": 0,
-      "name": "Fleet and Flotilla ",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "Love is a fickle thing, both impossibly wonderful and thoroughly miserable. Hopefully, this will smooth out some of that. When in a romantic relationship, you will find that neither of your feelings for each other will ever fade, in fact they seem to do the opposite. The only way a relationship will fail is if you actively commit multiple acts that the other strongly disagrees with.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 3,
-      "cost": 0,
-      "name": "FENRIS Mech",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "Designed by Hahne-Kedar specifically for security, this robotic canine is very friendly to its owner and their allies, while being a terror to its enemies. Their advanced sensors can detect weapons and narcotics, used in the same manner bomb and drug-sniffing dogs would, and this one is not hackable, meaning that pesky programmers won't be able to turn your beloved pet against you. You may import a pet you already own into this option.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 4,
-      "cost": 0,
-      "name": "Varren",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "Native to the planet Tuchanka, these reptilian omnivores are savage survivors and opportune scavengers. Their fangs and claws are very dangerous to unprotected flesh and can easily adapt to most environments. This one has been trained, is extremely loyal to you, and acts much like any other dog you'd find on Earth.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 5,
-      "cost": 0,
-      "name": "Fish Tank ",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "As boring as they may be, most can agree that fishes are pretty to look at. What you have here is a massive tank filled with tropical, freshwater fishes from a number of planets, primarily from Earth. You will never have to worry about feeding them or cleaning out the tank, and the fish inside never seem to die. At the very least, it will look good in your office or bedroom.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 6,
-      "cost": 100,
-      "name": "LOKI Mech",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "For those robot enthusiasts, there's no better security than one of these. Designed by Hahne-Kedar, this bipedal robot is often used in security detail or as expendable assault units by mercenary companies. While incapable of complex tactics or taking cover, they can be equipped with a number of armaments, both lethal and non-lethal, can have pre recorded lines, and are waterproof. If all else fails, they can just self-destruct. You receive one of these, and will be fully repaired within a day should it be damaged or destroyed.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 7,
-      "cost": 100,
-      "name": "Assistant VI ",
-      "source": "Mass Effect - Legendary Edition",
-      "description": "It can be argued that the development of AI is inevitable, as all sufficiently advanced technology will eventually become an AI, and the fate of those who deny it is stagnation. We aren't quite there yet, but this personal assistant model, Virtual Intelligence, is the closest thing allowed in Citadel Space. It can be stored in your Omni-Tool and can keep track of large amounts of data. With some tweaking, it might eventually become an actual AI, but that is ultimately up to you.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 8,
-      "cost": 100,
-      "name": "Remnant Companion",
-      "source": "Mass Effect: Andromeda JumpChain",
-      "description": "You managed to stumble upon a way to control this non-sentient Remnant robot, and now it follows you around. You can designate targets for it to attack and use it to give you a foothold into Remnant systems. If it’s destroyed in battle, you will be able to repair it either back at base or on the field, depending on your technical skills and resources available. An AI companion is also able to control the bot, if you so choose.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 9,
-      "cost": 100,
-      "name": "Backup Storage",
-      "source": "Mass Effect: Andromeda JumpChain",
-      "description": "When you are in the field, you never know what kind of data you will stumble across. And it’d be a shame if the only record of that incredible find was somehow damaged or destroyed. That’s why you bought this lovely little VI drone! It has essentially unlimited storage capacity, so you never have to worry about having to choose between those etchings you took of that ruined temple and that databurst you got from that dying AI. However, you will have to input the data from whatever recording device you used, the drone can’t record things itself. And the storage capacity is for storage only. While you can store encrypted information, you would still have to decrypt it at some point. And while you can find stored data based on when you input the info into the Backup Storage, you aren’t able to search through it. It’d be best to use this drone as a data mule of sorts. Best of all, if the drone gets destroyed or otherwise ruined, the data is still safe! You just have to get some other device to solely perform the role of the drone, and the new device will have access to your stored data.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 10,
-      "cost": 100,
-      "name": "Kett Guard Dog",
-      "source": "Mass Effect: Andromeda JumpChain",
-      "description": "Wraiths are invisible Kett-formed guard dog things. Non-Kett get the original race that the Kett made the Wraiths from, which is known as a Challyrion. Your Challyrion is smarter and stronger than normal, in order to equal a Wraith.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 11,
-      "cost": 100,
-      "name": "Humane Human",
-      "source": "Mass Effect - Jumpchain",
-      "description": "He likes dogs. Lots of dogs. Especially alien dogs. Do Vorcha count? He seems to think so. Long story short, this sandy haired, somewhat shady looking man is a master at handling animals of almost any kind, is probably the most skilled unlicensed veterinarian in the galaxy, and comes with his own pack of fighting animals. These range from the merely exotic to the downright terrifying. After all, it takes a special kind of crazy to tame a Klixen. And I hope you like crazy, because he likes you.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 12,
-      "cost": 100,
-      "name": "Dour Drell",
-      "source": "Mass Effect - Jumpchain",
-      "description": "A somewhat bitter middle aged alien, he’s a focused individual, an excellent middle manager, and a ruthless killer. Sociopathic, in the clinical sense, he struggles to find either purpose or direction in his life. You, however, seem to be... more. Almost enough to give him Religion. And despite being an assassin turned serial killer, he’s still incredibly loyal. Though, perhaps, only good company if you like quiet evenings cleaning your trophies and drinking fancy teas - of which he is a most excellent connoisseur.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 13,
-      "cost": 100,
-      "name": "Assiduous Asari ",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Young, only about fifty years old, this Maiden Asari is bright, bubbly, kind, and, well, naive. In the extreme. You’ll meet her getting into trouble with some Batarians, of the “rape and torture” persuasion, and even if she’s got some fire, she’s naff in a fight. Assuming you don’t step in it’s going to be a definite bad end. However, once you’ve rescued her you’ll find she’s loyal to a fault and, while lacking common sense, an excellent cook, wonderful company, and a balm to any weary soul. She’s also most wonderfully talented at all the skills needed at keeping up a household. Somehow, she also managed to win the genetic lottery - having the potential to end a biotic on the level of Samara. Assuming you train her up.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 14,
-      "cost": 100,
-      "name": "Freeman’s Free Intel ",
-      "source": "Shepard Quest",
-      "description": "This group of political analysts, ex-intelligence services, and other various agent sorts are at your disposal. Either they’re attached to a company you own, or you have a retainer with their “private investigator” firm. Either way, the payments are already handled. Beyond keeping track of major events across the entire galaxy and providing relevant and insightful summaries, they also use VI programs and their own intuitions to find events relevant to you - even if “the intel suggests the Batarians might have crash-built a carrier or dreadnought in secret somewhere” might not be immediately apparent as to why you in particular should be concerned. They also have the resources to launch in-person investigations of various things around the galaxy, like looking for rogue super-soldiers in the Terminus or going through a secured-by-our-side lab. Only one expedition at a time, unless you add more resources to grow and maintain a larger team.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 15,
-      "cost": 100,
-      "name": "Patents",
-      "source": "Shepard Quest",
-      "description": "Getting things patented first requires getting your ducks in a row. But this team of lawyers will not only get your ducks in a row, they’ll brush out their feathers and teach them to dance. They’ll automatically take care of patenting anything you want patented, and will advise you on patent issues. In addition, this will also enforce your patents for you, even in regions with no patent laws, or against people who don’t care about patent laws (like the STG, software pirates, and Reapers.) No one will be manufacturing anything without first signing a licensing agreement.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 16,
-      "cost": 100,
-      "name": "New Geth",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "This option allows you to create or recruit a New Geth platform to fight by your side. These companions are highly advanced and customizable, allowing you to tailor them to your specific needs in battle. With their unique modifications, each platform brings a different set of abilities and strengths to the fight, making them a valuable asset in any combat situation. Whether you need a sniper, a heavy weapons platform, or a stealthy infiltrator, the New Geth have got you covered. Plus, their advanced AI means they can adapt to changing situations on the fly, making them a reliable ally in even the most chaotic battles.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 17,
-      "cost": 100,
-      "name": "N7 Operative ",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "This individual is a highly trained and experienced soldier who has been recruited into the elite N7 program. They possess a wide range of combat skills and are capable of handling any situation that comes their way. They are fiercely loyal to you and your mission, and will do whatever it takes to protect you and ensure that you succeed in your goals. You may design their appearance, personality, and species if you wish.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 18,
-      "cost": 100,
-      "name": "Battle-Hardened Veteran",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "This companion is a battle-hardened veteran with extensive experience in various forms of combat, from hand-to-hand combat to advanced weaponry. They have survived countless battles and possess a wealth of knowledge on tactics and strategy. As a result, they are an invaluable asset in any situation. They are fiercely loyal to you and your cause, and will fight with everything they have to ensure your success. Additionally, their experiences have given them a unique perspective on life, making them an interesting and compelling companion to travel with. You may design their personality, appearance, and species if you wish.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 19,
-      "cost": 100,
-      "name": "Council Spectre",
-      "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
-      "description": "As a Council Spectre, this individual is a highly skilled and respected agent of the Citadel Council. They possess a wide range of abilities, from combat training to advanced diplomacy and espionage tactics. They are fiercely loyal to the Council and its ideals, and will do whatever it takes to protect the galaxy from threats. You may choose their appearance, personality, and species to fit your needs.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 20,
-      "cost": 200,
-      "name": "Research Assistants",
-      "source": "Mass Effect: Andromeda JumpChain",
-      "description": "A true scientist will realize that when they are reaching for the stars, that they are standing on the shoulders of the giants who came before them. So sometimes, it’s nice to not have to stand alone. You have a group of scientists helping you out. While you are in the field, others will be checking your work and conclusions, cleaning up miscellaneous details, and getting the word out there about who exactly is trailblazing. And sometimes, the folks back in the lab will catch sometime you missed. Maybe they spotted a rune you needed, or saw something reflective off in the distance. No matter what, every so often, your science helpers will help you make progress on your current science goals. And in between those bursts of helpfulness, they also handle a lot of the grunt work of science for you.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 21,
-      "cost": 200,
-      "name": "Can’t Bribe The Paid ",
-      "source": "Shepard Quest",
-      "description": "Corporate espionage is a pain in a lot of different places. Fortunately you really don’t have to worry about it. As long as you pay people well and on time, they will be strongly loyal to you, and any attempts to bribe them for information or access will fail.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 22,
-      "cost": 200,
-      "name": "Custom AI",
-      "source": "Mass Effect - Jumpchain",
-      "description": "An artificial intelligence on the scale of EDI or SAM. It represents something a few inches from the technological singularity and it has the ability to prove it. Without exception, it is the most effective electronic and cyber warfare expert in the galaxy except for the actual EDI and SAM. And, more importantly, it doesn’t have game limitations. Hacking computers, doors, security systems, and more takes nano seconds. Even military installations will only require access to a hardline and nothing else. Somewhat boringly, they are neither prone to bouts of megalomania nor omnicidal ambitions. In fact, they’re quite... loyal. Almost disappointingly so. Acting a bit like a dog in how they simply can’t seem to conceive of turning on the being that gave them life. Even better, you get to custom design your own snazzy AI robo body (in any configuration of species, gender, and physical form that fits within what the technology of the time would consider “reasonable”) and may chose, if you’re capable of doing so, to integrate the AI directly into your body and nervous system as well. Fanwank responsibly.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 23,
-      "cost": 200,
-      "name": "Blood Pack Mercenary Contract ",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Blunt, short, to the point. Oh, and signed in blood. This paper contract means the Krogan warlord (Wrex would smash his skull in for using that title, even if it would take a good while) you’ve contracted with is your blunt hammer. Krogan, Vorcha, a few Humans, and lots of varren are going to work for you. They’re a full company, too. 150 fighting men equipped with radiadioactive, incendiary, and biological weapons. Plus their leader has stupidly powerful armor and a healing factor that would let him take multiple anti tank rounds to the face and keep killing. These blood thirsty psycopaths utterly lack subtlety, but are willing to loot, rape, and pillage their way across the galaxy. All in your name.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 24,
-      "cost": 200,
-      "name": "Eclipse Mercenary Contract",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Thick with legalease, this many, many pages long digital contract permits the command and deployment of a company of Eclipse Private Security Specialists. That means a mix of Asari, Salarians, and a smattering of Humans. Only 120 this time, but they specialize in high tech weapons and their captain is more than just an officer. She’s a powerful (and sadistic) biotic who wields a heavy shotgun and lethal space magic. On top of that, she’s brought her own Mantis Gunship. Hell, if she likes you, she’ll even sleep with you too. Technically corporate security, Eclipse forces are respectable enough to have with you, even if they’re notorious drug smugglers, gun runners, sentient traffickers, and sometimes even worse.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 25,
-      "cost": 200,
-      "name": "Blue Suns Mercenary Contract ",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Relatively straightforward, this document entitles the bearer (hopefully that’s you) to the services of a company of Blue Sun Mercenaries. That’s about 150 Turians, Batarians, and Humans that are relatively well disciplined, relatively well equipped, led by a veteran captain that’s killed, more or less, any species you care to ask them to shoot at, and even come with their own pair of YMIR mechs. That said, these are mercs. They’ll work for you, even fight quite enthusiastically, but don’t expect them to take on a suicide mission unless they’re exceedingly well compensated. In general, the Blue Suns specialize in drug smuggling, slaving, and various odd jobs including running a prison. Disciplined, but vanilla. Also, Batarians. There’s a reason the other groups don’t hire them.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 26,
-      "cost": 200,
-      "name": "Salubrious Salarian",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Fast talking, clever, and good at fucking people over, this guy is a sheister through and through. Luckily, he likes you. Or maybe the fact that you protected him from some rather rough-looking Turians who wanted to break his kneecaps. Now he’s put his many talents, and business contacts, at your disposal. Essentially, if you want something, he can get it for you, no matter how difficult or illegal it is to acquire. Even better, it’s all about the thrill of the deal for this guy and money means almost nothing to him. So if he can help out his “Best Buddy”, he will. No strings attached. A bit oddly, he has a fear of gambling machines and insists all games of chance be done manually.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 27,
-      "cost": 200,
-      "name": "Quiet Quarian ",
-      "source": "Mass Effect - Jumpchain",
-      "description": "She’s the scary kind of quiet. The one where you don’t know what she’s thinking. And it’s probably something really, really messed up. Thankfully, she’s got the skills to back it up. A master at coding, without the morals needed to really understand why she shouldn’t do certain things, you’ve managed to win her trust - and mild obsession - by rescuing her from (you guessed it) Batarian slavers. Strangely enough, her tastes seem to be... rather extreme. And she will watch you in your sleep. And maybe in the shower. But if you ever need a computer system ruined, she can out code any VI in existence and is both fast and smart enough to challenge, and perhaps beat, an AI in real time. If you ever take her out on a date, she’ll be more than eager to impress you with her knowledge of opera and, somewhat surprisingly, her own impressive vocal ability.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 28,
-      "cost": 200,
-      "name": "Kind Krogan ",
-      "source": "Mass Effect - Jumpchain",
-      "description": "Putting someone down quickly is kind, right? And he only uses radioactive rounds because it’s fun, not because it melts people’s insides. A master of applying excessive force in a surgical manner, this Krogan is a bit of a hotshot, being young enough to think himself immortal, and experienced enough to know what he likes. Which is lots and lots and lots of heavy weapons. Thankfully he likes you, more than a little, and will spend hours explaining every niche use of every weapon mod in the galaxy. And even showing you pictures of how he put the theory into practice on his many, many dead enemies.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 29,
-      "cost": 200,
-      "name": "Privately-Owned Business",
-      "source": "Shepard Quest",
-      "description": "Think Shifting Developments, Lucca’s R&D Co., or a similar smaller outfit that generally licenses technology to larger corporations instead of manufacturing and selling it themselves. As far as assets go, this company has a small amount of lab space and manufacturing capability - generally enough to prototype technology and make a few demonstrators. It also has a few technologies - possibly patented - based on your Specialty purchase. It also comes with administrative, legal, and marketing support. At small business sizes the staff is competent, with nothing exceptional, but at This includes sales, marketing, and supplies. They’ll be able to get you eezo, rare earth materials, and any other materials commonly used in the technologies you design without breaking the bank.",
-      "chapter": "The Crew"
-    },
-    {
-      "__source": "The Celestial Omni-Tool - The Crew",
-      "__line": 30,
-      "cost": 400,
-      "name": "Tiny Ninja Recruitment",
-      "source": "Shepard Quest",
-      "description": "A tiny Kasumi sneaking into your lab because her father took her into work, Liara getting pushed by her mother into going to you for patronage so she acts as an intel source, a call for people with genetic disorders snagging Joker. You’re very lucky when it comes to running across the people who will be important in the course of events, randomly meeting people well before events make them famous. (Time of entry permitting, of course) You also have the charisma and interpersonal skills needed to develop good relations with these people. No sense in making a bad first impression, right?",
-      "chapter": "The Crew"
     }
   ],
   "4": [
