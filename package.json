@@ -12,7 +12,8 @@
   "description": "A Node.js script that processes multiple differently formatted CSV files into clean, normalized JSON, built specifically to prepare data for celestial.decaded.dev.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "run": "node index.js",
+    "test": "node test/md-parser.test.js"
   },
   "keywords": [
     "celestial",
