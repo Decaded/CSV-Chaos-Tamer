@@ -36,7 +36,7 @@ function isChapterHeading(lines, idx) {
 
 /**
  * Extract cost and name from the "rest of line" after the item number.
- * Observed formats:
+ * Handles all observed formats:
  *   (Free) Name – Desc          →  cost="Free",  name="Name"
  *   (-300CP) Name – Desc        →  cost="-300CP", name="Name"
  *   (200) Name- Desc            →  cost="200",    name="Name"
@@ -47,22 +47,53 @@ function isChapterHeading(lines, idx) {
  */
 function parseEntry(rawRest) {
 	// Clean markdown escape sequences: \* → *, \[ → [, \] → ], \! → !
-	const rest = rawRest.replace(/\\([*[\]!])/g, '$1');
+	const rest = rawRest.replace(/\\([*[\]!])/g, '$1').replace(/\u00AD/g, '-');
 	let name,
 		cost,
 		descStart = '';
 
-	// Format: Name | COST | Description (pipe-separated with cost in middle)
-	if (rest.includes('|')) {
-		const parts = rest.split('|').map(p => p.trim());
-		if (parts.length >= 2) {
-			let name = parts[0].replace(/^\*+/, '').trim();
-			let cost = parts[1];
-			let remainder = parts.slice(2).join('|').trim();
-			// Remove a leading colon and whitespace if present (often just a separator)
-			remainder = remainder.replace(/^\s*:\s*/, '');
-			return { name, cost, descStart: remainder };
+	// Format: (Type) Name (-4000): where the leading parens are metadata, not cost
+	const leadingTypeTrailingCost = rest.match(/^\((?!\s*(?:Free|-?\d|[^)]*(?:CP|BP|KP)))([^)]+)\)\s*(.+?)\s*\((-?\d+(?:\s*(?:CP|BP|KP))?)\)\s*:?\s*$/i);
+	if (leadingTypeTrailingCost) {
+		name = leadingTypeTrailingCost[2].replace(/^\*+/, '').trim();
+		cost = leadingTypeTrailingCost[3].trim();
+		return { name, cost, descStart: '' };
+	}
+
+	// Format: [COST] Name: Description or [COST] Name - Description or [COST] Name (desc on next line)
+	// Handle multiple brackets by preferring ones with CP/BP/KP
+	const bracketCostFirst = rest.match(/^\[([^\]]+)\][\s​\u200B]+(.+)$/s);
+	if (bracketCostFirst) {
+		let cost = bracketCostFirst[1].trim();
+		let afterCost = bracketCostFirst[2];
+
+		// Check if there's another bracket with CP/BP/KP - prefer that one
+		const secondBracket = afterCost.match(/^\[([^\]]*(?:CP|BP|KP|Free)[^\]]*)\][\s​\u200B]*(.*)$/is);
+		if (secondBracket && /(?:CP|BP|KP|Free)/i.test(secondBracket[1])) {
+			// Second bracket has a proper cost marker, use it instead
+			cost = secondBracket[1].trim();
+			afterCost = secondBracket[2];
 		}
+
+		// Check if there's a separator for inline description
+		const withSep = afterCost.match(/^(.+?)(?::\s+|\s+-\s+)(.+)$/s);
+		if (withSep) {
+			name = withSep[1].replace(/^\*+/, '').trim();
+			descStart = withSep[2];
+		} else {
+			name = afterCost.replace(/^\*+/, '').trim();
+			descStart = '';
+		}
+		return { name, cost, descStart };
+	}
+
+	// Format: "Name" [COST] Description (quoted name with bracket cost and zero-width spaces)
+	const quotedNameBracket = rest.match(/^[""](.+?)[""][\s​\u200B]*\[([^\]]+)\][\s​\u200B]+(.+)$/s);
+	if (quotedNameBracket) {
+		name = quotedNameBracket[1].trim();
+		cost = quotedNameBracket[2].trim();
+		descStart = quotedNameBracket[3];
+		return { name, cost, descStart };
 	}
 
 	// Format: (COST) Name ...
@@ -71,33 +102,59 @@ function parseEntry(rawRest) {
 		cost = parenCost[1].trim();
 		const after = rest.slice(parenCost[0].length);
 
-		// Try to split on various separators: em dash (–), escaped dash (\-), dash with space, or period followed by space and capital letter
-		const parts = after.match(/^(.+?)(?:\s*[–]\s+|\s+\\-\s+|\s+-\s+|-\s+|\.(?:\s+[A-Z]))(.*)$/s);
+		// Try to split on various separators: em dash (–), escaped dash (\-), dash with space, or period followed by a capitalized sentence
+		const parts = after.match(/^(.+?)(?:\s*[–]\s+|\s+\\-\s+|\s+-\s+|-\s+|\.\s+(?=[A-Z]))(.*)$/s);
 		if (parts) {
 			name = parts[1].replace(/\.$/, '').trim(); // Remove trailing period
-			// If we split on period, add it back to description start
-			descStart = after.slice(parts[1].length).replace(/^\.\s*/, '');
+			descStart = parts[2].trim();
 		} else {
 			name = after.trim();
 		}
 		return { name, cost, descStart };
 	}
 
-	// Format: Free/200/400 - Name or 300cp - Name (cost at beginning with dash)
+	// Format: Free/200/400 - Name, 300cp - Name, 100CP -- Name, or 200CP: Name
 	// Handles multi-costs like "Free/200/400" and single costs
-	const costDashName = rest.match(/^((?:Free|[\d/]+)(?:\s*[Cc][Pp]|\s*[Bb][Pp]|\s*[Kk][Pp])?)\s*[-–]\s*(.+)$/s);
+	const costDashName = rest.match(/^((?:Free|\d+)(?:\/(?:Free|\d+))*(?:\s*[Cc][Pp]|\s*[Bb][Pp]|\s*[Kk][Pp])?)\s*(?::|--+|[-–])\s*(.+)$/s);
 	if (costDashName) {
 		cost = costDashName[1].trim();
 		const nameAndDesc = costDashName[2];
 
 		// Check if there's another dash separator for description (need at least a few words before the dash)
-		const nameSplit = nameAndDesc.match(/^(.{3,}?)(?:\s+[-–]\s+)(.+)$/s);
+		const nameSplit = nameAndDesc.match(/^(.{3,}?)(?:\s+(?:--+|[-–])\s+|\.\s+(?=[A-Z])|:\s+)(.+)$/s);
 		if (nameSplit) {
 			name = nameSplit[1].replace(/^\*+/, '').trim();
 			descStart = nameSplit[2];
 		} else {
 			name = nameAndDesc.replace(/^\*+/, '').trim();
 		}
+		return { name, cost, descStart };
+	}
+
+	// Format: Name - 600 - Description
+	const nameDashCostDashDesc = rest.match(/^(.+?)\s*[-–]\s+(-?\d+(?:\s*(?:CP|BP|KP))?|Free)\s+[-–]\s+(.+)$/is);
+	if (nameDashCostDashDesc) {
+		name = nameDashCostDashDesc[1].replace(/^\*+/, '').trim();
+		cost = nameDashCostDashDesc[2].trim();
+		descStart = nameDashCostDashDesc[3];
+		return { name, cost, descStart };
+	}
+
+	// Format: Name: (COST): Description - cost in middle with colons
+	const nameColonCost = rest.match(/^(.+?):\s*\(([^)]*(?:CP|BP|KP|Free)[^)]*)\)\s*:\s*(.+)$/is);
+	if (nameColonCost) {
+		name = nameColonCost[1].replace(/^\*+/, '').trim();
+		cost = nameColonCost[2].replace(/,.*$/, '').trim();
+		descStart = nameColonCost[3];
+		return { name, cost, descStart };
+	}
+
+	// Format: Name (300, requirement text): Description or Name (300): Description
+	const numericParenCostColon = rest.match(/^(.+?)\s*\((-?\d+)(?:\s*,[^)]*)?\)\s*[-–:\s]*(.+)$/is);
+	if (numericParenCostColon) {
+		name = numericParenCostColon[1].replace(/^\*+/, '').trim();
+		cost = numericParenCostColon[2].trim();
+		descStart = numericParenCostColon[3];
 		return { name, cost, descStart };
 	}
 
@@ -121,6 +178,23 @@ function parseEntry(rawRest) {
 		return { name, cost, descStart: '' };
 	}
 
+	// Format: Name [600 KP] [Requires Something] (cost bracket plus metadata brackets)
+	const costBracketThenMetadata = rest.match(/^(.+?)\s*\[([^\]]*(?:CP|BP|KP|Free|SPECIAL)[^\]]*)\](?:\s*\[[^\]]+\])+\s*$/i);
+	if (costBracketThenMetadata) {
+		name = costBracketThenMetadata[1].replace(/^\*+/, '').trim();
+		cost = costBracketThenMetadata[2].trim();
+		return { name, cost, descStart: '' };
+	}
+
+	// Format: Name [COST]: Description
+	const bracketCostColonDesc = rest.match(/^(.+?)\s*\[([^\]]+)\]\s*:\s*(.+)$/s);
+	if (bracketCostColonDesc) {
+		name = bracketCostColonDesc[1].replace(/^\*+/, '').trim();
+		cost = bracketCostColonDesc[2].trim();
+		descStart = bracketCostColonDesc[3];
+		return { name, cost, descStart };
+	}
+
 	// Format: Name [COST] or Name [COST]: or Name [COST] - with optional zero-width spaces
 	const bracketCost = rest.match(/^(.+?)\s*\[([^\]]+)\]\s*[:​\u200B\s]*$/);
 	if (bracketCost) {
@@ -135,6 +209,15 @@ function parseEntry(rawRest) {
 		name = bracketCostDesc[1].replace(/^\*+/, '').trim();
 		cost = bracketCostDesc[2].trim();
 		descStart = bracketCostDesc[3];
+		return { name, cost, descStart };
+	}
+
+	// Format: Name [COST] Description
+	const bracketCostSpaceDesc = rest.match(/^(.+?)\s*\[([^\]]+)\][\s\u200B]+(.+)$/s);
+	if (bracketCostSpaceDesc) {
+		name = bracketCostSpaceDesc[1].replace(/^\*+/, '').trim();
+		cost = bracketCostSpaceDesc[2].trim();
+		descStart = bracketCostSpaceDesc[3];
 		return { name, cost, descStart };
 	}
 
@@ -203,8 +286,8 @@ async function parseMarkdown(filePath) {
 		// Remove {metadata} blocks like {exalted-solars .unnumbered}
 		let cleaned = line.replace(/\{[^}]+\}/g, '');
 
-		// Unescape markdown: \( → (, \) → ), \[ → [, \] → ], \| → |
-		cleaned = cleaned.replace(/\\([()[\]|])/g, '$1');
+		// Unescape markdown: \( → (, \) → ), \[ → [, \] → ], \' → '
+		cleaned = cleaned.replace(/\\([()[\]'"])/g, '$1');
 
 		// Remove blockquote markers but keep the content
 		cleaned = cleaned.replace(/^>\s*/, '');
@@ -257,7 +340,7 @@ async function parseMarkdown(filePath) {
 			const nextEntryLine = entryIdx + 1 < entryStarts.length ? entryStarts[entryIdx + 1].lineIdx : lines.length;
 			entryIdx++;
 
-			const { name, cost, descStart } = parseEntry(rest);
+			let { name, cost, descStart } = parseEntry(rest);
 
 			// Collect description: everything from line i+1 up to (but not including) the next entry,
 			// UNLESS there's a chapter heading in between – stop before that.
@@ -270,9 +353,99 @@ async function parseMarkdown(filePath) {
 				descLines.push(lines[j]);
 			}
 
+			const nextLineCostIndex = descLines.findIndex(line => line.trim());
+			const nextLineCost =
+				nextLineCostIndex >= 0
+					? descLines[nextLineCostIndex].trim().match(/^(-?\d+(?:\s*(?:CP|BP|KP))?|Free|Variable\s+CP)\s*:?\s*$/i)
+					: null;
+			const parsedCost = transforms.cost(cost);
+			const costLooksLikeMetadata = typeof parsedCost !== 'number' && !/free|\d/i.test(String(parsedCost));
+			if (nextLineCost && (cost === 'Free' || costLooksLikeMetadata)) {
+				cost = nextLineCost[1];
+				descLines.splice(0, nextLineCostIndex + 1);
+			}
+
 			const description = transforms.description(descLines.join('\n'));
 
 			if (!name) continue;
+
+			// Post-process: If name is just a cost, placeholder, or empty/very short, extract real name from description
+			const isProblematicName =
+				/^\d+\s*(?:CP|BP|KP)?:?\s*$/i.test(name) ||
+				name === '[Cost only - check source]' ||
+				name.length < 3 || // Very short or empty
+				/^\[.*\]$/.test(name); // Just brackets
+
+			if (isProblematicName) {
+				// Find first non-empty line in description
+				let realNameLine = null;
+				let realNameIndex = -1;
+				for (let k = 0; k < descLines.length; k++) {
+					const trimmed = descLines[k].trim();
+					if (trimmed && trimmed.length > 3) {
+						// Must be substantial
+						realNameLine = trimmed;
+						realNameIndex = k;
+						break;
+					}
+				}
+
+				if (realNameLine) {
+					const titleDescription = realNameLine.match(/^([^:]{3,80}):\s+(.+)$/s);
+					if (titleDescription) {
+						descLines.splice(0, realNameIndex + 1, titleDescription[2]);
+						const newDescription = transforms.description(descLines.join('\n'));
+						const costFromName = name.match(/\d+/)?.[0];
+
+						const row = {
+							id: transforms.id(id),
+							cost: transforms.cost(costFromName || cost),
+							name: transforms.name(titleDescription[1].trim()),
+							description: newDescription,
+							chapter: currentCategory || filename,
+							source: currentSource || filename,
+						};
+						rows.push(row);
+						continue;
+					}
+
+					const costOnlyName = /^\d+\s*(?:CP|BP|KP)?:?\s*$/i.test(transforms.name(name));
+					if (costOnlyName && currentSource && currentSource !== filename) {
+						const row = {
+							id: transforms.id(id),
+							cost: transforms.cost(name),
+							name: transforms.name(currentSource),
+							description,
+							chapter: currentCategory || filename,
+							source: currentSource || filename,
+						};
+						rows.push(row);
+						continue;
+					}
+
+					// Check if this line looks like a name (short, first line, or title-case)
+					const looksLikeName = realNameLine.length < 100 || realNameIndex === 0;
+					if (looksLikeName) {
+						// Remove the name line and any preceding blank lines from description
+						descLines.splice(0, realNameIndex + 1);
+						const newDescription = transforms.description(descLines.join('\n'));
+
+						// If original name had a cost number in it, use that; otherwise use the parsed cost
+						const costFromName = name.match(/\d+/)?.[0];
+
+						const row = {
+							id: transforms.id(id),
+							cost: transforms.cost(costFromName || cost),
+							name: transforms.name(realNameLine.replace(/\[.*?\]/, '').trim()), // Remove any bracket costs from name
+							description: newDescription,
+							chapter: currentCategory || filename,
+							source: currentSource || filename,
+						};
+						rows.push(row);
+						continue;
+					}
+				}
+			}
 
 			const row = {
 				id: transforms.id(id),
@@ -283,6 +456,18 @@ async function parseMarkdown(filePath) {
 				source: currentSource || filename,
 			};
 
+			if (
+				rows.length &&
+				row.cost === 0 &&
+				!row.description &&
+				row.name.length > 100 &&
+				/[.!?][\s\\]*$/.test(row.name)
+			) {
+				const previous = rows[rows.length - 1];
+				previous.description = transforms.description([previous.description, row.name].filter(Boolean).join('\n'));
+				continue;
+			}
+
 			rows.push(row);
 			// Skip past the lines we consumed (the for loop will increment i)
 			continue;
@@ -292,4 +477,4 @@ async function parseMarkdown(filePath) {
 	return { rows, source: currentCategory || filename };
 }
 
-module.exports = { parseMarkdown };
+module.exports = { parseMarkdown, parseEntry, isChapterHeading };

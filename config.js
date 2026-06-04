@@ -86,7 +86,9 @@ const md = {
 		},
 		cost: v => {
 			const str = String(v).trim();
+			// Remove zero-width spaces and other invisible Unicode characters
 			const cleaned = str
+				.replace(/[\u200B\u200C\u200D\uFEFF]/g, '')
 				.replace(/^-/, '')
 				.replace(/[()[\]]/g, '')
 				.trim();
@@ -102,10 +104,12 @@ const md = {
 		},
 		name: v =>
 			String(v || '')
+				.replace(/[\u200B\u200C\u200D\uFEFF]/g, '') // Remove zero-width spaces
 				.replace(/^\*+/, '')
 				.trim(),
 		description: v => {
-			const s = String(v ?? '').replace(/\\([*[\]!?.])/g, '$1');
+			// Remove escape sequences: \* → *, \[ → [, \] → ], \! → !, \' → ', \" → ", \< → <, \> → >
+			const s = String(v ?? '').replace(/\\([*[\]!?.'\"<>])/g, '$1');
 			return s
 				.replace(/[\r\t]+/g, '')
 				.replace(/\n{3,}/g, '\n\n') // cap at double-newline
