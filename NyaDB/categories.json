@@ -1,0 +1,16 @@
+{
+  "categories": [
+    {
+      "id": "the_godly_epic_meros_proto_xxxl",
+      "displayName": "The Godly Epic Meros Proto Xxxl",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "The Godly Epic Meros Proto Xxxl",
+          "database": "the_godly_epic_meros_proto_xxxl"
+        }
+      ]
+    }
+  ]
+}

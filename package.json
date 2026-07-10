@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@decaded/nyadb": "^5.0.0",
     "csv-parser": "^3.2.1",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
@@ -13,6 +14,7 @@
   "main": "index.js",
   "scripts": {
     "run": "node index.js",
+    "web": "node web-server.js",
     "test": "node test/md-parser.test.js && node test/index.test.js"
   },
   "keywords": [

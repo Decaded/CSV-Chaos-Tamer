@@ -30,6 +30,8 @@ The CSV Chaos Tamer standardizes this chaos into a consistent JSON format that c
 - Splits out specific chapters into their own JSON files if configured, aggregating split rows across all input folders.
 - Cleans text by trimming whitespace, fixing newlines, and removing stray characters.
 - Adds source metadata to parsed rows for easier debugging.
+- Produces contract-shaped Celestial Gambler API preparation files, including dataset, category, source, and grouped perk data.
+- Maintains a durable perk ID registry so rerenders keep existing perk IDs stable.
 - Can be extended with new CSV header mappings, Markdown entry formats, or split rules.
 
 ---
@@ -58,7 +60,7 @@ npm install
 npm run run
 ```
 
-4. Collect your cleaned JSON from `data/`.
+4. Collect your prepared JSON from `data/`.
 
 You can also run the parser directly:
 
@@ -71,6 +73,14 @@ Run the regression tests with:
 ```bash
 npm test
 ```
+
+Start the dark web interface with:
+
+```bash
+npm run web
+```
+
+The web interface accepts CSV and Markdown uploads, writes converted JSON files to a temporary job folder, and can store the prepared databases in `NyaDB/` using `@decaded/nyadb`.
 
 ---
 
@@ -89,7 +99,7 @@ If you need to split specific chapters into separate files, modify `shared.split
 
 ```js
 'waifu catalogue': 'waifu',
-'lewd': 'companion_(lewd)',
+'lewd': 'companion_lewd',
 ```
 
 Markdown parsing rules live in `md-parser.js`. When a new Markdown export has a weird entry layout, add a small regression case in `test/md-parser.test.js` before changing the parser.
@@ -104,24 +114,44 @@ node scripts/md-diagnose.js "sheets/DatasetName/source.md"
 
 ## Output format
 
-The script generates one JSON file per input folder, plus any configured split chapter files. Split chapter files are collected globally, so rows from multiple folders are written together instead of overwriting each other.
+The script generates Celestial Gambler API preparation files:
 
-Example output:
+- `data/dataset.json` - public dataset metadata.
+- `data/categories.json` - category metadata with available versions and database keys.
+- `data/sources.json` - canonical source metadata.
+- `data/{database}.json` - perk data grouped as `sourceId -> chapters -> chapterKey -> perks -> nameKey -> Perk[]`.
+- `perk-id-registry.json` - durable identity mapping used to keep generated perk IDs stable across rerenders.
+
+Do not delete `perk-id-registry.json` once a dataset has been released. It is the stable ID ledger; without it the builder cannot prove historical perk IDs were preserved.
+
+Example grouped perk output:
 
 ```json
 {
-  "1": [
-    {
-      "__source": "file1",
-      "__line": 2,
-      "id": 1,
-      "cost": 200,
-      "name": "Example Perk",
-      "source": "Example Jump",
-      "chapter": "Example Chapter",
-      "description": "Cleaned description here."
+  "source_example_jump": {
+    "source": "Example Jump",
+    "description": "Perks from Example Jump.",
+    "chapters": {
+      "example_chapter": {
+        "chapter": "Example Chapter",
+        "perks": {
+          "example_perk": [
+            {
+              "id": "perk_000001",
+              "cost": 200,
+              "name": "Example Perk",
+              "description": "Cleaned description here.",
+              "category": "example",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Example",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
     }
-  ]
+  }
 }
 ```
 

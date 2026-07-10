@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<title>CSV Chaos Tamer</title>
+		<link rel="stylesheet" href="/styles.css" />
+	</head>
+	<body>
+		<main class="app-shell">
+			<section class="workspace">
+				<header class="topbar">
+					<div>
+						<h1>CSV Chaos Tamer</h1>
+						<p id="databaseStatus">NyaDB status pending</p>
+					</div>
+					<button class="icon-button" id="refreshStatus" type="button" title="Refresh NyaDB status" aria-label="Refresh NyaDB status">
+						<span aria-hidden="true">R</span>
+					</button>
+				</header>
+
+				<div class="grid">
+					<form id="convertForm" class="panel upload-panel">
+						<div class="field">
+							<label for="category">Category folder</label>
+							<input id="category" name="category" value="uploaded" autocomplete="off" />
+						</div>
+
+						<div class="dropzone" id="dropzone">
+							<input id="files" name="files" type="file" accept=".csv,.md,text/csv,text/markdown" multiple />
+							<div>
+								<strong>Files</strong>
+								<span id="fileCount">No files selected</span>
+							</div>
+						</div>
+
+						<div class="field compact">
+							<label for="folderFiles">Folder upload</label>
+							<input id="folderFiles" name="folderFiles" type="file" webkitdirectory multiple />
+						</div>
+
+						<label class="check-row">
+							<input id="writeNyaDb" name="writeNyaDb" type="checkbox" checked />
+							<span>Write NyaDB databases</span>
+						</label>
+
+						<label class="check-row">
+							<input id="persistRegistry" name="persistRegistry" type="checkbox" checked />
+							<span>Persist new perk IDs</span>
+						</label>
+
+						<button class="primary-button" id="convertButton" type="submit">Convert</button>
+					</form>
+
+					<section class="panel report-panel">
+						<div class="panel-title">
+							<h2>Conversion</h2>
+							<span id="runState" class="status-pill idle">Idle</span>
+						</div>
+
+						<div id="metrics" class="metrics empty">
+							<div class="metric">
+								<span>Perks</span>
+								<strong>0</strong>
+							</div>
+							<div class="metric">
+								<span>Adult</span>
+								<strong>0</strong>
+							</div>
+							<div class="metric">
+								<span>Sources</span>
+								<strong>0</strong>
+							</div>
+							<div class="metric">
+								<span>Errors</span>
+								<strong>0</strong>
+							</div>
+						</div>
+
+						<div id="outputs" class="outputs"></div>
+					</section>
+				</div>
+
+				<section class="panel logs-panel">
+					<div class="panel-title">
+						<h2>Logs</h2>
+						<button class="ghost-button" id="clearLogs" type="button">Clear</button>
+					</div>
+					<pre id="logs" class="logs">Ready.</pre>
+				</section>
+			</section>
+		</main>
+		<script src="/app.js"></script>
+	</body>
+</html>

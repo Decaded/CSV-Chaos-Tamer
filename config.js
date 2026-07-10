@@ -6,11 +6,21 @@
 // ───────────────────── Shared ─────────────────────
 
 const shared = {
+	/** Public dataset metadata written to data/dataset.json */
+	dataset: {
+		name: 'Celestial Gambler Dataset',
+		datasetVersion: '2026.06.1',
+		description: 'Public Celestial Gambler perk dataset.',
+	},
+
 	/** Chapters that get split into separate JSON files. key = lowercase chapter, value = output filename (no extension) */
 	splitChapters: {
 		'waifu catalogue': 'waifu',
-		'lewd': 'companion_(lewd)',
+		'lewd': 'companion_lewd',
 	},
+
+	/** Databases that should mark every contained perk as adult content. */
+	adultDatabases: ['bordello', 'companion_lewd', 'debauchery'],
 
 	/** Description cleanup – reused by both CSV and MD transforms */
 	cleanDescription: v =>
@@ -21,13 +31,16 @@ const shared = {
 			.replace(/\s{2,}/g, ' ')
 			.trim(),
 
-	/** Convert a string to a filename-safe slug */
+	/** Convert a string to a machine-ID-safe slug */
 	slugify: str =>
-		str
+		String(str ?? '')
+			.normalize('NFKD')
+			.replace(/[\u0300-\u036f]/g, '')
 			.replace(/^Copy of\s*/i, '')
-			.replace(/'/g, '')
-			.replace(/\s+/g, '_')
-			.replace(/[^\w-]+/g, '')
+			.replace(/['’]/g, '')
+			.replace(/&/g, ' and ')
+			.replace(/[^a-zA-Z0-9_-]+/g, '_')
+			.replace(/_+/g, '_')
 			.replace(/^_+|_+$/g, '')
 			.toLowerCase(),
 };

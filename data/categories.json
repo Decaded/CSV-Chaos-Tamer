@@ -1,0 +1,483 @@
+{
+  "categories": [
+    {
+      "id": "akashic_grimoire_rift_mod",
+      "displayName": "Akashic Grimoire Rift Mod",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Akashic Grimoire Rift Mod",
+          "database": "akashic_grimoire_rift_mod"
+        }
+      ]
+    },
+    {
+      "id": "bordello",
+      "displayName": "Bordello",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Bordello",
+          "database": "bordello"
+        }
+      ]
+    },
+    {
+      "id": "codex_40k_edition",
+      "displayName": "Codex 40k Edition",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Codex 40k Edition",
+          "database": "codex_40k_edition"
+        }
+      ]
+    },
+    {
+      "id": "codex_fantasy_edition",
+      "displayName": "Codex Fantasy Edition",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Codex Fantasy Edition",
+          "database": "codex_fantasy_edition"
+        }
+      ]
+    },
+    {
+      "id": "comic_book",
+      "displayName": "Comic Book",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Comic Book",
+          "database": "comic_book"
+        }
+      ]
+    },
+    {
+      "id": "companion",
+      "displayName": "Companion",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Companion",
+          "database": "companion"
+        }
+      ]
+    },
+    {
+      "id": "companion_lewd",
+      "displayName": "Companion Lewd",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Companion Lewd",
+          "database": "companion_lewd"
+        }
+      ]
+    },
+    {
+      "id": "compendium",
+      "displayName": "Compendium",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Compendium",
+          "database": "compendium"
+        }
+      ]
+    },
+    {
+      "id": "darkest_tome",
+      "displayName": "Darkest Tome",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Darkest Tome",
+          "database": "darkest_tome"
+        }
+      ]
+    },
+    {
+      "id": "debauchery",
+      "displayName": "Debauchery",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Debauchery",
+          "database": "debauchery"
+        }
+      ]
+    },
+    {
+      "id": "dojo",
+      "displayName": "Dojo",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Dojo",
+          "database": "dojo"
+        }
+      ]
+    },
+    {
+      "id": "eldritch_grimoire",
+      "displayName": "Eldritch Grimoire",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Eldritch Grimoire",
+          "database": "eldritch_grimoire"
+        }
+      ]
+    },
+    {
+      "id": "forge",
+      "displayName": "Forge",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Forge",
+          "database": "forge"
+        }
+      ]
+    },
+    {
+      "id": "gardens",
+      "displayName": "Gardens",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Gardens",
+          "database": "gardens"
+        }
+      ]
+    },
+    {
+      "id": "grimoire",
+      "displayName": "Grimoire",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Grimoire",
+          "database": "grimoire"
+        },
+        {
+          "id": "v2",
+          "displayName": "Grimoire V2",
+          "database": "grimoire_v2"
+        },
+        {
+          "id": "v3",
+          "displayName": "Grimoire V3",
+          "database": "grimoire_v3"
+        },
+        {
+          "id": "v6",
+          "displayName": "Grimoire V6",
+          "database": "grimoire_v6"
+        }
+      ]
+    },
+    {
+      "id": "grimoire_yggdrasil_personal",
+      "displayName": "Grimoire Yggdrasil Personal",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Grimoire Yggdrasil Personal",
+          "database": "grimoire_yggdrasil_personal"
+        }
+      ]
+    },
+    {
+      "id": "heros_journey",
+      "displayName": "Heros Journey",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Heros Journey",
+          "database": "heros_journey"
+        }
+      ]
+    },
+    {
+      "id": "holocron",
+      "displayName": "Holocron",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Holocron",
+          "database": "holocron"
+        }
+      ]
+    },
+    {
+      "id": "laboratory",
+      "displayName": "Laboratory",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Laboratory",
+          "database": "laboratory"
+        }
+      ]
+    },
+    {
+      "id": "mutation",
+      "displayName": "Mutation",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Mutation",
+          "database": "mutation"
+        }
+      ]
+    },
+    {
+      "id": "ocarina",
+      "displayName": "Ocarina",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Ocarina",
+          "database": "ocarina"
+        }
+      ]
+    },
+    {
+      "id": "omni-tool",
+      "displayName": "Omni Tool",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Omni Tool",
+          "database": "omni-tool"
+        }
+      ]
+    },
+    {
+      "id": "pipboy",
+      "displayName": "Pipboy",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Pipboy",
+          "database": "pipboy"
+        }
+      ]
+    },
+    {
+      "id": "primordial_flames",
+      "displayName": "Primordial Flames",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Primordial Flames",
+          "database": "primordial_flames"
+        }
+      ]
+    },
+    {
+      "id": "reliquary",
+      "displayName": "Reliquary",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Reliquary",
+          "database": "reliquary"
+        }
+      ]
+    },
+    {
+      "id": "ring",
+      "displayName": "Ring",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Ring",
+          "database": "ring"
+        }
+      ]
+    },
+    {
+      "id": "scrolls",
+      "displayName": "Scrolls",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Scrolls",
+          "database": "scrolls"
+        },
+        {
+          "id": "v1",
+          "displayName": "Scrolls V1",
+          "database": "scrolls_v1"
+        },
+        {
+          "id": "v3",
+          "displayName": "Scrolls V3",
+          "database": "scrolls_v3"
+        }
+      ]
+    },
+    {
+      "id": "secundus",
+      "displayName": "Secundus",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Secundus",
+          "database": "secundus"
+        }
+      ]
+    },
+    {
+      "id": "something",
+      "displayName": "Something",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Something",
+          "database": "something"
+        },
+        {
+          "id": "v2",
+          "displayName": "Something V2",
+          "database": "something_v2"
+        }
+      ]
+    },
+    {
+      "id": "song",
+      "displayName": "Song",
+      "defaultVersion": "v2",
+      "versions": [
+        {
+          "id": "v2",
+          "displayName": "Song V2",
+          "database": "song_v2"
+        }
+      ]
+    },
+    {
+      "id": "spellbook",
+      "displayName": "Spellbook",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Spellbook",
+          "database": "spellbook"
+        },
+        {
+          "id": "v2",
+          "displayName": "Spellbook V2",
+          "database": "spellbook_v2"
+        }
+      ]
+    },
+    {
+      "id": "tarot",
+      "displayName": "Tarot",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Tarot",
+          "database": "tarot"
+        }
+      ]
+    },
+    {
+      "id": "the_godly_epic_meros_proto_xxxl",
+      "displayName": "The Godly Epic Meros Proto Xxxl",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "The Godly Epic Meros Proto Xxxl",
+          "database": "the_godly_epic_meros_proto_xxxl"
+        }
+      ]
+    },
+    {
+      "id": "treasure_chest",
+      "displayName": "Treasure Chest",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Treasure Chest",
+          "database": "treasure_chest"
+        }
+      ]
+    },
+    {
+      "id": "vault",
+      "displayName": "Vault",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Vault",
+          "database": "vault"
+        }
+      ]
+    },
+    {
+      "id": "waifu",
+      "displayName": "Waifu",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Waifu",
+          "database": "waifu"
+        }
+      ]
+    },
+    {
+      "id": "warp_core",
+      "displayName": "Warp Core",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Warp Core",
+          "database": "warp_core"
+        }
+      ]
+    }
+  ]
+}

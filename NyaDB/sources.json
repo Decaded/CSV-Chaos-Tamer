@@ -1,0 +1,832 @@
+{
+  "sources": [
+    {
+      "id": "source_-_attention_partially_differentiates_a_thing_from_its_environment",
+      "name": "\\- Attention partially differentiates a thing from its environment",
+      "displayName": "\\- Attention partially differentiates a thing from its environment",
+      "description": "Perks from \\- Attention partially differentiates a thing from its environment.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_-green_replenish_your_health",
+      "name": "-Green: Replenish your health",
+      "displayName": "-Green: Replenish your health",
+      "description": "Perks from -Green: Replenish your health.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_40k_necron",
+      "name": "40k Necron",
+      "displayName": "40k Necron",
+      "description": "Perks from 40k Necron.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_aeneid",
+      "name": "Aeneid",
+      "displayName": "Aeneid",
+      "description": "Perks from Aeneid.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_asuras_wrath",
+      "name": "Asura's Wrath",
+      "displayName": "Asura's Wrath",
+      "description": "Perks from Asura's Wrath.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_bloodborne_version_1_1",
+      "name": "Bloodborne Version 1.1",
+      "displayName": "Bloodborne Version 1.1",
+      "description": "Perks from Bloodborne Version 1.1.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_burn_legends_shards_of_the_exalted_dream",
+      "name": "Burn Legends (Shards of the Exalted Dream)",
+      "displayName": "Burn Legends (Shards of the Exalted Dream)",
+      "description": "Perks from Burn Legends (Shards of the Exalted Dream).",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_chinese_mythology",
+      "name": "Chinese Mythology",
+      "displayName": "Chinese Mythology",
+      "description": "Perks from Chinese Mythology.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_chronicles_of_ancient_darknes_v2_2",
+      "name": "Chronicles of Ancient Darknes v2.2",
+      "displayName": "Chronicles of Ancient Darknes v2.2",
+      "description": "Perks from Chronicles of Ancient Darknes v2.2.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_d_y_n_freaks",
+      "name": "D.Y.N. Freaks",
+      "displayName": "D.Y.N. Freaks",
+      "description": "Perks from D.Y.N. Freaks.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_darksiders",
+      "name": "Darksiders",
+      "displayName": "Darksiders",
+      "description": "Perks from Darksiders.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_dc_--_earth_2",
+      "name": "DC -- Earth 2",
+      "displayName": "DC -- Earth 2",
+      "description": "Perks from DC -- Earth 2.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_dc_--_larfleeze",
+      "name": "DC -- Larfleeze",
+      "displayName": "DC -- Larfleeze",
+      "description": "Perks from DC -- Larfleeze.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_dc_the_fourth_world",
+      "name": "DC The Fourth World",
+      "displayName": "DC The Fourth World",
+      "description": "Perks from DC The Fourth World.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_demon_the_descent",
+      "name": "Demon the Descent",
+      "displayName": "Demon the Descent",
+      "description": "Perks from Demon the Descent.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_demon_the_fallen",
+      "name": "Demon The Fallen",
+      "displayName": "Demon The Fallen",
+      "description": "Perks from Demon The Fallen.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_diablo_3_v1_12",
+      "name": "Diablo 3 V1.12",
+      "displayName": "Diablo 3 V1.12",
+      "description": "Perks from Diablo 3 V1.12.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_dies_irae",
+      "name": "Dies Irae",
+      "displayName": "Dies Irae",
+      "description": "Perks from Dies Irae.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_dragon_ball_af",
+      "name": "Dragon Ball AF",
+      "displayName": "Dragon Ball AF",
+      "description": "Perks from Dragon Ball AF.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_dragon_ball_super",
+      "name": "Dragon Ball Super",
+      "displayName": "Dragon Ball Super",
+      "description": "Perks from Dragon Ball Super.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_dragon_ball_xenoverse",
+      "name": "Dragon Ball Xenoverse",
+      "displayName": "Dragon Ball Xenoverse",
+      "description": "Perks from Dragon Ball Xenoverse.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_dragon_ball_z_sb_version",
+      "name": "Dragon Ball Z SB Version",
+      "displayName": "Dragon Ball Z SB Version",
+      "description": "Perks from Dragon Ball Z SB Version.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_egyptian_mythology",
+      "name": "Egyptian Mythology",
+      "displayName": "Egyptian Mythology",
+      "description": "Perks from Egyptian Mythology.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_exalted_--_solars",
+      "name": "Exalted -- Solars",
+      "displayName": "Exalted -- Solars",
+      "description": "Perks from Exalted -- Solars.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_exalted_--_spirits_of_creation",
+      "name": "Exalted -- Spirits of Creation",
+      "displayName": "Exalted -- Spirits of Creation",
+      "description": "Perks from Exalted -- Spirits of Creation.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_exalted_--_the_dragonbloods",
+      "name": "Exalted -- The Dragonbloods",
+      "displayName": "Exalted -- The Dragonbloods",
+      "description": "Perks from Exalted -- The Dragonbloods.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_exalted_--_the_infernals",
+      "name": "Exalted -- The Infernals",
+      "displayName": "Exalted -- The Infernals",
+      "description": "Perks from Exalted -- The Infernals.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_exalted_--_the_lunars",
+      "name": "Exalted -- The Lunars",
+      "displayName": "Exalted -- The Lunars",
+      "description": "Perks from Exalted -- The Lunars.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_exalted_abyssals",
+      "name": "Exalted Abyssals",
+      "displayName": "Exalted Abyssals",
+      "description": "Perks from Exalted Abyssals.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_exalted_sidereals",
+      "name": "Exalted Sidereals",
+      "displayName": "Exalted Sidereals",
+      "description": "Perks from Exalted Sidereals.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_exalted_the_first_age_v_1_3",
+      "name": "Exalted the First Age V 1.3",
+      "displayName": "Exalted the First Age V 1.3",
+      "description": "Perks from Exalted the First Age V 1.3.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_fate_legends_--_empires_of_antiquity",
+      "name": "Fate/Legends -- Empires of Antiquity",
+      "displayName": "Fate/Legends -- Empires of Antiquity",
+      "description": "Perks from Fate/Legends -- Empires of Antiquity.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_fate_legends_--_land_of_shadows",
+      "name": "Fate/Legends -- Land of Shadows",
+      "displayName": "Fate/Legends -- Land of Shadows",
+      "description": "Perks from Fate/Legends -- Land of Shadows.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_fate_legends_--_nirvana_yuga",
+      "name": "Fate/Legends -- Nirvana Yuga",
+      "displayName": "Fate/Legends -- Nirvana Yuga",
+      "description": "Perks from Fate/Legends -- Nirvana Yuga.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_fate_legends_--_oasis_of_fantasy",
+      "name": "Fate/Legends -- Oasis of Fantasy",
+      "displayName": "Fate/Legends -- Oasis of Fantasy",
+      "description": "Perks from Fate/Legends -- Oasis of Fantasy.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_fate_legends_--_strange_new_world",
+      "name": "Fate/Legends -- Strange New World",
+      "displayName": "Fate/Legends -- Strange New World",
+      "description": "Perks from Fate/Legends -- Strange New World.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_fate_legends_--_the_land_of_the_rising_sun",
+      "name": "Fate/Legends -- The land of the Rising Sun",
+      "displayName": "Fate/Legends -- The land of the Rising Sun",
+      "description": "Perks from Fate/Legends -- The land of the Rising Sun.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_galacta_daughter_of_galactus",
+      "name": "Galacta Daughter of Galactus",
+      "displayName": "Galacta Daughter of Galactus",
+      "description": "Perks from Galacta Daughter of Galactus.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_generic_angels_and_demons_v1_0",
+      "name": "Generic Angels and Demons V1.0",
+      "displayName": "Generic Angels and Demons V1.0",
+      "description": "Perks from Generic Angels and Demons V1.0.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_generic_divinity",
+      "name": "Generic Divinity",
+      "displayName": "Generic Divinity",
+      "description": "Perks from Generic Divinity.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_generic_lovecraft_film_version_1_0_3",
+      "name": "Generic Lovecraft Film Version 1.0.3",
+      "displayName": "Generic Lovecraft Film Version 1.0.3",
+      "description": "Perks from Generic Lovecraft Film Version 1.0.3.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_germanic_norse_mythology",
+      "name": "Germanic_Norse Mythology",
+      "displayName": "Germanic_Norse Mythology",
+      "description": "Perks from Germanic_Norse Mythology.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_god",
+      "name": "God",
+      "displayName": "God",
+      "description": "Perks from God.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_god_of_war",
+      "name": "God of War",
+      "displayName": "God of War",
+      "description": "Perks from God of War.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_godbound_v_1_85",
+      "name": "Godbound V 1.85",
+      "displayName": "Godbound V 1.85",
+      "description": "Perks from Godbound V 1.85.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_grant_morrisons_18_days",
+      "name": "Grant Morrison's 18 Days",
+      "displayName": "Grant Morrison's 18 Days",
+      "description": "Perks from Grant Morrison's 18 Days.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_greek_myth",
+      "name": "Greek Myth",
+      "displayName": "Greek Myth",
+      "description": "Perks from Greek Myth.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_greek_mythology_reddit",
+      "name": "Greek Mythology Reddit",
+      "displayName": "Greek Mythology Reddit",
+      "description": "Perks from Greek Mythology Reddit.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_heavens_reach_shards_of_the_exalted_dream",
+      "name": "Heaven's Reach (Shards of the Exalted Dream)",
+      "displayName": "Heaven's Reach (Shards of the Exalted Dream)",
+      "description": "Perks from Heaven's Reach (Shards of the Exalted Dream).",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_horus_heresy_--_the_primarchs",
+      "name": "Horus Heresy -- The Primarchs",
+      "displayName": "Horus Heresy -- The Primarchs",
+      "description": "Perks from Horus Heresy -- The Primarchs.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_impurity_level_1_000",
+      "name": "Impurity Level: 1,000",
+      "displayName": "Impurity Level: 1,000",
+      "description": "Perks from Impurity Level: 1,000.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_impurity_level_10_000",
+      "name": "Impurity Level: 10,000",
+      "displayName": "Impurity Level: 10,000",
+      "description": "Perks from Impurity Level: 10,000.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_impurity_level_250",
+      "name": "Impurity Level: 250",
+      "displayName": "Impurity Level: 250",
+      "description": "Perks from Impurity Level: 250.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_impurity_level_immeasurable",
+      "name": "Impurity Level: Immeasurable",
+      "displayName": "Impurity Level: Immeasurable",
+      "description": "Perks from Impurity Level: Immeasurable.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_irish_mythology",
+      "name": "Irish Mythology",
+      "displayName": "Irish Mythology",
+      "description": "Perks from Irish Mythology.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_irredeemable",
+      "name": "Irredeemable",
+      "displayName": "Irredeemable",
+      "description": "Perks from Irredeemable.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_journey_to_the_west",
+      "name": "Journey to the West",
+      "displayName": "Journey to the West",
+      "description": "Perks from Journey to the West.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_kid_icarus",
+      "name": "Kid Icarus",
+      "displayName": "Kid Icarus",
+      "description": "Perks from Kid Icarus.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_kill_six_billion_demons",
+      "name": "KILL SIX BILLION DEMONS",
+      "displayName": "KILL SIX BILLION DEMONS",
+      "description": "Perks from KILL SIX BILLION DEMONS.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_kingdom_come",
+      "name": "Kingdom Come",
+      "displayName": "Kingdom Come",
+      "description": "Perks from Kingdom Come.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_kult_v_1_1000",
+      "name": "Kult V 1.1000",
+      "displayName": "Kult V 1.1000",
+      "description": "Perks from Kult V 1.1000.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_leviathan_the_tempest",
+      "name": "Leviathan The Tempest",
+      "displayName": "Leviathan The Tempest",
+      "description": "Perks from Leviathan The Tempest.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_lord_of_light",
+      "name": "Lord of Light",
+      "displayName": "Lord of Light",
+      "description": "Perks from Lord of Light.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_marvel_-_magic",
+      "name": "Marvel - Magic",
+      "displayName": "Marvel - Magic",
+      "description": "Perks from Marvel - Magic.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_marvel_cosmic",
+      "name": "Marvel Cosmic",
+      "displayName": "Marvel Cosmic",
+      "description": "Perks from Marvel Cosmic.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_miracleman",
+      "name": "Miracleman",
+      "displayName": "Miracleman",
+      "description": "Perks from Miracleman.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_mortal_kombat_9-10",
+      "name": "Mortal Kombat 9-10",
+      "displayName": "Mortal Kombat 9-10",
+      "description": "Perks from Mortal Kombat 9-10.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_nobilis",
+      "name": "Nobilis",
+      "displayName": "Nobilis",
+      "description": "Perks from Nobilis.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_okami",
+      "name": "Okami",
+      "displayName": "Okami",
+      "description": "Perks from Okami.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_old_man_henderson",
+      "name": "Old Man Henderson",
+      "displayName": "Old Man Henderson",
+      "description": "Perks from Old Man Henderson.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_percy_jackson",
+      "name": "Percy Jackson",
+      "displayName": "Percy Jackson",
+      "description": "Perks from Percy Jackson.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_percy_jackson_and_the_olympians",
+      "name": "Percy Jackson and the Olympians",
+      "displayName": "Percy Jackson and the Olympians",
+      "description": "Perks from Percy Jackson and the Olympians.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_saint_seiya_--_episode_g",
+      "name": "Saint Seiya -- Episode G",
+      "displayName": "Saint Seiya -- Episode G",
+      "description": "Perks from Saint Seiya -- Episode G.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_saint_seiya_original_series",
+      "name": "Saint Seiya (Original Series)",
+      "displayName": "Saint Seiya (Original Series)",
+      "description": "Perks from Saint Seiya (Original Series).",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_scion_v_1_2",
+      "name": "Scion V 1.2",
+      "displayName": "Scion V 1.2",
+      "description": "Perks from Scion V 1.2.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_shin_megami_tensei_ii",
+      "name": "Shin Megami Tensei II",
+      "displayName": "Shin Megami Tensei II",
+      "description": "Perks from Shin Megami Tensei II.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_smite",
+      "name": "Smite",
+      "displayName": "Smite",
+      "description": "Perks from Smite.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_smt_v",
+      "name": "SMT V",
+      "displayName": "SMT V",
+      "description": "Perks from SMT V.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_spawn",
+      "name": "Spawn",
+      "displayName": "Spawn",
+      "description": "Perks from Spawn.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_sucker_for_love",
+      "name": "Sucker for Love",
+      "displayName": "Sucker for Love",
+      "description": "Perks from Sucker for Love.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_supergod",
+      "name": "Supergod",
+      "displayName": "Supergod",
+      "description": "Perks from Supergod.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_supernatural",
+      "name": "Supernatural",
+      "displayName": "Supernatural",
+      "description": "Perks from Supernatural.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_thailand_mythology",
+      "name": "Thailand Mythology",
+      "displayName": "Thailand Mythology",
+      "description": "Perks from Thailand Mythology.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_the_journey_to_the_west",
+      "name": "The Journey To The West",
+      "displayName": "The Journey To The West",
+      "description": "Perks from The Journey To The West.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_the_miskatonic",
+      "name": "The Miskatonic",
+      "displayName": "The Miskatonic",
+      "description": "Perks from The Miskatonic.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_the_sundered_world_nwod_v_1_0",
+      "name": "The Sundered World (nWoD) V 1.0",
+      "displayName": "The Sundered World (nWoD) V 1.0",
+      "description": "Perks from The Sundered World (nWoD) V 1.0.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_transformers",
+      "name": "Transformers",
+      "displayName": "Transformers",
+      "description": "Perks from Transformers.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_viking_saga",
+      "name": "Viking Saga",
+      "displayName": "Viking Saga",
+      "description": "Perks from Viking Saga.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_warhammer_40k_the_warp",
+      "name": "Warhammer 40k\\_ The Warp",
+      "displayName": "Warhammer 40k\\_ The Warp",
+      "description": "Perks from Warhammer 40k\\_ The Warp.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_warhammer_40k-_black_crusade_part_1",
+      "name": "Warhammer 40k- Black Crusade Part 1",
+      "displayName": "Warhammer 40k- Black Crusade Part 1",
+      "description": "Perks from Warhammer 40k- Black Crusade Part 1.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_watchmen",
+      "name": "Watchmen",
+      "displayName": "Watchmen",
+      "description": "Perks from Watchmen.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    },
+    {
+      "id": "source_world_of_darkness_--_mummy",
+      "name": "World of Darkness -- Mummy",
+      "displayName": "World of Darkness -- Mummy",
+      "description": "Perks from World of Darkness -- Mummy.",
+      "categories": [
+        "the_godly_epic_meros_proto_xxxl"
+      ]
+    }
+  ]
+}
