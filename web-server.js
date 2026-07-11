@@ -37,6 +37,53 @@ function sendText(res, statusCode, message) {
 	res.end(message);
 }
 
+async function readJsonBody(req) {
+	const body = await readRequestBody(req);
+	if (!body.length) return {};
+	try {
+		return JSON.parse(body.toString('utf8'));
+	} catch (error) {
+		throw new Error('Invalid JSON body');
+	}
+}
+
+function createStorageClient() {
+	const NyaDB = require('@decaded/nyadb');
+	return new NyaDB({
+		writeDebounce: 0,
+		maxFileSize: 1024,
+		formattingStyle: 'space',
+		indentSize: 2,
+	});
+}
+
+function safeDatabaseName(value) {
+	const name = String(value || '')
+		.trim()
+		.toLowerCase();
+	if (!/^[a-z0-9_-]+$/.test(name)) {
+		throw new Error('Database name must use lowercase letters, numbers, underscores, or dashes');
+	}
+	return name;
+}
+
+function normalizeVersionId(value) {
+	const id = String(value || '')
+		.trim()
+		.toLowerCase();
+	if (!/^[a-z0-9_-]+$/.test(id)) {
+		throw new Error('Version ID must use lowercase letters, numbers, underscores, or dashes');
+	}
+	return id;
+}
+
+function toArray(value, fallbackKey) {
+	if (Array.isArray(value)) return value;
+	if (!value || typeof value !== 'object') return [];
+	if (Array.isArray(value[fallbackKey])) return value[fallbackKey];
+	return Object.values(value);
+}
+
 function safeSegment(value, fallback = 'upload') {
 	const cleaned = String(value || fallback)
 		.normalize('NFKD')
@@ -160,8 +207,7 @@ function createLogger() {
 	};
 }
 
-async function writeUploadedFiles(files, fields, sheetsRoot) {
-	const category = safeSegment(fields.category || 'uploaded');
+async function writeUploadedFiles(files, sheetsRoot) {
 	const saved = [];
 
 	for (const file of files) {
@@ -171,7 +217,8 @@ async function writeUploadedFiles(files, fields, sheetsRoot) {
 		if (ext !== '.csv' && ext !== '.md') continue;
 
 		const parts = relative.split('/');
-		const targetRelative = parts.length > 1 ? relative : path.join(category, parts[0]);
+		const inferredCategory = safeSegment(path.basename(parts[0], ext), 'uploaded');
+		const targetRelative = parts.length > 1 ? relative : path.join(inferredCategory, parts[0]);
 		const targetPath = path.join(sheetsRoot, targetRelative);
 		const resolved = path.resolve(targetPath);
 		if (!resolved.startsWith(path.resolve(sheetsRoot) + path.sep)) throw new Error(`Unsafe upload path: ${file.filename}`);
@@ -209,10 +256,11 @@ async function handleConvert(req, res) {
 	try {
 		await fs.promises.mkdir(sheetsRoot, { recursive: true });
 		const { fields, files } = await parseMultipartRequest(req);
-		const uploadedFiles = await writeUploadedFiles(files, fields, sheetsRoot);
+		const uploadedFiles = await writeUploadedFiles(files, sheetsRoot);
 		if (!uploadedFiles.length) throw new Error('Upload at least one CSV or Markdown file.');
 
 		const persistRegistry = fields.persistRegistry === 'true';
+		const writeFiles = fields.writeFiles === 'true';
 		if (!persistRegistry && fs.existsSync(MAIN_REGISTRY)) {
 			await fs.promises.copyFile(MAIN_REGISTRY, tempRegistry);
 		}
@@ -222,7 +270,9 @@ async function handleConvert(req, res) {
 			outRoot,
 			registryPath: persistRegistry ? MAIN_REGISTRY : tempRegistry,
 			retireMissing: false,
+			writeFiles,
 			writeNyaDb: fields.writeNyaDb !== 'false',
+			mergeNyaDb: true,
 			logger,
 		});
 
@@ -275,16 +325,15 @@ function handleDownload(req, res, url) {
 }
 
 function handleStatus(_req, res) {
-	let nyaDb = null;
+	let storage = null;
 	try {
-		const NyaDB = require('@decaded/nyadb');
-		const db = new NyaDB({ writeDebounce: 0, maxFileSize: 1024 });
-		nyaDb = {
+		const db = createStorageClient();
+		storage = {
 			databases: db.getList().sort((a, b) => a.localeCompare(b)),
 			size: db.size(),
 		};
 	} catch (error) {
-		nyaDb = { error: error.message };
+		storage = { error: error.message };
 	}
 
 	sendJson(res, 200, {
@@ -294,8 +343,134 @@ function handleStatus(_req, res) {
 			report: job.report,
 			error: job.error,
 		})),
-		nyaDb,
+		storage,
+		nyaDb: storage,
 	});
+}
+
+function handleDatasetList(_req, res) {
+	try {
+		const db = createStorageClient();
+		const databases = db.getList().sort((a, b) => a.localeCompare(b));
+		const categoriesPayload = db.exists('categories') ? db.get('categories') : { categories: [] };
+		sendJson(res, 200, {
+			databases,
+			categories: toArray(categoriesPayload, 'categories'),
+		});
+	} catch (error) {
+		sendJson(res, 500, { error: error.message });
+	}
+}
+
+function handleGetDataset(_req, res, url) {
+	try {
+		const name = safeDatabaseName(url.searchParams.get('name'));
+		const db = createStorageClient();
+		if (!db.exists(name)) return sendJson(res, 404, { error: `Database not found: ${name}` });
+		sendJson(res, 200, {
+			name,
+			contents: db.get(name),
+		});
+	} catch (error) {
+		sendJson(res, 400, { error: error.message });
+	}
+}
+
+async function handlePutDataset(req, res, url) {
+	try {
+		const name = safeDatabaseName(url.searchParams.get('name'));
+		const body = await readJsonBody(req);
+		if (body === null || typeof body !== 'object' || Array.isArray(body)) {
+			return sendJson(res, 400, { error: 'Dataset payload must be a JSON object' });
+		}
+
+		const db = createStorageClient();
+		if (!db.exists(name)) db.create(name);
+		if (!db.set(name, body)) {
+			return sendJson(res, 500, { error: `Failed to save database: ${name}` });
+		}
+		sendJson(res, 200, { ok: true, name });
+	} catch (error) {
+		sendJson(res, 400, { error: error.message });
+	}
+}
+
+async function handleUpsertCategoryVersion(req, res) {
+	try {
+		const body = await readJsonBody(req);
+		const categoryId = safeDatabaseName(body.categoryId);
+		const displayName = String(body.displayName || categoryId).trim();
+		const defaultVersion = normalizeVersionId(body.defaultVersion || 'default');
+		const versionsInput = Array.isArray(body.versions) ? body.versions : [];
+		if (!versionsInput.length) {
+			return sendJson(res, 400, { error: 'At least one version is required' });
+		}
+
+		const db = createStorageClient();
+		const knownDatabases = new Set(db.getList());
+		const seenVersionIds = new Set();
+		const versions = versionsInput.map((version, index) => {
+			const id = normalizeVersionId(version.id);
+			if (seenVersionIds.has(id)) {
+				throw new Error(`Duplicate version ID: ${id}`);
+			}
+			seenVersionIds.add(id);
+			const database = safeDatabaseName(version.database);
+			if (!knownDatabases.has(database)) {
+				throw new Error(`Version ${id} references unknown database: ${database}`);
+			}
+			return {
+				id,
+				displayName: String(version.displayName || `${displayName} ${id.toUpperCase()}`).trim(),
+				database,
+				order: Number.isFinite(Number(version.order)) ? Number(version.order) : index,
+			};
+		});
+
+		if (!seenVersionIds.has(defaultVersion)) {
+			throw new Error(`defaultVersion not found in versions: ${defaultVersion}`);
+		}
+
+		const categoriesPayload = db.exists('categories') ? db.get('categories') : { categories: [] };
+		const categories = toArray(categoriesPayload, 'categories').filter(entry => entry && entry.id);
+		const byId = new Map(categories.map(category => [category.id, category]));
+		const existing = byId.get(categoryId) || { id: categoryId, versions: [] };
+		const existingByVersion = new Map((existing.versions || []).filter(v => v?.id).map(v => [v.id, v]));
+		for (const version of versions) {
+			existingByVersion.set(version.id, {
+				...(existingByVersion.get(version.id) || {}),
+				id: version.id,
+				displayName: version.displayName,
+				database: version.database,
+				order: version.order,
+			});
+		}
+
+		const mergedVersions = [...existingByVersion.values()]
+			.sort((a, b) => Number(a.order ?? 0) - Number(b.order ?? 0) || String(a.id).localeCompare(String(b.id)))
+			.map(({ order, ...version }) => version);
+
+		byId.set(categoryId, {
+			...existing,
+			id: categoryId,
+			displayName,
+			defaultVersion,
+			versions: mergedVersions,
+		});
+
+		const nextCategories = [...byId.values()].sort((a, b) => String(a.id).localeCompare(String(b.id)));
+		if (!db.exists('categories')) db.create('categories');
+		if (!db.set('categories', { categories: nextCategories })) {
+			throw new Error('Failed to save categories database');
+		}
+
+		sendJson(res, 200, {
+			ok: true,
+			category: byId.get(categoryId),
+		});
+	} catch (error) {
+		sendJson(res, 400, { error: error.message });
+	}
 }
 
 function serveStatic(req, res, url) {
@@ -312,7 +487,11 @@ function serveStatic(req, res, url) {
 const server = http.createServer((req, res) => {
 	const url = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
 	if (req.method === 'POST' && url.pathname === '/api/convert') return handleConvert(req, res);
+	if (req.method === 'POST' && url.pathname === '/api/category-version') return handleUpsertCategoryVersion(req, res);
 	if (req.method === 'GET' && url.pathname === '/api/download') return handleDownload(req, res, url);
+	if (req.method === 'GET' && url.pathname === '/api/datasets') return handleDatasetList(req, res);
+	if (req.method === 'GET' && url.pathname === '/api/dataset') return handleGetDataset(req, res, url);
+	if (req.method === 'PUT' && url.pathname === '/api/dataset') return handlePutDataset(req, res, url);
 	if (req.method === 'GET' && url.pathname === '/api/status') return handleStatus(req, res);
 	if (req.method === 'GET') return serveStatic(req, res, url);
 	return sendText(res, 405, 'Method not allowed');
@@ -320,7 +499,5 @@ const server = http.createServer((req, res) => {
 
 fs.mkdirSync(JOB_ROOT, { recursive: true });
 server.listen(PORT, HOST, () => {
-	console.log(`CSV Chaos Tamer web interface running at http://${HOST}:${PORT}`);
-	console.log(`NyaDB output folder: ${path.join(ROOT, 'NyaDB')}`);
-	console.log(`Upload staging folder: ${path.relative(ROOT, JOB_ROOT)}`);
+	console.log(`Web interface running at http://${HOST}:${PORT}`);
 });

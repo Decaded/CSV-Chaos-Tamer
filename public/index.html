@@ -2,93 +2,415 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1"
+		/>
 		<title>CSV Chaos Tamer</title>
-		<link rel="stylesheet" href="/styles.css" />
+		<link
+			rel="stylesheet"
+			href="/styles.css"
+		/>
 	</head>
 	<body>
+		<div
+			class="ribbon-corner"
+			aria-hidden="true"
+		>
+			<div class="ribbon">IN DEVELOPMENT</div>
+		</div>
 		<main class="app-shell">
 			<section class="workspace">
 				<header class="topbar">
 					<div>
 						<h1>CSV Chaos Tamer</h1>
-						<p id="databaseStatus">NyaDB status pending</p>
+						<p id="databaseStatus">Storage status pending</p>
 					</div>
-					<button class="icon-button" id="refreshStatus" type="button" title="Refresh NyaDB status" aria-label="Refresh NyaDB status">
+					<button
+						class="icon-button"
+						id="refreshStatus"
+						type="button"
+						title="Refresh storage status"
+						aria-label="Refresh storage status"
+					>
 						<span aria-hidden="true">R</span>
 					</button>
 				</header>
 
-				<div class="grid">
-					<form id="convertForm" class="panel upload-panel">
-						<div class="field">
-							<label for="category">Category folder</label>
-							<input id="category" name="category" value="uploaded" autocomplete="off" />
-						</div>
-
-						<div class="dropzone" id="dropzone">
-							<input id="files" name="files" type="file" accept=".csv,.md,text/csv,text/markdown" multiple />
-							<div>
-								<strong>Files</strong>
-								<span id="fileCount">No files selected</span>
-							</div>
-						</div>
-
-						<div class="field compact">
-							<label for="folderFiles">Folder upload</label>
-							<input id="folderFiles" name="folderFiles" type="file" webkitdirectory multiple />
-						</div>
-
-						<label class="check-row">
-							<input id="writeNyaDb" name="writeNyaDb" type="checkbox" checked />
-							<span>Write NyaDB databases</span>
-						</label>
-
-						<label class="check-row">
-							<input id="persistRegistry" name="persistRegistry" type="checkbox" checked />
-							<span>Persist new perk IDs</span>
-						</label>
-
-						<button class="primary-button" id="convertButton" type="submit">Convert</button>
-					</form>
-
-					<section class="panel report-panel">
-						<div class="panel-title">
-							<h2>Conversion</h2>
-							<span id="runState" class="status-pill idle">Idle</span>
-						</div>
-
-						<div id="metrics" class="metrics empty">
-							<div class="metric">
-								<span>Perks</span>
-								<strong>0</strong>
-							</div>
-							<div class="metric">
-								<span>Adult</span>
-								<strong>0</strong>
-							</div>
-							<div class="metric">
-								<span>Sources</span>
-								<strong>0</strong>
-							</div>
-							<div class="metric">
-								<span>Errors</span>
-								<strong>0</strong>
-							</div>
-						</div>
-
-						<div id="outputs" class="outputs"></div>
-					</section>
+				<div class="tabs-row">
+					<button
+						type="button"
+						class="tab-button active"
+						id="tabUpload"
+						data-tab="upload"
+					>
+						Upload
+					</button>
+					<button
+						type="button"
+						class="tab-button"
+						id="tabDatasets"
+						data-tab="datasets"
+					>
+						Datasets
+					</button>
 				</div>
 
-				<section class="panel logs-panel">
-					<div class="panel-title">
-						<h2>Logs</h2>
-						<button class="ghost-button" id="clearLogs" type="button">Clear</button>
+				<section
+					id="paneUpload"
+					class="tab-pane active"
+				>
+					<div class="grid">
+						<form
+							id="convertForm"
+							class="panel upload-panel"
+						>
+							<p class="helper-text">Category folders are detected automatically per uploaded file.</p>
+
+							<div
+								class="dropzone"
+								id="dropzone"
+							>
+								<input
+									id="files"
+									name="files"
+									type="file"
+									accept=".csv,.md,text/csv,text/markdown"
+									multiple
+								/>
+								<div>
+									<strong>Files</strong>
+									<span id="fileCount">No files selected</span>
+								</div>
+							</div>
+
+							<div class="field compact">
+								<label for="chooseFolder">Folder upload</label>
+								<div class="folder-actions">
+									<button
+										id="chooseFolder"
+										type="button"
+										class="ghost-button"
+									>
+										Add folder
+									</button>
+									<button
+										id="clearFolders"
+										type="button"
+										class="ghost-button"
+									>
+										Clear folders
+									</button>
+									<span id="folderCount">No folder selected</span>
+								</div>
+								<p class="helper-text">Add multiple folders by clicking Add folder repeatedly.</p>
+								<input
+									id="folderFiles"
+									name="folderFiles"
+									type="file"
+									webkitdirectory
+									multiple
+									hidden
+								/>
+							</div>
+
+							<label class="check-row">
+								<input
+									id="writeNyaDb"
+									name="writeNyaDb"
+									type="checkbox"
+									checked
+								/>
+								<span>Write databases</span>
+							</label>
+
+							<label class="check-row">
+								<input
+									id="persistRegistry"
+									name="persistRegistry"
+									type="checkbox"
+									checked
+								/>
+								<span>Persist new perk IDs</span>
+							</label>
+
+							<button
+								class="primary-button"
+								id="convertButton"
+								type="submit"
+							>
+								Convert
+							</button>
+						</form>
+
+						<section class="panel report-panel">
+							<div class="panel-title">
+								<h2>Conversion</h2>
+								<span
+									id="runState"
+									class="status-pill idle"
+									>Idle</span
+								>
+							</div>
+
+							<div
+								id="metrics"
+								class="metrics empty"
+							>
+								<div class="metric">
+									<span>Perks</span>
+									<strong>0</strong>
+								</div>
+								<div class="metric">
+									<span>Adult</span>
+									<strong>0</strong>
+								</div>
+								<div class="metric">
+									<span>Sources</span>
+									<strong>0</strong>
+								</div>
+								<div class="metric">
+									<span>Errors</span>
+									<strong>0</strong>
+								</div>
+							</div>
+
+							<div
+								id="outputs"
+								class="outputs"
+							></div>
+						</section>
 					</div>
-					<pre id="logs" class="logs">Ready.</pre>
+
+					<section class="panel logs-panel">
+						<div class="panel-title">
+							<h2>Logs</h2>
+							<button
+								class="ghost-button"
+								id="clearLogs"
+								type="button"
+							>
+								Clear
+							</button>
+						</div>
+						<pre
+							id="logs"
+							class="logs"
+						>
+Ready.</pre
+						>
+					</section>
+				</section>
+
+				<section
+					id="paneDatasets"
+					class="tab-pane"
+				>
+					<section class="panel datasets-panel">
+						<div class="datasets-block">
+							<div class="panel-title compact-title">
+								<h2>Existing Datasets</h2>
+								<button
+									class="ghost-button"
+									id="refreshDatasets"
+									type="button"
+								>
+									Refresh
+								</button>
+							</div>
+							<p
+								id="datasetSummary"
+								class="helper-text"
+							>
+								No datasets found.
+							</p>
+							<div
+								id="datasetList"
+								class="dataset-list"
+							></div>
+
+							<div class="field compact dataset-editor-block">
+								<label for="selectedDataset">View / edit selected dataset</label>
+								<input
+									id="selectedDataset"
+									type="text"
+									readonly
+									placeholder="Click a dataset chip to load"
+								/>
+								<div class="dataset-actions">
+									<button
+										id="clearDatasetSelection"
+										type="button"
+										class="ghost-button"
+									>
+										Clear selection
+									</button>
+								</div>
+								<label class="check-row dataset-adult-toggle">
+									<input
+										id="datasetIsAdult"
+										type="checkbox"
+										disabled
+									/>
+									<span>Set isAdult for all perks in selected dataset</span>
+								</label>
+								<div class="editor-search-row">
+									<input
+										id="editorSearch"
+										type="text"
+										placeholder="Jump to text"
+									/>
+									<button
+										id="editorSearchPrev"
+										type="button"
+										class="ghost-button"
+									>
+										Prev
+									</button>
+									<button
+										id="editorSearchNext"
+										type="button"
+										class="ghost-button"
+									>
+										Next
+									</button>
+									<span id="editorSearchCount">0 matches</span>
+								</div>
+								<textarea
+									id="datasetEditor"
+									class="dataset-editor"
+									spellcheck="false"
+									placeholder="Dataset JSON appears here"
+								></textarea>
+								<div class="dataset-actions">
+									<button
+										id="reloadDataset"
+										type="button"
+										class="ghost-button"
+									>
+										Reload
+									</button>
+									<button
+										id="saveDataset"
+										type="button"
+										class="primary-button"
+									>
+										Save dataset
+									</button>
+								</div>
+							</div>
+
+							<p
+								id="versionBuilderNotice"
+								class="helper-text"
+								hidden
+							>
+								Versioning options are unavailable for system datasets.
+							</p>
+							<div
+								id="versionBuilderBlock"
+								class="field compact version-builder-block"
+							>
+								<label>Combine datasets into category versions</label>
+								<div class="inline-grid two-col readonly-grid">
+									<input
+										id="categoryIdDisplay"
+										type="text"
+										readonly
+										placeholder="Category ID is detected from selected datasets"
+									/>
+									<input
+										id="categoryDisplayLabel"
+										type="text"
+										readonly
+										placeholder="Category name is auto-generated"
+									/>
+								</div>
+								<div
+									id="versionRowsContainer"
+									class="version-rows"
+								></div>
+								<div class="inline-grid two-col">
+									<button
+										id="addVersionRow"
+										type="button"
+										class="ghost-button"
+									>
+										Add version row
+									</button>
+									<select id="categoryDefaultVersionSelect"></select>
+								</div>
+								<div class="dataset-actions">
+									<button
+										id="saveCategoryVersions"
+										type="button"
+										class="primary-button"
+									>
+										Save category versions
+									</button>
+								</div>
+							</div>
+						</div>
+					</section>
 				</section>
 			</section>
+
+			<div
+				id="appModal"
+				class="app-modal"
+				hidden
+				aria-hidden="true"
+			>
+				<div
+					class="app-modal-backdrop"
+					data-modal-close="backdrop"
+				></div>
+				<div
+					class="app-modal-dialog"
+					role="dialog"
+					aria-modal="true"
+					aria-labelledby="appModalTitle"
+				>
+					<div class="app-modal-header">
+						<h2 id="appModalTitle">Notice</h2>
+						<button
+							type="button"
+							class="icon-button modal-close"
+							id="appModalClose"
+							aria-label="Close dialog"
+						>
+							<span aria-hidden="true">X</span>
+						</button>
+					</div>
+					<p
+						id="appModalMessage"
+						class="app-modal-message"
+					></p>
+					<div class="app-modal-actions">
+						<button
+							type="button"
+							class="ghost-button"
+							id="appModalCancel"
+						>
+							Cancel
+						</button>
+						<button
+							type="button"
+							class="primary-button"
+							id="appModalConfirm"
+						>
+							OK
+						</button>
+					</div>
+				</div>
+			</div>
+
+			<div
+				id="toastRack"
+				class="toast-rack"
+				aria-live="polite"
+				aria-atomic="false"
+			></div>
 		</main>
 		<script src="/app.js"></script>
 	</body>

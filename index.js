@@ -208,7 +208,11 @@ function normalizeCost(value) {
 
 function normalizeTags(value) {
 	if (value === undefined || value === null || value === '') return [];
-	if (Array.isArray(value)) return value.map(tag => String(tag).trim()).filter(Boolean).sort((a, b) => a.localeCompare(b));
+	if (Array.isArray(value))
+		return value
+			.map(tag => String(tag).trim())
+			.filter(Boolean)
+			.sort((a, b) => a.localeCompare(b));
 	return String(value)
 		.split(',')
 		.map(tag => tag.trim())
@@ -273,7 +277,10 @@ function assignPerkIds(items, registry) {
 		item.logicalKey = logicalKey;
 
 		if (registry.retired[logicalKey]) {
-			reusedOrRetiredIdCount += 1;
+			item.perk.id = nextPerkId(registry, usedIds);
+			usedIds.add(item.perk.id);
+			delete registry.retired[logicalKey];
+			registry.active[logicalKey] = item.perk.id;
 			continue;
 		}
 
@@ -480,8 +487,7 @@ function validatePreparedData({ dataset, categories, sources, grouped, items, ch
 		ids.add(perk.id);
 		if (!Number.isFinite(perk.cost) || perk.cost < 0) {
 			errors.push(
-				`Perk ${perk.id} has invalid cost: ${perk.cost} ` +
-					`(${item.database}/${item.sourceId}/${item.chapterKey}/${item.nameKey}, raw: ${JSON.stringify(item.rawCost)})`,
+				`Perk ${perk.id} has invalid cost: ${perk.cost} ` + `(${item.database}/${item.sourceId}/${item.chapterKey}/${item.nameKey}, raw: ${JSON.stringify(item.rawCost)})`,
 			);
 		}
 		if (!perk.name) errors.push(`Perk ${perk.id} missing name`);
@@ -537,7 +543,136 @@ function reportPreparedData({ dataset, categories, sources, grouped, items, chan
 	};
 }
 
-function writeNyaDbDatabases({ dataset, categories, sources, grouped }, logger = console) {
+function listFromPayload(payload, key) {
+	if (Array.isArray(payload)) return payload;
+	if (!payload || typeof payload !== 'object') return [];
+	const value = key ? payload[key] : payload;
+	if (Array.isArray(value)) return value;
+	if (value && typeof value === 'object') return Object.values(value);
+	return [];
+}
+
+function mergeCategoryPayload(existingPayload, incomingPayload) {
+	const existing = listFromPayload(existingPayload, 'categories');
+	const incoming = listFromPayload(incomingPayload, 'categories');
+	const byId = new Map();
+
+	for (const category of existing) {
+		if (!category?.id) continue;
+		const versions = new Map((category.versions || []).filter(v => v?.id).map(v => [v.id, { ...v }]));
+		byId.set(category.id, {
+			...category,
+			versions,
+		});
+	}
+
+	for (const category of incoming) {
+		if (!category?.id) continue;
+		const current = byId.get(category.id) || { id: category.id, versions: new Map() };
+		const merged = {
+			...current,
+			...category,
+			versions: current.versions,
+		};
+		for (const version of category.versions || []) {
+			if (!version?.id) continue;
+			merged.versions.set(version.id, { ...(merged.versions.get(version.id) || {}), ...version });
+		}
+		byId.set(category.id, merged);
+	}
+
+	const categories = [...byId.values()]
+		.map(category => ({
+			...category,
+			versions: [...category.versions.values()].sort((a, b) => String(a.id).localeCompare(String(b.id))),
+		}))
+		.sort((a, b) => String(a.id).localeCompare(String(b.id)));
+
+	return { categories };
+}
+
+function mergeSourcePayload(existingPayload, incomingPayload) {
+	const existing = listFromPayload(existingPayload, 'sources');
+	const incoming = listFromPayload(incomingPayload, 'sources');
+	const byId = new Map();
+
+	for (const source of existing) {
+		if (!source?.id) continue;
+		byId.set(source.id, {
+			...source,
+			categories: [...new Set((source.categories || []).map(String))].sort((a, b) => a.localeCompare(b)),
+		});
+	}
+
+	for (const source of incoming) {
+		if (!source?.id) continue;
+		const current = byId.get(source.id) || {};
+		const categories = [...new Set([...(current.categories || []), ...(source.categories || [])].map(String))].sort((a, b) => a.localeCompare(b));
+		byId.set(source.id, {
+			...current,
+			...source,
+			categories,
+		});
+	}
+
+	return {
+		sources: [...byId.values()].sort((a, b) => String(a.id).localeCompare(String(b.id))),
+	};
+}
+
+function mergePerkPayload(existingPayload, incomingPayload) {
+	const existing = existingPayload && typeof existingPayload === 'object' ? existingPayload : {};
+	const incoming = incomingPayload && typeof incomingPayload === 'object' ? incomingPayload : {};
+	const merged = { ...existing };
+
+	for (const [sourceId, incomingSource] of Object.entries(incoming)) {
+		if (sourceId === 'metadata' || sourceId === '_metadata') {
+			merged[sourceId] = {
+				...(existing[sourceId] && typeof existing[sourceId] === 'object' ? existing[sourceId] : {}),
+				...(incomingSource && typeof incomingSource === 'object' ? incomingSource : {}),
+			};
+			continue;
+		}
+
+		const existingSource = existing[sourceId] && typeof existing[sourceId] === 'object' ? existing[sourceId] : {};
+		const existingChapters = existingSource.chapters && typeof existingSource.chapters === 'object' ? existingSource.chapters : {};
+		const incomingChapters = incomingSource?.chapters && typeof incomingSource.chapters === 'object' ? incomingSource.chapters : {};
+		const chapters = { ...existingChapters };
+
+		for (const [chapterKey, incomingChapter] of Object.entries(incomingChapters)) {
+			const existingChapter = existingChapters[chapterKey] && typeof existingChapters[chapterKey] === 'object' ? existingChapters[chapterKey] : {};
+			const existingPerks = existingChapter.perks && typeof existingChapter.perks === 'object' ? existingChapter.perks : {};
+			const incomingPerks = incomingChapter?.perks && typeof incomingChapter.perks === 'object' ? incomingChapter.perks : {};
+			chapters[chapterKey] = {
+				...existingChapter,
+				...incomingChapter,
+				perks: {
+					...existingPerks,
+					...incomingPerks,
+				},
+			};
+		}
+
+		merged[sourceId] = {
+			...existingSource,
+			...incomingSource,
+			chapters,
+		};
+	}
+
+	return merged;
+}
+
+function mergeNyaDbContents(name, existingContents, incomingContents) {
+	if (!existingContents || typeof existingContents !== 'object') return incomingContents;
+	if (name === 'dataset') return { ...existingContents, ...(incomingContents || {}) };
+	if (name === 'categories') return mergeCategoryPayload(existingContents, incomingContents);
+	if (name === 'sources') return mergeSourcePayload(existingContents, incomingContents);
+	return mergePerkPayload(existingContents, incomingContents);
+}
+
+function writeNyaDbDatabases({ dataset, categories, sources, grouped }, logger = console, options = {}) {
+	const mergeExisting = options.mergeExisting === true;
 	const NyaDB = require('@decaded/nyadb');
 	const nyadb = new NyaDB({
 		formattingStyle: 'space',
@@ -553,9 +688,12 @@ function writeNyaDbDatabases({ dataset, categories, sources, grouped }, logger =
 	};
 
 	for (const [name, contents] of Object.entries(databases).sort(([a], [b]) => a.localeCompare(b))) {
-		if (!nyadb.exists(name)) nyadb.create(name);
-		if (!nyadb.set(name, contents)) throw new Error(`Failed to write NyaDB database "${name}"`);
-		logger.log(`Stored NyaDB database "${name}"`);
+		const exists = nyadb.exists(name);
+		if (!exists) nyadb.create(name);
+		const existingContents = mergeExisting && exists ? nyadb.get(name) : null;
+		const nextContents = mergeExisting ? mergeNyaDbContents(name, existingContents, contents) : contents;
+		if (!nyadb.set(name, nextContents)) throw new Error(`Failed to write database "${name}"`);
+		logger.log(`Stored database "${name}"`);
 	}
 
 	return Object.keys(databases).sort((a, b) => a.localeCompare(b));
@@ -636,10 +774,11 @@ async function buildDatabase(options = {}) {
 	const outRoot = options.outRoot || OUT_ROOT;
 	const registryPath = options.registryPath || ID_REGISTRY_PATH;
 	const logger = options.logger || console;
-	const writeFiles = options.writeFiles !== false;
+	const writeFiles = options.writeFiles === true;
 	const writeRegistry = options.writeRegistry !== false;
 	const retireMissing = options.retireMissing !== false;
-	const writeNyaDb = options.writeNyaDb === true;
+	const writeNyaDb = options.writeNyaDb !== false;
+	const mergeNyaDb = options.mergeNyaDb === true;
 
 	if (writeFiles) await fs.promises.mkdir(outRoot, { recursive: true });
 
@@ -711,6 +850,7 @@ async function buildDatabase(options = {}) {
 				grouped,
 			},
 			logger,
+			{ mergeExisting: mergeNyaDb },
 		);
 		report.nyaDbDatabaseCount = nyaDbList.length;
 	}
@@ -739,8 +879,10 @@ module.exports = {
 	buildPerkDatabases,
 	normalizeHeader,
 	normalizeCost,
+	assignPerkIds,
 	prepareItems,
 	parseCsv,
+	mergeNyaDbContents,
 	validatePreparedData,
 	writeNyaDbDatabases,
 	writeSplitFiles,

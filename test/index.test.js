@@ -1,5 +1,6 @@
 const assert = require('assert');
 const {
+	assignPerkIds,
 	buildPerkDatabases,
 	collectSplitRows,
 	deriveCategoryVersion,
@@ -8,6 +9,7 @@ const {
 	normalizeCost,
 	normalizeHeader,
 	prepareItems,
+	mergeNyaDbContents,
 	validatePreparedData,
 } = require('../index');
 
@@ -114,4 +116,133 @@ test('prepareItems and buildPerkDatabases create source chapter name hierarchy',
 
 	assert.deepStrictEqual(errors, []);
 	assert.strictEqual(grouped.grimoire_v2.source_fate_grand_master.chapters.parameters.perks.arcane_tuning[0].categoryVersion, 'v2');
+});
+
+test('mergeNyaDbContents upserts category versions by category id and version id', () => {
+	const existing = {
+		categories: [
+			{
+				id: 'grimoire',
+				displayName: 'Grimoire',
+				defaultVersion: 'default',
+				versions: [{ id: 'default', displayName: 'Grimoire', database: 'grimoire' }],
+			},
+		],
+	};
+	const incoming = {
+		categories: [
+			{
+				id: 'grimoire',
+				displayName: 'Grimoire',
+				defaultVersion: 'v2',
+				versions: [{ id: 'v2', displayName: 'Grimoire V2', database: 'grimoire_v2' }],
+			},
+			{
+				id: 'forge',
+				displayName: 'Forge',
+				defaultVersion: 'default',
+				versions: [{ id: 'default', displayName: 'Forge', database: 'forge' }],
+			},
+		],
+	};
+
+	const merged = mergeNyaDbContents('categories', existing, incoming);
+	assert.strictEqual(merged.categories.length, 2);
+	const grimoire = merged.categories.find(category => category.id === 'grimoire');
+	assert.strictEqual(grimoire.defaultVersion, 'v2');
+	assert.deepStrictEqual(
+		grimoire.versions.map(version => version.id),
+		['default', 'v2'],
+	);
+});
+
+test('mergeNyaDbContents upserts sources and unions source categories', () => {
+	const existing = {
+		sources: [
+			{
+				id: 'source_test',
+				name: 'Test',
+				displayName: 'Test',
+				description: 'Old',
+				categories: ['grimoire'],
+			},
+		],
+	};
+	const incoming = {
+		sources: [
+			{
+				id: 'source_test',
+				name: 'Test',
+				displayName: 'Test',
+				description: 'New',
+				categories: ['forge'],
+			},
+		],
+	};
+
+	const merged = mergeNyaDbContents('sources', existing, incoming);
+	assert.strictEqual(merged.sources.length, 1);
+	assert.strictEqual(merged.sources[0].description, 'New');
+	assert.deepStrictEqual(merged.sources[0].categories, ['forge', 'grimoire']);
+});
+
+test('mergeNyaDbContents upserts perk database without removing unrelated sources', () => {
+	const existing = {
+		source_old: {
+			source: 'Old Source',
+			description: 'Old',
+			chapters: {
+				old_chapter: {
+					chapter: 'Old Chapter',
+					perks: {
+						old_perk: [{ id: 'perk_000001', name: 'Old', description: 'Old', cost: 100 }],
+					},
+				},
+			},
+		},
+	};
+	const incoming = {
+		source_new: {
+			source: 'New Source',
+			description: 'New',
+			chapters: {
+				new_chapter: {
+					chapter: 'New Chapter',
+					perks: {
+						new_perk: [{ id: 'perk_000002', name: 'New', description: 'New', cost: 200 }],
+					},
+				},
+			},
+		},
+	};
+
+	const merged = mergeNyaDbContents('grimoire', existing, incoming);
+	assert.ok(merged.source_old);
+	assert.ok(merged.source_new);
+	assert.ok(merged.source_old.chapters.old_chapter);
+	assert.ok(merged.source_new.chapters.new_chapter);
+});
+
+test('assignPerkIds assigns fresh id for retired logical key', () => {
+	const registry = {
+		version: 1,
+		nextNumericId: 3,
+		active: {},
+		retired: {
+			'demo/source/id_1': 'perk_000002',
+		},
+	};
+	const items = [
+		{
+			logicalKey: 'demo/source/id_1',
+			perk: { id: null },
+		},
+	];
+
+	const stats = assignPerkIds(items, registry);
+
+	assert.strictEqual(items[0].perk.id, 'perk_000003');
+	assert.strictEqual(registry.active['demo/source/id_1'], 'perk_000003');
+	assert.strictEqual(registry.retired['demo/source/id_1'], undefined);
+	assert.strictEqual(stats.reusedOrRetiredIdCount, 0);
 });

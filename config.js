@@ -6,10 +6,10 @@
 // ───────────────────── Shared ─────────────────────
 
 const shared = {
-	/** Public dataset metadata written to data/dataset.json */
+	/** Public dataset metadata written to NyaDB dataset database */
 	dataset: {
 		name: 'Celestial Gambler Dataset',
-		datasetVersion: '2026.06.1',
+		datasetVersion: 'development',
 		description: 'Public Celestial Gambler perk dataset.',
 	},
 
