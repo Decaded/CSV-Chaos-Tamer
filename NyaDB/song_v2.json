@@ -1,0 +1,2558 @@
+{
+  "source_a_song_of_ice_and_fire_jumpchain": {
+    "source": "A Song of Ice and Fire Jumpchain",
+    "description": "Perks from A Song of Ice and Fire Jumpchain.",
+    "chapters": {
+      "the_dragonrider": {
+        "chapter": "The Dragonrider",
+        "perks": {
+          "dragon_egg": [
+            {
+              "id": "perk_083642",
+              "cost": 500,
+              "name": "Dragon Egg",
+              "description": "A dragon egg. It will hatch naturally in around a week. Your dragon will be loyal and take basic instructions but ferocious. Young dragons are vulnerable but can grow to be incredibly large, durable and breath a fire far hotter than even wildfire fully capable of melting stout stone towers into twisted wrecks.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dragonbone_bow": [
+            {
+              "id": "perk_083643",
+              "cost": 200,
+              "name": "Dragonbone Bow",
+              "description": "An exceptionally strong bow made of Dragonbone. Exceptional power and range. Projectiles fired tend to hit where they’d do the most damage by chance very regularly.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dragonglass_cache": [
+            {
+              "id": "perk_083644",
+              "cost": 0,
+              "name": "Dragonglass Cache",
+              "description": "A black cloak wrapped around a few obsidian daggers, arrowheads and spearheads.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "prince_in_exile": [
+            {
+              "id": "perk_083645",
+              "cost": 200,
+              "name": "Prince In Exile",
+              "description": "People will welcome you as a prince from a foreign land and be amused at your alien ways and customs. You will be welcomed at most courts as a curiosity.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_greenseer": {
+        "chapter": "The Greenseer",
+        "perks": {
+          "flaming_weapon": [
+            {
+              "id": "perk_083646",
+              "cost": 300,
+              "name": "Flaming Weapon",
+              "description": "You can use your blood to set alight your weapon. Such fire blazes incredibly hot and is unnaturally intimidating to your enemies and heartening to your allies but will ruin ordinary steel.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "shadowbinder": [
+            {
+              "id": "perk_083647",
+              "cost": 600,
+              "name": "Shadowbinder",
+              "description": "Once a week you may produce a shadow. Such a shadow will obey your command to assassinate someone. Highly effective but must have surfaces to walk on. Ineffective against magical targets.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_knight": {
+        "chapter": "The Knight",
+        "perks": {
+          "bold": [
+            {
+              "id": "perk_083648",
+              "cost": 200,
+              "name": "Bold",
+              "description": "You are brave without recklessness. You can keep your cool in even the most heated situations and you will not balk at a dangerous challenge.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "starforged_sword": [
+            {
+              "id": "perk_083649",
+              "cost": 200,
+              "name": "Starforged Sword",
+              "description": "A sword made out of the remnants of a fallen star. Milky white and intensely shiny. Around as sharp and light as Valyrian Steel. Gives a strong impression of chivalry and honour. You may also import any melee weapon you own to take on the appearance and strengths of the sword.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_maester_and_merchant": {
+        "chapter": "The Maester & Merchant",
+        "perks": {
+          "pouch_of_gold": [
+            {
+              "id": "perk_083650",
+              "cost": 25,
+              "name": "Pouch of Gold",
+              "description": "A pouch of golden coins. Around 100 Golden Dragons worth. May be taken multiple times.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_smallfolk": {
+        "chapter": "The Smallfolk",
+        "perks": {
+          "dirty_fighter": [
+            {
+              "id": "perk_083651",
+              "cost": 200,
+              "name": "Dirty Fighter",
+              "description": "You have picked up a lot of tricks in tavern brawls and are very capable at fighting cleverly (dirty). This will give you a significant edge against more honourable opponents.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "horn_of_joruman": [
+            {
+              "id": "perk_083652",
+              "cost": 500,
+              "name": "Horn of Joruman",
+              "description": "A large, ornate and legendary hunting horn capable of massive destruction to even the largest of structures. Can only be used on a weekly basis but can bring practically any building (or Wall) tumbling down when blown.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "too_lowborn": [
+            {
+              "id": "perk_083653",
+              "cost": 400,
+              "name": "Too Lowborn",
+              "description": "People will very rarely consider you a threat. As long as you do nothing overtly threatening people will expect no harm from your direction.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "worker": [
+            {
+              "id": "perk_083654",
+              "cost": 200,
+              "name": "Worker",
+              "description": "You are willing to push yourself far beyond the normal limits with physical or tedious work. You will continue to do such tasks to the best of your ability without soon tiring.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_a_song_of_ice_and_fire_the_epoch_of_legends": {
+    "source": "A Song of Ice and Fire: The Epoch of Legends",
+    "description": "Perks from A Song of Ice and Fire: The Epoch of Legends.",
+    "chapters": {
+      "the_knight": {
+        "chapter": "The Knight",
+        "perks": {
+          "giant_falcon": [
+            {
+              "id": "perk_083655",
+              "cost": 100,
+              "name": "Giant Falcon",
+              "description": "The Winged Knight, sometimes conflated with Ser Artys Arryn, was a legendary hero that was certainly a character. He received his title due to the massive falcon that he rode. This may have been some ancient dragon, but where’s the fun in that? You have a giant falcon at your beck and call, able to carry a grown man, and fly at tremendous speeds. Unlike normal birds, it’s bones are not hollow either, and can thus take a serious beating before it takes any real damage.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_knight": [
+            {
+              "id": "perk_083656",
+              "cost": 100,
+              "name": "The Knight",
+              "description": "You are now accompanied by the knight, an archetypical hero, even in this era before knights allegedly existed. They are the perfect embodiment of chivalry, willing to help those in need, and fight any evil or injustice. They can also tell good jokes, as all men are fools, and all men are knights, so far as women are concerned.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_smallfolk": {
+        "chapter": "The Smallfolk",
+        "perks": {
+          "the_raider": [
+            {
+              "id": "perk_083657",
+              "cost": 0,
+              "name": "The Raider",
+              "description": "You’ve become friends with one of the greatest raiders of their time. Wielding a giant axe and hammer as their weapons, this ironclad warrior is powerful and remarkably dexterous, able to cave your skull in as easily as they can chop it off before you could react. On the sea, they have a blessing that keeps them from being killed by any adversary, assuming that they could be stopped anyway. Despite the name, and their somewhat aggressive behavior, they won’t actually do much raiding unless you are up for it.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_asoiaf_-_small_council_jumpchain": {
+    "source": "ASOIAF - Small Council Jumpchain",
+    "description": "Perks from ASOIAF - Small Council Jumpchain.",
+    "chapters": {
+      "the_dragonrider": {
+        "chapter": "The Dragonrider",
+        "perks": {
+          "blood_of_the_dragon": [
+            {
+              "id": "perk_083658",
+              "cost": 400,
+              "name": "Blood of the Dragon",
+              "description": "The ancient magic of Valyria flows in your veins, granting you unparalleled command over dragons and their secrets. You possess the rare ability to tame and breed dragons, bending even the most willful of them to your will. With focus and care, you can awaken seemingly dormant or petrified dragon eggs without the need for sacrifice, breathing fire back into these ancient symbols of power. Dragons respond to you with near-instinctive obedience, and your bond with them grows stronger with time",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "glass_candle": [
+            {
+              "id": "perk_083659",
+              "cost": 400,
+              "name": "Glass Candle",
+              "description": "An ancient artifact from the Valyrian Freehold, the obsidian rod of a glass candle twists in a sharp, imposing shape. When ignited, the glass candle emits an uncomfortably bright light, casting an eerie glow that seems to amplify colors caught in its glow. With this candle, you gain potent magical abilities: you can communicate instantly with other candle-holders, observe distant locations as though you were there, and experience visions of events or people across the world.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_greenseer": {
+        "chapter": "The Greenseer",
+        "perks": {
+          "alchemy": [
+            {
+              "id": "perk_083660",
+              "cost": 200,
+              "name": "Alchemy",
+              "description": "The alchemical arts are at your command. You possess the skills of a veteran member of the Alchemist's Guild of King's Landing, with a deep understanding of herbs, mixtures, and their medicinal uses. You are, of course, adept at creating wildfire, the volatile and destructive substance feared throughout Westeros.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "counselors_map": [
+            {
+              "id": "perk_083661",
+              "cost": 200,
+              "name": "Counselor’s Map",
+              "description": "A map enchanted much like the Marauder's Map, revealing the location of everyone within the Red Keep. It includes every room and hidden passage within the castle, though it is limited to a bird’s eye view.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dancing_in_two_skins": [
+            {
+              "id": "perk_083662",
+              "cost": 200,
+              "name": "Dancing in Two Skins",
+              "description": "One of the most difficult aspects of warging is the helplessness that comes with leaving your own body behind. Not for you. With this upgrade, you can move, act, and even fight as your human self while your mind resides in another creature. It’s as though you inhabit two bodies at once, maintaining total awareness and coordination between them.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "divination": [
+            {
+              "id": "perk_083663",
+              "cost": 400,
+              "name": "Divination",
+              "description": "The First Men would name you a greenseer; the Targaryens would call you a dreamer. You possess the rare and enigmatic gift of prophecy. This ability grants you premonitions, glimpses of the future that come in visions, dreams, or sudden flashes of insight. These visions can be cryptic and open to interpretation, with truths often hidden beneath layers of symbolism. While the Sight can be a powerful tool, beware: prophecy is a double-edged sword. Misinterpretation of what you see can lead to unintended consequences, and knowing the future does not always mean you can change it.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "elemental_magic": [
+            {
+              "id": "perk_083664",
+              "cost": 200,
+              "name": "Elemental Magic",
+              "description": "You can command the primal forces of nature, bending them to your will. With the base purchase, you gain the ability to manipulate one of three elements—Air, Fire, or Water. While initially limited to minor feats and parlor tricks—stirring a breeze, sparking a flame, or rippling water—you have the foundation for growth into a powerful elemental adept. This perk may be purchased multiple times, once for each element, but upgrades apply only to the element selected for their respective purchase.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "faceless": [
+            {
+              "id": "perk_083665",
+              "cost": 200,
+              "name": "Faceless",
+              "description": "The dark art of the Faceless Men is yours to command. By harvesting the face of a willing subject—or removing it from the dead before decay claims it—you can take on their visage. Each face must be expertly preserved, a skill you instinctively possess. The magic imbued in these faces allows you to completely adopt the identity of their previous owner, from voice to mannerisms.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "glamouring": [
+            {
+              "id": "perk_083666",
+              "cost": 200,
+              "name": "Glamouring",
+              "description": "You have a subtle yet powerful gift: the ability to alter your appearance and that of items you touch. These changes are minor and cannot radically transform your body or disguise you entirely, but they are perfect for creating plausible deceptions. A slight shift in your features, the color of your eyes, or the cut of your clothing—these illusions are as real as the world believes them to be.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "iron_coin": [
+            {
+              "id": "perk_083667",
+              "cost": 400,
+              "name": "Iron Coin",
+              "description": "A simple yet ominous iron coin bearing the mark of the Faceless Men. When you present this coin and whisper the name of your intended target, a Faceless Man will ensure their death within a week—no matter where they hide or how well-guarded they are. This can only be used once per year, and the Faceless Men will not divulge how they completed the task.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "mythical_weapon": [
+            {
+              "id": "perk_083668",
+              "cost": 200,
+              "name": "Mythical Weapon",
+              "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you. This weapon may take on whatever appearance you desire, and regardless of its form, this weapon will function impeccably, even if it might otherwise seem impractical.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "of_flame_and_forge": [
+            {
+              "id": "perk_083669",
+              "cost": 400,
+              "name": "Of Flame and Forge",
+              "description": "Your mastery extends beyond ordinary smithing to include secret techniques and alchemical processes that elevate your creations into legendary artefacts. You can forge entirely new Valyrian Steel without needing dragonfire, making you perhaps the only living individual capable of creating these legendary blades from scratch. Though the process is still resource-intensive and arduous, the results are unparalleled.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "packmaster": [
+            {
+              "id": "perk_083670",
+              "cost": 300,
+              "name": "Packmaster",
+              "description": "Where most wargs can control only one creature at a time, you wield dominion over entire packs. Like Varamyr Sixskins, you can command multiple animals simultaneously, coordinating them as extensions of your will. Whether it’s a swarm of ravens, a pack of wolves, or a pride of lions, your influence over beasts knows few limits.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "ship_of_wonder": [
+            {
+              "id": "perk_083671",
+              "cost": 100,
+              "name": "Ship of Wonder",
+              "description": "A magnificent ship rivaling the legendary Sun Chaser in speed, durability, and design. Crafted with rare materials and imbued with subtle enchantments, this vessel can weather the fiercest storms, outrun pirates, and cross vast oceans with ease. It comes with a fully trained and loyal crew, ready to follow your every command. After this jump, the ship will adapt to fit the setting, remaining the best possible vessel for its time and place, whether that’s a spaceship, airship, or something else entirely.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "signed_in_blood": [
+            {
+              "id": "perk_083672",
+              "cost": 200,
+              "name": "Signed in Blood",
+              "description": "This dark, beautifully crafted quill binds any contract signed with it to the full force of fate itself. Once someone signs their name, they are bound to their oath without question, though they remain unquestioning of the quill’s true nature. Anyone who uses the quill will be aware of the consequences of signing with it. Neither oaths nor terms can be violated by the signer without dire consequence.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "silver_s_saddle": [
+            {
+              "id": "perk_083673",
+              "cost": 100,
+              "name": "Silver‘s Saddle",
+              "description": "This unassuming saddle, crafted from supple leather and silver-chased buckles, transforms any mount into a paragon of its kind. Place it on a donkey, and the beast becomes a warhorse with the speed of a Dornish sand steed and the endurance of a mammoth. Strap it to a lizard-lion, and the creature gains the cunning of a direwolf and the resilience of scaled plate. The saddle’s magic seeps into the mount, sharpening its instincts, tripling its stamina, and bending its loyalty unshakably to you. The mount instinctively understands complex mental commands, leap chasms, feign death, or navigate tight city streets, and heals from near-fatal wounds overnight.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "skinchanger": [
+            {
+              "id": "perk_083674",
+              "cost": 100,
+              "name": "Skinchanger",
+              "description": "You are a beastling, a skinchanger. The ancient and feared gift of warging is yours to command. You can possess animals, entering their minds and controlling their bodies as if they were your own. This bond initially manifests in dreams, connecting you to a single creature with whom you share a special bond, but with practice, it expands to conscious control and a growing number of animals. A purchase of this allows you a free purchase of Furry(or Not So Furry) Friend.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_builder": [
+            {
+              "id": "perk_083675",
+              "cost": 600,
+              "name": "The Builder",
+              "description": "You have inherited the ingenuity and creativity that Bran the Builder was said to possess, granting you the ability to design and construct monumental projects that rival the greatest wonders of Westeros. Fortresses that defy siegecraft, walls that stand against the ages, and sprawling structures that awe all who see them are within your grasp. You can complete immense projects in a fraction of the time and with far fewer resources than should be possible, your efficiency supernatural. The things you create are not only practical and enduring but works of art in their own right, imbued with a sense of purpose and majesty that captures the imagination. Whether constructing a castle, designing defenses, or raising a tower to scrape the heavens, your work is guaranteed to stand for generations as a marvel of the world.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_green": [
+            {
+              "id": "perk_083676",
+              "cost": 400,
+              "name": "The Green",
+              "description": "Like Garth Greenhand before you, you are a fountain of life and vitality, a living embodiment of fertility and abundance. Women touched by your blessing are granted extraordinary fertility, often bearing twins or triplets, while crops thrive and flourish in your presence. Wherever you tread, the land awakens: barren fields ripen with grain, orchards yield fruit beyond expectation, and flowers bloom in your wake. This gift of life flows from you effortlessly, rejuvenating both people and nature alike. Your presence is a blessing to any who rely on the land, ensuring prosperity wherever you choose to wander.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "transmutation": [
+            {
+              "id": "perk_083677",
+              "cost": 200,
+              "name": "Transmutation",
+              "description": "You have unlocked the ability to transmute metals. With the right resources and focus, you can transform lead into gold or iron into steel. This power is not instantaneous and requires precise alchemical processes, but the results are undeniable. Beyond wealth, this skill has practical applications, such as forging superior tools or armaments from otherwise inferior materials.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_knight": {
+        "chapter": "The Knight",
+        "perks": {
+          "armor_of_the_kingsguard": [
+            {
+              "id": "perk_083678",
+              "cost": 400,
+              "name": "Armor of the Kingsguard",
+              "description": "You possess a suit of exquisitely crafted white armor of the Kingsguard, perfectly fitted to you and aesthetically pleasing. This armor can take on any appearance you desire, should it be traditional Kingsguard regalia or something entirely different. Lightweight and comfortable, it won’t hinder your movement, yet it offers the protection of fully enclosing plate armor as long as it covers most of your body. This armor is virtually indestructible, even largely impervious to Valyrian steel or starmetal. Additionally, you may choose to have it enchanted with protective runes, similar to the ancient armor of House Royce. After each battle, the armor will magically repair and cleanse itself, requiring no upkeep on your part.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "cold_hands": [
+            {
+              "id": "perk_083679",
+              "cost": 300,
+              "name": "Cold Hands",
+              "description": "It is common for men to break when they come eye to eye with the Dark. You are made of far stronger stuff. Even tortured to the brink, isolated and abandoned, you will never forget your beliefs and purpose. If you are part of an organisation, that organisation will always recognize you as one of them, as long as you abide by their rules to the best of your ability. In addition, your adamantine will grants you immunity to possession or trickery based magics such as warging, mind control, glamours or shadow binding.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "fear_cuts_deeper_than_swords": [
+            {
+              "id": "perk_083680",
+              "cost": 400,
+              "name": "Fear Cuts Deeper Than Swords",
+              "description": "Your unmatched willpower allows you to stay focused and disciplined no matter the circumstances. You do not stop fighting. Even drenched in your own blood, you press on until there is no life left behind your eyes. You will survive, you will push on, you will not yield, no matter the tribulations. You can stand and draw your sword against a tide of death without hesitation, and you will cling to survival with every ounce of your strength a dozen times over.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "mythical_weapon": [
+            {
+              "id": "perk_083681",
+              "cost": 200,
+              "name": "Mythical Weapon",
+              "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "of_oaths_and_vows": [
+            {
+              "id": "perk_083682",
+              "cost": 100,
+              "name": "Of Oaths and Vows",
+              "description": "In a world where oaths hold ironclad weight, you somehow stand exempt. Oaths, vows, and the bonds that demand loyalty and sacrifice simply don’t cling to you in the same way as they do for others. The life-long service of the Night’s Watch becomes voluntary, the Kingsguard’s oath of celibacy becomes a mere formality, and the restrictions of the Silent Sisters are waived as needed—all without consequence or any resentment from others. People around you naturally accept that you can step outside the bounds of duty, understanding, if not entirely rationalizing, that the typical rules simply don’t apply.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "storied_hero": [
+            {
+              "id": "perk_083683",
+              "cost": 600,
+              "name": "Storied Hero",
+              "description": "You are the epitome of knighthood, an unparalleled force on the battlefield and the paragon of the Kingsguard. You could match the swordsmanship of Ser Arthur Dayne, the leadership of Ser Duncan the Tall, the bravery of Ser Barristan the Bold, the beauty of Ser Jaime Lannister, and the nobility of Prince Aemon the Dragonknight. You easily stand as the greatest knight to ever live in every facet of the ideal. Your presence alone can sway the tide of battles, lifting allies’ spirits and striking despair into foes. Your skill with a blade is such that people would call you the Warrior reborn, allowing you to win a bout when outnumbered and surrounded on all sides. Your poise, gallantry, and skill set you apart, making you a living legend, an example for all the world to follow.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "sworn_shield": [
+            {
+              "id": "perk_083684",
+              "cost": 100,
+              "name": "Sworn Shield",
+              "description": "You have a Sworn Shield, a true paragon of loyalty, discipline, and martial prowess, rivaling the most legendary warriors of Westeros.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "through_all_the_seven_hells": [
+            {
+              "id": "perk_083685",
+              "cost": 200,
+              "name": "Through All the Seven Hells",
+              "description": "You embody an ideal of heroism that can stir even the most hardened of hearts. In you, people see the possibility of a brighter future and recognize the dreams told in the stories of great heroes long past. Those around you become far more likely to hold to their oaths, fight bravely, and resist the temptations of dishonor. In your presence, even those who have lost everything can finally have hope for the days to come and feel motivated to fight for that hope. You believe the dream that you inspire, and that belief lends you a unique resilience: as long as you keep fighting, you are always able to hold onto hope, always finding some chance at victory, no matter how grim the odds.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "what_do_we_say_to_the_god_of_death": [
+            {
+              "id": "perk_083686",
+              "cost": 400,
+              "name": "What Do We Say to the God of Death?",
+              "description": "Your years as a warrior and protector have given you a heightened awareness of threats, even those directed at others in your charge. You experience a sixth sense regarding impending danger, feeling subtle warnings when an ambush or betrayal is imminent. This extends to any threat against yourself, your allies, or those you are sworn to protect, whether in the heat of battle, the backrooms of court or poison in a chalice. You are also attuned to conspiracies, possessing an instinctive awareness of plots aimed at harming you or those close to you.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_lord": {
+        "chapter": "The Lord",
+        "perks": {
+          "a_suitable_network": [
+            {
+              "id": "perk_083687",
+              "cost": 600,
+              "name": "A Suitable Network",
+              "description": "This perk grants you a reliable and influential support network tailored to your role and needs. These individuals—whether advisors, warriors, administrators, or informants—are among the best in their fields and are completely loyal to you. The individuals within your network are invaluable assets who understand your goals and work tirelessly to see them fulfilled. Should any member of your network perish in the line of duty, they will reappear within a week after all conflicts or dangerous situations have concluded, restored exactly as they were. However, be advised that “conflict” extends beyond open warfare to intense political or strategic confrontations where their expertise is critical.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "ah_thats_a_pity": [
+            {
+              "id": "perk_083688",
+              "cost": 400,
+              "name": "Ah, That’s a Pity",
+              "description": "You have an unparalleled knack for revealing truths. Through subtle observations and skillfully crafted questions, you can draw out secrets and detect lies without raising a hint of suspicion. Even the most guarded individuals find themselves unwittingly revealing hidden details in your presence. You can easily cut through layers of deception, discerning the true meaning behind people's words and intentions.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "assistant": [
+            {
+              "id": "perk_083689",
+              "cost": 100,
+              "name": "Assistant",
+              "description": "You have an assistant which excels at absolutely everything you assign them with a level of focus and proficiency that puts others to shame. Be it managing logistics, devising strategies, overseeing finances, or organizing complex political maneuvers, they are masters at what they do. They are versatile, adaptable, and proactive, and utterly competent and capable of turning even your most ambitious plans into reality.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "castameres_mines": [
+            {
+              "id": "perk_083690",
+              "cost": 400,
+              "name": "Castamere’s Mines",
+              "description": "In your possession is a source of immense wealth—perhaps a series of rich mines rivaling the famed Lannister gold or vast vineyards and wineries on the scale of the Redwynes. Whatever form it takes, this enterprise is a vast operation, run by a skilled workforce and knowledgeable experts who ensure smooth, profitable production. The income is staggering, enough to raise even a destitute family to prominence, and, with this alone, you could rival the wealthiest houses in Westeros.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dornish_prince": [
+            {
+              "id": "perk_083691",
+              "cost": 600,
+              "name": "Dornish Prince",
+              "description": "You are viewed as too important to be challenged or taken down. This could be due to your status, influence, or strategic importance, those around you dare not risk slighting, ignoring, or harming you. This “diplomatic immunity” is not bound to a specific title, but rather to the perception that your removal or insult would be too costly or damaging for those in power to consider.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "eye_for_talent": [
+            {
+              "id": "perk_083692",
+              "cost": 400,
+              "name": "Eye For Talent",
+              "description": "Finding talent in a realm as large as Westeros is no easy feat—yet you have an unparalleled gift for locating the best and convincing them to join your cause. Whether they are renowned warriors, brilliant scholars, or masterful spies, people of great skill are naturally drawn to you. Convincing them to leave their prior loyalties behind is rarely a challenge, and those you recruit feel a deep sense of purpose and trust in your leadership.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "george_loves_his_food": [
+            {
+              "id": "perk_083693",
+              "cost": 100,
+              "name": "George Loves His Food",
+              "description": "Why settle for gruel and moldy bread when you can dine like a king? This item ensures you receive three exquisite meals a day, perfectly suited to your tastes. From succulent roasts to delicate pastries, every dish is a culinary masterpiece. Even better, no one will find it odd if your meals differ from theirs, ensuring you avoid awkward questions while savoring your private feast. Never go hungry, and never compromise on flavor.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "labyrinthine_sense": [
+            {
+              "id": "perk_083694",
+              "cost": 300,
+              "name": "Labyrinthine Sense",
+              "description": "You have an innate understanding of hidden passages, secret exits, and concealed spaces, particularly within King’s Landing but extending to most other significant locations. Whether finding long-forgotten passages throughout the Red Keep or knowing exactly which false wall opens into a forgotten storeroom, you have perfect instincts for discovering and utilizing them. Every city and castle you pass through seems eager to reveal its secrets to you.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "lies_and_arbor_gold": [
+            {
+              "id": "perk_083695",
+              "cost": 400,
+              "name": "Lies and Arbor Gold",
+              "description": "A single bottle of the finest Arbor Gold, a vintage so rare and smooth that it’s guaranteed to impress even the most skeptical of drinkers. But its true power lies in its ability to grease the wheels of deception. Serve this wine to someone, and they will believe almost any lie you tell them during the course of their intoxication. However, the effects are not foolproof—evidence to the contrary will break the illusion, and once sobriety returns, the lie will be judged as any other. Use it to spin tales, seal deals, or save your life in a pinch.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "no_happy_accidents": [
+            {
+              "id": "perk_083696",
+              "cost": 100,
+              "name": "No Happy Accidents",
+              "description": "You hold full control over your own fertility, deciding precisely if and when you wish to conceive, without fear of accidental pregnancy. Additionally, you are entirely immune to diseases transmitted through intimacy, granting you peace of mind and security in even the closest liaisons. If you experience them, you may choose to never have a period again should you wish it to be so.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "pr_is_a_strong-suit": [
+            {
+              "id": "perk_083697",
+              "cost": 200,
+              "name": "PR is a Strong-Suit",
+              "description": "You understand reputation like no other, able to enhance your standing or protect yourself from rumors with remarkable skill. When speaking about yourself or others, you can subtly manipulate public opinion to your advantage, making small incidents seem grand or turning scandals into mere misunderstandings. Whether seeking to bolster your influence or protect an ally’s name, your social influence allows you to sway reputations as easily as turning a page.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "private_manse": [
+            {
+              "id": "perk_083698",
+              "cost": 200,
+              "name": "Private Manse",
+              "description": "Living in King’s Landing can be exhausting, especially if you’re confined to the Red Keep. This item grants you ownership of a luxurious estate in the city, complete with fine furnishings, loyal servants, and the privacy to escape the madness of court. Alternatively, you can choose to fully customize your quarters within the Red Keep, outfitting them to your specifications. Want plumbing? Secret compartments? A cozy library? It’s yours. This item will function wherever you are living, no matter how temporary.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "queen_of_thorns": [
+            {
+              "id": "perk_083699",
+              "cost": 400,
+              "name": "Queen of Thorns",
+              "description": "In the treacherous world of Westerosi politics, your sharp tongue is both feared and respected. When you express a truth, be it blunt, through a veiled insult, or a rebuke, people will listen and recognize the validity in what you say. People may not like it, but they recognize your correctness when you’re truthful, even if the way you say it stings.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "signed_in_blood": [
+            {
+              "id": "perk_083700",
+              "cost": 200,
+              "name": "Signed in Blood",
+              "description": "This dark, beautifully crafted quill binds any contract signed with it to the full force of fate itself. Once someone signs their name, they are bound to their oath without question, though they remain unquestioning of the quill’s true nature. Anyone who uses the quill will be aware of the consequences of signing with it. Neither oaths nor terms can be violated by the signer without dire consequence.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "social_architect": [
+            {
+              "id": "perk_083701",
+              "cost": 100,
+              "name": "Social Architect",
+              "description": "You possess an incredible gift for shaping and guiding the social structures around you. Be it restructuring a city’s governance, shaping cultural practices, or controlling the flow of information within a council or court, your talent can have consequences that reach far further than the group you began in. With careful planning, you can manipulate public opinion, create and split factions, and even mold traditions to benefit yourself.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "tell_the_king_no": [
+            {
+              "id": "perk_083702",
+              "cost": 100,
+              "name": "Tell the King No",
+              "description": "Those above you in the political hierarchy, particularly the king, always heed your counsel, even in the face of vehement disagreement. They process your advice with a clarity that pierces through ego, stubbornness, or impulsive tendencies, rather than letting pride or emotion cloud their judgment. This sway allows you to temper extreme decisions and act as a steady hand that pulls the realm back from the brink.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "that_smell": [
+            {
+              "id": "perk_083703",
+              "cost": 0,
+              "name": "That Smell",
+              "description": "You are always impeccably clean and can choose exactly how you’d like to smell, no matter what you’ve been through. From your perspective, everything and everyone around you also smells perfectly pleasant—even if you’re wading through filth or haven’t seen a bath in weeks.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_world_a_tapestry": [
+            {
+              "id": "perk_083704",
+              "cost": 400,
+              "name": "The World a Tapestry",
+              "description": "Your mind for systems and bureaucracy stands above all others in history. You see systems, be they legal, social, or bureaucratic, more clearly than anyone else, understanding their inner workings, identifying vulnerabilities, and knowing how to exploit or improve them. When you look at a structure, you easily assess its efficiencies and efficacies, and how to best apply them to your benefit.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "undying_allegiance": [
+            {
+              "id": "perk_083705",
+              "cost": 200,
+              "name": "Undying Allegiance",
+              "description": "Those who directly work for you are bound by a loyalty that defies all attempts at betrayal. Their dedication to you is unbreakable, immune to bribery, coercion, or even ideological persuasion. This allegiance is more than mere respect; it’s a deeply ingrained trust that keeps them from ever wavering or plotting against you. While this unwavering allegiance does not extend infinitely outward to every person in your network, it ensures your immediate agents and allies remain steadfast in your service.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "wardrobe": [
+            {
+              "id": "perk_083706",
+              "cost": 100,
+              "name": "Wardrobe",
+              "description": "You have access to a vast wardrobe in whatever style you desire, from Westerosi finery to the exotic garb of distant lands. Regardless of appearance, these clothes adapt to make you comfortable in any weather, remaining perpetually clean unless you prefer to blend in with a bit of grime.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "whisper_the_right_words": [
+            {
+              "id": "perk_083707",
+              "cost": 200,
+              "name": "Whisper the Right Words",
+              "description": "You have an almost supernatural knack for saying just the right thing at the right time to be selected for prestigious or influential tasks. Be it a quiet word in a lord’s ear, a rousing speech, or an earnest request, your words naturally present you as the ideal candidate for opportunities that lead to power, wealth, or influence. You are frequently offered chances others might dream of, as your instincts for advancement are sharp and reliable.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_maester_and_merchant": {
+        "chapter": "The Maester & Merchant",
+        "perks": {
+          "all_the_proper_paperwork": [
+            {
+              "id": "perk_083708",
+              "cost": 200,
+              "name": "All the Proper Paperwork",
+              "description": "Even in Westeros, the tedium of bureaucracy can be a barrier to progress. Building up an estate in King’s Landing, acquiring lands, or gaining the approval of other nobles typically requires endless time, effort, and stacks of paperwork. This item provides a self-replenishing stack of completed, lawful paperwork tailored precisely to your needs. These documents are accepted without issue, allowing you to bypass red tape effortlessly and complete your tasks without delay.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "blackmail": [
+            {
+              "id": "perk_083709",
+              "cost": 100,
+              "name": "Blackmail",
+              "description": "You possess a trove of dirty secrets from across the realm. While you may lack leverage on fellow councilors or the royal family (for now), most others aren’t as fortunate. This cache holds enough damaging information to keep many people in line—or ruin them, should you choose.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "eyes_of_gold_en_dragons": [
+            {
+              "id": "perk_083710",
+              "cost": 400,
+              "name": "Eyes of Gold(en Dragons)",
+              "description": "Your eyes were practically made for making money. With barely a glance, you can discern the true value and quality of practically anything. You can instantly see the differences between the blade of an apprentice blacksmith and the masterwork of a journeyman, and what makes it of more value and higher quality. You even intuitively grasp the value of abstract assets like secrets or knowledge. Finally and arguably most importantly, you know exactly who will pay the most for these things.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "gilded_sovereign": [
+            {
+              "id": "perk_083711",
+              "cost": 600,
+              "name": "Gilded Sovereign",
+              "description": "You have an unparalleled instinct for creating and growing wealth. From humble beginnings, you can build thriving cities, initiate booming trade networks, and enrich entire regions. Within a few years, a small port could become a thriving economic center. In time, your work could rival the prosperity of Braavos or Qarth. You seem to turn financial investments into empires, making you an economic visionary capable of completely reshaping the Westerosi financial landscape.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "illuminator": [
+            {
+              "id": "perk_083712",
+              "cost": 200,
+              "name": "Illuminator",
+              "description": "A natural teacher and storyteller, you have an extraordinary talent for explaining complex ideas in ways that captivate and educate. Texts you write are remembered as masterworks, shaping society’s philosophies and traditions long after you’re gone. Your influence can establish entire schools of thought, religious doctrines, or cultural norms, leaving a legacy that persists across generations. The best teachers, of course, are also the best learners; you have an uncanny ability to absorb new knowledge quickly, able to master skills and concepts at remarkable speed.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "informed_intellectual": [
+            {
+              "id": "perk_083713",
+              "cost": 100,
+              "name": "Informed Intellectual",
+              "description": "Your knowledge extends to the very limits of maesterly duties, encompassing history, philosophy, medicine, science, and ravenry, with insights that stretch as far as Yi-Ti. Any knowledge a maester would have to know, you possess in spades, making you a scholarly titan of the world. Furthermore, your credibility grows to match your expertise; no one, not even the skeptical or mistrustful, will question your words. You are an authority beyond reproach.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "mender_of_bones": [
+            {
+              "id": "perk_083714",
+              "cost": 400,
+              "name": "Mender of Bones",
+              "description": "Your medical expertise is nothing short of miraculous. You possess knowledge of anatomy, treatments, and healing techniques well beyond a maester’s usual training, including remedies for rare diseases and subtle methods for disguising poisons as illnesses. With the right herbs and techniques, you can heal with the power of the Mother behind you, or inflict harm with the subtlety of a whisper. In your hands, medicine becomes both a balm of life and an art of the Stranger.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "poisons_and_toxins": [
+            {
+              "id": "perk_083715",
+              "cost": 100,
+              "name": "Poisons and Toxins",
+              "description": "You’ve mastered the dark art of poison-making. From the subtle and deadly Tears of Lys to the instantly lethal Strangler, no toxin is beyond your skill. You can even craft new and insidious poisons with effects tailored to your needs—toxins that delay their activation for weeks or only target members of a specific family.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "price_to_everything": [
+            {
+              "id": "perk_083716",
+              "cost": 200,
+              "name": "Price to Everything",
+              "description": "You understand that everyone and everything has a price. In negotiations, you cut through emotions and morals, restricting the other party’s options to their knowledge, resources, and needs. You can convince anyone to agree to even extreme proposals if you can effectively sell the idea to them. This can come in the form of convincing a noble family to part with their treasured Valyrian steel sword or through purchasing an invaluable stretch of land one really shouldn’t give up. Even when deals border on the unethical or illegal, others will not judge you or the target unless they’re aware of the risks involved. After the deal, no hard feelings linger, preserving your reputation.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "puppeteers_purse": [
+            {
+              "id": "perk_083717",
+              "cost": 200,
+              "name": "Puppeteer’s Purse",
+              "description": "Money talks, and with it you orchestrate rivalries, disrupt alliances, and play your enemies against each other. Through carefully timed loans, gifts, or bribes, you can subtly fuel grudges, incite tensions, and drive wedges between rivals. Even allies of your enemies will hesitate to turn against you directly, focusing instead on whoever you’ve positioned as a greater threat. With this perk, you can ensure that those who seek to undermine you are too busy with each other to target you effectively.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "tongues_of_many_lands": [
+            {
+              "id": "perk_083718",
+              "cost": 100,
+              "name": "Tongues of Many Lands",
+              "description": "You have a masterful and supernatural grasp on linguistics, able to learn, understand, and fluently speak any language or dialect you come across within days of encountering it. This perk also grants you a mild cultural understanding of the many places you go.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "treasure_maps": [
+            {
+              "id": "perk_083719",
+              "cost": 400,
+              "name": "Treasure Maps",
+              "description": "A grand tome filled with maps and clues leading to legendary lost artifacts scattered across the world of Planetos. From the missing Lannister sword, Brightroar, to the mythic Dragonbinder, the book reveals the rumored locations and last sightings of each fabled treasure. While none of these relics will be easy to claim, every one will be possible for you to accomplish.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "vault_of_memories": [
+            {
+              "id": "perk_083720",
+              "cost": 200,
+              "name": "Vault of Memories",
+              "description": "Your mind is a perfect repository, retaining everything you’ve ever learned, read, or experienced with photographic clarity. You can recall any minute detail on command. If you choose, can forget or compartmentalize memories, allowing you to selectively block out knowledge whenever you desire.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_smallfolk": {
+        "chapter": "The Smallfolk",
+        "perks": {
+          "of_flame_and_forge": [
+            {
+              "id": "perk_083721",
+              "cost": 200,
+              "name": "Of Flame and Forge",
+              "description": "The forge answers to you. As a blacksmith of unparalleled skill, you can craft weapons, armor, and tools of unmatched quality. Beyond this, you possess one of the rarest talents in the world: the ability to reforge Valyrian Steel. You can repair shattered blades and reshape this legendary material into new forms without losing its signature sharpness, strength, or dark beauty.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_winds_of_winter": [
+            {
+              "id": "perk_083722",
+              "cost": 0,
+              "name": "The Winds of Winter",
+              "description": "Your body possesses an incredible resilience, enabling you to thrive even in the harshest conditions. Native diseases hold little threat, and you endure brutal winters or food shortages with ease, maintaining strength and clarity where others falter. Sickness rarely takes hold, and starvation becomes a distant worry, as you instinctively ration energy and resources within yourself.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_asoiaf_small_council_jumpchain": {
+    "source": "ASOIAF Small Council Jumpchain",
+    "description": "Perks from ASOIAF Small Council Jumpchain.",
+    "chapters": {
+      "the_dragonrider": {
+        "chapter": "The Dragonrider",
+        "perks": {
+          "dragon": [
+            {
+              "id": "perk_083723",
+              "cost": 800,
+              "name": "Dragon",
+              "description": "An adult dragon is already a fully grown force of nature, massive in size and strength, with scales impervious to ordinary weapons and fire that can reduce even stone to ash. While less malleable in temperament, it will obey your commands, though mutual respect is crucial for such a volatile creature.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "fleet_of_the_sunset_sea": [
+            {
+              "id": "perk_083724",
+              "cost": 200,
+              "name": "Fleet of the Sunset Sea",
+              "description": "A navy surpassing even the Redwyne fleet in ambition and versatility, its ships crafted for both war and trade. Your fleet dominates trade routes, spices from Qarth, silks from Lys, and Arbor gold flow through your holds, but unlike their lumbering merchant cogs, your ships transform effortlessly into instruments of war. Cargo decks hide compartments for wildfire jars, while merchant crews double as marines trained to board enemy vessels with axes and grappling hooks.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_greenseer": {
+        "chapter": "The Greenseer",
+        "perks": {
+          "the_mothers_river": [
+            {
+              "id": "perk_083725",
+              "cost": 400,
+              "name": "The Mother’s River",
+              "description": "The Rhoyne’s children did not kneel to dragons. They fought with currents, not swords, and drowned fire in the Mother’s embrace. Now, her power flows through you. You wield the ancient water magic of the Rhoynar, a legacy of the river priests who once defied Valyria itself. While crude hydrokinesis is a small portion of this gift, the Mother’s blessings run deeper. You can summon impenetrable fogs that stretch for miles, shrouding fleets or armies in mist that only you and your allies can see through. Wounds immersed in flowing water knit together under your touch, bones mending and gashes closing as if time itself bends to the river’s song. Poisoned wine turns harmless at your command, and blighted wells run clear again. Yet the Rhoyne’s mercy is matched by her wrath, her currents answer your fury, dragging ships beneath the waves or crashing torrents against castle walls.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_game_of_thrones_-_version_1_201": {
+    "source": "Game Of Thrones - Version 1.201",
+    "description": "Perks from Game Of Thrones - Version 1.201.",
+    "chapters": {
+      "the_dragonrider": {
+        "chapter": "The Dragonrider",
+        "perks": {
+          "baby_dragon": [
+            {
+              "id": "perk_083726",
+              "cost": 500,
+              "name": "Baby Dragon",
+              "description": "A single baby dragon that you’ve hatched and has bonded to you. This beast while small will grow at an incredible rate and eventually become a medieval superweapon easily able to lay waste to armies of men. Beyond this jump the dragon will grow with you becoming more powerful as you grow in power so that it may forever stand by your side. Alternatively, it could be an egg that hatches whenever you want it to, and can rehatch each jump. The dragon comes with the Blessing of Valyria perk.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dragonbinder": [
+            {
+              "id": "perk_083727",
+              "cost": 500,
+              "name": "Dragonbinder",
+              "description": "A priceless relic of Old Valyria, this horn has the unique ability to bind dragons and their kin. Whenever blown any draconic creatures within earshot will be forced to kneel to you, completely incapable of going against you and entirely submissive.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "power_overwhelming": [
+            {
+              "id": "perk_083728",
+              "cost": 500,
+              "name": "Power Overwhelming!",
+              "description": "For most mages on Planetos, the greatest barrier to being a powerful mage is sacrifice. Specifically, the fact that all magics known to Planetos require some degree of blood, soul or human sacrifice to function. You neatly sidestep this issue through your innate connection to a powerful natural network of magic like the Weirwoods, instead powering your magic through that. You’ll even be able to craft items using this connection. This natural network of magic will appear in future worlds, and provides you with enough power that you could cast high level magics near trivially. This does not give you the power to pull off spells like the Hammer of the Gods by yourself, but by working with others, such powers may be within your grasp.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "valyrian_smithing": [
+            {
+              "id": "perk_083729",
+              "cost": 200,
+              "name": "Valyrian Smithing",
+              "description": "You have all the skills of a Valyrian Master Smith, able to forge and reforge Valyrian Steel And craft Items of power, particularly those related to dragons or fire.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "valyrian_steel_armour": [
+            {
+              "id": "perk_083730",
+              "cost": 400,
+              "name": "Valyrian Steel Armour",
+              "description": "By purchasing this armour, you have gained one of the greatest personal protections available in this entire setting. At first pierceable only by another Valyrian Steel weapon, as you grow in power, this armour will scale with you. Be aware that it only protects the parts it covers, so if you’re shot through your visor, you’re shit out of luck.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "valyrian_steel_dagger": [
+            {
+              "id": "perk_083731",
+              "cost": 100,
+              "name": "Valyrian Steel Dagger",
+              "description": "You are the proud owner of a Valyrian Steel dagger. Or not. See, this dagger is special beyond just being made of one of the strongest metals on the planet and worth an exorbitant amount of money. Anyone who you try to hoodwink or bamboozle whilst wearing this will be far more likely to believe whatever bullshit you’re spinning. Those with tricky minds, or strong will can break through its effect however.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "valyrian_stone_shaping": [
+            {
+              "id": "perk_083732",
+              "cost": 200,
+              "name": "Valyrian Stone Shaping:",
+              "description": "Far stronger even than steel, granite or diamond, dragonstone is an ancient material used by the Valyrians in much of their constructions. By purchasing this perk, you have the magical ability to shape the material into any form you may wish. You can transmute regular stone into this with intensive magical effort, or slightly less exhaustingly create it wholesale similar to cement. Whilst it is possible to alter the shape of the stone by using dragonfire to melt it into a liquid, then shaping and fusing it from there, this magic is far faster and easier, as well as safer.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_greenseer": {
+        "chapter": "The Greenseer",
+        "perks": {
+          "beloved_of_magic": [
+            {
+              "id": "perk_083733",
+              "cost": 200,
+              "name": "Beloved of Magic",
+              "description": "Ordinarily, the overall strength of magic on Planetos is related to the tides of the earth, and the existence of magical creatures such as dragons. This means that in times of great magical power, the least of magicians could cast complex and powerful magics limited only to the strongest in times when magic wanes. Of course the flipside of this is that in times when magic isn’t strong, magicians can barely cast, with that same magician from before barely being able to summon sparks of fire with an ignition source. You gracefully avoid this problem, as magic seems to favour you preventing any such environmental factors affecting your power negatively.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "born_of_the_divine": [
+            {
+              "id": "perk_083734",
+              "cost": 300,
+              "name": "Born of the Divine",
+              "description": "There was a divinity in your family history, and no matter how many generations the benefits have skipped over, they are shining through you now. You’re a little taller, a lot smarter, a little more attractive and charming, and a fair bit stronger and faster than you were before. You will live maybe half again as long as others of your kind, and be in full vigour until the end of your years. This works as a capstone booster, boosting all of your perks slightly, but most especially all of your capstone perks. The enhanced version of the perks are in the notes, as are the height differences.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "crate_of_weirwood_or_black-barked_saplings": [
+            {
+              "id": "perk_083735",
+              "cost": 200,
+              "name": "Crate of Weirwood, or Black-Barked Saplings",
+              "description": "Ten of either or five of both. They grow to full maturity within a year. Every ten years, another crate of twenty arrives. Weirwoods are sacred trees grown by the Children of the Forest and used as places of worship for those who follow the Old Gods. They have white bark, red sap and red leaves. The children often carve elaborate faces into the trunks as well, which the sap will swell up from, giving the appearance of tears. Black-Barked trees on the other hand are the trees Qarthian Warlocks use the leaves of, to make the Shade of Evening. Black-Barked trees have black bark and inky blue leaves. Both may have magical properties yet undiscovered, but will most likely relate to the two’s mystical properties. May be purchased multiple times. Both types of tree will create a mystical connection to trees of their fellow species, and can be used as a network to divine anything that has happened in their presence in the past or present. They can even be used to communicate through, over vast distances, as long as you have skills in divination.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "mummers_farce": [
+            {
+              "id": "perk_083736",
+              "cost": 100,
+              "name": "Mummer’s Farce",
+              "description": "At least in Westeros, magic is commonly believed to be dead or faded. This makes it harder for an aspiring mage to gain the patronage often necessary to get reagents and artefacts with which to do magic. Thankfully, you don’t have that problem! You are an expert in getting people to believe in your prowess, and can get them to sacrifice things on your behalf to power your magic. Yes, you too can convince a man to burn his own daughter!",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "necromancy": [
+            {
+              "id": "perk_083737",
+              "cost": 400,
+              "name": "Necromancy",
+              "description": "The magic of life and death, necromancy is a fell magic used by many,including Qyburn, the Others, some Qarthian Warlocks, and the Bloodstone Emperor. By purchasing this perk, you have gained the ability to raise groups of undead wights bound by your will and life force, as well as the ability to perform a true resurrection once per year.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "resistant_to_magical_area_effects": [
+            {
+              "id": "perk_083738",
+              "cost": 200,
+              "name": "Resistant to Magical Area Effects",
+              "description": "Does an area seem too cold to be natural? Is an area still volcanically deadly even almost five hundred years after the area was blighted by an unspecified doom? Perhaps being too long in an area will cause grayscale to latch onto you. Well, no longer. You are resistant to the effects of magical environments, be the source of a curse, damnation of fourteen gods, or just a shroud worn by the White Walkers. Now, it takes a bit longer for the effect to affect you. As long as you’re moving through the area, the magic won’t take hold on you, but the moment you stop with the intent of staying, the magic will very slowly start to work, 1% per ten minutes until you start leaving the area again. When it gets to 100%, the magic works on you as it would any other person.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "songs_of_the_earth": [
+            {
+              "id": "perk_083739",
+              "cost": 300,
+              "name": "Songs of the Earth",
+              "description": "Those who sing the songs of the earth have many gifts. Chief amongst these is the ability to speak the True Tongue, a great affinity for magic, and a deep spiritual connection to nature which increases potency of nature based magics. The True Tongue is based on the sounds of the world, including things like wind on leaves, rain on water and the sound of stones in a brook. By binding themselves to a weirwood, an earthsinger may live for far longer than any other of their kind. There is evidence that some of the Children currently alive today were amongst those who created the Others 12,000 years ago.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "winters_children": [
+            {
+              "id": "perk_083740",
+              "cost": 300,
+              "name": "Winter’s Children",
+              "description": "More than any other beings, the White Walkers are the children of winter. This manifests in their immensely powerful winter magic, as well as their ability to reshape ice into any form they wish. At first, all you will be able to do is create crude forms out of ice, and affect the weather around you towards the cooler side. But as you gain experience, you will learn to create weapons of ice capable of cutting castle forged steel like butter as well as alter the weather on a large enough scale to plunge an entire continent into a decades long ice age. As one of the others, you also possess the ability to raise vast armies of the dead as wights. Other species can do this if they practice, however White Walkers have a greater affinity, and are capable of simultaneously raising hosts numbering in the thousands with a bit of effort.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_knight": {
+        "chapter": "The Knight",
+        "perks": {
+          "a_proficient_warrior": [
+            {
+              "id": "perk_083741",
+              "cost": 100,
+              "name": "A Proficient Warrior",
+              "description": "You are the equal of any knight in swordfighting, jousting and riding, as well as capable of caring for your armour and weapons without the aid of a squire. You have a weapon you are slightly more skilled in, than your average knight, whether that is a greatsword, a warhammer or something different.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "always_armoured": [
+            {
+              "id": "perk_083742",
+              "cost": 100,
+              "name": "Always Armoured",
+              "description": "For whatever reason, it’s a fairly common practice in Westeros for nobles and important characters to fight without all their armour - rule of cool maybe? Nonetheless, now you can too! As long as you are wearing some kind of armour, you will be protected by the concept of armour to the same extent that what you are already wearing would protect you. Finally, you too can run around the battlefield without a helmet like all the other morons - and as a bonus, you won’t die doing so!",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "armour_of_the_laughing_tree": [
+            {
+              "id": "perk_083743",
+              "cost": 200,
+              "name": "Armour of the Laughing Tree",
+              "description": "Despite its name, the Armour of the Laughing Tree is not necessarily an armour. Instead, it is an upgrade you can apply to any piece of clothing or armour you wear. When activated, the wearer will be near-impossible to unmask or capture, whilst people’s memories seem to gloss over any attempts to connect the unmasked and masked forms.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "genius_strategist": [
+            {
+              "id": "perk_083744",
+              "cost": 400,
+              "name": "Genius Strategist",
+              "description": "You are now a strategist unparallelled on Planetos, rivalling the likes of Napoleon and Alexander the Great, with a strategic mind that can, with enough resources and determination, change the face of the world. You can now win a battle whilst greatly outnumbered if only you have the time to prepare.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "master_of_arms": [
+            {
+              "id": "perk_083745",
+              "cost": 200,
+              "name": "Master of Arms",
+              "description": "You are a skilled teacher, capable of imparting a mastery of five weapon types and a martial philosophy over the course of a few years.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "qyburns_scorpion": [
+            {
+              "id": "perk_083746",
+              "cost": 300,
+              "name": "Qyburn's Scorpion",
+              "description": "Repeating scorpion, range of several miles, hits what it’s aimed at in a straight line. You will not need to adjust for either distance, curvature of the earth, or weather.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "sword_of_the_morning": [
+            {
+              "id": "perk_083747",
+              "cost": 500,
+              "name": "Sword of the Morning",
+              "description": "You are one of the greatest warriors to grace the face of Planetos in a generation. Your mind and body are in perfect sync with combat. You could easily analyse a battlefield to create an imaginary version of it in your Mind’s Eye to easily predict the movements of your opponent until they stop being a threat... or if they play dead. You could fight 10 men, perhaps even 20 by yourself, and come out without a scratch. Against truly skilled opponents on the level of Ned Stark in his prime, this number goes down to 4-7. This is quite straining to a baseline human, but it is possible to expand the limits of your predictions with training, unnatural modifications or perks from another Jump. You also gain a substantial increase in skill to dual wield your preferred weapon with the same level of mastery that you wield one.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "unsullied_grit": [
+            {
+              "id": "perk_083748",
+              "cost": 300,
+              "name": "Unsullied Grit",
+              "description": "You have unbreakable will, easily equal to that of the Unsullied Legions from Astapor, able to stand through extreme pain and hardship. You are also capable of completely controlling yourself, no longer falling into a bloodthirsty rage in the case of a battle, only to then commit atrocities.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "weapons_and_armour": [
+            {
+              "id": "perk_083749",
+              "cost": 100,
+              "name": "Weapons and Armour",
+              "description": "Weapons and armour suitable for your station, profession and location. If you are a Stormslander knight, then you get heavy plate armour and your specialty weapon. If you are a diplomat from Dorne, you probably have leather armour and a poisoned dagger. This gear respawns in the warehouse a day after if lost or destroyed. This gear is generally about average for what your social position would expect.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_lord": {
+        "chapter": "The Lord",
+        "perks": {
+          "first_choice": [
+            {
+              "id": "perk_083750",
+              "cost": 100,
+              "name": "First Choice",
+              "description": "When someone is considering who to appoint for a position you desire, you will be the first name that comes to mind. Whilst this won’t stop them from choosing someone grossly more qualified and experienced, it will give you an edge if it’s a choice between you, and someone of a similar or slightly greater competence.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "great_fortification": [
+            {
+              "id": "perk_083751",
+              "cost": 500,
+              "name": "Great Fortification",
+              "description": "You have a full Westerosi castle. This is a fortification comparable to Winterfell itself, being capable of holding several thousand people, enchanted with to be immune to offensive magics, and to keep out a single sentient species which is defined at the start of each jump.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "hand_of_the_king": [
+            {
+              "id": "perk_083752",
+              "cost": 300,
+              "name": "Hand of the King",
+              "description": "This object when worn grants the wearer the authority of the highest leader of their local area (or if they’re actually representing someone, them). By default, it takes the form of a golden pin held by a hand, but after this jump it can take whatever design you wish.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "old_blood": [
+            {
+              "id": "perk_083753",
+              "cost": 100,
+              "name": "Old Blood",
+              "description": "Within your veins pumps the blood of one of the Great Houses of Westeros, such as Stark or Lannister. As befitting of your blood, people give you more attention than they normally would when you demand it and are far more likely to bend to your demands or orders than normal. This also gives you a bit of divine right to rule causing vassals to be far less likely to betray you, after all your family has ruled well for centuries.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_game_of_thrones": [
+            {
+              "id": "perk_083754",
+              "cost": 300,
+              "name": "The Game of Thrones",
+              "description": "It wouldn’t be much of a game without a throne to win. Now you have a throne of a style which matches your aesthetic and theme. If you’re a conqueror king, then perhaps you have an iron throne, whereas if you’re a humble king, you might have a simple wooden bench. Your throne emits an aura which conveys the kind of king you are. If you are a harsh, cruel king, then your throne might feel cold and stark like the seastone throne, whilst if you are a knightly king, then your throne might create a sense of chivalry and honour. Whilst you sit on your throne, any subjects you may have will be far more subservient, your lands will be more efficient, and none will doubt your kingship.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "title_of_land": [
+            {
+              "id": "perk_083755",
+              "cost": 100,
+              "name": "Title of Land",
+              "description": "A title of land equal to what someone of your station would expect. Regular warriors may have a small block for them and their family, a lord may have a castle, and the surrounding area, a lord paramount may have a massive castle, and an enormous area around as their personal domain, and a royal may have not just an enormous castle, but also an area near equal to the other kingdoms as their land.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_maester_and_merchant": {
+        "chapter": "The Maester & Merchant",
+        "perks": {
+          "a_coin_in_little_fingers": [
+            {
+              "id": "perk_083756",
+              "cost": 400,
+              "name": "A Coin in Little Fingers",
+              "description": "You have a way with money that most don’t gain in their lifetime, for you’re able to turn investments into entire enterprises and find money in industries no one else would and how to manage your economy with ease. For this extends to cover all avenues of trade such as seaborne and others and you’ll always be the first to find out about new and more importantly wealth inducing trends. In the right position, you can sink an entire empire into dangerous levels of debt. You can easily do the opposite as well, and make the kingdom flourish, creating trade opportunities that wouldn't have existed without your expertise.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "brothels": [
+            {
+              "id": "perk_083757",
+              "cost": 400,
+              "name": "Brothels",
+              "description": "You own a shop chain of some kind which caters to some form of vice. By default, this is a brothel, but whatever it is, the business provides you with a stable source of income in the range of 500 to 700 gold dragons a year. The main benefit of this item is the blackmail it provides however, as whatever the type, your chain attracts the patronage of the rich and powerful. Thanks to this, you will regularly discover blackmail on various high profile individuals, as well as evidence to corroborate this. Sadly however, you cannot control who you gain blackmail on, so if you’re aiming to extort a particular person, you’re shit out of luck. You can freely import businesses to gain this effect if you wish.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "great_manse": [
+            {
+              "id": "perk_083758",
+              "cost": 100,
+              "name": "Great Manse",
+              "description": "As a diplomat, you generally represent some powerful faction. As such, you have been provided with a great manse to show off your (and your faction’s) status. This lodging is almost decadently luxurious, coming with fine furnishings and an array of servants to look after it.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "maester_of_the_citadel": [
+            {
+              "id": "perk_083759",
+              "cost": 300,
+              "name": "Maester of the Citadel",
+              "description": "Whether you are a Maester, or simply have the accreditation, you have studied enough to have forged a full chain, and are the equal of any Maester of the Citadel in academic knowledge. This knowledge stretches from healing to scholarly knowledge, science and the training of ravenry, who carry messages in the Seven Kingdoms.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "mountain_of_gold": [
+            {
+              "id": "perk_083760",
+              "cost": 500,
+              "name": "Mountain of Gold",
+              "description": "Much like the Lannisters of Casterly Rock, you now own a truly impressive gold mine. This gold mine could be mined for centuries - millennia perhaps without running dry. In addition, you own a mint which will print valid money for you from now on. Please be aware that this does not come with inflation protection, so you could truly wreck the economy if you spend too much.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "safehouse": [
+            {
+              "id": "perk_083761",
+              "cost": 300,
+              "name": "Safehouse",
+              "description": "Sometimes, a man of wealth has to simply drop off the radar for a little while. Now you can do so in style. This lavishly appointed town house in a foreign city comes with servants and a fiat backed guarantee that as long as you actively are trying to hide, that your enemies will not find you. This can also be used as a handy way to hide people - such as your crush’s daughter who you’re trying to turn into your sex slave - where they will never be found. Sadly, it does not come with anything stopping anyone from escaping.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "tribute": [
+            {
+              "id": "perk_083762",
+              "cost": 400,
+              "name": "Tribute",
+              "description": "When the barbarians are battering at the gate, sometimes you need a little something to pay them off. This provides you with that. This item provides a non-specific array of precious goods and items which, when given to another, generate far more good will than they should. It also enforces a geass which ensures that any deals sealed by the trading of these items will be kept. Examples of what could be provided by the Tribute include gold, jewels, food, livestock, slaves, horses, good quality weapons, and other precious goods. The contents of the tribute changes to be whatever the second party would consider to be a good tribute. The item refills once per jump.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_smallfolk": {
+        "chapter": "The Smallfolk",
+        "perks": {
+          "black_cloak": [
+            {
+              "id": "perk_083763",
+              "cost": 300,
+              "name": "Black Cloak",
+              "description": "When worn, this item, not necessarily a cloak, grants you easy and instant admission into any organisation, no matter what requirements may normally be in place. To be clear, this item allows admission to ANY organisation including things like a rebellion as the person they’re rebelling against, the Maesters as a woman, the Seven Kingdoms as a wildling or other such ordinarily impossible to join groups. If you perform any actions against that organisation whilst a part of them (for example, sabotaging the rebellion you joined), then the protection of this item is revoked, and they’ll treat you like they would any other betrayer.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "frey_pies": [
+            {
+              "id": "perk_083764",
+              "cost": 100,
+              "name": "Frey Pies",
+              "description": "You are a world class chef capable of making any material taste delicious, and masking any flavour. Literally any flavour.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "guest_rites": [
+            {
+              "id": "perk_083765",
+              "cost": 100,
+              "name": "Guest Rites",
+              "description": "By taking this perk, those with whom you make promises or agreements in good faith are far more likely to hold to them. This is strongest in promises not to attack you, but even then, sufficiently motivated or honorless individuals may break them. To break agreements made with you would generally require someone to hate you with all their being, be single mindedly devoted to whatever cause motivates them, or in some other way find breaking the oath to be the lesser problem",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "musical_skill": [
+            {
+              "id": "perk_083766",
+              "cost": 100,
+              "name": "Musical Skill",
+              "description": "The art of Song and Instruments, one you're quite talented at, to the point that many would compare your skill to the late Prince Rhaegar Targaryen. Weaving new songs and music comes as easy to you as winning the hearts and minds of your audience and you’ll find that you seem to never run out of inspiration; drawing ideas from your experiences and environment. To think, with this alone you could indeed make quite a lot of coin; though do be careful, not every King or Lord enjoys a good song.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "sellsword_for_hire": [
+            {
+              "id": "perk_083767",
+              "cost": 400,
+              "name": "Sellsword for Hire",
+              "description": "Despite the feudal nature of this world, you have no trouble travelling the land, and can easily be hired by competing factions without them killing you. Want to work for Tyrwin, then go live in Sunspear? Go ahead. Want to live as a free folk then join the Umber’s household? Sure. Want to be a Night’s Watchmen, then leave? I guess. Essentially, despite anything you might normally expect, you may freely join or leave an organisation without consequence.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "smith": [
+            {
+              "id": "perk_083768",
+              "cost": 100,
+              "name": "Smith",
+              "description": "You are a skilled blacksmith, capable of forging most things seen on Planetos. Items forged by you are better at their intended function in some way, with swords being sharper, ploughs ploughing more easily, armour blocking blows more easily, or decorative items being more eye-catching. Whilst",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_onion_knight": [
+            {
+              "id": "perk_083769",
+              "cost": 200,
+              "name": "The Onion Knight",
+              "description": "You are an amazing smuggler. This may not sound like much, but it comes with a host of benefits. You are a master sailor, capable of taming the fiercest of sea storms, and in addition, are truly superb at hiding things. When hiding things, you seem to be exceptionally good at causing people to overlook you, which stops officials and unwanted individuals from noticing your concealed cargo. This SEP field shorts out if A) your hidden items are physically discovered (eg. falling through a hidden door), or B) you rely solely upon it for protection. Finally, if you are ever caught, officials will be far less likely to hit you with the full punishment. You will still be punished, but the punishment itself will be drastically reduced in severity.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "tradecraft_skills": [
+            {
+              "id": "perk_083770",
+              "cost": 100,
+              "name": "Tradecraft Skills",
+              "description": "You have skills in a mundane trade of your choice which someone of Planetos of your political standing, geographic location and time could conceivably learn. This includes being a Myrrish glassmaker, a carpenter, a brewer or other such trades.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "travel_supplies": [
+            {
+              "id": "perk_083771",
+              "cost": 100,
+              "name": "Travel Supplies",
+              "description": "A leather satchel which, when opened, contains the minimum needed to survive in the wild, as well as enough food for the day. Each day, the contents of the bag will change to cover this, with, for example, an arctic biome providing (among other things) warm clothes, firewood and a tinderbox, whilst a desert locale might provide thin, light, covering clothes, extra water and a tent. Once a week the perishables are replaced.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "travellers_hospitality": [
+            {
+              "id": "perk_083772",
+              "cost": 100,
+              "name": "Traveller’s Hospitality",
+              "description": "A hearth to rest one’s feet at, and a table to eat and drink at, something we all desire and something many travellers don’t always get, is something you can get with ease. You have a bit of an aura that makes people open their doors to allow you to stay and rest for a bit so long as you aren’t a problem. Of course this can always be undone if you’re a monster who rapes and pillages his/her way across nations but then why would you be looking for fellowship?",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_generic_asoiaf_fanfiction": {
+    "source": "Generic ASOIAF Fanfiction",
+    "description": "Perks from Generic ASOIAF Fanfiction.",
+    "chapters": {
+      "the_greenseer": {
+        "chapter": "The Greenseer",
+        "perks": {
+          "inheritor": [
+            {
+              "id": "perk_083773",
+              "cost": 200,
+              "name": "Inheritor",
+              "description": "The Asshai’i are a mysterious people, steeped in lore, versed in magic and myth. And few more than you. You have a natural gift for learning magic, for digging lore and artifacts out of the darkness of the past. You know the right way to step in haunted ruins, methods to translate and understand long-dead scripts, ways of testing for and diffusing lingering magic on that which you seek to take... while this does very little for your actual power or talent with magic, it does make you incredibly able when it comes to acquiring knowledge or artifacts. And knowledge is a power all its own.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_knight": {
+        "chapter": "The Knight",
+        "perks": {
+          "commander": [
+            {
+              "id": "perk_083774",
+              "cost": 200,
+              "name": "Commander",
+              "description": "Learning to command is the job of a lifetime, it’s something nobles are trained in from the moment they can walk. Although very few ever achieve more than basic competency, to work autonomously from their liege and lead men into battle, you’ve reached a greater height. Whether from years of being a squire under a fantastic commander, learning all of their secrets, or a combination of a good library and a mind for the craft, you have become one of the greatest commanders of your realm, and recognised as such in the entire civilised world. Tactics, strategy, logistics, even propaganda and morale, you know it all, and can easily adapt your talents to other worlds and weapons as well.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_maester_and_merchant": {
+        "chapter": "The Maester & Merchant",
+        "perks": {
+          "crone": [
+            {
+              "id": "perk_083775",
+              "cost": 200,
+              "name": "Crone",
+              "description": "You have the Crone’s own wisdom now, and with it a gift for the scholarly pursuits that would shame any Maesters who try to compete with you. From numbers to languages, there is little written in a book you cannot master in short order, your mind working like greased lightning and your comprehension of such things matching great wizened elders five times your age. You have true wisdom now too, not just the ability to memorize things. As soon as you read something you understand it, on as deep and inherent a level as possible, and can use it to the absolute fullest extent possible in all the practical ways it is possible for such a thing to be used.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "instructor": [
+            {
+              "id": "perk_083776",
+              "cost": 200,
+              "name": "Instructor",
+              "description": "Few places indeed have the art of instruction honed so well as Slaver’s Bay, but even amongst their number your talent is unparalleled - if someone has the potential to learn something, you can teach it to them far faster and far better than any other, and they’ll retain it far past where those taught by another would grow rusty. You needn’t use this for the kind of purpose the locals would put it to, either; there’s no skill you can’t teach save the ones you don’t know. And of course, a good teacher must know their subject - you learn just as fast as you can teach, and retain it even better still.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "memory_of_ages": [
+            {
+              "id": "perk_083777",
+              "cost": 100,
+              "name": "Memory of Ages",
+              "description": "Normally people forget things over time. Without prompting or need to remember a thing, we humans tend to forget what we’ve done, read, or been taught. Not you though, you’ll pass through death, rebirth, and all the years of childhood only to perfectly remember anything you need to know that you can ever claim to have known.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "merchant_prince": [
+            {
+              "id": "perk_083778",
+              "cost": 200,
+              "name": "Merchant Prince",
+              "description": "From a couple of halfpennies to a couple of thousand gold dragons, it takes work, skill, wit, learning, and good luck to make a fortune. Luckily for you, when it comes to matters of finance and economics, you’ve got all of that. You could create the Westerosi equivalent of Venice from a small trading town in a decade, and rival Braavos in another.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_smallfolk": {
+        "chapter": "The Smallfolk",
+        "perks": {
+          "little_finger_lies": [
+            {
+              "id": "perk_083779",
+              "cost": 200,
+              "name": "Little(finger) Lies",
+              "description": "You are one of the best liars and actors on the planet, easily deceiving virtually anyone as to your true intentions and feelings, and seamlessly mixing lies and truth to direct conversations exactly where you want them to go. You could get a man to trust you by explaining exactly why he shouldn’t trust you, and yet still have him be taken completely off guard by your sudden yet inevitable betrayal.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "making_the_eight": [
+            {
+              "id": "perk_083780",
+              "cost": 200,
+              "name": "Making the Eight",
+              "description": "Is a rather popular claim among the less... ‘proper’ lordlings of this world. And you’re one who might have a very real chance, even without bringing in the matter of your social status or wealth. You have a charm, an absolutely captivating charisma, that makes anyone you’re interested in putty in your hands. You know when to smile, when to laugh, what stories to tell to amuse and entice them... and how to satisfy, tire, or utterly break them in bed. Even when it comes to multiple partners at the same time, you have a gift for managing them and making them get along, not to mention, at times, having them develop similar attractions among themselves... regardless of how little sense it makes.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "smith": [
+            {
+              "id": "perk_083781",
+              "cost": 200,
+              "name": "Smith",
+              "description": "With the Smith’s own gift in your arms and mind, you are a craftsman beyond peer, a maker of such wonders that lords and magisters would wage wars just for the chance to lay their hands on a piece you made. Be it smaller things like swords, armor or other crafts, or great feats of engineering and construction like Harrenhal or the Eyrie, your mind is flush with ideas and blueprints, making you a Smith, an Architect, an Engineer, and a Shipwright... and equally unmatched in all those fields.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "stranger": [
+            {
+              "id": "perk_083782",
+              "cost": 200,
+              "name": "Stranger",
+              "description": "The Stanger’s Favor makes you into the very image of death. You have a preternatural level of skill and talent at all things stealthy, and can get in and out of just about anywhere, be it by intrusion or infiltration. You’re also similarly skilled in actually dealing death, whether by poisons, blade, or unfortunate accident. To make it clear, this perk makes you one of the finest assassins or spies in the setting, someone so deadly as to give the House of Black and White pause.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_honorable_lord_stark": [
+            {
+              "id": "perk_083783",
+              "cost": 200,
+              "name": "The Honorable Lord Stark",
+              "description": "Most often - though not always - the Starks, a great deal of ASOIAF fic features a fast alliance being formed with the author’s favoured faction. Your ability to rapidly form strong mutual bonds, regardless of social status or the strangeness of a situation, is quite incredible, so long as you’re being genuine about it. As part of a group, you can rapidly rise in prestige and authority, so long as you discharge your duties well and prove worthy of the trust placed in you. You’re the exception to the whole notion that bad things must happen to good people. So long as you do your part honestly, sincerely and well, you find that anyone else you have a right to expect loyalty and service from does theirs just as genuinely too.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_hedge_knight": {
+    "source": "Hedge Knight",
+    "description": "Perks from Hedge Knight.",
+    "chapters": {
+      "the_knight": {
+        "chapter": "The Knight",
+        "perks": {
+          "company": [
+            {
+              "id": "perk_083784",
+              "cost": 600,
+              "name": "Company",
+              "description": "You have command over a hundred sellswords willing to follow your orders to the grave. These professional mercenaries are considered men at arms with average fighting skills but learn what you teach them incredibly quickly. The group regains any losses at one person a week and accepts any additions but they are followers and not companions.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "poisonous": [
+            {
+              "id": "perk_083785",
+              "cost": 200,
+              "name": "Poisonous",
+              "description": "The weaponry you use can be instantly coated in deadly poisons. This is done by pouring the catalysts onto the blade. The effect will stay on the blade for twenty-four hours before fading. These poisons don’t harm you and you can switch them out for a cure without any ingredients.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "squire": [
+            {
+              "id": "perk_083786",
+              "cost": 200,
+              "name": "Squire",
+              "description": "A nine-year-old child has begged and pleaded to become your squire. Possibly a bastard noble orphan as seen in their reading skills, it is difficult to figure out what house they come from due to the broad brim hat that keeps their face in shadow and their shaved head. In time they will grow up and under your tutelage become a powerful fighter, basing their honour on you.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "stormy_berserker": [
+            {
+              "id": "perk_083787",
+              "cost": 200,
+              "name": "Stormy Berserker",
+              "description": "During a fight you can choose to enter a heightened state of reaction where your sense of pain lowers and you seem to have more energy. Once the adrenaline fades your injuries will catch up with you and you will have twenty four hours to get medical attention.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_battlefield": [
+            {
+              "id": "perk_083788",
+              "cost": 100,
+              "name": "The Battlefield",
+              "description": "Due to it being the crossroads of Westeros, it is very common for the different kingdoms to have their battles in the Riverlands. Now it is easier for you to figure out where battles will take place and even figure out how to use the surroundings against enemies. Environmental kills will be much easier.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "warriors_son": [
+            {
+              "id": "perk_083789",
+              "cost": 200,
+              "name": "Warrior’s Son",
+              "description": "A mystery knight wearing a rainbow cloak, possibly a remnant from the Faith Militant. Either way they are an unofficial holy man and follow the Faith of the Seven in a way that does not go against you; figuring out an interpretation that fits the idea of many worlds. They seem to channel their faith which increases their damage and defense against magical enemies.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_lord": {
+        "chapter": "The Lord",
+        "perks": {
+          "honourable": [
+            {
+              "id": "perk_083790",
+              "cost": 100,
+              "name": "Honourable",
+              "description": "They may call it arrogance but when you stay out of conflicts neither side can pull you in without your consent. This allows you to conserve your power while they duke it out.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_maester_and_merchant": {
+        "chapter": "The Maester & Merchant",
+        "perks": {
+          "green_hand": [
+            {
+              "id": "perk_083791",
+              "cost": 200,
+              "name": "Green Hand",
+              "description": "You have an incredible knowledge of flora life with an agricultural understanding that would be helpful in farming and foraging. If Winter comes you could grow crops during the harsh seasons. For you, it is easy to find edible plants, just as easy to find poisonous ones and you won’t mistake them for each other.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "iron_allowance": [
+            {
+              "id": "perk_083792",
+              "cost": 100,
+              "name": "Iron Allowance",
+              "description": "If you do any job you will be paid a basic wage by this drawstring pouch without any middle organisations. You can also access your money through this and it can’t be stolen.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "paying_debts": [
+            {
+              "id": "perk_083793",
+              "cost": 200,
+              "name": "Paying Debts",
+              "description": "The Lannisters are the richest house in Westeros and even if you don’t have their fortune you have the ability to always get paid. You understand economics and can even get different payment types that are of equal equivalence. Winning a battle for a lord could allow you to be promoted as an example.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "wandering_maester": [
+            {
+              "id": "perk_083794",
+              "cost": 200,
+              "name": "Wandering Maester",
+              "description": "While the learned men of the Citadel normally reside in castles some roam the smaller villages of Westeros. They have finished their links in healing, history, ravenry, warcraft, accounting and higher mysteries but are willing to learn more.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_smallfolk": {
+        "chapter": "The Smallfolk",
+        "perks": {
+          "bard": [
+            {
+              "id": "perk_083795",
+              "cost": 200,
+              "name": "Bard",
+              "description": "With an enchanting voice and the ability to easily remember lyrics you could have a second job as a bard. What separates you from the rest though is being able to quickly make a new song based on recent events or fake ones you want to perpetrate.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "basic_supplies": [
+            {
+              "id": "perk_083796",
+              "cost": 100,
+              "name": "Basic Supplies",
+              "description": "(100): You have the necessary items to survive on the edges of society. This includes things like a tent and simple rations.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "iron_price": [
+            {
+              "id": "perk_083797",
+              "cost": 200,
+              "name": "Iron Price",
+              "description": "When you kill an enemy you can take some of their possessions without any backlash if the killing is legal. Doing this will also increase the chance of more valuables being looted then they should normally have. This only works when the action leads you to taking the items.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "layered": [
+            {
+              "id": "perk_083798",
+              "cost": 100,
+              "name": "Layered",
+              "description": "The North is quite a frigid place even in summer, most will armour themselves in layers of leather. You on the other hand always have a perfect internal temperature no matter the clothes you are wearing if the weather is natural. The more unnatural the weather is the more likely you will need to wear appropriate clothing.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "puppeteer": [
+            {
+              "id": "perk_083799",
+              "cost": 300,
+              "name": "Puppeteer",
+              "description": "You can create extremely intricate puppets and use them in a show. Watchers will be drawn in by the stories and if you let your hands wander with specific figures you can tell the future. This comes with two puppets - one for each hand - which when held out of sight change to fit the story.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_house_of_the_dragon_jumpchain": {
+    "source": "House of the Dragon Jumpchain",
+    "description": "Perks from House of the Dragon Jumpchain.",
+    "chapters": {
+      "the_dragonrider": {
+        "chapter": "The Dragonrider",
+        "perks": {
+          "blackfyre": [
+            {
+              "id": "perk_083800",
+              "cost": 200,
+              "name": "Blackfyre",
+              "description": "This weapon was wielded by Aegon II Targaryen. It is lighter than the average sword but still every bit as deadly as the usual Valyrian Steel standards. Any who wield this sword can go on for longer periods and find negotiating as a whole less exhausting than without.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dark_sister": [
+            {
+              "id": "perk_083801",
+              "cost": 200,
+              "name": "Dark Sister",
+              "description": "This weapon was wielded by Daemon Targaryen. It is lighter than the average sword but still every bit as deadly as the usual Valyrian Steel standards. Any who wield this sword can go on for longer periods and find combat as a whole less exhausting than without.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dragon_treats": [
+            {
+              "id": "perk_083802",
+              "cost": 100,
+              "name": "Dragon Treats",
+              "description": "Made from a mixture of different meats charred together with magic each package will give the correct amount of daily nutrients for a dragon to survive and grow. They will always be tasty and also be eaten by humans.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dragonblood": [
+            {
+              "id": "perk_083803",
+              "cost": 200,
+              "name": "Dragonblood",
+              "description": "A descendant of Old Valyria, you have the ability to claim one dragon and ride the beast. You can tolerate higher heat than normal and will be inhumanly beautiful. Common traits of this are light hair (white, platinum, silver or gold) and eyes of blue or purple. You also have a mastery of the Valyrian language and all its dialects.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dragonstone": [
+            {
+              "id": "perk_083804",
+              "cost": 400,
+              "name": "Dragonstone",
+              "description": "Based on the Targaryen trading post that became the seat of the royal heir this dark militaristic castle is filled with dragon motifs. It has all the features of the original castle like a Painted Table for the area and is staffed with follower servants. Not even a magical dragon can breach the castle or burn the walls down which makes it perfect for a staging base.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dreamer": [
+            {
+              "id": "perk_083805",
+              "cost": 200,
+              "name": "Dreamer",
+              "description": "Much rarer than dragon riding, some of House Targaryen have been known to dream of the future. Now when you sleep meaning can be found in the metaphors you see although these dreams should not be taken too literally and you may only see part of the picture.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "iron_throne": [
+            {
+              "id": "perk_083806",
+              "cost": 300,
+              "name": "Iron Throne",
+              "description": "The symbol for the royal crown in this world and what everyone wants to sit in. Made from the surrendered swords when Aegon united the six kingdoms. Sitting in it boosts your legitimacy and allows you to manipulate the emotions of those nearby. Make them feel fear when in the presence of the chair. You can choose to receive the 40-foot tall book accurate throne, the HOtD version or the more symmetrical GOT version. All versions will be comfortable and the sharp edges won’t hurt you or your chosen representatives.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "political_marriage": [
+            {
+              "id": "perk_083807",
+              "cost": 100,
+              "name": "Political Marriage",
+              "description": "A discrete clause in the Doctrine of Exceptionalism seems to apply to jumpers and their companions as you are not like other men. You can marry whomever you want no matter the familial relation or gender and all government institutions will consider it lawful. Any children you consider yours will also be without a doubt.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "red_keep": [
+            {
+              "id": "perk_083808",
+              "cost": 400,
+              "name": "Red Keep",
+              "description": "Based on the Targaryen royal palace that became the seat of the Iron Throne this crimson stately castle is filled with dragon motifs. It has all the features of the original castle like the secret passages - apart from the chair - and is staffed with follower servants. No sieging army can breach the walls which makes it perfect for targets of attacks.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "refuge_in_audacity": [
+            {
+              "id": "perk_083809",
+              "cost": 400,
+              "name": "Refuge in Audacity",
+              "description": "Whether due to your rank, connections, or skill with a blade, you find that you can get away with things that would see another person ostracised if not outright banished. Steal a dragon egg? No long-term consequences to your standing so long as it's eventually returned. Is it an open secret that your royal heirs are really bastards? No one will dare to speak it out loud unless they want to lose their head. Note, this only affects any fallout to your social status. You may still face criminal charges or provoke someone to seek vengeance if you take things too far.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "support_of_the_men": [
+            {
+              "id": "perk_083810",
+              "cost": 200,
+              "name": "Support of the Men",
+              "description": "Say what you will about Daemon Targaryen, but the man instils loyalty in his fighting men. Whether the Gold Cloaks or the Sea Snake’s soldiers, Daemon was beloved by the warriors he fought with. Now you enjoy a similar boost to the loyalty and morale of the soldiers you lead or serve alongside.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "valyrian_steel_blade": [
+            {
+              "id": "perk_083811",
+              "cost": 200,
+              "name": "Valyrian Steel Blade",
+              "description": "Forged in a style and colour of your choice the metal edge will always be perfectly sharp and feel almost weightless in your hands. Valyrian steel is a higher metal and can harm magical beings like White Walkers and Dragons. If lost or stolen it will return to the sheath or at a property.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_knight": {
+        "chapter": "The Knight",
+        "perks": {
+          "gold_cloak": [
+            {
+              "id": "perk_083812",
+              "cost": 100,
+              "name": "Gold Cloak",
+              "description": "This set consists of black armour and a gold cloak. Despite its more ceremonious appearance it is as tough as steel and can resist any glancing blow from the weapons here (aside from Valyrian steel and supernatural threats like Dragons). Any breakages will be repaired within two weeks. It has the special aura of a patrolling officer.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_lord": {
+        "chapter": "The Lord",
+        "perks": {
+          "an_opportunity_for_an_ally": [
+            {
+              "id": "perk_083813",
+              "cost": 200,
+              "name": "An Opportunity for an Ally",
+              "description": "Ser Criston Cole was prepared to end his life before Alicent gave him purpose. Afterwards, he became her most fervent supporter. Larys Strong was on the sidelines, overlooked and unutilized before Alicent struck up an unusual quid pro quo for his services as a spymaster. You have a similar ability to find potential allies among the broken, discarded, and ignored members of society. They may not be nice people, but the most loyal dogs are the ones you rescue from the street.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "lord_confessor": [
+            {
+              "id": "perk_083814",
+              "cost": 200,
+              "name": "Lord Confessor",
+              "description": "It is easy for you to ferret out secrets and lies from people at a disadvantage to you. You could listen to a conversation by lurking in the background almost out of sight and those in pain will be hard-pressed to lie to you.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_maester_and_merchant": {
+        "chapter": "The Maester & Merchant",
+        "perks": {
+          "treasury_pouch": [
+            {
+              "id": "perk_083815",
+              "cost": 200,
+              "name": "Treasury Pouch",
+              "description": "All of your monetary possessions are hidden in separate locations so your enemies can’t find them, while you can easily access them from this era-appropriate wallet. You can throw any money in the bag to hide it and nobody but you and your chosen companions can open it.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_the_seven_kingdoms": {
+    "source": "The Seven Kingdoms",
+    "description": "Perks from The Seven Kingdoms.",
+    "chapters": {
+      "the_dragonrider": {
+        "chapter": "The Dragonrider",
+        "perks": {
+          "lingua_valyria": [
+            {
+              "id": "perk_083816",
+              "cost": 100,
+              "name": "Lingua Valyria",
+              "description": "Regardless of your upbringing, you are most definitely fluent in both the written and spoken form of the High Valyrian language. Indeed, it is in that tongue that matters of diplomacy are often carried out in the Free Cities and between them and the Sunset Kingdoms. But a mere fluency in a language is hardly a boon, no? Worry not, this gift is so much more than that. Whenever you enter a Jump, you may choose one language with both written and spoken form to be the new “lingua franca” of the setting. While not everyone will be fluent, matters of state and business will be carried out in your tongue of choice and among the elite and scholarly its use is universal. Naturally, you would also be given a full understanding of the language you choose.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "lord_freeholder": [
+            {
+              "id": "perk_083817",
+              "cost": 300,
+              "name": "Lord Freeholder",
+              "description": "In Valyria of old, a true Dragonlord of great standing was as much a warrior and general as they were a ruler or head of their household. As a great Valyrian lord in your own right, you have the skills to fulfill your martial duties with as much excellence as your duties to your house and lands. You are a great leader in war, whether you are leading groups of men into battle, directing whole armies, or planning out campaigns of conquest or defense. It would take truly lopsided odds and a massive blunder on your part for an army under your direct command to face defeat. You will also find that when leading from the front, the morale of your men is brought to great heights, such that they would hold in the face of a charge of great elephants even were they a line one man thick and the elephants a herd.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "lore_of_the_freehold": [
+            {
+              "id": "perk_083818",
+              "cost": 500,
+              "name": "Lore of the Freehold",
+              "description": "Though much was lost in the destruction of the Valyrian peninsula, knowledge of sorcery and dragons... you have what has survived the Doom and some of what predated it. You are learned in dragonlore from the first meal of a hatchling all the way to the symptoms that let one know when a dragon’s death is near, you know the sorcery of the Valyrians in how they worked Glass Candles and controlled flame, all the way down to how they made their roads and walls and buildings out of blackstone. However, knowledge of more rare secrets such as Valyrian Steel are not known to you.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_smallfolk": {
+        "chapter": "The Smallfolk",
+        "perks": {
+          "guest_right": [
+            {
+              "id": "perk_083819",
+              "cost": 100,
+              "name": "Guest Right",
+              "description": "Guest right is a practice that has and will continue to be one of the most sacred oaths and obligations any man owes to another, of safety under the roof of the man offering it. A guest is expected to respect their host, and the host is to see to the safety of their guest and do them no harm while they are under their roof. But sadly even the greatest of customs can be broken, and for one such as yourself, of the North where old customs run strong, it is a worrying thought. However, you will never have to worry about such a thing. So long as you respect your responsibilities as a guest or host, no harm shall be done to you, and no harm shall come to your guests while they are under your protection. This goes for oaths such as those of service as well. When men swear to serve you, they will, and will not even attempt to plot treachery against you. However, if you should stray from your own obligations, you will lose the protection of this perk.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "strength_of_the_first_men": [
+            {
+              "id": "perk_083820",
+              "cost": 300,
+              "name": "Strength of the First Men",
+              "description": "It is only right that the men of the North, last bastion of the First Men be strong of arm and heart. How else could your ancestors have thrown back the Andals and great Theon led the Northmen to destroy the Andal homeland? Regardless of the truth, you’ll find that you take after the general belief of Northern strength. While not supernatural, your body is strong and approaches what could be considered the peak of human strength, and learning to fight or becoming skilled in the ways of a warrior is much easier than it should be.",
+              "category": "song",
+              "categoryVersion": "v2",
+              "categoryDisplayName": "Song V2",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  }
+}

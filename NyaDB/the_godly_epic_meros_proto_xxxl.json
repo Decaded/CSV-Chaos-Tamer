@@ -439,7 +439,7 @@
   },
   "source_40k_necron": {
     "source": "40k Necron",
-    "description": "Perks from 40k Necron.",
+    "description": "Perks from 40K Necron.",
     "chapters": {
       "pseudo": {
         "chapter": "Pseudo",
@@ -2073,7 +2073,7 @@
   },
   "source_asuras_wrath": {
     "source": "Asura's Wrath",
-    "description": "Perks from Asura's Wrath.",
+    "description": "Perks from Asura’s Wrath.",
     "chapters": {
       "godhood": {
         "chapter": "Godhood",
@@ -8579,7 +8579,7 @@
   },
   "source_demon_the_descent": {
     "source": "Demon the Descent",
-    "description": "Perks from Demon the Descent.",
+    "description": "Perks from Demon: The Descent.",
     "chapters": {
       "unholy": {
         "chapter": "Unholy",
@@ -9500,7 +9500,7 @@
   },
   "source_demon_the_fallen": {
     "source": "Demon The Fallen",
-    "description": "Perks from Demon The Fallen.",
+    "description": "Perks from Demon:​ ​The​ ​Fallen.",
     "chapters": {
       "unholy": {
         "chapter": "Unholy",
@@ -21147,7 +21147,7 @@
   },
   "source_exalted_abyssals": {
     "source": "Exalted Abyssals",
-    "description": "Perks from Exalted Abyssals.",
+    "description": "Perks from Exalted: Abyssals.",
     "chapters": {
       "unholy": {
         "chapter": "Unholy",
@@ -29150,7 +29150,7 @@
   },
   "source_galacta_daughter_of_galactus": {
     "source": "Galacta Daughter of Galactus",
-    "description": "Perks from Galacta Daughter of Galactus.",
+    "description": "Perks from GALACTA DAUGHTER OF GALACTUS.",
     "chapters": {
       "pseudo": {
         "chapter": "Pseudo",
@@ -32496,7 +32496,7 @@
   },
   "source_germanic_norse_mythology": {
     "source": "Germanic_Norse Mythology",
-    "description": "Perks from Germanic_Norse Mythology.",
+    "description": "Perks from Germanic/Norse Mythology.",
     "chapters": {
       "godhood": {
         "chapter": "Godhood",
@@ -37077,7 +37077,7 @@
   },
   "source_grant_morrisons_18_days": {
     "source": "Grant Morrison's 18 Days",
-    "description": "Perks from Grant Morrison's 18 Days.",
+    "description": "Perks from Grant Morrison’s 18 Days.",
     "chapters": {
       "godhood": {
         "chapter": "Godhood",
@@ -43538,7 +43538,7 @@
   },
   "source_kill_six_billion_demons": {
     "source": "KILL SIX BILLION DEMONS",
-    "description": "Perks from KILL SIX BILLION DEMONS.",
+    "description": "Perks from Kill Six Billion Demons.",
     "chapters": {
       "apotheosis": {
         "chapter": "Apotheosis",
@@ -56603,7 +56603,7 @@
   },
   "source_percy_jackson_and_the_olympians": {
     "source": "Percy Jackson and the Olympians",
-    "description": "Perks from Percy Jackson and the Olympians.",
+    "description": "Perks from Percy Jackson And The Olympians.",
     "chapters": {
       "godhood": {
         "chapter": "Godhood",
@@ -68664,7 +68664,7 @@
   },
   "source_warhammer_40k_the_warp": {
     "source": "Warhammer 40k\\_ The Warp",
-    "description": "Perks from Warhammer 40k\\_ The Warp.",
+    "description": "Perks from Warhammer 40K: The Warp.",
     "chapters": {
       "this_has_a_variety_of_effects": {
         "chapter": "This has a variety of effects",

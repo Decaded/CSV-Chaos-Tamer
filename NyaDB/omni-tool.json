@@ -1,0 +1,1667 @@
+{
+  "source_mass_effect_-_jumpchain": {
+    "source": "Mass Effect - Jumpchain",
+    "description": "Perks from Mass Effect - Jumpchain.",
+    "chapters": {
+      "the_crew": {
+        "chapter": "The Crew",
+        "perks": {
+          "assiduous_asari": [
+            {
+              "id": "perk_078935",
+              "cost": 100,
+              "name": "Assiduous Asari",
+              "description": "Young, only about fifty years old, this Maiden Asari is bright, bubbly, kind, and, well, naive. In the extreme. You’ll meet her getting into trouble with some Batarians, of the “rape and torture” persuasion, and even if she’s got some fire, she’s naff in a fight. Assuming you don’t step in it’s going to be a definite bad end. However, once you’ve rescued her you’ll find she’s loyal to a fault and, while lacking common sense, an excellent cook, wonderful company, and a balm to any weary soul. She’s also most wonderfully talented at all the skills needed at keeping up a household. Somehow, she also managed to win the genetic lottery - having the potential to end a biotic on the level of Samara. Assuming you train her up.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "blood_pack_mercenary_contract": [
+            {
+              "id": "perk_078936",
+              "cost": 200,
+              "name": "Blood Pack Mercenary Contract",
+              "description": "Blunt, short, to the point. Oh, and signed in blood. This paper contract means the Krogan warlord (Wrex would smash his skull in for using that title, even if it would take a good while) you’ve contracted with is your blunt hammer. Krogan, Vorcha, a few Humans, and lots of varren are going to work for you. They’re a full company, too. 150 fighting men equipped with radiadioactive, incendiary, and biological weapons. Plus their leader has stupidly powerful armor and a healing factor that would let him take multiple anti tank rounds to the face and keep killing. These blood thirsty psycopaths utterly lack subtlety, but are willing to loot, rape, and pillage their way across the galaxy. All in your name.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "blue_suns_mercenary_contract": [
+            {
+              "id": "perk_078937",
+              "cost": 200,
+              "name": "Blue Suns Mercenary Contract",
+              "description": "Relatively straightforward, this document entitles the bearer (hopefully that’s you) to the services of a company of Blue Sun Mercenaries. That’s about 150 Turians, Batarians, and Humans that are relatively well disciplined, relatively well equipped, led by a veteran captain that’s killed, more or less, any species you care to ask them to shoot at, and even come with their own pair of YMIR mechs. That said, these are mercs. They’ll work for you, even fight quite enthusiastically, but don’t expect them to take on a suicide mission unless they’re exceedingly well compensated. In general, the Blue Suns specialize in drug smuggling, slaving, and various odd jobs including running a prison. Disciplined, but vanilla. Also, Batarians. There’s a reason the other groups don’t hire them.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "custom_ai": [
+            {
+              "id": "perk_078938",
+              "cost": 200,
+              "name": "Custom AI",
+              "description": "An artificial intelligence on the scale of EDI or SAM. It represents something a few inches from the technological singularity and it has the ability to prove it. Without exception, it is the most effective electronic and cyber warfare expert in the galaxy except for the actual EDI and SAM. And, more importantly, it doesn’t have game limitations. Hacking computers, doors, security systems, and more takes nano seconds. Even military installations will only require access to a hardline and nothing else. Somewhat boringly, they are neither prone to bouts of megalomania nor omnicidal ambitions. In fact, they’re quite... loyal. Almost disappointingly so. Acting a bit like a dog in how they simply can’t seem to conceive of turning on the being that gave them life. Even better, you get to custom design your own snazzy AI robo body (in any configuration of species, gender, and physical form that fits within what the technology of the time would consider “reasonable”) and may chose, if you’re capable of doing so, to integrate the AI directly into your body and nervous system as well. Fanwank responsibly.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dour_drell": [
+            {
+              "id": "perk_078939",
+              "cost": 100,
+              "name": "Dour Drell",
+              "description": "A somewhat bitter middle aged alien, he’s a focused individual, an excellent middle manager, and a ruthless killer. Sociopathic, in the clinical sense, he struggles to find either purpose or direction in his life. You, however, seem to be... more. Almost enough to give him Religion. And despite being an assassin turned serial killer, he’s still incredibly loyal. Though, perhaps, only good company if you like quiet evenings cleaning your trophies and drinking fancy teas - of which he is a most excellent connoisseur.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "eclipse_mercenary_contract": [
+            {
+              "id": "perk_078940",
+              "cost": 200,
+              "name": "Eclipse Mercenary Contract",
+              "description": "Thick with legalease, this many, many pages long digital contract permits the command and deployment of a company of Eclipse Private Security Specialists. That means a mix of Asari, Salarians, and a smattering of Humans. Only 120 this time, but they specialize in high tech weapons and their captain is more than just an officer. She’s a powerful (and sadistic) biotic who wields a heavy shotgun and lethal space magic. On top of that, she’s brought her own Mantis Gunship. Hell, if she likes you, she’ll even sleep with you too. Technically corporate security, Eclipse forces are respectable enough to have with you, even if they’re notorious drug smugglers, gun runners, sentient traffickers, and sometimes even worse.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "humane_human": [
+            {
+              "id": "perk_078941",
+              "cost": 100,
+              "name": "Humane Human",
+              "description": "He likes dogs. Lots of dogs. Especially alien dogs. Do Vorcha count? He seems to think so. Long story short, this sandy haired, somewhat shady looking man is a master at handling animals of almost any kind, is probably the most skilled unlicensed veterinarian in the galaxy, and comes with his own pack of fighting animals. These range from the merely exotic to the downright terrifying. After all, it takes a special kind of crazy to tame a Klixen. And I hope you like crazy, because he likes you.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "kind_krogan": [
+            {
+              "id": "perk_078942",
+              "cost": 200,
+              "name": "Kind Krogan",
+              "description": "Putting someone down quickly is kind, right? And he only uses radioactive rounds because it’s fun, not because it melts people’s insides. A master of applying excessive force in a surgical manner, this Krogan is a bit of a hotshot, being young enough to think himself immortal, and experienced enough to know what he likes. Which is lots and lots and lots of heavy weapons. Thankfully he likes you, more than a little, and will spend hours explaining every niche use of every weapon mod in the galaxy. And even showing you pictures of how he put the theory into practice on his many, many dead enemies.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "quiet_quarian": [
+            {
+              "id": "perk_078943",
+              "cost": 200,
+              "name": "Quiet Quarian",
+              "description": "She’s the scary kind of quiet. The one where you don’t know what she’s thinking. And it’s probably something really, really messed up. Thankfully, she’s got the skills to back it up. A master at coding, without the morals needed to really understand why she shouldn’t do certain things, you’ve managed to win her trust - and mild obsession - by rescuing her from (you guessed it) Batarian slavers. Strangely enough, her tastes seem to be... rather extreme. And she will watch you in your sleep. And maybe in the shower. But if you ever need a computer system ruined, she can out code any VI in existence and is both fast and smart enough to challenge, and perhaps beat, an AI in real time. If you ever take her out on a date, she’ll be more than eager to impress you with her knowledge of opera and, somewhat surprisingly, her own impressive vocal ability.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "salubrious_salarian": [
+            {
+              "id": "perk_078944",
+              "cost": 200,
+              "name": "Salubrious Salarian",
+              "description": "Fast talking, clever, and good at fucking people over, this guy is a sheister through and through. Luckily, he likes you. Or maybe the fact that you protected him from some rather rough-looking Turians who wanted to break his kneecaps. Now he’s put his many talents, and business contacts, at your disposal. Essentially, if you want something, he can get it for you, no matter how difficult or illegal it is to acquire. Even better, it’s all about the thrill of the deal for this guy and money means almost nothing to him. So if he can help out his “Best Buddy”, he will. No strings attached. A bit oddly, he has a fear of gambling machines and insists all games of chance be done manually.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_ship": {
+        "chapter": "The Ship",
+        "perks": {
+          "arcturus_ii": [
+            {
+              "id": "perk_078945",
+              "cost": 400,
+              "name": "Arcturus II",
+              "description": "Actually named the Orion, this is a prototype deep space station that disappeared during a malfunction with an experimental FTL drive. Aside from the phrase liberate tutemet ex inferis scrawled in blood over the docking bay, and the command compartment looking like Slaanesh and Khorne had a baby, it’s mostly intact. Fully stocked and supplied, including a full crew compliment of LOKI mechs, sitting quietly above an out of the way planet in and out of the way system in an out of the way corner of the galaxy. Of course, some of the megaliths on said planet look pretty ominous, but that’s surely nothing serious. In fact, it’s got level after level of limited production and resource refining facilities, all the subsystems you would need to house up to fifty thousand people, enough weapons to duel three or four Reapers and win, and it even comes fully loaded with all the supplies, resources, and equipment you would expect to find on one of the most powerful defensive stations to have ever existed. And hey, if you snoop around its exhaustive research facilities enough, maybe you can even figure out how to turn its engines back on!",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "collector_cruiser": [
+            {
+              "id": "perk_078946",
+              "cost": 800,
+              "name": "Collector Cruiser",
+              "description": "Second in advancement only to the Reapers themselves, this ship is as much a mobile hive as it is a ship of war. Utilizing advanced technologies, including some (non brainwashing) Reaper tech, it’s faster, better armed, better armored, and more sensitive than any other cruiser in the galaxy. Able to use esoteric sensors, possessing hyper efficient reactors, able to gut dreadnoughts, this is, unquestionably, one of the best ships in the galaxy. And, even though it lacks any real stealth capability, it still has an advanced electronic warfare suite, communications and sensor jammers, and even a seeker swarm that you can deploy in battle. Even better, you get a full hive of collectors to man and maintain it for you. They’re weird, but fanatically loyal and the Reapers can’t seize control of them unless you let them.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "cruiser": [
+            {
+              "id": "perk_078947",
+              "cost": 600,
+              "name": "Cruiser",
+              "description": "Actual fire power, and the mainstay of conventional space navies, the cruiser is more of an investment than a ride. You have at your fingertips a ship capable of gutting any civilian vessels and most smaller military ships in a single volley. Even other cruisers tend to die in a relatively small number of shots. Though that same flimsiness is also imparted upon you as well. In terms of pure gratis, you have a rather impressive range, easily able to run for months without needing resupply, a crew of LOKI mechs to manage your ship’s needs, and all of the specialized rooms one would expect on a cruiser. This includes a science lab, captain’s quarters, fabrication benches, medical suite, armory, and even a hanger large enough to serve as a training room and gym in one. While not as developed as the SR-2 technologically speaking, your ship is much better suited for the rigors of pure combat and much, much lower profile. Despite needing to use one of your two complimentary shuttles to operate in atmosphere, you won’t have entire nation states freaking out about you having a stealth cruiser. And if you’re lucky, or rich, enough they might even buy the story you’re telling them about how it’s totally legitimate for a civilian to own a piece of hyper lethal military hardware.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "mantis_gunship": [
+            {
+              "id": "perk_078948",
+              "cost": 200,
+              "name": "Mantis Gunship",
+              "description": "With this baby, you could hold off a small army from taking an important city. At least until you run out of ammo! Well, not like that’s a problem for you Jumper. This baby is vacuum capable, if only in an extremely limited sense, equipped with kinetic barriers, thick armor, micro rocket pods, an autocannon, and advanced in atmosphere flight capabilities, this beauty is lethal. You’d even be a threat against most civilian ships, such is the power of your heaviest weapons!",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "shadow_hand": [
+            {
+              "id": "perk_078949",
+              "cost": 400,
+              "name": "Shadow Hand",
+              "description": "Incredibly advanced, massive, and incredibly secretive, this ship is the home base of the Shadow Broker... and now you. Equipped with hard light constructs, a horde of maintenance mechs, and deck after deck of sensor and communications equipment and you have one of the two most advanced command and control vessels every created. Reams of economic data, hundreds of thousands of secure servers, quantum communications arrays, and access to nearly every possible data stream that an information broker could ever dream of is more than available onboard this pinnacle of luxury and terror. Torture suite’s located in the dungeon, in case you were wondering.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_ssv_normandy_sr-1": [
+            {
+              "id": "perk_078950",
+              "cost": 400,
+              "name": "The SSV Normandy SR-1",
+              "description": "Congratulations! You’re now the proud owner of a near exact replica of a prototype military stealth frigate. She’s got guns, big honking engines, and she’s mean as all get out. Assuming a more advanced alien race doesn’t use her for target practice, of course. She’s also yours to customize. Change her name, her paint job, her decals, anything at all you want. Just be warned, if anyone realizes what you’re flying, they will ask questions. By default, she comes with a crew of LOKI mechs. They will... keep her operational but don’t expect them to do more than the absolute bare minimum. I hope you’ve got a crew.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_spectre": {
+        "chapter": "The Spectre",
+        "perks": {
+          "bet_on_red": [
+            {
+              "id": "perk_078951",
+              "cost": 100,
+              "name": "Bet On Red",
+              "description": "Shepard had an almost uncanny ability to win games of chance, whether quasar, poker, or varren fights, and now you do too. This doesn’t mean you’ll always win every game, but you will have naturally, sometimes almost impossibly, good luck in games of chance. Do be warned, this won’t warp reality, just tilt the odds (significantly) in your favor.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "born_for_war": [
+            {
+              "id": "perk_078952",
+              "cost": 200,
+              "name": "Born for War",
+              "description": "War, or most military deployments, are really dirty, boring, and generally shitty. And that’s when you’re not getting shot at. Now... you just don’t care. You gain nearly superhuman tolerances for the deprivations of conflict. No matter how filthy, hungry, exhausted, or worn down you get... you simply push on. Even miserable conditions such as lacking shelter, a bed, or even constant inclement weather won’t bother you. You still need to eat and drink and disease is an issue, it just won’t bother you until it kills you. Do be careful with this one.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "demon_of_the_night_winds": [
+            {
+              "id": "perk_078953",
+              "cost": 400,
+              "name": "Demon of the Night Winds",
+              "description": "The Ardat Yakshi is the result of a little quirk in Asari genetics. Relatively rare, but highly dangerous. They have a natural predisposition for biotics that borders on the... statistically intimidating, along with several quirks in their physiology. Most pointedly, is that they burn out the nervous systems of their partners when they couple, augmenting their own already considerable powers with every victim they drain. You, regardless of race, possess that ability, though you may choose when and when not to use it. Additionally, you gain their succubus like seductiveness, their hunter’s instincts, and their propensity to be wew lad grade edgelords.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "keep_it_clean": [
+            {
+              "id": "perk_078954",
+              "cost": 200,
+              "name": "Keep it clean!",
+              "description": "Not your language, your guns. Well, if you want to. Taking this perk makes maintaining your gear an absolute breeze, almost... supernaturally so. In fact, so long as your weapons and armor aren’t flat out destroyed they seem to just keep working. Not indefinitely, you can burn your equipment out. But wear and tear from normal use is basically a non factor and making a gun or personal shield, that is under constant, heavy combat use, last ten or twenty years an absolute breeze. Even better, all of your other belongings seem to gain this property too. Now you won’t rip your underwear every time you bend over and the spiky bits on your figurines never break off either!",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "project_lazarus": [
+            {
+              "id": "perk_078955",
+              "cost": 800,
+              "name": "Project Lazarus",
+              "description": "Well, well. I suppose being a galaxy trotting Jumper is a dangerous profession. One likely to see you with more than a few limbs missing. And in case it sees you dead, you’ve got this little beauty. Project Lazarus will give you one free “life”, meaning the first time you die your chain won’t end. Instead, you’ll simply wake up with a lot of shiny scars. Hope the glow doesn’t give you away! As a little bonus, after using your 1-up you come back with some new powers. What kind you ask? Oh, just the equivalent of being an undead, without the actual undeath, for whatever setting you’re in. In Mass Effect, that means you come back as a cyborg. In a fantasy realm, you’d come back as a sentient zombie or something similar.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "they_call_me_joker": [
+            {
+              "id": "perk_078956",
+              "cost": 100,
+              "name": "They call me Joker",
+              "description": "Potential, raw and pure, is embodied within this gift. Specifically the potential to be an ace pilot capable of redefining naval combat tactics by sheer virtue of the insane maneuvers you can pull off. This perk grants you a near supernatural understanding of the limits of any vehicle you’re piloting, an intuitive grasp of how far and hard you can push it, and the potential to become an ace amongst aces. You will have to practice, you will have to train, but the skills to pilot any vehicle will come with time.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "vascular_overhaul": [
+            {
+              "id": "perk_078957",
+              "cost": 100,
+              "name": "Vascular Overhaul",
+              "description": "Staying clean in space is hard. So many nasty little bugs eager to crawl into you. Plus there are issues with leaking - doubly so considering how many kind folks want to poke all kinds of holes in you. Taking this implant works wonders! Serving as a full upgrade to your vascular system, it’ll clean out any toxins, poisons, venoms, diseases, impurities, or anomalies from your bloodstream. Even better, issues like heart disease, blood pressure issues, and cholesterol fade into nothing. Eat all the triple cheeseburgers you want and never regret it again!",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "will_to_power": [
+            {
+              "id": "perk_078958",
+              "cost": 600,
+              "name": "Will to Power",
+              "description": "Not even alien space gods can crush your mind! Well, not without trying really, really hard at least. Will to Power gives you a powerful resistance to all mind altering effects, allowing you to simply ignore most passive forms of mental domination and fight off more active attempts. In context, it would take at least three Leviathans working in concert to break your will or five to six Reapers. Hopefully you don’t mind your head popping like a pimple from the strain. As an aside, this does apply to all mind altering effects, even narcotics or alcohol. Go wild and never black out again!",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "your_resources": {
+        "chapter": "Your Resources",
+        "perks": {
+          "abandoned_outpost": [
+            {
+              "id": "perk_078959",
+              "cost": 200,
+              "name": "Abandoned Outpost",
+              "description": "Empty, gutted, and with a lot of clear battle damage, it’s still a (mostly) intact asteroid base. Large enough to house a few hundred souls, with rooms designated for the needed facilities to keep them alive indefinitely, and even a generator that’s still... functional. It is, however, both very old and very badly damaged. A holdover from the Krogan Rebellions, the base itself isn’t on any known maps and is itself both scanshielded and impossible to detect with the Mk1 Eyeball. But you’re gonna need a lot of work to get it operational. Luckily for you, there is a good amount of salvage at the base itself and the system is particularly Eezo rich. So maybe you can parlay that into something more impressive.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "cold_hard_cash": [
+            {
+              "id": "perk_078960",
+              "cost": 0,
+              "name": "Cold, hard cash",
+              "description": "Upon purchasing this item, you will receive a credit chit that has a yearly stipend of 10,000 credits. Each credit has roughly the same purchasing power as a Euro pegged to 2020 values and is accepted by virtually any merchant in the galaxy. You may purchase this item as many times as you want and every purchase will double the amount of credits you receive in your stipend. Money not spent does not roll over, no one will ever question the source of the money, you will not be expected to pay any taxes on this (unless a drawback",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "electronic_paperwork": [
+            {
+              "id": "perk_078961",
+              "cost": 200,
+              "name": "Electronic Paperwork",
+              "description": "This nifty little device takes the form of a datapad. It will contain any form of paperwork, licensing, or security clearance you could need. It won’t alter reality, though, and isn’t real - even if an AI spent a decade glaring at it, it wouldn’t be able to prove that. Suffice to say, this will get you through the vast majority of situations where such things are required and let you get your foot in the door in even more. This can take the form of a letter of introduction, resume, security card, a diploma, or any other form of certification, license, registry, or other form of documentation. In other jumps it will have an appropriate appearance.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_mass_effect_-_legendary_edition": {
+    "source": "Mass Effect - Legendary Edition",
+    "description": "Perks from Mass Effect - Legendary Edition.",
+    "chapters": {
+      "the_crew": {
+        "chapter": "The Crew",
+        "perks": {
+          "assistant_vi": [
+            {
+              "id": "perk_078962",
+              "cost": 100,
+              "name": "Assistant VI",
+              "description": "It can be argued that the development of AI is inevitable, as all sufficiently advanced technology will eventually become an AI, and the fate of those who deny it is stagnation. We aren't quite there yet, but this personal assistant model, Virtual Intelligence, is the closest thing allowed in Citadel Space. It can be stored in your Omni-Tool and can keep track of large amounts of data. With some tweaking, it might eventually become an actual AI, but that is ultimately up to you.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "fenris_mech": [
+            {
+              "id": "perk_078963",
+              "cost": 0,
+              "name": "FENRIS Mech",
+              "description": "Designed by Hahne-Kedar specifically for security, this robotic canine is very friendly to its owner and their allies, while being a terror to its enemies. Their advanced sensors can detect weapons and narcotics, used in the same manner bomb and drug-sniffing dogs would, and this one is not hackable, meaning that pesky programmers won't be able to turn your beloved pet against you. You may import a pet you already own into this option.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "fish_tank": [
+            {
+              "id": "perk_078964",
+              "cost": 0,
+              "name": "Fish Tank",
+              "description": "As boring as they may be, most can agree that fishes are pretty to look at. What you have here is a massive tank filled with tropical, freshwater fishes from a number of planets, primarily from Earth. You will never have to worry about feeding them or cleaning out the tank, and the fish inside never seem to die. At the very least, it will look good in your office or bedroom.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "fleet_and_flotilla": [
+            {
+              "id": "perk_078965",
+              "cost": 0,
+              "name": "Fleet and Flotilla",
+              "description": "Love is a fickle thing, both impossibly wonderful and thoroughly miserable. Hopefully, this will smooth out some of that. When in a romantic relationship, you will find that neither of your feelings for each other will ever fade, in fact they seem to do the opposite. The only way a relationship will fail is if you actively commit multiple acts that the other strongly disagrees with.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "hamster": [
+            {
+              "id": "perk_078966",
+              "cost": 0,
+              "name": "Hamster",
+              "description": "Isn't he just the most adorable little thing? You are now the proud owner of this Earthling pet that is known for randomly killing itself. Luckily, there's no way yours will suffer such a fate, and if he is killed, then it will just be resurrected the next day. You receive a glass cage to hold it in, as well as the food needed to feed it.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "loki_mech": [
+            {
+              "id": "perk_078967",
+              "cost": 100,
+              "name": "LOKI Mech",
+              "description": "For those robot enthusiasts, there's no better security than one of these. Designed by Hahne-Kedar, this bipedal robot is often used in security detail or as expendable assault units by mercenary companies. While incapable of complex tactics or taking cover, they can be equipped with a number of armaments, both lethal and non-lethal, can have pre recorded lines, and are waterproof. If all else fails, they can just self-destruct. You receive one of these, and will be fully repaired within a day should it be damaged or destroyed.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "varren": [
+            {
+              "id": "perk_078968",
+              "cost": 0,
+              "name": "Varren",
+              "description": "Native to the planet Tuchanka, these reptilian omnivores are savage survivors and opportune scavengers. Their fangs and claws are very dangerous to unprotected flesh and can easily adapt to most environments. This one has been trained, is extremely loyal to you, and acts much like any other dog you'd find on Earth.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_ship": {
+        "chapter": "The Ship",
+        "perks": {
+          "air_car": [
+            {
+              "id": "perk_078969",
+              "cost": 100,
+              "name": "Air Car",
+              "description": "One of the finest on the market, this is the kind of car you'd find in the garages of the rich and powerful. It's easy to drive, can reach altitudes of 50 miles, has four luxurious seats, bulletproof windows, a trunk large enough to hold a body, and many more amenities that you'd expect a vehicle like this to. Best part is, you never have to worry about fuel or recharging again.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "armor_locker": [
+            {
+              "id": "perk_078970",
+              "cost": 200,
+              "name": "Armor Locker",
+              "description": "Armor is a very important part of a battle, and has been since our ancestors first adorned fur covers. This shipment is absolutely filled with all sorts of armor for all sorts of modern races, from Volus to Krogan, along with kinetic shields to match, enough to outfit an entire battalion. If any of these are broken or destroyed, you'll find a brand new replacement waiting in your Warehouse or on your ship.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "atlas_mech": [
+            {
+              "id": "perk_078971",
+              "cost": 200,
+              "name": "Atlas Mech",
+              "description": "When there are giant monsters, when one man isn't enough, when all else fails, there will always be giant fighting robots. Okay, that might be an exaggeration, but this machine designed by the human terrorist organization Cerberus is an impressive piece of tech. It combines the deadly armor and firepower of a YMIR mech with the tactical superiority of a trained pilot. Equipped with a powerful rocket launcher and a high-power mass accelerator cannon, powerful kinetic shields and a polycrystalline composite hull, it's sure to be a terror on any battlefield.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "azazil": [
+            {
+              "id": "perk_078972",
+              "cost": 800,
+              "name": "Azazil",
+              "description": "The Reapers are ancient beings, driven by a misguided mission. They are horrifying opponents, but potentially a powerful ally. This Reaper is not held back by the same code that controls it's brethren, and has decided to use it's newfound freedom to help you. How fortunate. Azazil has all of the abilities that you'd expect on a standard Reaper, but is interestingly not capable of Indoctrination. It isn't really concerned about regaining this ability, or doing much of anything, really. It might be a bit lazy.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "kodiak_shuttle": [
+            {
+              "id": "perk_078973",
+              "cost": 200,
+              "name": "Kodiak Shuttle",
+              "description": "Often called the \"Combat Cockroach\" by the Human Alliance, the government that made and primarily uses it, this is a durable personnel carrier capable of planetary flight and limited FTL. It can carry up to 14 people, including the pilots and a VI, and can withstand hard vacuums, high pressure, and temperatures from near-absolute zero to over 900 degrees Celsius.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "m35_mako": [
+            {
+              "id": "perk_078974",
+              "cost": 200,
+              "name": "M35 Mako",
+              "description": "This vehicle was designed by the Human Alliance for their frigates, made for rapid deployment, and can be deployed on virtually any world. It's armor is tough enough to withstand high drops, extreme heat and cold and rough terrain, with the suspension and propulsion system allowing the vehicle to adapt to various terrain. It's not unarmed either, as it is in possession of a 155mm mass accelerator and a mounted machine gun, it's perfect for both travel and combat.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "mass_relay_network": [
+            {
+              "id": "perk_078975",
+              "cost": 800,
+              "name": "Mass Relay Network",
+              "description": "The greatest and most useful system around when it comes to travelling across the galaxy, the Mass Relays can transport starships instantaneously to another relay within the network, allowing for journeys that would otherwise take years or even centuries with only FTL drives. You now have an extensive network of these following you from world to world, with one Mass Relay in every solar system within the Milky Way galaxy, or whatever galaxy you initially start in. You have admin privileges, so you can turn off individual relays, limit what can pass through them, and even remove their safety systems, essentially turning them into giant interstellar railguns. Should you own the [Citadel] then you can do all of these and more from the space station, as opposed to having to manually do it for each relay. If any are damaged or destroyed, either by your hand or another's, they will be fully repaired in your next Jump.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "normandy_sr-2": [
+            {
+              "id": "perk_078976",
+              "cost": 400,
+              "name": "Normandy SR-2",
+              "description": "Soon to be one of the most iconic ships in the galaxy, this \"deep scout\" frigate was co-developed by the Human Alliance and the Turian Hierarchy, and upgraded by Cerberus. It's stealth system is the main selling point of this ship, storing any heat generated in lithium heat sinks deep within the hull. Twice the size of the original, it has many amenities that make it very comfortable for its crew while still being an effective ship. It is also open to installing an AI within, allowing it to control the many systems within effectively.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "space_station": [
+            {
+              "id": "perk_078977",
+              "cost": 400,
+              "name": "Space Station",
+              "description": "For so long, sentient life has looked to the stars and wished to live amongst them. And now, you can. This space station of your own design is practically a metropolis on its own, with all the necessary amenities and systems that would include. It's reactor will never run out of energy to power everything, and you'll find any damaged areas repaired within about an hour. Now, should you be the creative type, any upgrades you or your companions might install within this station will be fiat backed as if it was there all along.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_destiny_ascension": [
+            {
+              "id": "perk_078978",
+              "cost": 400,
+              "name": "The Destiny Ascension",
+              "description": "This massive Asari dreadnought is the flagship of the Citadel Fleet, and there will be many questions on how you own one of your own. It's easily four times the size of the largest human spaceship, and has a functioning crew numbering 10,000. It's rumoured that it has enough firepower to match the rest of the Asari fleet, and you'd believe it, as its weapons can punch through a Reaper's defences with a few shots. Its defences are also impressive, as while it's not as good as a Reaper, it's still the apex of what the Citadel Races can achieve.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "weapons_locker": [
+            {
+              "id": "perk_078979",
+              "cost": 200,
+              "name": "Weapons Locker",
+              "description": "When there is a problem, the answer you're looking for can often be found in the form of a gun. And if that doesn't work, use more guns. You now have a shipment filled with all sorts of handheld weapons found in this Cycle of the galaxy, enough to arm an entire battalion of troops. If any of them are broken, then you'll find a brand new replacement waiting in your Warehouse. Never let it be said that you don't have enough firepower.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_spectre": {
+        "chapter": "The Spectre",
+        "perks": {
+          "auditory_implants": [
+            {
+              "id": "perk_078980",
+              "cost": 50,
+              "name": "Auditory Implants",
+              "description": "The ears, or hearing canals, are some of the most sensitive parts of the body, but also some of the most important. These implants not only improve your hearing to such a degree that, with enough time and training, you could use a rudimentary form of echolocation, but makes it so that your ears are not as damaged by loud noises as they once were.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "battlemaster": [
+            {
+              "id": "perk_078981",
+              "cost": 600,
+              "name": "Battlemaster",
+              "description": "Much like the Krogan Battlemaster, you are easily worth ten other soldiers, maybe even more. You've gotten the science of combat down to an art form, wasting no movement in order to maximize the damage you can do to your enemies. Additionally, you seem to have an odd proficiency with seamlessly combining both your physical and supernatural abilities in order to make you an absolute terror in combat, especially when you're close enough to see the whites of your enemy's eyes.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "bone_reinforcement": [
+            {
+              "id": "perk_078982",
+              "cost": 50,
+              "name": "Bone Reinforcement",
+              "description": "It should come as no surprise that your bones are vital for the structure of your body and the protection of your squishy insides. Having been reinforced by a special titanium alloy, your bones are much more durable than before, if a bit heavier. This makes them harder to break, obviously, and doesn't interfere with your ability to replenish blood.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "champion": [
+            {
+              "id": "perk_078983",
+              "cost": 200,
+              "name": "Champion",
+              "description": "With your abilities, you are virtually an unstoppable juggernaut, rending foes both with bullets and biotics. This has an effect on your allies, as their morale will rise just by you entering the battlefield, and will continuously rise the more your enemies fall. They will be inspired by your acts of violence and perform much better on the battlefield, while the enemy will feel only dread at your rampage.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "close_the_distance": [
+            {
+              "id": "perk_078984",
+              "cost": 400,
+              "name": "Close the Distance",
+              "description": "You have been trained in such a way that you are at your best up close to your enemies, and it certainly shows. You can dodge and weave through enemy fire until you are right up in their faces, and blow their heads off with a shotgun. In fact, you seem to do more damage with weapons when you're in close range, allowing your weapons to blow right through their armor.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "destroyer": [
+            {
+              "id": "perk_078985",
+              "cost": 600,
+              "name": "Destroyer",
+              "description": "In a galaxy filled with impossible wonders and terrifying horrors, where some sciences can seem almost like magic straight from fairy tales, what can a simple person do? A lot it would seem, as you now deal 20% more damage to enemies that exhibit any supernatural abilities, as well as being 50% resistant to said abilities. Be it biotics or actual magic, a bullet through the head leaves the same result regardless.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "fearlessness": [
+            {
+              "id": "perk_078986",
+              "cost": 400,
+              "name": "Fearlessness",
+              "description": "Fear is a natural instinct present within all organic races. It is what keeps us safe from danger, but it can also hold us back when we must act. You do not have this problem, as fear has no hold over you, and you can keep your head cool in even the most dire of circumstances. Your resolve is unbreakable, and will keep you going until the mission is complete.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "ghost": [
+            {
+              "id": "perk_078987",
+              "cost": 600,
+              "name": "Ghost",
+              "description": "People think that modern surveillance systems can catch any criminal in the act, ensuring swift justice being dealt. You aim to prove them wrong. You can essentially turn yourself invisible to both most race's eyesight and technological systems at will. Normal cameras will not be able to record you and sensors won't be able to pick you up, though this might not fool some specialized equipment.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "innovative": [
+            {
+              "id": "perk_078988",
+              "cost": 200,
+              "name": "Innovative",
+              "description": "Whether the races of the Milky Way know it or not, their technology has been subtly guided to where it stands today, leaving them somewhat innovatively sterile. You don’t seem to have that problem, as you can advance your fields of study to new and greater heights without limit. This might not have much use in the short term, but would be impossibly useful in the long term.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "interstellar_fashion": [
+            {
+              "id": "perk_078989",
+              "cost": 50,
+              "name": "Interstellar Fashion",
+              "description": "Civilized societies tend to look unfavorably on those who embrace nudity in public. Luckily, that should never be an issue, as this massive wardrobe is filled with all sorts of clothes that are fitted perfectly to you. Be it casual shirts and pants, snazzy formal attire, or a revealing bikini, there's something in here for everyone.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "marksman": [
+            {
+              "id": "perk_078990",
+              "cost": 200,
+              "name": "Marksman",
+              "description": "The most important aspect of firefights nowadays is how accurate your shots are and how quickly you can move to a new target. Your skill in these areas are legendary, as you can easily hit a target from a kilometer away with most ranged weapons, and can quickly identify and aim towards the next best target after you've taken down your previous target.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "medic": [
+            {
+              "id": "perk_078991",
+              "cost": 200,
+              "name": "Medic",
+              "description": "Inevitably, there will be a time when your skills might not be enough, and those who fight by your side will end up injured. How fortunate for them that you are a trained combat medic, able to patch up most damage sustained during a fight within a few seconds. Additionally, any healing items that you administer are twice as effective.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "mundane": [
+            {
+              "id": "perk_078992",
+              "cost": 0,
+              "name": "Mundane",
+              "description": "Who needs biotics or fancy tech when you can find happiness in a warm gun? Your skill with most weapons is now bolstered, as you don't need to split your focus between them and something else, as well as being able to quickly adapt to any new weaponry you come across.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "nervous_system_supplements": [
+            {
+              "id": "perk_078993",
+              "cost": 100,
+              "name": "Nervous System Supplements",
+              "description": "Have you ever wanted, in Human terms, cat-like reflexes? Well now you can, as this will improve both the general quality of your nervous system, as well as the speed information travels throughout said system. This of course greatly improves your reflexes, but also your sense of balance as well.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "ocular_implants": [
+            {
+              "id": "perk_078994",
+              "cost": 50,
+              "name": "Ocular Implants",
+              "description": "Most species depend on their eyes in order to properly interact with the world around them, so maybe that's why these implants are so popular? Youhave undergone a procedure that replaced your eyes with these fancy new ones, allowing you to have 20/10 vision, as well as having alternate settings that you can switch to at will, those being night vision and thermal vision.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "personal_gear": [
+            {
+              "id": "perk_078995",
+              "cost": 200,
+              "name": "Personal Gear",
+              "description": "While options are well and good, there's just something nice about having a signature piece in your arsenal, one that has been with you through thick and thin. This armor set or weapon of your choice is quite special. If it's a weapon, you don't need to worry about it overheating or replacing the ammo block, allowing you to fire it indefinitely with no negative repercussions. Armour will be more durable comfortable, and doesn't restrict your freedom of movement. Both options are very accepting of any modifications you give them. This can be taken multiple times",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "pure_biotic": [
+            {
+              "id": "perk_078996",
+              "cost": 0,
+              "name": "Pure Biotic",
+              "description": "You have the ability to manipulate mass itself, and decided that no other field of training was necessary beyond the basics. As such your biotics are more potent than others, and find yourself quickly mastering and finding new uses for them.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "saboteur": [
+            {
+              "id": "perk_078997",
+              "cost": 200,
+              "name": "Saboteur",
+              "description": "People nowadays are very reliant on technology, and it's a weakness that you can exploit. You are a master of viruses, causing debilitating bugs and glitches in all but the most secure systems. This is extremely useful when you realize that modern guns are effectively more computer parts than the mechanical pieces of the twenty-first century.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "specialist": [
+            {
+              "id": "perk_078998",
+              "cost": 100,
+              "name": "Specialist",
+              "description": "Science has many avenues, ones not just limited to mechanical pursuits. You now have your race’s equivalent of a doctorate in any subject of your choice. This can be taken multiple times, costing half the original price after the first purchase.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "subject_zero": [
+            {
+              "id": "perk_078999",
+              "cost": 600,
+              "name": "Subject Zero",
+              "description": "Through experiments done to you, either willingly or not, you are the absolute peak of biotic potential amongst your race. Any supernatural ability you possess, be it biotics or actual magic, is now 20% more effective and much less strenuous to use than before. Let them look upon you and weep, for they know they can never measure up to your power.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "translator_implant": [
+            {
+              "id": "perk_079000",
+              "cost": 50,
+              "name": "Translator Implant",
+              "description": "Definitely one of the more useful implants, this cranial implant contains a database that perfectly translates any language you hear into your native language, allowing you to actually understand anyone. Doesn't help you with speaking their language, just understanding it.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "updated_graphics": [
+            {
+              "id": "perk_079001",
+              "cost": 0,
+              "name": "Updated Graphics",
+              "description": "It seems like you have received a much needed update, at least in the graphics department. You are a solid 10/10 in looks, and any scars you might end up with are ensured to look aesthetically pleasing.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "your_resources": {
+        "chapter": "Your Resources",
+        "perks": {
+          "alien_city": [
+            {
+              "id": "perk_079002",
+              "cost": 400,
+              "name": "Alien City",
+              "description": "While personally ruling over an entire world is technically illegal, being in charge of a city is definitely not. This alien city, in the design of one of the races still around today, is yours. This can be an existing city, like London, or it could be one of your own creation. Where this city takes place is up to you, though I would recommend having it a planet legally owned by your race",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "armor_modification_kit": [
+            {
+              "id": "perk_079003",
+              "cost": 100,
+              "name": "Armor Modification Kit",
+              "description": "Armor is a very important part of battle, as it can take hits that normal flesh cannot. What you have here is a workstation specifically designed to modify and improve any armor you have. It has multiple pre-made modifications, a fabricator to create custom parts, and all the tools needed to help you do what's needed. If you need to make your armor more resilient to corrosive acid, or enhance your kinetic shield, this is the purchase for you.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "citadel_races_data_core": [
+            {
+              "id": "perk_079004",
+              "cost": 400,
+              "name": "Citadel Races' Data Core",
+              "description": "The races that answer to the Citadel Council have stayed in power for over 2,700 years, and have spent that time growing in power, both culturally and technologically. What you have here is data of all technology created in this Cycle, as well as containing an in-depth summary of all the different lifeforms found here. Both flora and fauna, and all the sentient races found amongst the stars.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "dataslate": [
+            {
+              "id": "perk_079005",
+              "cost": 50,
+              "name": "Dataslate",
+              "description": "This dataslate functions much like you would expect it, being able to store large amounts of data as well as possessing a touch screen. Not only can it connect to any local extranet, but it has downloaded the complete Citadel Codex, the history of this Cycle as presented by the races considered a part of the Citadel.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "element_zero": [
+            {
+              "id": "perk_079006",
+              "cost": 100,
+              "name": "Element Zero",
+              "description": "With how important Element Zero, more commonly known as Eezo, is to the technology here, it would be disappointing if you could make use of that tech in the future because you were missing this component. As such, by purchasing this you will receive a specialized container filled with fifty pounds of pure Eezo every month, deposited directly into your Warehouse or ship.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "garden_world": [
+            {
+              "id": "perk_079007",
+              "cost": 600,
+              "name": "Garden World",
+              "description": "You are now the owner of something highly contested over, a Garden World. These are planets that naturally have an ecosphere that can support a population. While these aren't normally given to singular individuals, this planet is legally under the control of your race's government, but you have been given free rein to do whatever you want. Its terrain, size, average temperature, orbital period, surface gravity, and whether it's colonised or not are all up to you, and it will inhabit a pocket dimension connected to your Warehouse, or it can be imported into future worlds.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "grenades": [
+            {
+              "id": "perk_079008",
+              "cost": 100,
+              "name": "Grenades",
+              "description": "What's better than shooting something? Making something explode! This pouch has so many explosives stored away that you'd think that it has infinite grenades (hint: it does), and at least one of every kind. Frag grenades, incendiary grenades, smoke grenades, EMP grenades, flash grenades, but one of the most fun ones is the mass grenade, utilizing Eezo to make everything that isn't nailed down within fifteen feet of the blast float helplessly in the air, making for easy targets.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "medi-gel_kit": [
+            {
+              "id": "perk_079009",
+              "cost": 50,
+              "name": "Medi-Gel Kit",
+              "description": "There comes a time in every man's life when he has been shot full of holes, and can't get to a hospital fast enough. Luckily, there's the always helpful medi-gel, a medicinal salve combining an anaesthetic and clotting agent used by paramedics, EMTs, and military personnel. It heals various wounds and ailments, instantly sealing injuries against infection and allowing for rapid healing by having the gel grip tight to the flesh until subjected to a frequency of ultrasound. You get a replenishing stock of twenty packs each week, along with notes on how to make more.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "milky_way_media": [
+            {
+              "id": "perk_079010",
+              "cost": 50,
+              "name": "Milky Way Media",
+              "description": "Ever since sentient life could think, it's been trying to find ways to distract itself. Books, movies, and TV shows can be found in any species, and have only improved since they've left the confines of their homeworlds. You now have the largest media collection known to Citadel Space, containing every scrap of media created by its member races. Maybe after reading a suspenseful Salarian mystery novel you'll feel the need to curl up with your special someone and watch the popular Turian and Quarian romance film, \"Fleet and Flotilla.\"",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "mining_facility": [
+            {
+              "id": "perk_079011",
+              "cost": 400,
+              "name": "Mining Facility",
+              "description": "Sometimes, civilizations are held back by the need for more resources, which they can only find by leaving their homeworld. What you have here is extremely useful, as this asteroid-based mining facility will deliver large amounts of resources straight to your Warehouse or ship. From aluminium to titanium to even uranium, these monthly shipments are filled with enough resources that you should have enough to build a frigate within three months. Of course, the rarer materials will be in a lower amount than the more common ones, and you'll need to purchase something else in order to get Eezo.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "prothean_archive": [
+            {
+              "id": "perk_079012",
+              "cost": 600,
+              "name": "Prothean Archive",
+              "description": "All modern technology was derived from what was left by the Protheans; as such, any Prothean artefacts are highly sought after for many reasons, ranging from the scientific to the religious. What you have here is the pinnacle of Prothean artefacts, as this archive contains the total of all knowledge from the Prothean Cycle. An in-depth history of each race under their control, every story they've written, each weapon they've ever designed, and everything in between. I would be very careful who you tell about this.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "reaper_tech_data_core": [
+            {
+              "id": "perk_079013",
+              "cost": 1000,
+              "name": "Reaper Tech Data Core",
+              "description": "Over the aeons, the Reapers continued their Cycles, cataloguing and preserving every civilisation they found in their unique way. What you have here is impossibly rare and completely invaluable. This terminal contains the total knowledge of everything the Reapers have ever encountered. In-depth notes of different biologies, ranging from the races of the mighty Leviathan to the lowly Vorcha, and all of the Flora and Fauna on each planet that has ever developed. All technology, the many, many races developed and were fine-tuned by the Reapers, and the underlying sciences behind them. All the different societies that have been developed and their relative success. Full records of their histories, mythologies, and linguistics. All the music, plays, shows and media created. Even all the culinary recipes have been developed. This contains everything. There is so much in here that it would take even a modern AI a few decades to go through everything stored within.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "resource_efficiency": [
+            {
+              "id": "perk_079014",
+              "cost": 400,
+              "name": "Resource Efficiency",
+              "description": "It’s nice being efficient. It lets you make more with less, stretching out vital supplies even further. With this perk, any time you are crafting something, you can make it for half the materials. Just... don’t ask how you got a full cake from half the amount of ingredients. In addition, anytime you break down an item, you get the full amount of resources that went into it. So, breaking down a gun you made for 50% resources would give you those 50% resources, compared to a gun made by someone else who used the full amount in the construction, and thus giving you the total amount.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "solar_emitter_heater": [
+            {
+              "id": "perk_079015",
+              "cost": 100,
+              "name": "Solar Emitter/Heater",
+              "description": "An Angara needs to have UV exposure to prevent what’s basically malnutrition. So, have this free solar emitter combined with a heater. It will auto-adjust to give you whatever type of radiation your form needs to be healthy, and can emit heat in addition to the other radiation. The amount of radiation will also scale to whatever is needed to keep you healthy. Please be considerate of those around you. What’s healthy for you may be a lethal dose for others. You can also set it up to provide radiation and/or heat for other organisms and can adjust it to what type/amount of radiation is beneficial to them.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "space_age_toiletries": [
+            {
+              "id": "perk_079016",
+              "cost": 50,
+              "name": "Space Age Toiletries",
+              "description": "This special package of top-of-the-line, high quality toiletries are all that you'll ever need! From Human shampoo to Krogan body wash to Asari makeup to even toothbrushes that utilize mass effect fields to break up plaque and massage the gums, there is everything for everyone in this premium package. Guaranteed to leave you the cleanest being in the galaxy! Jumpchain Enterprises cannot be held accountable if you experience health problems due to ingesting Turian carapace cream.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_citadel": [
+            {
+              "id": "perk_079017",
+              "cost": 600,
+              "name": "The Citadel",
+              "description": "The Citadel is the sociological and economic centre of the galaxy, a massive space station capable of comfortably housing millions, complete with its own functional biosphere. While you don't actually own it yourself, you do receive a copy that is completely under your control, with no Reaper sabotage built into it. It is maintained by a strange breed of organic automatons, ensuring that all of its systems will keep running for aeons to come. While it mostly stays open, looking like a large metallic flower, it can close up in times of distress, greatly improving its defensibility.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "weapon_modification_kit": [
+            {
+              "id": "perk_079018",
+              "cost": 100,
+              "name": "Weapon Modification Kit",
+              "description": "So many weapons, so many options. And that's not just talking about how many there are, as there are just as many modifications you can add to them. This workstation is chock full of various weapon modifications for numerous kinds of weapons, as well as the tools needed to manufacture your own. If you want to give your favorite rifle a powerful scope, or increase the spread of your shotgun, this is the choice for you.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_mass_effect_andromeda_jumpchain": {
+    "source": "Mass Effect: Andromeda JumpChain",
+    "description": "Perks from Mass Effect: Andromeda JumpChain.",
+    "chapters": {
+      "the_crew": {
+        "chapter": "The Crew",
+        "perks": {
+          "backup_storage": [
+            {
+              "id": "perk_079019",
+              "cost": 100,
+              "name": "Backup Storage",
+              "description": "When you are in the field, you never know what kind of data you will stumble across. And it’d be a shame if the only record of that incredible find was somehow damaged or destroyed. That’s why you bought this lovely little VI drone! It has essentially unlimited storage capacity, so you never have to worry about having to choose between those etchings you took of that ruined temple and that databurst you got from that dying AI. However, you will have to input the data from whatever recording device you used, the drone can’t record things itself. And the storage capacity is for storage only. While you can store encrypted information, you would still have to decrypt it at some point. And while you can find stored data based on when you input the info into the Backup Storage, you aren’t able to search through it. It’d be best to use this drone as a data mule of sorts. Best of all, if the drone gets destroyed or otherwise ruined, the data is still safe! You just have to get some other device to solely perform the role of the drone, and the new device will have access to your stored data.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "kett_guard_dog": [
+            {
+              "id": "perk_079020",
+              "cost": 100,
+              "name": "Kett Guard Dog",
+              "description": "Wraiths are invisible Kett-formed guard dog things. Non-Kett get the original race that the Kett made the Wraiths from, which is known as a Challyrion. Your Challyrion is smarter and stronger than normal, in order to equal a Wraith.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "remnant_companion": [
+            {
+              "id": "perk_079021",
+              "cost": 100,
+              "name": "Remnant Companion",
+              "description": "You managed to stumble upon a way to control this non-sentient Remnant robot, and now it follows you around. You can designate targets for it to attack and use it to give you a foothold into Remnant systems. If it’s destroyed in battle, you will be able to repair it either back at base or on the field, depending on your technical skills and resources available. An AI companion is also able to control the bot, if you so choose.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "research_assistants": [
+            {
+              "id": "perk_079022",
+              "cost": 200,
+              "name": "Research Assistants",
+              "description": "A true scientist will realize that when they are reaching for the stars, that they are standing on the shoulders of the giants who came before them. So sometimes, it’s nice to not have to stand alone. You have a group of scientists helping you out. While you are in the field, others will be checking your work and conclusions, cleaning up miscellaneous details, and getting the word out there about who exactly is trailblazing. And sometimes, the folks back in the lab will catch sometime you missed. Maybe they spotted a rune you needed, or saw something reflective off in the distance. No matter what, every so often, your science helpers will help you make progress on your current science goals. And in between those bursts of helpfulness, they also handle a lot of the grunt work of science for you.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_ship": {
+        "chapter": "The Ship",
+        "perks": {
+          "research_and_development_center": [
+            {
+              "id": "perk_079023",
+              "cost": 100,
+              "name": "Research & Development Center",
+              "description": "The R&D center is integral to the Initiative’s colonization efforts in the Heleus cluster. There is one in every settlement. As you increase the amount of information you discover, the more you will be able to progress and discover in the Research section. And Development allows a user to build any object that you have the blueprints/plans for and resources to make it. If you have a ship, you can choose to integrate this into the ship. While the R&D centre is initially limited to making things that are man portable, with the appropriate upgrades, that may change. After all, Remnant Vaults have such interesting technology...",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "shuttle": [
+            {
+              "id": "perk_079024",
+              "cost": 200,
+              "name": "Shuttle",
+              "description": "Your choice of a Nexus, Angaran, or Kett Shuttle. All of these have FTL capability, can carry a squad’s worth of people, and has a moderate amount of resistance to environmental issues such as radiation or deadly winds. If it gets hit by lightning though, it’s basically a goner, unless you put some upgrades in. If the Shuttle is destroyed, it will respawn in 48 hours either in your warehouse or on a landing pad, whichever is more convenient.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "tempest-class": [
+            {
+              "id": "perk_079025",
+              "cost": 600,
+              "name": "Tempest-class",
+              "description": "You get a copy of the Tempest survey ship, and all ships of this type are meant for long-range, long-term exploration. It doesn’t have any weapons, but it’s got a research center, tech lab, bio lab, crew quarters, your quarters (which are the biggest on the ship), med bay, a vehicle bay, and a ODSY drive that’s nice and stealthy. It also somehow has an Internal Emission Sink stealth system, which is a classified stealth system developed by the Turian Hierarchy and the Systems Alliance. You will have to source your own pilot though: Kallo Jath may have helped build the Tempest-class ships, but he’s loyal to the one he made with his compatriots.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "your_resources": {
+        "chapter": "Your Resources",
+        "perks": {
+          "box_of_resources": [
+            {
+              "id": "perk_079026",
+              "cost": 600,
+              "name": "Box of Resources",
+              "description": "Have a box full of the Heleus cluster’s resources! Great for all your crafting needs, and ensures that you can always use your Andromeda gear. Omni-gel canisters, eezo, angaran meditation crystals, kett alloys, remnant polymers, eiroch fluid sacs, remnant cores, renderable plates, scale fibers, shell filaments, soft chitin. You will have to find your own source of the non-exclusive minerals though. This box is as big as the shipping container for the Nomad, is equally divided amongst the 11 resources, and will refill itself once a week.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "flora_and_fauna_archive": [
+            {
+              "id": "perk_079027",
+              "cost": 600,
+              "name": "Flora & Fauna Archive",
+              "description": "When you are surrounded by the unknown, you will crave the familiar. But how does one get a dog when they are in a different galaxy? If you didn’t bring one, I guess you’ll have to grow your own! This is a both a database and a cloning facility. The database is full of the genetics of plant and animal species from your home, and will auto-update as you encounter new ones. And the cloning facility will be where you turn the scans you’ve taken into grown organisms. With a scan of DNA, you can grow a viable organism fairly quickly. You can control the variables of how they grow, and the specimen will be a fully mature example of that species. Animals could be fully socialized for the wild, or be naturalized to your race. Plants will be at least partially adapted to whichever environment you wish. In time, you might even be able to use this archive to create your own species, and maybe even sophont species as well. But that will take a lot of time and learning. So, in the meantime, enjoy being able to taste the steaks and liquors of your home, while petting Fido.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "hall_of_victories": [
+            {
+              "id": "perk_079028",
+              "cost": 200,
+              "name": "Hall of Victories",
+              "description": "You now have a place to show off your successes, and maybe even include those of your subordinates. Any time you or your subordinates have a noteworthy victory, there will be another display piece here going over what happened, and how you (or your subordinate(s)) were critical. You can open up this hall to whoever you wish, inspiring those who visit, improving your fame, and improving their confidence and belief in you. People who have heard of you because of your improved fame will be more open to listening to you. You can also choose specific things to display, such as trophies or prototypes, or maybe even holographic displays of the important men and women who call you boss.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "junkyard": [
+            {
+              "id": "perk_079029",
+              "cost": 400,
+              "name": "Junkyard",
+              "description": "Junk to some is treasure to others. You get a doorway that leads to a small pocket universe that is filled with the local area’s lost, broken and/or discarded items. You might find broken gear, ruined vehicles, or maybe a pristine limited edition item that someone just forgot about. Everything in here will be somewhat useful to you, but you get to decide if it’s use is as a source of resources, or if something is worth fixing. The doorway takes the appearance of an expandable hula hoop that opens a portal to the pocket universe. The pocket universe will refill with junk as you travel, or as the local area around you generates junk that will be siphoned off. In addition, if you haven’t cleared out the junk universe in one jump, then you can still pick it up in another, while the junk from the new jump will slowly filter in as space is opened up.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "open_says_me": [
+            {
+              "id": "perk_079030",
+              "cost": 400,
+              "name": "Open Says Me",
+              "description": "When delving into advanced ruins, you occasionally come to protected consoles that you just don’t have time to crack, or you’re just sick of that damn Sudoku puzzle. You now have a program that will automatically fill in any password or electronic puzzle, and because you used it, breaks down any other encryption or electronic security on that console. This code functions once a day. You could also use it on networks, or to get into someone’s profile if you wanted.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "rations": [
+            {
+              "id": "perk_079031",
+              "cost": 100,
+              "name": "Rations",
+              "description": "Or, if you’re a Jumper, also known as Meals You Actually Want to Eat. Regardless of which form you are in, you gain a regular supply of meals that would fulfill all of your body’s nutritional needs, is actually appealing to you in taste, and has enough in it to satisfy you. The meals will change in small ways from each other, and will have a nice liquid for you to consume with it. Unless your body doesn’t drink liquids, then you get a nice little garnish instead, or something.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_bar": [
+            {
+              "id": "perk_079032",
+              "cost": 100,
+              "name": "The Bar",
+              "description": "When the going gets tough, the tough...go out for drinks? You have a bar full of drinks manned by a skilled bartender, that the people working for you can gather at, wind down, have a good time, and maybe let slip how they feel about how things are going. The selection is constantly refilling, and both the drinks and the bartender’s skills expand/update as you and your people encounter new things. Find a plant that smells good? It’ll be a great garnish. An off-duty soldier discovers a hole-in-the-wall with a bartender with a bunch of new drink recipes? Your person at the bar will rapidly learn how to make them, with equal skill. They’ll also be very good at dispensing advice and “overhearing” conversations, and will relay intel to you. Lastly, as a side benefit of owning place, you get free drinks.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "trade_goods": [
+            {
+              "id": "perk_079033",
+              "cost": 200,
+              "name": "Trade Goods",
+              "description": "When you are a foreigner in a new place, your money may not always be good there. Now you will have a stockpile of trade goods that you can use for barter. The trade goods will be appropriate for whatever race or culture you are dealing with, and will vary between luxury goods, rare materials, cultural goods, and so on. There isn’t necessarily a price that’s equivalent, but all the goods will be something valuable to the race/culture you are dealing with. For example, gold to some people is extremely valuable, while to others, it’s just a pretty rock. But with these goods, you will almost always be able to make a positive first impression. After all, everyone likes getting gifts. Your stockpile of trade goods is in some sort of container, such as a crate. The stockpile refills on a twice weekly basis, and will also adjust itself to the target market every time you open it.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_mass_effect_beacons_effect_series_jumpchain": {
+    "source": "Mass Effect: Beacon’s Effect Series Jumpchain",
+    "description": "Perks from Mass Effect: Beacon’s Effect Series Jumpchain.",
+    "chapters": {
+      "the_crew": {
+        "chapter": "The Crew",
+        "perks": {
+          "battle-hardened_veteran": [
+            {
+              "id": "perk_079034",
+              "cost": 100,
+              "name": "Battle-Hardened Veteran",
+              "description": "This companion is a battle-hardened veteran with extensive experience in various forms of combat, from hand-to-hand combat to advanced weaponry. They have survived countless battles and possess a wealth of knowledge on tactics and strategy. As a result, they are an invaluable asset in any situation. They are fiercely loyal to you and your cause, and will fight with everything they have to ensure your success. Additionally, their experiences have given them a unique perspective on life, making them an interesting and compelling companion to travel with. You may design their personality, appearance, and species if you wish.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "council_spectre": [
+            {
+              "id": "perk_079035",
+              "cost": 100,
+              "name": "Council Spectre",
+              "description": "As a Council Spectre, this individual is a highly skilled and respected agent of the Citadel Council. They possess a wide range of abilities, from combat training to advanced diplomacy and espionage tactics. They are fiercely loyal to the Council and its ideals, and will do whatever it takes to protect the galaxy from threats. You may choose their appearance, personality, and species to fit your needs.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "n7_operative": [
+            {
+              "id": "perk_079036",
+              "cost": 100,
+              "name": "N7 Operative",
+              "description": "This individual is a highly trained and experienced soldier who has been recruited into the elite N7 program. They possess a wide range of combat skills and are capable of handling any situation that comes their way. They are fiercely loyal to you and your mission, and will do whatever it takes to protect you and ensure that you succeed in your goals. You may design their appearance, personality, and species if you wish.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "new_geth": [
+            {
+              "id": "perk_079037",
+              "cost": 100,
+              "name": "New Geth",
+              "description": "This option allows you to create or recruit a New Geth platform to fight by your side. These companions are highly advanced and customizable, allowing you to tailor them to your specific needs in battle. With their unique modifications, each platform brings a different set of abilities and strengths to the fight, making them a valuable asset in any combat situation. Whether you need a sniper, a heavy weapons platform, or a stealthy infiltrator, the New Geth have got you covered. Plus, their advanced AI means they can adapt to changing situations on the fly, making them a reliable ally in even the most chaotic battles.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "the_ship": {
+        "chapter": "The Ship",
+        "perks": {
+          "asari_armada": [
+            {
+              "id": "perk_079038",
+              "cost": 900,
+              "name": "Asari Armada",
+              "description": "The Asari Armada is a formidable force made up of hundreds of warships, including dreadnoughts, cruisers, frigates, and fighters. The armada is commanded by the most experienced and skilled asari commanders and is equipped with advanced asari technology, including biotic amplifiers, energy shields, and mass effect fields. With their mastery of biotics and tactical abilities, the Asari Armada is a powerful force that can quickly respond to threats and engage enemies in any situation. By purchasing this option, you may claim the Asari Armada for yourself and command it to defend your interests.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "geth_dreadnought": [
+            {
+              "id": "perk_079039",
+              "cost": 600,
+              "name": "Geth Dreadnought",
+              "description": "The Geth Dreadnought is a massive warship used by the synthetic race known as the Geth. It is heavily armed and armored, and is capable of generating powerful energy shields that protect it from all but the most powerful attacks. The Geth Dreadnought is operated by a sophisticated AI, and is capable of coordinating with other Geth ships to devastating effect. It is often used by the Geth for offensive purposes, and is a feared sight on the battlefield.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "kronos_station": [
+            {
+              "id": "perk_079040",
+              "cost": 500,
+              "name": "Kronos Station",
+              "description": "Kronos Station is the original headquarters of Cerberus and one of their most heavily defended locations. This is a heavily fortified mobile space station that has been retrofitted as a Heavy Weapon Platform. It is equipped with state-of-the-art weapons and technology, making it a formidable force in any battle. With its advanced FTL engines, Kronos Station can be deployed to any point in the galaxy to serve as a Forward Operating Base, providing tactical support and strategic advantages to your forces. Aside from its role as a powerful fortress this facility is filled with a vast number of powerful warriors such as Phantoms, Assault Troopers, Guardians, and Atlas Mechs",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "nexus_station": [
+            {
+              "id": "perk_079041",
+              "cost": 600,
+              "name": "Nexus Station",
+              "description": "Nexus Station is a mobile space station that has been retrofitted as a diplomatic hub. It is equipped with advanced communication systems and facilities for hosting negotiations and other diplomatic events. The station is also home to some of the galaxy's most prominent diplomats and politicians, making it an ideal location for forging alliances and establishing treaties. With its powerful engines, Nexus Station can quickly travel to any point in the galaxy, making it an invaluable asset for any faction seeking to expand its influence and establish new relationships with other factions.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "oculus_fighter": [
+            {
+              "id": "perk_079042",
+              "cost": 0,
+              "name": "Oculus Fighter",
+              "description": "The Oculus Fighter is a small, agile spacecraft used by the Reapers for reconnaissance and interception. With a length of only 20 meters, the Oculus is one of the smallest Reaper ships, but it is no less deadly. It is equipped with advanced sensor systems and communications arrays, allowing it to track enemy ships and relay information back to Reaper command. The Oculus is armed with a pair of mass accelerator cannons and can be fitted with additional weapons, such as missiles or drones, depending on the mission requirements. Its maneuverability and speed make it a difficult target to hit, and it is often used to harry and distract enemy ships while larger Reaper vessels move into position.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "omega": [
+            {
+              "id": "perk_079043",
+              "cost": 500,
+              "name": "Omega",
+              "description": "Omega is a mobile space station that has been retrofitted as a criminal hub and a center of black market activities. It is a hub for smugglers, mercenaries, and other unsavory characters, making it an ideal location for recruiting soldiers and acquiring resources. Omega Station is also heavily armed and armored, making it a formidable force in any battle. Its FTL engines allow it to quickly deploy to any location in the galaxy, making it an excellent base of operations for covert missions.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "purgatory_prison_ship": [
+            {
+              "id": "perk_079044",
+              "cost": 500,
+              "name": "Purgatory Prison Ship",
+              "description": "A massive prison ship, similar to the one used by the Blue Suns in the Omega Nebula. The Purgatory Prison Ship is designed to hold dangerous criminals and keep them isolated from the rest of the galaxy. It has multiple levels, with each level being more heavily guarded and more dangerous than the one before it. The ship is heavily armed and well-defended, making any escape attempts nearly impossible. The Purgatory Prison Ship can be summoned and controlled by the jumper, allowing them to use it as a mobile base or a tool for capturing and imprisoning enemies. The ship is equipped with advanced technology that allows it to scan and detect criminal activity, making it an effective tool for tracking down wanted fugitives. Additionally, the ship comes with a variety of weapons and equipment that can be used by the jumper or their companions. This includes advanced security gear, heavy weapons, and even a fleet of small fighters that can be launched from the ship. Overall, the Purgatory Prison Ship is an extremely valuable asset that can be used for a variety of purposes, from capturing and imprisoning dangerous criminals to providing a mobile base of operations for the jumper and their allies.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "quarian_flotilla": [
+            {
+              "id": "perk_079045",
+              "cost": 800,
+              "name": "Quarian Flotilla",
+              "description": "The Quarian Flotilla is a massive fleet composed of hundreds of ships, each home to a small part of the Quarian race. The fleet is led by the Admiralty Board, a council of the most experienced captains and tacticians in the Flotilla. The ships are equipped with advanced engineering systems, allowing them to repair damage quickly in the heat of battle. By purchasing this option, you can claim the Quarian Flotilla for yourself, giving you access to the full might of the Quarian fleet. You will also gain the loyalty of the Quarian people, who will fight alongside you,",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "volus_trade_fleet": [
+            {
+              "id": "perk_079046",
+              "cost": 800,
+              "name": "Volus Trade Fleet",
+              "description": "The Volus Trade Fleet is a massive collection of cargo ships that spans the entire galaxy. The fleet is operated by the Volus, a race of small but industrious beings known for their expertise in trade and commerce. Each ship is equipped with advanced Volus technology, including state-of-the-art communication systems and powerful engines. By purchasing this option, you will gain control of the Volus Trade Fleet and all of its resources. You can use this fleet to establish lucrative trade routes, or to defend your cargo against pirates and other threats.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "ymir_mech": [
+            {
+              "id": "perk_079047",
+              "cost": 200,
+              "name": "YMIR Mech",
+              "description": "The YMIR Mech is a massive and powerful combat robot, capable of taking on entire squads of enemy soldiers and emerging victorious. Its heavy armor and shielding make it nearly impervious to small arms fire, while its twin heavy machine guns can shred through infantry and light vehicles with ease. In addition to its powerful armaments, the YMIR Mech also has the ability to enter a compact state for easy transportation. This makes it an excellent choice for mercenary companies or other organizations that need to move large amounts of heavy firepower quickly. With this purchase, you will gain access to three fully operational YMIR Mechs, as well as the blueprints and technology necessary to manufacture more.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      },
+      "your_resources": {
+        "chapter": "Your Resources",
+        "perks": {
+          "prothean_particle_rifle": [
+            {
+              "id": "perk_079048",
+              "cost": 100,
+              "name": "Prothean Particle Rifle",
+              "description": "This highly coveted weapon was developed by the Prothean resistance after the fall of their empire. It is a stripped-down, yet powerful assault rifle capable of firing without relying on thermal clips or specialized ammunition. The Prothean Particle Rifle harnesses advanced Prothean particle technology, allowing it to deliver devastating damage to its targets. It&#39;s the ideal weapon for those who value reliability and power over flashy features. With its sleek design and unmatched performance, the Prothean Particle Rifle is a must-have for any serious fighter.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "the_conduit": [
+            {
+              "id": "perk_079049",
+              "cost": 100,
+              "name": "The Conduit",
+              "description": "The Conduit is a miniaturized version of the mass relays designed to allow for planet-to- planet FTL travel using Mass Relay technology. While the technology is still theoretical and highly experimental, the Conduit is a breakthrough in travel technology. It can be easily hidden and transported, making it an ideal tool for military operations and covert missions. The device is powered by Element Zero and can be activated remotely using a specialized interface. Once activated, the Conduit can transport a small group of individuals or equipment from one location to another instantaneously. This will also come with blueprints to recreate the Conduit and expand on it in the future.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  },
+  "source_shepard_quest": {
+    "source": "Shepard Quest",
+    "description": "Perks from Shepard Quest.",
+    "chapters": {
+      "the_crew": {
+        "chapter": "The Crew",
+        "perks": {
+          "cant_bribe_the_paid": [
+            {
+              "id": "perk_079050",
+              "cost": 200,
+              "name": "Can’t Bribe The Paid",
+              "description": "Corporate espionage is a pain in a lot of different places. Fortunately you really don’t have to worry about it. As long as you pay people well and on time, they will be strongly loyal to you, and any attempts to bribe them for information or access will fail.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "freemans_free_intel": [
+            {
+              "id": "perk_079051",
+              "cost": 100,
+              "name": "Freeman’s Free Intel",
+              "description": "This group of political analysts, ex-intelligence services, and other various agent sorts are at your disposal. Either they’re attached to a company you own, or you have a retainer with their “private investigator” firm. Either way, the payments are already handled. Beyond keeping track of major events across the entire galaxy and providing relevant and insightful summaries, they also use VI programs and their own intuitions to find events relevant to you - even if “the intel suggests the Batarians might have crash-built a carrier or dreadnought in secret somewhere” might not be immediately apparent as to why you in particular should be concerned. They also have the resources to launch in-person investigations of various things around the galaxy, like looking for rogue super-soldiers in the Terminus or going through a secured-by-our-side lab. Only one expedition at a time, unless you add more resources to grow and maintain a larger team.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "patents": [
+            {
+              "id": "perk_079052",
+              "cost": 100,
+              "name": "Patents",
+              "description": "Getting things patented first requires getting your ducks in a row. But this team of lawyers will not only get your ducks in a row, they’ll brush out their feathers and teach them to dance. They’ll automatically take care of patenting anything you want patented, and will advise you on patent issues. In addition, this will also enforce your patents for you, even in regions with no patent laws, or against people who don’t care about patent laws (like the STG, software pirates, and Reapers.) No one will be manufacturing anything without first signing a licensing agreement.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "privately-owned_business": [
+            {
+              "id": "perk_079053",
+              "cost": 200,
+              "name": "Privately-Owned Business",
+              "description": "Think Shifting Developments, Lucca’s R&D Co., or a similar smaller outfit that generally licenses technology to larger corporations instead of manufacturing and selling it themselves. As far as assets go, this company has a small amount of lab space and manufacturing capability - generally enough to prototype technology and make a few demonstrators. It also has a few technologies - possibly patented - based on your Specialty purchase. It also comes with administrative, legal, and marketing support. At small business sizes the staff is competent, with nothing exceptional, but at This includes sales, marketing, and supplies. They’ll be able to get you eezo, rare earth materials, and any other materials commonly used in the technologies you design without breaking the bank.",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ],
+          "tiny_ninja_recruitment": [
+            {
+              "id": "perk_079054",
+              "cost": 400,
+              "name": "Tiny Ninja Recruitment",
+              "description": "A tiny Kasumi sneaking into your lab because her father took her into work, Liara getting pushed by her mother into going to you for patronage so she acts as an intel source, a call for people with genetic disorders snagging Joker. You’re very lucky when it comes to running across the people who will be important in the course of events, randomly meeting people well before events make them famous. (Time of entry permitting, of course) You also have the charisma and interpersonal skills needed to develop good relations with these people. No sense in making a bad first impression, right?",
+              "category": "omni-tool",
+              "categoryVersion": "default",
+              "categoryDisplayName": "Omni Tool",
+              "tags": [],
+              "isAdult": false
+            }
+          ]
+        }
+      }
+    }
+  }
+}
