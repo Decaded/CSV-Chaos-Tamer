@@ -3,7 +3,8 @@
 A Node.js script that processes differently formatted CSV and Markdown files into clean, normalized JSON. It’s built specifically to prepare data for
 [celestial.decaded.dev](https://celestial.decaded.dev), but it can work with any similar dataset structure.
 
-This parser handles inconsistent CSV headers, Markdown formatting quirks, missing fields, and source-specific oddities so the data is ready to be consumed by the main project without manual cleanup.
+This parser handles inconsistent CSV headers, Markdown formatting quirks, missing fields, and source-specific oddities so the data is ready to be consumed by the main project
+without manual cleanup.
 
 ---
 
@@ -62,7 +63,7 @@ npm run run
 
 4. Collect your prepared JSON from `data/`.
 
-You can also run the parser directly:
+You can run the parser directly:
 
 ```bash
 node index.js
@@ -74,13 +75,13 @@ Run the regression tests with:
 npm test
 ```
 
-Start the dark web interface with:
+Optionally, start the web interface with:
 
 ```bash
 npm run web
 ```
 
-The web interface accepts CSV and Markdown uploads, writes converted JSON files to a temporary job folder, and can store the prepared databases in `NyaDB/` using `@decaded/nyadb`.
+The web interface accepts CSV and Markdown uploads and writes prepared databases to `NyaDB/` using [@decaded/nyadb](https://github.com/Decaded/NyaDB).
 
 ---
 
@@ -102,7 +103,8 @@ If you need to split specific chapters into separate files, modify `shared.split
 'lewd': 'companion_lewd',
 ```
 
-Markdown parsing rules live in `md-parser.js`. When a new Markdown export has a weird entry layout, add a small regression case in `test/md-parser.test.js` before changing the parser.
+Markdown parsing rules live in `md-parser.js`. When a new Markdown export has a weird entry layout, add a small regression case in `test/md-parser.test.js` before changing the
+parser.
 
 To inspect Markdown parse quality without dumping a huge source file, run:
 
@@ -114,7 +116,18 @@ node scripts/md-diagnose.js "sheets/DatasetName/source.md"
 
 ## Output format
 
-The script generates Celestial Gambler API preparation files:
+The script generates Celestial Gambler API preparation databases:
+
+- `dataset` - public dataset metadata.
+- `categories` - category metadata with available versions and database keys.
+- `sources` - canonical source metadata.
+- `{database}` - perk data grouped as `sourceId -> chapters -> chapterKey -> perks -> nameKey -> Perk[]`.
+
+Optional file export:
+
+- Set `writeFiles: true` when calling `buildDatabase(...)` to also emit JSON files under `data/`.
+
+When file export is enabled, the script writes:
 
 - `data/dataset.json` - public dataset metadata.
 - `data/categories.json` - category metadata with available versions and database keys.
@@ -128,30 +141,30 @@ Example grouped perk output:
 
 ```json
 {
-  "source_example_jump": {
-    "source": "Example Jump",
-    "description": "Perks from Example Jump.",
-    "chapters": {
-      "example_chapter": {
-        "chapter": "Example Chapter",
-        "perks": {
-          "example_perk": [
-            {
-              "id": "perk_000001",
-              "cost": 200,
-              "name": "Example Perk",
-              "description": "Cleaned description here.",
-              "category": "example",
-              "categoryVersion": "default",
-              "categoryDisplayName": "Example",
-              "tags": [],
-              "isAdult": false
-            }
-          ]
-        }
+ "source_example_jump": {
+  "source": "Example Jump",
+  "description": "Perks from Example Jump.",
+  "chapters": {
+   "example_chapter": {
+    "chapter": "Example Chapter",
+    "perks": {
+     "example_perk": [
+      {
+       "id": "perk_000001",
+       "cost": 200,
+       "name": "Example Perk",
+       "description": "Cleaned description here.",
+       "category": "example",
+       "categoryVersion": "default",
+       "categoryDisplayName": "Example",
+       "tags": [],
+       "isAdult": false
       }
+     ]
     }
+   }
   }
+ }
 }
 ```
 
