@@ -388,6 +388,7 @@
       "description": "Perks from A Will Eternal.",
       "categories": [
         "dojo",
+        "fighter",
         "gardens"
       ]
     },
@@ -559,6 +560,7 @@
       "description": "Perks from Against The Gods.",
       "categories": [
         "dojo",
+        "fighter",
         "forge"
       ]
     },
@@ -1014,12 +1016,22 @@
       ]
     },
     {
+      "id": "source_anima_beyond_faintasy",
+      "name": "Anima Beyond Faintasy",
+      "displayName": "Anima Beyond Faintasy",
+      "description": "Perks from Anima Beyond Faintasy.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_anima_beyond_fantasy",
       "name": "Anima: Beyond Fantasy",
       "displayName": "Anima: Beyond Fantasy",
       "description": "Perks from Anima: Beyond Fantasy.",
       "categories": [
         "darkest_tome",
+        "fighter",
         "forge",
         "grimoire",
         "grimoire_yggdrasil_personal"
@@ -1077,6 +1089,15 @@
       "description": "Perks from Ar Tonelico.",
       "categories": [
         "forge"
+      ]
+    },
+    {
+      "id": "source_arawn",
+      "name": "Arawn",
+      "displayName": "Arawn",
+      "description": "Perks from Arawn.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -1373,6 +1394,7 @@
       "description": "Perks from Asura’s Wrath.",
       "categories": [
         "companion",
+        "fighter",
         "forge",
         "grimoire",
         "grimoire_yggdrasil_personal",
@@ -1672,12 +1694,22 @@
       ]
     },
     {
+      "id": "source_baki_son_of_ogre",
+      "name": "Baki: Son Of Ogre",
+      "displayName": "Baki: Son Of Ogre",
+      "description": "Perks from Baki: Son Of Ogre.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_baki_the_grappler",
       "name": "Baki The Grappler",
       "displayName": "Baki The Grappler",
       "description": "Perks from Baki The Grappler.",
       "categories": [
-        "dojo"
+        "dojo",
+        "fighter"
       ]
     },
     {
@@ -2369,6 +2401,7 @@
       "description": "Perks from Bloody Roar.",
       "categories": [
         "companion",
+        "fighter",
         "forge"
       ]
     },
@@ -2401,6 +2434,15 @@
       "categories": [
         "grimoire",
         "grimoire_yggdrasil_personal"
+      ]
+    },
+    {
+      "id": "source_blue_eye_samurai",
+      "name": "Blue Eye Samurai",
+      "displayName": "Blue Eye Samurai",
+      "description": "Perks from Blue Eye Samurai.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -2567,10 +2609,11 @@
     },
     {
       "id": "source_brutal_legend",
-      "name": "Brutal Legend",
-      "displayName": "Brutal Legend",
-      "description": "Perks from Brutal Legend.",
+      "name": "Brütal Legend",
+      "displayName": "Brütal Legend",
+      "description": "Perks from Brütal Legend.",
       "categories": [
+        "fighter",
         "forge"
       ]
     },
@@ -3509,6 +3552,7 @@
       "displayName": "Conan",
       "description": "Perks from Conan.",
       "categories": [
+        "fighter",
         "grimoire",
         "reliquary"
       ]
@@ -3625,7 +3669,8 @@
       "displayName": "Cradle",
       "description": "Perks from Cradle.",
       "categories": [
-        "dojo"
+        "dojo",
+        "fighter"
       ]
     },
     {
@@ -3977,6 +4022,7 @@
       "description": "Perks from Darkest Dungeon.",
       "categories": [
         "darkest_tome",
+        "fighter",
         "gardens",
         "grimoire",
         "grimoire_yggdrasil_personal",
@@ -4003,6 +4049,15 @@
       "description": "Perks from Darkspawn Chroncles Gauntlet.",
       "categories": [
         "eldritch_grimoire"
+      ]
+    },
+    {
+      "id": "source_darkstalkers",
+      "name": "Darkstalkers",
+      "displayName": "Darkstalkers",
+      "description": "Perks from Darkstalkers.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -4502,6 +4557,7 @@
       "categories": [
         "darkest_tome",
         "dojo",
+        "fighter",
         "grimoire",
         "grimoire_yggdrasil_personal",
         "heros_journey"
@@ -5669,6 +5725,24 @@
       ]
     },
     {
+      "id": "source_duel_monsters_-_duel_terminal_i",
+      "name": "Duel Monsters - Duel Terminal I",
+      "displayName": "Duel Monsters - Duel Terminal I",
+      "description": "Perks from Duel Monsters - Duel Terminal I.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_duel_monsters_-_duel_terminal_ii",
+      "name": "Duel Monsters - Duel Terminal II",
+      "displayName": "Duel Monsters - Duel Terminal II",
+      "description": "Perks from Duel Monsters - Duel Terminal II.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_duel_monsters_-_duel_terminal_part_1",
       "name": "Duel Monsters - Duel Terminal Part 1",
       "displayName": "Duel Monsters - Duel Terminal Part 1",
@@ -5688,12 +5762,48 @@
       ]
     },
     {
+      "id": "source_duel_monsters_-_duel_terminals_i",
+      "name": "Duel Monsters - Duel Terminals I",
+      "displayName": "Duel Monsters - Duel Terminals I",
+      "description": "Perks from Duel Monsters - Duel Terminals I.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_duel_monsters_-_duel_terminals_ii",
+      "name": "Duel Monsters - Duel Terminals II",
+      "displayName": "Duel Monsters - Duel Terminals II",
+      "description": "Perks from Duel Monsters - Duel Terminals II.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_duel_monsters_-_shadow_realm",
       "name": "Duel Monsters - Shadow Realm",
       "displayName": "Duel Monsters - Shadow Realm",
       "description": "Perks from Duel Monsters - Shadow Realm.",
       "categories": [
         "heros_journey"
+      ]
+    },
+    {
+      "id": "source_duel_monsters_-_the_abyss",
+      "name": "Duel Monsters - The Abyss",
+      "displayName": "Duel Monsters - The Abyss",
+      "description": "Perks from Duel Monsters - The Abyss.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_duel_monsters_-_the_heroes",
+      "name": "Duel Monsters - The Heroes",
+      "displayName": "Duel Monsters - The Heroes",
+      "description": "Perks from Duel Monsters - The Heroes.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -6169,6 +6279,15 @@
       "description": "Perks from Elitie: Dangerous.",
       "categories": [
         "laboratory"
+      ]
+    },
+    {
+      "id": "source_elric_saga",
+      "name": "Elric Saga",
+      "displayName": "Elric Saga",
+      "description": "Perks from Elric Saga.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -8041,6 +8160,24 @@
       ]
     },
     {
+      "id": "source_fights_in_tight_places",
+      "name": "Fights in Tight Places",
+      "displayName": "Fights in Tight Places",
+      "description": "Perks from Fights in Tight Places.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_fights_in_tight_spaces",
+      "name": "Fights in Tight Spaces",
+      "displayName": "Fights in Tight Spaces",
+      "description": "Perks from Fights in Tight Spaces.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_final_fantasy",
       "name": "Final Fantasy",
       "displayName": "Final Fantasy",
@@ -8402,6 +8539,7 @@
       "description": "Perks from Fist Of The North Star.",
       "categories": [
         "dojo",
+        "fighter",
         "gardens"
       ]
     },
@@ -8480,12 +8618,30 @@
       ]
     },
     {
+      "id": "source_fog_hill_of_five_elements",
+      "name": "Fog Hill of Five Elements",
+      "displayName": "Fog Hill of Five Elements",
+      "description": "Perks from Fog Hill of Five Elements.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_food_wars_shokugeki_no_soma",
       "name": "Food Wars: Shokugeki No Soma",
       "displayName": "Food Wars: Shokugeki No Soma",
       "description": "Perks from Food Wars: Shokugeki No Soma.",
       "categories": [
         "debauchery"
+      ]
+    },
+    {
+      "id": "source_for_honor",
+      "name": "For Honor",
+      "displayName": "For Honor",
+      "description": "Perks from For Honor.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -8642,6 +8798,15 @@
       "description": "Perks from Furby Island.",
       "categories": [
         "gardens"
+      ]
+    },
+    {
+      "id": "source_furi",
+      "name": "Furi",
+      "displayName": "Furi",
+      "description": "Perks from Furi.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -10154,6 +10319,7 @@
       "displayName": "Generic Wuxia",
       "description": "Perks from Generic Wuxia.",
       "categories": [
+        "fighter",
         "heros_journey"
       ]
     },
@@ -10302,6 +10468,24 @@
       "description": "Perks from Germanic/Norse Mythology Jump.",
       "categories": [
         "grimoire"
+      ]
+    },
+    {
+      "id": "source_ghost_of_tsuhsima",
+      "name": "Ghost of Tsuhsima",
+      "displayName": "Ghost of Tsuhsima",
+      "description": "Perks from Ghost of Tsuhsima.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_ghost_of_tsushima",
+      "name": "Ghost of Tsushima",
+      "displayName": "Ghost of Tsushima",
+      "description": "Perks from Ghost of Tsushima.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -10565,6 +10749,15 @@
       ]
     },
     {
+      "id": "source_good_hunting",
+      "name": "Good Hunting",
+      "displayName": "Good Hunting",
+      "description": "Perks from Good Hunting.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_good_omens",
       "name": "Good Omens",
       "displayName": "Good Omens",
@@ -10663,6 +10856,7 @@
       "description": "Perks from Grant Morrison’s 18 Days.",
       "categories": [
         "companion",
+        "fighter",
         "forge",
         "grimoire",
         "grimoire_yggdrasil_personal",
@@ -10972,6 +11166,15 @@
       ]
     },
     {
+      "id": "source_hajime_no_ippo",
+      "name": "Hajime no Ippo",
+      "displayName": "Hajime no Ippo",
+      "description": "Perks from Hajime no Ippo.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_hakueki_shobou",
       "name": "Hakueki Shobou",
       "displayName": "Hakueki Shobou",
@@ -11100,6 +11303,15 @@
       "description": "Perks from Hamtaro.",
       "categories": [
         "gardens"
+      ]
+    },
+    {
+      "id": "source_hanachirasu",
+      "name": "Hanachirasu",
+      "displayName": "Hanachirasu",
+      "description": "Perks from Hanachirasu.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -11285,6 +11497,15 @@
       "description": "Perks from Hatred.",
       "categories": [
         "darkest_tome"
+      ]
+    },
+    {
+      "id": "source_hawkmoon",
+      "name": "Hawkmoon",
+      "displayName": "Hawkmoon",
+      "description": "Perks from Hawkmoon.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -12520,6 +12741,15 @@
       ]
     },
     {
+      "id": "source_ironsworn",
+      "name": "Ironsworn",
+      "displayName": "Ironsworn",
+      "description": "Perks from Ironsworn.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_irredeemable",
       "name": "Irredeemable",
       "displayName": "Irredeemable",
@@ -12629,6 +12859,7 @@
       "displayName": "Jade Empire",
       "description": "Perks from Jade Empire.",
       "categories": [
+        "fighter",
         "forge"
       ]
     },
@@ -12695,6 +12926,33 @@
       "description": "Perks from Jorge Joestar.",
       "categories": [
         "darkest_tome"
+      ]
+    },
+    {
+      "id": "source_jotun",
+      "name": "Jotun",
+      "displayName": "Jotun",
+      "description": "Perks from Jotun.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_joujuu_sejin_mushibugyo",
+      "name": "Joujuu Sejin Mushibugyo",
+      "displayName": "Joujuu Sejin Mushibugyo",
+      "description": "Perks from Joujuu Sejin Mushibugyo.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_joujuu_senjin_mushibugyo",
+      "name": "Joujuu Senjin Mushibugyo",
+      "displayName": "Joujuu Senjin Mushibugyo",
+      "description": "Perks from Joujuu Senjin Mushibugyo.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -12870,6 +13128,15 @@
       ]
     },
     {
+      "id": "source_kajiri_kamui_kagura",
+      "name": "Kajiri Kamui Kagura",
+      "displayName": "Kajiri Kamui Kagura",
+      "description": "Perks from Kajiri Kamui Kagura.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_kamen_neo-heisei_rider_part_2_5_-_gaim",
       "name": "Kamen Neo-Heisei Rider Part 2.5 - Gaim",
       "displayName": "Kamen Neo-Heisei Rider Part 2.5 - Gaim",
@@ -12979,9 +13246,19 @@
       "displayName": "Katana Zero",
       "description": "Perks from Katana Zero.",
       "categories": [
+        "fighter",
         "forge",
         "grimoire",
         "grimoire_yggdrasil_personal"
+      ]
+    },
+    {
+      "id": "source_katanagatari",
+      "name": "Katanagatari",
+      "displayName": "Katanagatari",
+      "description": "Perks from Katanagatari.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -13023,6 +13300,15 @@
         "bordello",
         "debauchery",
         "waifu"
+      ]
+    },
+    {
+      "id": "source_kenshi",
+      "name": "Kenshi",
+      "displayName": "Kenshi",
+      "description": "Perks from Kenshi.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -13077,6 +13363,7 @@
       "displayName": "Kill 6 Billion Demons",
       "description": "Perks from Kill 6 Billion Demons.",
       "categories": [
+        "fighter",
         "primordial_flames"
       ]
     },
@@ -13144,7 +13431,17 @@
       "displayName": "Kimetsu No Yaiba",
       "description": "Perks from Kimetsu No Yaiba.",
       "categories": [
-        "companion"
+        "companion",
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_kimmetsu_no_yaiba",
+      "name": "Kimmetsu no Yaiba",
+      "displayName": "Kimmetsu no Yaiba",
+      "description": "Perks from Kimmetsu no Yaiba.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -13336,6 +13633,15 @@
       ]
     },
     {
+      "id": "source_kung_fu_panda",
+      "name": "Kung Fu Panda",
+      "displayName": "Kung Fu Panda",
+      "description": "Perks from Kung Fu Panda.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_kurohime",
       "name": "Kurohime",
       "displayName": "Kurohime",
@@ -13444,6 +13750,7 @@
       "displayName": "Legacy of Kain",
       "description": "Perks from Legacy of Kain.",
       "categories": [
+        "fighter",
         "grimoire",
         "reliquary"
       ]
@@ -14153,6 +14460,7 @@
       "displayName": "Live A Live",
       "description": "Perks from Live A Live.",
       "categories": [
+        "fighter",
         "something"
       ]
     },
@@ -14510,6 +14818,15 @@
       ]
     },
     {
+      "id": "source_luther_strode",
+      "name": "Luther Strode",
+      "displayName": "Luther Strode",
+      "description": "Perks from Luther Strode.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_lyrical_nanoha",
       "name": "Lyrical Nanoha",
       "displayName": "Lyrical Nanoha",
@@ -14558,6 +14875,7 @@
       "displayName": "Mad Max",
       "description": "Perks from Mad Max.",
       "categories": [
+        "fighter",
         "forge"
       ]
     },
@@ -14830,6 +15148,15 @@
       "description": "Perks from Manyūu Hiken-chō.",
       "categories": [
         "debauchery"
+      ]
+    },
+    {
+      "id": "source_manyuu_hikenchou",
+      "name": "Manyuu Hikenchou",
+      "displayName": "Manyuu Hikenchou",
+      "description": "Perks from Manyuu Hikenchou.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -15620,6 +15947,15 @@
       ]
     },
     {
+      "id": "source_metal_gear_rising_revengeance",
+      "name": "Metal Gear Rising: Revengeance",
+      "displayName": "Metal Gear Rising: Revengeance",
+      "description": "Perks from Metal Gear Rising: Revengeance.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_metal_gear_solid",
       "name": "Metal Gear Solid",
       "displayName": "Metal Gear Solid",
@@ -16301,6 +16637,15 @@
       ]
     },
     {
+      "id": "source_muhsoku_tensei",
+      "name": "Muhsoku Tensei",
+      "displayName": "Muhsoku Tensei",
+      "description": "Perks from Muhsoku Tensei.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_multiverse_of_madness",
       "name": "Multiverse of Madness",
       "displayName": "Multiverse of Madness",
@@ -16353,6 +16698,7 @@
       "description": "Perks from Mushoku Tensei.",
       "categories": [
         "dojo",
+        "fighter",
         "heros_journey"
       ]
     },
@@ -16686,6 +17032,7 @@
       "displayName": "Nine Sols",
       "description": "Perks from Nine Sols.",
       "categories": [
+        "fighter",
         "something"
       ]
     },
@@ -16849,6 +17196,7 @@
       "displayName": "Okami",
       "description": "Perks from Okami.",
       "categories": [
+        "fighter",
         "forge",
         "the_godly_epic_meros_proto_xxxl"
       ]
@@ -16921,7 +17269,8 @@
       "displayName": "One finger Death Punch",
       "description": "Perks from One finger Death Punch.",
       "categories": [
-        "dojo"
+        "dojo",
+        "fighter"
       ]
     },
     {
@@ -17976,6 +18325,15 @@
       ]
     },
     {
+      "id": "source_primal",
+      "name": "Primal",
+      "displayName": "Primal",
+      "description": "Perks from Primal.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_prina_the_dungeoneering_princess",
       "name": "Prina the Dungeoneering Princess",
       "displayName": "Prina the Dungeoneering Princess",
@@ -18211,6 +18569,7 @@
       "displayName": "Ranma 1/2",
       "description": "Perks from Ranma 1/2.",
       "categories": [
+        "fighter",
         "gardens",
         "heros_journey"
       ]
@@ -18320,6 +18679,15 @@
       "description": "Perks from Re-Animator.",
       "categories": [
         "darkest_tome"
+      ]
+    },
+    {
+      "id": "source_real_steel",
+      "name": "Real Steel",
+      "displayName": "Real Steel",
+      "description": "Perks from Real Steel.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -18826,6 +19194,24 @@
       ]
     },
     {
+      "id": "source_ryse_son_of_rome",
+      "name": "Ryse: Son of Rome",
+      "displayName": "Ryse: Son of Rome",
+      "description": "Perks from Ryse: Son of Rome.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_ryse_son_of_rone",
+      "name": "Ryse: Son of Rone",
+      "displayName": "Ryse: Son of Rone",
+      "description": "Perks from Ryse: Son of Rone.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_s_t_a_l_k_e_r",
       "name": "S.T.A.L.K.E.R.",
       "displayName": "S.T.A.L.K.E.R.",
@@ -18866,6 +19252,15 @@
       ]
     },
     {
+      "id": "source_saint_seia_omega",
+      "name": "Saint Seia: Omega",
+      "displayName": "Saint Seia: Omega",
+      "description": "Perks from Saint Seia: Omega.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_saint_seiya",
       "name": "Saint Seiya",
       "displayName": "Saint Seiya",
@@ -18889,7 +19284,8 @@
       "displayName": "Saint Seiya Episode G",
       "description": "Perks from Saint Seiya Episode G.",
       "categories": [
-        "dojo"
+        "dojo",
+        "fighter"
       ]
     },
     {
@@ -18898,7 +19294,8 @@
       "displayName": "Saint Seiya Lost Canvas",
       "description": "Perks from Saint Seiya Lost Canvas.",
       "categories": [
-        "dojo"
+        "dojo",
+        "fighter"
       ]
     },
     {
@@ -18907,7 +19304,8 @@
       "displayName": "Saint Seiya Omega",
       "description": "Perks from Saint Seiya Omega.",
       "categories": [
-        "dojo"
+        "dojo",
+        "fighter"
       ]
     },
     {
@@ -18925,7 +19323,8 @@
       "displayName": "Saint Seiya : The Original Series",
       "description": "Perks from Saint Seiya : The Original Series.",
       "categories": [
-        "dojo"
+        "dojo",
+        "fighter"
       ]
     },
     {
@@ -18935,6 +19334,15 @@
       "description": "Perks from Salt & Sanctuary.",
       "categories": [
         "darkest_tome"
+      ]
+    },
+    {
+      "id": "source_samurai_7",
+      "name": "Samurai 7",
+      "displayName": "Samurai 7",
+      "description": "Perks from Samurai 7.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -18953,7 +19361,26 @@
       "description": "Perks from Samurai Jack.",
       "categories": [
         "companion",
+        "fighter",
         "forge"
+      ]
+    },
+    {
+      "id": "source_samurai_of_huyga",
+      "name": "Samurai of Huyga",
+      "displayName": "Samurai of Huyga",
+      "description": "Perks from Samurai of Huyga.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_samurai_of_hyuga",
+      "name": "Samurai of Hyuga",
+      "displayName": "Samurai of Hyuga",
+      "description": "Perks from Samurai of Hyuga.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -19148,6 +19575,15 @@
       ]
     },
     {
+      "id": "source_scissor_seven",
+      "name": "Scissor Seven",
+      "displayName": "Scissor Seven",
+      "description": "Perks from Scissor Seven.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_scooby_gamers",
       "name": "Scooby Gamers",
       "displayName": "Scooby Gamers",
@@ -19248,10 +19684,11 @@
     },
     {
       "id": "source_sekiro_shadows_die_twice",
-      "name": "Sekiro: Shadows Die Twice",
-      "displayName": "Sekiro: Shadows Die Twice",
-      "description": "Perks from Sekiro: Shadows Die Twice.",
+      "name": "Sekiro Shadows Die Twice",
+      "displayName": "Sekiro Shadows Die Twice",
+      "description": "Perks from Sekiro Shadows Die Twice.",
       "categories": [
+        "fighter",
         "grimoire",
         "grimoire_yggdrasil_personal"
       ]
@@ -20089,6 +20526,15 @@
         "forge",
         "grimoire",
         "reliquary"
+      ]
+    },
+    {
+      "id": "source_soul_calibur",
+      "name": "Soul Calibur",
+      "displayName": "Soul Calibur",
+      "description": "Perks from Soul Calibur.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -21175,6 +21621,7 @@
       "displayName": "Sundered",
       "description": "Perks from Sundered.",
       "categories": [
+        "fighter",
         "grimoire",
         "grimoire_yggdrasil_personal"
       ]
@@ -21386,6 +21833,7 @@
       "description": "Perks from Sword & Sorcery.",
       "categories": [
         "companion",
+        "fighter",
         "forge",
         "primordial_flames"
       ]
@@ -21406,6 +21854,24 @@
       "description": "Perks from Sword Art Online SB.",
       "categories": [
         "forge"
+      ]
+    },
+    {
+      "id": "source_sword_of_the_stranger",
+      "name": "Sword of the Stranger",
+      "displayName": "Sword of the Stranger",
+      "description": "Perks from Sword of the Stranger.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_swords",
+      "name": "Swords",
+      "displayName": "Swords",
+      "description": "Perks from Swords.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -21485,6 +21951,7 @@
       "description": "Perks from Tales Of Demons and Gods.",
       "categories": [
         "dojo",
+        "fighter",
         "gardens"
       ]
     },
@@ -21641,7 +22108,8 @@
       "displayName": "Tekken",
       "description": "Perks from Tekken.",
       "categories": [
-        "dojo"
+        "dojo",
+        "fighter"
       ]
     },
     {
@@ -23718,6 +24186,15 @@
       ]
     },
     {
+      "id": "source_thunderbolt_fantasy",
+      "name": "Thunderbolt Fantasy",
+      "displayName": "Thunderbolt Fantasy",
+      "description": "Perks from Thunderbolt Fantasy.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_thundercat",
       "name": "Thundercat",
       "displayName": "Thundercat",
@@ -24085,6 +24562,15 @@
       ]
     },
     {
+      "id": "source_triune_scriptures",
+      "name": "Triune Scriptures",
+      "displayName": "Triune Scriptures",
+      "description": "Perks from Triune Scriptures.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_tsf_world",
       "name": "TSF World",
       "displayName": "TSF World",
@@ -24107,6 +24593,15 @@
         "dojo",
         "grimoire",
         "grimoire_yggdrasil_personal"
+      ]
+    },
+    {
+      "id": "source_tunic",
+      "name": "Tunic",
+      "displayName": "Tunic",
+      "description": "Perks from Tunic.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -24587,6 +25082,15 @@
       ]
     },
     {
+      "id": "source_vinland_saga",
+      "name": "Vinland Saga",
+      "displayName": "Vinland Saga",
+      "description": "Perks from Vinland Saga.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_violated_hero_series",
       "name": "Violated Hero Series",
       "displayName": "Violated Hero Series",
@@ -24612,6 +25116,15 @@
       "description": "Perks from Vitamin Plus.",
       "categories": [
         "debauchery"
+      ]
+    },
+    {
+      "id": "source_volgarr_the_viking",
+      "name": "Volgarr the Viking",
+      "displayName": "Volgarr the Viking",
+      "description": "Perks from Volgarr the Viking.",
+      "categories": [
+        "fighter"
       ]
     },
     {
@@ -26551,6 +27064,15 @@
       ]
     },
     {
+      "id": "source_worldless",
+      "name": "Worldless",
+      "displayName": "Worldless",
+      "description": "Perks from Worldless.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
       "id": "source_worm",
       "name": "Worm",
       "displayName": "Worm",
@@ -26815,6 +27337,24 @@
       "categories": [
         "grimoire",
         "grimoire_yggdrasil_personal"
+      ]
+    },
+    {
+      "id": "source_yomi_hudstle",
+      "name": "YOMI Hudstle",
+      "displayName": "YOMI Hudstle",
+      "description": "Perks from YOMI Hudstle.",
+      "categories": [
+        "fighter"
+      ]
+    },
+    {
+      "id": "source_yomi_hustle",
+      "name": "YOMI Hustle",
+      "displayName": "YOMI Hustle",
+      "description": "Perks from YOMI Hustle.",
+      "categories": [
+        "fighter"
       ]
     },
     {

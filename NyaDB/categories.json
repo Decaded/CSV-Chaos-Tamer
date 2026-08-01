@@ -145,6 +145,18 @@
       ]
     },
     {
+      "id": "fighter",
+      "displayName": "Fighter",
+      "defaultVersion": "default",
+      "versions": [
+        {
+          "id": "default",
+          "displayName": "Fighter",
+          "database": "fighter"
+        }
+      ]
+    },
+    {
       "id": "forge",
       "displayName": "Forge",
       "defaultVersion": "default",

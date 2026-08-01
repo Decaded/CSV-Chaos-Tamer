@@ -1,0 +1,890 @@
+CP Cost,Name,Jumpdoc,Chapter,Description,
+Free,Mind Over Matter Over Muscles,Baki: Son Of Ogre,Mystic Powers,"As of late, fighters have begun turning to the mind to transcend the limits of their flesh. Whether that be controlling their biochemistry, creating illusionary items or opponents that others can see and even feel, or tricking their body to exhibit inhuman strength or speed. You possess the base potential to learn or develop any such techniques, but doing so from scratch takes talent, inspiration, and years of hard work. You may choose one of the specialties marked below to determine what techniques naturally come easy to you.
+
+Ares – You have an easier time replicating animals through your mind. Any technique, whether it be opponents for shadowboxing, or developing new stances and techniques, etc. so long as you draw primary inspiration from an animal, maybe even extinct or fictional animals as well.
+
+Leo – You specialize in projecting your imagination over a long distance. Perhaps your illusions can affect those for miles around you or be perceived indirectly through video. However, this doesn’t help you much with creating techniques to project in the first place.
+
+Sagittarius – You can use your imagination to trick your body to exhibit inhuman feats of strength or speed. There is almost no limit to how far this can go but pushing past your limits like this could cause severe and permanent damage if you’re body isn’t strong enough to handle it.
+
+Taurus - Perhaps this is more straightforward use of willpower. You have a stubborn resistance to influences on your mind. You won’t be sucked into your enemies’ illusions as easily, and even drugs struggle to affect your mind. This specialty is lacking in versatility.
+
+Virgo – You have a talent for projecting, well, yourself. You could say you leave an impression on someone’s psyche. Maybe you’re able to enhance your aura to intimidate enemies or influence your allies to see a phantom of you to give emotional support when they’re struggling.
+
+Capricorn – A useful form of pessimism. You don’t pull any punches with your psyche. This could entail adding imaginary weights when you run, or imaginary opponents that won’t show you any more mercy than the real thing. Naturally this provides a very real boost to your training.
+
+Gemini – By seeing someone fight, you are able to get a feel for their aura. With that you can replicate them as an opponent to shadowbox, with all their techniques, habits, and power intact. However, you won’t be able to copy the aura if the gap between you and them is far too wide.
+
+Libra – You subconsciously craft prophetic visions based on your sixth sense and personal experience, such as impending danger, or an opponent’s value, or their fighting style, long before you could have consciously learned them. Rarely, this can cause others near you to see visions of their own.
+
+Aquarius – You are able to develop techniques to force your body to release biochemicals, like adrenaline or dopamine at will. Techniques of this nature can’t be finalized without some substantial mental shock, making them harder to develop than other mental techniques.
+
+Cancer – Through inhuman willpower, you can fight against your body’s own reflexes and warning signs. Letting you keep fighting, even through extreme agony, or follow through with attacks you know will result in injury. As long as you can still move, you can still fight at max output.
+
+Scorpio – You specialize in weapons. With any weapon you have sufficient mastery of, you can create illusions of it so realistic that even those who have never been cut can feel your blade slice through them, and it’ll hurt just as much as the real thing.
+
+Pisces – Your imagination defies logic, literally. You have a special talent for creating imaginary constructs that are difficult to even conceptualize, like a rikishi who “falls in every direction” or a liquid that is boiling hot and freezing cold at the same time.
+
+Can Be Bought Multiple Times, However Further Puchases Cost 200 CP",
+Free,FITS Mode,Fights in Tight Spaces,Mystic Powers,"Fights-In-Tight-Spaces Mode grants you the ability to pause time during combat to plan out your actions. While in this mode, you gain a third-person view of the space you are in, allowing you to view an entire room or rooftop or similar space and all enemies within it. You can see some basic information about each enemy, enough to tell you how they are going to attack or move, whether they are prepared to counter attack you, etc. While you are in this mode, you will also gain a few bits of inspiration for potential actions you could take, such as unleashing a front kick or grappling with an enemy, and you can mentally plan out these actions, potentially chaining them together, and then launch directly into said chain of actions when you exit FITS Mode. Once you exit FITS Mode, it will take around six to ten seconds before you can re-enter it again.",
+Free,Shield,Worldless,Mystic Powers,"All beings of this world are able to create force fields to block attacks. Shields can block physical or magical attacks, but not both at the same time. You can perform a perfect guard by raising your block the instant an attack connects, which negates the attack without damaging your shields. After blocking enough attacks this way, you will be able to prepare a guard impact that allows you to retaliate against the next attack.
+
+Alternatively, you can choose an unconventional defensive strategy based on evasion and parrying. You can enter a defensive stance that blocks both physical and magical attacks, but only for a portion of their damage. With perfect timing you can evade an attack, but this is difficult to use against rapid consecutive attacks.",
+Free,Mobility,Worldless,Mystic Powers,"You have acquired a special mobility technique. You have a great deal of freedom to decide how this manifests. Perhaps you can run on water and up walls with enough momentum, or use a claw of energy to catapult yourself across gaps, or dash short distances horizontally or vertically, etc.
+
+Further Puchases cost 100 CP",
+Free,Instant Reactions,YOMI Hustle,Mystic Powers,"You can essentially pause time for up to 30 seconds. You can't move during this time except to look around, but you can use this time to decide your next action. Once you've decided or time is up, you'll immediately execute that action. This does have a slight cooldown, but if you succeed with your last action, that cooldown is gone. Oh, and you'll also get the ability to predict the results of the action you're performing with 95% accuracy.",
+50,Daoyin Massage Technique,Tales Of Demons and Gods,Mystic Powers,"This ancient technique was forgotten by modern people. By focusing your Soul Force in the palms of your hands, you can heal superficial wounds, and heal damage done to a person's Soul Realm by a small amount.
+Also works great for giving relaxing massages. Post-Jump this gives you the ability to heal metaphysical injuries other beings might suffer from, but the effectiveness diminishes for a given injury the more you use this Perk.",
+100,Nasu's Graveyard,Saint Seiya: Lost Canvas,Mystic Powers,"The dead stay dead. So is the rule of the underworld. But even dead, they may be useful to some. You can, if given a corpse and providing its soul is in the underworld and no more powerful than that of a normal human, chain the said soul to your will and call it back to its physical shell to animate it. It will then be a puppet to you, as long as you have the energy to maintain control. The soul may be able to speak for itself, but the body will not be able to resist your command.",
+100,Elemental Proficiency,Saint Seiya: Omega,Mystic Powers,"In the wake of the cataclysmic clash between Athena and Mars thirteen years ago, a profound shift occurred in the powers bestowed upon the Saints. Henceforth, each Saint gained the ability to manipulate at least one element, tapping into the primordial forces of nature with newfound mastery. Among the elemental choices available, including fire, water, earth, lightning, wind, light, and darkness.choses one.",
+100,Giant's Will,Saint Seiya: Episode G,Mystic Powers,"Much like the giants of old, you have a connection beyond the norm with an aspect of nature.
+Perhaps lightning, perhaps lava or perhaps the dirt or stone. Your chosen aspect is something that
+you are able to create and control through your cosmo, as well as to feed on that aspect in order to
+replenish your own energy, particularly given this manipulation of nature has no cost to you. Your
+powers over it will grow as your cosmo does and you may buy this multiple times to receive more
+than one such aspect. Taking this also gives you an intimate connection with nature around you,
+such that you are always far more aware than any human could possibly be of the natural life around you.",
+100,Basic Ability,Scissor Seven,Mystic Powers,"You possess a weak special ability with a time and range limit. This can be elemental
+manipulation, paralysis with touch or telekinesis for example. These abilities can be
+trained. You can purchase this multiple times for different abilities.",
+100,Sheele,Anima Beyond Fantasy,Mystic Powers,"The world is not one made for your kind. Artifacts are forged for wizards and warriors, and few for you. That will
+not stop you, however. By taking a gemstone, you can imbue it with potential, cutting and polishing and
+changing it until it amplifies the psychic abilities of the one who bears it, making the powers of the
+mind easier to call upon and stronger when used.",
+100,Hellfire,Darkstalkers,Mystic Powers,"It’s a common skill, but fiendishly useful­ the ability to summon and cast forth hellfire from your hands,
+feet or mouth. The nature of this flame is magical, meaning that it burns much more than it should. Magically
+resistant targets of course weather the damage better.
+When you first learn this skill, you require a bit of concentration to summon a fireball, but with practice,
+you may seamlessly integrate these magical blasts into martial arts or other fighting styles.",
+100,The Chain,Furi,Mystic Powers,"The range of your melee weapon attacks reach far beyond the end of your
+weapon, making it possible for you to cover most of a fairly sizable arena if you wanted to. By
+throwing a melee weapon, you can have it act as a boomerang, spinning rapidly through the air
+as it reaches its target before returning to you. This perk also grants you the ability to generate
+electricity from your hands, either to attack directly or to infuse your weapon with energy to
+make your blows just a little more painful.",
+100,The Beat,Furi,Mystic Powers,"You can now produce basic danmaku to fire at your enemies, a small variety of
+spherical energy bullets. Your arsenal consists of mundane blue shots, slightly larger yellow
+shots, pink shots that are drawn to the target until they pass by, green shots that turn into small
+bundles of healing energy if they’re destroyed, and simple shockwaves that travel across the ground.",
+100,Hear My Roar,Bloody Roar,Mystic Powers,"The more you witness abuse and prejudice, the more your anger mounts until you can't help but let it out in a horrific, monstrous shout. This shout knocks those weak-of-will unconscious, and leaves others still incapacitated or shocked.",
+100,Binding Creation,Cradle,Mystic Powers,"As a Sacred Artist uses a technique repeatedly, it becomes easier and more ingrained into their soul, to the point that when they die, their Remnant carries a Binding with the ability to use that Technique. With this, you'll reach that level of expertise with one Path Technique instantly. You can develop the technique however you like, but keep in mind that most Paths limit themselves to one or two techniques of each ""type"". Striker Techniques are your typical beams, blasts, and other direct attacks, and good for distance engagement. Enforcer Techniques enhance your body or soul in some way, and are typically good in close combat. Forger techniques involve turning your Madra into a solid substance, and can either be used for attacks, defense, or utility depending on the type of technique. Ruler Techniques involve affecting the Vital Aura around you in some way, and usually come with wide-ranging effects, such as creating a field of illusions, causing sword aura to solidify into temporary blades to deflect blows, etc. What you design as a Technique is up to you, but keep in mind that most Techniques don't grow truly powerful until significant Advancement has occurred, even with skill.",
+100,Saint-Rank Magician,Mushoku Tensei,Mystic Powers,"Magic is the most common way for a mage to be useful in battle and combat, and you manage to learn and
+reach an incredible amount of proficiency and mastery in Attack-Magic, Healing-Magic, and Summoning-
+Magic Category-Types of the Six-Faced World such that you could be considered a Saint-Rank in this Three
+Main Categories of Magic. While this also gives you all the knowledge of the spells of the Three Main
+Categories of Magic you only master them at Saint-Rank of the said spells. This also gives you Truncated Spell-
+Casting which allows you to shorten the incantation for any magic-spells that you have to five seconds or less.
+This elevates your Mana Reserves to the point that you can cast a dozen Saint-Rank Spells before being
+exhausted. You also gained an incredible innate talent at learning and mastering any Powers though this is more
+prominent when you’re learning some type of magic which would allow you to reach Saint-Rank starting
+scratch within a year’s amount time though it would be faster if you have a master to learn from or if you
+already have a foundation for it.",
+100,Arcane Tricks,Thunderbolt Fantasy,Mystic Powers,"You can turn invisible and create illusionary clones that can replicate
+your voice, though they are unable to interact with the environment or people. When hit,
+these clones will dissipate into thin air.",
+100,Ki Based Sorcery,Thunderbolt Fantasy,Mystic Powers,"You can intertwine your Ki with your sorcery to shoot powerful Ki
+blasts from your hands and weapons. These magic empowered Ki Blasts are strong
+enough to knock a normal man off their feat and onto the ground in severe pain, with
+consecutive blasts, easily doing enough concussive damage to kill them.",
+100,Thunder Lord,Duel Monsters - Duel Terminal I,Mystic Powers,"You may not yet be chieftain, but you are certainly worthy of such honor. Your strength is immense, allowing you to rip metal asunder with ease, and your endurance is not far behind. What is truly special is that the heavens respect this might. Even with this alone, you would be able to command a lightning bolt to fall down upon your foes with reasonable effort, or redirect a more mundane electric current with some ease. But as your physical strength grows, this shall improve alongside it. Not just the respect you command over the storms, as all abilities you may hold concerning the generation and control of electricity and lightning shall rise alongside your might. Your physical strength, too, shall rise as your command over these elements grows. Yet power alone can not command a tribe. Your power, all of it, shall grant you a charisma and raw force of personality directed at those who come from civilization and yet choose to live wildly, such as the various birdmen living in the Mist Valley. More than that, those who pledge themselves to you shall find that your charisma will aid them in surviving and thriving in such conditions, even if they were but a coddled child. Though you may yet choose to leave it, the Mist Valley would never forget a ruler such as you.",
+100,Crimson Arts,Duel Monsters - Duel Terminal I,Mystic Powers,"The pure arts of flame manipulation of the Flamvell tribe are yours. Conjuring flames able to melt steel, corralling wildfires, even forming shapes of it for communication or concentrating it into smaller yet hotter forms, all such are possible if you have skill, and you are a very skilled artisan. Even so, the arts have reached the level of complexity they have thanks to the next generation building upon the works of the previous, and you’ve taken this to heart. All abilities you hold which deal in the creation or control of flames, even ones more metaphorical or metaphysical than simple pyrokinesis, can be taught to othes. Whether they are magical, biological, or stranger in nature, the passion of flames shall be accessible to all should you wish it. This will not grant them any unrelated aspects, however, such as the rest of a magical system which scarcely touches upon flames. Lastly, your own skill and power in the control and creation of flames shall always be able to improve, no matter how great you may become or what their old limits may have been. Let the flames rise higher and higher.",
+100,Fiendish Arts,Duel Monsters - Duel Terminal I,Mystic Powers,"The Crimson Arts are well and all, but you’ve learned something much more powerful, much more rewarding. These techniques have no true name, but they are the trademark of the one known as Fiend... and, perhaps, you shall supplant him as the leading devil. The Crimson Arts have no particular cost, but these Fiendish Arts have a much greater one. After all, one can not expect to achieve greatness without toiling for it. The incineration of spirit is the heart of all this. By grasping the soul and setting it on fire, you are able to create flames of great potency without having to spend years training. Of course, the greater the power of the kindling used, the greater the fires. But souls can not be extinguished so easily. Those you destroy in the name of your own power will clad your body and spirit, forming spiritual ashes that will permanently increase your power and skills in the arts of flame by a fraction of the original potency of the fire you created using them. All arts of flame, of course, whether they are a type of magic like the one you’ve acquired now or something born of your biology. While it’s nothing particularly special, you’ve also learned to rip the souls out of the willing or non-resistant and safely hold them in order to actually fuel these abilities.",
+100,Enemy Catcher,Duel Monsters - Duel Terminal I,Mystic Powers,"A new initiative within the Ally of Justice research departments was created after a few Worms were captured and studied. That of poaching Worms, rather than simply destroying them, in order to harness the limitless potential of their biology. You were designed as the ultimate Worm hunting mechanism, using the Worms themselves as a large part of your chassis... which has yielded interesting results. The biology of your cyborg body took over most of your mechanical components, meaning you are much closer to a proper Worm than an actual Ally of Justice. What does this mean to you? That you are able to exhibit a certain Zero’s key ability... domination and absorption. By touching an entity that is the same basic type of being as you, you can enter a contest of wills against it. Should you succeed, you’ll be able to absorb their body entirely and subsume their mind. Should they succeed, they’ll simply be able to slink away unharmed. I’m not entirely certain your superiors would appreciate you being capable of doing this.",
+100,The Darkest Spellcaster,Duel Monsters - Duel Terminal I,Mystic Powers,"The sorceries wielded by surface dwellers are so quaint. But you know what true power is, and have cultivated it for much longer than most of the playthings can even live for. Life, that is. Beginning with a simple formula that spends life in varying quantities, countless spells can be used by those with the will and the skill to pay the price. Curses of bad luck, entropic auras, enfeebling rays, hellish flames, damnable colds, auguries to claim information from naught, rituals to raise the dead as minions or transcend your mortal coil, even healing. True, the greatest spells you could one day create might have exorbitant prices, but it’s not like you’re paying with your life. Besides... you’re not called the “Darkest Spellcaster” because you have an inflated ego. Magics like this, the darkest and most disgusting arts one could delve into, adore to be used by you. Prices and costs are cut down by large fractions, and the actual effects are dozens of times greater than what someone of your level should be capable of. The deepest abyss might be the first step to damnation for your foes, but to you, it is the greatest friend one could ask for.",
+100,Gishki Innate,Duel Monsters - Duel Terminal I,Mystic Powers,"The Gishki are the premier users of Ritual Summoning in this world, but do so through means completely different from what most if not all ritualists use. By using Aquamirrors, they hypnotize themselves, bringing extradimensional entities into their own body to wield their power themselves. If one is not prepared, this can cause severe damage to one’s personality, or simply drive them berserk until the transformation recedes. Thankfully, you are far from a neophyte, and can reliably summon entities into yourself powerful enough to destroy houses with ease. Their exact means vary, as does any miscellaneous abilities they might hold, such as flight or swimming. This gives you great versatility. Lastly, even after leaving this world, you’ll retain the ability to summon these creatures.",
+100,Magical,Worldless,Mystic Powers,"You are able to use magic to attack. Magic falls into 4 elements. Ice, lightning, fire, and wind.
+
+Can be Purchased Once for each Element",
+100,Counter,Worldless,Mystic Powers,"You have some method of dealing retaliatory damage at the instant an enemy attacks. This is different from a parry. Rather than using perfect timing and dexterity to reflect an attack, you automatically attack the enemy in the same instant as the attack. This could be an extra limb, acid-filled pustules, some kind of offensive energy pulse, etc. You still take the damage, but it does wonders for getting some cheap shots at an enemy and breaking their concentration or attack patterns",
+100,Distortion,Kajiri Kamui Kagura,Mystic Powers,"You were born with or manifested a Distortion. Many people fear you and in some provinces
+you would be put to the death, but the Empire of Shinshu has a use for you. Those with
+Distortions show such great supernatural potential that they are some of the most effective
+weapons in the lands. Nearly all the generals of the Eastern Expedition possess a distortion.
+Example distortions include being able to absorb luck and redirect bad luck so that your
+enemies might be struck by lightning on a clear day, or an avalanche might consume an enemy
+army marching towards your lands. Another example was a person with a distortion that would
+let him cut through anything, including concepts. Your Distortion can work on most things save
+those that are Gudou or Hadou gods. They are completely immune to any manifestation of your
+distortion, unless you also possess a Taikyoku value from being a Hadou or Gudou as well.",
+100,Breast Slice Technique,Manyuu Hikenchou,Mystic Powers,"The Manyuu Clan’s bread and butter. With this technique, their
+swords can pass through their enemies’ bodies and cut their spirit, slicing the tits from their
+chest. Though this technique lacks the gore associated with normal swordplay, the people of
+this world consider depriving someone of their breasts to be equally barbaric. Still, few can
+argue with the harsh dominance the Manyuu have created by eliminating their competition.
+Master this technique, and you may find a way to target and diminish other attributes.",
+100,Inspiration,Tunic,Mystic Powers,"While having a particular item is nice, sometimes all you can find is a card of it. Savvy
+Ruin Seekers have found a way to utilize these simple images, perhaps with a little help from a wishing well.
+It’d have more of an effect if you had the genuine article, even an approximation can
+help, but by viewing an image of an item, memorizing it, and imagining using it you can
+actually manage to gain a bit of its benefit. Having an image of a bracer can cushion
+blows, a peril ring can grant a boon when your health is low, etc. The effects are just
+reduced compared to the real item. You can use a single card this way at a time, though
+with some additional practice or help, you can get up to five.",
+100,Better Predictions,YOMI Hustle,Mystic Powers,"Now, you can visualize the results of any action during the 30 second reaction time. You can tell what would happen if your enemy jumped and you dropkicked them, along with if they can react.
+Requires ""Instant Reactions"" to Purchase",
+100,Breaking the Law,YOMI Hustle,Mystic Powers,"You can move mid-air. Essentially, you can kick off the air, and use this for either air dashing or double jumps. Normally, this should break the laws of physics and at best kill you and everyone around you. However, you're a special little anarchist, and ignore that. Because it's cool.",
+100,nothing personnel kid,YOMI Hustle,Mystic Powers,"You can teleport. Why? I have no clue! Maybe you're just that fast, maybe it's magic, who knows and who cares. The range is limited, but you can increase it through practice. If you're looking for an exact number, too bad. Unfortunately, this does have a startup, and you will take a bit longer to act after finishing.",
+150,Transmute Unto,Nine Sols,Mystic Powers,"A technological modification to the Talisman System. By successfully destroying a foe with a talisman detonation, you may reap some benefit from it, converting their qi into something to be absorbed or salvaged. You may only have one of these active at any time.
+
+Life: A successful detonation draws out a small amount of healing qi from your fallen enemy. You will automatically absorb this life force, which will restore your vitality and heal minor injuries.
+
+Wealth: A successful detonation only does as much damage as needed to destroy the enemy, leaving more to be salvaged. Fallen enemies will have more Jin to be taken from their corpses, or money in other jumps.
+
+Qi: A successful detonation draws out the qi of your fallen enemy, which is then absorbed into your reserves. With every enemy killed by a talisman, you gain one qi charge.
+
+Requires ""Fangshi Techniques"" to Purchase",
+200,General of Wind and Hill,Asura's Wrath,Mystic Powers,"The will of the world has given you authority over the little spirits of the land. You may command
+lesser spirits of the world, including a number of minor Gohma of with a total impurity of 1000 or below. You
+also improve your own spiritual powers where applicable. This power applies to spirits of other realms as well, though you might get in trouble with their superiors.
+Impurity Level: 1,000",
+200,Best of Men?,Grant Morrison's 18 Days,Mystic Powers,"Great Warriors Take What they want, they don’t ask for it like beggars.
+
+And neither do you. You have it in you to conquer, oh warrior king. So long as you and another
+freely agree as to something being the stakes beforehand, you find that you can simply ‘take’
+things that you desire to possess via a contest of skill.
+
+Be it wealth, weaponry, the loyalty of armies or even whole kingdoms, bonds of honor and their
+own vows will force the parties in question to honor the terms of whatever agreement you
+manage to strike. Magical vows transfer, biometric recognition in Astras and other technology
+recognises you as the authorised user, so on and so forth. Of course, this works both ways, for
+if you lose the challenge, you give up whatever was wagered as well. If you wager something
+fiat backed and lose, it will not return to you once you move on.",
+200,Legion of the Damned,Saint Seiya: The Original Series,Mystic Powers,"The soldiers of Hades are no strangers to the dead, likely having already been deceased themselves before becoming a true Specter. As such, you may summon ghosts and mindless undead by focusing your Cosmos outward, creating an army of the shades of the damned at your will. They will largely be disposable cannon fodder, lacking the spark of Cosmo that the living or other Specters have...but you will have no shortage of available minions this way.",
+200,Genro Maoken,Saint Seiya: Episode G,Mystic Powers,"You learnt this secret technique of the mind from a cloaked man, who forced the information into you and then left without a word. It is a mind control technique, one done by pitting the force of your cosmo against the power and mental will of your target. If you can succeed, you’ll be able to control their mind and alter it as you see fit. You see, the Genro Maoken is special. If you can manage to entirely defeat the opposition of your foe, the mind control will become permanent and irresistible. Regardless of their powers, if they fail once at entirely blocking it, they’ll never be able to throw it off and will become an eternal thrall. Even a small amount of resistance remaining would allow this to be...well, resisted.",
+200,Next Gorgon,Saint Seiya: Episode G,Mystic Powers,"There’s a fair bit of monster blood within you, specifically that of one of the Gorgon Sisters. Your
+eyes now gain the same magical properties that those snake women possessed, able to turn to stone
+any living thing that looks at your eyes. Those with great Cosmo, at least as strong as your own, can
+potentially resist but even then they’ll find that bits and pieces of their body to turn to stone with
+each look into your eyes. Anyone more than a little weaker than you will be petrified with a single
+glance, much like the mythical battles of old would have it. You are however able to deactivate this
+effect, if you wish to protect your allies from it.",
+200,Weight of the World,Saint Seiya: Episode G,Mystic Powers,"It’s a very satisfying thing, to be able to make the sinners feel the true weight of their transgressions.
+You are able to turn the weight of sin upon any living being that you can see into pure gravity force
+that crushes down on them. The more sin, the greater the weight they suffer from and the greater
+your cosmo, the greater the effect of this ability. Even should he have deeply violated your moral
+beliefs, you are unlikely to make a Saint bow unless you are as strong as they are. But for those
+beneath you already, you could crush the life out of them en masse. This ability takes no energy from you to use.",
+200,Polymorphing,Samurai Jack,Mystic Powers,You can transform people into harmless animals. Casting this spell on someone who’s already transformed will revert them back to their original form. Individuals and creatures with their own arcane abilities or the power to resist magic may prove immune to this spell.,
+200,Oo -Burp-,Live A Live,Mystic Powers,"You now have the power of farts on your side. No, wait, please don't go!
+Basically, this perk allows you to release a toxic gas (which you are immune to) on-command. I'll
+leave it at that, okay? It doesn't HAVE to be a fart joke. It could be, like, a breath weapon or
+something. See? Compromise!",
+200,Mother Image,Live A Live,Mystic Powers,"Freudian psychologists hate him! Induce an Oedipus complex in
+anyone with this simple trick! You've learned how to use psychic powers to forcibly flood your
+opponents' minds with nude images of any mother figures in their lives, without actually having
+to think up those images in your own mind first. Not only is this a hilarious prank to pull on
+people, it's also great as a distraction and difficult to trace back to you. If the target does not
+have a mother figure in their life, this ability does nothing.",
+200,Cleansing Bloodline (Exorcist),Tekken,Mystic Powers,"For an additional 200CP you can weaponize it similar to Exorcists like Claudio Serafino.
+
+Requires ""Cleansing Bloodline"" to Purchase",
+200,A Hundred Flies,Joujuu Sejin Mushibugyo,Mystic Powers,"Most, if not all, Mushibitos have some power that sets them beyond the mortal men, aside
+from their usual fare of course. From natural perfumes that can alter the minds or senses of
+others, the ability to control an element or even the ability to create clones from parts of their
+body. As expected, you too have something on that level, most likely linked to the type of
+insect you bonded with.",
+200,Great Divine Intervention,Okami,Mystic Powers,"You can force evil influence such as a curse into a shape you can beat up. Kill it, and whatever it
+was affecting will be freed.",
+200,Traveler From Another Dimension,Swords,Mystic Powers,"You are a stranded traveler from a neighboring dimension. For all your perks, the word ‘sword’ can be changed into another weapon or tool. once per month. Maybe you came from the Axe-Dimension and are a renown Axesmith. A cook from the bow-dimension. Or maybe you are a gun-toting pistolier from the Gun-dimension ready to shoot these swordsmen.",
+200,School of Magic,Swords,Mystic Powers,"Fire, Water, Air, Ice, Necromancy, Life, Apple, and so much more. The universe brims with an endless array of magic just waiting to be discovered. You have a specialty for a specific school of magic, where you are twice as potent within your specialty and it takes half the amount of arcane energy to use.
+
+Comes with an outfit that screams your specialty towards others. A fire wizard with a dashing red robe, an apple wizard with plaid jacket emblazoned with with tasteful motifs, and a necromancer an emo black cloak.",
+200,Advanced Ability,Scissor Seven,Mystic Powers,"Your special ability becomes stronger and can now be of more esoteric nature. Things like
+stopping time for a second, spatial manipulation in an area and healing small wounds fall
+under this. This can also be a simple upgrade to the Basic Ability where limits would be
+relaxed and stretched. For example for fire it would be possible to create hotter flames,
+have finer control over them and produce more of them quickly. These abilities can also
+be trained and improve faster than basic ones. If you’ve purchased multiple you’ll have to
+apply this to only one of them unless you purchase this multiple times as well.
+
+Requires ""Basic Ability"" to Purchase",
+200,Transformation,Scissor Seven,Mystic Powers,"You can, for a limited amount of time that can be increased with training, transform into a
+superpowered form in which all animal traits and physical attributes increase by a
+substantial amount, this also boosts your combat abilities.",
+200,My Heart is Open,Fist Of The North Star,Mystic Powers,"You do not need eyes to see. Your training allows you to utilize your ki
+in a variety of ways. Obviously as a member of the Nanto Sects you can make slashing waves of
+energy and use an empty hand to cut through steel with this power, but you can also use it to see in the
+dark, or after tearing out your own eyes.",
+200,Arcane Assault,Darkstalkers,Mystic Powers,"Hinging on your supernatural physiques and powers, these techniques allow you to create blades of
+shadow around your striking limbs, or soul­bruising energy for strikes. You gain super and special moves
+aspected to your monstrous nature.",
+200,Foresight,Furi,Mystic Powers,"Your combat instincts have been honed to perfection, to the point where you
+can easily see where your opponent’s strikes will land before they make an attack. Even if the
+reach of their attack extends far beyond the physical limits of their weapon, you can see the
+area it will cover before they make it, giving you ample time to dodge or prepare to parry. Even
+a sniper lining up their shot can be detected, as your instincts pick up their killing intent and
+provides you with a visible representation of their shotline, even if you didn’t know where they
+were before they took aim.",
+200,The Scale,Furi,Mystic Powers,"You can now imbue your projectile attacks with a toxic energy, causing them
+to glow with sinister green light. This poison contaminates the minds of those they strike,
+causing their vision to warp and blur. You can also create semi-tangible illusions that can
+produce any danmaku or similar ranged attacks that you can produce. These illusions can
+endure only a few hits before they break. If taken with The Beat, you gain the ability to fire
+danmaku that leave temporary glowing trails behind them, using them to box your enemies in
+and limit their movements.",
+200,The Hand,Furi,Mystic Powers,"You are capable of projecting a field around yourself, trapping a single enemy
+in single combat with you. This power restricts the target’s ability to move away from you,
+preventing them from exiting a field with a ten meter radius centered on your person. If
+purchased with The Chain, you can also produce sustained energy fields either around your
+person or the perimeter of the battlefield, limiting the enemy’s ability to get closer or move away
+from you as you please. These area-denial fields can be maintained for a few minutes before
+they need to be lowered. If purchased with Parry, projectiles deflected by a perfect block are multiplied.",
+200,Taunting,Bloody Roar,Mystic Powers,"You have a variety of what we'll call taunt buttons,' and when you keep one in mind, it has a desired effect against a taunted opponent. Whether you want them driven into an irrational anger, stunned by audacity, or driven off by rudeness, your taunts have a visible effect on an opponent's psyche, even damaging it to a degree.",
+200,Scorpion Queen,Thunderbolt Fantasy,Mystic Powers,"With magic you are capable of enchanting and binding insects to
+your will which allows you to telepathically control them and direct them towards your
+enemies. Your insects possess a special venom that instantly paralyzes and kills their
+targets on contact. Powerful individuals bitten by these creatures can resist this venom,
+but repeated stings will still slow them down and weaken their combat prowess and
+mobility. The poison from your insects can be harnessed and then spread across your weapons if you so desire.",
+200,Dishonorable Sorcery,Thunderbolt Fantasy,Mystic Powers,"You’ve begun to dig deep into the more esoteric arts of sorcery. Some would call the magic you use cowardly, but if it allows you to win and best your enemies, does it truly matter? Of the blasphemous arts you’ve learned, the first is to manipulate the dreams of others. When people are sleeping, you can enter their dreams and casually manipulate what they perceive, allowing you to easily turn their dreams into either a utopia or nightmare. If you so desired, you could also forgo the dream manipulations and simply enter a sleeping individual’s dreams as yourself to converse with them in private. The second spell you’ve learned is how to conjure a poisonous fog that’s toxic to inhale. You can infuse minor properties into this poison, such as a poison that slows enemies, or a poison that temporarily blinds enemies who are ensnared in it. Finally, you know a spell that will make you completely and utterly invisible to the five senses. Your enemies will be incapable of hearing you, smelling you, and seeing you. This technique requires you to be in peak condition, so if a part of you injured, you will not be able to cast this spell.",
+200,Clearing Minds,Duel Monsters - Duel Terminal I,Mystic Powers,"War isn’t pretty. War isn’t nice. Even in the cleanest ones, lives and legacies are broken. Some pick up the pieces. Some don’t. What matters is that letting some kind of “honor” stop you from fighting to the fullest because it might ruin the work of a lifetime is the type of thing only kids do. What you’ve got here is a dangerous talent, friend. When you cut someone, when you break their bones, when you sear their skin... it’s not just the body that’s changed, diminished. Their mind will begin to peel apart and shatter, in proportion tohow much you harm them. This is most effective at ending your foe’s ability to fight, as each and every hit you get on them makes it just a bit harder forthem to recall the proper fighting stance, wipes away the weeks spent practicing a single move, erases one more spell. Even if someone manages to survive you... are they really gonna be the same?",
+200,Opera,Duel Monsters - Duel Terminal I,Mystic Powers,"Hey, space monsters are allowed to have aspirations beyond destruction, alright? Even if you’re no good, you should still shoot for the stars, else you’re really never gonna climb to the heavens. But still, could you maybe reconsider this? Your singing is... horrid. Terrifying. Damnation in aural form. I’m not joking. Hearing you sing is enough to make a person ill, and severely hamper one’s fighting ability. At least, that’s what happens to enemies. Your allies just don’t hear anything. Good for them! Anyway, you can still sing normally without hurting others if you want, being this bad is honestly more of a special ability than a legitimate level of skill.",
+200,Elemental Gem,Duel Monsters - Duel Terminal Ii,Mystic Powers,"The hidden power of Fusion is known to all Gem-Knights, but some can reach even deeper into their Core to unlock powers unique to them. Luckily, you are now one of them. What your power actually takes form as is something you alone can decide, but generally speaking, Gem-Knights can either unlock a weapon perfectly fit for their usage or create the elements in specific ways. Garnet could cover his fist in flames, Sapphire could create surprisingly durable water walls to shield himself and his allies, Amber could create two daggers out of pure lightning, and Sardonyx could create a spiked ball and chain he could wield as if it were an extension of his body. The strength of this power will grow with training, but starts out great enough to destroy a small cabin, or withstand similar harm if it is defensive in nature.",
+200,Burst Fire,Duel Monsters - The Heroes,Mystic Powers,"Like Burstinatrix and the Heat duo, you’re a pyrokinetic. As you might guess, this has granted you the ability to create flames hot enough to melt steel and grand enough to set cars on fire, although you might want to not do so being a Hero and all. This also grants you resistance to heat, a fair amount above the amount you can produce. Your control and finesse is good enough to form your flames into shapes and redirect or put out other fires.",
+200,Dunkguy,Duel Monsters - The Heroes,Mystic Powers,"You’re a slamming and jamming master of b-ball. Besides having an easy shot at star athlete status, you’ve taken the game to the next level, and have developed special powers. You can create balls of pure energy in your hands, which explode with enough force to blow apart steel. These spheres can also be thrown and remain coherent for several seconds, but are strongest when dunked right on something or someone you need gone. You can also use actual basketballs or other types of balls with this, if you find something that can actually handle your all-out slams and jams.",
+200,Diamondguy,Duel Monsters - The Heroes,Mystic Powers,"Diamonds are unbreakable, and you’re gonna put that fact to good use. You can create diamonds from your body, either keeping them there to support your muscle mass and function as shielding, or firing them like arrows. The exact specifics of your diamonds are up to you, whether they’re light and small for maximum speed, or heavy and titanic to just crush your enemies into pure diamond dust. The strange nature of your power also prevents these diamonds from physically impairing you, and causes them to somehow not damage your clothing. Shine on.",
+200,Light Metal,Brütal Legend,Mystic Powers,"All the other Faction Avatars can fly, why not you? With this perk, form wings of flaming steel and take to the skies!",
+200,God Power,Jotun,Mystic Powers,"You receive the blessings of one of the gods of the Vikings, and gain the ability to use their associated god power twice per day. Now, you can attain these powers in the gauntlet itself, but this ensures that they will come with you when the jump finishes, and sustains their power even when you have gone beyond the reach of the gods. Furthermore, it allows you to gain more uses of each god power you purchase; for each shrine to that god that you pray at in the jump, you will be granted an additional daily use of that deity’s god power:
+
+Frigg’s Healing - You have been blessed by Frigg, Queen of the Aesir and the goddess of childbirth and wisdom. You have the power to knit up your wounds and heal yourself and others, guaranteeing that even the worst injuries become something survivable. A single bout of healing is roughly equivalent a single blow from a jotun, maybe a bit less.
+
+Heimdall’s Shield - You have been blessed by Heimdall, the son of nine mothers and the protector of the Bifröst. You have the power to surround yourself in shields of mystic energy, which will repel all sources of damage... but only for a few seconds.
+
+Loki’s Decoy - You have been blessed by Loki, the god of mischief and treachery. You gain the ability to produce lifelike illusions of yourself that enemies will find indistinguishable from you. They behave like you, speak like you, and act like you, and your enemies will be unable to tell the difference between you and your illusion. However, once it takes a bit of damage or enough time passes, the illusion will explode in a lethal burst of power.
+
+Freya’s Speed - You have been blessed by Freya, the goddess of war and fertility. With this blessing active you will be able to move at several times your normal speed; the drawback is that this ability will only last for a few seconds.
+
+Thor’s Hammer - You have been blessed by Thor, the god of thunder and bravery. Activating this blessing will call forth lightning in the shape of Thor’s mighty hammer, Mjölnir, which will be several times the size of your own body; this massive hammer will follow the path of a single one of your swings, exerting a massive amount of force equal to twice what you could normally produce, in addition to blasting your target with lightning.
+
+Odin’s Spear - You have been blessed by Odin himself, the Allfather, king of the Aesir, and the god of battle and death. You gain the ability to conjure a simulacrum of his famous spear, Gungnir, which will fly unerringly through the air to pierce any target you can see, doing far more damage than any spear ought to inflict.
+
+Can Be Purchased Multiple Times",
+200,Head Witch,Primal,Mystic Powers,"For a higher price you’re like the head witch. You could turn into a giant wolf large and powerful enough to overpower a tyrannosaurus, and your magic is generally superior; your mind control is harder to break, your telekinetic manipulation has more force and can move larger items, you can stop time and view memories more easily. You are simply a superior witch. You can also take some non-animal forms; you won’t be imitating specific individuals this way, but you could take the form of a snake-faced humanoid with antlers and monstrously tall. Most importantly, with proper preparations and ritual you can suck the life out of a restrained but conscious hominid to create a baby witch. This is a short, and stumpy, dwarf-like hominid but they will have the witchly powers of the base level perk when they have grown.
+
+Requires 'Witch' to Purchase",
+200,Magical Infusion,Worldless,Mystic Powers,"For 200 AP, you can infuse a specific weapon or attack with all four damage types simultaneously.
+This doesn’t add much to the raw power but makes it far more versatile.
+Requires ""Magical"" to purchase.",
+200,Fusion,Worldless,Mystic Powers,"You now have the ability to utilize Fusion Attacks. These are absolutely devastating attacks that combine physical and magical damage, meaning they can’t be blocked by either type of shield. The only way to defend against a Fusion Attack (at least in this world) is with a perfectly timed guard or parry. These are powerful, but often quite draining on both time and energy. Only an absolute monster like Summum or Lightning Nightmare could fight using nothing but Fusion Attacks.",
+200,Imperious Gaze,Legacy of Kain,Mystic Powers,"There are times where even a vampire has to rely on humans to do their bidding, so what better way to ensure compliance than complete impose control? With this dark gift you can impose your will upon a nearby human whose eyes meet yours, dominating their mind to become your faithful servants. Those that fail to ward you off will fall under your thrall, obeying their given orders to the best of their abilities and doing whatever you desire short of killing themselves or similarly deadly orders unless your will is already more powerful than theirs by order of magnitudes.
+
+The obvious problem here being that those with strong enough wills can repel such an effort, especially so if they were already expecting such a trick beforehand. That said, the more powerful you are in contrast the more easy it is to establish control. Should the dominated target move too far from you then your control will start to wane, though it will not disappear immediately. Bear in mind that even with a single person under your control they will eventually begin to shake off your control, requiring you to reassert your dominance on a regular basis if you wish to retain them. With time and a lot of practice you can eventually learn to expand your options, directing entire crowds or even dominating other targets than humans, though those of extraplanar origins will always remain notably harder to control.",
+200,Spell Collection,Legacy of Kain,Mystic Powers,"Ah, but you want your fix of death and destruction now rather than later eh? Very well then. This grants you the knowledge of all spells that Kain used in his fledgling days, ranging from the perhaps familiar ones like Sanctuary and Lightning to more exotic additions like Spirit Wrack and Control Mind. Although you could have theoretically discovered them on your own this guarantees immediate fiat-backed knowledge, sparing you the need to look for suitable teachers. Considering this is Nosgoth they would probably be dead, insane or possessed by a hostile presence anyway. Bear in mind that powerful spells can be quite taxing on the mind, so try to pace yourself.
+
+This Perk is Discounted for those with ""The Sorcerer's Apprendice"" Perk",
+200,Cursed Hexes,Darkest Dungeon,Mystic Powers,"“Curiosity, interest, and obsession- mile markers on my road to damnation.”
+
+Among the vast variety of spells and incantations are those most suitable for combat; perfect for supporting nearly any other hero as their debilitating effects take hold of the enemy or offering mixed benefits to your allies. You have a trio of such hexes, curses, and dark blessings; perhaps you stitch your allies together with chaotic magic, which can do more harm than good, or maybe you weaken your enemies physically or leave them open to future attack somehow.",
+200,Omnyodo,Kajiri Kamui Kagura,Mystic Powers,"Hey look, you are now a Taoist wizard. With this perk you have access to the Onmyodo powers
+of Yin and Yang. You can create magical effects such as using paper talismans to create
+barriers that can possibly even block God-like abilities and Distortions, or seal the powers of
+others. You know many magical words, and seals that you can create to carry out powerful
+magical effects. Go ahead you know you want to do funny hand seals and throw exploding paper at Gods.",
+200,Boob Illusion Technique,Manyuu Hikenchou,Mystic Powers,"The chests of those who employ this technique are more
+captivating than most. With a quick flash or the right sway, your breasts can hypnotize
+spectators. Though at first this technique will only stun your opponents, further training will let
+you target them with hallucinations and manipulate them with mental illusions. Masters of this
+power can even embed their targets with subconscious commands, though the exceptionally
+strong-willed can overcome these fantasies and hypnotic suggestions. Unlike the original
+technique, this power will not cause sagging.",
+200,Lethal Lactation Technique,Manyuu Hikenchou,Mystic Powers,"A favorite of Manyuu Clan assassins, this technique turns
+your chest’s natural capabilities into a powerful offense. By imbing poisons and other toxic
+concoctions, you can “load” your teats with a deadly payload. Combined with your ability to
+project liquids from your chest at short ranges, and you’ll have a way to blind and poison
+enemies that few will ever expect.
+In addition to its offensive abilities, this technique also grants the user conscious control
+over their ability to lactate. Additionally, the necessary exposure required to train in this
+technique makes users immune to most mundane poisons and grants a legendary tolerance of alcohol.
+
+Some liberties can be taken concerning the imbibed liquids. For
+example, you could choose for the toxins you emit to affect your targets on contact instead of
+requiring ingestion, letting you poison someone by merely spraying them with the offending
+liquid, or intoxicating someone with a splash of potent alcohol.",
+200,Directional Influence,YOMI Hustle,Mystic Powers,"Just got launched, or hit with something that knocks you back in any way? With this perk, you can influence the direction and power of the launch. The influence starts weak, but if you get hit repeatedly, you can influence it more and more until you're essentially just deciding to fling yourself. It does reset after a ""combo"" though.",
+200,JUMPER! YOU HAD Burst,YOMI Hustle,Mystic Powers,"You have Burst. You can use this power in any state, and it recharges after about 15 seconds real time. When used, it knocks away anyone near you. This basically acts as a combo breaker.",
+200,Trap Card,YOMI Hustle,Mystic Powers,"You can create afterimages of yourself. These afterimages are transparent, and don't move. Moving too far away destroys any afterimages you leave. However, you can detonate them at any time. If taken with ""nothing personnel kid,"" you can teleport to them and immediately execute an attack.",
+200,"""That's a thing I can do?""",YOMI Hustle,Mystic Powers,"For some reason, by doing a seemingly random yet fitting series of actions, you can throw out attacks you really shouldn't be able to. Like raising a sword to the sky and suddenly being able to send out lightning by stabbing in a direction. Go experiment like a speedrunner trying to find bugs, and find powers you really shouldn't be able to use. You won't find these often though, maybe once a jump.",
+200,Super Wizard Anti Gravity,YOMI Hustle,Mystic Powers,"You've discovered anti-gravity magic! You can stockpile energy to be used with it, and it'll allow you to hover in air, or just ignore friction.",
+300,Wind Magic,Soul Calibur,Mystic Powers,"Somewhere in South East Asia, there are people capable of communicating with the
+wind, letting the wind guide them to their destinations and even use them in battle against
+their enemies. You have that same ability now and unlike those other people, the wind shall
+never betray you or leave you behind. You will always have the guidance of the wind at your beck and call.
+Outside of battle, you may meditate and commune with the wind, allowing them to
+show you better paths than what is known by man along with letting your mind heal as the
+wind comforts you. In battle, you may take control of the wind. You will be able to generate
+gusts of air strong enough to knock a fully armored knight flat on his back and even be able
+to generate miniature tornados with enough effort.",
+300,Charge Attack,Volgarr the Viking,Mystic Powers,"This ability allows you to charge projectiles before throwing them, an act that cloaks them in
+energy and increases their power several times over as well as shielding them from harm. A
+projectile you use this on also becomes somewhat affixed to the path you intended for it,
+meaning they can pick up enemies they skewer and carry them with them without changing
+course, and will explode upon impact with a hard enough surface or when you will it. The act
+of applying this normally takes a couple of seconds but can be reduced with training, the
+maximum charge time and power of the projectile can also be increased with training.",
+400,Divine Lightning,Sekiro Shadows Die Twice,Mystic Powers,"You gain the ability to summon the storm’s wrath. Much like the dragon that inhabits the sakura
+tree, summoning this power fills the sky with clouds that bend to your whim with lightning
+ravaging the area like raindrops. In addition, your lightning is that of divine quality, much
+stronger than what would appear naturally. You can summon enough electric energy to power an
+entire city for a day with effort.",
+400,Purifying Punch,Saint Seiya: Episode G,Mystic Powers,"No more will you need to lament that you cannot solve every problem with your fists because now
+you are able to solve slightly more problems than normal with your fists! While your attacks might
+normally be limited to harming the physical, you’ve gained the ability to strike directly at the bad
+things that are inside people. You can punch out possessing spirits, roundhouse kick away bad
+feelings and even karate chop all kinds of sicknesses or diseases that hide in the bodies of your
+friends, hoping to avoid the unstoppable force of your mighty blows. So long as you intend to strike
+at the bad things within someone, your blows won’t do them any harm either.",
+400,Monstrous Menagerie,Saint Seiya: Episode G,Mystic Powers,"You’re not the only thing to come back from the past of this world, not when you enter a fight.
+You’re able to expend your energy to open portals that bring forth all kinds of monsters from
+mythology. Greek mythology is the base for the monsters you can draw from but with a bit of
+practice, doubtless you will be able to bring forth many other kinds of monsters that once or may
+have existed in this world or another. The monsters summoned will be close to your own power and
+if you begin to expend your own energy, you may find that they are equal or even stronger than you,
+though you can only have a few summoned beasts active at a time.",
+400,Like Water Through a Gate,Saint Seiya: Episode G,Mystic Powers,"There are few defences that can stand up to your attacks, given most of your offence just ignores
+most defences entirely. You are able to fire your attacks straight past any kind of physical defences,
+directly piercing into the thing behind that defence. This allows you to strike a Saint’s body through
+their armour or to hit at a man’s soul within his physical form. You could even use this to strike at
+the Cosmo of someone with just physical blows.",
+400,Heroes Never Die,Saint Seiya: Episode G,Mystic Powers,"When a God calls for aid, the dead have no choice but to bow to their whims, to a certain extent at
+least. You are able to revive the dead bodies of legendary heroes and villains from the past,
+animating or even creating a corpse or golem for their spirit to house that brings along all they had
+in life. The greater the target, the more energy it will take for you to recall them to the world of the
+living and to keep them present in this world, given you must devote that energy to them
+continuously. At the very least, they cannot disobey your will once you have brought them back,
+save for if a being greater than you interfered on their behalf.",
+400,Dimensional Gift,Saint Seiya: Episode G,Mystic Powers,"Now space itself will tremble before you. You’ve gained a unique ability to manipulate dimensions,
+directed by the energy of your cosmo. There are few limits on what you can do with your
+manipulation of dimensions, so long as you have the necessary power. You could create portals
+anywhere within sight or attack through one portal and have the attack exit from another. You could
+drag yourself and others to other worlds, even transporting entire planets, or just use your
+dimension travelling powers to cut through most defences and take away entire chunks or slices of
+people. You cannot create dimensions nor destroy them with this however.",
+400,Demon Blood Art,Demon Slayer,Mystic Powers,"Every demon has a blood art that is unique to them, usually from eating enough humans, but they can be developed in other ways. No matter what it is, it can be strengthened by eating humans or training, though the former is faster. The stronger you get, the stronger it will get, or it can instead branch out to have additional or supporting abilities, but they will always follow a theme. All demon blood arts must somehow involve your blood or flesh in some way, whether it be turning it into an element like ice or shockwaves, an instrument or weapon, or something more exotic, they can be very creative and diverse.",
+400,Element Manipulation,Samurai Jack,Mystic Powers,"You’re able to create and control one of the four main natural elements. Either water, earth, fire, or air.
+At your weakest you’ll only be able to use your abilities to protect yourself against a single robotic soldier by shooting shards of rock or gouts of flame, but at your strongest you could use your powers to decimate an entire village by creating small tornadoes or low-level earthquakes. This power can be purchased multiple times to get each individual element.",
+400,Energy Beams,Samurai Jack,Mystic Powers,"You can fire powerful lasers out of your hands and eyes. These beams are hot enough to start massive infernos, reduce people to ash, and decimate large castles.",
+400,Combot Ready,Tekken,Mystic Powers,"Combot is a machine invented by Violet systems to become the ultimate
+warrior. As such it has one interesting ability... coping the abilities of other fighters. You can replicate
+any move you have seen, necessary things like swords or wings for those will be available to you in
+spawned metal like form. This ability has its limits however as you can only copy one power set or
+fighting style at a time. This also only includes the STYLE not the actual POWER. For example you
+might be able to possess powers and moves of a Devil but will nowhere be near the Strength of
+someone possessing the Devil Gene. That part is up to you to gain.",
+400,Wood Warrior,Tekken,Mystic Powers,"Mokujin is an entity famous for one thing in particular... copying the abilities of
+other fighters. You can replicate any move set you have seen, necessary things like swords or wings
+for those will be available to you in spawned wood like form. This ability has its limits however as you
+can only copy one power set or fighting style at a time. This also only includes the STYLE not the
+actual POWER. For example you might be able to possess powers and moves of a Devil but will
+nowhere be near the Strength of someone possessing the Devil Gene. That part is up to you to gain.",
+400,Priest/Priestess,Okami,Mystic Powers,"You may be trained as a priest, a member of the Tao Troop under Captain Waka, or simply have
+learned through experience. As such, you possess the knowledge and skill to slay demons and
+deal with other spiritual issues, which updates as you enter future jumps. Such issues include
+healing, exorcism, and putting up barriers against evil.
+
+Requires ""Spiritual Power"" to be Purchased",
+400,Celestial Brush,Okami,Mystic Powers,"Allows you to use one of the thirteen Brush Techniques carried by the Brush Gods in canon (see Notes). Alternatively, choose a power that can reasonably be performed through drawing a symbol with only a few strokes of the brush. Runs off a metaphysical pot of ink which runs out as you use your brush; overusing any brush technique leaves you unable to use the brush at all for one hour. The ink refills slowly when not being used.
+
+Can be taken multiple times.",
+400,Blunt Hit,Kenshi,Mystic Powers,"So long as you’re using a blunt weapon or your fist, you can choose to have your attacks
+never cause permanent damage. Safely knock your enemies out without worrying about possible brain
+damage or internal bleeding. In addition, if you catch someone unaware of you, you’re guaranteed to knock
+them out with a quick rap to the back of their head. This is perfect for kidnapping targets, or just avoiding killing
+in general. As a bonus, unconscious targets will never wake up so long as you’re physically carrying them.",
+400,Blessed By Olympus,Soul Calibur,Mystic Powers,"The Olympian God of Smithing, Hephaestus, sent out twenty-four holy warriors in
+order to seek out Soul Edge. But perhaps there was a twenty-fifth warrior, you. Olympus
+has blessed you, mortal, and now you are noticeably stronger than you were before, enough
+that you would be solidly superhuman if you were not before.
+Of course, mere strength and speed are not the only benefits to being blessed by
+Olympus. You have now been blessed with the ability to command and control lightning. At
+first, you will only be able to wreathe your equipment in lightning and call down bolts upon
+your enemies, but in time you will be able to do so much more.
+Go forth and carry the glory of Olympus.",
+400,Wolf Spirit,Soul Calibur,Mystic Powers,"You don’t know how it happened, but you couldn’t deny the results. One day, a
+strange symbol in the shape of a crescent moon appeared across your chest. On that very
+same day, a spirit with the body of a man, the head of a wolf and the crescent moon piercing
+through its chest appeared at your beck and call.
+Ever since that day, the wolf spirit has stood alongside you, fighting at your command
+and defending you from those who seek you harm. The spirit itself is as strong as you and
+calling upon it is as simple as breathing, appearing within your close vicinity at only a
+moment’s notice. As strong as you, the wolf spirit acts a perfect complement to you in
+combat, working in perfect synchronicity with you.",
+400,Get Out of Here,Darkstalkers,Mystic Powers,"You’re no mad scientist or horrible sorcerer, but you know a very useful and very basic soul­-manipulation technique: how to punch an invading spirit out of something. This technique requires five minutes of preparation, but it’s more than effective at ousting an overshadowing ghost, demonic possession, or stranger infections. Note that this does not usually injure a possessing being­ you might have to fight them after they’re out of the victim.",
+400,The Song,Furi,Mystic Powers,"You gain access to an advanced range of danmaku, allowing you to shoot
+glowing black indestructible (but not unblockable) bullets, powerful sustained lasers, taller red
+and blue shockwaves that act as energy walls, and blue bullets that fly into the air and rain
+down like meteors. If taken with The Beat, this also enhances your arsenal of basic danmaku,
+allowing you to shoot stronger unspecialized red bullets the size of a person’s body, larger,
+faster homing shots that zero in on the target even after they pass it, and larger versions of any
+of your bullets that can explode into any other type of bullet you can make. Your rate of fire with
+unspecialized bullets (blues, yellows, reds) is tripled, while all other danmaku can be produced
+twice as quickly, allowing for generally faster shooting.",
+400,The Edge,Furi,Mystic Powers,"What would you do with nothing but an eternity to wait? Train, of course.
+Excellence is a habit. You are what you repeatedly do. So you train, and train, and train, until
+you reach perfection. When you devote yourself fully to mastering a specific skill, you are able
+to push that skill to the point of perfection, provided you have enough time to dedicate yourself
+to it. This skill could be a mundane art like a physical skill or something more advanced and
+abstract like manipulating esoteric energy. Naturally, the more advanced and complex the skill
+is, the more time it will take to perfect. If taken with The Chain, this perk also grants you the
+ability to use anything, even mundane objects, as stand-ins for other melee weapons with no
+loss of effectiveness.",
+400,My Blade is My Soul,Katanagatari,Mystic Powers,"In every attack you make, you place your heart and soul. Even if it’s not an attack meant to kill, you
+still believe totally that it will strike as you plan it do. That belief, over time, has formed into a
+powerful force in your attacks that extends them far beyond what others expect. Each of your blows
+has an invisible, almost entirely undetectable extension to them that makes the attack actually go
+four times as far as it normally should. A sword slash can cut through a half dozen men at once or a
+fireball incinerate what it would ordinarily miss. These invisible extensions can however be detected
+by those who can sense bloodlust, including most people at all experienced with combat or
+warzones. It’s no guarantee that they’ll be fast enough to dodge but most expert warriors will at
+least be able to sense the general area of your true attacks.",
+400,Ink Arts,Katanagatari,Mystic Powers,"A very old, very secret art was revealed to you from a thought lost set of scrolls. These scrolls show
+the way to not just create intricate tattoos but also on how to seal the life essence of a being into
+these tattoos and make the tattoo, effectively, the person themselves. Once infused, the person is
+able to move the tattoo around their body freely or even onto the bodies of other beings they are in
+contact with, as well as survive the destruction of the bodies the tattoo is on, so long as the tattoo
+itself is not directly struck and destroyed. Having performed this process on yourself, you now live as
+a tattoo on your own body and can swap to the body of another being by making physical contact, though you are only able to possess the bodies of those who share the same gender as you. If you
+can suppress their will with your own, you will completely overtake their body and mind. As your life
+essence is within the tattoo, you will also bring over all of your powers, even unique biological
+abilities. You retain the scrolls as well, allowing you to perform the same ritual on other beings or
+teach it to others.",
+400,Kinetic Recharge,Bloody Roar,Mystic Powers,"Physical blows dealt by you to any number of poor corporate mooks, equal-level rivals, and vastly-overpowering villains alike will allow you to recharge your energy and stamina levels slightly for each successfully-connecting blow you make.
+
+This Perk works only on Melee Attacks.",
+400,Bioelemental Attacks,Bloody Roar,Mystic Powers,"You have had organs within you - either you were born with them, or they were implanted - that allow you to actively generate and manipulate two of the world's volatile elements:
+Fire, and Electricity. Somehow you naturally generate these two when attacking, and the organs can be naturally switched on or off by intent. There are others in this world that have similar - but theirs are limited to fire or lightning, and their control is less polished, as it were.",
+400,Higher Sciences,Conan,Mystic Powers,"It was Pelias who referred to sorcery as such, though he was not the only one. You are an adept of the higher sciences. You are a sorcerer and know several magical tricks. This is far from a total mastery of sorcery, and in fact this will not grant you any of the magical arts of this world covered with more specific perks - which is most of them. Still you might know some magic to tamper with the weather, summon forth a plague, or transform yourself and others, though especially as a neophyte you should expect such magic to be time consuming and costly in the blood of sacrifices, or other rare reagents or reliant on astrological events and precise timing. You can with time learn to be an equal of Pelias, able to transform himself with ease, or Xaltotun, able to bring down cliffs from afar at a certain time in battle and create targeted plagues though both were costly in personal power and blood sacrifice, in such magics as this grants you; and each other perk which grants magical arts you purchase in this jump will increase your starting skill and with enough you may fully match Pelias himself.
+
+But these magics are not all. You are an adept of the higher sciences and your mind is skilled at prying them forth. You will find that your mind is adept at learning higher math and science, as well as the magical arts, delving into such knowledge substantially quicker than the average person, which given how utterly the average individual fails means little, but even the average sorcerer will find their pace outstripped by your own as you take to the higher sciences with the ease of a true great who might be legend for millennia after your own demise. And this is not limited to the magical arts of this world, as you will find this applies to all forms of occult and sorcerous knowledge and skill; as well as, already stated, higher sciences such as advanced physics and math.",
+400,Unique Magic,Mushoku Tensei,Mystic Powers,"There are many magics in this world that are subtle and rare and are only learned by a few beings that are capable of using it. By default you have the ability to teach the Unique Magic that you purchased to others that don’t have the talent or ability to use it. Choose one of these Unique Magics illustraded below:
+
+Spatial Magic - This allows you to teleport and creates portals to any location that you have visited, seen or visualized sufficiently. The expenditure scales with the distance and protection of the location you're trying to teleport or creating a portal to. Within the planet or connected dimension would need mana equivalent to Beginner-Rank to Advance-Rank Spell and a dimension heavily protected like the one Hitogami lives would need mana equivalent to God-Rank Spells. With enough effort and attempt you can reach Hitogami’s Void World or locate Earth with this.
+
+Gravity Magic - This allows you to fly and replicate telekinesis to a certain extent, increase or decrease the gravity of the surrounding area hindering your opponents or just improving your physical feats. The expenditure scales to the distance or the potency of the effect like increasing the gravity by two or increasing your strength and speed by twofold and maintaining it by an hour would need mana equivalent to Beginner-Rank Spell but ten times the potency and maintaining for an hour would need need mana equivalent to Intermediate-Rank Spells.
+
+Howling Magic - This allows you to locate and paralyze or stun your opponents by using your voice as a medium. The expenditure scales with the distance something like a hundred meter radius would need mana equivalent to a Beginner-Rank Spells and the further you want to reach the greater the mana needed. This can also be used to replicate the effects of the Three Main Categories of Magic albeit on a much lesser potency but Magic-Spells that are single target can be used as AoE or be used to surprise attack your opponents.
+
+Magic Disruption - This allows you to prevent Magic-Spells from forming and activating or mitigate their potency. You also gain an ability to anticipate and defend against magical attacks directed at you and hinder you opponents from forming or activating their Magic-Spells, all of it can be done with perfect timing. While the cost of using this to resist a Magical-Attack is normally proportional to the Magic-Spell, since you’re paying premium, you only need a hundredth of the amount of mana used to cast the Magical-Spells.",
+400,Telekinetic Combat,Thunderbolt Fantasy,Mystic Powers,"You possess Telekinesis and have mastered it to such an extent that you could telekinetically control up to three swords with the same level of skill, precision, and speed as a master swordsman. Should you cast away the desire to control these swords as a master swordsman, then you could easily juggle and control dozens of swords at once. With time and training you could eventually control dozens of swords with the skill of a master swordsman and thousands with the skill of a common soldier. Furthermore, you can also throw up telekinetic barriers, push and pull people away from you with your mind, and fly using your telekinetic skills. Lastly, you know how to teleport your weapons brief distances by opening up portals, which you can quickly use to maneuver your weapons in your opponent’s blind spots.",
+400,Illusionary Magic,Thunderbolt Fantasy,Mystic Powers,"You are a master of illusion magic, easily capable of using it to subvert your target's senses. Once a target has fallen victim to your illusions you could manipulate what they see, what they smell, what they hear, and what they feel. Because of this you could easily deceive your enemies and manipulate them into fighting each other. You could easily force your enemies to hallucinate and possible even drive them insane as they’re supposedly fallen comrades return from the dead to lambast them and mock them. Even if your target were aware they were in an illusion, they would struggle to break out of them because your illusions are just that strong and lifelike. You can even weave your illusions into your fighting style, fooling your opponent on the position of your sword stroke, or even if they’re you’re fighting you...or nothing at all, as they foolishly wail on the air while you stand behind them.",
+400,Windmaster,Duel Monsters - Duel Terminal I,Mystic Powers,"Of course, there are those who admire the more physical aspects of wind. How it can destroy, ravage, annihilate. But also the subtle obstructions, such as papers being thrown into disarray by a single soft breath. You’ve become a windmaster, one who deals in wind magics in more... practical manners. The costs to these spells are a simple matter of stamina, as you could command blades of wind to tear wood barricades apart or make mincemeat out of your enemies for an entire day before being too tired to go on. Although, you are not limited to such vulgar displays. Commanding soft currents to move a pen so as to write in your stead, or even orchestrating an entire meal’s preparation using only the wind, are perfectly possible. You simply need to try.",
+400,Sabre,Duel Monsters - Duel Terminal I,Mystic Powers,"Still... flames can burn and destroy, but they can’t crush. At least they wouldn’t, if you didn’t take exception to that. Whether you somehow trained your way into doing this, or were born with such a special power, you are able to condense the flames you command into solid objects. This gives them weight and mass proportionate to the amount of heat going into them... in addition to said heat remaining, causing even glancing cuts to ignite into hellish torment. You’re not limited to the flames alone, as well. Other elements that you can control or generate, such as lightning, shadows, and pure magic, can all be made into solid objects with effects appropriate to the natural qualities of said elements, and physical properties appropriate to their intensity.",
+400,Spinal,Duel Monsters - Duel Terminal I,Mystic Powers,"What... what are you? Such a cruel thing... the flames you generate. They don’t simply kill a person. When they torch a corpse, whether a pre-existing one or a casualty the fire itself inflicted, it is reanimated as a burning revenant. Most of the powers the undead had are lost... but not all, and being dead means they no longer need things such as sustenance or bodily integrity. These undead have lost their minds, and will blindly follow your orders if you command them, but otherwise will seek out things their past life held dear while retaliating against anything which harms them. Why would you do this?",
+400,Obsidian Phantasms,Duel Monsters - Duel Terminal II,Mystic Powers,"What a mysterious power. The wavelength of your Core causes a strange reaction when you are near a Fusion. By willing it so when others are merging in your presence, whether through Gem-Knight Fusion or another method, you can create an illusion of the resultant Fusion. This illusion acts as a phantom containing mass and energy equal to the Fusion it takes after, and can be placed under either your control or the Fusion’s control, disappearing only after the Fusion it’s patterned after ends. These phantoms are exactly as capable as the Fusion they’re based on, allowing you to act as an incredible force multiplier to any groups making heavy usage of Fusion.",
+400,Master of Puppets,Duel Monsters - Duel Terminal II,Mystic Powers,"Though you are no mental virus, the evil within you has granted you the power to assault the mind and soul of your victims. Whether as subtle strings coiling around their heart or a veritable deluge fit to drown one in darkness, you are able to force the evil within you into others, moulding their mind and desires to better fit your aims. You have much control over this process, being able to control every bit of your puppet’s mind and thoughts in whatever ways you wish. Should these alterations reach the point where they simply are not the person they once used to be, the evil inside will rampage and mutate their body into a Steelswarm-like form fitting to your sensibilities. Once infected, specialized means are required to excise your control, but one can resist the initial attack through sheer willpower. However, if one does not realize there is something to resist in the first place...",
+400,Constellar Meteor,Duel Monsters - Duel Terminal II,Mystic Powers,"You may strive to slay the dark, but that does not mean striking down all those who dwell within it. The stellar power within you burns brighter than the average Constellar, and this brightness has allowed you to wash away all shadows. Through holy power, you are able to literally fight back corruption, punching environmental evil to dust and cutting away the malice inside the hearts of others without ending their life by overpowering its supernatural wickedness with your awesome power.",
+400,Inverse Verse,Duel Monsters - The Abyss,Mystic Powers,". . . Okay, it's time to stop pretending like we all can't see the elephant in the room. The Church of Dogmatika is obviously evil. What may not be as obvious, however, is how that happens. See, soon after Albaz and Ecclesia manage to flee the realm of Dogmatika, Maximus, the head of Dogmatika, performs a ritual. This ritual, called the Day of Gospel in the Dogmatika Scripture, entirely flips the script of what is going on in the country. The Stigmata are unsealed into corrupting Brands, the sky is dyed red as it cracks open with a multitude of Holes, and the ground under the city sunders as a giant structure is raised from the depths. This all may sound rather standard, but what isn't is the aesthetics. See, the themining this all has. . . is Theater.
+
+Yes, I'm serious. The Dogmatika become the Despia, and all of their appearance, naming conventions, and so on are all based on theater conventions, and lined in Black and Red. The Church swapped out their masks and revealed themselves to be Theater Kids. But now, how does this relate to the Perk on hand? Well, this Perk allows you to invert things that you have. You can invert your Church Outfit to become a Demonic Theater Outfit, or make a Fire Attack become an Ice one instead. If something has multiple axes on which it can be inverted, you can choose any or all of them to invert at will. This can apply to anything you are, any ability to possess, and any item that you definitively own. If you have the ability to give out borrowed power, like the Stigmata, then you can invert that too. This could merely be inverting the power itself, but you could also invoke possibly-monstrous transformations in the holder of that power as the inversion causes it to run wild, like what happened to the citizens of Dogmatika. With consent, you can even do Inversions on living beings that you don't have a direct claim on, allowing you to do things like change someone's gender or uncorrupt a Fallen Angel (in settings that have those). You can also revert any of these changes at will, if you want. This is a very useful power, but you should expect extreme reactions if you do something like make a supreme Holy Sword into a Demonic one.",A.N.: This is busted AF
+400,Spark Blaster,Duel Monsters - The Heroes,Mystic Powers,"You’ve got the Spark, the touch, the glow and vibe of an electrokinetic. Like Sparkman and Voltic, you are able to create electricty from your own body and command it to your whims. At base, you could probably ruin an apartment when going all out and knock someone out as if you had a taser when dialing it down as much as you can. But like both of them, you’ve also created some tools to help out with your powers. Pick 3 of the following: A blaster that directly hooks up to you and can be used to hone your electricity into coherent beams useful for precision or sniping. A set of gauntlets or wristbands that increases your finesse so much you could safely power places like hospitals or buildings (and yes, you can double down and choose both) manually. A vambrace that creates a circular shield on the arm it’s equipped, with defensive power equal to the electricity directed to it. A set of wing- like mounts that drain some of your energy over a few days to create a pool of backup power, which can either be used to get back in the game when fatigue  gets to you, or to create a shining column to protect you when you’re about to be dealt a fatal blow. A high-frequency spear whose cutting power increases with the electricity fed to it.",
+400,Devilguy,Duel Monsters - The Heroes,Mystic Powers,"Your powers are rather odd, even by this world’s standards. You can touch someone and send them packing on the Destiny Road. What this actually does is banish them a parallel world which is by its nature and environment rather dangerous but survivable to them. You can’t actually control where they’ll end up, and they’ll return to whichever world you banished them from automatically sometime between a few hours and a week.",
+400,Battle Cry,Brütal Legend,Mystic Powers,"Grab your guitar and slam out a solo that wrecks the environment and can tear foes apart, provided it is metal enough. Otherwise, you'll simply be sitting there strumming about like an idiot. As an added bonus, your allies will be rallied by your hardcore tunes, and fight even harder.",
+400,Demon Flavour,Kimetsu no Yaiba,Mystic Powers,"You know what they say: if you can't beat them, eat them. Or, at least, that's
+what you say. By devouring the severed parts of a demon, you can temporarily take on their form, gaining
+strength, speed, and wound regeneration on the level of the demon whose flesh you ate and access to any
+Demon Blood Arts they may possess while taking on their weaknesses. How long these boosts last depend
+on the amount of flesh you eat a pound will last you roughly fifteen minutes, while an entire human-sized
+demon is a day's worth and you can store this time for later use by eating the flesh without activating its
+power. Last, but not least, not only does demon flesh have an appealing taste to you, but your normal bite
+can tear it straight off a demon and be used as a natural weapon against them.",
+400,Demon Blood Arts,Kimetsu no Yaiba,Mystic Powers,"Demons of sufficient power have cool-ass magic powers. You, regardless if you even have that ""sufficient power,"" have cool-ass magic powers. You're welcome. How it works is rather simple - you have an ability, your ""Demon Blood Art,"" which lets you do something awesome. Maybe you can transform your blood into something else (ice, fire, spiders); maybe you can duplicate yourself by tearing off pieces of your flesh and tossing them away from you; maybe you can shift gravity based on a series of chords or rhythms you play. What exactly your power does is up to you, so long as you remember one thing: it has to involve using your body (flesh, blood, bone, what have you) in some way as a sacrifice for the spell's effect. You'll get it back, don't worry...
+
+Can be Bought Multiple Times; 'Demons' that purchase this Perk pay only 200 CP",
+400,Runic Magic,Jotun,Mystic Powers,"You learn the magic inherent to one of the runes associated with a jotun, and gain special powers when using it. Each use of a rune allows you to use one of a selection of powers associated with that specific jotun, but only one such power per jotun can be used at a time. Using a rune only requires you to sketch the rune out with your finger, or call out the name of the rune in a strong voice. Note that trying to use a rune on the jotun of the same name will be futile, as they can completely ignore effects that fall under their element.
+
+Jera, Rune of Harvest, Fertility, and Earth
+You gain powers like those of the jotun Jera. You can shape plant life into something resembling a suit of power armor, customized to your tastes; it only increases your size by a few feet, but while in it you have more mass and are resistant to damage. You can also grow a flower that emits a toxic cloud; while you and those you designate are immune to the poison, it is otherwise lethal. Alternatively, you can use this rune to grow spiked vines from the earth, that will attempt to restrain and slam into an enemy.
+
+Fè, Rune of Wealth, Power, and Gold
+You gain powers like those of the jotun Fè. You can form dwarvish beings from the earth, animating them with life, loyalty, and something resembling-but-not-quite intelligence. You may instead gain the power to reshape stone, either creating a tool, weapon, or shield from stone, or causing great rock pillars to erupt from the ground. Finally, you can unleash a powerful cry that invigorates and empowers everyone who is your ally or underling that can hear you call out.
+
+Isa, Rune of Ice, Stillness, and Power
+You gain powers like those of the jotun Isa. You can emit a powerful storm from your lungs, a gale of wind and ice that can freeze people solid and cause terrible pain even to larger beings. You may instead be able to charge forward, propelling a wave of snow before you to slow and bury your enemies. Finally, you can invoke a blizzard, not only freezing over your surroundings but inhibiting your enemy’s sight, while facing no such problems yourself.
+
+Hagalaz, Rune of Hail, Crisis, and Chaos
+You gain powers like those of the jotun Hagalaz. You gain the power to attack with lightning; you can blast with straightforward beams of energy, or call down lightning bolts, although the latter gives a slight forewarning before the lightning strikes that an enemy may use to evade. You can instead use this rune to teleport, instantly allowing you to move a short distance. Finally, you can use this rune to duplicate yourself, gathering so much energy you split apart into two bodies. However, both halves of you share the same pool of health, so if one of you takes damage, both of you do. However, it is a potent method of doubling your offensive power. You can control both bodies as naturally as you could a single body, and can rejoin at any time.
+
+Kaunan, Rune of the Torch, Mortality, and Pain
+You gain powers like those of the jotun Kaunan. The first use of the rune is to call down fireballs from the sky to strike where you will. The second is to melt the earth into lava and call forth surges of magma from below the surface. Finally, you gain the ability to channel heat into any weapon you wield; this heat will not harm you, but can turn your weapon white-hot and allow it to inflict far more grievous wounds than before.
+
+You may purchase this more than once for more runes",
+400,Mighty Evocations,Sword & Sorcery,Mystic Powers,"While most conjurers might rely entirely on rituals, spirits, and foci to work their art those that
+truly strike fear into the hearts of mankind are those who master the art enough to smite their
+enemies into ash or curse entire families with nothing but their voice. You’ve grown enough in
+expertise and strength to perform similar sorceries. You could easily flay or smite a warrior with a
+single gesture or word of power or lay low an entire throng with a full-length incantation. You’ll
+find you have a talent for all such quick and dirty magic, such acts being far easier for you than it
+would be for another and your abilities with such things growing swiftly as you continue to refine
+your art. Others might expend nearly half their entire strength to perform such a feat, but you are
+either mighty or experienced enough that you could continue such acts for as long as a veteran
+warrior might swing his steel. Pity the poor brutes that think you defenseless.",
+400,Duality,Worldless,Mystic Powers,"As a being of Darkness, you are able to deal Absorption damage to beings of Light to attempt to switch your polarities. For 400 AP, this will apply to similar situations in future Jumps. As long as you are some kind of entity of darkness or chaos, entities of light or order will have an Absorption Meter you can use to potentially switch your polarities. This doesn’t change your raw power, but your dark form and its abilities will be transformed into ones more appropriate for a being of light, while your opponent experiences the opposite reaction. Although, they will then have the ability to see your Absorption meter and may attempt to rematch you to reverse your polarities back.",
+400,Balanced,Worldless,Mystic Powers,"You have taken inspiration from the Unstable being Yin-Yang. You are immune to and able to utilize all four elements (lightning, ice, wind, fire). You are able to launch a single devastating attack composed of all four elements, but this drains you of all your elements for a time. Over the next few minutes you will regain your elemental powers and immunities one element at a time.
+
+Incompatible with ""Magical"" as it essentially grants you all four and then some.",
+400,Mark of Ascendancy,Legacy of Kain,Mystic Powers,"Can you not feel it Jumper? How the shackles of humanity are slowly dissolving and you are slowly becoming something much more. Your innate abilities have grown more numerous, turning you into a veritable font of power. To start with there are the three expected transformation abilities: Turning into a wolf allows for maneuverability, turning into a cloud of mist allows you to teleport or evade damage and turning into a swarm of bats will allow you to travel long distances in a fraction of the time it would take on foot. And with enough time and experimentation you could theoretically imbue these abilities with an extra trait, such as turning your mist form poisonous.
+
+But hold, for there is more to come! A truly rare ability among vampires – shared only by the unfortunate Magnus - has taken root within you, that being the power of pyrokinesis. Although somewhat exhausting to use at first, this is sure to give you an edge against your vampire peers. Just be careful about not setting yourself on fire, that would be embarrassing.",
+400,Fluttering Finger Mindslip,Kung Fu Panda,Mystic Powers,"The Traveler is blessed with arts few remember, which is ironic given the fact this technique deals with memory. With specific movement of your arm and fingers and a subtle use of chi you can erase the short term memories of a subject. The subject goes completely still for a few moments, and then forgets what you want them to forget. The target doesn't have to be peaceful but it can't be used in the middle of a fight, and only works on one or two people at a time. Note that overuse on a single subject can literally start to destroy their long term memory as well which would take other techniques to fix, so be wary. Can be resisted by someone with significant chi or magic power or incredible will",
+400,Prophetic Visions,Kung Fu Panda,Mystic Powers,"Everyone travels from the present towards the future no matter how uncertain it may be. A true Traveler however is better at reading the signposts than most. By performing some sort of ceremony often accomplished by flashy images in smoke, you can some knowledge of the future. The ritual must be performed focusing on one specific object, place, or person and is solely based on the choices being decided on by people at that time. Knowing the future can be utilized to change it. When given a prophecy no other rituals can be utilized to garner more information on said prophecy. You may perform the ritual on a knife and see its destiny to slay an important person, you will know who is to use it and on who and generally why. But many details will not come to you and performing a ritual on the assassin will not work to reveal anymore details.",
+400,Attire Assault,Manyuu Hikenchou,Mystic Powers,"The warriors of this world seem to have an agenda against their
+opponents’ wardrobes. With this purchase, you may direct any of your attacks or abilities at an
+individual’s clothing instead of the individual themselves. Whether you seek to shatter armor or
+simply humiliate your foe, you can efficiently target their equipment, garments, and anything
+else on their person without harming them.
+Additionally, you may apply this effect defensively, redirecting the damage of an
+opponent’s attack onto your clothes. This may be accomplished twice per set of clothing; the
+first attack will leave you barely decent, while the second attack will destroy every stitch on your
+body. Still, if you can bear the embarrassment, the ability to negate attacks could prove quite useful.",
+400,Chichinagare,Manyuu Hikenchou,Mystic Powers,"This is the secret of the Munamori bloodline; the technique the Manyuu
+sought so desperately to control, for they knew it could collapse the hierarchy they worked so
+hard to build. Unlike the incomplete Breast Slice technique used by the Manyuu clan, the
+Chichinagare allows for the direct transfer of breasts between the target and the user. A selfish
+wielder of this ability could not only slice away their enemy’s chest but also grow their own by an
+equal amount. However, this power truly shines when wielded with the compassion and resolve
+of a mother’s heart. When mastered, the Chichinagare allows its user to both take and give
+breasts, pleasurably transferring a person's attributes to another. Perhaps, with enough
+dedication, you can find a way to transfer other traits?",
+400,Electricity Spike,Real Steel,Mystic Powers,"Whenever you hit things, you can discharge an EMP blast proportional to the strength
+of your hit. With it, even a regular human could put most G2 bots on their ass in a couple of hits.",
+400,Energy Attack,Arawn,Mystic Powers,"You have some way of attacking your enemies from afar, firing blasts of
+deadly power at them. Choose fire, lightning, or ice. You can make ranged attacks with that element,
+though each is different. Choosing fire is the most straightforward. While you don’t have the control of
+flame Lord of the Scorched Earth would give you, you can breathe fire, launching in long streams or
+spitting fireballs. If you pick lightning, you can fire bolts of it from your eyes, capable of killing giants
+on a good day. Ice works differently. Instead of a direct ranged attack, you have a petrifying gaze.
+Anyone that looks you in the eye when you activate this power will be turned into a statue of it.",
+400,Launcher,YOMI Hustle,Mystic Powers,"You can launch yourself by creating an explosion right next to you. Yes, this is still an explosion, and will hurt other people. Not you though. If you take the ""Super Wizard Anti Gravity"" perk with this, you can essentially fly. Can be used mid-air, but only twice before landing. You're essentially rocket jumping.",
+400,Power of a God,Ryse: Son of Rome,Mystic Powers,"The two gods in the game were shown to share several common abilities. First, they can choose who is able to see them. Second, they can become intangible, as demonstrated when Nemesis allowed several people to pass through her. For balance, the gods can only be harmed by individuals with supernatural abilities. Third, they can teleport to any location they desire. Fourth, they “know” when events that interest them occur, which is why they always appeared at crucial moments in the war. Fifth, they can use one element—such as wind or, optionally, light. If you choose light, it manifests as a bright flash rather than a laser beam, and any element you select has only enough power to crack a marble statue.
+
+The weakness of the gods is that they cannot directly interfere in mortal affairs. However, because you are paying CP, you are immune to this limitation.",
+400,War Elephants,Ryse: Son of Rome,Mystic Powers,"You gain the ability to summon a war elephant as long as no one is watching when you do so. These war elephants can ignore defenses, shredding reinforced buildings like wet paper, but they are just as killable as normal elephants.",
+500,Holier Than Thou,Darkstalkers,Mystic Powers,"You might not be a religious soul, or even a very noble one, but you definitely know how to empower symbols against all kinds of supernatural nasties. You need not believe in any given power, but you have to believe in something­ from ‘my own strength’ to ‘goodness is inherent in humanity’. Whatever it is, you can use that as a holy symbol against any traditionally monstrous supernatural being, vampires, zombies, ghosts, etc. Your belief is so strong enough that these symbols even work against the science/alien versions of the same monsters!",
+500,Blood Magic,Darkstalkers,Mystic Powers,"Your physical self is an existence held together by your own will. With this perk, you render your body
+into a state akin to liquid, like blood, water, ichor, liquid metal and so on. Your blood and body becomes a
+highly dangerous thing­ not so much a weapon as a multi­function tool.
+You may control your blood and body, shaping both into weapons. Magic that runs off of blood is now
+stronger in your hands. You also now have the choice of how much you bleed from a given wound­ not at all, to
+normal mortal appearance, to gushers for the purposes of spreading your blood around. If you possess
+Transformative Wings, your blood now counts as a limb for the purposes of that perk.
+This perk enhances all forms of shapeshifting, allowing you to change into a form and maintain it
+indefinitely at no penalty, but cannot override pre­existing perk time limits.",
+500,Mjolnir's Power,Volgarr the Viking,Mystic Powers,"You possess the blessing of Thor! This manifests in the form of a force field that blocks any
+one attack that hits you and unleashes a counterattack, calling down a vicious lightning bolt
+that will vaporize most enemies close to you as well as sending balls of lightning flying in
+every direction from you, this will only harm those you wish it to. While activated you will
+glow with a faint, inner blue light. This ability has a cooldown time of about a minute before
+you can use it again but this can be trained down to but a few seconds, though achieving
+this could take more than a decade.",
+600,BOSS BOSS BOSS,Katana Zero,Mystic Powers,"Ohh, sometimes you get those ungrateful little fucks who just don’t seem to want to follow your orders. And sometimes those disobedient pawns turn their blades on you. Shame on them, then, because while you may or may not be able to fight them physically, you sure can beat their minds to a pulp otherwise; after all, Chronos was not the only combat ‘stimulant’ New Mecca produced, and one of those has made you an offensive psychic.
+You can force your opponent into a mental landscape that ostensibly appears the same as ‘reality’, and while in this state you gain a illusory set of powers based on how you’re seen by the person in question; a manipulative bastard might be able to manifest hands and further play with their perception of ‘reality’, a bloodthirsty warrior attacks with blood and steel honed beyond any natural means.
+Just keep in mind, this is a test of your will against theirs. You beat them, they’ll be rendered catatonic but alive, in case you need them for later, but if they beat you, that’s lights out for you. Permanently; they’ll probably leave a sword in your skull by the end of it.",
+600,The Winner's Mind,Baki The Grappler,Mystic Powers,"The mysterious art of hypnosis has not only been mastered by you, but weaponized into a deadly trump card. You can hypnotize someone in a fight with a single clap. This will instantly send them into a trance, where they will live out the battle as they most desire it to happen. In reality, they’ll be stuck in that fantasy until its conclusion, oblivious to the outside world. This has the drawback that, if someone’s battle lust and experience is great enough, the battle they see will be identical to the one occurring in reality. You can further perfect this with practice, letting you induce hypnotism just by cracking a knuckles, function outside of combat, affect multiple targets at once, and have full control over what illusion they see, even if they’re impossible, or involve people and events from the target’s memories that you have no way of knowing about.",
+600,Elemental Ambassador,Fog Hill of Five Elements,Mystic Powers,"It is truly remarkable to meet someone like you. You have reached one of the highest positions within your clan—congratulations, Jumper! You are an elemental ambassador, or at the very least, you possess the skills of one. This means you have achieved exceptional mastery over your element, a level of control most clearly demonstrated by your ability to wield the divine manifestation.
+
+Within your clan, this power is known as the incarnation of the ancestors, allowing you to channel their essence into your own body. To others, it appears as a transformation or an elevated state attainable only by elemental ambassadors, granting them immense power. In this state, you can lay waste to mountains, part the seas, and unleash a force so overwhelming that it leaves ordinary men in awe.",
+600,Rule the Seas,Saint Seiya: The Original Series,Mystic Powers,"You may as well be an avatar of Poseidon himself,
+Jumper, for very little else in this world can match your mastery of the seas and rain. You may
+create and manipulate water in this world through your Cosmos alone, able to create city-wide
+rain storms out of a clear and sunny day within minutes, as well as move lakes and water
+according to your will. With time and training, as your senses unlock, you may perhaps flood the
+entirety of Earth and the worlds beyond with water, drowning all who would earn your wrath or
+displeasure. You may also walk within water as easily as you would on land, aquatic pressure or
+poisons within said water leaving you completely untouched...though the same cannot be said
+of others. May the world tremble at your wrath, chosen of Poseidon.",
+600,Sorcerer of Mars,Saint Seiya: Omega,Mystic Powers,"Just like Medea, you have mastered the mystic arts to become her equal in
+power. With these magical abilities at your disposal, you possess the capability to
+shape the earth and create elemental temples that harness the Cosmo of specific
+areas until they are depleted. Additionally, you can transform existing structures
+into flying fortresses that reach the heavens themselves.
+Furthermore, your mastery extends to the realm of life and death, as you
+possess the power to revive the deceased and control beings as powerful as the
+Four Heavenly Kings of Mars. You can also break seals created by godly beings
+and compel divine constructs to bow to your will.
+Moreover, you possess the knowledge to perform rituals that summon gods of
+certain elements to the battlefield. However, these summoned deities will not
+heed your orders and will instead rampage as they see fit, adding a chaotic element to the conflict.",
+600,Taint of Darkness,Saint Seiya: Omega,Mystic Powers,"Having reached the pinnacle of mastery over the darkness element, you have become a formidable force to be reckoned with. Firstly, you now possess resistance to physical attacks and all elements except light, rendering you nearly impervious to conventional forms of harm. Secondly, your dark attribute attacks have been enhanced significantly in terms of power, allowing you to unleash devastating assaults upon your adversaries.
+
+Moreover, you have gained the ability to imprison and seal individuals in the chains of darkness, restraining foes with a level of power similar to your own. This ability grants you unparalleled control over your enemies, rendering them helpless before your might.
+
+Additionally, you possess the capability to taint someone's body with the darkness element, severely weakening them and inflicting unimaginable pain. This taint acts as a deterrent, as any attempt to burn their Cosmo will only spread the darkness further, ultimately leading to their demise if left unchecked.
+
+Requires ""Elemental Proficiency (Darkness)"" or similar Perks",
+600,Time Destruction,Saint Seiya: Omega,Mystic Powers,"Despite the typical association of time-stealing abilities with the Chronotectors
+worn by Palasites, you have transcended the need for such equipment. Through
+your own mastery and strength, independent of any divine artifacts, you possess
+the ability to steal the time of individuals at will. As long as your targets are
+weaker than you or have been sufficiently weakened, you can effortlessly turn
+their bodies to stone and claim their remaining years as your own. This
+formidable power extends even to time-based abilities, granting you unparalleled
+control over the flow of time and the destiny of those who dare to oppose you.
+With this mastery over temporal manipulation, you wield a fearsome weapon
+capable of reshaping reality itself to suit your desires.",
+600,The Power of Light,Saint Seiya: Episode G,Mystic Powers,"The power of light springs forth from the core of your heart and those of the heroes around you,
+pouring into your body and attacks to assist you against the darkness. You are able to turn the
+positive emotions of yourself and those near to you into light energy that can be used for immensely
+powerful attacks on its’ own or to greatly empower existing attacks and abilities, infusing it with that
+light power attribute. Such infused things become far sturdier and more powerful against the forces
+of darkness, piercing through evil with ease. Even if you were empty of energy, you could still call
+out more energy so long as your heart is not drained of hope.",
+600,The Holy Breakthrough,Saint Seiya: Episode G,Mystic Powers,"Immortal? They’ve not met you yet. Unbreakable? Only till your fists of fury land the first blow.
+Unstoppable? Maybe so far but you’ll have a try. Those things that are supposedly undying, without
+peer or absolute are only such because they’ve not yet met someone with enough raw power to tear
+through, someone like you. When you encounter such things, you are able to substitute raw power
+for any sort of workaround. You can kill immortal beings just by hitting them hard enough, break
+through unbreakable defences by striking with enough force or stop an unstoppable move with
+enough power. To do this, you must outmatch the raw power of the target many times over, thus
+exchanging the usual battle of conceptual abilities for a much more straightforward and reasonable
+one of raw might.",
+600,The Power of Darkness,Saint Seiya: Episode G,Mystic Powers,"You’re able to put the limitless rage and hatred within you and your allies to a much better use now.
+You’ve learnt to use the power of Darkness at your will, draining away the negative emotions within
+yourself and others and using it to empower yourself to greater heights. Using this negative energy,
+you can significantly enhance any of your attacks or abilities, also infusing them with the traits of
+that dark energy. Infused attacks are much better at piercing through defences and leave wounds
+that are very difficult and slow to heal. Against those who side with good, the darkness becomes
+even more effective than normal.",
+600,Demon King,Demon Slayer,Mystic Powers,"It appears that Muzan is not the only one to go through the procedure, or maybe you’re just a freak accident? Nonetheless, you find yourself with powers similar to Muzan himself. You are able to manipulate your own biology in any way that you want, even playing around with it so that you have additional organs and brains to fight and think at a level that humans shouldn’t be able to compete with, not to mention creating abominations and extra flesh extensions from your small body, but you aren’t human anymore so don’t worry about where it comes from. This also lets you give commands to your own flesh, like giving it conditions that, if met, can kill someone you’ve shared your blood with.
+
+Blessed by the Sun God: I don't know how you got this, but you’ve done what other demons can only dream of doing, you’ve conquered the sun. No longer will the sun be a deadly curse for you nor will wisteria be a poison, and as an added bonus your skin won’t seem an unhealthy color, as you can easily pass for a human, being completely undetectable as anything else but an ordinary human no matter what magic, super senses or technology scans you. Post-jump this will take away the weaknesses of any species you have as an alt form, so vampires won’t burn under the sun, werewolves won’t be killed by silver, kryptonians won't be affected by kryptonite or red suns, etc",
+600,Resurrection,Samurai Jack,Mystic Powers,"You’re able to fire beams of necromantic energy that can transform intact dead bodies into undead monsters. These creatures possess no intelligence or emotion, and will viciously attack any living thing they see. Any slain undead cannot be revived again.",
+600,Elemental Affinity,Samurai Jack,Mystic Powers,"You can shift into an alternate form made out of a single natural element, such as fire, water, wind, magma, mud, or ice. While you’re in this form your strength and durability are enhanced to supernatural levels and you’ll be able to reshape your limbs into natural weapons. Be careful however as you’ll be extremely weak to your opposing element while transformed.",
+600,Cleansing Bloodline,Tekken,Mystic Powers,"Your blood has a curious effect on those aligned with evil and Darkness
+similar to the Kazama bloodline. Your touch can soothe pain instilled by those beings and you can
+supress corruption by outside forces. With enough practice you would be able to banish evil spirits
+entirely. Alongside this comes a high resistance to any corruptive influences from third parties which
+could become a downright immunity.",
+600,Black Butterfly,Joujuu Sejin Mushibugyo,Mystic Powers,"Kuroageha, the black butterfly, the being whose powers can kill even the strongest mushi,
+but may as well be used to empower them even more under the right circumstances. She’s
+one of a kin and the biggest reason why Edo has yet to fall to the mushi invasion. Of course,
+that was until you came around. You know possess the same poison and powers as her.
+Perhaps even greater, since your degree of control starts off great enough to decide at will
+how your powers may affect others around you. Be careful, however, for there’s more than
+one interested in the power you now wield.",
+600,Shapeshifting Arts,Scissor Seven,Mystic Powers,"You possess a technique which allows you to transform into all kinds of creatures and
+objects. Although your durability remains the same and you can’t transform into
+something smaller than an insect or larger than an elephant, only your imagination is the
+limit. Even so, the transformation is heavily dependent on your mental image of what
+you’re transforming into, as such inconsistencies might be detected, likewise you can’t
+use any qi techniques or supernatural abilities the target you’ve transformed into may
+possess, unless you’ve learned them beforehand.",
+600,Monkey That Sees,Hanachirasu,Mystic Powers,"An ability that’s comparable to a cheat, if used correctly. You were born with a
+special power in your eyes and muscle control, an unfair advantage over all the
+other martial artists and practitioners of swordsmanship. You’re able to perfectly
+replicate any technique you see, up to the most minuscule micro-movements in
+the body. Even the most complex or confusing forms being easily imitated. And
+yet... Being able to replicate any technique you witness means nothing if you
+don't understand the logic behind it.",
+600,Berserk,Kenshi,Mystic Powers,"When you go into combat, you can choose to enter a Berserk state. Unlike the Shek
+Berserkers, you don’t lose your mind when you do this. If anything, you become hyper-focused on combat.
+You’ll move quicker, swing harder, and injuries seem to have less effect on you. In this state, what would be a
+duel with an equally skilled warrior becomes a one-sided execution. This doesn’t make you immune to
+damage, but it effectively delays most of the effects of injuries until you stop Berserking.",
+600,High Magic,Anima Beyond Fantasy,Mystic Powers,"There are spells beyond the potential of other, lesser beings. Spells of such power that most cannot cast them, no matter how much zeon they call upon. You are not so limited, and your potential shakes the world. High Magic lies within your grasp, even outside of a sanctum or without effort in the arts of metamagic.",
+600,Toxic Avenger,Furi,Mystic Powers,"Years of evolution, culture, civilization, great intellect, wonders of
+nature...wiped out in one, single impact. Your body projects a life-draining aura, extending about
+five meters in all directions from your person. Plants wither and die at your approach, and are
+reduced to dust in the wind under your feet. The ground turns black and barren at your passing,
+never again capable of sustaining life. Even water becomes putrid and tainted by entering your
+aura. It doesn’t seem to affect metal or technology though. If people enter this field, they either
+die as their bodies are twisted and rot, or they survive if they are pulled free in time, emerging
+mutated and insane. Every battle against you becomes a race against the clock. You may freely
+toggle this ability on and off.",
+600,Any Being Clothed in Material Flesh Can be Slain,Conan,Mystic Powers,"Arnold might have said it as “If it bleeds we can kill it.” But Conan was expressing that sentiment long before the 80s. If anything exists in a material form you can find a means to kill it with material weapons. It will not be easy necessarily. You will usually have to fight them, but as you fight supernatural protections seem to fall away, becoming easier for you to overcome, until eventually they must rely on sheer physical toughness and armor like any mortal being. And they had best fight, because ‘immortality’ will not save them from a fatal blow from your weapons. Even supernatural healing will be slowed and eventually fail them as you fight a foe.",
+600,God-Ranked Magician,Mushoku Tensei,Mystic Powers,"Through your perseverance on improving yourself, your magic has reach the pinnacle of the Three Main
+Categories of Magic of the Six-Faced World and proficiency and mastery of the magic spells of the Attack-
+Magic, Healing-Magic, and Summoning-Magic Category-Types reached completion such that you can claim to
+be a God-Rank Magician of the Three Main Categories of Magic. This elevates your Mana Reserves to the
+point that you can cast a dozen God-Rank Spells before being exhausted. Due to your proficiency and mastery
+of your spells, your Truncated Spell-Casting is further improved which now allows you to shorten the
+incantation for any magic-spells that you can do a single word incantations. Through completely mastering the
+Three Main Categories of Magic has given you the ability to meld two or more Magic-Spells into one to
+reproduce various unique effects and natural phenomena, and this also gives you the ability to combine two or
+more Magic-Systems into one creating a new magic system with all of the advantages and discarding their
+disadvantages. This also elevates your innate talent at learning and mastering any Powers though this is more
+prominent when you’re learning different types of magic and would allow you to reach God-Rank starting
+scratch within a year’s time though it would be faster if you have a master to learn from or if you already have a
+foundation for it. This also allows you to invent, innovate and re-create any kind of magic or spells that you see
+and face with a few times of experiencing it or observing it and it also bleeds to any Powers to a lesser degree.",
+600,Ki Absorption,Thunderbolt Fantasy,Mystic Powers,"You can absorb enchanted weapons and items into yourself, granting
+a portion of said object’s magical properties into your body. Absorbing a divine weapon
+would grant you divine infused attacks. Absorbing an indestructible sword would give
+you an incredibly sturdy body. Absorbing a fire enchanted spear would grant you the
+ability to light your hands on fire and so on. Be warned though, you gain the strengths
+AND the weaknesses of the items you absorb. For example, in the story, Kasei Meiko
+foolishly absorbed the thirty-six divine weapons, which led to him losing all of his powers
+after he traveled to a dimension where the swords were mundane in nature and thus
+conceptually lost their divine abilities.",
+600,Demonic Senses,Thunderbolt Fantasy,Mystic Powers,"Choose one of the five senses. You now possess a supernatural
+control over one of them that allows you to bind people to your will. Demonic control
+over sight would allow you to manifest a form so beautiful that people would either see
+you as a divine figure worthy of worship or an individual so beautiful that spectators
+would be overwhelmed with lust. Demonic control over sound would allow you to have a
+voice so enchanting and bewitching that all who heard your voice would become slaves
+to your will. Demonic control over touch would make it so that everyone who touches
+you would be bound to your will. Demonic smell would make the scent of your very
+being so pleasing and potent that all who smelled you would die or kill for a mere whiff
+of it. And a Demonic sense of taste would allow all who tasted a part of your body to be
+forcefully bound to your will until the part that they tasted was fully digested and processed by their body.",
+600,Goddess of Sound,Thunderbolt Fantasy,Mystic Powers,"No longer is sound simply something used to entertain those who
+listen to your music. Now, it’s a weapon because you've learned to weaponize the very
+concept of sound. With sounds, you can formulate sound waves sharp enough to cut
+through bone, steel, and demonic hides with ease. You can increase the decibels of
+your sound to such an extent that enemies who hear, or are even with a few feet, of
+your sound waves will be disoriented and stunned to such an extent that they will find
+themselves rattled and struggling to even focus on their five senses. If you increase the
+decibels of your attacks even further, you can render your enemies permanently deaf.
+As you further channel Ki into your sound attacks, they will become exponentially
+stronger, until they're eventually strong enough to cleave through mountains.",
+600,General of the Ice Barrier,Duel Monsters - Duel Terminal I,Mystic Powers,"The three Generals of the Ice Barrier, greatest warriors and leaders of the tribe’s army, do not limit their judgement to the battlefield, for their wisdom has helped many civic policies be set. Greatest is the ideal of strengthening the tribe and the self without drawing on dangerous entities such as the Ice Dragons. Though some might call your way uninspired, you’ve taken this to heart. Raiho casts the battlefields he joins in an icy haze that renders his enemies’ sight nearly null. But this haze is no mere visual obstruction, for at his command, the soft snow and crystals solidify into floating blades easily able to part a thousand soldiers in twain. Even those tougher than that face trouble, as the crystals can be used to remotely manipulate objects and the land, allowing him to start avalanches or disarm war machines. Gantala, the great monk who goes into battle with naught but his body. The cold ascetism of his training has allowed him to manifest flames that freeze rather than burn, coating his body for protection and attack, even being able to expel it as projectiles that freeze entire squadrons solid. But his body itself is a weapon, being able to take enough punishment to break a mansion without flinching and inflict the same with a single punch. Last is Grunard, able to forge armor and weapons out of ice so cold it vastly surpasses any normal steel, even a volcano being incapable of melting them, as well as control it remotely. It is not uncommon to see him work seemingly unlimited blades of ice in a heartbeat and rain them upon the battlefield, surgically striking enemies while shielding allies. You may choose a single General’s fighting style to copy with this purchase and, while you begin as their equal, the Generals are never content to stagnate... but that is simply proof that you too can continue to improve in your chosen style.
+
+You can purchase the other two styles for 300 CP each.",
+600,Jurrac Meteor,Duel Monsters - Duel Terminal I,Mystic Powers,"There are things no group can face. A terrible threat you can not defeat, even if you and your fellows stood side by side. If divided we die, and united we fall, we shall end as one. Once per Jump, you may summon an erupting volcano from under your feet, which will propel you into outer space (or a similarly far away location, should you already be outside of a planet’s reaches.) As you fly away, a message (which can also be transmitted through any other means of communication you may have) will reach out to a distance roughly equal to a large city, calling others to join you and explaining exactly what will happen in but a heartbeat. Any who accept will rise up towards you in flames, until all of your bodies join together into a massive saurian beast of stone and flames gazing at the planet beneath you. Then, you will collectively decide where to fall down, striking a location with titanic power enhanced not only by the mass of your shared body, but also all of your collective power. As the core of the Meteor, you will merely be left crippled by this, while the others will die.",
+600,Dust Storm,Duel Monsters - Duel Terminal II,Mystic Powers,"How can you say you’ll fight alongside your bird, if all you can do is stand on them and say encouraging words? Thankfully, you’ve taken the initiative and learned to fight on your own, so that you might better aid your friend in combat. Much like Windaar, you’ve learned extensive wind magics, allowing you to use various spells to control the weather and air. Invoking rain and clearing cloudy skies is easy, as is making wind daggers to tear apart rocks or crushing buffets to bring down trees. But with only a bit more energy on your part, you can cast spells capable of summoning true cyclones and tornados to wreak havoc upon enemies, or even control and corral all of the air in an entire wetland.",
+600,Disigma,Duel Monsters - Duel Terminal II,Mystic Powers,"While all Vylon can detect evil, you are capable of observing negative emotions of any kind with every single one of your senses. Depending on your aesthetics, this might make life annoying, or unveil an entire new world of delightful sensations. However, observing is not all you can do. If you can understand this negative emotion, you can devour it. At your will, this can either remove the strain on the psyche of whoever’s emotions you absorbed, or make it a permanent fixture of their mind while removing their ability to even comprehend why they suffer so. Even more cruel than that is what you can do if these emotions form a core part of their holder’s personality. In that case, you can instantly absorb your victim together with their emotions, rendering them down into pure energy to revitalize and strengthen you. But you won’t misuse this power, right?",
+600,Constellar Tempest,Duel Monsters - Duel Terminal II,Mystic Powers,"The stars may have empowered you before, but now you truly command them. Through sheer will, you are able to initiate celestial events, with their scope and effects limited by your raw power. As a higher-ranking Constellar, summoning meteor showers to raze away armies or localized eclipses to obscure the world should be within your abilities, but who knows what you might one day achieve. Could you imagine, seeing worlds collide and stars explode, simply because you willed it so?",
+600,Children of the Grave,Brütal Legend,Mystic Powers,"Rise, and seek out redemption! Once a year, release a soul shattering solo that breaks the bonds of the afterlife, releasing some of damned soul who died in your service or by your hands. While they lack power and are fragile in their new zombified husks, they can easily overcome enemies in sheer numbers. Beware however; this army of degenerates is kept in line only by your solo, and if you stop playing, they will take their newly gained freedom into their own hands.",
+600,Conjurer of Jotun,Jotun,Mystic Powers,"Every time you defeat a jotun, you gain the ability to call upon an echo of their being. This, at the expense of a large amount of energy, will briefly summon forth the form of the jotun to make an attack on your behalf. In future jumps, you can summon the echos of similar “bosses” you have defeated.",
+600,Millions of Brothers,Elric Saga,Mystic Powers,"Though you might only wield a single weapon in your hand, it is not
+without its kindred, as many things that only exist as a single object in one universe are capable of
+existing in countless other dimensions as reflections of one another. Though you would otherwise
+have no means of making use of this quirk of reality, there is now an old and powerful rune
+embedded in your mind, dangerous beyond imagining. Should you call upon it in your time of need,
+you will be able to summon the kindred of whatever weapon is currently in your hands throughout
+all of the multiverse, millions of their derivatives crossing the borders between worlds to direct their
+wrath upon whatever poor soul you have deemed your enemy. Should the weapon possess no will
+of its own, they will simply launch themselves at your chosen target and return to their own
+dimensions after the blow is struck, but those imbued with intelligence might direct themselves
+through the air to continue the battle of their own accord, being banished only after taking too much
+damage or when the enemy has been defeated. The drawback of this rune is that its use will likely
+exhaust you, and the storm of weapons that ensues will have no regard for its surroundings as it
+attempts to destroy the enemy.",
+600,Whimpers of the Universe,Elric Saga,Mystic Powers,"Not even the Lords of Law and Chaos know how you could
+have obtained such a power, so alien and bizarre even to the denizens of the Higher Worlds.
+Previously possessed only by a pair of siblings who arrived from beyond the universe in a dream
+half-remembered, yours is the ability to drain magical power from the world itself. More than just
+tapping into some natural source, you tear it from the fabric of reality to restore your own energies
+and empower your reserves to greater heights. As you are now, the process is slow and the area it
+affects barely larger than the space you occupy, though you will never have to rely solely on the
+natural replenishment of your mental energy again, and with time you will learn to siphon energy
+more rapidly and throughout a greater area. Now it is only a tiny bubble clinging to where you
+stand, but with a decade of constant use it may grow to encompass an entire castle to drain it in a
+matter of seconds, and who knows how much more powerful it could become from there? While it
+can’t be used to target specific individuals, your power can be focused if you happen to find a place
+of particular magical power like the heart of a mystical forest or a spot where dimensions intersect,
+but be careful—while the energy is plentiful, robbing reality of too much of its substance could have
+some terrible consequences for a being of flesh and blood...",
+600,Flames of Hell,Primal,Mystic Powers,"Someone could be forgiven for believing you made a pact with the underworld. After all, you possess the ability to take on another form where your flesh becomes gray and your features indistinct. In this form your body begins to produce substantial heat, and flames wrap about you licking across your body. These flames won’t hurt you, in this form you are a creature of flames, and instead they will serve you, allowing you to project them from your body as a dangerous weapon, or to strike the ground and send them through it making the ground break apart before erupting with fiery magma. You can even form weapons from it, using your flames to create a solid copy of hand-held weapons, including copying the special abilities of ones you obtained directly from a jump document. These copies won’t stay around out of your hand for longer than it’d take to say throw them into something. As you grow in size and physical power so too will the powers of your flames.
+
+Besides these powers you possess some interesting abilities. First you’re able to walk on water. You can choose not to, and walking in ankle deep water won’t hurt you even in this fiery form, though it might be useful if you needed to cross the ocean without a boat. Second you are able to turn into a giant, flaming snake. This form is narrower than your normal one, but it’s longer and significantly larger overall. It’s useful for climbing things, and could probably coil someone, or other constrictor snake things. The larger you are in your base form, the larger this snake form will be. You may also shift your facial features and the level of detail of your form, moving from the indistinct features of this shape to your normal features. You may, possibly, learn to use this limited shapeshifting power in other ways, possibly learning to shape other features, or turn into other animal forms with a total mass similar to your original to somewhat larger.
+
+If you took the Alpha perk you may choose to have it activate in this form even if you are entering this form from an alt-form where it would not be active.",
+600,Annihilation,Worldless,Mystic Powers,"You have learned several of Summum’s powerful techniques. You can manifest strings to control a weaker being like a puppet, even splitting up fused beings if need-be. You can cast a variety of spells that home-in on a target. With Lock you can manifest a halo that occasionally restores any damage to your locks. Finally, by leaving yourself defenseless for several seconds, you can charge up Mega Flare, an enormous undodgeable attack only a legendary being like Summum could hope to survive.",
+600,LONGINUS,Worldless,Mystic Powers,"One of the few ways that THOSE FROM ABOVE can meaningfully interact with this
+universe is by raining spears down on it. Unless someone has the power of a god,
+these spears are completely immovable. You can ignore this using the (slow)
+telekinetic control this perk grants you over them. Summoning and aiming one of
+these spears takes a couple minutes of undivided attention. If taken alongside Lance,
+you may make this your spear form, but this doesn’t make moving any easier.
+
+Taking this perk will saddle you with the ""ELDRITCH"" Drawback, though you still gain the points it gives.",
+600,Keeper of the Flame,Darkest Dungeon,Mystic Powers,"“Compassion is a rarity in the fevered pitch of battle.”
+Healing. The simplest of the Light’s promises, and yet one of the most effective for prolonged campaigns and short fights alike. Imbued with this power by the Holy Flame, you now have the ability to spread this gift to others- knitting their wounds even as they are split open and making even grievous wounds disappear with sustained channeling. Although this won’t do much more than heal some of the blood loss for especially nasty cuts- and nor will it neutralize poison- it will keep these things from pushing someone over the edge, allowing the wound to clot and the poison to metabolize. Your powers are such that they can be extended to a small group of people- including yourself- allowing you to keep an entire group from the boatman’s clutches, so long as luck and speed is still on your side.",
+600,Mark for Death,Darkest Dungeon,Mystic Powers,"“True desperation is known only when escape is impossible.”
+All that lives must one day expire, and with strange aeons even beings of cosmic malevolence can die. And you are the one who arranges meetings with the reaper, and it is by your command that others meet him. By simply pointing out at an enemy, you open them up for extreme damage; making them stumble when they try to dodge, and weakening armor and flesh. Although you can only “mark” one being in this way at a time, others are more than capable of taking advantage of this weakness- and the more precise their attack, the more damage they are capable of dealing. With this and luck some of the strongest abominations can be felled with but a few blows.",
+600,State of UN,Kill 6 Billion Demons,Mystic Powers,"Through enlightenment, you have witnessed the river that flows through the Wheel. This has allowed you to devise techniques to transcend time:
+
+State of UN: The eponymous technique based on the truth: You do not have a body, merely a shadow cast by your own soul flame. Through a set of breathing meditations to drink in the river's waters, you de-age yourself back to your prime and maintain that state. It will also satisfy your need for sustenance and sleep as much as three balanced meals a day and full eight hours of quality sleep respectively.
+
+Resurface then Ripple the Water: By passing your third eye through the river's surface, you can peer a few seconds into the past or future. By resonating your Atum with your past or future self, you can even strike your opponent in the past or future.
+
+Split the Stream: Your most powerful technique yet. You divide the timeline into two separate ones with complete awareness of both, allowing you to take different actions in each one. Then you can merge the timelines (or the timelines merge when you lose focus) allowing the consequences of both timelines to take effect. This move is better used in duels with no one in the local vicinity as they risk being caught in the effect. Be warned, if you die in one timeline and you merge it, you will die. Same goes for anyone else within range.
+
+For now, it is barely a school as you have yet to master this state. You may continue to devise new techniques or perfect the ones you currently know such as increasing the distance of your past/future sight or increasing the number of timeline splits.",
+600,What Can be Given can be Taken,Kung Fu Panda,Mystic Powers,"Strength is everything, what is gold or jewels to the power to take them? What is steel compared to the hand that wields it? Strength is the only true treasure in this universe, so giving strength is anathema to the truly formidable. Nevertheless, if the weak can give their strength away then it can also be taken by force. With this perk you have truly become fallen, you can steal the Chi of living beings. This enhances your strength and abilities if in only a small measure. This theft also turns the victim into a small jade pendant that can be transformed into a jade zombie like servant called a Jade Warrior. Jade Warriors are just as skilled and strong as they were in life despite the fact that now simply followers of your will. You can even view and hear everything a jade Warrior can. In most cases however you just have to defeat your enemy before stealing their chi, and the increase in your personal power is actually quite small. It could take hundreds of years to gather truly large quantities, especially from truly powerful masters",
+600,Five Mystic Kung Fu Secrets,Kung Fu Panda,Mystic Powers,"The universe has infinite mysteries, unfathomable riddles, and incredible secrets, secrets only the sharpest of minds can contemplate and uncover. Intense meditation and contemplation over the knowledge of sacred scrolls has given the Five Mystic Kung Fu Secrets, and the key to perhaps many more. Secrets are somewhat similar to Impossible Moves as some are offensive supernatural abilities, however the secrets allow for other effects and temporary enhancements of a Traveler's attributes to superhuman levels and other more versatile abilities.
+The known Secrets are:
+
+The Iron Heart, which increases the user's strength by boosting it with their chi to a
+maximum of 15 tons.
+
+The Clap of Stillness, which freezes the movement of anything nearby Jin Tian's
+Tempest, which grants the user the ability to fire lightning bolts
+
+The Yangtze Spleen Punch, which knocks out anyone within a 100-yard radius
+
+The Wings of Light, which grants the user the ability to fly to 50-80mph.
+
+These effects are often temporary as they are powered by the Traveler's chi and therefore can lead to needing rest and recovery after use of them for extended periods, although the user can quickly end a fight anyway. Further secrets must be discovered through intense and long meditations, which may last days, weeks, or even far longer. A Traveler could defend themselves if attacked but would be rather distracted and would not want to abandon the contemplation unfinished. Travelers are often attracted to sights and sounds and to be whimsical and scatterbrained for some time afterwards as there deep musings have left their minds unbalanced and in need of outside stimulation and downtime. Some secrets can be resisted with chi that is as strong or stronger than the Travelers, secrets like the Yangze Spleen punch and the Clap of Stillness",
+600,Reality Warping,Kajiri Kamui Kagura,Mystic Powers,"At its core, Distortion is an ability granted by someone brought to the level of a Hadou god. As gods are reality warpers, your Distortion has granted you a small part of this capability. You are able to manipulate reality in a small radius around you. You can easily causes terrain to shift, or the weather in your immediate area to change, or even do things like make it rain blood. As your powers grow, you are able to easily come up with even more creative uses for your reality warping and figure out how to use it to complement your other abilities.
+
+In addition, at their most extreme levels, Distortions can cause unprecedented damage and destruction. Vomiting organs, people around Distortions randomly dying gruesome deaths, and for those as strong as Sakuya, they have to be careful just when doing their hair and nails to not cause damage to themselves or others. Fortunately for you, while your Distortion has reached these uncontrolled levels of power, it is not uncontrollable for you. You find yourself capable of directing your distortion in unique ways. Direct it at someone and they might start vomiting up their kidneys, condense it around you and you might find that enemy attacks cannot penetrate it. You also find that any other reality warping abilities or similar capabilities that you possess are magnified in power.",
+600,Lord of the Scorched,Arawn,Mystic Powers,"None should possess these wicked, unnatural
+powers, yet you do. Normally, they’d only be attained by Arawn after the Thing in the Cauldron left his
+body. Firstly, your strength and vitality has been enhanced to superhuman levels, as you can now easily
+leap dozens of feet into the air and crush a man’s skull with one hand. The unholy powers that suffuse
+your form have made it so you have very few vital organs, and can survive injuries such as ripping out
+your own heart. In fact, your heart wouldn’t even stop beating if you did so. Speaking of blood, yours
+has special properties. Any dead being that ingests it will be resurrected as a living corpse, an undead
+creature. They will be mindlessly subservient to you by default, though you may choose to return some
+of their free will if you wish. This only works on the recently deceased. If someone’s been dead for too
+long, you will only get an empty husk when you feed them your blood, incapable of heeding orders.
+Lastly, pyrokinesis. You can create and control fire, calling forth great vortexes of flame at will.",
+600,Eyes of Thanos,Luther Strode,Mystic Powers,"Students of Cain are usually satisfied with raw physical power. Those Students who go beyond
+make death as natural as breathing, they can impress their will by mere sight. Results may vary
+from breaking minds, paralysis, catatonic visions, and even death in the weak. This can be shaped
+and controlled through experience, but is no guarantee of killing with a gaze. Yet even a pause can
+mean the difference between life or death.",
+600,DESTROYED!,YOMI Hustle,Mystic Powers,"If you have 9 levels of Super Meter, you can execute an attack that will instantly kill an opponent. Or at least, instantly defeat them. Don't rely on it though, since it might be pretty situational. If an opponent knows you can do it, they'll probably avoid it as much as possible.
+Requires ""Super Meter"" to Purchase",
+600,Shadow Wizard (of the Money Gang),YOMI Hustle,Mystic Powers,"You gain an advanced comprehension of magic. Whether it be traditional staff/wand magic, hand-wavy bullshit spells, or incantations, you've learnt how to use magic in combat. Sadly this is just combat usage, though, so not really much to help outside of combat. Also, if you wear a cloak with a hood, you can make the hood completely shadow out your face, except a white glow on your eyes.",
+700,Dire Flame,Jade Empire,Mystic Powers,"Practitioners of Dire Flame can throw bolts of fire, project explosive fireballs, and even summon
+dragon-like burning constructs that immolate enemies with tongues of flame. Sometimes the sight of a
+fighter wielding the power of flame is enough to reduce the bravest of opponents to begging for mercy",
+700,Ice Shard,Jade Empire,Mystic Powers,"While many warriors swear by the power of Dire Flame, many others seek to master the powerful Ice
+Shard. By using their chi to summon forth the soul-chilling cold of the highest mountains, masters of Ice
+Shard can send daggers of ice flying toward enemies, call a freezing ice storm to slow their shivering
+foes, or even encase opponents in columns of ice before shattering them with a single blow. Few
+fighters have the courage to stand up to the cold stare of an Ice Shard master",
+700,Stone Palm,Jade Empire,Mystic Powers,"Fighters who study this style gain mastery over the ponderous element of earth, putting the mighty
+power of stone and crystal at their command. Masters of Stone Immortal have the ability to attack
+enemies with crystalline missiles, encase foes in stone, or even open the ground beneath an opponent's
+feet. To command the power of earth requires a mind centered on balance, stability, and order, and so
+Stone Immortal is a favored style among followers of the Way of the Open Palm. It is far less effective if
+wielded by those who follow the Way of the Closed Fist",
+700,Tempest,Jade Empire,Mystic Powers,"Warriors proficient in Tempest have the winds at their beck and call. Fighters who have faced this style
+and survived tell tales of blasts of gale-force winds and of powerful whirlwinds that effortlessly sent
+them flying away from the Tempest master himself. Many practitioners of Tempest face entire gangs
+without ever taking a wound, as the mighty winds at their command keep their foes at bay. Warriors
+with the chill of the wind in their hearts find Tempest far easier to command, so it is a favored style of
+the Way of the Closed Fist, and less effective in the hands of those who follow the Way of the Open Palm",
+700,Red Minister Transformation,Jade Empire,Mystic Powers,"When an eminent sage dies, its spirit sometimes returns as a ghostly Red Minister. Taking the form of a
+Red Minister grants a warrior the nefarious ability to feed on an opponent's life force and the
+incorporeal spirit's immunities to weapons and Support styles. Few people in this troubled age have the
+resilience to withstand the spine-chilling touch of a Red Minister",
+700,Horse Demon Transformation,Jade Empire,Mystic Powers,"Powerful warriors can gain the power to take the form of the fearsome Horse Demon. This
+transformation grants the Horse Demon's legendary ferocity, as well as its mastery of the element of fire
+and its immunity to the effects of Support styles. Faced with the immolating brutality of the Horse
+Demon, weak-willed foes cower in fear, helpless against the raging flames",
+700,Toad Demon Transformation,Jade Empire,Mystic Powers,"Toad Demons might not be the most highly respected demons, but this style proves that they are not to
+be trifled with. A warrior using this style takes the hulking form of the deadly Toad Demon, complete
+with the demon's clawed flippers and its punishing tongue attack. This form also makes the martial artist
+immune to all Support styles, just like the toad demon itself",
+800,Action Commands,Asura's Wrath,Mystic Powers,"The ability to win all comes down to timing and guts. You have a sense for the dramatic, and can shift an encounter from slugfest to high­-cinematic choreography. You can awe continents with your feats. If you would be faced by a dramatic challenge you would be otherwise just barely manage to overcome, or even just barely fail to do so, you either summon the strength to do so, or you surpass it with heaven­-shaking effect. Both results depending on how dramatic it is (based on your relative ability to what you’re facing).
+
+The limit of this perk is your innate capability­ and if you hit all your cues, and there's enough dramatic tension in the air, it lets you surpass that limit in grand style. It will not let you accomplish patently impossible feats, however. Failing to hit those marks means you’ll take some damage though, and you’ll have to build back up to the right dramatic moment..
+
+This perk cannot be taken alongside ""Two Can Play That Game!""",
+800,Two Can Play That Game,Asura's Wrath,Mystic Powers,"You gain perfect insight as to the dramatic sequences and furious attack combinations that empowered or supernatural forces can bring against you­ because you have them too. You have the Action Commands Perk, and can observe an opponent's own attempts to rise above their dramatic station. Because of this insight, opponents are more likely to fumble their incredible feats of daring, or you are extremely good at confusing them into same. However, in exchange for this prowess, you have trouble recovering after failing to hit a mark yourself. Every cue you fail to hit increases the lag on your next action by an appropriate amount­ usually some critical fraction of a second.
+
+This perk cannot be taken alongside ""Action Commands""",
+800,God of Fighting,Tekken,Mystic Powers,"The being known as Toshin or Ogre used to be one of the most feared Fighters
+of the World. This was not only due to its mysterious origin but also because of its ability to
+‘understand entire structures of all living and artificial beings and absorb them’. This same Power is
+now yours. You can absorb the Ki and abilities of those you defeat into yourself, becoming stronger
+with every victory.",
+800,Dogmaguy,Duel Monsters - The Heroes,Mystic Powers,"You’re not an average guy, that’s for sure. You are strong, able to lift suburban houses by their very foundation as if it were nothing, and you’re so tough explosives are where you start getting scuffed. Together with the mysterious armor you have acquired, anyone without high-grade military weapons might as well not even bother. You have wings which allow you to move slightly faster than you can run, and you can channel a mysterious power through a single opponent’s body and into yours to decree their Life Absolute. Doing so will cause their current vitality to be halved, regardless of their durability and any protections they may have, though you can only use this power once per battle.",
+800,Dark Gaia,Duel Monsters - The Heroes,Mystic Powers,"Well, this is something alright. Whether you’re a bona fide demon, the wrathful earth’s vengeance, or just some druidic weirdo, you’ve got control over fire and earth. What this means, is that you can command lava and magma flows, or create them entirely. Whether you’re redirecting erupting volcanoes for your own reasons, or covering entire city blocks in burning hatred, the earth’s very blood is yours to command and create as you see fit. If that’s not your liking, then you could simply command earth or fire by themselves, which would only be slightly weaker compared to the feats you perform by calling up and commanding liquid rock. While you aren’t particularly durable in other ways, your connection to the burning earth has granted you an extreme resistance to heat, to the point that there’s no molten rock in this world that could actually harm you. As an aside, you’ve got bat wings with rock bones and a classic spade tail. You know... the non-demonic theories for how you got your powers don’t look so plausible now.",
+800,Witch,Primal,Mystic Powers,"You may not be one of the witches of the coven of doom, but you possess similar magical powers to their own. You are able to transform into animals; you won’t be turning into a tyrannosaurus sized wolf, or a tyrannosaurus, but you could turn into a normal sized one, a big bird, or other approximately human sized animals, down to those the size of a rodent. You are able to control the minds of reptiles, including dinosaurs, though willpower can resist this and Fang nearly broke free when properly motivated. You are able to fly and turn into wisps of flowing green energy to dodge non-magical attacks. You are able to use this same green energy to manipulate items. Finally, what is probably your most impressive power is to freeze time. You aren’t able to actually interact with things physically during the stopped time, seem to need to return to where you were before unfreezing it, and you can almost certainly hold it for only so long. However you are able to, by drawing a circle of green energy on a surface, create a portal which can be used to enter the memories of yourself or others and view them. You have some control of where in their memories you view, able to seek out a starting point and fast forward through them.
+
+Regardless of the price purchased at, you may choose to be of the species (or subspecies) that the witches were instead of your current race, and to gain it as an alt-form.",
