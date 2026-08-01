@@ -298,6 +298,15 @@
       ]
     },
     {
+      "id": "source_a_record_of_a_mortals_journey_to_immortality_-_mortal_arc",
+      "name": "A Record Of A Mortal's Journey To Immortality - Mortal Arc",
+      "displayName": "A Record Of A Mortal's Journey To Immortality - Mortal Arc",
+      "description": "Perks from A Record Of A Mortal's Journey To Immortality - Mortal Arc.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_a_song_of_ice_and_fire",
       "name": "A Song of Ice and Fire",
       "displayName": "A Song of Ice and Fire",
@@ -354,6 +363,15 @@
       ]
     },
     {
+      "id": "source_a_tinkers_way_by_raventhewizard",
+      "name": "A Tinker's Way (by RaventheWizard)",
+      "displayName": "A Tinker's Way (by RaventheWizard)",
+      "description": "Perks from A Tinker's Way (by RaventheWizard).",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_a_wild_last_boss_appeared",
       "name": "A Wild Last Boss Appeared!",
       "displayName": "A Wild Last Boss Appeared!",
@@ -380,6 +398,15 @@
       "description": "Perks from Abara.",
       "categories": [
         "darkest_tome"
+      ]
+    },
+    {
+      "id": "source_aberrant",
+      "name": "Aberrant",
+      "displayName": "Aberrant",
+      "description": "Perks from Aberrant.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -852,6 +879,15 @@
       ]
     },
     {
+      "id": "source_american_mcgees_alice",
+      "name": "American McGee's Alice",
+      "displayName": "American McGee's Alice",
+      "description": "Perks from American McGee's Alice.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_amnesia",
       "name": "Amnesia",
       "displayName": "Amnesia",
@@ -987,6 +1023,15 @@
         "forge",
         "grimoire",
         "grimoire_yggdrasil_personal"
+      ]
+    },
+    {
+      "id": "source_animator_vs_animation",
+      "name": "Animator vs. Animation",
+      "displayName": "Animator vs. Animation",
+      "description": "Perks from Animator vs. Animation.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -1189,6 +1234,15 @@
       ]
     },
     {
+      "id": "source_ars_magica_jumpchain",
+      "name": "Ars Magica Jumpchain",
+      "displayName": "Ars Magica Jumpchain",
+      "description": "Perks from Ars Magica Jumpchain.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_artemis_fowl",
       "name": "Artemis Fowl",
       "displayName": "Artemis Fowl",
@@ -1349,7 +1403,8 @@
       "displayName": "Atelier Ryza",
       "description": "Perks from Atelier Ryza.",
       "categories": [
-        "reliquary"
+        "reliquary",
+        "something"
       ]
     },
     {
@@ -2349,6 +2404,15 @@
       ]
     },
     {
+      "id": "source_blue_prince_gauntlet",
+      "name": "Blue Prince Gauntlet",
+      "displayName": "Blue Prince Gauntlet",
+      "description": "Perks from Blue Prince Gauntlet.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_blue_submarine_no_6",
       "name": "Blue Submarine No.6",
       "displayName": "Blue Submarine No.6",
@@ -2714,7 +2778,8 @@
       "displayName": "Carrion",
       "description": "Perks from Carrion.",
       "categories": [
-        "darkest_tome"
+        "darkest_tome",
+        "something"
       ]
     },
     {
@@ -2733,6 +2798,15 @@
       "description": "Perks from Cassette Beasts.",
       "categories": [
         "darkest_tome"
+      ]
+    },
+    {
+      "id": "source_castle_wolfenstein",
+      "name": "Castle Wolfenstein",
+      "displayName": "Castle Wolfenstein",
+      "description": "Perks from Castle Wolfenstein.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -3148,6 +3222,15 @@
       ]
     },
     {
+      "id": "source_children_of_the_sun",
+      "name": "Children of the Sun",
+      "displayName": "Children of the Sun",
+      "description": "Perks from Children of the Sun.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_chinese_mythology",
       "name": "Chinese Mythology",
       "displayName": "Chinese Mythology",
@@ -3313,7 +3396,8 @@
       "displayName": "Civilization",
       "description": "Perks from Civilization.",
       "categories": [
-        "companion"
+        "companion",
+        "something"
       ]
     },
     {
@@ -3464,7 +3548,8 @@
       "categories": [
         "darkest_tome",
         "grimoire",
-        "reliquary"
+        "reliquary",
+        "something"
       ]
     },
     {
@@ -3651,7 +3736,8 @@
         "compendium",
         "darkest_tome",
         "grimoire",
-        "grimoire_yggdrasil_personal"
+        "grimoire_yggdrasil_personal",
+        "something"
       ]
     },
     {
@@ -3730,7 +3816,8 @@
       "description": "Perks from Danganronpa.",
       "categories": [
         "companion",
-        "forge"
+        "forge",
+        "something"
       ]
     },
     {
@@ -4585,7 +4672,8 @@
       "description": "Perks from Diablo.",
       "categories": [
         "grimoire",
-        "reliquary"
+        "reliquary",
+        "something"
       ]
     },
     {
@@ -4694,6 +4782,15 @@
         "forge",
         "gardens",
         "heros_journey"
+      ]
+    },
+    {
+      "id": "source_disco_elysium",
+      "name": "Disco Elysium",
+      "displayName": "Disco Elysium",
+      "description": "Perks from Disco Elysium.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -5819,6 +5916,7 @@
       "categories": [
         "grimoire",
         "grimoire_yggdrasil_personal",
+        "something",
         "the_godly_epic_meros_proto_xxxl"
       ]
     },
@@ -6219,7 +6317,8 @@
       "displayName": "Enter the Gungeon",
       "description": "Perks from Enter the Gungeon.",
       "categories": [
-        "forge"
+        "forge",
+        "something"
       ]
     },
     {
@@ -6702,6 +6801,15 @@
       ]
     },
     {
+      "id": "source_factorio_jumpchain",
+      "name": "Factorio Jumpchain",
+      "displayName": "Factorio Jumpchain",
+      "description": "Perks from Factorio Jumpchain.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_faerun",
       "name": "Faerun",
       "displayName": "Faerun",
@@ -6775,6 +6883,15 @@
       "description": "Perks from Fallout.",
       "categories": [
         "forge"
+      ]
+    },
+    {
+      "id": "source_fallout_-_new_vegas_pokebrat_j",
+      "name": "Fallout - New Vegas (Pokebrat_J)",
+      "displayName": "Fallout - New Vegas (Pokebrat_J)",
+      "description": "Perks from Fallout - New Vegas (Pokebrat_J).",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -8729,6 +8846,15 @@
       ]
     },
     {
+      "id": "source_generic_alchemist_jump",
+      "name": "Generic Alchemist Jump",
+      "displayName": "Generic Alchemist Jump",
+      "description": "Perks from Generic Alchemist Jump.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_alien_invasion",
       "name": "Generic Alien Invasion",
       "displayName": "Generic Alien Invasion",
@@ -8805,6 +8931,15 @@
       ]
     },
     {
+      "id": "source_generic_biomancer_jump",
+      "name": "Generic Biomancer Jump",
+      "displayName": "Generic Biomancer Jump",
+      "description": "Perks from Generic Biomancer Jump.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_buffy_fanfiction",
       "name": "Generic Buffy Fanfiction",
       "displayName": "Generic Buffy Fanfiction",
@@ -8867,7 +9002,17 @@
       "displayName": "Generic Cubicle",
       "description": "Perks from Generic Cubicle.",
       "categories": [
-        "forge"
+        "forge",
+        "something"
+      ]
+    },
+    {
+      "id": "source_generic_custodial_warrior",
+      "name": "Generic Custodial Warrior",
+      "displayName": "Generic Custodial Warrior",
+      "description": "Perks from Generic Custodial Warrior.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -8939,12 +9084,30 @@
       ]
     },
     {
+      "id": "source_generic_earth_manipulation",
+      "name": "Generic Earth Manipulation",
+      "displayName": "Generic Earth Manipulation",
+      "description": "Perks from Generic Earth Manipulation.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_enchanter",
       "name": "Generic Enchanter",
       "displayName": "Generic Enchanter",
       "description": "Perks from Generic Enchanter.",
       "categories": [
         "primordial_flames"
+      ]
+    },
+    {
+      "id": "source_generic_enchanter_jump",
+      "name": "Generic Enchanter Jump",
+      "displayName": "Generic Enchanter Jump",
+      "description": "Perks from Generic Enchanter Jump.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -8999,6 +9162,15 @@
       ]
     },
     {
+      "id": "source_generic_farming_simulator",
+      "name": "Generic Farming Simulator",
+      "displayName": "Generic Farming Simulator",
+      "description": "Perks from Generic Farming Simulator.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_fat_fetish",
       "name": "Generic Fat Fetish",
       "displayName": "Generic Fat Fetish",
@@ -9035,6 +9207,15 @@
       ]
     },
     {
+      "id": "source_generic_fire_manipulation",
+      "name": "Generic Fire Manipulation",
+      "displayName": "Generic Fire Manipulation",
+      "description": "Perks from Generic Fire Manipulation.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_first_jump",
       "name": "Generic First Jump",
       "displayName": "Generic First Jump",
@@ -9052,6 +9233,15 @@
       "categories": [
         "debauchery",
         "waifu"
+      ]
+    },
+    {
+      "id": "source_generic_first-person_shooter",
+      "name": "Generic First-Person Shooter",
+      "displayName": "Generic First-Person Shooter",
+      "description": "Perks from Generic First-Person Shooter.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -9120,6 +9310,24 @@
       "description": "Perks from Generic Healer.",
       "categories": [
         "grimoire"
+      ]
+    },
+    {
+      "id": "source_generic_healer_jump",
+      "name": "Generic Healer Jump",
+      "displayName": "Generic Healer Jump",
+      "description": "Perks from Generic Healer Jump.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
+      "id": "source_generic_hedge_mage",
+      "name": "Generic Hedge Mage",
+      "displayName": "Generic Hedge Mage",
+      "description": "Perks from Generic Hedge Mage.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -9308,6 +9516,15 @@
       ]
     },
     {
+      "id": "source_generic_ki_warrior_jump",
+      "name": "Generic Ki Warrior Jump",
+      "displayName": "Generic Ki Warrior Jump",
+      "description": "Perks from Generic Ki Warrior Jump.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_lewd",
       "name": "Generic: Lewd",
       "displayName": "Generic: Lewd",
@@ -9392,6 +9609,15 @@
       ]
     },
     {
+      "id": "source_generic_linguist",
+      "name": "Generic Linguist",
+      "displayName": "Generic Linguist",
+      "description": "Perks from Generic Linguist.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_loli",
       "name": "Generic: Loli",
       "displayName": "Generic: Loli",
@@ -9463,7 +9689,8 @@
       "displayName": "Generic Merchant",
       "description": "Perks from Generic Merchant.",
       "categories": [
-        "grimoire"
+        "grimoire",
+        "something"
       ]
     },
     {
@@ -9633,6 +9860,15 @@
       ]
     },
     {
+      "id": "source_generic_rogue_jump",
+      "name": "Generic Rogue Jump",
+      "displayName": "Generic Rogue Jump",
+      "description": "Perks from Generic Rogue Jump.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_romantic_story",
       "name": "Generic Romantic Story",
       "displayName": "Generic Romantic Story",
@@ -9676,6 +9912,15 @@
       "categories": [
         "companion",
         "forge"
+      ]
+    },
+    {
+      "id": "source_generic_spy_thriller",
+      "name": "Generic Spy Thriller",
+      "displayName": "Generic Spy Thriller",
+      "description": "Perks from Generic Spy Thriller.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -9724,6 +9969,15 @@
         "companion",
         "forge",
         "mutation"
+      ]
+    },
+    {
+      "id": "source_generic_superintelligence_gauntlet",
+      "name": "Generic Superintelligence Gauntlet",
+      "displayName": "Generic Superintelligence Gauntlet",
+      "description": "Perks from Generic Superintelligence Gauntlet.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -9793,6 +10047,15 @@
       ]
     },
     {
+      "id": "source_generic_videogame_developer_cyoa",
+      "name": "Generic Videogame Developer CYOA",
+      "displayName": "Generic Videogame Developer CYOA",
+      "description": "Perks from Generic Videogame Developer CYOA.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_virgin",
       "name": "Generic: Virgin",
       "displayName": "Generic: Virgin",
@@ -9830,12 +10093,30 @@
       ]
     },
     {
+      "id": "source_generic_water_manipulation",
+      "name": "Generic Water Manipulation",
+      "displayName": "Generic Water Manipulation",
+      "description": "Perks from Generic Water Manipulation.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_generic_westerm_comic_lewd",
       "name": "Generic Westerm Comic Lewd",
       "displayName": "Generic Westerm Comic Lewd",
       "description": "Perks from Generic Westerm Comic Lewd.",
       "categories": [
         "debauchery"
+      ]
+    },
+    {
+      "id": "source_generic_wind_manipulation",
+      "name": "Generic Wind Manipulation",
+      "displayName": "Generic Wind Manipulation",
+      "description": "Perks from Generic Wind Manipulation.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -10303,12 +10584,30 @@
       ]
     },
     {
+      "id": "source_gooseworx",
+      "name": "Gooseworx",
+      "displayName": "Gooseworx",
+      "description": "Perks from Gooseworx.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_gorefield_horrorscopes",
       "name": "Gorefield Horrorscopes",
       "displayName": "Gorefield Horrorscopes",
       "description": "Perks from Gorefield Horrorscopes.",
       "categories": [
         "darkest_tome"
+      ]
+    },
+    {
+      "id": "source_gotham_show",
+      "name": "Gotham Show",
+      "displayName": "Gotham Show",
+      "description": "Perks from Gotham Show.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -10871,7 +11170,8 @@
         "forge",
         "grimoire",
         "grimoire_yggdrasil_personal",
-        "reliquary"
+        "reliquary",
+        "something"
       ]
     },
     {
@@ -10937,6 +11237,7 @@
       "displayName": "Harry Potter CYOA",
       "description": "Perks from Harry Potter CYOA.",
       "categories": [
+        "something",
         "spellbook"
       ]
     },
@@ -11485,6 +11786,15 @@
       ]
     },
     {
+      "id": "source_homonculus_starter_kit_cyoa",
+      "name": "Homonculus Starter Kit CYOA",
+      "displayName": "Homonculus Starter Kit CYOA",
+      "description": "Perks from Homonculus Starter Kit CYOA.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_honkai_impact_3rd",
       "name": "Honkai Impact 3rd",
       "displayName": "Honkai Impact 3rd",
@@ -11635,6 +11945,15 @@
         "grimoire",
         "reliquary",
         "song"
+      ]
+    },
+    {
+      "id": "source_houseki_no_kuni_land_of_the_lustrous",
+      "name": "Houseki No Kuni (Land of the lustrous)",
+      "displayName": "Houseki No Kuni (Land of the lustrous)",
+      "description": "Perks from Houseki No Kuni (Land of the lustrous).",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -12167,6 +12486,15 @@
       "description": "Perks from IOU.",
       "categories": [
         "forge"
+      ]
+    },
+    {
+      "id": "source_iridescent_souls_cyoa",
+      "name": "Iridescent Souls CYOA",
+      "displayName": "Iridescent Souls CYOA",
+      "description": "Perks from Iridescent Souls CYOA.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -12999,6 +13327,15 @@
       ]
     },
     {
+      "id": "source_kumo_desu_ga_nani_ka",
+      "name": "Kumo Desu ga, Nani Ka?",
+      "displayName": "Kumo Desu ga, Nani Ka?",
+      "description": "Perks from Kumo Desu ga, Nani Ka?.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_kurohime",
       "name": "Kurohime",
       "displayName": "Kurohime",
@@ -13774,6 +14111,15 @@
       ]
     },
     {
+      "id": "source_lisa_the_painful_rpg",
+      "name": "LISA: The Painful RPG",
+      "displayName": "LISA: The Painful RPG",
+      "description": "Perks from LISA: The Painful RPG.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_little_nicky",
       "name": "Little Nicky",
       "displayName": "Little Nicky",
@@ -13790,6 +14136,24 @@
       "description": "Perks from Little Nightmares.",
       "categories": [
         "darkest_tome"
+      ]
+    },
+    {
+      "id": "source_little_witch_academia",
+      "name": "Little Witch Academia",
+      "displayName": "Little Witch Academia",
+      "description": "Perks from Little Witch Academia.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
+      "id": "source_live_a_live",
+      "name": "Live A Live",
+      "displayName": "Live A Live",
+      "description": "Perks from Live A Live.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -14312,6 +14676,15 @@
       "description": "Perks from Magic.",
       "categories": [
         "grimoire"
+      ]
+    },
+    {
+      "id": "source_magic_multiverse_mayhem",
+      "name": "Magic Multiverse Mayhem",
+      "displayName": "Magic Multiverse Mayhem",
+      "description": "Perks from Magic Multiverse Mayhem.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -15266,6 +15639,15 @@
       ]
     },
     {
+      "id": "source_mewgenics",
+      "name": "Mewgenics",
+      "displayName": "Mewgenics",
+      "description": "Perks from Mewgenics.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_mib",
       "name": "MIB",
       "displayName": "MIB",
@@ -15677,6 +16059,15 @@
       "description": "Perks from Monster Rancher.",
       "categories": [
         "gardens"
+      ]
+    },
+    {
+      "id": "source_monster_sanctuary",
+      "name": "Monster Sanctuary",
+      "displayName": "Monster Sanctuary",
+      "description": "Perks from Monster Sanctuary.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -16149,6 +16540,15 @@
       ]
     },
     {
+      "id": "source_nausicaa_of_the_valley_of_the_wind",
+      "name": "Nausicaä of the Valley of the Wind",
+      "displayName": "Nausicaä of the Valley of the Wind",
+      "description": "Perks from Nausicaä of the Valley of the Wind.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_nechronica",
       "name": "Nechronica",
       "displayName": "Nechronica",
@@ -16281,6 +16681,15 @@
       ]
     },
     {
+      "id": "source_nine_sols",
+      "name": "Nine Sols",
+      "displayName": "Nine Sols",
+      "description": "Perks from Nine Sols.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_ninjago_masters_of_spinjitzu",
       "name": "Ninjago: Masters of Spinjitzu",
       "displayName": "Ninjago: Masters of Spinjitzu",
@@ -16395,6 +16804,15 @@
       "description": "Perks from October Daye.",
       "categories": [
         "gardens"
+      ]
+    },
+    {
+      "id": "source_odyssey_of_a_mage_jumpchain",
+      "name": "Odyssey of a Mage Jumpchain",
+      "displayName": "Odyssey of a Mage Jumpchain",
+      "description": "Perks from Odyssey of a Mage Jumpchain.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -16597,6 +17015,15 @@
       ]
     },
     {
+      "id": "source_orions_arm_modosophont",
+      "name": "Orion’s Arm Modosophont",
+      "displayName": "Orion’s Arm Modosophont",
+      "description": "Perks from Orion’s Arm Modosophont.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_orions_arm_sephirotic_empires",
       "name": "Orion's Arm: Sephirotic Empires",
       "displayName": "Orion's Arm: Sephirotic Empires",
@@ -16631,6 +17058,24 @@
       "description": "Perks from Otoyomegatari (Bride Stories).",
       "categories": [
         "gardens"
+      ]
+    },
+    {
+      "id": "source_ottriman",
+      "name": "Ottriman",
+      "displayName": "Ottriman",
+      "description": "Perks from Ottriman.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
+      "id": "source_out_of_context_-_isekaid_too_many_times_supplement",
+      "name": "Out of Context - Isekai'd Too Many Times Supplement",
+      "displayName": "Out of Context - Isekai'd Too Many Times Supplement",
+      "description": "Perks from Out of Context - Isekai'd Too Many Times Supplement.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -16805,6 +17250,15 @@
       ]
     },
     {
+      "id": "source_overlord_cyoa",
+      "name": "Overlord CYOA",
+      "displayName": "Overlord CYOA",
+      "description": "Perks from Overlord CYOA.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_overlord_game",
       "name": "Overlord (Game)",
       "displayName": "Overlord (Game)",
@@ -16857,6 +17311,15 @@
       "description": "Perks from Overlord (The Series) Guild Base Supplement.",
       "categories": [
         "forge"
+      ]
+    },
+    {
+      "id": "source_overpowered_isekai_cyoa",
+      "name": "Overpowered Isekai CYOA",
+      "displayName": "Overpowered Isekai CYOA",
+      "description": "Perks from Overpowered Isekai CYOA.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -16946,6 +17409,15 @@
         "companion",
         "forge",
         "gardens"
+      ]
+    },
+    {
+      "id": "source_parahumans",
+      "name": "Parahumans",
+      "displayName": "Parahumans",
+      "description": "Perks from Parahumans.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -17157,6 +17629,15 @@
       "description": "Perks from Phineas and Ferb.",
       "categories": [
         "forge"
+      ]
+    },
+    {
+      "id": "source_pillars_of_eternity",
+      "name": "Pillars of Eternity",
+      "displayName": "Pillars of Eternity",
+      "description": "Perks from Pillars of Eternity.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -18345,6 +18826,15 @@
       ]
     },
     {
+      "id": "source_s_t_a_l_k_e_r",
+      "name": "S.T.A.L.K.E.R.",
+      "displayName": "S.T.A.L.K.E.R.",
+      "description": "Perks from S.T.A.L.K.E.R..",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_sabaton",
       "name": "Sabaton",
       "displayName": "Sabaton",
@@ -18629,6 +19119,15 @@
       ]
     },
     {
+      "id": "source_science_and_futurism_with_isaac_arthur_jumpchain",
+      "name": "Science and Futurism with Isaac Arthur Jumpchain",
+      "displayName": "Science and Futurism with Isaac Arthur Jumpchain",
+      "description": "Perks from Science and Futurism with Isaac Arthur Jumpchain.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_scion",
       "name": "Scion",
       "displayName": "Scion",
@@ -18684,6 +19183,15 @@
       "description": "Perks from SCP Universe.",
       "categories": [
         "darkest_tome"
+      ]
+    },
+    {
+      "id": "source_scriptorium_master_of_manuscripts",
+      "name": "Scriptorium: Master of Manuscripts",
+      "displayName": "Scriptorium: Master of Manuscripts",
+      "description": "Perks from Scriptorium: Master of Manuscripts.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -18885,6 +19393,15 @@
       "categories": [
         "laboratory",
         "omni-tool"
+      ]
+    },
+    {
+      "id": "source_sherlock_holmes_jump",
+      "name": "Sherlock Holmes Jump",
+      "displayName": "Sherlock Holmes Jump",
+      "description": "Perks from Sherlock Holmes Jump.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -19274,6 +19791,15 @@
       ]
     },
     {
+      "id": "source_slay_the_spire",
+      "name": "Slay the Spire",
+      "displayName": "Slay the Spire",
+      "description": "Perks from Slay the Spire.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_sleepy_hollow",
       "name": "Sleepy Hollow",
       "displayName": "Sleepy Hollow",
@@ -19288,7 +19814,8 @@
       "displayName": "Slime Rancher",
       "description": "Perks from Slime Rancher.",
       "categories": [
-        "gardens"
+        "gardens",
+        "something"
       ]
     },
     {
@@ -21069,6 +21596,15 @@
       ]
     },
     {
+      "id": "source_technological_transdimensional_turbulence",
+      "name": "Technological Transdimensional Turbulence",
+      "displayName": "Technological Transdimensional Turbulence",
+      "description": "Perks from Technological Transdimensional Turbulence.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_teen_titans",
       "name": "Teen Titans",
       "displayName": "Teen Titans",
@@ -21153,6 +21689,15 @@
       "description": "Perks from Terra Formars.",
       "categories": [
         "forge"
+      ]
+    },
+    {
+      "id": "source_terra_nil_gauntlet",
+      "name": "Terra NIL Gauntlet",
+      "displayName": "Terra NIL Gauntlet",
+      "description": "Perks from Terra NIL Gauntlet.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -23689,7 +24234,17 @@
         "darkest_tome",
         "gardens",
         "grimoire",
-        "grimoire_yggdrasil_personal"
+        "grimoire_yggdrasil_personal",
+        "something"
+      ]
+    },
+    {
+      "id": "source_undertale_yellow",
+      "name": "Undertale Yellow",
+      "displayName": "Undertale Yellow",
+      "description": "Perks from Undertale Yellow.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -24878,6 +25433,15 @@
       ]
     },
     {
+      "id": "source_warhammer_aos_-_hedonites_of_slaanesh",
+      "name": "Warhammer AOS - Hedonites of Slaanesh",
+      "displayName": "Warhammer AOS - Hedonites of Slaanesh",
+      "description": "Perks from Warhammer AOS - Hedonites of Slaanesh.",
+      "categories": [
+        "something"
+      ]
+    },
+    {
       "id": "source_warhammer_dark_elves",
       "name": "Warhammer: Dark Elves",
       "displayName": "Warhammer: Dark Elves",
@@ -25411,6 +25975,7 @@
       "displayName": "Watchmen",
       "description": "Perks from Watchmen.",
       "categories": [
+        "something",
         "the_godly_epic_meros_proto_xxxl"
       ]
     },
@@ -25487,6 +26052,15 @@
       "description": "Perks from Wild ARMS 3.",
       "categories": [
         "gardens"
+      ]
+    },
+    {
+      "id": "source_wild_west_cyoa",
+      "name": "Wild West CYOA",
+      "displayName": "Wild West CYOA",
+      "description": "Perks from Wild West CYOA.",
+      "categories": [
+        "something"
       ]
     },
     {
@@ -25636,6 +26210,7 @@
       "displayName": "Wizarding World Jumpchain",
       "description": "Perks from Wizarding World Jumpchain.",
       "categories": [
+        "something",
         "spellbook"
       ]
     },
@@ -25833,7 +26408,8 @@
       "displayName": "World of Horror",
       "description": "Perks from World of Horror.",
       "categories": [
-        "darkest_tome"
+        "darkest_tome",
+        "something"
       ]
     },
     {
@@ -26257,6 +26833,15 @@
       "description": "Perks from Youjo Senki - Saga of Tanya the Evil.",
       "categories": [
         "forge"
+      ]
+    },
+    {
+      "id": "source_youjo_senki_-_the_saga_of_tanya_the_evil",
+      "name": "Youjo Senki - The Saga of Tanya the Evil",
+      "displayName": "Youjo Senki - The Saga of Tanya the Evil",
+      "description": "Perks from Youjo Senki - The Saga of Tanya the Evil.",
+      "categories": [
+        "something"
       ]
     },
     {

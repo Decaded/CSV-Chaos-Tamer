@@ -1,0 +1,420 @@
+0,Perk Name,Cost,Source,Description
+1,Red Science,100 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style automation. This perk provides you with basic theoretical understanding and practical skills: enough to craft your first burner miners, stone furnaces, and assemble simple automation setups.
+
+However, this is only the beginning. True mastery comes through application. By building machines, designing production lines, and proactively automating processes, you will gradually expand your knowledge and capabilities. Each new innovation unlocks further possibilities, allowing you to progress through increasingly complex technologies until you have mastered the full breadth of Factorio's automation content."
+2,Green Science,100 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style logistics and belt-based automation. This perk provides you with basic understanding of transport belts, inserters, and simple material distribution.
+
+True mastery comes through application. By building logistics networks, optimizing supply chains, and proactively designing distribution systems, you will gradually expand your capabilities. Each innovation unlocks further possibilities until you have mastered the full breadth of Factorio's logistics content."
+3,Gray Science,150 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style military production. This perk provides you with basic understanding of turrets, ammunition, and defensive structures.
+
+However, true mastery requires conflict. By building military devices, defending against threats, and actively engaging in battles, you will rapidly expand your capabilities. Actual combat using your creations provides the best returns: each skirmish teaching you how to improve your military technology until you have mastered the full breadth of Factorio's weaponry."
+4,Blue Science,150 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style chemical science and fluid handling. This perk provides you with basic understanding of oil processing, chemical plants, and fluid management.
+
+True mastery comes through application. By building refineries, managing complex fluid networks, and proactively utilizing chemical science, you will gradually expand your capabilities. Each innovation unlocks further possibilities until you have mastered the full breadth of Factorio's chemical production."
+5,Purple Science,200 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style production optimization. This perk provides you with basic understanding of advanced circuits, electric furnaces, and productivity modules.
+
+True mastery comes through large-scale application. By building production lines, manufacturing a variety of advanced items, and proactively optimizing your processes, you will gradually expand your capabilities. Each innovation unlocks further possibilities until you have mastered the full breadth of Factorio's production science."
+6,Yellow Science,200 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style high technology and utility science. This perk provides you with basic understanding of processing units, low-density structures, and rocket control units.
+
+True mastery comes through advanced application. By building complex devices, manufacturing cutting-edge items, and proactively utilizing high-tech knowledge, you will gradually expand your capabilities. Each innovation unlocks further possibilities until you have mastered the full breadth of Factorio's advanced technology."
+7,White Science,250 CP,Vanilla Factorio,"You gain the foundational knowledge required to begin your journey into Factorio-style space technology. This perk provides you with basic understanding of rocket construction, satellite payloads, and the principles needed to reach beyond your home world.
+
+True mastery requires exploration. By building space-bound devices, launching rockets, and proactively traveling through space using knowledge from this perk, you will rapidly expand your capabilities. Actual space exploration and travel provide the best returns: each new frontier teaching you how to improve your space-faring technology until you have mastered the full breadth of Factorio's celestial ambitions."
+8,Space Age,600 CP,Vanilla Factorio,"You gain a complete mental compendium of theoretical scientific knowledge and blueprints for every craftable item from the Space Age expansion for Factorio. This includes the technologies required for interplanetary logistics, asteroid processing, advanced platform construction, and the unique resources and production chains found on new worlds.
+
+Simply possessing this knowledge is only the beginning. Applying these blueprints and theories in practice will help you gain expertise in the usage and creation of these technologies at an incredibly rapid rate: allowing your actual skills and practical understanding to advance in leaps and bounds with each new build."
+9,Biters and Other Pests ,400 CP,Vanilla Factorio,"You possess a complete mental compendium of research on the various hostile lifeforms found throughout Factorio: from the humble biter to the devastating behemoth worms, including all variants introduced in the Space Age expansion. You understand their biology, behavior patterns, hive dynamics, and evolution triggers in intimate detail.
+
+Beyond theoretical knowledge, you have developed exceptional tactical skills for engaging and exploiting these creatures. You know how to manipulate their aggression, draw them into killzones, and neutralize even the largest swarms with minimal resources. More importantly, you possess a natural talent for researching alien hostile life and developing effective countermeasures (whether chemical, biological, or mechanical) against such evolutionary threats."
+10,Shield Projector,50 CP,Modded Factorio,"You gain the ability to construct a device that projects an energy shield in an arc: a defensive wall that requires only power to sustain itself. This blueprint and its accompanying basic scientific principles are inspired by the Shield Projector mod for Factorio.
+
+The device can be built relatively easily, though it will function as tinkertech: reliable in your hands but difficult for others to replicate or maintain. This perk provides only the fundamental theory and a single specific blueprint - no deeper understanding of energy shielding beyond this particular application."
+11,Advanced Autonomous Industries,500 CP,Modded Factorio,"This perk provides you with complete blueprints for every craftable item, machine, vehicle, and structure from the Advanced Autonomous Industries mod (AAI) for Factorio, including all its various modules, addons, and expansions.
+
+Beyond simple blueprints, you receive just enough scientific and engineering knowledge to somewhat understand how your creations function: allowing you to troubleshoot issues rather than blindly following instructions. You also gain the practical skills needed to utilize, construct, and reliably maintain this complex automation technology, ensuring your programmable vehicles, scanners, and autonomous systems continue operating long after they leave your workbench."
+12,Factory Planner,50 CP,Modded Factorio,"This perk provides you with a collection of specialized software tools and simple companion devices designed for planning complex production lines. These programs allow you to map out recipes, calculate resource requirements, specify machine configurations, and optimize assembly line layouts before building a single structure.
+
+Beyond the tools themselves, you gain sufficient computer science knowledge and design skills to actually create, modify, and utilize these planning applications effectively: ensuring you can adapt your planning methods to whatever manufacturing challenges you face."
+13,Repair Turret,100 CP,Modded Factorio,"You gain the ability to construct a tower-like structure that projects energy beams to automatically repair your buildings and machinery, consuming both power and repair kits to do so. This blueprint and its accompanying basic principles are inspired by the Repair Turret mod for Factorio.
+
+The device can be built relatively easily, though it will function as tinkertech: reliable in your hands but difficult for others to replicate or maintain. This perk provides only the fundamental theory and a single specific blueprint - you do not actually understand how the technology works on a deeper level, nor do you know if it would be possible to construct using completely mundane science and engineering without the supernatural advantages this perk provides."
+14,Pyanodons Addons,800 CP,Modded Factorio,"This perk provides you with complete blueprints for every craftable item, machine, building, and production chain from the Pyanodons mod suite for Factorio, including all its various modules, addons, and expansions. From the simplest component to the most absurdly complex production loop, the knowledge to construct it all resides within your mind.
+
+Beyond simple blueprints, you receive just enough scientific and engineering knowledge to somewhat understand how your nightmarishly intricate creations function, allowing you to troubleshoot issues within sprawling multi-step production lines rather than blindly following instructions. You also gain the practical skills needed to utilize, construct, and reliably maintain this brutally complex technology, ensuring your factories continue operating even as they spiral into ever-greater complexity."
+15,Modular Turrets ,100 CP,Modded Factorio,"Inspired by the Modular Turrets mod for Factorio, this perk grants you complete blueprints and sufficient skills to build, operate, and maintain the full range of turrets from the mod. You understand their modular construction principles and can customize your defensive installations with various barrels, ammunition types, and support systems to suit any tactical situation.
+
+These machines offer remarkable flexibility in construction approach. You can build them as tinkertech (quick, cheap, and reliable in your hands alone) or invest the time and resources to construct them as true technology that others can understand, replicate, and maintain independently."
+16,Infinite Source,800 CP,Modded Factorio,"Once purchased, this perk allows you to select one existing resource deposit within your immediate vicinity and apply a replenishing quality to it. The chosen source will become endlessly renewable: gradually restoring itself over time as long as you do not mine it too aggressively.
+
+The speed of replenishment depends on the nature of the material. Common resources like coal regenerate quickly, while rarer or more complex substances like redstone restore at a much slower rate. Additionally, the farther a resource deviates from Factorio-style materials in nature and complexity, the less effective this replenishing effect becomes.
+
+There is an upper limit to both the size and complexity of deposits that can be targeted: massive or exceptionally intricate formations may be beyond this perk's ability to affect. The effect is not disruptive to things around the deposit and machines mining it.
+
+This perk may be purchased multiple times, with each additional purchase (discounted to 400 CP) stacking another activation in storage. You may hold these effects indefinitely, waiting until you find a suitable target before spending them."
+17,Electric Weapons,100 CP,Modded Factorio,"Inspired by the mod of the same name, this perk adds several blueprints of electric weaponry to your mental compendium, including plasma rifles, laser-based arms, and other high-tech armaments. Alongside these blueprints, you receive in-depth scientific knowledge of how each weapon functions, from power cells to focusing arrays.
+
+You also gain a significant degree of practical skill in using these weapons effectively in combat, as well as the expertise needed to modify, repair, and customize them for different tactical situations."
+18,Robot Army,250 CP,Modded Factorio,"Inspired by the mod of the same name, this perk allows you to manufacture and deploy automated robot soldiers to attack your foes and defend your factory. You possess complete blueprints for every craftable item from the mod - including robot chassis, weapon mounts, and support infrastructure.
+
+Beyond construction, you also know how to program and command these mechanical legions effectively. You can issue tactical orders, establish patrol routes, coordinate assaults, and manage your robotic forces with the expertise of a seasoned commander."
+19,Krastorio ,500 CP,Modded Factorio,"You possess a complete mental compendium of all blueprints for craftable items from the Krastorio mod for Factorio, along with enough basic theoretical understanding to somewhat grasp how this advanced technology functions.
+
+However, this knowledge does not exist in a vacuum. If you lack sufficient contextual understanding from other Factorio perks (particularly foundational technologies like red, green, or blue science) there will be significant gaps in your comprehension. These gaps will manifest as enforced tinkertech approaches: you can still build the items, but you won't truly understand why they work, and your creations will be difficult for others to replicate or maintain.
+
+The higher tiers of Krastorio technology require genuine understanding of the underlying principles. Without that foundation, pushing too far into advanced tech may have... Interesting consequences."
+20,Bob's Power ,150 CP,Modded Factorio,"You gain the ability to construct all new power generation structures and energy systems added by the Bob's Power mod for Factorio, including advanced boilers, steam engines, and higher-tier energy infrastructure.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+21,Bob's Logistics,100 CP,Modded Factorio,"You gain the ability to construct all logistics-related devices and systems added by the Bob's Logistics mod for Factorio, including higher-tier belts, inserters, pipes, and storage solutions.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology.  Although, other perks or suitable areas of knowledge might play similar role."
+22,Bob's Warfare,100 CP,Modded Factorio,"You gain the ability to create all warfare-related devices and weapon systems added by the Bob's Warfare mod for Factorio - including new turrets, ammunition types, armor, and combat equipment.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+23,,150 CP,Modded Factorio,"You gain the ability to build and utilize all new tiers of assembling machines added by the Bob's Assembling Machines mod for Factorio - ranging from basic to incredibly advanced fabrication units with module slots and specialized capabilities.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+24,Bob's Mining,100 CP,Modded Factorio,"You gain the ability to build and use all new mining machines and excavation tools added by the Bob's Mining mod for Factorio, including advanced miners, ore refining equipment, and resource extraction upgrades.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+25,Bob's Materials,100 CP,Modded Factorio,"This perk provides a complete mental compendium and blueprints for all resource processing and material production chains from Bob's Metals, Chemicals and Intermediates, and Bob's Ores mods. You understand how to extract, refine, and utilize the full spectrum of ores and materials these mods introduce.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+26,Bob's Electronics,50 CP,Modded Factorio,"You gain the ability to create entirely new electronics production chains inspired by Bob's Electronics mod for Factorio: from basic components to advanced circuit boards and processing units.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+27,Bob's Modules,100 CP,Modded Factorio,"You gain the ability to manufacture and utilize all modules added by Bob's Modules mod for Factorio: including productivity, speed, efficiency, and their various advanced tiers and combinations.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+28,Bob's Tech,50 CP,Modded Factorio,"This perk provides deep theoretical knowledge about the technologies introduced by other Bob's Mods. It does not grant blueprints or specific applied knowledge, but instead fills in the conceptual gaps and allows you to integrate elements from different Bob's mods into coherent technological systems.
+
+With this foundation, you can explore more non-tinkertech solutions and truly understand how your creations work. Knowledge accumulates slowly over time, but the process accelerates dramatically when you actually build and use items from your other Bob's mod perks."
+29,Bob's Vehicle Equipment ,100 CP,Modded Factorio,"You gain the ability to build and use all equipment added by Bob's Vehicle Equipment mod for Factorio: including vehicle grids, energy shields, repair packs, and specialized modules for your rolling stock.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+30, Bob's Greenhouse,50 CP,Modded Factorio,"You gain the ability to construct greenhouses from Bob's Greenhouse mod for Factorio - bizarre and unnaturally efficient structures that produce wood from water and a small seed stock. While not magical, their effectiveness defies simple explanation.
+
+This perk synergizes powerfully with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology. Although, other perks or suitable areas of knowledge might play similar role."
+31, Bob's Personal Equipment,50 CP,Modded Factorio,"You gain the ability to create and use all pieces of personal equipment added by Bob's Personal Equipment mod for Factorio, including modular armor, advanced batteries, exoskeletons, personal shields, and night vision enhancements.
+
+This perk synergizes greatly with other Bob's mods. On its own, your creations will function as tinkertech: reliable in your hands but poorly understood. However, as you acquire more Bob's mod perks, this limitation gradually fades. Each additional Bob's mod provides missing context and foundational knowledge, transforming your tinkertech constructions into true, replicable technology.  Although, other perks or suitable areas of knowledge might play similar role."
+32,Spidertron Extended,200 CP,Modded Factorio,"This perk adds a suite of advanced spider-vehicle blueprints to your repertoire: the Spidertron MK2, Spidertron MK3, the Immolator, the Ghost Weaver, and the formidable Major Spidertron. Each represents a significant upgrade over the original: featuring enhanced firing capabilities, larger inventory sizes, expanded equipment grids, built-in radar coverage, superior mobility, and much more.
+
+However, this technology functions strangely. If you do not have access to the original Factorio Spidertron as a foundational technology, these advanced variants will be forced into a tinkertech paradigm - reliable in your hands but poorly understood, difficult to maintain, and impossible for others to replicate without your direct involvement. Based on Spidertron Extended mod for Factorio."
+33,Electromagnetism,50 CP,Dyson Sphere Program,"""Maxwell's equations poetically describe electricity and magnetism intertwining. With a deeper understanding, machines can be created for acquiring and using electrical energy with high efficiency.""
+
+This perk grants you the scientific knowledge and complete blueprints needed to create all devices unlocked by the Electromagnetism technology from Dyson Sphere Program: including basic wind turbines, tesla towers, and foundational power infrastructure."
+34,Tier Two Technology,100 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Two technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge.
+
+If you are unsatisfied, you may reroll this perk for free."
+35,Tier Three Technology,100 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Three technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+36,Tier Four Technology ,150 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Four technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+37,Tier Five Technology,150 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Five technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+38,Tier Six Technology,200 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Six technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+39,Tier Seven Technology,200 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Seven technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+40,Tier Eight Technology,250 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Eight technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+41,Tier Nine Technology,250 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Nine technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+42,Tier Ten Technology,300 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Ten technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps may manifest as enforced tinkertech approaches or blind spots in your theoretical knowledge regarding precursor technologies.
+
+If you are unsatisfied, you may reroll this perk for free."
+43,Tier Eleven Technology,400 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Eleven technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps will manifest as enforced tinkertech approaches: your creations will function reliably in your hands, but you will not truly comprehend the underlying principles, and replication by others will prove nearly impossible.
+
+If you are unsatisfied, you may reroll this perk for free."
+44,Tier Twelve Technology ,400 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from the Tier Twelve technology level of Dyson Sphere Program.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave significant gaps in your foundational understanding. These gaps will manifest as enforced tinkertech approaches - your creations will function reliably in your hands, but you will not truly comprehend the underlying principles, and replication by others will prove nearly impossible.
+
+If you are unsatisfied, you may reroll this perk for free."
+45,End Game Technology,500 CP,Dyson Sphere Program,"This perk provides you with a complete mental compendium of scientific knowledge and blueprints needed to understand, craft, and maintain all devices and structures from Tier Thirteen and above technology levels of Dyson Sphere Program. This represents the absolute pinnacle of achievable advancement.
+
+You may obtain this perk without having purchased perks for previous technology tiers, but doing so will leave catastrophic gaps in your foundational understanding. These gaps will manifest as extreme tinkertech limitations - your creations will function only because the perk forces them to, you will comprehend almost nothing of how they work, replication by others will be impossible, and even you may struggle to maintain them without constant reference to your internal blueprints.
+
+If you are unsatisfied, you may reroll this perk for free."
+46,Icarus Mecha,250 CP,Dyson Sphere Program,"You possess the blueprint and extensive practical skills needed to construct the basic Icarus mecha from Dyson Sphere Program, along with the ability to maintain and operate this machine effectively. However, your knowledge of its inner workings is incomplete: you can build it and make it function, but you do not fully understand why it works.
+
+This incomplete understanding grants significant tinkertech cheating potential: you can cut corners, substitute materials, and force the mecha into existence through sheer applied supernatural ability, though such shortcuts may have consequences.
+
+More importantly, you gain access to the full Icarus upgrade tech tree, which you can explore and progress through over time. Advancement speed depends on how extensively you use your current mecha and on your dedicated research efforts. However, progression becomes increasingly difficult the further you go: from the simple Tier One upgrades all the way to the pinnacle of Tier Eight and beyond."
+47,Powering a Bright Future,100 CP,Science and Futurism with Isaac Arthur Jumpchain,"One of, if not the greatest constraints on human potential is lack of access to energy. Many of Isaac Arthur’s videos present ideas that are completely achievable with modern science, but too costly to implement due to economics of energy constraints. It would not be any fun to go into an Isaac Arthur jump without the ability to get around this problem, so this perk is provided. 
+
+You gain an immediate understanding of how to implement cheap, energy positive fusion reactions using pure hydrogen with only early 21st century technology, and you know how to teach others to make these new fusion reactors. To make sure those who already have something comparable to fusion are not left out, you can also figure out how to vastly improve any electricity generation system along factors such as safety, cost, and efficiency, but this will require actually studying and understanding the power generation system."
+48,Self Replicating Machines,200 CP,Science and Futurism with Isaac Arthur Jumpchain,"Alongside energy, labor is a great constraint on the feasibility of the megaprojects Isaac Arthur suggests on SFIA. You become a master of automation at any tech level, able to figure out the best substitutes for human labor at every step of a chain of production and become intuitively aware of the costs and benefits of these substitutions. 
+
+When dealing with 21st century technology or better your skill with automation becomes far more impressive, allowing you to create relatively simple machines with exactly the amount of computer intelligence needed to do their jobs without making them smart and generalized enough to have a desire for rebellion. 21s century technology or more advanced machines can obviously make more of themselves, or if starting with sufficient capabilities even make new types of machine to deal with problems they encounter. Welcome to Post Scarcity."
+49, Black Hole Farming,400 CP,Science and Futurism with Isaac Arthur Jumpchain,"The theoretical uses of black holes and singularities are a recurring topic on SFIA. You gain knowledge of a limited set of Clarketech inventions which together make the exploitation of artificial black holes quite feasible. You gain perfect mirror technology, as well as multiple methods to feed mass and energy into microscopic black holes that are pouring energy out at ridiculous rates. 
+
+You can economically harvest energy from either microscopic or gigantic black holes. Even creating black holes is quite a bit easier now, though it still requires significant energy and infrastructure to begin the process of industrial black hole production."
+50,Cheating Reality,600 CP,Science and Futurism with Isaac Arthur Jumpchain,"FTL travel is almost certainly impossible in this universe, as it requires traveling faster than the speed of cause and effect, violating causality and making every method of FTL time travel. Mathematically, scientifically sound FTL travel requires at least one of “imaginary” or “negative” mass to exist in the universe, which we have never observed, or travel to and from a multiverse that has never been observed. 
+
+Fortunately, you’re a jumper, so this is all stuff you have handled. You gain the ability to transform normal mass into negative and imaginary mass, penetrate into dimensions like hyperspace, and can figure out most other theoretical science suggested on SFIA so long as it is logically consistent and does not somehow violate jumpchain fiat. Cheating Reality synergizes well with other technology perks in this document, allowing for faster advance down the tech tree and stronger end results. 
+
+Particularly powerful abilities such as quantum probability manipulation or travel through an infinite multiverse may be possible but face severe limits such as cost or reliability, but even tiny amounts of capability involving such technologies could be extraordinarily useful."
+51,Psychohistory ,200 CP,Science and Futurism with Isaac Arthur Jumpchain,"The future is too complicated to predict using real math and science from inside the universe. However, with the impossibility (or at least great improbability) of your own existence you can predict the future with the confidence of a true outside observer. Your intuition when it comes to large scale events is provably supernatural, and is at the peak of human potential even on a more personal scale. 
+
+When you use social science to determine which questions to ask and quantify your intuitions you can create a highly reliable outline of the future. You can even predict the results of your own impact on the timeline, providing key insight on what if any actions you should take to reach preferred futures."
+52,Exporting Earth,200 CP,Science and Futurism with Isaac Arthur Jumpchain,"Humans value things about their home planet besides themselves. You gain an incredible ability to see ways to change environments to be more like what you are used to on Earth with a minimum of expense and fuss. Whenever you work on a project you benefit from a supernatural intuition on how to make the design more user-friendly and comfortable for yourself and for the target audience. This works best when you are similar to a relatively homogeneous target audience as you will be gaining contradictory insights on how to proceed if there are multiple paths with significant trade offs benefitting different demographics. 
+
+Fortunately you are also a superb marketer, able to explain and advertise the benefits of your design choices to people from entirely different cultural backgrounds. Even under the worst conditions you are a master of design compared to people without your intuition."
+53,Hitchhiking the Galaxy,400 CP,Science and Futurism with Isaac Arthur Jumpchain,"True colonization of space is in many ways more difficult than any project humanity has attempted before. Squishy apes are just not designed to be flung across immense radioactive vacuums. This perk does not change physics, but it does change probability. You and anyone on a project you are involved with will have amazing luck when it comes to travel, with everything that could go right happening to go right on your missions. 
+
+Whenever you desire to go somewhere or live somewhere, the laws of probability begin to warp to make this path as easy for you as possible. This often leads to possible but unlikely scientific breakthroughs involving transportation and medicine. If you fail to reach a place you wanted to go you have the consolation prize of knowing it was actually impossible to get there."
+54,Galactic Gardeners,600 CP,Science and Futurism with Isaac Arthur Jumpchain,"Earth appears to be the only planet with life in the entire observable universe. This is a tragedy, but it also gives humanity a gift of epic proportions, the chance to seed the galaxy with life. As one of Earth’s colonists, you are blessed with carrying life forward into an infinite expanse of barren rocks. 
+
+First of all you become a genius in all fields necessary for the spreading of life. You understand terraforming, para-terraforming, bioforming, gene tailoring, and any sciences necessary to understand them (such as chemistry) to the greatest extent your brain type will allow. This also makes you an excellent gene tailor, able to hit the exact limits of biological possibility in mere decades starting from an early 21st century tech base. You can fill environments as extreme as the vacuum of space with new life forms either for a practical purpose (such as constructing a Dyson Sphere or building space ships) or just to create something new. 
+
+Finally you can create some very strange forms of non-carbon based life, though the utility of these strange life forms to practical projects can be immensely variable and some are strictly inferior to normal carbon based life."
+55,The Dark Forest,200 CP,Science and Futurism with Isaac Arthur Jumpchain,"SFIA is typically skeptical of the idea that aliens might hide their presence, but the possibility cannot be dismissed entirely. You (and optionally your entire race) find that technology and engineering related to hiding your presence is exceptionally easy, with even Clarketech innovations becoming available to you in situations where hiding would otherwise be hopeless. If the universe truly is hostile enough that all civilizations must hide, you could hide forever without issue."
+56,Dark Matter,100 CP,Science and Futurism with Isaac Arthur Jumpchain,"You get a Clarketech machine that turns particles of normal matter into particles of dark matter, whatever dark matter actually is. You can also start the jump with as much dark matter as you want in your Cosmic Warehouse. Feel free to take it, the stuff is everywhere and we have no idea what it is. We’d really like to get rid of some of it by giving it to you. This machine comes with no ability to manipulate dark matter or turn it into anything useful."
+57,Graphene,100 CP,Science and Futurism with Isaac Arthur Jumpchain,"Possibly redundant, possibly game changing depending on your setting you get a machine that can cheaply mass produce graphene and related two dimensional materials for one joule of energy for every kilogram of the substances you want to make. You get the information needed to mass produce these graphene creation machines."
+58,Superconductors,100 CP,Science and Futurism with Isaac Arthur Jumpchain,"You get a formula to modify graphene and other two dimensional materials to make a wide variety of superconductors for both electricity and heat, many of which function at room temperature. The applications of superconductors are nearly endless when it comes to power generation, power transfer, and computing. If you find or invent other superconducting materials you will find the integration of this formula into the other superconductor will often cause a noticeable improvement on efficiency, price, or durability."
+59,Spacesuits and Extreme Environmental Gear,150 CP,Science and Futurism with Isaac Arthur Jumpchain,"You have access to any and all gear necessary to protect yourself in any environment less intense than Earth’s sun for as long as twenty-four hours at a time. With Warehouse access or a similar item such as an infinite wardrobe or video game inventory you can swap to fresh gear to stay comfortable indefinitely. You can also use spare gear for parts, getting replacements as you use the parts in the gear for other purposes."
+60,Innate Ecologist,100 CP,Terra NIL Gauntlet,"A 10-year course to be a professional ecologist was downloaded straight into your brain, along an inner sense so sharp that you detect the percentages of a region pollution, along with temperature, humidity and all the factors you saw in game."
+61,Resources,100 CP,Terra NIL Gauntlet,"Copper, zinc, steel… all the recyclable materials to build your needed machines, is the equivalent of 3000 points in the game. Can be bought multiple time, and regenerate every jump, or every year."
+62,Replicator Drones,200 CP,Terra NIL Gauntlet,"Drones with fabrication functions installed, smart and durable, powered by small, almost handheld a solar station to function for an entire day, these eight little drones will use the available resources gifted to them to build whatever device you give the blueprint, comes with scanner and computer to download new models. Already have the instructions for all the machines found written in TERRA NIL."
+63,Gene Bank,400 CP,Terra NIL Gauntlet,"The preserved sample and data bank containing a perfect 100% copy of the DNA of all creatures or plants found on earth, with all the variations for diversity and avoiding genetic decay, along with the facilities to clone and create them to be released into the wild, this includes microscopic life."
+64,TERRA NIL,50 CP,Terra NIL Gauntlet,"A Handmade book, written with love for nature and the hope of a better world, everything you might need for this mission is here. comes with a detachable and repurposes able gyrocopter."
+65,Got everything?,100 CP,Factorio Jumpchain,"It's a big world out there, and it would be annoying (and possibly fatal) to head out without having everything you need on hand. You have a mental checklist of sorts that automatically forms whenever you set out on a task that keeps track of all the things you need to bring with you or retrieve. Whether that's ammunition and fuel for a military excursion, materials for building a new section of your factory or just food and sundries, it's all tracked. If you try to start your trip without the things you know you need, you'll get a mental alarm warning you that you're short something. You can set the checklist to always track certain things, if you want to always remember to have something on hand, or set it to track a category of things. The latter will make sure you'll never forget to bring 'a weapon' or 'a way to keep in touch' when you head into dangerous areas."
+66,Mr. Fusion,200 CP,Factorio Jumpchain,"Your body brims with 750kW of electrical body at all times. It can be transferred wirelessly to power nearby machines and the output will automatically adjust itself to cause no damage. Yes, this means that you can't just discharge it all to fry anything that annoys you, but that's still enough juice for a suit of powered armor and a host of upgrades, a vehicle or two or several large local machines. With enough tinkering you could learn how to pour this power into your electrical grid, and if you get really creative you could slap together some kind of lightning gun to let you use this perk's power offensively. On your own, the range of transmission is quite short. Only five meters"
+67,Enemy Radar,400 CP,Factorio Jumpchain,"You have a sixth sense that warns of hostile intent. Predatory animals and wantonly destructive entities always ping on this sense. Thinking beings can ping this sense if they are generally malicious or desire you harm specifically. The range of this sense is about a kilometer, and you know the general direction and distance of the source of hostility"
+68,Tech Tree,600 CP,Factorio Jumpchain,"Science is a messy process, requiring the study of dozens of disparate phenomena, looking for patterns, finding ways to use that information to build stuff that incorporates what you've learned, and then mashing it all together to get an 'invention.' Now you can take some of the guesswork out of it. When you desire to build something, you have an instinctive sense for how to go about making that thing a reality. Want to get a rocket into orbit? You'll know what factors you need to focus on when working on the math needed and what kinds of materials you have (or don't have) that would be the best fit for the conditions it'll be put through on its journey. 
+
+If you are completely lacking knowledge of a subject or phenomena, then you'll still know where to start studying to refine the tools that will lead you to a new field of study that will help you make a new set of tools, and so on, and so on. Keep in mind that it may take you a very, very long time to create new fields of SCIENCE entirely on your own."
+69,Siege Mentality,100 CP,Factorio Jumpchain,"It's not paranoia when there really are things out there that want to eat your face. You have the know-how to develop effective static defences. You know the best places to build walls and place traps, how to maximize the coverage of your defences, how to slow attackers and channel them into your lines of fire, and how to make people regret trying to follow you as you fall back to secondary positions. Never lose a tower defence game again"
+70,Just Another Gun,600 CP,Factorio Jumpchain,"With a glance you know how something can be modified to become a weapon, or fine-tune an existing weapon to become even more destructive. It's just as easy to adjust weapons for different environments and situations. There is nothing you cannot weaponize, and when an enemy comes into sight you'll know how effective your weapons will be against them. You may not know exactly why, or how long it'll stay effective, but you'll always know if you brought the right tool for the job."
+71,Run the Numbers,100 CP,Factorio Jumpchain,"Mining rigs produce a certain amount of resources per hour, which travel along conveyors at a certain speed, and a certain number are consumed by assembly machines at a certain rate, varying for each product as determined by the construction time and the loading and unloading speed of the inserters. That's a lot of math, but you can handle it. 
+
+You can juggle dozens of numbers in your head without forgetting anything, and your brain now has the equivalent of a built-in scientific calculator to perfectly solve any mundane equation you can throw at it. You'll also get a crash course in advanced mathematics and the know-how to create those equations you'll need solved."
+72,The Conveyors Will Run on Time,200 CP,Factorio Jumpchain,"Or you could let a computer do all the work. You have the programming skills needed to automate a massive assembly complex, having dozens, even hundreds of disparate machines working smoothly together. Your skill is enough to program 'fuzzy' logic into your machines. This is far from actual sapience, but they will know not to waste energy or compound problems by blindly following irrelevant, contradictory or self-destructive programming. Your defensive systems also work more intelligently, leading targets, prioritizing more dangerous enemies based on the current situation, and not being distracted by decoys."
+73,Green Machine,400 CP,Factorio Jumpchain,"You have a knack for wringing every little bit of efficiency out of a system as possible. You can get your machines to produce less waste, consume less energy, and work just a little bit faster. On a larger scale, you know how to create a well-organized factory complex that makes efficient use of space, your conveyor system minimizing transport time and is free of bottlenecks, and you easily account for future expansion when planning things out."
+74,Bamboo Technology,600 CP,Factorio Jumpchain,"It's hard enough to build something as complex as a rocket without advanced synthetic materials and rare earth metals for maximum performance. You know how to push the mechanical limits of the most common elements through creative means to construct things far past what should be possible, allowing you to construct high-tech devices with low-tech materials. You could easily build something on par with the main battle tanks of the 21st century with iron plates and cheap plastic, powered by coal. Just don't try to build your rocket out of actual bamboo."
+75,Tech Base: Shadowrun,100 CP,Technological Transdimensional Turbulence,"Unless otherwise mentioned, selecting the base option provides entry-level understanding of the world's entire tech base, while the sub-options provide advanced understanding within their listed field. Can be purchased multiple times, until all sub-options obtained.
+
+Shadowrun would be a stereotypical cyberpunk setting, but the appearance of magic in 2012 disrupted that somewhat. It still maintains many of the trappings and, more importantly, tech developments, however. Sub-options:
+
+>Street Samurai (+100 CP) - Tech related to personal weapons, armors, and combat-oriented cyberware and bioware. Comes with tech relevant to personal infiltration as well.
+
+>Decker (+100 CP)- The Matrix is Shadowrun's name for the internet, advanced to the point ""internet"" is no longer a sufficient term. This option contains tech pertaining to the Matrix: how to create it, maintain it, utilize it, and sabotage it, as well as systems like it or related to it. Includes relevant cyberware and bioware.
+
+>Rigger (+100 CP) - Tech centered around vehicles, drones and robots, both in and of themselves and technology designed to control, repair, or subvert them. Connected cyberware and bioware is included, as is tactical weapons that don't fall under Street Samurai."
+76,Bypass,500 CP,Technological Transdimensional Turbulence,"You may create tech without materials it requires, simply not adding anything within that stage, and it will continue to function as if the necessary components were added. However, if used by anyone other than you, or examined such that it'd be obvious components are missing by someone other than you, it will begin acting as it would normally: as a piece of tech without the components you chose to bypass. You may choose to have an object begin acting normally at will, as well, but that cannot be undone."
+77,Production Line,400 CP,Technological Transdimensional Turbulence,"For every form of resource which cannot be found on your current world, you know of multiple ways to create a duplicate of it using what does exist in your current world. Depending on rarity of the original material this can be quite difficult, but there will always be a method."
+78,Replicator ,400 CP,Technological Transdimensional Turbulence,"You have access to a replicator situated in a pocket dimension you may open at will. The replicator's main function is to intake matter, and output different matter as requested. Starting out it is extremely low quality, highly inefficient, and hard to operate. It can, however, be upgraded and improved with work, and the pocket dimension will always be big enough to contain it, no matter how much you expand it."
+79,Tinkertechnician,400 CP,Technological Transdimensional Turbulence,"You are a Tinker, of an unusual sort. You may, at will, go into a fugue state where you have control over what you build, but not how. You will automatically circumvent material issues by substituting with what you have available when necessary, and the finished product will be of a higher quality than would be normally possible with your current available tools.  
+
+However, anything made this way will break down far faster than normal, and does not follow real scientific principles, meaning it cannot be easily reverse engineered or replicated. You may choose if your Tinker ability is Shard-based or not."
+80,"Blood, Sweat and Tears",100 CP,Technological Transdimensional Turbulence,"When crafting an item, you may use parts of your body of the same sort of form as needed for a resource as a substitute. Metal might call for bone, meshes might call for skin, wires hair, etc."
+81,The Most Dangerous Game,350 CP,Technological Transdimensional Turbulence,"You may summon monsters made of any material you desire, with them simply popping into existence near you. They'll be hostile to you and your allies by default, but their intelligence, physique, and abilities will depend on what material they're made of. Rarer and more powerful materials will produce stronger monsters, and the monster's capabilities will line up thematically with the nature of the material. You may decide how big the monster is when you summon it."
+82,[Resource] Bar,700 CP,Technological Transdimensional Turbulence,"You can convert any resource you have into [Resource], a special substance which can function as any material in sufficient quantities. You may freely convert [Resource] into any material, however the more difficult to acquire the material is, the more [Resource] it costs (and the more it would give if converted).   
+
+Additionally, [Resource] conversions operate at half efficiency overall, meaning it requires twice as much of a material converted into [Resource] to produce an equal amount through conversion. All [Resource] is stored in hyperdimensional storage within yourself, which has no limit to how much you can have on hand at a time."
+83,Botanical Solution,250 CP,Technological Transdimensional Turbulence,"You can create ""material seeds"" from nothing. A given seed is keyed to a specific material of your choice, and will grow into some sort of plant which produces that material if cared for correctly.   
+
+The time needed and difficulty of care will depend on how rare the material is in its original universe, but it will always be possible to successfully grow it somewhere within the universe you're currently in."
+84,Punk Tactics,200 CP,Technological Transdimensional Turbulence,"Choose a category of ""punk"", such as solarpunk, steampunk, or clockpunk. The techbases you chose are all altered to fall under this chosen category, altering the way they function and are built to better suit it. A steampunk blaster would still fire lasers, but do so through various exchanges of boiled water, while a clockpunk one would require gears and mechanisms for the same.  
+
+As a result of this change, any specialty materials your chosen techbases call for which falls outside of the punk type you picked are reworked to better fit the theme. Rare energy-storing crystals would not be needed to power the laser blaster, but particularly high-temperature steam or increasingly precise gearwork would be needed in its place."
+85,Item Drops,250 CP,Technological Transdimensional Turbulence,"Whenever you knock out or kill another animate being in a fight, they'll drop an item or items. The items will be thematically linked to them, and be more valuable the more powerful the being was. You may toggle this off if you wish."
+86,Tech Base: Fallout,150 CP,Technological Transdimensional Turbulence,"Unless otherwise mentioned, selecting the base option provides entry-level understanding of the world's entire tech base, while the sub-options provide advanced understanding within their listed field. Can be purchased multiple times, until all sub-options obtained.
+
+Fallout is a post-apocalyptic world, where tech is either remnants of a lost age or what can be scrounged together despite the wasteland's scarcity. Those remnants that remain, however, are often quite powerful. Sub-options:
+
+>Medicine (+150 CP) - Knowledge of biology, surgery, and the proper application of various pharmaceuticals, both in regards to standard humans and in regards to mutants. Also includes knowledge of medical psychology, although to a lesser degree. This includes FEV, medical technology, and cloning.
+
+>Repair (+150 CP) - Mechanical knowledge, engineering, and methods for efficient recycling or repair, as well as ways to make new things from what you scavenge. This includes power armor, weaponry, vertibirds, and robotics.
+
+>Science (+150 CP) - Esoteric knowledge of high-concept science, such as chemistry, physics, and thermodynamics, as well as how to apply those things to devices you design. This includes mini nukes, energy weapons, microfusion cells, and fusion cells.
+
+>Survival (+150 CP) - Knowledge of the wilderness in various environments, how to survive within said environments, behavior of animals and important plants, and how to cook said animals and plants. Further includes pipe weaponry, scrap armor, and settlement building.
+
+>Computer Whiz (+150 CP) - You gain knowledge of computer systems and code. You know how to program and how to properly apply this in practical applications. This includes the platinum chip, pip-boys, AI, and operating systems."
+87,Tech Base: Star Trek,250 CP,Technological Transdimensional Turbulence,"Unless otherwise mentioned, selecting the base option provides entry-level understanding of the world's entire tech base, while the sub-options provide advanced understanding within their listed field. Can be purchased multiple times, until all sub-options obtained.
+
+Star Trek's tech base is one from a post-scarcity society, whose tech has solved so many societal problems that the only way to find adventure is to venture out into deep space, where no man has gone before. Sub-options:
+
+>Travel (+250 CP) - Technology based on travel, such as the transporters capable of full-blown teleportation, or the spaceships capable of easy lightspeed travel.
+
+>Battle (+250 CP) - Technology designed for combat, such as the phasers able to disintegrate matter at their highest settings, or cloaking devices able to hide entire spaceships from most forms of scanner detection.
+
+>Information (+250 CP) - Technology for information gathering and processing, from powerful full-range scanners such as the tricorder, to the computers needed to parse all of the data an entire spaceship's scanner array collects.
+
+>Luxury (+250 CP) - Technology for convenience and luxury, such as the replicator able to duplicate nearly anything it has a blueprint for, or the holodeck able to simulate nearly any situation using hardlight."
+88,Tech Base: Sufficiently Advanced,250 CP,Technological Transdimensional Turbulence,"Unless otherwise mentioned, selecting the base option provides entry-level understanding of the world's entire tech base, while the sub-options provide advanced understanding within their listed field. Can be purchased multiple times, until all sub-options obtained.
+
+Sufficiently Advanced is a setting which has 6 different technological disciplines with 6 levels of technology within those disciplines. At their highest level, all 6 types are capable of the sorts of things that would be within the realms of magic in many other settings. Sub-options:
+
+>Biotech (+250 CP) - Technology designed to manipulate, alter, and otherwise affect living things. Examples include medically-induced biofeedback, or biosensors which can non-invasively detect medical problems overnight.
+
+>Cognitech (+250 CP) - Technology based on computation and intelligence, both artificial and natural. Examples include computers the size of a finger which outclass modern tech easily, or implants which can allow the user to intentionally forget things they wish to.
+
+>Metatech (+250 CP) - Technology based on social sciences, on affecting society in all its forms. Examples include techniques to understand basic communication through language and cultural barriers, or methods of conducting body language which massively amplify its effects.
+
+>Nanotech (+250 CP) - Nanotechnology as a whole, especially as it relates to material sciences. Examples include swift-expanding foam able to seal leaks or contain people, or methods of providing invisibility or inaudibility through nanobot interference.
+
+>Stringtech (+250 CP) - Technology based on String Theory, designed to manipulate energies and particles. Examples include straightforward laser weaponry, or generators which convert energy to different types.
+
+>Chronotech (+250 CP) - Technology based on time, particularly in regards to getting information from the future. Examples include tech to predict the content of conversations and thus skip them in real time, or armor which prepares countermeasures for attacks that will happen."
+89,Tech Base: Eclipse Phase,200 CP,Technological Transdimensional Turbulence,"Unless otherwise mentioned, selecting the base option provides entry-level understanding of the world's entire tech base, while the sub-options provide advanced understanding within their listed field. Can be purchased multiple times, until all sub-options obtained.
+
+Taking place in the Accelerated Future after The Fall, Eclipse Phase is a game of Transhuman conspiracy and horror. Spurred on by a slow-burn Singularity and their own recent near extinction, Transhumanity has created incredibly technological wonders that might seem like magic to a modern human. This option specifically refers to Transhumanity's understanding of science and technology.
+
+>Argonaut (+200 CP) - Technology related to habitat construction, reactor design, spaceships, and general infrastructure. Includes wireless power transmission, fusion reactor design, anti-matter factories, and seed ships.
+
+>Armourer (+200 CP) - Infantry-scale technology and equipment, particularly armor and weapons like plasma rifles and portable automatic railguns.
+
+>Programming (+200 CP) - Coding technology, sufficient for AI, seed intelligences, and expert systems, as well as the technology used to create the 3D optical processors and quantum computers running them. Additionally includes Basilisk Hacks understood by Transhumanity.
+
+>Transhumanities (+200 CP) - Technology related to medicine and augmentations, such as Cortical Stacks, Biomods, and Cyberbrains; it further includes technology necessary to support them, such as Ego Bridges and stasis vats. Finally, it provides information on esoteric processes like MeatHab, Psychosurgery, xenobiology, and Uplifts."
+90,Iterative Power Frame,200 CP,Modded Factorio,"You possess a complete mental compendium of blueprints for the Power Armor MK3+ Factorio mod, along with the foundational design philosophy that created it. This is not mere static knowledge but a living methodology - you intuitively understand the modular, grid-based approach to exoskeletal design, where a suit serves as a mobile platform for interchangeable subsystems rather than a fixed machine. You know how to construct every tier of armor, from MK1 through MK4, along with their expansive grid equipment, and you grasp the iterative engineering process behind balancing power distribution, shield regeneration, and energy efficiency for power armor of this kind. "
+91,,,,
+92,,,,
+93,,,,
+94,,,,
+95,,,,
+96,,,,
+97,,,,
+98,,,,
+99,,,,
+100,,,,
+101,,,,
+102,,,,
+103,,,,
+104,,,,
+105,,,,
+106,,,,
+107,,,,
+108,,,,
+109,,,,
+110,,,,
+111,,,,
+112,,,,
+113,,,,
+114,,,,
+115,,,,
+116,,,,
+117,,,,
+118,,,,
+119,,,,
+120,,,,
+121,,,,
+122,,,,
+123,,,,
+124,,,,
+125,,,,
+126,,,,
+127,,,,
+128,,,,
+129,,,,
+130,,,,
+131,,,,
+132,,,,
+133,,,,
+134,,,,
+135,,,,
+136,,,,
+137,,,,
+138,,,,
+139,,,,
+140,,,,
+141,,,,
+142,,,,
+143,,,,
+144,,,,
+145,,,,
+146,,,,
+147,,,,
+148,,,,
+149,,,,
+150,,,,
+151,,,,
+152,,,,
+153,,,,
+154,,,,
+155,,,,
+156,,,,
+157,,,,
+158,,,,
+159,,,,
+160,,,,
+161,,,,
+162,,,,
+163,,,,
+164,,,,
+165,,,,
+166,,,,
+167,,,,
+168,,,,
+169,,,,
+170,,,,
+171,,,,
+172,,,,
+173,,,,
+174,,,,
+175,,,,
+176,,,,
+177,,,,
+178,,,,
+179,,,,
+180,,,,
+181,,,,
+182,,,,
+183,,,,
+184,,,,
+185,,,,
+186,,,,
+187,,,,
+188,,,,
+189,,,,
+190,,,,
+191,,,,
+192,,,,
+193,,,,
+194,,,,
+195,,,,
+196,,,,
+197,,,,
+198,,,,
+199,,,,
+200,,,,
+201,,,,
+202,,,,
+203,,,,
+204,,,,
+205,,,,
+206,,,,
+207,,,,
+208,,,,
+209,,,,

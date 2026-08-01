@@ -19,13 +19,8 @@
       "versions": [
         {
           "id": "default",
-          "displayName": "Bordello DEFAULT",
+          "displayName": "Bordello",
           "database": "bordello"
-        },
-        {
-          "id": "waifu",
-          "displayName": "Bordello WAIFU",
-          "database": "waifu"
         }
       ]
     },
@@ -72,13 +67,8 @@
       "versions": [
         {
           "id": "default",
-          "displayName": "Companion DEFAULT",
+          "displayName": "Companion",
           "database": "companion"
-        },
-        {
-          "id": "lewd",
-          "displayName": "Companion LEWD",
-          "database": "companion_lewd"
         }
       ]
     },
@@ -185,7 +175,7 @@
       "versions": [
         {
           "id": "default",
-          "displayName": "Grimoire DEFAULT",
+          "displayName": "Grimoire",
           "database": "grimoire"
         },
         {
@@ -202,16 +192,6 @@
           "id": "v6",
           "displayName": "Grimoire V6",
           "database": "grimoire_v6"
-        },
-        {
-          "id": "yggdrasil_personal",
-          "displayName": "Grimoire YGGDRASIL_PERSONAL",
-          "database": "grimoire_yggdrasil_personal"
-        },
-        {
-          "id": "rift_mod",
-          "displayName": "Grimoire RIFT_MOD",
-          "database": "akashic_grimoire_rift_mod"
         }
       ]
     },
@@ -354,7 +334,7 @@
       "versions": [
         {
           "id": "default",
-          "displayName": "Scrolls DEFAULT",
+          "displayName": "Scrolls",
           "database": "scrolls"
         },
         {
@@ -388,13 +368,18 @@
       "versions": [
         {
           "id": "default",
-          "displayName": "Something DEFAULT",
+          "displayName": "Something",
           "database": "something"
         },
         {
           "id": "v2",
           "displayName": "Something V2",
           "database": "something_v2"
+        },
+        {
+          "id": "v3",
+          "displayName": "Something V3",
+          "database": "something_v3"
         }
       ]
     },
@@ -417,7 +402,7 @@
       "versions": [
         {
           "id": "default",
-          "displayName": "Spellbook DEFAULT",
+          "displayName": "Spellbook",
           "database": "spellbook"
         },
         {
