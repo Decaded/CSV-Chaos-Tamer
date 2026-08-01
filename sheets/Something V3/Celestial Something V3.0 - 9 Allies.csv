@@ -1,0 +1,508 @@
+0,Perk Name,Cost,Source,Description
+1,Zann Esu Sorceress,200 CP,Diablo,"""Your soul is inundated with power. Let it overflow, and your enemies will quickly learn to fear it.""
+
+In her original world, this Sorceress of the Zann Esu Clan met her end. Athletic, affable, and self-assured, she hardly fit the image of a scholarly bibliophile hidden from civilization. She possessed many of the same skills as her male counterparts in the Mage Clans, but excelled particularly at elemental magic: wielding fire, lightning, and cold with devastating precision.
+
+Now, she has been granted a second chance. She appears before you as a loyal familiar and ally, her soul bound to your service by gratitude and circumstance. Upon arrival, she receives basic knowledge about you, your current situation, and useful trivia about the world - its history, local language, and common technology.
+
+She retains all the skills and magical talent she possessed at the time of her death along with her equipment. However, she still has free will and can leave you, but the geas of her fiat-backed contract will prevent her from working against you."
+2,Brother of the Bough,200 CP,Diablo,"""From defeat, they forged discipline. From nothing, they honed everything.""
+
+In his world, this monk of the Brotherhood of the Bough met his end. Hailing from a desolate wilderness - a people conquered and scattered by an invading horde - he vowed to master combat without the resources he lacked. With no iron for weapons or armor, he learned to make his bare hands and simple wooden staves into deadly instruments, relying on speed, concentration, and unbreakable will. His harsh homeland also forced him to find sustenance in the most unlikely places, honing his visual perception to an almost supernatural degree over time.
+
+Now, he has been granted a second chance. He appears before you as a loyal familiar and ally, his soul bound to your service by gratitude and circumstance. Upon arrival, he receives basic knowledge about you, your current situation, and useful trivia about the world: its history, local language, and common technology.
+
+He retains all the martial skill, honed perception, and disciplined spirit he possessed at the time of his death  along with his equipment. However, he still has free will and can leave you, but the geas of his fiat-backed contract will prevent him from working against you."
+3,Khanduran Warrior,200 CP,Diablo ,"""Empathy separates the warrior from the beast. Understand others. Fight for what matters most.""
+
+In his world, this warrior of Khanduras met his end. Well-trained in all weapons of war, he was one of many adventuresome men who joined King Leoric's army to battle against the kingdom of Westmarch. Whether crusading paladin or unscrupulous mercenary, he could be found wherever conflict arose among his countrymen. But when the fires of war burned out and he returned home, he found his kingdom in shattered chaos and disarray and there, ultimately, he fell.
+
+Now, he has been granted a second chance. He appears before you as a loyal familiar and ally, his soul bound to your service by gratitude and circumstance. Upon arrival, he receives basic knowledge about you, your current situation, and useful trivia about the world: its history, local language, and common technology.
+
+He retains all the martial skill, combat experience, and hard-won wisdom he possessed at the time of his death along with his equipment. However, he still has free will and can leave you, but the geas of his fiat-backed contract will prevent him from working against you."
+4,Askari Amazon,200 CP,Diablo,"""A master of the javelin and bow, the Amazon reacts to combat situations with superhuman agility. She relies on magical prowess to enhance her significant martial abilities.""
+
+In her world, this Amazon of the Askari met her end. A powerful woman warrior from nomadic bands roaming the plains near the South Sea, she was accustomed to fighting to defend her own from constant conflicts with other peoples. Her lifestyle forged her into a fiercely independent survivor, able to weather severe hardship and travel. Her skill with the bow rivaled that of the Rogues, but she was equally adept with spears, javelins, and hand-to-hand combat. She possessed the unique ability to wield Amazon Weapons: special bows, javelins, and spears that only her people could truly master.
+
+Now, she has been granted a second chance. She appears before you as a loyal familiar and ally, her soul bound to your service by gratitude and circumstance. Upon arrival, she receives basic knowledge about you, your current situation, and useful trivia about the world: its history, local language, and common technology.
+
+She retains all the martial skill, superhuman agility, and magical prowess she possessed at the time of her death along with her equipment. However, she still has free will and can leave you, but the geas of her fiat-backed contract will prevent her from working against you."
+5,Legion of the Fallen,400 CP,Diablo,"""Fallen Ones are the lowest of the low. As a result, they tend to be bad-tempered and violent, attacking anything in their path.""
+
+You gain the ability to summon a substantial warband of Fallen demons, equipped and ready for war. This legion includes:
+
+>Carvers - mildly insane, but possessed of low cunning and a dangerous attitude
+>Devilkin - fully insane, attacking in gibbering mobs to unnerve their foes
+>Dark Ones - utterly self-serving, gladly pushing their fellows into battle to survive
+>Warped Ones - the worst of the lot, for whom no task is too monstrous in sufficient numbers
+>Fallen Shamans - to lead and support the horde with their dark magic
+
+Once summoned, they cannot be dismissed or unsummoned. They are bound by a strict magical contract that ensures they remain mostly aligned with your goals, genuinely loyal to you, and obedient to your orders. However, dealing with demons is never without its challenges - expect some unforeseen problems arising from their inherent nature.
+
+Upon arrival, the entire legion gains knowledge of the local language, your current situation, and a general understanding of the new world around them."
+6,Sister of the Sightless Eye,200 CP,Diablo,"""Rogue philosophy states that money is neither good nor evil.""
+
+In her world, this Rogue of the Sisterhood of the Sightless Eye met her end. Though not as powerful in close combat as Warriors, she was an undisputed master of the bow. The innate sixth sense possessed by all Rogues allowed her to sense trapped fixtures and aided her in disarming them. She was one of many who fought during the Darkening of Tristram, when her Sisterhood stood as the shield and bow against the rising darkness.
+
+Now, she has been granted a second chance. She appears before you as a loyal familiar and ally, her soul bound to your service by gratitude and circumstance. Upon arrival, she receives basic knowledge about you, your current situation, and useful trivia about the world - its history, local language, and common technology.
+
+She retains all the archery skill, trap sense, and hard-won survival instincts she possessed at the time of her death along with her equipment. However, she still has free will and can leave you, but the geas of her fiat-backed contract will prevent her from working against you."
+7,Viz-Jaq'taar Assassin,200 CP,Diablo,"""A member of an ancient Vizjerei order founded to hunt down mages gone rogue, the Assassin is a martial arts expert who uses deadly traps and shadow disciplines to vanquish evil.""
+
+In her world, this Assassin of the Viz-Jaq'taar (the Order of the Mage Slayers) met her end. Sworn to weed out demonic corruption from the Mage Clans, she possessed one of the purest, most focused minds imaginable. She drew power from within, not without, employing ingenious devices and enchanted items rather than direct magic. She honed her body and mind to perfection, mastering martial arts, wrist-blades, deadly traps, and shadow disciplines. She was a living weapon against corruption.
+
+Now, she has been granted a second chance. She appears before you as a loyal familiar and ally, her soul bound to your service by gratitude and circumstance. Upon arrival, she receives basic knowledge about you, your current situation, and useful trivia about the world - its history, local language, and common technology.
+
+She retains all the martial skill, psychic discipline, and mastery of infiltration and traps she possessed at the time of her death along with her equipment. However, she still has free will and can leave you, but the geas of her fiat-backed contract will prevent her from working against you."
+8,Barbarian of Harrogath,200 CP,Diablo,"""Glorified by many a song and fireside tale, the Barbarian is unrivaled in delivering unrelenting melee fury on anyone foolish enough to greet their axe-head.""
+
+In his world, this Barbarian of the Northern Steppes met his end. He grew up in Harrogath, surviving the trials of weaponcraft and the hostile wilderness from his youth. He knew Malah and her son Bannuk before leaving on his quest to destroy the Prime Evils - a journey from which he would never return.
+
+Now, he has been granted a second chance. He appears before you as a loyal familiar and ally, his soul bound to your service by gratitude and circumstance. Upon arrival, he receives basic knowledge about you, your current situation, and useful trivia about the world: its history, local language, and common technology.
+
+He retains all the martial prowess, unrelenting fury, and survival instincts he possessed at the time of his death along with his equipment. However, he still has free will and can leave you, but the geas of his fiat-backed contract will prevent him from working against you."
+9,Druid of Scosglen,200 CP,Diablo ,"""To survive and rule over these wilds, the Druids must forfeit their humanity to awaken the beast within.""
+
+In his world, this Druid of Scosglen met his end. Kin to the Barbarians, he was raised in the Old Ways within one of the great stone Druid Colleges, honing his bond with nature under the sacred oak Glór-an-Fháidha. He shunned traditional magic, instead drawing power from his intimate kinship with the natural world: commanding fire, earth, and wind, summoning lightning, calling animals and even plants to aid him. His greatest gift was shapeshifting, allowing him to take on the characteristics of the beasts he had sworn to protect.
+
+Now, he has been granted a second chance. He appears before you as a loyal familiar and ally, his soul bound to your service by gratitude and circumstance. Upon arrival, he receives basic knowledge about you, your current situation, and useful trivia about the world - its history, local language, and common technology.
+
+He retains all the natural magic, shapeshifting ability, and martial skill he possessed at the time of his death along with his equipment. However, he still has free will and can leave you, but the geas of his fiat-backed contract will prevent him from working against you."
+10,Priest of Rathma,200 CP,Diablo,"""Haunt your foes with the dead, so even the demons of the Burning Hells will feel dread. Reanimate corpses to protect the living. Curse the damned with baneful skills. Inflict pestilence on the enemy. Alienated and shunned by society, those who underestimate your power are ignorant of their grave mistake. Only your commands echo in eternity.""
+
+In his world, this Necromancer of the Priests of Rathma met his end. Trained in the balanced philosophy of the Great Cycle, he walked the narrow path between light and darkness - neither good nor evil, but essential. He commanded the dead, raised armies from corpses, and wielded curses and pestilence against the forces of the Burning Hells. Society shunned him, but he knew the true weight of his power.
+
+Now, he has been granted a second chance. He appears before you as a loyal familiar and ally, his soul bound to your service by gratitude and circumstance. Upon arrival, he receives basic knowledge about you, your current situation, and useful trivia about the world: its history, local language, and common technology.
+
+He retains all the necromantic mastery, command over death, and balanced wisdom he possessed at the time of his death along with his equipment. However, he still has free will and can leave you, but the geas of his fiat-backed contract will prevent him from working against you."
+11,Knight of the Faith,200 CP,Diablo,"""Originally from the lands of the west, the Knights of the Faith, also known as Paladins, are holy warriors spread across the realms of Sanctuary. These soldiers of faith use holy magic in the war against the dark agents of Hell, wandering across the realm spreading their virtues or purging heresy. These battle-ready devotees of the light are a necessary bulwark against the forces of darkness.""
+
+In his world this Paladin met his end. Trained in the ways of sword and shield, he used holy magic gifted by the High Heavens to protect the downtrodden and wield light itself as raw power. He followed a strict code of chivalry, upholding the cause of Virtue and Light against the undead and the agents of Hell alike. His faith was core to his identity, and he knew well the danger of false lights.
+
+Now, he has been granted a second chance. He appears before you as a loyal familiar and ally, his soul bound to your service by gratitude and circumstance. Upon arrival, he receives basic knowledge about you, your current situation, and useful trivia about the world: its history, local language, and common technology.
+
+He retains all the martial prowess, holy magic, and unshakeable faith he possessed at the time of his death along with his equipment. However, he still has free will and can leave you, but the geas of his fiat-backed contract will prevent him from working against you. "
+12,Spectral Wolf,300 CP,Monster Sanctuary ,"You gain the companionship of the Spectral Wolf, one of the ancient and legendary familiars from the Old World. Cunning, perceptive, and fiercely loyal, this ethereal wolf was once the guardian of snowy mountains and dark forests - a friend to those who prefer the wilds over civilization.
+
+The Spectral Wolf arrives at a level of power proportional to your own, growing alongside you within certain limits of its nature. Through your soul-deep connection, it understands your commands, desires, and goals with preternatural clarity, acting as both trusted companion and keen-eyed judge of character. Its presence grants you sharper instincts and a faithful ally who will never abandon you to the dark."
+13,Spectral Toad,300 CP,Monster Sanctuary ,"You gain the companionship of the Spectral Toad, the wisest and most generous of the ancient familiars. Once revered in coastal lands and misty swamps, this enigmatic creature was sought by aspiring wizards for the arcane secrets it guards - a perilous journey that rewards the worthy with profound knowledge.
+
+The Spectral Toad arrives at a level of power proportional to your own, growing alongside you within certain limits of its nature. Through your soul-deep connection, it understands your commands, desires, and goals with preternatural clarity. As a natural teacher and keeper of wisdom, it enhances your studies, sharpens your recollection, and may occasionally reveal secrets that others would miss."
+14,Spectral Eagle,300 CP,Monster Sanctuary ,"You gain the companionship of the Spectral Eagle, the bravest of the ancient familiars. Once revered as an embodiment of the sun with dominion over winds and weather, this majestic creature was patron to sailors, traders, and desert peoples, and is honored still by pirate captains who keep colorful birds in tribute.
+
+The Spectral Eagle arrives at a level of power proportional to your own, growing alongside you within certain limits of its nature. Through your soul-deep connection, it understands your commands, desires, and goals with preternatural clarity. Fiercely loyal and bound to you by bonds stronger than death itself, this companion grants you a watchful eye from above and swift passage when winds obey its call."
+15,Spectral Lion,300 CP,Monster Sanctuary ,"You gain the companionship of the Spectral Lion, the noblest and most heroic of the ancient familiars. Once revered as a guardian of prairies and jungles, this majestic beast was said to hunt demons, shield the pure of heart, and command a wrath that wise folk never provoked.
+
+The Spectral Lion arrives at a level of power proportional to your own, growing alongside you within certain limits of its nature. Through your soul-deep connection, it understands your commands, desires, and goals with preternatural clarity. As a natural leader and protector, its presence grants you unwavering courage and guards against perils."
+16,Ironclad,400 CP,Slay the Spire,"You gain the companionship of the Ironclad - the last soldier of a fallen tribe, a warrior who sold his soul to harness demonic energies and now carries the weight of that bargain in every scarred breath.
+
+At the peak of the Spire, dying to the Heart, he was offered a choice: death, or service as your companion. He chose you. He retains all his martial prowess: his massive blade, his demon-forged armor, and the burning powers drawn from his cursed pact. He is a master of exhaustion tactics, demonic strength, and relentless combat.
+
+The Ironclad retains his free will and may leave your service if he chooses. However, the fiat-backed contract binding him prevents him from ever working against you, ensuring his loyalty never turns to betrayal."
+17,Silent,400 CP,Slay the Spire,"You gain the companionship of the Silent - a deadly huntress from the foglands, raised among sisters who place the skulls of their slain foes as ceremonial crowns upon her head.
+
+At the peak of the Spire, dying to the Heart, she was offered a choice: death, or service as your companion. She chose you. She retains all her lethal prowess: her twin daggers, her mastery of poisons, her deck of tricks and tactics that erode enemies from within before finishing them in silence. She is a phantom on the battlefield, striking from shadow and leaving only corpses behind.
+
+The Silent retains her free will and may leave your service if she chooses. However, the fiat-backed contract binding her prevents her from ever working against you, ensuring her loyalty never turns to betrayal."
+18,Defect,400 CP,Slay the Spire,"You gain the companionship of the Defect - a combat automaton that awoke to self-awareness in the shadow of the Spire, its ancient programming struggling to comprehend balance as it was greeted by the entity Neow.
+
+At the peak of the Spire, dying to the Heart, it was offered a choice: death, or service as your companion. It chose you. It retains all its formidable capabilities: its array of channeled Orbs (Lightning, Frost, Plasma, and Darkness), its capacity to evoke or focus their power, and the eerie, logical precision of a mind that was never meant to dream.
+
+The Defect retains its free will and may leave your service if it chooses. However, the fiat-backed contract binding it prevents it from ever working against you, ensuring its loyalty never turns to betrayal."
+19,Watcher,400 CP,Slay the Spire,"You gain the companionship of the Watcher - a blind ascetic sent to observe and evaluate the Spire, trained to watch, remember, and live without emotion interfering with her sacred mission.
+
+At the peak of the Spire, dying to the Heart, she was offered a choice: death, or service as your companion. She chose you. She retains all her formidable prowess: her mastery of divine stances, and the serene, detached precision of one who has transcended mortal limitations.
+
+The Watcher retains her free will and may leave your service if she chooses. However, the fiat-backed contract binding her prevents her from ever working against you, ensuring her loyalty never turns to betrayal."
+20,Megataur,250 CP,Monster Sanctuary,"You gain the companionship of a Megataur - a colossal beast-man of the frozen peaks, evolved from ancient Minotaur stock through generations of adaptation to the harshest mountain conditions. Its strength, endurance, and sturdiness are unparalleled, a living fortress of muscle and elemental control.
+
+Mild-tempered by nature, your Megataur is a gentle guardian within lands it considers its own. But should anger be ignited, there is no force in the peaks that can stand against its wrath - only flight remains. It commands both brute power and the elements themselves, a fusion of raw might and frozen fury.
+
+Your Megataur arrives at a level of power proportional to your own, growing alongside you within limits of its nature. Through your soul-deep connection, it understands your commands, desires, and goals with preternatural clarity, standing as an immovable shield and an unstoppable hammer when the need arises."
+21,Swarm of Primordial Dearth,800 CP,Original,"You gain a hundred creatures Swarm of Primordial Dearth - rat-sized insectoid creatures with wasp bodies, dragonfly wings, and seemingly endless appetite. They eat almost any physical matter, then split into two copies. Each copy inherits traits based on what it consumed in previous generation: appearance, food preferences, and environmental tolerances shift with each meal, always adapting toward usefulness in their current circumstances.
+
+The swarm grows smarter, more precise, and more coordinated as its numbers increase within one swarm. Different swarms may conflict, consuming each other to produce ever more twisted and nightmarish forms - for Dearth are what they eat.
+
+>Behavior: They can consume metals, soil, wood, flesh (nearly anything) though individuals develop preferences. Only the First of the Kin, which spawned without prior consumption, retains true omnivorous capability. They will eat inedible matter when hungry without preferred options accessible, when defending against aggression, or simply when bored of their current diet.
+
+>Limitations: The swarm is semi-sapient at best: cunning but not negotiable, driven by absolute instinct rather than ethics or philosophy, even when become smarter. Individual members may be kept as pets by the sufficiently mad, but caution is essential: control feeding, vary their diet, prevent overconsumption, and isolate them from other swarms."
+22,Pink Slime Enclosure ,100 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Pink Slimes - the most common and cheerful inhabitants of the Far, Far Range. These docile, squishy creatures are easily identified by their pink coloration and perpetually happy demeanor. You receive basic skills and knowledge for caring for your colony: feeding schedules, enclosure maintenance, and plort harvesting.
+
+Biology: Pink Slimes are omnivorous, capable of eating all three main food types (Fruit, Meat, and Veggies), making them exceptionally easy to maintain. They have no favorite food and display no negative behaviors when agitated - they simply bounce happily through life.
+
+Production: Their plorts (crystalline excretions) have the lowest monetary value of all slime varieties but possess remarkable versatility. Pink Plorts serve as a ""multipurpose generic substance"" used in manufacturing everything from food products to household cleaners across entire star systems."
+23,Rock Slime Enclosure ,150 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Rock Slimes: sturdy, mineral-crowned creatures distinguished by the sharp spikes atop their slimy bodies. Second only to Pink Slimes in commonality, these vegetarians prefer the satisfying crunch of heart beets above all other foods. You receive basic skills and knowledge for maintaining your colony: feeding schedules, spike-trimming, and safe harvesting practices.
+
+Behavior: Rock Slimes are generally docile but demand respect. Their rocky crowns can pierce through boots on contact, and when agitated, they curl into spiked balls and roll in straight lines. A tumbling Rock Slime is best avoided entirely.
+
+Production: Their plorts are prized throughout known space as the key component in ""blue metal"" - an astonishing alloy stronger than titanium yet lighter than plastic. Blue metal forms the hulls of light-speed starships, synthetic appendages, and even protective cases for delicate technology."
+24,Tabby Slime Enclosure ,150 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Tabby Slimes: adorable, cat-like creatures with perky ears, striped backs, and swaying tails. Made entirely of gooey slime yet unmistakably feline in behavior, they are among the most common slimes on the Range and strict carnivores requiring meat. You receive basic skills and knowledge for maintaining your colony: feeding schedules, enrichment activities to discourage thievery, and safe harvesting practices. 
+
+Behavior: Tabby Slimes mean no harm but cause endless chaos. Like their Earth cat cousins, they love to steal things they don't eat (fruits, veggies, shiny objects) often hiding them in inconvenient places. This hoarding tendency frequently leads to unintended largo transformations if they get into other plorts.
+
+Production: Their plorts are a key ingredient in performance-enhancing products, granting consumers a surge of tabby energy and exuberance. Athletes across the galaxy prize them for competitive edge, though prolonged use results in ""uncontrollable butt wiggles"" - a less desirable but harmless side effect."
+25,Phosphor Slime Enclosure,150 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Phosphor Slimes - nocturnal, violet-hued creatures with translucent wings and a softly pulsing, luminescent core. They emerge only under moonlit skies, their gentle glow earning them the name ""low stars"" among ranchers. You receive basic skills and knowledge for maintaining your colony: light-proofing enclosures, nocturnal feeding schedules, and safe harvesting practices.
+
+Behavior: True to their nocturnal nature, Phosphor Slimes and their plorts vanish instantly if exposed to direct sunlight. They require perpetual darkness (a cave, a sealed enclosure, or careful vacuuming before dawn) to thrive. They are docile fliers, drifting gracefully through the air.
+
+Production: Their plorts contain a luminescent compound that produces light for over a century, making them the most eco-friendly illumination source known. Cities across countless worlds have converted to phosphor lighting, saving trillions of gigawatts daily. Additionally, rubbing phosphor plort dust into hair creates a spectacular, long-lasting glow that remains fashionable across cultures."
+26,Boom Slime Enclosure,200 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Boom Slimes: volatile creatures whose cells constantly vibrate, crackling with energy until they inevitably explode. Found most frequently in the Indigo Quarry and Moss Blanket, they are heard long before they are seen. You receive basic skills and knowledge for maintaining your slime colony: blast-proof enclosure design, explosion timing prediction, and safe harvesting protocols using remote equipment.
+
+Behavior: Boom Slimes periodically detonate with considerable force, yet emerge from each explosion completely unscathed - if slightly dazed. Their explosions cause bodily harm to nearby creatures and send all surrounding slimes flying through the air, making them challenging to corral and hazardous to approach without precautions.
+
+Production: Their plorts are highly volatile with immense practical value. They power rocket thrusters, enable advanced demolition work, and are prized by military organizations across known space for ""medical technology and other research."" Their destructive applications are matched only by their energy output."
+27,Crystal Slime Enclosure,200 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Crystal Slimes - shimmering cousins of the Rock Slime, crowned with crystalline spikes formed by generating tremendous internal heat that warps surrounding minerals. They are found naturally in the Indigo Quarry. You receive basic skills and knowledge for maintaining your slime colony: heat management protocols, crystal patch dispersion techniques, and safe harvesting practices using water applications.
+
+Behavior: Crystal Slimes routinely create large patches of ultra-hot, dangerous crystals in their environment as a means of expelling internal heat. These crystal patches persist for roughly a minute and can be shattered with water. Their crystalline crowns cause significant harm on contact.
+
+Production: Their plorts enable slime scientists to engineer entirely transparent metals of tremendous strength. This innovation has transformed metropolitan architecture across countless worlds, allowing light to reach streets while maintaining structural integrity - described by architects as ""so totally cooler than normal, boring metals."""
+28,Rad Slime Enclosure,200 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Rad Slimes - glowing green globs of gamma goo that emit a potent radioactive aura. Found exclusively in the Indigo Quarry, these ""raddies"" pulse with enough energy to illuminate darkness. You receive basic skills and knowledge for maintaining your slime colony: radiation shielding protocols, exposure monitoring systems, and safe remote harvesting techniques. 
+
+Behavior: Rad Slimes do not attack directly, but their radioactive aura causes cumulative harm to anyone remaining within it too long. Extended exposure induces rad poisoning, serious bodily harm or worse. They glow constantly from their internal radiation, whether naturally occurring or environment-derived remains unknown.
+
+Production: Their plorts are essentially mobile batteries of incredible energy-producing capability. Corporations across known space process them into ""plortonium,"" which powers everything from the latest holophones to radwave microcook systems. Rad plorts represent clean, portable energy at its most versatile."
+29,Puddle Slime Enclosure,100 CP,Slime Rancher,"You gain a small, semi-automated pond enclosure containing a few dozen Puddle Slimes: rare aquatic creatures that float serenely on fresh water surfaces. Unlike most slimes, they absorb water directly into their bodies rather than eating fruits, veggies, or meat. You receive basic skills and knowledge for maintaining your slime colony: water quality management, population density monitoring, and gentle harvesting techniques that respect their shy nature.
+
+Behavior: Puddle Slimes require fresh water to survive and will evaporate completely if left on dry land too long. They are exceptionally shy, refusing to produce plorts if more than three other slimes are nearby. Their delicate nature makes them better suited for experienced caretakers - they are not for those still ""wet behind the ears.""
+
+Production: Their plorts contain H2Ohhhhh - an incredible hydro compound sought by galactic elites. Processed into absurdly expensive bottled water, it is prized by those with refined palates who ""seriously get it,"" despite skeptics who claim it tastes like tap water."
+30,Honey Slime Enclosure,100 CP,Slime Rancher,"You gain a small, semi-automated enclosure filled with a few dozens golden-brown Honey Slimes. You also receive basic skills and knowledge for maintaining your slime colony.
+
+Behavior: Docile and odorless, but their plorts are hyper-sweet and intensely fragrant to other slimes. You must manage your enclosure carefully: if other slimes catch the scent, they will stop at nothing to break in and create dangerous ""Largo"" hybrids.
+
+Production: They produce Honey Plorts, which score an 867 on the saccharine scale. Highly prized by food manufacturers, they can be sold for a considerable profit or refined into a sweetener so potent it borders on ""not fit for human consumption."""
+31,Hunter Slime Enclosure,150 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozens of Hunter Slimes, the elusive wild cousins of the Tabby Slime. You receive the basic skills and knowledge for maintaining your colony, including diet management and handling their unique temperament.
+
+Behavior: Pure Hunter Slimes are docile but possess a natural cloaking ability, rendering them almost invisible: only their giant, almond eyes give them away. However, any Largo created from their plorts is born feral and must be carefully tamed with offerings of chickens, lest they revert to a wild state when agitated.
+
+Production: They produce Hunter Plorts. When refined, these plorts create a serum that renders the user completely invisible for approximately 24 hours. The serum is popular among those who wish to disappear for a while. Though users often find that while invisibility is soothing, being unseen by others can be unexpectedly lonely."
+32,Quantum Slime Enclosure,250 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozens Quantum Slimes: reality-warping slimes from the Ancient Ruins. You receive the basic skills and knowledge for maintaining your colony, including how to manage their unique spatial anomalies.
+
+Behavior: Quantum Slimes constantly emit ""ghosts"" - projections of themselves from alternate realities. When agitated, they will align with a ghost's reality and teleport to its location, making containment exceptionally difficult. A vigilant rancher must learn to spot when they are primed to shift and quickly intervene with food or water to stabilize them.
+
+Production: They produce Quantum Plorts, believed by researchers to hold the secret to infinite resources. The theory suggests that unlocking their potential would allow for the cloning of any object (energy, chickens, or otherwise) by converging alternate realities into our own. Scientists assure the public there are probably no harmful side effects."
+33,Dervish Slime Enclosure,200 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozens Dervish Slimes, swirling bundles of kinetic energy found in the Glass Desert. You receive the basic skills and knowledge for maintaining your colony, including how to manage their turbulent tendencies.
+
+Behavior: Dervish Slimes constantly ride atop small whirlwinds, moving at high speeds and collecting objects in their path. When highly agitated, they generate massive cyclones that vacuum up and toss anything nearby. These storms can cause total ranch chaos if not anticipated and soothed.
+
+Production: They produce Dervish Plorts, a fantastic source of clean energy that gives turbines and generators an extra boost. The plorts are in constant demand, as each contains a finite number of spins - once those spins are expended, the plort becomes inert."
+34,Tangle Slime Enclosure,200 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozens Tangle Slimes, deceptively innocent-looking slimes with flowers atop their heads. You receive the basic skills and knowledge for maintaining your colony, including managing their predatory instincts.
+
+Behavior: Despite their cheerful appearance, Tangle Slimes are fearsome predators with a big appetite for meat. They can send vines underground to snatch food (or plorts) from outside their enclosure. When agitated, the flowers on their heads release a noxious pollen cloud that causes nearby slimes to sneeze violently, rapidly increasing agitation across your entire ranch.
+
+Production: They produce Tangle Plorts, which have incredibly beneficial agricultural applications. Fertilizers and growth formulas made from them are used by farms across Earth to greatly enhance crop production, thanks to the plorts' unusually high nutrient count."
+35,Mosaic Slime Enclosure,200 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozens Mosaic Slimes, beautiful but dangerous slimes covered in glittering glass tiles. You receive the basic skills and knowledge for maintaining your colony, including managing their solar anomalies.
+
+Behavior: Their shimmering glass tiles attract other slimes. Leading theories suggest simply that ""sparkly things are super cool."" When agitated, Mosaic Slimes generate ultra-hot solar ""glints"" that drift through the air before bursting into flames. These can be snuffed with water, but a well-fed slime produces far fewer.
+
+Production: They produce Mosaic Plorts, desired for researching the Glass Desert's mysterious structures. Unlike native glass samples, Mosaic Plorts remain stable outside the Far, Far Range. Scientists insist they are studying the plorts because they are ""really pretty,"" and absolutely not because of their potential to cause devastating solar anomalies."
+36,Fire Slime Enclosure,150 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozens Fire Slimes, rare ash-dwelling slimes that appear during solar anomalies. You receive the basic skills and knowledge for maintaining your colony, including ash management and safety protocols.
+
+Behavior: Fire Slimes require a bed of ash to survive. They will quickly ""snuff out"" if left on any other surface. Their naturally burning state makes them poor companions for other slimes, as their fiery touch sends nearby slimes flying. A splash of fresh water can temporarily extinguish them for safe handling.
+
+Production: They produce Fire Plorts, used in the developing world on Earth to keep stoves and fireplaces burning. While a rancher won't get rich selling them, each plort helps provide warm hands and hot food to millions who would otherwise lack such luxuries. A small, noble return for a dangerous endeavor."
+37,Gold Slime Enclosure,150 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozens Gold Slimes, the rarest and most valuable species on the Far, Far Range. You receive the basic skills and knowledge for maintaining your colony, though their care remains inherently challenging.
+
+Behavior: Gold Slimes are notoriously difficult to manage: they are quick as a flash and instinctively flee from ranchers on sight. They produce no direct risks, but their appearance often induces panic, leading to costly mistakes. To obtain plorts, you must strike them with any spare resource, which also scatters additional items across the area, creating unintended Largos and chaos.
+
+Production: They produce Gold Plorts, the most valuable of all plorts. They have little practical use; they are prized simply for being impossibly shiny and rare. On Earth, the elite adorn themselves in jewelry made from them, with values far exceeding any terrestrial precious metal."
+38,Saber Slime Enclosure,100 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozens Saber Slime Largos, living relics from the Jellassic Period of the Far, Far Range. You receive the basic skills and knowledge for maintaining your colony, including handling their feral instincts.
+
+Behavior: Though pure Sabers are extinct, these Largos retain their fierce predator lineage. They are carnivorous, incredibly agile, and capable of powerful jumps that let them bound off surfaces to flank prey. Most are born feral and require careful taming - an agitated Saber Largo will actively hunt anything in sight.
+
+Production: They produce Saber Plorts, collected for their historical value and ancient slime DNA. Scientists have tried (and failed) to extract viable genetic material to resurrect the species. Most agree this is for the best, as success would inevitably lead to someone building a theme park, with predictable consequences."
+39,Quicksilver Slime Enclosure,200 CP,Slime Rancher,"You gain a specialized, semi-automated racetrack enclosure, containing a dozen Quicksilver Slimes. These slimes cannot be vacuumed or caged conventionally - they must be managed through speed and precision. You receive the skills to maintain their unique habitat and feeding requirements.
+
+Quicksilver Slimes are lightning-fast creatures that feed on electricity, accumulating static charge through constant movement. They are not normally harmful, but when overcharged (such as through direct feeding) their current becomes dangerous. A mob of well-fed Quicksilvers can leave an careless rancher thoroughly zapped."
+40,Cotton Slimes Enclosure,100 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Cotton Slimes. You receive the basic skills and knowledge for maintaining your colony.
+
+Behavior: Easily identified by their yellow color and fluffy tails, Cotton Slimes are defined by their incredible leaps. They possess a natural spring that lets them bound far higher than other slimes, often to escape enclosures, reach preferred food (water lettuce), or for reasons known only to them. Ranchers must stay vigilant, as your line of sight will not be enough to reach them.
+
+Production: They produce Cotton Plorts, prized for their inexplicably ""fluffy"" quality. An ideal substitute for non-native terrestrial cotton, they ensure an endless supply for soft pillows, warm sweaters, and dry socks, should you desire a quiet, comfortable life."
+41,Flutter Slime Enclosure,200 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Flutter Slimes. You receive the basic skills and knowledge for maintaining your colony.
+
+Behavior: Aesthetically stunning slimes with powerful flight capabilities and innate curiosity, causing them to fly towards any nearby object or creature. They possess a restrictive diet, consuming only moondew nectar. A well-fed Flutter Slime rewards you with a soothing, sparkling aura that reduces agitation in all nearby slimes.
+
+Production: They produce Flutter Plorts, which possess a near-imperceptible weightlessness. Holding enough allows you to float just enough to slip a coin beneath your feet - a tiny but profound escape from the weight of the world."
+42, Batty Slime Enclosure,150 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Batty Slimes. You receive the basic skills and knowledge for maintaining your colony.
+
+Behavior: Nocturnal slimes that prefer cold, dark places and will swoop from ceilings, using glowing red eyes to see in the dark. They grow hungrier and eat more frequently in darkness, but sunlight increases their agitation over time. Despite the aesthetic, they are not vampires. They eat fruit and merely dislike garlic.
+
+Production: They produce Batty Plorts, ideal for navigation and sonar technology. Each plort emits a perfect ""ping"" for echolocation, allowing you to navigate even the most devious labyrinths with ease, should you ever find yourself needing to do such a thing."
+43,Angler Slime Enclosure,150 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Angler Slimes. You receive the basic skills and knowledge for maintaining your colony.
+
+Behavior: Inhabitants of the deepest Slime Sea now found near tidepools, drawn perhaps by the taste of sun-kissed sea hens. Despite their adorable fishy exterior, they are chicken-chomping predators. Their hypnotic lantern-lure creates a powerful radiant flash that stuns chickens and other slimes.
+
+Production: They produce Angler Plorts, which maintain form at incredible depths - ideal for deep sea diving technology. Holding one provides oddly encouraging comfort: knowing something so small withstands such pressure may inspire courage to take on the impossible."
+44,Ringtail Slime Enclosure,200 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Ringtail Slimes. You receive the basic skills and knowledge for maintaining your colony.
+
+Behavior: Omnivorous troublemakers who commit moonlight theft as a hobby. Sunlight transforms them into stone - whether this is an ancient curse or not, they're certainly the type. Once they start eating, they never stop; a single Ringtail can wipe out an entire farm, and they stop producing plorts when full. Watch for their mischievous expression.
+
+Production: They produce Ringtail Plorts, which are extremely resilient and harden when exposed to UV rays. Highly malleable like Pink Plorts, they can be crafted into anything from sturdy shelter on a faraway island to family photos that survive a scorching desert trek."
+45,Yolky Slime Enclosure,100 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Yolky Slimes. You receive the basic skills and knowledge for maintaining your colony.
+
+Behavior: Strange, elusive slimes found near wild chickens, harboring an enduring love for them rather than predatory intent. Their glowing golden affection inspires nearby hens to occasionally produce giant eggs containing five Chickadoos and, when fresh (indicated by glowing yolk), Yolky Plorts. Eggs spoil after three hours. Requires uncrowded chickens capable of reproduction.
+
+Production: They produce Yolky Plorts, highly valued for concentrated nutrients containing potent vitamin D. Allows reduction of sunlight intake for long periods: popular with cosmic pioneers, deep sea explorers, and gamers. Though they replace physical need for sunlight, they cannot replace its warmth, or the hope found in its rising."
+46,Twin Slime Enclosure,250 CP,Slime Rancher,"You gain a small, semi-automated enclosure containing a few dozen Twin Slimes. You receive the basic skills and knowledge for maintaining your colony.
+
+Behavior: A bizarre byproduct of the Prismacore's effects: two slimes occupying the same space at different intervals, shifting between cerulean blue and pink. They create reality-defying portals that snag things from the environment and drop them elsewhere, sometimes for food, sometimes for mischief. Unclear which half is more troublemaking.
+
+Production: They produce Twin Plorts - two plorts occupying the same space in opposing polarities. Inherently unstable: in construction, they'd generate both the strongest and weakest substance simultaneously. On the market, they're simultaneously the most valuable and so undervalued selling costs you money. Averages out to standard value."
+47,Akhlut,300 CP,Monster Sanctuary,"You gain the companionship of an Akhlut - a legendary apex predator of the ocean depths, once called ""killer of whales"" by ancient sailors. Beyond its status as an unstoppable hunter, it carries a profound connection to the afterworld.
+
+When overhunting emptied the seas, Akhlut learned to walk upon land and preyed upon humanity itself. No weapon could harm them. Only through ancient rituals could shamans link their spirits with these beasts, taming them through spiritual communion rather than force.
+
+Your Akhlut arrives at a level of power proportional to your own, growing alongside you within the limits of its nature. Through your soul-deep connection, it understands your commands, desires, and goals with preternatural clarity - a spirit-bound predator that walks between worlds at your side."
+48,Kanko - the Pipe Fox,250 CP,Monster Sanctuary,"You gain the companionship of a Kanko - an aerial spirit beast summoned through pipe embers and smoke, known as ""pipe foxes"" to the initiated. They exude a protective aura against evil spirits and defend their master with ferocious dedication, formidable even against the largest of otherworldly foes.
+
+The last remnant of a solitary mountain village brought this ancient summoning art to the Monster Sanctuary, preserving mystic arts that would otherwise have vanished. Your Kanko arrives at a level of power proportional to your own, growing alongside you within the limits of its nature. Through your soul-deep connection, it understands your commands, desires, and goals with preternatural clarity: a spirit guardian bound to you through smoke and ancient rite."
+49,Gryphonix,350 CP,Monster Sanctuary,"You gain the companionship of a Gryphonix - a stout, fiery hybrid with the body of a lion and wings and head of an eagle. Despite its rarity, it remains one of the most celebrated monsters, depicted across the Old World as loyal defenders of rulers, tombs, and gold. Its mere symbol was believed to ward off evil.
+
+Created two thousand years ago by the sun god (likely the Spectral Eagle) as a gift to the Aztor kingdom. Beyond its noble lineage, your Gryphonix is the cutest puppy and exceptionally adept at carrying you across any land with grace and speed.
+
+Your Gryphonix arrives at a level of power proportional to your own, growing alongside you within the limits of its nature. Through your soul-deep connection, it understands your commands, desires, and goals with preternatural clarity: a sun-touched guardian and loyal mount rolled into one impossibly adorable package."
+50,Raduga,300 CP,Monster Sanctuary,"You gain the companionship of a Raduga - the most majestic of all bird-like monsters, save perhaps the Spectral Eagle. While the Eagle commands storm and sun, the Raduga symbolizes universal balance. Its distinct long tail feathers represent the four elements, and its mere presence fills all beings with hope and vigor.
+
+For centuries, keepers sought this mythical being across the Old World. Legends claimed it appears only in lands of complete peace. In 400 AC, on the Sanctuary's anniversary, the Raduga finally revealed itself soaring above - a moment of unprecedented celebration.
+
+Your Raduga arrives at a level of power proportional to your own, growing alongside you within the limits of its nature. Through your soul-deep connection, it understands your commands, desires, and goals with preternatural clarity: a living symbol of elemental balance."
+51,Your Pride,400 CP,Original,"A clone drawn from your own being, reshaped to embody the Deadly Sin of Pride. They share your memories and core personality at the moment of creation, but their character is a twisted reflection, amplifying this one facet of your nature into an alter-ego. They are aligned with you and incapable of true purposeful betrayal, yet possess free will, flaws, and tendencies true to their sin. Their physical form is modified from your own default template (altered gender, features, or details like tattoos) to better reflect their nature. They are peak human, but do not gain any of your special physical enchantments
+
+Perks: Pride possesses a twofold power. First, they excel at inciting their namesake sin in others, making the proud grow more arrogant and the shy more confident with their words and actions. Second, by indulging their own Pride, they gain unique boosts, such as a towering presence, unshakeable will, and the ability to partially ignore defense and attacks of theie foes. Beneath this flaw lies a hidden virtue: Dignity. When all hope is lost, Pride reminds others of their inherent worth.
+
+Special: By building a positive connection with this entity and better understanding them (and the inner part of yourself they reflect) you gain the ability to grant them copies of a few perks you currently hold. They may decline your gift, however, and there is a limit of no more than seven perks with a total value not exceeding 700 CP that they can hold."
+52,Your Greed,400 CP,Original,"A clone drawn from your own being, reshaped to embody the Deadly Sin of Greed. They share your memories and core personality at the moment of creation, but their character is a twisted reflection, amplifying this one facet of your nature into an alter-ego. They are aligned with you and incapable of true purposeful betrayal, yet possess free will, flaws, and tendencies true to their sin. Their physical form is modified from your own template (altered gender, features, or details like jewelry or gilded markings) to better reflect their nature. They are peak human, but do not gain any of your special physical enhancements.
+
+Perks: Greed possesses a twofold power. First, they excel at inciting their namesake sin in others with words and actions, making the greedy hoard tighter and the spendthrift slow their spree. Second, by indulging their own Greed (acquiring wealth, knowledge, or valuable things) they gain unique boosts, such as the ability to sense value, find lost treasures, and temporarily empower themselves based on what they currently possess. Beneath this flaw lies a hidden virtue: Generosity. When others hoard their resources, Greed reminds them that true wealth is found in sharing with those in need.
+
+Special: By building a positive connection with this entity and better understanding them (and the inner part of yourself they reflect) you gain the ability to grant them copies of a few perks you currently hold. They may decline your gift, however, and there is a limit of no more than seven perks with a total value not exceeding 700 CP that they can hold."
+53,Your Lust,400 CP,Original,"A clone drawn from your own being, reshaped to embody the Deadly Sin of Lust. They share your memories and core personality at the moment of creation, but their character is a twisted reflection, amplifying this one facet of your nature into an alter-ego. They are aligned with you and incapable of true purposeful betrayal, yet possess free will, flaws, and tendencies true to their sin. Their physical form is modified from your own template (altered gender, features, or details like alluring features or subtle smell) to better reflect their nature. They are peak human, but do not gain any of your special physical enhancements.
+
+Perks: Lust possesses a twofold power. First, they excel at inciting their namesake sin in others with words and actions, making the passionate more fervent and the cold to feel want. Second, by indulging their own Lust (pursuing desire, connection, or beauty) they gain unique boosts, such as heightened charisma, empathic insight into what others crave, and the ability to rapidly heal people they care about. Beneath this flaw lies a hidden virtue: Love. When others see only surface beauty, Lust reminds them to appreciate the profound beauty in all things and connections.
+
+Special: By building a positive connection with this entity and better understanding them (and the inner part of yourself they reflect) you gain the ability to grant them copies of a few perks you currently hold. They may decline your gift, however, and there is a limit of no more than seven perks with a total value not exceeding 700 CP that they can hold."
+54,Your Wrath,400 CP,Original,"A clone drawn from your own being, reshaped to embody the Deadly Sin of Wrath. They share your memories and core personality at the moment of creation, but their character is a twisted reflection, amplifying this one facet of your nature into an alter-ego. They are aligned with you and incapable of true purposeful betrayal, yet possess free will, flaws, and tendencies true to their sin. Their physical form is modified from your own template (altered gender, features, or details like scars, hardened expressions, or muscular build) to better reflect their nature. They are peak human, but do not gain any of your special physical enhancements.
+
+Perks: Wrath possesses a twofold power. First, they excel at inciting their namesake sin in others with words and actions, making the angry see red and the passive rise up in righteous fury. Second, by indulging their own Wrath (channeling anger, confronting injustice, or fighting) they gain unique boosts, such as heightened combat reflexes, strength that grows with opposition, and the ability to rapidly heal their wounds. Beneath this flaw lies a hidden virtue: Courage. When others flee or falter, Wrath reminds them that some things are worth fighting for.
+
+Special: By building a positive connection with this entity and better understanding them (and the inner part of yourself they reflect) you gain the ability to grant them copies of a few perks you currently hold. They may decline your gift, however, and there is a limit of no more than seven perks with a total value not exceeding 700 CP that they can hold."
+55,Your Gluttony,400 CP,Original,"A clone drawn from your own being, reshaped to embody the Deadly Sin of Gluttony. They share your memories and core personality at the moment of creation, but their character is a twisted reflection, amplifying this one facet of your nature into an alter-ego. They are aligned with you and incapable of true purposeful betrayal, yet possess free will, flaws, and tendencies true to their sin. Their physical form is modified from your own template (altered gender, features, or details like a more thin build, sharpened teeth) to better reflect their nature. They are peak human, but do not gain any of your special physical enhancements.
+
+Perks: Gluttony possesses a twofold power. First, they excel at inciting their namesake sin in others with words and actions, making the indulgent over-consume and the overly reserved to fulfill their needs. Second, by indulging their own Gluttony (consuming food, drink, experiences) they gain unique boosts, such as ability to imbue buffs into their cooking, the ability to derive sustenance and power from anything consumable, and ability to sense nature and direction of unfulfilled needs of others. Beneath this flaw lies a hidden virtue: Appreciation. When others take things for granted, Gluttony reminds them to savor every moment and pleasure life offers.
+
+Special: By building a positive connection with this entity and better understanding them (and the inner part of yourself they reflect) you gain the ability to grant them copies of a few perks you currently hold. They may decline your gift, however, and there is a limit of no more than seven perks with a total value not exceeding 700 CP that they can hold."
+56,Your Envy,400 CP,Original,"A clone drawn from your own being, reshaped to embody the Deadly Sin of Envy. They share your memories and core personality at the moment of creation, but their character is a twisted reflection, amplifying this one facet of your nature into an alter-ego. They are aligned with you and incapable of true purposeful betrayal, yet possess free will, flaws, and tendencies true to their sin. Their physical form is modified from your own template (altered gender, features, or looking more like someone you wish you looked like) to better reflect their nature. They are peak human, but do not gain any of your special physical enhancements.
+
+Perks: Envy possesses a twofold power. First, they excel at inciting their namesake sin in others with words and actions, making the jealous resent deeper and the content see where they're lacking. Second, by indulging their own Envy (coveting what others have, whether traits, possessions, or status) they gain unique boosts, including the ability to temporarily shapeshift both body and mind to mirror someone they envy, granting them a facsimile of that person's appearance, mannerisms, and surface-level capabilities simultaneously. Beneath this flaw lies a hidden virtue: Aspiration. When others feel trapped by who they are, Envy reminds them that growth begins by seeing potential in others and striving to reach it.
+
+Special: By building a positive connection with this entity and better understanding them (and the inner part of yourself they reflect) you gain the ability to grant them copies of a few perks you currently hold. They may decline your gift, however, and there is a limit of no more than seven perks with a total value not exceeding 700 CP that they can hold."
+57,Your Sloth,400 CP,Original,"A clone drawn from your own being, reshaped to embody the Deadly Sin of Sloth. They share your memories and core personality at the moment of creation, but their character is a twisted reflection, amplifying this one facet of your nature into an alter-ego. They are aligned with you and incapable of true purposeful betrayal, yet possess free will, flaws, and tendencies true to their sin. Their physical form is modified from your own template (altered gender, features, or details like more relaxed posture and flat voice) to better reflect their nature. They are peak human, but do not gain any of your special physical enhancements.
+
+Perks: Sloth possesses a twofold power. First, they excel at inciting their namesake sin in others with words and actions, making the diligent procrastinate and the restless grow still. Second, by indulging their own Sloth (resting, avoiding unnecessary effort, or being purposefully apathetic) they gain unique boosts, such as slowed perception of time when still, the ability to recover stamina and heal rapidly while at rest, and a preternatural patience and timing that allows them to wait indefinitely for the perfect moment to act. Beneath this flaw lies a hidden virtue: Peace. When others exhaust themselves in frantic motion, Sloth reminds them that stillness brings clarity and that not every problem requires immediate action.
+
+Special: By building a positive connection with this entity and better understanding them (and the inner part of yourself they reflect) you gain the ability to grant them copies of a few perks you currently hold. They may decline your gift, however, and there is a limit of no more than seven perks with a total value not exceeding 700 CP that they can hold."
+58,Magnus,100 CP,Mewgenics,"You gain a loyal feline ally, a scarred, battle-hardened brawler who fights with relentless ferocity. This companion excels at closing distance and striking multiple foes in a single turn with devastating chain attacks. When surrounded, Magnus unleashes a spinning strike that hits all adjacent enemies. He possesses high durability, exceptional mobility, and a knack for positioning himself exactly where he can do the most damage. But most important of all: Magnus is a cat."
+59,Fenrir,100 CP,Mewgenics,"You gain a massive, shadow-furred feline ally with glowing eyes and an unsettling presence. Fenrir specializes in trapping: he scatters annoying bear traps across the battlefield that snap shut on enemies - only then they become visible. He can stalk prey unnoticed, then strike with a devastating pounce that shoves foes directly into his waiting traps. When facing multiple opponents, he unleashes a terrifying howl that saps morale and slows their movements. Most importantly: Fenrir is a very large, very grumpy cat."
+60,Maisie,100 CP,Mewgenics,"You gain a stout, iron-willed feline ally with a dented helmet and a gaze that dares enemies to try her. Maisie is a tank through and through: she absorbs punishment that would flatten lesser fighters and refuses to fall. Her presence draws enemy aggression, shielding you and softer allies from harm. She can brace for impact to drastically reduce incoming damage, or perform a slow, grinding charge that bowls through enemy lines. Most importantly: Maisie is a cat who really loves kittens."
+61,Lucy,100 CP,Mewgenics,"You gain a small, pale-furred feline with crackling whiskers and a lot of smug confidence. Lucy is a mage through and through: she weaves elemental chaos from a safe distance. She can charge up one of three area spells per battle: a freezing blast that locks enemies in place, a searing cone that leaves lingering burns, or a diagonal lightning strike that stuns anyone caught in its cross shape. Her spells require a moment to channel, so if you keep her safe for one full round, her next eruption doubles in size. Most importantly: Lucy is a cat who will absolutely pretend she meant to miss you with that fireball."
+62,Marshmallow,100 CP,Mewgenics,"You gain a soft, cream-furred feline with kind eyes and a cross-shaped symbol above her eyes. Marshmallow is a cleric through and through: she can charm one adjacent enemy at a time, turning them into a temporary ally who attacks their former friends. Every few turns, she also wraps herself in holy shields that absorb incoming damage. Most importantly: Marshmallow is a cat who will heal you for some good snuggles!"
+63,Dack,100 CP,Mewgenics,"You gain a lean, quick-furred feline, a small coin pouch-hat on his head, and fingers that are always just a little too close to your valuables. Dack is a thief through and through: he attacks many time and can completely dodge one incoming attack, regaining that dodge every time she picks up a coin. He creates those coins by hitting enemies with his thrown knife, and he can move quickly across the battlefield to snatch them before anyone else does. Up close, his poison stab leaves targets suffering damage over time. Most importantly: Dack is a frisky cat!"
+64,Morana,100 CP,Mewgenics,"You gain a very fluffy, pitch-black feline with a skull-shaped white spot on its face. Morana's ranged attacks inflict leech, draining life from enemies and restoring its own health. When a corpse lies on the battlefield, Morana can reanimate it into a shambling ally that fights for you. Even more troubling, if Morana falls, it will crawl back from death by consuming a nearby dead body to revive. Most importantly: Morana is a fluffy cat!"
+65,Gein,100 CP,Mewgenics,"You gain a hulking, skin-mask-clad feline with a meat hook and an unnerving fixation on fresh kills. Gein resembles a butcher in both appearance and appetite. When an enemy is within range, Gein hooks them, pulling the target close and making them bleed. Its melee spin attack hits all adjacent enemies and spawns meat pickups on the ground, which Gein immediately seeks out and consumes to heal itself. On top of all that, Gein can trample through enemies to reposition. Most importantly: Gein is a gluttonous cat!"
+66,Household Spirits,100 CP,Mewgenics,"Small entities akin to brownies, domovoi, or similarly helpful creatures will inhabit any property you own, hidden from sight and performing household chores with surprising speed and efficiency. They have a simple contract that pays them automatically for this service, though they will not fight or otherwise protect your properties unless you pay another 100cp. 
+
+Should you do so, these entities will set proper wards and protections over your properties that can keep them safer from direct attack or natural disasters. The spirits may even use household items to counterstrike, making it seem like the very property itself is fighting the intruders. You can direct just how they respond to such intrusions."
+67,"Daan, The Doctor",150 CP,Fear & Hunger,"A doctor of medicine, Daan is a smart and inquisitive man who uses his medical knowledge and experience with the occult to help make sense of the world around him. He grew up in the Kingdom of Rondon, during his childhood he traveled around Europa with his parents, who were members of the Bunnymasks, followers of the Old God Sylvian, until they failed to return from one of their ritual orgies. He would find an apprenticeship under a butler of Baron Eihner Von Dutch, whose daughter he would come to marry. 
+
+He eventually joined the war as a medic and stayed away from home until the kingdom of Rondon withdrew from the war against the Bremen Empire. Upon his return home, he discovered the Baron had sacrificed his wife, the baron’s own daughter in a profane ritual. Daan attempted to resurrect his wife by sacrificing his left eye to Sylvian, but was unsuccessful. In search of the truth behind his wife's death, he has come to Prehevil seeking answers."
+68,"Abella, The Mechanic",150 CP,Fear & Hunger,"A mechanic, skilled and outgoing, she is adept at crafting makeshift weapons and traps, along with mechanical skills and knowledge of complicated machinery. Despite her rational nature she is both puzzled and fascinated by the occult and supernatural. Born in the country of OldegÂrd, during a time of great conflict, she spent her childhood honing her talents for mechanics and electronics whenever she was not working to support her younger siblings, as befits the eldest child. 
+
+She would eventually be recruited to the Nameless Liberty Underground, a secretive organization spanning multiple kingdoms focused on thwarting the advancements of the Bremen Empire and the Eastern Union. She has come to Prehevil seeking a group of members of the NLU who have cut communications abruptly after arriving in the city sometime prior."
+69,"O'saa, The Magician",150 CP,Fear & Hunger,"A Yellow mage, he uses otherworldly powers only to his own benefit and to further his own agenda instead of dedicating his life to worship, contrary to other priests' beliefs. He is distrustful of others and prefers to act alone. O'saa grew up in chaotic Abyssonia, where endless conflict and warring factions were the norm. He would eventually leave his family in search of knowledge and power and reach the City of the Sun, where he would study matters of spiritualism and religion. 
+
+Unsatisfied with what his country had to offer, he would leave for the Eastern Sanctuaries hoping to join the Yellow Mages and gain greater power over magic, both of which he would accomplish, becoming very knowledgeable about both the Old Gods and the New in the process. He would eventually make pilgrimage to the Dungeons of Fear and Hunger, under the command of a wizard named Hadil Azif. There he would find amidst the rubble a new master, who would bid him come to the town of Prehevil where events of cosmic proportions are about to unfold."
+70,"Olivia, The Botanist",150 CP,Fear & Hunger,"As a botanist, her knowledge covers a wide variety of plants and herbs. She is a reserved, yet outgoing woman, with openly friendly mannerisms and a caring personality, tough anxious, and secretly self- conscious about her medical condition, considering herself a freak and a burden. Born in the Bremen Empire Olivia grew up in an oppressive and deeply religious household. She and her twin sister were opposites since childhood: Olivia spent most of her childhood cooped inside for being of a more fragile build, finding escapism in books about botanism and nature and the company of her sister, who preferred to go outside and make friends while also dedicating herself to studying engineering and new age technology. 
+
+At the cusp of adolescence, she was bedridden by a series of strokes and left paralyzed at the waist by what would eventually be diagnosed as vascular myelopathy around her spinal cord. She would enroll and graduate from one of the top universities in the city of Bremen and become a researcher of botanism. Disaster struck when her twin sister was accused of treason and taken to an unknown prison, from which she would eventually be broken out of by the terrorist organization called Nameless Liberty Underground. Desperate for answers and following clues about the whereabouts of her sister, Olivia has come to Prehevil."
+71,"Karin, The Journalist",150 CP,Fear & Hunger,"A journalist who has covered wars, coup d'etats, and other disasters and picked up many skills along the way, she views herself as a valkyrie who immortalizes the stories of the fallen instead of as a vulture, like so many who share her profession. An impulsive and short-fused woman who is nonetheless assertive and willing to do anything to accomplish her goals. She bears a deep animosity towards the Kaiser of the Bremen Empire and his troops. Born to an aristocratic family in the Bremen Empire, Karin was a curious child, who often got into mischief with her older brothers. When tensions rose within the empire, Karin was sent away, under the care of her nursemaid Daria, who took her to the capital of the Eastern Sanctuaries, now part of the Eastern Union, though she would grow up suspecting Daria had kidnaped her instead. 
+
+During her adolescence, she became involved with a civil rights movement and would come to be knocked unconscious when a protest escalated to violence with the local army, being hospitalized and earning her the notice of the Bremen embassy. Her suspicion would be proven correct when the Bremen embassy returned her to her mother, now a widow, who revealed Daria had been living off ransom payments ever since she left. When the Kaiser seized control of Prehevil, the capital of Bohemia, and abruptly made peace with the Easter Union, she departed to the city, following her instincts to investigate for The Midnight Gazette, the journal she now works for."
+72,"Pavel, The Pig",100 CP,Fear & Hunger,"A sly, mischievous, reckless, and chaotic former lieutenant of the Bremen army who is prone to violence and cares little about what others think of him, willing even to escalate to murder if he thinks it is to his benefit. 
+
+Born in the Voroniyan Republic, which would eventually join with the Kingdom of Rondon and OldegÂrd to form the now named Eastern Union, pav’s hometown would be destroyed by the Kaiser during his childhood, resulting in the death of his family and motivate him to enlist in the Bremen army with the goal of getting close enough to the Kaiser to enact his revenge. When he discovered that the Kaiser was located in Prehevil and vulnerable without his troops, he abandoned his post and made his way to the city."
+73,"Marcoh, The Boxer",150 CP,Fear & Hunger,"Life in an underground boxing ring has taught him how to deal with life’s problems bare-handed. Despite what his appearance and profession would indicate, Marcoh is a shy and kindhearted person, who is willing to help those weaker than him and has a soft spot for the young and the vulnerable. Orphaned at the age of 10 and left to care for himself and his younger sister he would beg and work to the best of his abilities for most of his youth, refusing on principle to engage in criminal activities. 
+
+As he grew older and started filling out, his strength and size quickly outpaced others of his age and he would eventually gravitate to underground boxing once he realized how much better fighting paid, compared to doing odd jobs and grunt work. After his sister got romantically involved with a mobster named Riccardo Accardo, Marcoh was offered professional work and training, which he accepted, not knowing this would only deepen the ties he spent most of his youth avoiding. After being forced to kill a man for the mob in exchange for his sister's safety, Marcoh killed Riccardo in a fit of rage and fled Vatican City, taking a train to an unknown place named Prehevil."
+74,"Levi, The Soldier",150 CP,Fear & Hunger,"Now an ex-soldier, Levi has fought in wars since he was 13 years old, and while he excels at ranged combat the war has left him a nervous, paranoid, loner. Born in Prehevil, the capital of Bohemia, He was raised by an alcoholic and abusive father who would come to kill his mother in a fit of drunken range right in front of him. Taken away from his father he was sent to St. Domek's Orphanage, where the staff was highly abusive toward the children and where rumors of orphans disappearing without a trace began to circulate, though he would not remain there for long. 
+
+At 13 years of age, due to the intensifying of the war, he was conscripted to fight for the Eastern Union and taken away once more. He would fight for the rest of his childhood and adolescence, excelling as a soldier and even being offered command of a squadron of child soldiers, though the war would take its toll and he would come to be dependent on opioids, particularly heroin. Unable to continue fighting, at 18 years old he has deserted the Easter Union and is fleeing back to his hometown of Prehevil."
+75,"Marina, The Occultist",150 CP,Fear & Hunger,"An occultist who has refined her craft at a prestigious school, Marina is a curious young woman who speaks her mind, and very informally so. Marina was born in the Church of Alll-mer within Prehevil, where her lineage practiced archaic but brutal and cruel rites and rituals to appease the old gods. 
+
+Her father is the current leading Dark Priest In a bid to protect her child from the cruel and grueling fate of becoming a dark priest, her mother raised her as a woman, despite having been born a boy a fate she would come to appreciate, as even when the opportunity presented itself, she would choose to continue living as a woman. She would grow up homeschooled near the church and follow an orthodox path different from that of dark priests. Her skill and talent in occultism would soon be noticed by the Ministry of Darkness in the Vatican, which offered her to study abroad - a scholarship of sorts to further her occult abilities. 
+
+She eagerly accepted this opportunity to leave Prehevil, largely due to her father's scrutiny, judgment, and apparent disdain for her very existence. When a letter arrived, penned by her father, informing her of her mother’s passing, she left the Vatican, now 18 years old, and boarded a train to Prehevil, suspicious of the circumstances of her mother's death and her father's involvement."
+76,"Samarie, The Priest",150 CP,Fear & Hunger,"An insecure and frail occultist with stalking tendencies, Samarie is a disturbed and obsessive young woman who will go to lengths to follow Marina. In the Vatican City, she was part of an exclusive group of naturally gifted children who were sequestered in the ninth circle of Fiend Petr's Basilica. Here, their bodies would waste away in an ancient rite designed to receive messages from the older gods. 
+
+Samarie's innate affinity with these supernatural forces is evident in her versatility with magic, which includes blood magic, mind reading, and teleportation through red arcs. However, these rituals have taken a significant toll on her body, causing it to deteriorate to the point where her lifespan is severely limited, a reality that she is acutely aware of. During her confinement, Samarie became infatuated with young students at the Vatican. 
+
+This infatuation quickly evolved into an obsession, prompting her to secretly observe the girl’s every move, even resorting to reading her thoughts. When she discovered her beloved’s plans to visit Prehevil Samarie decided to follow and escaped the Vatican in secret."
+77,"Tanaka, The Salaryman",100 CP,Fear & Hunger,"A salaryman with an important position in his father's company. While his business skills are not particularly useful for survival, he holds a lot of untapped potential. Born in the distant and reclusive Kingdom of Edo, Tanaka was prepared from a very young age to inherit his father's company and business. He grew up on lessons about the importance of self-reliance and ruthlessness and was taught to eschew those who are soft and untrustworthy. 
+
+Despite his creation, he is a timid, polite, and punctual man with a kind heart, burdened by his worry over his father's failing business. With the borders of Edo reopened by the end of the war, Tanaka was entrusted by his father to act as an ambassador and represent his family's interests in a meeting supposed to take place soon, in the city of Prehevil."
+78,"Henryk, The Chef",100 CP,Fear & Hunger,"A former artist and talented chef, Henryk is laid back and impulsive, and more than anything else in his life, he loves to cook. Born in the Kingdom of Rondon with an acute taste for ingredients he grew up helping in the kitchens of his parent's tavern Klimkov's. He would eventually move out of his parent's home and become a bartender and come to have a brief but intense romantic relationship with a female pianist. 
+
+Eventually, money ran out, so out of necessity, he decided to return to his parent's tavern, where he started to cook meals again. He eventually realized that he had a great natural talent for the culinary arts and his skills flourished to the point where Klimkov's became a famous place to eat. Now embracing this talent, he frequently travels to find new culinary inspiration and is currently headed for the city of Prehevil, in search of local delicacies and ingredients."
+79,"Caligura, The Capo",100 CP,Fear & Hunger,"A violent and foul-mouthed mobster hailing from the Vatican City who is not above assaulting and murdering others. As a young boy growing up in Vatican City, he would listen on the radio to the Grand Prix motor races, never missing one, and dreamed he would grow up to drive a race car. His cruel ways and his ghoulish appearance earned him the nickname ""Count Dragul"" among his peers and his reputation as a mobster is known even outside the city. 
+
+He famously wears a very expensive white Kashmir suit when in public and is said to be very protective of it. He ascended to the rank of caporegime in the mob thanks to his brutal pushback against the Accardos Famiglia, a rival mob family in the Vatican City, forcing them to cede several city blocks of territory over the course of a single week. Unfortunately, the Accardos would not take this lying down and declared Vendetta against Caligura. Knowing what awaits him should he stay, he has boarded a train headed away, to Bohemia, a place called Prehevil."
+80,"August, The Hunter",150 CP,Fear & Hunger,"A resilient hunter who lives a nomadic lifestyle, traversing many countries around the world. He is a father to two children who live with their mother in the nation of Valland. August is a kind but reserved gentleman who is used to loneliness but always maintains an aura of civility, even when circumstances turn dire. 
+
+Born in OldegÂrd, he is descended from a long line of warriors, including the legendary Ragnvaldr, and grew up immersed in the legends and traditions of his people, before leaving to see the world. He is on the way to Prehevil for an event of cosmic proportions that is about to take place, though if asked, he will say he's traveling for business."
+81,Guillotina,200 CP,Mewgenics,"This is a giant, morbidly obese, bipedal cat with grey fur, thick black brows, and a terrifying appetite, Guillotina joins your cause. This ally is exceptionally durable and persistent. She possesses a voracious bite that can decapitate lesser foes and is unnaturally resilient, capable of returning from death multiple times to continue a hunt. Yes, she is a cannibal and probably has problems distinguishing arousal from hunger.   "
+82,Martlet,200 CP,Undertale Yellow,"Mediocre royal guard, passionate carpenter, and absolute bird-brain of a… bird monster. Is that insensitive to say? Either way, don’t mistake her absentmindedness for weakness- she has access to the entire Royal Guard perk set, alongside a Royal Guard Handbook, Carpentry Kit, and secret syringe of DT Extract. 
+
+Her magic is nothing to sneeze at, either- though she’s not the strongest monster you’ll meet down here, her bullet patterns can be quite deadly when she’s properly-motivated. Although Martlet is the protégé of someone with some incredibly deep-seated anti-human sentiments, her heart really isn’t in the whole “war to wipe out humanity” thing. It wouldn’t be hard to make her your ally, even as a human"
+83,Starlo,200 CP,Undertale Yellow,"He mostly goes by “North Star,” nowadays. Sheriff North Star. This dedicated LARPer is obsessed with all things human, convinced that the cowboy movies he’s scrounged up from the dump are an accurate account of human life. Honestly, he’s gotten a little too into the whole “wild west” thing, and someone less charitable might call him a bit of a manchild. 
+
+Despite his shortcomings, he’s got a good heart and the rest of his posse, the Feisty Five, can attest to that. In addition to some impressive western-themed magic, Starlo wields the entire Busybody perk set, the Tailor perk (someone has to make those sweet cowboy clothes!), plus the Wild Revolver, Nice Hat, and High-Quality Lasso."
+84,AXIS-014,200 CP,Undertale Yellow,"The greatest invention of the late Chujin Ketsukane, Axis is a bit of an odd duck- he’s a full-fledged sapient combat robot, untethered to the central servers of the Steamworks. Despite being a real person by most metrics, he’s just short of having true free will, forced to abide by the quirks of his programming and the last commands of his creator. That’s all to say, he’ll stop at nothing to eradicate those his programming deems as “threats”- especially human beings. 
+
+AXIS-014 benefits from the perks Work Ethic, Tactical Retreat, Sentry Duty, Apprehension, and Mathemagical. He wields Motion Magic and Energy Magic. Being a custom-designed human eradication robot, he’s also damn hard to destroy via non-magical means. If you take AXIS-014 as a companion, he comes with a custom-built charging station. He can also use the power of love as an alternative source of energy (don’t think about it too hard)."
+85,Chujin Ketsukane,300 CP,Undertale Yellow,"This vulpine engineer seems to have connections to half of the Underground, thanks to his charitable work and proclivities for the worlds of carpentry and science. His fantastic reputation disguises a more complicated truth. Compared to his coworkers in the Steamworks, his intellect and ability are… lacking. Indeed, while he possesses the Research Grants, Mathemagical, Circuitmancy, and Advanced Robotics perks in some fashion, they are… lesser than those available to you. 
+
+Thanks to his passions and upbringing, he at least has the Founder’s Gift and Carpentry perks in their full glory. Of course, that’s not going into his personal life- his hatred for humanity is a cold, cynical thing, quite unlike the reflexive, thoughtless attitude of most monsters. 
+
+His hatred and fear will one day lead him to (accidentally) kill a human child using AXIS-014- and his subsequent SOUL research will lead to the steady deterioration of his health, followed by death.  He’s resurrected whole and hale, with all of his memories prior to his demise."
+86,Ceroba Ketsukane,300 CP,Undertale Yellow,"A grieving widow who lost her child. Or so she seems. In reality, Ceroba is someone who’s allowed her devotion to her late husband to overwhelm all judgment and morality, accidentally causing her daughter Kanako to fall down. She’ll stay on that path for a while longer yet, eventually endangering the life of the SOUL of Justice. 
+
+If you enter this world early enough, you’re capable of preventing all that- capable of saving her husband from himself, capable of saving her daughter. All that tragedy aside, Ceroba has an acerbic sense of humour, a hot temper,and a protective streak a mile wide. 
+
+She’s also one of the strongest monsters you’re likely to encounter down here.  In addition to the Monster Cooking and Devotion perks, she has access to all the Bullet Patterns listed in the relevant section, plus Fire Magic, Motion Magic, Red Magic, and Diamond Magic. That Channeling Weapon is nothing to scoff at, either."
+87,Clover,300 CP,Undertale Yellow,"The yellow SOUL of Justice, the second-to-last human needed to break the Barrier… Is a quiet kid with a penchant for cowboys. Were you expecting some big damn hero just because they wear a cowboy hat? They’re just a kid. Without any intervention, Clover would be content to live out their days as the adopted child of Toriel, hidden away in the Ruins. 
+
+Flowey’s quite the interventionist, though, isn’t he? Through hundreds of resets, through painstaking trial-and-error, he’s found a path that carries Clover forward and keeps them alive- through the Dark Ruins, then Snowdin, the Wild East, the Steamworks… 
+
+Clover benefits from all Fallen Human perks EXCEPT for Realer than Real, and is capable of accessing their SOUL’s unique energy-firing magic in dire situations. They wield a toy gun- later the Wild Revolver, and carry a Missing Poster, Dimensional Satchel, and Nice Hat."
+88,,,,
+89,,,,
+90,,,,
+91,,,,
+92,,,,
+93,,,,
+94,,,,
+95,,,,
+96,,,,
+97,,,,
+98,,,,
+99,,,,
+100,,,,
+101,,,,
+102,,,,
+103,,,,
+104,,,,
+105,,,,
+106,,,,
+107,,,,
+108,,,,
+109,,,,
+110,,,,
+111,,,,
+112,,,,
+113,,,,
+114,,,,
+115,,,,
+116,,,,
+117,,,,
+118,,,,
+119,,,,
+120,,,,
+121,,,,
+122,,,,
+123,,,,
+124,,,,
+125,,,,
+126,,,,
+127,,,,
+128,,,,
+129,,,,
+130,,,,
+131,,,,
+132,,,,
+133,,,,
+134,,,,
+135,,,,
+136,,,,
+137,,,,
+138,,,,
+139,,,,
+140,,,,
+141,,,,
+142,,,,
+143,,,,
+144,,,,
+145,,,,
+146,,,,
+147,,,,
+148,,,,
+149,,,,
+150,,,,
+151,,,,
+152,,,,
+153,,,,
+154,,,,
+155,,,,
+156,,,,
+157,,,,
+158,,,,
+159,,,,
+160,,,,
+161,,,,
+162,,,,
+163,,,,
+164,,,,
+165,,,,
+166,,,,
+167,,,,
+168,,,,
+169,,,,
+170,,,,
+171,,,,
+172,,,,
+173,,,,
+174,,,,
+175,,,,
+176,,,,
+177,,,,
+178,,,,
+179,,,,
+180,,,,
+181,,,,
+182,,,,
+183,,,,
+184,,,,
+185,,,,
+186,,,,
+187,,,,
+188,,,,
+189,,,,
+190,,,,
+191,,,,
+192,,,,
+193,,,,
+194,,,,
+195,,,,
+196,,,,
+197,,,,
+198,,,,
+199,,,,
+200,,,,
+201,,,,
+202,,,,
+203,,,,
+204,,,,
+205,,,,
+206,,,,
+207,,,,
+208,,,,
+209,,,,
