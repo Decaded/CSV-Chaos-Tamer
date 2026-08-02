@@ -4633,16 +4633,16 @@
       }
     }
   },
-  "source_gothicjedi666_s_celestial_grimoire_v3_-_the_rogue": {
-    "source": "Gothicjedi666_s Celestial Grimoire v3 - The Rogue",
-    "description": "Perks from Gothicjedi666_s Celestial Grimoire v3 - The Rogue.",
+  "source_gothicjedi666s_celestial_grimoire_v3_-_the_rogue": {
+    "source": "Gothicjedi666's Celestial Grimoire v3 - The Rogue",
+    "description": "Perks from Gothicjedi666's Celestial Grimoire v3 - The Rogue.",
     "chapters": {
       "the_rogue": {
         "chapter": "The Rogue",
         "perks": {
           "skeleton_key": [
             {
-              "id": "perk_102932",
+              "id": "perk_053061",
               "cost": 600,
               "name": "Skeleton Key",
               "description": "There are many who would have questions for you and many others who would attempt to take this from you by any means necessary. Within your hands is a very odd looking key, almost Dwemer in design with its bronze color, angular bit, and bulbous blue bow. Of course, it’s far more than that if the earlier parts didn’t clue you in, within your hands is a perfect replica in shape and ability of one of the Daedric Prince Nocturnal’s artifacts, the Skeleton Key, a key with the ability to unlock or lock any lock. Doors, chests, etc all yield to it and no treasure is safe so long as you can get to where it’s stored with this. Of course, that’s only the tip of the iceberg when it comes to the key, it’s abilities lie in the locking and unlocking of just about anything, physical or not. You could unlock or lock away someone’s potential for magic or war, or if it suited you, lock a portal to oblivion and undo it later with ease. So long as it can in theory be seen as something that could be locked or unlocked then this key can interact with it, with Jump docs being the exception alongside related things. As a final note the key is a part of you like Nocturnal’s is a part of her, should it be lost or you give it to someone it can be retrieved at your leisure.",
@@ -13269,30 +13269,6 @@
               "cost": 600,
               "name": "Kingdom",
               "description": "Many metahumans are the rulers of a small nation. And now, you have a nation of your own. You are its King or Queen. People in your country have a positive appreciation for you right now, but beware, treating them poorly, and/or poor living conditions could lead to a nationwide revolt.",
-              "category": "grimoire",
-              "categoryVersion": "v3",
-              "categoryDisplayName": "Grimoire V3",
-              "tags": [],
-              "isAdult": false
-            }
-          ]
-        }
-      }
-    }
-  },
-  "source_gothicjedi666s_celestial_grimoire_v3_-_the_rogue": {
-    "source": "Gothicjedi666's Celestial Grimoire v3 - The Rogue",
-    "description": "Perks from Gothicjedi666's Celestial Grimoire v3 - The Rogue.",
-    "chapters": {
-      "the_rogue": {
-        "chapter": "The Rogue",
-        "perks": {
-          "skeleton_key": [
-            {
-              "id": "perk_053061",
-              "cost": 600,
-              "name": "Skeleton Key",
-              "description": "There are many who would have questions for you and many others who would attempt to take this from you by any means necessary. Within your hands is a very odd looking key, almost Dwemer in design with its bronze color, angular bit, and bulbous blue bow. Of course, it’s far more than that if the earlier parts didn’t clue you in, within your hands is a perfect replica in shape and ability of one of the Daedric Prince Nocturnal’s artifacts, the Skeleton Key, a key with the ability to unlock or lock any lock. Doors, chests, etc all yield to it and no treasure is safe so long as you can get to where it’s stored with this. Of course, that’s only the tip of the iceberg when it comes to the key, it’s abilities lie in the locking and unlocking of just about anything, physical or not. You could unlock or lock away someone’s potential for magic or war, or if it suited you, lock a portal to oblivion and undo it later with ease. So long as it can in theory be seen as something that could be locked or unlocked then this key can interact with it, with Jump docs being the exception alongside related things. As a final note the key is a part of you like Nocturnal’s is a part of her, should it be lost or you give it to someone it can be retrieved at your leisure.",
               "category": "grimoire",
               "categoryVersion": "v3",
               "categoryDisplayName": "Grimoire V3",
