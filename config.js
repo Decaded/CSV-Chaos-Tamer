@@ -22,6 +22,40 @@ const shared = {
 	/** Databases that should mark every contained perk as adult content. */
 	adultDatabases: ['bordello', 'companion_lewd', 'debauchery'],
 
+	/**
+	 * Logical generator sources with selectable physical dataset versions. Every
+	 * physical database may appear in at most one group; unlisted databases are
+	 * published as independent sources with a single default version.
+	 */
+	sourceVersions: {
+		grimoire: {
+			displayName: 'Grimoire',
+			defaultVersion: 'default',
+			versions: {
+				default: 'grimoire',
+				v2: 'grimoire_v2',
+				v3: 'grimoire_v3',
+				v6: 'grimoire_v6',
+				yggdrasil: 'grimoire_yggdrasil_personal',
+			},
+		},
+		scrolls: {
+			displayName: 'Scrolls',
+			defaultVersion: 'default',
+			versions: { default: 'scrolls', v1: 'scrolls_v1', v3: 'scrolls_v3' },
+		},
+		something: {
+			displayName: 'Something',
+			defaultVersion: 'default',
+			versions: { default: 'something', v2: 'something_v2', v3: 'something_v3' },
+		},
+		spellbook: {
+			displayName: 'Spellbook',
+			defaultVersion: 'default',
+			versions: { default: 'spellbook', v2: 'spellbook_v2' },
+		},
+	},
+
 	/** Description cleanup – reused by both CSV and MD transforms */
 	cleanDescription: v =>
 		String(v ?? '')

@@ -1,0 +1,519 @@
+{
+  "akashic_grimoire_rift_mod": {
+    "id": "akashic_grimoire_rift_mod",
+    "displayName": "Akashic Grimoire Rift Mod",
+    "description": "Perks from Akashic Grimoire Rift Mod.",
+    "isR18": true,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "akashic_grimoire_rift_mod",
+        "version": "default"
+      }
+    ]
+  },
+  "bordello": {
+    "id": "bordello",
+    "displayName": "Bordello",
+    "description": "Perks from Bordello.",
+    "isR18": true,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "bordello",
+        "version": "default"
+      }
+    ]
+  },
+  "codex_40k_edition": {
+    "id": "codex_40k_edition",
+    "displayName": "Codex 40k Edition",
+    "description": "Perks from Codex 40k Edition.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "codex_40k_edition",
+        "version": "default"
+      }
+    ]
+  },
+  "codex_fantasy_edition": {
+    "id": "codex_fantasy_edition",
+    "displayName": "Codex Fantasy Edition",
+    "description": "Perks from Codex Fantasy Edition.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "codex_fantasy_edition",
+        "version": "default"
+      }
+    ]
+  },
+  "comic_book": {
+    "id": "comic_book",
+    "displayName": "Comic Book",
+    "description": "Perks from Comic Book.",
+    "isR18": true,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "comic_book",
+        "version": "default"
+      }
+    ]
+  },
+  "companion": {
+    "id": "companion",
+    "displayName": "Companion",
+    "description": "Perks from Companion.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "companion",
+        "version": "default"
+      }
+    ]
+  },
+  "companion_lewd": {
+    "id": "companion_lewd",
+    "displayName": "Companion Lewd",
+    "description": "Perks from Companion Lewd.",
+    "isR18": true,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "companion_lewd",
+        "version": "default"
+      }
+    ]
+  },
+  "compendium": {
+    "id": "compendium",
+    "displayName": "Compendium",
+    "description": "Perks from Compendium.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "compendium",
+        "version": "default"
+      }
+    ]
+  },
+  "darkest_tome": {
+    "id": "darkest_tome",
+    "displayName": "Darkest Tome",
+    "description": "Perks from Darkest Tome.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "darkest_tome",
+        "version": "default"
+      }
+    ]
+  },
+  "debauchery": {
+    "id": "debauchery",
+    "displayName": "Debauchery",
+    "description": "Perks from Debauchery.",
+    "isR18": true,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "debauchery",
+        "version": "default"
+      }
+    ]
+  },
+  "dojo": {
+    "id": "dojo",
+    "displayName": "Dojo",
+    "description": "Perks from Dojo.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "dojo",
+        "version": "default"
+      }
+    ]
+  },
+  "eldritch_grimoire": {
+    "id": "eldritch_grimoire",
+    "displayName": "Eldritch Grimoire",
+    "description": "Perks from Eldritch Grimoire.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "eldritch_grimoire",
+        "version": "default"
+      }
+    ]
+  },
+  "fighter": {
+    "id": "fighter",
+    "displayName": "Fighter",
+    "description": "Perks from Fighter.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "fighter",
+        "version": "default"
+      }
+    ]
+  },
+  "forge": {
+    "id": "forge",
+    "displayName": "Forge",
+    "description": "Perks from Forge.",
+    "isR18": true,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "forge",
+        "version": "default"
+      }
+    ]
+  },
+  "gardens": {
+    "id": "gardens",
+    "displayName": "Gardens",
+    "description": "Perks from Gardens.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "gardens",
+        "version": "default"
+      }
+    ]
+  },
+  "grimoire": {
+    "id": "grimoire",
+    "displayName": "Grimoire",
+    "description": "Perks from Grimoire.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "grimoire",
+        "version": "default"
+      },
+      {
+        "id": "grimoire_v2",
+        "version": "v2"
+      },
+      {
+        "id": "grimoire_v3",
+        "version": "v3"
+      },
+      {
+        "id": "grimoire_v6",
+        "version": "v6"
+      },
+      {
+        "id": "grimoire_yggdrasil_personal",
+        "version": "yggdrasil"
+      }
+    ]
+  },
+  "heros_journey": {
+    "id": "heros_journey",
+    "displayName": "Heros Journey",
+    "description": "Perks from Heros Journey.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "heros_journey",
+        "version": "default"
+      }
+    ]
+  },
+  "holocron": {
+    "id": "holocron",
+    "displayName": "Holocron",
+    "description": "Perks from Holocron.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "holocron",
+        "version": "default"
+      }
+    ]
+  },
+  "laboratory": {
+    "id": "laboratory",
+    "displayName": "Laboratory",
+    "description": "Perks from Laboratory.",
+    "isR18": true,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "laboratory",
+        "version": "default"
+      }
+    ]
+  },
+  "mutation": {
+    "id": "mutation",
+    "displayName": "Mutation",
+    "description": "Perks from Mutation.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "mutation",
+        "version": "default"
+      }
+    ]
+  },
+  "ocarina": {
+    "id": "ocarina",
+    "displayName": "Ocarina",
+    "description": "Perks from Ocarina.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "ocarina",
+        "version": "default"
+      }
+    ]
+  },
+  "omni-tool": {
+    "id": "omni-tool",
+    "displayName": "Omni Tool",
+    "description": "Perks from Omni Tool.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "omni-tool",
+        "version": "default"
+      }
+    ]
+  },
+  "pipboy": {
+    "id": "pipboy",
+    "displayName": "Pipboy",
+    "description": "Perks from Pipboy.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "pipboy",
+        "version": "default"
+      }
+    ]
+  },
+  "primordial_flames": {
+    "id": "primordial_flames",
+    "displayName": "Primordial Flames",
+    "description": "Perks from Primordial Flames.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "primordial_flames",
+        "version": "default"
+      }
+    ]
+  },
+  "reliquary": {
+    "id": "reliquary",
+    "displayName": "Reliquary",
+    "description": "Perks from Reliquary.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "reliquary",
+        "version": "default"
+      }
+    ]
+  },
+  "ring": {
+    "id": "ring",
+    "displayName": "Ring",
+    "description": "Perks from Ring.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "ring",
+        "version": "default"
+      }
+    ]
+  },
+  "scrolls": {
+    "id": "scrolls",
+    "displayName": "Scrolls",
+    "description": "Perks from Scrolls.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "scrolls",
+        "version": "default"
+      },
+      {
+        "id": "scrolls_v1",
+        "version": "v1"
+      },
+      {
+        "id": "scrolls_v3",
+        "version": "v3"
+      }
+    ]
+  },
+  "secundus": {
+    "id": "secundus",
+    "displayName": "Secundus",
+    "description": "Perks from Secundus.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "secundus",
+        "version": "default"
+      }
+    ]
+  },
+  "something": {
+    "id": "something",
+    "displayName": "Something",
+    "description": "Perks from Something.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "something",
+        "version": "default"
+      },
+      {
+        "id": "something_v2",
+        "version": "v2"
+      },
+      {
+        "id": "something_v3",
+        "version": "v3"
+      }
+    ]
+  },
+  "song": {
+    "id": "song",
+    "displayName": "Song",
+    "description": "Perks from Song.",
+    "isR18": false,
+    "defaultVersion": "v2",
+    "categories": [
+      {
+        "id": "song_v2",
+        "version": "v2"
+      }
+    ]
+  },
+  "spellbook": {
+    "id": "spellbook",
+    "displayName": "Spellbook",
+    "description": "Perks from Spellbook.",
+    "isR18": true,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "spellbook",
+        "version": "default"
+      },
+      {
+        "id": "spellbook_v2",
+        "version": "v2"
+      }
+    ]
+  },
+  "tarot": {
+    "id": "tarot",
+    "displayName": "Tarot",
+    "description": "Perks from Tarot.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "tarot",
+        "version": "default"
+      }
+    ]
+  },
+  "the_godly_epic_meros_proto_xxxl": {
+    "id": "the_godly_epic_meros_proto_xxxl",
+    "displayName": "The Godly Epic Meros Proto Xxxl",
+    "description": "Perks from The Godly Epic Meros Proto Xxxl.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "the_godly_epic_meros_proto_xxxl",
+        "version": "default"
+      }
+    ]
+  },
+  "treasure_chest": {
+    "id": "treasure_chest",
+    "displayName": "Treasure Chest",
+    "description": "Perks from Treasure Chest.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "treasure_chest",
+        "version": "default"
+      }
+    ]
+  },
+  "vault": {
+    "id": "vault",
+    "displayName": "Vault",
+    "description": "Perks from Vault.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "vault",
+        "version": "default"
+      }
+    ]
+  },
+  "waifu": {
+    "id": "waifu",
+    "displayName": "Waifu",
+    "description": "Perks from Waifu.",
+    "isR18": true,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "waifu",
+        "version": "default"
+      }
+    ]
+  },
+  "warp_core": {
+    "id": "warp_core",
+    "displayName": "Warp Core",
+    "description": "Perks from Warp Core.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "warp_core",
+        "version": "default"
+      }
+    ]
+  }
+}

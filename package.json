@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "@decaded/nyadb": "^6.0.0",
+    "@decaded/nyadb": "^6.1.1",
     "csv-parser": "^3.2.1",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",

@@ -1,0 +1,2090 @@
+{
+  "5c8e97da-4944-57d3-8566-479ab1340951": {
+    "id": "5c8e97da-4944-57d3-8566-479ab1340951",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Ale Money",
+    "cost": 100,
+    "description": "Wealth is power - or at least it lets you buy some. Keeping an army running can be an expensive endeavor, but with this at least you'll have a means to pay everyone their dues. You receive a steady income of approximately 100 gold pieces per week, but with each additional purchase, the total income provided is doubled. For context, a commoner is unlikely to earn more than fifteen gold per year, while hiring and equipping a common soldier costs roughly fifty gold, while a cavalryman with warhorse can cost two hundred and fifty gold pieces. By default this income will be delivered to you in the form of a chest full of Imperial ‘crowns’, though you can freely adjust this to include different coinages (such as silver shillings) and other kinds of currency, as well as the manner in which it is delivered if the ‘chest full of coins’ approach is not to your liking.",
+    "source": "Warhammer: Dark Omen"
+  },
+  "e088ca51-20c1-52eb-acf2-d00dee9bca81": {
+    "id": "e088ca51-20c1-52eb-acf2-d00dee9bca81",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "An Adequate Rifle",
+    "cost": 200,
+    "description": "By the standards of a Dwarf Longbeard. This rifle is as accurate as physically possible, durable enough to be used as a warhammer, and can be shot even if filled with sand or covered in mud without jamming or losing accuracy. It requires no maintenance except when severely damaged, and is even resistant to most magic. Comes with a replenishing supply of ammunition. Should you prefer, you may instead receive a crossbow. It is similarly accurate, though it trades some range for the benefits of indirect fire.",
+    "source": "Karaz Ankor Jump"
+  },
+  "abcec4fe-f99d-58b4-bb50-47d75dca5fbb": {
+    "id": "abcec4fe-f99d-58b4-bb50-47d75dca5fbb",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Animal Care",
+    "cost": 100,
+    "description": "A herdsman or rancher can’t call themselves such if they aren’t aware of how to care for their beasts. You know all there is to know about this particular business: How to care, pasture, and shelter your sheep, cows, and/or goats; How to efficiently milk your animals (and in the case of sheep, shear them) and store the goods safely for later use or delivery (such as milk to a cheesemaker and wool to a weaver); How to ensure your herd’s breeding stock is of high quality, so that the next generation of beasties is better than the previous; And in this dangerous world, how to keep the best sheltered and protected from predators such as direwolves, goblins, and trolls. It should also be worth stating that this does extend to herding dogs and hounds as well. As a herdsman, you’re going to need that canine help.",
+    "source": "The Halflings of The Moot"
+  },
+  "0609faeb-eb5f-52ac-aeed-87d94a883989": {
+    "id": "0609faeb-eb5f-52ac-aeed-87d94a883989",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Artisanal Gear for the Artisan",
+    "cost": 200,
+    "description": "Your skill in any combat or craft grows if you use tools that you, personally, have crafted, with the increase in skill growing depending on the quality of the equipment you have produced and the amount of time and effort spent on the equipment.",
+    "source": "Karaz Ankor Jump"
+  },
+  "40186f29-3828-516d-ae18-3a2d3694bf0f": {
+    "id": "40186f29-3828-516d-ae18-3a2d3694bf0f",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Axe of Grimnir",
+    "cost": 600,
+    "description": "This two handed war-axe increases the physical strength of the bearer, cuts through most magical defenses, strikes harder against larger enemies and demonic foes, and increases in power with the strength of the soul of the wielder. In the hands of a god, it can even bring true death to demons and gods of equal or weaker strength.",
+    "source": "Karaz Ankor Jump"
+  },
+  "7d2616a3-4c82-578b-9489-59d273ece5a6": {
+    "id": "7d2616a3-4c82-578b-9489-59d273ece5a6",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Axe of Grimnir",
+    "cost": 400,
+    "description": "A potent weapon that was once wielded by the Ancestor God Gringni, and would eventually fall into the hands of a Slayer. Those who bear this axe will find themselves changed, becoming both physically and spiritually more powerful the longer the weapon is in their possession. Due to its magical nature, not only can it strike at spiritual entities such as ghosts, but the very touch of the star metal weapon is anathema to Chaos.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "5d91baae-8dda-5d6c-9418-08a70eea2cf3": {
+    "id": "5d91baae-8dda-5d6c-9418-08a70eea2cf3",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Bag of Tools",
+    "cost": 100,
+    "description": "While Engineering is a tactile and mental skill, it is not something to be done purely by hand. This bag includes all of the standard tools a Dawi engineer would be expected to use during his career.",
+    "source": "Karaz Ankor Jump"
+  },
+  "222a3958-628a-56fd-a394-673d1bd5a462": {
+    "id": "222a3958-628a-56fd-a394-673d1bd5a462",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Beard Grooming Kit",
+    "cost": 0,
+    "description": "A kit carrying beard polish, an intricate gromril comb, small bows, hair-ties, and everything you would need to ensure your beard is healthy and lustrous. This kit magically updates its contents should you find yourself with new biological beard-based hygiene needs, regardless of whether your beard should be made of hair, tentacles, nerve-fibers, or whatever atrocious umgak beards you should find yourself wearing in the future.",
+    "source": "Karaz Ankor Jump"
+  },
+  "0b555655-2cc1-5dba-97ab-ce864850ca2f": {
+    "id": "0b555655-2cc1-5dba-97ab-ce864850ca2f",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Beekeeper",
+    "cost": 100,
+    "description": "In The Mootland, bees are kept both to ensure the pollination of the vast stretches of farmland and orchards, and so the halflings may reap a great bounty in what their buzzing friends produce. Beekeepers, as a result, have a very important job in The Moot. Without their apiaries, the farms would not be nearly as bountiful as they are now. You are well-versed in the intricate business of beekeeping. You know how to manage your population of bees, ensuring that the population never gets too overcrowded for its hive; How to prevent or encourage the growth of more queens; How to control your harvests, and ensure you end with the highest quality of honey, wax, royal jelly, and more besides; How best to shelter and insulate your hives to ensure their survival through the winter cold; And as should not come as a surprise to you in this world, how to rile your bees",
+    "source": "The Halflings of The Moot"
+  },
+  "27b75329-8a11-50ba-8cd5-1d97ab8255e2": {
+    "id": "27b75329-8a11-50ba-8cd5-1d97ab8255e2",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Black Pepper Spray",
+    "cost": 0,
+    "description": "An extremely hot spice used in a great variety of Halfling dishes; If not sprinkled in carefully, the heat of the pepper can dissolve the stomach of a common Tall One - which means it comes to no surprise that the Halflings love it so much. It can even be weaponized: You have a canister of black pepper distillation, capable of spraying its hot, toxic payload a solid five feet away from the user. The spray, on contact with any sort of organic surface such as skin or eyeballs, begins to stick to it and burn the everloving shit out of it. Spray it on an orc’s face and you’ve got the big green bastard rolling on the floor crying. The spraying canister never runs out of its black pepper distillation.",
+    "source": "The Halflings of The Moot"
+  },
+  "9ccd5aa0-97d9-5ab6-86b4-e1fc1ea44c4c": {
+    "id": "9ccd5aa0-97d9-5ab6-86b4-e1fc1ea44c4c",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Culinary Craft",
+    "cost": 100,
+    "description": "The halfling appetite is a dark omen, for the little shites are capable of eating even themselves out of house and home with nary a second thought. But with this deep gullet and voraciousness comes an appreciation for cooking and those willing to toil in the kitchen. As a Cook, you’ve gained a particular set of skills - skills dedicated towards the expert and expedient preparation of food. Whether you’re making a constant stream of meals for a country fair, a vast feast to celebrate a victory, or just a humble dinner for two on a winter’s night, you know how to make a good meal for every one of the halfling hours. Breakfast, Second Breakfast, Elevenses, Luncheon, Afternoon Tea, Dinner, or Supper, it matters not the time.",
+    "source": "The Halflings of The Moot"
+  },
+  "3091a0e5-df3c-562f-b808-0435882794ae": {
+    "id": "3091a0e5-df3c-562f-b808-0435882794ae",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Custom Gyrobomber",
+    "cost": 600,
+    "description": "This fully furnished, self-maintaining gyrobomber contains the finest technology of the Karaz Ankor. It can fly for hundreds of miles without refueling, is unaffected by inclement weather, outpace a dragon in the air, and carries enough ordinance to burn hundreds of grobi to death without rearming. More importantly, any customizations or additions you should make to the Gyrobomber will be overlooked by Dwarven Traditionalists so long as the alterations are not based on warpstone, non-runic magic, or other obviously chaotic sources.",
+    "source": "Karaz Ankor Jump"
+  },
+  "523b9d1c-9d98-512d-905a-837190807662": {
+    "id": "523b9d1c-9d98-512d-905a-837190807662",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Dawi of the Karaz Ankor",
+    "cost": 100,
+    "description": "You are a dwarf of the Eternal Realm, with all that entails. You can live for thousands of years without dying of old age. Your hair is more durable, to the point that you can, over several hundred years, grow a beard longer than you are tall. Your hands are incredibly dextrous, your mind is disciplined and quick, and your will is strengthened to be like stone. You also understand Khazalid and gain knowledge of both dwarven customs and the basic civic requirements of a dawr of the Karaz Ankor.",
+    "source": "Karaz Ankor Jump"
+  },
+  "c27f411a-0c1e-5266-bf50-60cdae41792a": {
+    "id": "c27f411a-0c1e-5266-bf50-60cdae41792a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Dawr",
+    "cost": 100,
+    "description": "You have the skills of an experienced Dawi Journeyman blacksmith, mason, sculptor, goldsmith, or jeweller, a level of competency in that field far beyond an umgi grandmaster.",
+    "source": "Karaz Ankor Jump"
+  },
+  "1f933207-7efb-528d-84e4-43ddbc652aa6": {
+    "id": "1f933207-7efb-528d-84e4-43ddbc652aa6",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Endrinkuli",
+    "cost": 100,
+    "description": "You have knowledge of the construction of gunpowder, guns, and vehicles of the Karaz Ankor, as well as the skills of a typical dwarven journeyman engineer. Your hands gain a literally inhuman level of precision and economy of motion.",
+    "source": "Karaz Ankor Jump"
+  },
+  "3e28c0e6-5a60-5be1-8558-13ab05ab863a": {
+    "id": "3e28c0e6-5a60-5be1-8558-13ab05ab863a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Eternal Empire",
+    "cost": 600,
+    "description": "Things you build or oversee the construction of do not suffer decay or require maintenance and are far more durable than they should be.",
+    "source": "Karaz Ankor Jump"
+  },
+  "418d46af-50f4-57a2-997e-53280ce2ed81": {
+    "id": "418d46af-50f4-57a2-997e-53280ce2ed81",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Forge",
+    "cost": 100,
+    "description": "A small dwarven forge, with all equipment necessary to convert ore into metal and forge weapons, armor, and tools, and a steady supply of iron, copper, and tin with which to work.",
+    "source": "Karaz Ankor Jump"
+  },
+  "e7f08af8-c11c-5c57-a045-751afc3354a1": {
+    "id": "e7f08af8-c11c-5c57-a045-751afc3354a1",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Good Not Good Enough",
+    "cost": 200,
+    "description": "Everything you make is always made to the best of your abilities, regardless of fatigue, injury, or personal feeling, save for works you deliberately wish to be imperfect. Your creations are still subject to material limitations.",
+    "source": "Karaz Ankor Jump"
+  },
+  "42e2f223-f394-5213-b27f-dc2b06cdfbf3": {
+    "id": "42e2f223-f394-5213-b27f-dc2b06cdfbf3",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Grimnir’s Tattoos",
+    "cost": 400,
+    "description": "Your body is now covered with tattoos dedicated to Grimnir. These tattoos provide protection against hostile magic and missile attacks, and are meant to allow slayers close to axe-swinging distance with foes without falling to spellfire or a volley of arrows.While the provide no protection against foes once they are in melee range, they are comparable to masterwork ironbreaker armor against distant foes. However, the tattoos provide no protection while knowingly fleeing an enemy. In future jumps, these tattoos only become visible while deflecting an attack.",
+    "source": "Karaz Ankor Jump"
+  },
+  "1706fb4d-3d56-5736-bc71-bccb6e090829": {
+    "id": "1706fb4d-3d56-5736-bc71-bccb6e090829",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Gromril",
+    "cost": 400,
+    "description": "Starmetal is the most prized substance of the Karaz Ankor. If properly worked, it can produce the finest armor in the work, and the metal holds runes in a way that iron, bronze, or steel simply cannot match. This replenishing supply of gromril ingots will provide you with enough of the metal to produce a full set of Ironbreaker Armor, complete with warhammer and shield, once every year.",
+    "source": "Karaz Ankor Jump"
+  },
+  "0c81bc2e-1378-54ba-a0dc-38989d1e617f": {
+    "id": "0c81bc2e-1378-54ba-a0dc-38989d1e617f",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "In Sigmar’s Country",
+    "cost": 100,
+    "description": "You know all there is to know about farming and caring for the land you’ve settled on. How to till, plow, fertilize, and care for the soil and the plants you grow from it; How to tend to crops and save them during disturbing weather or unfortunate accidents such as a plague from Sylvania or a sudden frost; How to protect your crops from all manner of thieves by they insect, avian, goblinoid, or halfling if need be; And how to harvest in just the right way that you have little to no waste or loss, and every harvested pumpkin, turnip, tomato, or bale of tobacco is as perfect as it can be.",
+    "source": "The Halflings of The Moot"
+  },
+  "64392c4f-9d0c-5600-97f6-957da507934e": {
+    "id": "64392c4f-9d0c-5600-97f6-957da507934e",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Inheritance of Gazul",
+    "cost": 400,
+    "description": "There is much that wanders Mallus that is not of the physical world, demons and undead of a hundred different flavors. By this blessing, you are now adept in destroying these beings and laying them to rest. Your physical blows will land on ethereal beings just as easily as they would on mortal enemies, and when you destroy the physical manifestation of an undead or demonic foe, their physical form will remain destroyed.",
+    "source": "Karaz Ankor Jump"
+  },
+  "4287dbcc-7798-55cf-826b-0bb74ebedbf5": {
+    "id": "4287dbcc-7798-55cf-826b-0bb74ebedbf5",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Inheritance of Grungni",
+    "cost": 100,
+    "description": "Should you meditate or pray in the presence of working craftsmen, their skill shall increase noticeably for as long as you continue. Apprentices will approach Journeymen, Journeymen will approach masters, and the greatest masters of their crafts may approach the lost wonders of the Dawi Golden Age. This blessing has a greater effect on skills and trades that you, yourself, are skilled in, and it grows as you grow older or your soul grows stronger.",
+    "source": "Karaz Ankor Jump"
+  },
+  "7d2a36af-d358-5571-894e-0f8f9bdbba16": {
+    "id": "7d2a36af-d358-5571-894e-0f8f9bdbba16",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Inheritance of Valaya",
+    "cost": 600,
+    "description": "No magic below the level of a concentrated effort by a major god will be enough to overcome your resistance to magic, and your resistance covers more subtle and mundane issues such as poison, disease, pain, or fatigue. You are ridiculously difficult to kill, even if it seems the whole world exists to grind the Dawi down.",
+    "source": "Karaz Ankor Jump"
+  },
+  "d628add9-2a49-5d77-ae0c-131bf115ddc4": {
+    "id": "d628add9-2a49-5d77-ae0c-131bf115ddc4",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Inhuman Craftsmanship",
+    "cost": 200,
+    "description": "Amongst all the people of the Old World, none are as famed for their craftsmanship as the dwarves. Whether or not you are one of those stout craftsmen, you will find that anything you create is simply better than what any human could ever achieve, made with simply inhuman efficiency and effectiveness. After all, no proper dwarf would ever want to be found making shoddy equipment.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "3f862df4-9aef-5b17-b2b3-c20ef0f1495e": {
+    "id": "3f862df4-9aef-5b17-b2b3-c20ef0f1495e",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Ironbreaker Armor",
+    "cost": 600,
+    "description": "Normal Ironbreaker Armor is a suit of heavy gromril plate armor, capable of protecting the wearer from most mundane attacks, cave-ins, and land-slides without injury. Mundane weapons will deform before they breach this armor. This suit in particular bears a unique set of runes, granting similar protections to all supernatural phenomena. Both its mundane durability and supernatural defense scale with the power of the wearer’s soul, and the armor resizes to always perfectly fit its wearer.",
+    "source": "Karaz Ankor Jump"
+  },
+  "86311dfe-0cc9-50e5-bf00-7b0b52be027b": {
+    "id": "86311dfe-0cc9-50e5-bf00-7b0b52be027b",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Josef Bugman’s Best",
+    "cost": 200,
+    "description": "This barrel, filled with the finest ale ever produced by any dwarf, will somehow never run dry. Josef Bugman no longer brews ale, instead chasing revenge against the goblins who destroyed his home, which makes this brew rarer and more valuable with every day. One day, the Karaz Ankor will have to go without this irreplaceable ale, but you never will.",
+    "source": "Karaz Ankor Jump"
+  },
+  "c2cc9b14-a693-54be-8efd-8115420d3ff5": {
+    "id": "c2cc9b14-a693-54be-8efd-8115420d3ff5",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Know You Are Stone",
+    "cost": 100,
+    "description": "As a dawr who was born in the earth, lived in the earth, and mined in the earth, you have a supernatural sense of the nature and quality of nearby stone. You can tunnel through any earth or stone with maximum efficiency with any tools you have available, know how to set up tunnels to be stable, and you automatically know the quality of any soil or stone you see, knowing how well it can be used for various purposes, such as how rich soil is for farming, what ores can be found in certain rocks, or how well suited a specific stone is for construction or sculpting.",
+    "source": "Karaz Ankor Jump"
+  },
+  "e90a2c86-b5fb-5dcb-8763-05fb21c05f0b": {
+    "id": "e90a2c86-b5fb-5dcb-8763-05fb21c05f0b",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Larger than Limitations",
+    "cost": 400,
+    "description": "You can scale up your designs infinitely without issue, and you are skilled at engineering macroscopic effects of an environment via structures such as dams, dykes, canals, lightning rods, and more.",
+    "source": "Karaz Ankor Jump"
+  },
+  "5979867c-1be7-5877-b77f-0bac528c128d": {
+    "id": "5979867c-1be7-5877-b77f-0bac528c128d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Lessons of Morgrim",
+    "cost": 400,
+    "description": "It seems like you’re part of the Engineering Guild, or at least have enough knowledge to mimic a master of the craft. Either way, you’re privy to the secrets of this most honoured guild, creating fine machines that are much more capable and, more importantly, reliable than anything humans could achieve. Additionally, you’ve come to learn of this brand-new yet untested substance called black powder. Not much use for it yet, but in a few centuries after it’s been deemed safe to experiment with, some enterprising beardling may have some ideas.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "1fb53c2c-01f4-5a90-ae31-e12cc6617e54": {
+    "id": "1fb53c2c-01f4-5a90-ae31-e12cc6617e54",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Mine",
+    "cost": 400,
+    "description": "This mine is placed in a location near your starting location (or on some property you own) and is unquestioningly recognized as your property by your allies and overlooked by your enemies. While it can only be mined by hand, this mine contains veins for every metal found natively in this setting except Warpstone, and expands to add novel, naturally occurring metals in future settings. This mine never experiences a tunnel collapse, flood or similar safety feature.",
+    "source": "Karaz Ankor Jump"
+  },
+  "99f2a65f-1ced-515c-b1b9-22e3685205ec": {
+    "id": "99f2a65f-1ced-515c-b1b9-22e3685205ec",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Mineral Survey",
+    "cost": 200,
+    "description": "This map contains a detailed mineral survey of a three dimensional space of land a hundred miles across, centered around your starting hold. It can be updated to show a different space of land by being carried around the borders of a new area of land smaller than or equal to a cube with one hundred mile sides",
+    "source": "Karaz Ankor Jump"
+  },
+  "89d689d4-2221-5269-82e8-b4dbec838ef8": {
+    "id": "89d689d4-2221-5269-82e8-b4dbec838ef8",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Mining Equipment",
+    "cost": 100,
+    "description": "A pickaxe that has been passed down from father to son for generations over thousands of years and is strong enough to cut through any mundane stone or metal found on Mallus with ease, paired with a flameless lantern, a thousand feet of incredibly study rope, and a rucksack capable of holding any amount of weight that physically fits in the bag.",
+    "source": "Karaz Ankor Jump"
+  },
+  "313ce71b-0ce2-5e75-bc59-da6a0812e867": {
+    "id": "313ce71b-0ce2-5e75-bc59-da6a0812e867",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Mining Helmet",
+    "cost": 100,
+    "description": "Descending below the stone bowels of the earth can be a tricky business, especially considering how difficult it is to see down there. This runic helmet will not only protect your head from falling rocks or a goblin's club, but it acts as a constant source of light, illuminating whichever direction you're looking towards.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "10491548-2faa-59ce-8f44-898635bd8514": {
+    "id": "10491548-2faa-59ce-8f44-898635bd8514",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Noble Prince",
+    "cost": 100,
+    "description": "A dwarf prince hailing from Kraka Drak, the blood of Grimnir runs strong through him, making him a truly mighty warrior. Though far from his home, he still bears the nobility one should expect from dawi royalty, even if he lets it go entirely when around those he considers friends.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "b62fa2bc-17d4-5ee9-b88d-9abefa623794": {
+    "id": "b62fa2bc-17d4-5ee9-b88d-9abefa623794",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Pegasus",
+    "cost": 300,
+    "description": "I’ve officially given up on understanding you short bastards. You have access to ponies and battle sheep - steeds that you can actually ride effectively and direct - and some of you are still mad enough to climb six or seven feet up into the saddle of a Sigmar-damned pegasus. You know those beasts fly high enough to reach the clouds, right? And your legs aren’t long enough to reach the stirrups? Well if you insist. On purchase, you receive your very own, fully-matured pegasus. Theorized to ride on the Winds of Magic to support their equine bulk, Pegasi fly through the air as magnificently as any eagle or swan. Cunning and intelligent creatures, the pegasus is a mount worth thousands of gold crowns to any nobleman or magister of the Empire.",
+    "source": "The Halflings of The Moot"
+  },
+  "653a397e-0411-5102-b588-e0b4d00d22f6": {
+    "id": "653a397e-0411-5102-b588-e0b4d00d22f6",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Rhunki",
+    "cost": 600,
+    "description": "You have been initiated into the arts of Dwarven Runesmiths, and are capable of crafting equipment empowered by a single rune, and have the skill and knowledge to scribe all non-chaos Dawi runes that exist in the modern age other than Master Runes. Kragg the Grim would consider you a worthy successor, and with time, practice, or a good teacher, you could learn to expand your knowledge even further beyond this, beyond the skill of any Runesmith who yet lives after the Age of Woes.",
+    "source": "Karaz Ankor Jump"
+  },
+  "a170b73c-61b8-5e60-9e07-69eac7fa9153": {
+    "id": "a170b73c-61b8-5e60-9e07-69eac7fa9153",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Rock and Stone",
+    "cost": 100,
+    "description": "There is a very good reason why all dwarfs are stereotyped as being miners, and you certainly live up to it. You are a talented miner, not only knowing how to dig through the earth at a rapid pace, but find veins of materials and set up proper Dawi support to ensure that it’ll only collapse during combat or natural disasters.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "4ef77c9f-20c9-587f-b7bd-10ae095d7753": {
+    "id": "4ef77c9f-20c9-587f-b7bd-10ae095d7753",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Sheep Dog",
+    "cost": 100,
+    "description": "A loyal, erstwhile companion for any herdsman. Canines have been loyal friends to both man and halfling for eons now, and their duties in The Moot are much the same as they’d be elsewhere in The Empire of Man. You start out with one well-trained herding hound, of a variety of your choice (there are a great number of breeds, so to speak). You may purchase others at a discount, should your herd require more than you and your one pooch to guide or protect them.",
+    "source": "The Halflings of The Moot"
+  },
+  "235a1deb-23c0-5177-a1e5-de392b33c768": {
+    "id": "235a1deb-23c0-5177-a1e5-de392b33c768",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Silence of the Stones",
+    "cost": 400,
+    "description": "All dwarfs are more resistant to the forces of magic than any other races. You, though, seem to take this resistance a step further, creating a field around you that weakens any magic performed near you, making them more unstable for those who would be your enemies. Should any mages think to face you, they’ll be surprised by the difficulty they’ll have in manipulating the winds, as well as the rate of miscasts they’ll experience.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "12e03576-eb03-54df-ae8e-c0430c8606fe": {
+    "id": "12e03576-eb03-54df-ae8e-c0430c8606fe",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Star Metal Panoply",
+    "cost": 200,
+    "description": "The metal known to the dwarves as gromril is by far the best metal around, much stronger than steel and holds onto runes like nothing else. You should consider yourself lucky, for you possess war gear entirely made of this meteoric iron and imbued with dwarven runes. A set of perfectly fitted armour, a shield, and a weapon of your choice.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "3a3cd1b6-630c-5df6-8069-3a905ac6708a": {
+    "id": "3a3cd1b6-630c-5df6-8069-3a905ac6708a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Stealth",
+    "cost": 100,
+    "description": "Unlike the typical dwarf, you are capable of exercising stealth. You can move without leaving a trace of your passing in biomes terranean and subterranean and avoid the notice of all but the most alert sentries.",
+    "source": "Karaz Ankor Jump"
+  },
+  "f3a12295-44cf-571f-958d-c2901445ab3f": {
+    "id": "f3a12295-44cf-571f-958d-c2901445ab3f",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Survival Kit",
+    "cost": 100,
+    "description": "All the equipment needed to survive in the wild mountainous, hilly, and forested terrain, avoid and around the various dwarf holds in the Worlds Edge Mountains, including an axe suited for combat and durable, comfortable leather armour.",
+    "source": "Karaz Ankor Jump"
+  },
+  "c94425e7-8d13-5385-8346-faa6d2e2a3e2": {
+    "id": "c94425e7-8d13-5385-8346-faa6d2e2a3e2",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Symbol of Grungni",
+    "cost": 200,
+    "description": "This small symbol of Grungi can be worn on a necklace or bracelet. Should you take a handful of stone dust and speak an incantation while wearing this symbol,it will allow you to pass through stone as though it were air for several minutes. It limits your movement speed to a walking pace, but should you still be in stone when the effect expires, you will be safely ejected to the nearest empty space that is large enough to hold you.",
+    "source": "Karaz Ankor Jump"
+  },
+  "1e4663c8-b05c-545b-addc-1828b473b2b1": {
+    "id": "1e4663c8-b05c-545b-addc-1828b473b2b1",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "That's Going In The Book",
+    "cost": 200,
+    "description": "There is nothing as terrible to face down as a dwarf bearing a Grudge, especially one against you. Whenever you face someone who has wronged you and yours in combat, you will see a slight boost in your physical capacity, something that will increase the worse they’ve done. You are sure to be the bane of those most prominent in the Book of Grudges.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "da0653e0-6106-576a-9dc8-d3cede2d7132": {
+    "id": "da0653e0-6106-576a-9dc8-d3cede2d7132",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "The Larder",
+    "cost": 100,
+    "description": "It bears repeating. For it always bears repeating. That halflings eat far more than their body weight should require, and the amount of food required to feed a family of halflings is staggering. Luckily for you, this is provided for purchase. A fully stocked larder, full of various meats, breads, dried vegetables, casks of wine and other assorted edibles, enough to feed about 50 people all at once. Ah, but. Before I forget - should this foodstore run out, you will doubtless be glad to know of the last feature: Close the door, wait approximately one hour. When you reopen it, the entire bit of storage will be refilled to its full capacity, good as new. I should be charging more for this. You’re welcome.",
+    "source": "The Halflings of The Moot"
+  },
+  "30c2228a-add2-5f83-942f-7c2f118fc87f": {
+    "id": "30c2228a-add2-5f83-942f-7c2f118fc87f",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Thieves’ Tools",
+    "cost": 100,
+    "description": "S-scout’s to- Okay no. There’s no defending these. A file, a set of lockpicks, a small mirror mounted on a metal handle, a set of narrow scissors, and a pair of pliers, wrapped up in a rawhide sheet - there’s no other use for things like these except for breaking and entering. But these tools will take you far in that endeavor, and should any one tool break you’ll find it replaced almost immediately. It’s magical nonsense, who knows where they come from.",
+    "source": "The Halflings of The Moot"
+  },
+  "58eee93c-85ea-598d-9794-9aa26849a268": {
+    "id": "58eee93c-85ea-598d-9794-9aa26849a268",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Tunnel Fighting",
+    "cost": 400,
+    "description": "Fighting in the dark is one thing. Fighting in the dark in confined spaces in another. Fighting in the dark in confined spaces when your enemies can potentially flank you or bypass you by digging new paths around or above you is a third. You are a master of tunnel fighting at all levels. You are a master of fighting in tunnels as an individual, a master of the tactics of leading groups to fight in tunnels, and a master of tunnel strategy capable of defending a fixed position against tunneling enemies or assaulting enemy strongholds and armies by tunneling.",
+    "source": "Karaz Ankor Jump"
+  },
+  "1fbf22d7-e90e-5d06-a8eb-6e4a18fe2bad": {
+    "id": "1fbf22d7-e90e-5d06-a8eb-6e4a18fe2bad",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Underground Navigation",
+    "cost": 200,
+    "description": "Highly mathematical, and difficult to explain intuitively. It combines three dimensions of movement with fixed gravity, a subtractive approach to space (with potentially variable mediums), and a connection to open ground. You never get lost when navigating tunnels, can easily map out any tunnels you have explored in a way that is understandable to others who lack your familiarity, and have no problems interpreting maps or instructions left by others.",
+    "source": "Karaz Ankor Jump"
+  },
+  "7a71ddb2-6fa8-532e-b41b-3c990e28469d": {
+    "id": "7a71ddb2-6fa8-532e-b41b-3c990e28469d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Dwarves & Halflings",
+    "name": "Workshop",
+    "cost": 400,
+    "description": "Not all projects are small enough to be constructed by hand, and not all projects are simple enough that they can be completed in the field. This workshop contains a set of heavier machinery, large workspaces, and a steady supply of basic materials with which to work on various projects. The space is large enough to handle the construction of anything smaller than a Dwarven Gyrobomber.",
+    "source": "Karaz Ankor Jump"
+  },
+  "90ad3f1c-0a1b-5d76-8ee4-0fc98f945a05": {
+    "id": "90ad3f1c-0a1b-5d76-8ee4-0fc98f945a05",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Always Strike First",
+    "cost": 100,
+    "description": "The Druchii have adopted a highly aggressive style of war: hit hard, hit fast. A lesson you have taken close to heart. In personal combat against an equivalent or lesser foe, you will always have the opportunity to get the first strike in through sheer reflex. In an ambush, such a blow could be the difference between life and death.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "94436a26-9d3c-5129-8955-6fb943dd9423": {
+    "id": "94436a26-9d3c-5129-8955-6fb943dd9423",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Amulet of Dark Fire",
+    "cost": 100,
+    "description": "Rather similar to the trinket of a certain Khainite priestess from an older world, this amulet bathes the wearer in magic-burning flames that harm no flesh. Curses spark and ignite, bolts of mystic energy are blunted by spontaneous ignition and blades conjured from pure magical energy may be shattered before impact. Yet beware, even these defences can be overwhelmed by powerful and refined casting-and of course physical damage completely bypasses it.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "a1c50659-ba14-5e14-a70f-424acf7093aa": {
+    "id": "a1c50659-ba14-5e14-a70f-424acf7093aa",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Black Ark",
+    "cost": 600,
+    "description": "One of the venerable floating cities upon which Malekith and the Druchii fled Nagarythe so long ago, now turned into a vessel purely intended for war and plunder. This Ark is filled to the brim with vicious, bloodthirsty, hardened Black Ark Corsairs, all of whom are unflinchingly loyal to you. It also has spacious quarters for you on the scale of a small mansion, a hold that can carry incalculable tons of plunder, cells and stocks for the swift breaking of slaves, and even a clutch of ten War Hydras for more stubborn opposition. Any troops or beasts that are slain repopulate on the Ark the following day. The singular catch is that your Corsairs may only go 100 miles inland, which should be a more than fair allowance for raiding.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "eba4e7ba-f7a9-5753-bff1-6a465f1b749d": {
+    "id": "eba4e7ba-f7a9-5753-bff1-6a465f1b749d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Black Dragon",
+    "cost": 800,
+    "description": "For the Druchii seeking the ultimate mount, accept no substitutes. Scales hard as iron, strength fit to make an ogre cry, and a breath attack that incinerates enemies in corrupted, agonising fire. Rain death with impunity, Druchii.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "43714820-4afa-5eac-b51d-d252f1639ed4": {
+    "id": "43714820-4afa-5eac-b51d-d252f1639ed4",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Book Of Hoeth",
+    "cost": 400,
+    "description": "Rather fitting given the Asur predilection for duality, this arcane tome primarily offers you two opposed yet synchronous benefits. The first is rather straightforward, it amplifies the power of your spells by at least half. Second, it makes it easier to disrupt and dispel enemy magic. Creation, and Destruction, as the Asur like it.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "bb0cab77-9a87-5f5c-b87d-f914e719c2df": {
+    "id": "bb0cab77-9a87-5f5c-b87d-f914e719c2df",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Born to Bow and Saddle",
+    "cost": 200,
+    "description": "It is one thing to be an archer and a horseman, for these things are expected of the Asrai-it is another to master the hunting arts above and beyond most of them as you have. You have tracked men over many miles without letting them know of your presence, and in the time it takes an elf of average calibre to draw their bow you could put three arrows on an unerring course towards a distant target. With spear and sword in hand, it would take a knight of great skill indeed to unseat you from your mount-and so deft is your horsemanship that the spikes and spears many infantry hope would end you can be deftly avoided. None could look upon you and doubt that there is something of the predator in your spirit.",
+    "source": "Warhammer Fantasy: Wood Elves"
+  },
+  "ecd8cf12-8e3d-5429-ae86-20f0f332214d": {
+    "id": "ecd8cf12-8e3d-5429-ae86-20f0f332214d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Calaingor’s Stave",
+    "cost": 100,
+    "description": "Carved from an undying bough, the vibrant life force of Athel Loren yet thrums in this staff. By connecting you to the hearts and minds of nearby trees, even an unskilled elf can channel magic to rouse nearby woodlands to life. Urging trees to move or assail those within their mist is possible, for the staff grants you knowledge of the dead tongue of ancient days. Just remember that without proper Treeman bodies, trees aren’t very fast or clever when it comes to adapting to problems more complex than attacking the nearest invader.",
+    "source": "Warhammer Fantasy: Wood Elves"
+  },
+  "deaabee1-d203-5448-a066-c88874e2016b": {
+    "id": "deaabee1-d203-5448-a066-c88874e2016b",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Cloak of Twilight",
+    "cost": 400,
+    "description": "For the enterprising Assassin, no chances are to be taken when it comes time to murder someone. In addition to providing you a great deal of protection from hostile projectiles and spells, the cloak massively augments your first attack against your target. Most will likely be slain outright, with perhaps only Chaos Champions, Orcs, and Ogres living through your surprise onslaught. Naturally, the protections the cloak offers come into play particularly after you pull off that successful slaying, escaping retribution from the fallen’s allies.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "5a8d3e0c-3edb-5192-b5ef-cc8d08aa7429": {
+    "id": "5a8d3e0c-3edb-5192-b5ef-cc8d08aa7429",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Cold One",
+    "cost": 100,
+    "description": "One of the most common mounts among the Druchii, the Cold One is a reptilian, bipedal beast well adapted to the bitter cold of Naggaroth, and well broken by the Dark Elves in the turning into mounts. They are fairly stupid, but strong, and quite hardy against bolt and blade. Should you purchase a second Cold One, you can receive a chariot for them to pull for free.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "eeb57de7-af79-5adc-9d22-44e3b28705dc": {
+    "id": "eeb57de7-af79-5adc-9d22-44e3b28705dc",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Crone Blade",
+    "cost": 200,
+    "description": "Treasure this weapon, for through Khaine’s rites it has become as attuned to life as death. Let it drink deep of a victim’s lifeblood and your vigour and bloodlust will be restored at such speeds that even your own wounds and other ailments may close up before their eyes. Should you be ravaged by age you would even grow visibly younger from the life bled into your veins, and should you be in the prime of your youth your beauty and liveliness would be further bolstered.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "284e99a0-1415-52dc-8904-62a5fd2327d2": {
+    "id": "284e99a0-1415-52dc-8904-62a5fd2327d2",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Daith’s Little Favour",
+    "cost": 200,
+    "description": "During a great battle, Khaine strove against Slaanesh in a battle so mighty the Dark Prince had a scar gouged into its otherwise perfect face that has never fully healed. A small shard was struck from Khaine’s Widowmaker, and after landing on Athel Loren was reforged and reshaped by none other than the legendary smith Daith himself into a melee weapon of your choice. Even a fraction of the Sword of Khaine’s power is a deathly, blood-chilling harbinger of death. Seemingly inconsequential scratches become dire wounds, and ordinary armour is of little effect against its supernatural edge.",
+    "source": "Warhammer Fantasy: Wood Elves"
+  },
+  "3a25d62e-a639-59f1-807a-6a957fdc7f26": {
+    "id": "3a25d62e-a639-59f1-807a-6a957fdc7f26",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Dark Pegasus",
+    "cost": 400,
+    "description": "The mount of choice for many Druchii Sorceresses, including Morathi, whose mount Sulephet is the only known, named Pegasus of its kind. These Chaos-corrupted steeds are stolen while young from the eyries of their parents, as the adults are far too savage to train. When grown, these brutal, bat-winged horses can ride thermals for hours without rest while hunting for prey, whereupon they swoop down to gore it with their twin horns. These creatures are, naturally, significantly more aggressive than their uncorrupted kin, and actively seem to revel in violence.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "52c5a89b-5568-5ec9-87bf-f84a9b6c326b": {
+    "id": "52c5a89b-5568-5ec9-87bf-f84a9b6c326b",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Devotional Discipline",
+    "cost": 200,
+    "description": "In sheer intensity and ferocity, the aelves of Hag Nar outmatch other Khainite sects. In you, it is particularly fierce, your faith in Khaine (or at least, the purity of bloodshed he represents) securing your mind against malign forces to a great degree. Even should you take wounds in battle, the ferocity of your fiery faith can hold further damage at bay better than most mundane salves. Those converted to your faith will find similar miracles of bodily preservation taking them, gradually attaining your degree of protection as their faith deepens.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "65a9955d-6db3-5871-a075-d1051e3fdb8e": {
+    "id": "65a9955d-6db3-5871-a075-d1051e3fdb8e",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Die in the Dark",
+    "cost": 100,
+    "description": "Though Chaos has laid siege to it time and again, not once has it managed to claim Ulgu. This owes as much to the Daughters of Khaine’s insidious ruthlessness as it does to the dark god Malerion’s conservation of his forces. All your powers over darkness and illusion are more damaging, resilient and overall effective against malign forces such as the beings of Chaos-quelling their evil might with the hollowing void at Ulgu’s heart. Moreover, under the cover of darkness, such beings have a much harder time than they should keeping track of your position. Even esoteric features such as your soul’s signature or minutiae like your scent and tracks seem to simply disappear into formless shadow.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "46d35114-b317-52c3-aa20-cd277ea88b20": {
+    "id": "46d35114-b317-52c3-aa20-cd277ea88b20",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Ellyrion Saddle",
+    "cost": 400,
+    "description": "The horses of Ellyrion share the lifespan of the elves, so horse and rider can come to know each other more than any rider and mount the world over, save perhaps those of the sapient dragons. This saddle will allow you the same strength of bond with your mount, be it horse or something more exotic. The saddle will resize and adjust itself when necessary. You will move as if you shared a mind, reacting faster to situations than should be possible.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "5dcb142b-6523-526e-bb3f-877d1355ae8e": {
+    "id": "5dcb142b-6523-526e-bb3f-877d1355ae8e",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Elven Archery",
+    "cost": 100,
+    "description": "Surprisingly, absolutely no one, the Asur are fantastic archers. All of their civilian militia start as archers, meaning that every elf in Ulthuan that isn’t a mage knows a bow like they know the back of their own hands. Fittingly, you can strike targets with extreme accuracy, both close and far, intuitively knowing just how much of an arc you need to give you the best chances of landing your shot.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "a1dc9448-cf6b-5d37-9920-67afa7340716": {
+    "id": "a1dc9448-cf6b-5d37-9920-67afa7340716",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Envenomed",
+    "cost": 200,
+    "description": "Bringing death swiftly is something you specialize in, but there are always those little ways you can make things die just a little bit faster, or cover a minor imperfection in your technique. By taking this Perk, that ‘little thing’ is poison. You wash your blades with it, coat your arrows with it. Given a bit of preparation you can choose the best poison available to you to kill whatever it is you are charged with killing, and what you can find in the area around you if need be.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "12d4e8d7-2754-5a8d-a22a-0fa7d17c3507": {
+    "id": "12d4e8d7-2754-5a8d-a22a-0fa7d17c3507",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Forest Stalker",
+    "cost": 100,
+    "description": "There is silence in the forest. And then the air fills with arrows, and the bodies of unsuspecting soldiers with unseen blades. Such are the uncanny ways of the Asrai’s fighting traditions in which you have trained in, eschewing the disciplined ranks of the Asur or Druchii in exchange for using the environment to their advantage as well as stealthy ambushes like any other natural predator. You are acrobatic enough to easily balance amidst any branch that can support your weight (and some many would assume could not) while fighting, and your keen aim could put a thrown knife through a man’s unarmoured spine at short range.",
+    "source": "Warhammer Fantasy: Wood Elves"
+  },
+  "d0a88a1b-bb53-5d3f-884d-d309ed1b3655": {
+    "id": "d0a88a1b-bb53-5d3f-884d-d309ed1b3655",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Giant Blade",
+    "cost": 400,
+    "description": "Not, as you might think, a weapon that is sized for a giant. Instead, when holding this weapon, you are filled with the strength of said giant. And naturally, this would make you physically stronger than your peers by leagues. Grace and agility, the Druchii and Asur may have in spades, but I would think to their great chagrin, they are no stronger than humans. But you, with this blade in hand? You could match and exceed orcs, dwarves, perhaps even certain champions of the Dark Gods.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "69a28217-3826-5acb-b37a-c7f6f13ab15b": {
+    "id": "69a28217-3826-5acb-b37a-c7f6f13ab15b",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Great Eagle",
+    "cost": 100,
+    "description": "Again, nothing overly fancy. It’s an eagle as you may know, just much, much larger. Its talons, though basic, can easily puncture most mundane armor. And the bird is strong enough to carry you and perhaps an entire horse.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "55a76839-58de-59f4-9fb8-3f24eabb49ef": {
+    "id": "55a76839-58de-59f4-9fb8-3f24eabb49ef",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Hair Products",
+    "cost": 100,
+    "description": "If you were not aware, the Asur have a minor obsession with long hair. It’s why all of their heroes are depicted in art with great, streaming manes flowing behind them. Of course, long hair is a hassle. It gets knotted, takes so much product to keep silky, it gets tangled... Well, worry no more. This collection of assorted, semi-magical, self-replenishing oils, lotions, and such will keep that elven mane gleaming.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "ddafdc0f-5aed-55b6-ab5b-3caa8623c0c5": {
+    "id": "ddafdc0f-5aed-55b6-ab5b-3caa8623c0c5",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Healing Potions",
+    "cost": 100,
+    "description": "For all his great power, the mage Teclis is still a very, very sick elf. So sick, and so weak because of his sickness is he that the archmage requires multiple potions like these just to function day to day. You might not be afflicted like him, but a bit of on-the-spot healing should never be turned away. This small case contains 6 ‘healing potions,’ which will each deal with one ‘mortal wound’ apiece. The potions restock daily, but do not stockpile.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "a533db8d-8b1a-59c9-924d-e6b37edcd18a": {
+    "id": "a533db8d-8b1a-59c9-924d-e6b37edcd18a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Hear the Leaves",
+    "cost": 100,
+    "description": "Beyond simple spellcraft, the root of Asrai magic lines in communing with the branches around it’s practitioner. Like any decent Spellsinger, you are therefore adept at joining your mind with the flora around you. It is a strange sort of consciousness to navigate even for an elf, but the tradition is long-practiced and you have grasped it as well as any who pursue the Spellsinger’s calling to. It may be difficult to describe what having a conversation with a forest is like to the uninitiated, but the information it provides on encroaching outsiders is invaluable.",
+    "source": "Warhammer Fantasy: Wood Elves"
+  },
+  "495b761e-e257-58b5-bebf-61659245c295": {
+    "id": "495b761e-e257-58b5-bebf-61659245c295",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "In Demand",
+    "cost": 100,
+    "description": "If there’s one thing you can always count on with magic, it’s that those without the ability really, really want those with the ability on their side. Certainly, you will never hear tell of a poor Sorceress. As such, you will find it simplicity itself to find a post where your magical abilities will be valued deeply.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "474fb1f6-7749-517a-b10b-196b092dfe8b": {
+    "id": "474fb1f6-7749-517a-b10b-196b092dfe8b",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Influence",
+    "cost": 200,
+    "description": "Important as it is, to a courtier or the politically minded, you can swiftly, accurately, and concisely itemise and sort your accumulated list of favours, leans, nasty rumours, and other assorted arsenal of social weapons into a neat numerical total. Secondarily, you can sense intuitively how much of this ‘influence’ you would need to do a thing that you want done, and from whom you would need this pull.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "9a33bb9e-38f2-50a2-89e6-8c944f03ff97": {
+    "id": "9a33bb9e-38f2-50a2-89e6-8c944f03ff97",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Inspiring Carnage",
+    "cost": 100,
+    "description": "The post-battle rites of the Kraith have been known to alienate allies, and yet the sect persists by bending it’s horrific feats to the betterment of the community. You’ll find local authorities of all kinds are more amenable and open to your offers to commit brutal violence on their behalf or for their entertainment, even if they otherwise have little good reason to like you. With how many lands are plagued with monsters and how quickly turnover among gladiatorial warriors can be, you won’t soon run out of chances to prove your worth throughout the Realms.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "eec092b2-df4a-572d-a2a3-4743f7a8e9d5": {
+    "id": "eec092b2-df4a-572d-a2a3-4743f7a8e9d5",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Lord of Beasts:",
+    "cost": 400,
+    "description": "It is not only fellow Dark Elves that are led into battle, but many monstrous creatures as well. Many of which are just as capricious as the Druchii. The War Hydra for instance, must normally be kept in check by no less than three handlers, driving it onwards with whips into the desired enemy. You no longer have this problem. War animals, even the thoroughly monstrous kind, are far more likely than not to do what they are ordered/directed to do under your auspice. The only thing that could potentially disrupt this is if you are deliberately cruel to the beast in question. And you wouldn’t do that, right?",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "5d27b272-06f1-5ed2-83a8-281e46b8d5ca": {
+    "id": "5d27b272-06f1-5ed2-83a8-281e46b8d5ca",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Luckstone",
+    "cost": 100,
+    "description": "No self-respecting warrior would leave their life in the hands of chance, but at the same time, it would be foolish not to try and stack the odds in your favour. This small stone, able to fit in the palm of your hand, has a gentle yet potent enchantment upon it. Once per battle, it will turn aside a blow that would otherwise wound you, losing its magic till your next. A small protection, to be sure, but just as sure to be worth it in a pinch.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "a093e994-6258-5c0c-a235-c578a13b2e77": {
+    "id": "a093e994-6258-5c0c-a235-c578a13b2e77",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Made of Mirrors",
+    "cost": 200,
+    "description": "To stride the halls of power is to walk where words are weapons, and where lies and innuendo can be far more dangerous than the truth. And none of it sticks to you. No matter how insidious the lie, how shameful the accusation, you will skate through falsehoods smelling like a rose. Provided, of course, that the words are false. Should you actually be having inappropriate relations with the matriarch of Saphery... That’s on your head.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "a274954e-922a-53bd-aa9f-858fd5624d76": {
+    "id": "a274954e-922a-53bd-aa9f-858fd5624d76",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Moon Staff of Lileath",
+    "cost": 600,
+    "description": "Ha, looking to supplant Teclis in the goddess’s favor? This staff is king among its kind when it comes to ‘casting focus,’ dramatically augmenting your magical capacity and almost nullifying the possibility of miscasting. More so, given Lileath’s position as daughter of Isha the staff particularly functions well as a conduit for the winds of Life, filling you with an overflowing vitality that renders you very difficult to kill... Also, the staff is crowned with a full likeness of the goddess herself, and the likeness is naked.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "aecaf657-8199-5d12-b8b1-c63b69131112": {
+    "id": "aecaf657-8199-5d12-b8b1-c63b69131112",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Moonstone of the Hidden Ways",
+    "cost": 100,
+    "description": "Gifted by Adanhu to the elves, this ancient moonstone can unseal many of the hidden Worldroot passages otherwise inaccessible. It’s bearer can thus seemingly teleport allies around a battlefield, crossing impossible distances without a trace so long as that travel happens within a forest. Some old magic must have settle heavily into this particular one, since with more magical energy channelled into it this stone can be used to open magically sealed passages of all kinds. It fares best of all for ones based on natural forces like the Worldroots, but can be attempted on any like an inexhaustible lockpick.",
+    "source": "Warhammer Fantasy: Wood Elves"
+  },
+  "e5c96262-8237-5f3b-bc1b-b792cb9f81ce": {
+    "id": "e5c96262-8237-5f3b-bc1b-b792cb9f81ce",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Mother of Lashes",
+    "cost": 400,
+    "description": "Perfection in the gladiatrix’s art is measured by the few wounds she has taken. It is said Vindicarum’s Mother of Lashes has never suffered so much as a single cut in over a thousand battles, and your combat speed, mastery, reaction time and agility lends credence to your claims. In battle others seldom even see you coming before you are already elsewhere; you move like a flash of thunder in flesh and your capacity for evasion or parrying defies the limits of even aelven capability. It would not be surprising if you could swat arrows from the sky with a short sword, and though that shall take great focus, you may dodge them even more easily.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "f6355e18-8af7-52de-8deb-2c489817740f": {
+    "id": "f6355e18-8af7-52de-8deb-2c489817740f",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Murderous Prowess",
+    "cost": 200,
+    "description": "To say that you have been trained or molded to be a ruthlessly efficient killer is coming up short, for while you have, that’s just scratching the surface of how much killing you’ve done, how hard you’ve honed yourself to near-intuitive pursuit of that smallest chink in your foe’s armor, to go straight for the vein that will make your enemy bleed out the fastest.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "214f0853-7dc6-54e1-abd1-1d8f2b354f81": {
+    "id": "214f0853-7dc6-54e1-abd1-1d8f2b354f81",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "One With Shadows",
+    "cost": 100,
+    "description": "Born in Ulgu and fit to thrive in this harsh land, you have a particularly close bond to the Realm’s principles of shadowy deception. All feats of stealth and evasiveness are instinctively easy for you to master, and should you acquire any illusion or darkness-based magics, you’ll find them intuitive to grasp. Even in corrosive regions such as the Umbral Veil, filled with environmental hazards based on darkness, you could endure tenfold longer than your sister aelves.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "0d3fde3d-c554-5183-9c81-3fad44288e15": {
+    "id": "0d3fde3d-c554-5183-9c81-3fad44288e15",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Phylactery",
+    "cost": 600,
+    "description": "A Sorceress as potent as you should not be bothered by such a little thing as ‘death,’ should you? Of course not, so cheat it. By purchasing this Item, you are guaranteed that once, when you are slain, your soul will flee your body and enter this crystal, which will rebuild your physical body as it was over the course of one year, after which the phylactery will break. The one small catch is that if you are slain by a soul-destroying attack, obviously, you will have no soul for the phylactery to recover.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "73346b54-5bdd-5bec-91ad-f6c4dceb5654": {
+    "id": "73346b54-5bdd-5bec-91ad-f6c4dceb5654",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Queen of the Arena",
+    "cost": 100,
+    "description": "Gladiatorial combat is at the heart of the Draichi Ganeth’s culture, serving as both a means of proving worth and honing their natural skills. You are now a supremely talented duellist, with just the right amount of physiological talent and killer instinct to rapidly learn and adapt to a single opponent. You put on quite a show too, able to incorporate flashy moves with no loss in the effectiveness of your killing arts.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "2cebae84-2ac1-5e0e-9445-e69c306d2858": {
+    "id": "2cebae84-2ac1-5e0e-9445-e69c306d2858",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Ring of Hotek",
+    "cost": 400,
+    "description": "As a wielder of magic, it is inevitable that either on the battlefield or from the intrigue of the Druchii that you will find yourself slinging spells against another mage. Tip the scales in your favour in advance with this Item. Wearing this ring gives you a blanket 50% resistance to all hostile spells, while simultaneously increasing the likelihood that hostile spells targeting you are ‘miscast.’ Stand back and laugh as your enemy mage accidentally drops the Purple Sun on top of themselves, and promptly dies from their stupidity.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "fc3fef62-79c0-5ede-8d4e-385714f0a6ee": {
+    "id": "fc3fef62-79c0-5ede-8d4e-385714f0a6ee",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Sevenfold Shadow",
+    "cost": 300,
+    "description": "Your shadow has come to life, though it remains quite obedient to you. At your command, it envelops you and transports itself across other places of darkness-moving near instantly anywhere within a mile. Though not very precise and dependent on you for direction, such mobility is greatly valued for those in pitched battle or on urgent missions.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "2d26d320-6089-5bfe-9401-aea0b653d99d": {
+    "id": "2d26d320-6089-5bfe-9401-aea0b653d99d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Slave Collars",
+    "cost": 100,
+    "description": "A collection of ten black-iron bands. These collars bear a mild enchantment that beats down the will of whomever you place them upon, though a strong will can ignore such an enchantment.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "2c4761e0-86f4-5325-b661-4a1c974fba09": {
+    "id": "2c4761e0-86f4-5325-b661-4a1c974fba09",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Stable Casting",
+    "cost": 400,
+    "description": "Another pitfall of magic, at the very least the magic of this world, is the ever-present possibility of ‘miscasts.’ Should the spell slip from your control you might just drop that Purple Sun on top of your head instead of your enemies. This Perk is a blanket protection against such harmful slips of yours. Should a spell of yours be primed to blow up in your face, the magic will ‘flow away’ instead of exploding.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "6073e87b-54a1-5b2e-b75a-bb0ae0ffbe71": {
+    "id": "6073e87b-54a1-5b2e-b75a-bb0ae0ffbe71",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Starfang",
+    "cost": 500,
+    "description": "*Ahem* Because ‘Sunfang’ was already taken. This hitherto unknown sister-sword to Tyrion’s sword is that legendary weapon’s equal in every way. It can cleave all but the strongest armour with ease, automatically will adjust its weight and balance to be your perfect blade, and on top of all that, can periodically fling gouts of terrible flame literally as hot as the heart of a volcano. In terms of this world specifically, it can harm ethereal entities as easily as if they were flesh. Also, as what may be intuited by the name, the blade is always on fire. And the fire will never harm you.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "d39a13a6-c7cd-586c-a712-095583b1f81c": {
+    "id": "d39a13a6-c7cd-586c-a712-095583b1f81c",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Tempered by Wisdom:",
+    "cost": 100,
+    "description": "Poor is the mage that lets their heart rule their head. While you may certainly still have strong emotions, this Perk will better aid you in managing them so you don’t end up doing something disastrously stupid. The Asur have a tragically poor track record on that front already.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "9c93fcd9-3fea-532b-a874-ca9f2bd1e2e5": {
+    "id": "9c93fcd9-3fea-532b-a874-ca9f2bd1e2e5",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "The Circling Flock",
+    "cost": 100,
+    "description": "Harpy-like Scathborn deployed as aerial harriers, the Khinerai frequently follow the forces of Khelt Nar and lend their aid from on high. Even if there are no such beings wherever you go, you’ll find that you have a deep affinity for aerial predators or scavengers of the natural world around their size and sapience or lesser. Throwing a few gobbets of gore to them after battle may see them watch over you from on high, and with a simple signal you may sic them on your foes.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "bb7f9773-d652-5f70-a5ee-a77afa09380e": {
+    "id": "bb7f9773-d652-5f70-a5ee-a77afa09380e",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "The Mirror Glaive",
+    "cost": 100,
+    "description": "Polished realmglass makes up the blade of this brilliant glaive, as functional as it is decorative. In skilled hands, it can absorb and reflect the energy of enemy sorceries. Stab at a binding circle with the blade, wrap its energies around the haft and blast a bolt into a surprised wizard. While merely an adequate weapon otherwise, the glaive is a terror to all cautious casters.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "0d110bb5-fb86-5df9-b3b2-7eaf6d481351": {
+    "id": "0d110bb5-fb86-5df9-b3b2-7eaf6d481351",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "The Pride of Hoeth",
+    "cost": 600,
+    "description": "Unsurprisingly, given their long lives, Elves invariably stand head and shoulders above the ‘lesser races’ when it comes to magic. Just so, some rise to the top of even such an auspicious heap, you in particular, with this Perk. Like your Asur peer Teclis, you weave spells with such ease and power your enemies will feel like the gods themselves are smiting them. Additionally, as befitting one of the guardians of Order, you are also deeply talented at teaching others the ways of magic. So much so that you could induce a magical awakening in a society that, before, had no magic at all.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "4427c3da-c2b6-50b0-88b7-cf548f59cc53": {
+    "id": "4427c3da-c2b6-50b0-88b7-cf548f59cc53",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "True Loyalty",
+    "cost": 200,
+    "description": "For a commander of the Dark Elves, one’s subordinates are often just as dangerous as the enemies they face. After all, why not seize the opportunity to stab the commander in the back and claim the glory of victory for yourself? With this Perk, you are partially insulated from such treachery. By leading your troops to victory, you earn their genuine respect. And the more you do so, the less likely they will be to plunge an envenomed dagger into your back.",
+    "source": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "5247d3bd-8e4c-5c39-a11c-7a9daff4320c": {
+    "id": "5247d3bd-8e4c-5c39-a11c-7a9daff4320c",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Unbroken By Unholy Appetites",
+    "cost": 200,
+    "description": "Many of the souls languishing in Slaanesh’s stomach were degraded and weakened, or else mutated into the image of their tormentor. Your lack of history here has spared you that torment, and given you a chance to endure such pain should it ever come to pass. Your mind and body are greatly resilient to corruptive forces thanks to your mightily resilient soul, rapidly restoring themselves from the taint of malign forces around you. Spells of corruption would have a great struggle to overcome your strength of spirit, and while corruptions as great as the gullet of Slaanesh might still overwhelm you your soul’s resilience would never stop fighting to remain as it is, and restorative or resurrective effects will be much more effective on you.",
+    "source": "Age of Sigmar: Daughters of Khaine"
+  },
+  "28ede835-b263-5bf2-b056-c0c2f9db7d8c": {
+    "id": "28ede835-b263-5bf2-b056-c0c2f9db7d8c",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Up To The Challenge",
+    "cost": 400,
+    "description": "Dueling, as it may surprise you, is a great part of warfare in this world. The mighty regularly seek each other out upon the battlefield to clash with their ‘equals.’ Or, it might be pragmatism talking, “gotta stop that guy from butchering my troops!” Either way, personal challenges have become something of a specialty of yours. When you throw the gauntlet, metaphorically, you are A, far more likely to get and keep the attention of the target you want. B, better able to read, react to, and effectively combat the warrior you challenged. And C, the odds of you getting stabbed in the back by an opportunistic nobody are dramatically reduced. This naturally works in reverse, yet still positively, if you are the one challenged.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "443696cf-1b39-5f9d-a036-4079b6dab7eb": {
+    "id": "443696cf-1b39-5f9d-a036-4079b6dab7eb",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "Wanderer of Mystic Groves",
+    "cost": 100,
+    "description": "Fleet of foot and swift of hand even compared to other elves, the Asrai are accustomed to fast travel over vast expanses of the otherwise forbidding woods. As such, you too have a raw acrobatics and athleticism native to those skilled at finding their way over gnarled roots and reaching encroaching armies before they’re even seen. Moreover your sense of navigation is uncanny, able to find your way even through the mysteriously time-dilated portions of Athel Loren’s woods or the wending ways of the living forest with a bit of luck.",
+    "source": "Warhammer Fantasy: Wood Elves"
+  },
+  "03513d1c-9cfa-51fa-8f02-1fab6843f41d": {
+    "id": "03513d1c-9cfa-51fa-8f02-1fab6843f41d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Elves",
+    "name": "White Lion:",
+    "cost": 200,
+    "description": "Did I mention that the iconic lions of Chrace are as big as a horse at the shoulder? No? Well, they are, which naturally means they can serve as fantastic mounts. This one imprinted upon you as a cub, and loves you unconditionally. The cat’s hide is almost impervious to arrows, and, well, it’s a big cat. Your lion can outmaneuver any horse alive, as well as out-fight one.",
+    "source": "Warhammer Fantasy: High Elves Jumpchain"
+  },
+  "47e983b9-91e8-5b53-8c31-ecd200e8b8c3": {
+    "id": "47e983b9-91e8-5b53-8c31-ecd200e8b8c3",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Aldred’s Casket of Sorcery",
+    "cost": 400,
+    "description": "A strange and cunning device, this casket - just about small enough to be man-portable - can capture and contain spells cast by enemy mages. Furthermore, the casket’s user can release the spells later under their own control, albeit only once per captured spell. Any number of spells can be held within the casket at a time. Capturing a spell is a bit of a tricky operation, and can only be done within a dozen or so metres of the spell’s caster, but this device certainly shouldn’t be underestimated.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "54adc3a4-1f6a-5693-967f-e1bfd4c31d71": {
+    "id": "54adc3a4-1f6a-5693-967f-e1bfd4c31d71",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Amber Bow",
+    "cost": 400,
+    "description": "You’ve stumbled across what seems to be a copy of the Huntmarshal’s very own Amber Bow. The original Amber Bow was carved from a Drakwald Oak, with enchantments laid upon it by a powerful Amber Wizard. Through these its shots are guided by magic to strike the weakest points of the fiercest monsters, making it highly potent against large, single targets. As a magical weapon, it also bypasses mundane methods of protection to strike true.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "88e47bf5-b59d-517b-8bd2-95eb526ab396": {
+    "id": "88e47bf5-b59d-517b-8bd2-95eb526ab396",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Armour of Meteoric Iron",
+    "cost": 300,
+    "description": "Gromril-made by the Dwarfs of Zhufbar, there is no better plate in the Empire than this. It is said that no mortal blade may pierce this suit, and the legend will prove itself true as swords, arrows, and even the shot of mighty cannons are turned aside by this enchanted breastplate.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "dd8a5056-f85a-52a7-af43-56034376cdbe": {
+    "id": "dd8a5056-f85a-52a7-af43-56034376cdbe",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Armour of Tarnus",
+    "cost": 300,
+    "description": "The warrior-wizard Friedrich von Tarnus’ garb. He was once a Greatsword before being cast out when his magical powers were discovered and became the first patriarch of the Bright Order. This suit of armour is invested with potent protective enchantments: Despite its light construction, the armour can cause its wearer to momentarily transform into living flame, such that even the mightiest attacks will pass through them, though this protection must be activated and therefore is not a guaranteed defence. Furthermore, the armour will not interfere with any magical abilities the wearer may possess.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "760183f7-e64a-5168-ac4e-7fc46f7fd8c4": {
+    "id": "760183f7-e64a-5168-ac4e-7fc46f7fd8c4",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Aura of Serenity",
+    "cost": 200,
+    "description": "You have found an inner peace and unshakeable calm, which inspires your warriors to stand without fear against the worst the Realms can offer.",
+    "source": "Age of Sigmar"
+  },
+  "8ba78383-5dc5-55f3-bb4d-d74d26f78161": {
+    "id": "8ba78383-5dc5-55f3-bb4d-d74d26f78161",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Bullet-Point Mind",
+    "cost": 100,
+    "description": "The countless intricacies involved in proper engineering would be daunting to an untrained mind; everything from the tolerances of steel tempered at a hundred different temperatures to every single step involved in the maintenance of a Helstorm rocket battery. Fortunately for you, your mind holds onto these kinds of details with ease; your memory isn’t eidetic, but you have a mind for detail and with enough practice and revision you can fix almost any amount of minutiae in your mind.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "9a223e94-4367-558d-b771-e356aaeb3b43": {
+    "id": "9a223e94-4367-558d-b771-e356aaeb3b43",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Certified Professional",
+    "cost": 100,
+    "description": "A proper diploma, as the Engineering School would give to graduates. You’ll be taken seriously as a professional when you show this diploma to superiors, and even better, they’ll actually listen instead of assuming you’re trying to be lazy or anything similar. This updates to any other qualifications you get in other worlds.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "49707958-81e7-5116-89ba-91d0771a8098": {
+    "id": "49707958-81e7-5116-89ba-91d0771a8098",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Crystal Ball",
+    "cost": 200,
+    "description": "This magical device is a potent channel for spells of scrying, divination or far-seeing. More than that, however, if one with Witchsight gazes into its depths, the crystal will reveal secrets hidden nearby - hidden doors, concealed daggers, camouflaged assassins or even things such as giving visions of magical weapons carried by nearby enemies.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "edc365d6-5e05-5366-882f-68ed203623ea": {
+    "id": "edc365d6-5e05-5366-882f-68ed203623ea",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Dispel Scroll",
+    "cost": 100,
+    "description": "This scroll has been imbued with the power to dispel any one spell, unless backed by truly overwhelming power, before being depleted. The scroll’s power will be replenished once per day.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "04095b2e-f5a0-517c-8692-8975a6e09bf2": {
+    "id": "04095b2e-f5a0-517c-8692-8975a6e09bf2",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Doomfire Ring",
+    "cost": 300,
+    "description": "This is an item made by a College of Magic for warriors to use. The ring has a powerful spell of flame bound within, allowing the wearer to incinerate their foes in magefire.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "a4809fa3-493f-58bd-b4fe-7922b28cadb7": {
+    "id": "a4809fa3-493f-58bd-b4fe-7922b28cadb7",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Dragon Bow",
+    "cost": 200,
+    "description": "A relic from one of the ancient elven colonies in the Old World, this bow is a strange paradox; its supernatural draw weight allows its shafts to fly further than any mundane arrow and strike with as much strength as a blow from a giant, yet its strange enchantments allow it to be drawn with the same ease as an ordinary bow. Furthermore, arrows shot from the bow are infused with magic, allowing them to strike daemons or spirits as if they were made of mere flesh.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "72c286b5-0278-53f3-99fc-21a01e05f3cd": {
+    "id": "72c286b5-0278-53f3-99fc-21a01e05f3cd",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Drillmaster",
+    "cost": 100,
+    "description": "You have a well-earned reputation for strict and demanding training regimes, able to turn a rabble into a fine militia in no time.",
+    "source": "Age of Sigmar"
+  },
+  "69f2f8f5-10bd-5bb6-998c-39c9ca2d77e4": {
+    "id": "69f2f8f5-10bd-5bb6-998c-39c9ca2d77e4",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Fallen Knight",
+    "cost": 100,
+    "description": "Some nobles come from pedigree instead of their blood. This was one of them, a knight who found love on his grim journey to nobility, yet lost it just when reaching his dream. Now, he has lost his title and his angel. Black-haired, black-eyed and just a little bit black-hearted, he was then left to wander the Empire as a mercenary. A man in deep depression, he no longer seeks the cause of her death, but rather a new reason to live - and perhaps you shall fill that role. He's quite laissez-faire about most things, with a bit of light humour and a love for literature not commonly found amongst militant nobility. He'll help you faithfully with many duties; as a once-lowborn, he's got some skill at blacksmithing for military purposes, using the products of such to learn how to wield weapons. He's quite a jack-of-all-weapons, too: Though he favours a knightly blade, he's good with anything from a mace to a musket. He's a bit of a snob about guns, though. Something about them not being particularly effective against proper foes.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "8310c5f4-9bd5-553a-8f71-0859bfc179fa": {
+    "id": "8310c5f4-9bd5-553a-8f71-0859bfc179fa",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Favored by Ulric",
+    "cost": 400,
+    "description": "The God of War, Winter and Wolves has gazed upon you, and found you worthy. His divine power now flows through your veins, granting you access to a potent berserker rage, a temporary state of being where your strength and durability have been greatly improved and your senses heightened, while still retaining your wits, although activating this in quick succession is sure to tire you out.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "e33eed89-c224-525c-8c98-867c72c1bbb2": {
+    "id": "e33eed89-c224-525c-8c98-867c72c1bbb2",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Fortress",
+    "cost": 600,
+    "description": "One of the safest places outside of an Elector Count’s holdings, this veritable Fortress is yours to command now. As large as a small castle with fitting amounts of stone, the walls of this place have been enchanted by Gold magicians, making it take far more damage than one would expect the stone slabs to be capable of. On the walls are manned cannons, each boosted by enchantment to be capable of taking out even great beasts in a few hits. With the fortress comes a guard to protect it; a battalion of soldiers man this fortress, coming with it as followers. Reluctant to risk the unsafe world beyond, they’ll be sure to protect their home with their lives. The Fortress is somewhat spartan in its appearance, yet it has all the necessary components to keep a siege alive for at least half a year.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "254d7479-0fc7-526f-9cd5-fac273c7f238": {
+    "id": "254d7479-0fc7-526f-9cd5-fac273c7f238",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Ghal Maraz",
+    "cost": 600,
+    "description": "The Warhammer. A magical artifact crafted by the Ancestor God Smednir, this mighty warhammer is perhaps one of the most powerful weapons to exist. Bearing five runes and having been anointed within the Flame of Ulric, it is the bane to all things unholy. Undead and demonic forces alike can hardly look upon it without some level of pain, to say nothing of if it were to strike at them. Additionally, it is capable of weakening the effects of any magic that strikes the user, and can even strengthen and revitalize them when held.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "7c05dc5f-a077-5503-8eb0-0d876a2eb91a": {
+    "id": "7c05dc5f-a077-5503-8eb0-0d876a2eb91a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Gilded Armour",
+    "cost": 200,
+    "description": "Gifted to Magnus the Pious by the elves of Ulthuan after the Great War Against Chaos, this golden suit of heavy plate armour repels incoming attacks with an invisible force, requiring any who seek to assault the wearer to possess exceptional strength, lest their attacks be lost entirely.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "32f5bf30-2aa3-560d-8a8b-aa20f367314b": {
+    "id": "32f5bf30-2aa3-560d-8a8b-aa20f367314b",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Gorgon Shield",
+    "cost": 200,
+    "description": "A large shield, emblazoned with the hideous visage of a legendary Arabyan monster. Those who look upon it are slowed, having their limbs dragged down by a supernatural force - weakening their attacks and making them easier to be fended off. Unfortunately, its power is less effective against larger creatures like giants or dragons.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "817caecb-c811-5698-a757-07c2e1811680": {
+    "id": "817caecb-c811-5698-a757-07c2e1811680",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Grey Wizard",
+    "cost": 100,
+    "description": "[Born as a peasant girl in the province of Stirland, this young woman’s magical talents were recognised at an early age and, fortunately for her, she was brought to Altdorf to study in the Grey College and to gain mastery over Ulgu, the magical wind of deception, illusion, confusion and shadows. Now having gained a fair proficiency with her powers and graduated to the status of journeywoman, for whatever reason, she will find herself attached to you, intended to serve as an advisor, observer, spymaster or possibly more, depending on your status, for reasons clear only to her superiors. Although she has her own loyalties and ambitions, she will undoubtedly be a great asset to you - if you trust her enough to allow her to help. Although she is hardly an exceptional wizard just yet, given time, her talents may blossom - and she is very, very good at applying what she does know in just the right way. More than that, she has a talent for out-of-the-box thinking and unconventional solutions, which, in the right situation, might be able to tip some very important scales. Given the time and space to work, her ambitions might change the world. Oh, and she has a strange habit of picking up odd magical items as payment for her various deeds. Keep an eye out for that.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "808653af-2616-5a12-8ef5-1d4b4b8b773e": {
+    "id": "808653af-2616-5a12-8ef5-1d4b4b8b773e",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Griffon Mount",
+    "cost": 100,
+    "description": "You are one of the rare few who has managed to tame a griffon, and turned them into a suitable mount for combat. As a fully trained mass of muscle and feathers, it can rip whole men apart with its talons, and can carry you high into the sky. Not only that, but its speed will scale with yours, ensuring that it will always be faster than you no matter what.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "23bb6e54-0adc-5ccd-8434-3ee77420e619": {
+    "id": "23bb6e54-0adc-5ccd-8434-3ee77420e619",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Guest Lecturer",
+    "cost": 400,
+    "description": "Most engineers make their fortunes through their work, selling designs or taking the Emperor’s coin in the army or the machine shops of the great schools. Most, though, end up teaching the new generation at some point - and that’s something you truly excel at. You’re a master of teaching complex subjects, able to adapt your methodology on the fly to suit your students and convey even information which would seem to be beyond a society’s technological level in a manner that can be well-understood. If you put in the work to help your students, you can cram twice as much into the same time frame as another teacher would require.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "5feb06d5-fa11-5336-a58d-17af009be588": {
+    "id": "5feb06d5-fa11-5336-a58d-17af009be588",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Hammer of Judgement",
+    "cost": 200,
+    "description": "Blessed by the priesthood of Sigmar, the original Hammer of Judgement was carried into battle by the great-grandfather of Emperor Karl Franz. Its strikes are imbued with holy power which pierces through mundane armour and must be resisted by the foe’s will instead and is anathema to demons and all manner of unclean spirits. Furthermore, the hammer’s blessed nature causes the flesh of any significantly corrupted by Chaos, necromancy or other evil forces to burn upon touching it, though it will not reveal merely moral corruption, and one of strong will can endure the pain it causes without showing outward signs.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "70c910bc-3fab-5040-9094-19d636fd67d3": {
+    "id": "70c910bc-3fab-5040-9094-19d636fd67d3",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Hide of Skaranorak",
+    "cost": 200,
+    "description": "A cloak made from the hide of an ancient dragon ogre, Sigmar made it in honor of the glorious battle it gave him. Not only does it keep one warm in even harsh winter, but it can turn aside a blade as well as any armor of iron, and electrocutes any that strike you. Wearing it is a sign of your might and martial prowess, for who but the mightiest of warriors would wear such a creature’s hide?",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "f5ebd122-bdcd-5142-9ed1-416579eb0bee": {
+    "id": "f5ebd122-bdcd-5142-9ed1-416579eb0bee",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Icon of Magnus",
+    "cost": 300,
+    "description": "This holy icon of the legendary Emperor Magnus the Pious instils faith and determination in those who follow it, rendering them immune to fear from anything but the most terrible of monsters, such as giants or dragons, and even then their terror is muted.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "dcca8655-9f83-555b-9ecc-95a88827a028": {
+    "id": "dcca8655-9f83-555b-9ecc-95a88827a028",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Imperial Banner",
+    "cost": 200,
+    "description": "Woven upon elven silks and emblazoned with both the commandments of Sigmar and the sigil of the reigning Emperor, this banner fills nearby troops with a sense of pride and duty. Any soldiers nearby enough to see the banner are significantly more likely to resist fear or rally from a rout in good order, as well as to keep their heads rather than go rushing in. The strength of the Empire is in discipline, not mad bloodlust.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "80336e3b-0926-5666-a0d4-e29fa0de3a33": {
+    "id": "80336e3b-0926-5666-a0d4-e29fa0de3a33",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Jade Griffon",
+    "cost": 300,
+    "description": "Carved from enchanted jade into the shape of a griffon with wings outstretched and said to have been blessed by Magnus the Pious himself (or at least the original was, the jury’s out on this copy), this pectoral is worn on the chest, and when activated glows with a radiant green light, suffusing the wearer with tremendous vitality. Although its power can be overwhelmed by sheer amounts of damage, lesser wounds can be healed within moments of being inflicted, and even greater ones will knit and mend rapidly under its power.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "39367a54-69fc-5cb7-a43e-2ddfd13f1176": {
+    "id": "39367a54-69fc-5cb7-a43e-2ddfd13f1176",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Keeping Up Appearances",
+    "cost": 200,
+    "description": "Appearances are vital in noble society, and you’re a master of them. Whether fancying up your mansion to accommodate a famous guest, disguising your penury with clothes that look far more expensive than they are, or concealing your intentions to have your dinner guests knifed by ruffians the moment they leave your hospitality, only the very keen - or very paranoid - will suspect anything lies beneath whatever facade you choose to show.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "ca9c7d53-0f40-5bfe-ab6d-216b8b38b634": {
+    "id": "ca9c7d53-0f40-5bfe-ab6d-216b8b38b634",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Kislevite Witch",
+    "cost": 100,
+    "description": "This noblewoman, hailing from the Tzardom of Kislev, is strikingly beautiful, with eyes the colour of a blue winter sky, and silver-blonde hair worn in a long braid. Both for her beauty, her singing voice and her power she would have been a woman pursued by many in that northern kingdom - had the manifestation of her great powers over the Lore of Ice not been so disastrous. Though the ice-witches of Kislev are offered great honour and prestige, she has fled her home in shame and sees her powers as a curse. If you were to investigate the circumstances of her flight - or persuade her to tell you - you would find that she was to be the new Boyar of a large town. On the eve of her coronation, her long-dormant magic manifested with a vengeance, causing mass terror, plunging the town into an eternal winter, and injuring her beloved younger sister, who even now searches the Old World for her. With time and emotional support, though, her magic may reach its full expression, and she could take her place as one of the great sorceresses of the world. Perhaps one day she’ll raise castles of ice, call armies of angry spirits into bodies of snow and icicles, or weave scintillating dresses from frost and diamond dust. She’ll just need some help along the way.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "cc939ee2-1d2d-5e57-924c-a4991b693c68": {
+    "id": "cc939ee2-1d2d-5e57-924c-a4991b693c68",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Knightly Virtues",
+    "cost": 100,
+    "description": "Although Brettonia is the heart of chivalry and knighthood in the Old World, that’s not to say the Empire’s nobles simply sit back and let the lower classes do all the fighting. Far from it! You’re trained in all the skills required to be an excellent knight; you’re practised in fighting in heavy armour on foot and horseback, you’re an exemplary rider, and perhaps most interestingly of all you have a knack for taming and training mounts, whether they be a simple horse or something more exotic, such as a demigryph or even a true griffon.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "cf526761-9616-55f8-ba45-0a67ecdf49cf": {
+    "id": "cf526761-9616-55f8-ba45-0a67ecdf49cf",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Laurels of Victory",
+    "cost": 200,
+    "description": "These enchanted laurels are only awarded to the greatest heroes of the Empire. Made out of solid gold, they glitter magnificently in the sun, and the triumph they represent causes their wearer to appear as a figure of great power, striking fear in the hearts of their adversaries.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "27d43f61-242a-5154-b21c-e4e8434b22b1": {
+    "id": "27d43f61-242a-5154-b21c-e4e8434b22b1",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Many-League Boots",
+    "cost": 100,
+    "description": "Many a traveller would not just kill to get these. A pair of boots, enchanted by a Jade magister to help in wandering the many places of this world. When worn, they hinder the elements from stopping your movement, vines loosening and mud hardening to allow passage. Even more practical is the cleaning enchantment put upon it, letting grime, wear and dampness never touch them or your feet. If they are broken by other means, expect a new pair within the week.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "fdaefa70-0882-5d98-a3c8-839b070526d8": {
+    "id": "fdaefa70-0882-5d98-a3c8-839b070526d8",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Oaths of Friendship",
+    "cost": 200,
+    "description": "When the young Sigmar saved the High King of the dwarfs, that cemented the friendship between the mountain people and those of the burgeoning empire. Like the young warrior, you too find yourself capable of forging fast friendships with even the most prickly of characters, a friendship that will rapidly grow in strength over time as you spend time together, or aid each other. In days like these, it is essential to stand by those you trust, and lean on their strength when yours isn’t enough.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "59a7be82-9fe0-54ce-9e7d-529c4ff9f123": {
+    "id": "59a7be82-9fe0-54ce-9e7d-529c4ff9f123",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Power Stone",
+    "cost": 100,
+    "description": "This stone contains a reserve of magical power which will aid the casting of any one spell before being expended. Its power will return in a day.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "12c2076a-45e6-5e75-85d4-c5411e87e638": {
+    "id": "12c2076a-45e6-5e75-85d4-c5411e87e638",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Recipe for Success",
+    "cost": 100,
+    "description": "Not all power is concentrated in the nobility - most know the actual power of wealth, that even a lowborn can aspire to be equal to their 'betters'. This lass is fully aware of that. After her father disappeared in a rather unfortunate run-in with some loan sharks from Araby, she was left to fend for herself. So naturally, she opened a shop with a partner, who soon after left for other ventures. It's been a few years since then, though - now grown up, she's looking for a new business partner or a new source of rare materials. Savvy, knowledgeable, chatty and a bit airheaded, she's a friendly one, finding it easy to loosen lips for information about the current market. Surprisingly naive for her position, she's quite open to many new opportunities, amassing wealth like a dwarf amasses grudges out of sheer habit. She's a highly skilled merchant, to a degree that even as a child she could outbid a dwarf for twofold the price. Her shop, which comes with her friendship, is also a place of good financial fortune. All of her goods are of very high quality; even though the goods have no supplier of such skill, you'll find swords of high durability and seeds of incredible fertility sold there. Almost like she's got some hedgecraft, but she'd definitely not have learned that at her grandmother's knee. Just don't question what she does with the weird things she asks you to fetch whilst journeying.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "965147c2-f877-53f1-8215-d01e4fa3b413": {
+    "id": "965147c2-f877-53f1-8215-d01e4fa3b413",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Rod of Power",
+    "cost": 200,
+    "description": "This staff is carved with spiralling runes along its length. These runes can absorb and store magical energies from the environment, or even power gathered or left unused by their enemies, the better to power their own spells in turn. It has a limited capacity, able to store only enough power to fuel one truly significant battle-magic spell, but that’s no small amount.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "dd3bcb4a-d355-5025-be84-1fb711dda215": {
+    "id": "dd3bcb4a-d355-5025-be84-1fb711dda215",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Statesman Supreme",
+    "cost": 600,
+    "description": "Karl Franz is acknowledged as perhaps the greatest statesman the Old World has ever seen - but now he has a rival in you. You are a consummate politician, able to rise to the top within almost any organisation you care to and to wield your political power with the same finesse as a master artist composing a painting. Webs of alliances, feuds and other relations are as plain in your mind as what you see before you, and you understand the ramifications of this or that move in the great game of politics with ease. You can still be caught off guard but will be able to recover from all but the most terrible of falls from grace with ease. All that remains is to ask whether you will put your prowess to the cause of aiding the Empire as a whole, or your own personal advancement.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "d57a3527-4948-51f5-97ec-efb68e02942d": {
+    "id": "d57a3527-4948-51f5-97ec-efb68e02942d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Steel and Gunpowder",
+    "cost": 100,
+    "description": "A proper set of Imperial equipment, as granted to a soldier of your skills. You have a standard set of what you’d expect a member of one of the state armies to carry. A couple of good weapons, to start with. What you get depends on your role in the army - a spear, a halberd, a sword and shield, a crossbow, a pair of pistols, a musket, and a bow are all viable choices. You also get a decent set of armour consisting of a breastplate, a helmet, and some leg protection to wear over your uniform, which depends on what province you live in or what regiment you’re part of.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "b5d7ffe3-2ebb-5225-9f7f-9b3bc8c79657": {
+    "id": "b5d7ffe3-2ebb-5225-9f7f-9b3bc8c79657",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Sword of Righteous Steel",
+    "cost": 300,
+    "description": "Forged from the purest steel and blessed by priests of Sigmar, these blades are given to paladins who fight in the name of righteousness. The holy blessings laid upon them give them a supernatural swiftness and ensure they seek out their enemies’ vitals while making them almost impossible to parry. Even the unholy alacrity of the champions of Slaanesh will avail them no more against this blade than the clumsy flailing of a raw recruit.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "5cd2e6f6-ea0a-54ef-a08b-ad7bad53630d": {
+    "id": "5cd2e6f6-ea0a-54ef-a08b-ad7bad53630d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Tarnished Warrior",
+    "cost": 100,
+    "description": "The daughter of a chieftain who grew up in the Badlands to the south, she has grown into a mighty warrior indeed. Bearing two axes that hold the power of the winds, she has carved through many greenskins in her travels, and is always seeking to prove her strength.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "f3e62f72-22ea-5a4d-8bbf-d5fd4af59b7e": {
+    "id": "f3e62f72-22ea-5a4d-8bbf-d5fd4af59b7e",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "The Orb of Thunder",
+    "cost": 300,
+    "description": "Imbued with the powers of a great Celestial wizard, this orb can call dark thunderheads and mighty winds to swirl overhead, bringing torrential rain to the ground, and driving all but the most suicidal of flying beasts from the air. The Orb grants no special ability to control the storm, however, and unless used carefully may prove as much a curse as a blessing.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "125432e7-f278-55af-9ff1-ad08234f3797": {
+    "id": "125432e7-f278-55af-9ff1-ad08234f3797",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "The Silver Horn",
+    "cost": 300,
+    "description": "A beautiful horn enchanted with a powerful effect. All friends and allies of the owner who hear the call will find their mettle strengthening, hearts growing more courageous and determined to face what is ahead of them. Furthermore, the horn’s clarion can be heard no matter how loud the environment, carrying across an entire battlefield without dimming. Legends say that those close to the horn’s wielder may be able to hear it no matter where they are.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "368e974e-579c-53f3-805a-6e31f98bc7d7": {
+    "id": "368e974e-579c-53f3-805a-6e31f98bc7d7",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Thunderous Oratory",
+    "cost": 400,
+    "description": "Any priest can recite the litany from the pulpit and get some polite applause and nodding heads. It takes real charisma to have a crowd howling prayers to the heavens to take up whatever comes to hand to wield against the hordes of Chaos themselves. You have this charisma, the kind of oratorical abilities that could calm a rioting mob, or stir a congregation of downtrodden peasants to rebellion. If you have the time to work on a community, they’d follow you into the jaws of the Chaos Wastes themselves, or hurl themselves against the undying armies of Sylvania if you told them it was the will of the gods. Try to use this for good.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "e3b5fc67-1d4e-5615-9664-a9a07a569837": {
+    "id": "e3b5fc67-1d4e-5615-9664-a9a07a569837",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Trade Tools",
+    "cost": 100,
+    "description": "This trusty set of implements is what you’ll need to ply your trade. A smith’s forge, hammers and anvil. A farmer’s hoe and plough. A carpenter’s saw, nails, and workbench. What these items are is determined by what your job is, though they’re certain to get the job done.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "87ad2a35-2f5b-5dae-b33a-ac3faaae1360": {
+    "id": "87ad2a35-2f5b-5dae-b33a-ac3faaae1360",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Warden of the Flame",
+    "cost": 400,
+    "description": "This title is bestowed upon the leader of Hallowheart’s standing army, a role granted only to the shrewdest of tacticians, such as yourself.",
+    "source": "Age of Sigmar"
+  },
+  "81e272db-b3b0-52bd-810a-b673a293fcc3": {
+    "id": "81e272db-b3b0-52bd-810a-b673a293fcc3",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "We Cannot Fail",
+    "cost": 100,
+    "description": "The Hammers of Sigmar have stared down the greatest of horrors without yielding, refusing to fall until their task is completed. Your will to continue and courage are legendary.",
+    "source": "Age of Sigmar"
+  },
+  "efa79e96-ac5c-5067-9ea7-52bad28f364f": {
+    "id": "efa79e96-ac5c-5067-9ea7-52bad28f364f",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "White Cloak of Ulric",
+    "cost": 300,
+    "description": "Hewn from the pelt of a great white wolf, this symbol of Middenland was blessed by none other than the high priest of the Cult of Ulric. Such is its sacredness that the Winter God himself looks favourably upon the wearer of this garment, surrounding it with a supernatural aura of cold and frost, slowing the movements of those who dare assault you, as well as foul their blows with howling, frosty winds which will quench even the most searing flames",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "9d08dccb-940d-5bd7-aa55-2745000a1c61": {
+    "id": "9d08dccb-940d-5bd7-aa55-2745000a1c61",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Witch Hunter",
+    "cost": 200,
+    "description": "The world is dark, and terrible things slink in the shadows, or behind the closed doors of those who think themselves above the laws of gods and men. Fortunately, you have a real talent for investigation and sniffing out evil, corruption or simply the sources of discord in a community. You may not quite be at the level of Sherlock Holmes, but you could do a fairly good impression of the great detective, whether hunting down the source of heresy, rooting out a Slaaneshi cult, or deducing whose goats ate all of Herr Kellner’s cabbages.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "6337da3c-173a-53f7-b513-36e6eb55ffdd": {
+    "id": "6337da3c-173a-53f7-b513-36e6eb55ffdd",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Wizard’s Staff",
+    "cost": 100,
+    "description": "Although of little use to one without the capability to control the Winds of Magic, these staffs aid somewhat in the shaping of spells and the command of chaotic magical energies.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "94023e54-0cb8-50de-b20e-2cdbc1ab8888": {
+    "id": "94023e54-0cb8-50de-b20e-2cdbc1ab8888",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Wyrmslayer Sword",
+    "cost": 200,
+    "description": "A blade passed down from Ulfdar, a berserker who is said to have fought alongside Sigmar at Black Fire Pass, this blade is enchanted by ancient druids to be the bane of monsters of all kinds. Its strikes ignore the supernatural toughness of all foes, cleaving their flesh as though they were but men and it slips between the gaps in the natural armour of great beasts and monsters to strike at the body beneath.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "17e1079d-ab9c-5f66-a5d5-56a367830709": {
+    "id": "17e1079d-ab9c-5f66-a5d5-56a367830709",
+    "category": "codex_fantasy_edition",
+    "chapter": "Men",
+    "name": "Your Title’s Worth",
+    "cost": 200,
+    "description": "This safe, about the size of a medium crate, is filled with mundane treasures that you would expect a noble to have during a good period of rulership. From simple gold and jewels to more exotic materials that would sell for much, even some weak magical items that are valued heavily. This’s the level of money you’d expect a local baron to have, fully liquidated.",
+    "source": "Warhammer Fantasy: Empire of Man Jumpchain 1.0 - Elector Count Edition"
+  },
+  "803bc734-fa3d-5dfa-b64b-46dac2d76501": {
+    "id": "803bc734-fa3d-5dfa-b64b-46dac2d76501",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "A Majestic Beast",
+    "cost": 400,
+    "description": "The tales of your exploits reach far beyond even the limits of the Ogre Kingdoms. Your adventures have given you a grand sort of aura, one that lets people know you’re a man who has seen many great things and done even more amazing things. Your enemies see this too and for all but the ones that hate you specifically, it makes them terribly reluctant to actually kill you. Capture you instead, for surely you have some valuable information or knowledge to share. Prove your worth enough in battle and your foes may even decide to release you, considering such a worthy foe to be something that cannot be lost so easily. You might even get a job offer out of the deal, if you’re the right sort of Ogre.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "059f6e3d-9aad-59fd-85e8-d89cf624a696": {
+    "id": "059f6e3d-9aad-59fd-85e8-d89cf624a696",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Ancient Frost Dragon",
+    "cost": 600,
+    "description": "You might just be the first Ogre to ever tame a dragon. It’s not baby dragon either, but an elder Frost Dragon of the Mountains. It took an epic struggle lasting multiple days and nights but you made the beast kneel to you. Big as a Stonehorn, with fangs and claws that slice through those beasts like a hot knife through butter and able to breathe out an icy gale that can render an entire tribe of Ogres into a single ice block. With this beast alone you could potentially lay claim to the Overtyrant’s throne. Certainly, it would take a whole tribe to defeat the two of you together.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "b96d5433-e2e2-5237-83e1-e8727687c8a7": {
+    "id": "b96d5433-e2e2-5237-83e1-e8727687c8a7",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Blood Vulture",
+    "cost": 100,
+    "description": "A smaller, less impressive pet than what some Hunters may keep company of. The Blood Vulture is certainly larger than any species of Vulture outside of the Ogre Kingdoms. Ferocious and with claws that can decapitate a man from above in the blink of an eye, your new Blood Vulture will be a loyal pet. It’s certainly amusing watching the Gnoblar run from it and it can help you scout out an area and spot hiding foes much easier then you yourself could.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "2c37dba3-2482-5a53-a4b9-d1619e1e2f0a": {
+    "id": "2c37dba3-2482-5a53-a4b9-d1619e1e2f0a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Bonewood Staff",
+    "cost": 400,
+    "description": "A staff composed completely of one solid bone of unknown origins, bearing many glowing green glyphs. Wielding this staff in battle is easily as effective as walking in with a massive cudgel or a fine longsword, and besides the effectiveness as a hand weapon it makes the user's difficult to harm or hinder using magic. This Magic Resistance is potent enough to completely diffuse spells about half the time and allows him to use magic with greater ease, easily channeling the energies of the magic safely.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "254f2042-ba8d-5675-8519-dd783fac3e91": {
+    "id": "254f2042-ba8d-5675-8519-dd783fac3e91",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Boss Pole",
+    "cost": 100,
+    "description": "Savage is the warlord and the tradition of placing skulls upon poles to show might has been a long held one. Every foe that you defeat who put up a good fight, or bore great significance to a people/society, will find their skull upon the mount of your Boss Pole, or if the skull is too large to carry on your person it will be obviously incorporated into your gear somehow. This will inspire dread in your foes for sure.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "67530146-83f4-5d76-98d5-2594094e3a30": {
+    "id": "67530146-83f4-5d76-98d5-2594094e3a30",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Brave Grott",
+    "cost": 100,
+    "description": "A strangely intelligent goblin, this one has more in common than a mischievous child than the typical example of their kind. Perhaps it’s their desire to fit in, a theory that is reinforced by the thick clothing and porcelain mask they wear at nearly all times.",
+    "source": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "4d12275a-00f8-52b7-8690-5d6fbd511352": {
+    "id": "4d12275a-00f8-52b7-8690-5d6fbd511352",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Bray-Shamaness",
+    "cost": 100,
+    "description": "Beastwomen are said to be docile and gentle creatures, a stoic counterpart to the male horned ones. Yet they are still fully capable of fighting as well as any other beastman, and it’s not impossible that one could climb the ranks - fighting her way up as all cloven ones do. This one that has deigned to accompany you however, was born into the high ranks of Bray-Shaman.",
+    "source": "Warhammer Fantasy - Beastmen."
+  },
+  "d7e8d329-108e-5e66-b74e-42c84a1ce10a": {
+    "id": "d7e8d329-108e-5e66-b74e-42c84a1ce10a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Bringing Down the Mountain",
+    "cost": 100,
+    "description": "The Iron Skin tribe made their fortune by utilising the many avalanche-capable mountainsides to easily bury much greater foes and then steal their stuff. This level of environmental awareness is quite surprising for any common Ogre, much less an entire tribe to have, but it serves them and you well. You can easily recognise the spots that make things fall apart in structures of the environment and know how to direct that falling apart to your advantage, whether you block off a passageway or just crush your foes with a few hundred boulders.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "2ac58984-4866-5bcf-859a-1ee5cbf76ae3": {
+    "id": "2ac58984-4866-5bcf-859a-1ee5cbf76ae3",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Cannon",
+    "cost": 100,
+    "description": "Taken straight from the deck of a pirate ship, this is cannon any leadbelcher would be proud to own. It does exactly what you might expect a cannon to do, including such wonders as loading gunpowder and firing out cannonballs, or other bits of metal junk, when lit with a fuse. It’s lucky you’re an Ogre, since that’s the only reason you can lift this by yourself and swing it around as you please. It never seems to need reloading or filling with gunpowder, though you still need a fuse to set it off.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "e8750117-5f68-52ae-9126-1e0e3bba5ed4": {
+    "id": "e8750117-5f68-52ae-9126-1e0e3bba5ed4",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Choppa",
+    "cost": 0,
+    "description": "A term applied to a multitude of basic Greenskin close-combat weapons. This category of weapon consists of a bewildering variety of bladed, spiked, serrated, jagged, barbed, and notched hand weapons, ranging from the proverbial blunt instrument to massive two-handed weapons that are said to weigh more than a knight in full plate armor. You get a single one of these magnificent weapons free of charge.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "10e66b0d-aa58-510b-8604-cb317b8cca42": {
+    "id": "10e66b0d-aa58-510b-8604-cb317b8cca42",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Cleanliness is Close to Godliness",
+    "cost": 200,
+    "description": "Your job is a dirty one and the Maw ensured you would carry out your grisly duties. What use are you if you die to some meal laced with poison? A Butcher dying from the act of eating is the worst sort of blasphemy to the Great Maw. Poison and disease, waste and filth, none of it will harm you. You’ll still get dirty, disease may still work its way into your body, but you’ll never be harmed or weakened by the stuff. You can ensure that the food you prepare is in the same way as well, letting all your dinner guests eat in even the filthiest of conditions without fear of sickness.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "0035537d-43c6-5c1d-83c2-db08156bdd66": {
+    "id": "0035537d-43c6-5c1d-83c2-db08156bdd66",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Da Shinies Cave",
+    "cost": 400,
+    "description": "In addition to being a good leader you have a knack for finding things relevant to your personal quest. Whilst this isn’t an exact sense, finding things takes looking for them after all, you’ll be able to find just about anything if you set your mind to it from an abandoned dragon’s den to a long lost magic dwarven warhammer. This ability can get you with a few miles of the object in question before it just starts to go ‘Round ‘ere!’. This usually wouldn’t be such a good thing but by designating a point within your local as the place where you put things you can allow those under your orders to share this sense and find things themselves, as long as their objective is to put it in your treasury.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "da8b3583-2ec5-5fa2-8dc5-764c46c27f29": {
+    "id": "da8b3583-2ec5-5fa2-8dc5-764c46c27f29",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Feels No Pain",
+    "cost": 200,
+    "description": "It’s actually not that you don’t feel it. It’s just that you don’t have to care about it. Wounds are just the countdown to death and to allow them to hinder you would be foolish as that would only invite more wounds. This allows you to ignore wounds most would consider fatal, and which still are fatal, to finish a fight before getting yourself seen to. This only the ability to ignore the wounds, not the ability to stop them from killing you.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "bf9cc734-696b-5019-a851-48bcbadd4fe1": {
+    "id": "bf9cc734-696b-5019-a851-48bcbadd4fe1",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Fungus Cave",
+    "cost": 200,
+    "description": "A cave full of different edible fungus that can be easily processed into all kinds of stuff. From the Night Goblins various concoctions to the ‘amazing’ Fungus Beer, which is strong enough to get a Giant drunk, the fruits.... Er spores of this cave will allow you to produce many ‘valuable’ things.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "ec9fb101-f058-5db1-8e26-092caad0f7b5": {
+    "id": "ec9fb101-f058-5db1-8e26-092caad0f7b5",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Giant Wolf/Boar",
+    "cost": 100,
+    "description": "The mounts of the shaman develop a deep bond with their masters. The common mounts of the Greenskins are massive horse sized boars and wolves which could carry a Greenskin across some of the most treacherous terrains quite easily.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "0a011b77-b71f-5eec-8d60-d8fdcbaccb48": {
+    "id": "0a011b77-b71f-5eec-8d60-d8fdcbaccb48",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Glowy Gubbins",
+    "cost": 100,
+    "description": "Proppa Waaagh!gear is created in the forges of the various Goblins, Black Orcs, and Shaman tents. Orc and Goblins carve glyphs which fill with the the power of the Da Great Green, sending them smouldering green with dark smoke, verdant flame, and emerald lightning. These magical items are more effective at the job they are used for, a sword cuts with greater ease and armor which could protect against cannons are among the things you could see crafted in this way. Whilst the weapons enchantments are usually crude they always make a item better than it was before.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "98fbf592-ae29-5e06-b936-641bf1e6e386": {
+    "id": "98fbf592-ae29-5e06-b936-641bf1e6e386",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Good is Gross-",
+    "cost": 100,
+    "description": "What did you expect? You’re a Butcher and thus you’re an amazing cook. For a race that quite literally worships the act of eating, how could a bad cook be tolerated as the priest of their great God? Sure, you’re messy and most of your creations look pretty gross to anything more intelligent than an Ogre but it won’t change the fact that each and every dish you prepare, even with half rotted ingredients, is going to taste divine. If a Butcher like you could ever turn away from the Maw and make some clean looking food, you’d take the world by storm with ease",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "83e5d44d-9922-5cdb-8384-8737452be363": {
+    "id": "83e5d44d-9922-5cdb-8384-8737452be363",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Great Fang",
+    "cost": 200,
+    "description": "A pale sword, crudely shaped but sharp enough to cut through the armor of man-filth and stunted dwarf alike without ever dulling its edge. The Great Fang was first ripped from the jaws of an old Dragon Ogre Shaggoth, and over generations was beaten and chipped away by the Bray-Shaman until the already sharp bite became like a razor. Carved and painted with blasphemous and filth-ridden runes in the Beast Tongue, the Great Fang was complete - and has now come to your hands, against all odds.",
+    "source": "Warhammer Fantasy - Beastmen."
+  },
+  "7d3f9891-7567-5eb8-b2cc-af7e0ff234b1": {
+    "id": "7d3f9891-7567-5eb8-b2cc-af7e0ff234b1",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Horn of Winter",
+    "cost": 400,
+    "description": "One of the immense, twisted horns used to call the Yhetee to war has fallen into your hands. When a Tyrant wishes to have the aid of his frosty cousins, he’ll blow long and hard into this horn and have the Yhetee at his side in just a few hours. With it, you can call those same allies to your side or use it to call other friendly members to your faction to you. The sound of the horn can reach for dozens of miles and can only be heard by those allies who would honestly respond to your call for aid, which they will know it is you who calls. As long as they are within range of the Horn’s call, they’ll appear at your side to aid you within an hour at most.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "3574e7e1-ff96-5ac5-9ef5-2ad49f5a3f67": {
+    "id": "3574e7e1-ff96-5ac5-9ef5-2ad49f5a3f67",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Hunter’s Tools",
+    "cost": 100,
+    "description": "This is what you’ve gathered and made over the course of your life before now, tools of the trade and trophies from past, younger hunts. Warm and thick furs of boars, wolves and a Sabretusk or two. Massive spears and blades to slay creatures, along with all the tools to skin and disassemble them. An Ogre has no need for shelter, so you have no tent or tools for fire, but you hold a number of lures and poisons in your sturdy belt.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "3c997034-7db6-55cc-9b87-467b7231ec1c": {
+    "id": "3c997034-7db6-55cc-9b87-467b7231ec1c",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Impaler",
+    "cost": 100,
+    "description": "A spear once used by dread Gorthor, the polearm itself is made of no special qualities - holding no magic within its metal. However, the cruel weapon is almost wreathed in barbs and rings, and refuses to let any but its wielder pull it out once the spear has impaled someone. On its way out, the multitude of barbs and rings snag, tear, pull, and shred at the flesh - mangling its victim beyond all recognition, and bringing death-by-blood loss swiftly with it.",
+    "source": "Warhammer Fantasy - Beastmen."
+  },
+  "00dccd3d-09ce-5706-9ce1-d587a54f12fd": {
+    "id": "00dccd3d-09ce-5706-9ce1-d587a54f12fd",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "In Golgfag’s Footsteps",
+    "cost": 200,
+    "description": "A good Ogre tribe is never short on those willing to hire them as sellswords. The power, tenacity and stupidity of the Ogre race is known all over the world and people would be a fool to turn down your offer of service. You can easily sell yourself to potential employers on your own strengths, ignoring any biases they might have against your kind in favour of the benefits you offer. Even if you were just fighting against them only a few hours ago, they might accept an offer from you to help them if you’re genuine and the upside is big enough.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "1a78d647-3691-5a9e-8227-d1141909c77a": {
+    "id": "1a78d647-3691-5a9e-8227-d1141909c77a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "King Under the Mountain-",
+    "cost": 600,
+    "description": "This is the mountain that you grew up within. It is not one of the Ancient Mountains that the Sky Titans lived on but it remains one of the largest in the world outside that ancient range. Filled with an extensive cave system, with caves large enough to hold whole broods of Frost Dragons to those barely large enough for a child to curl up in, it is also filled to the brim with prey and beasts of all kinds. These beasts all acknowledge you as the top of the food chain here, though this manifests more as fear and respect then obeying your orders. You intimately know every inch, nook and cranny of the caves and mountain exterior, even the bits too small for you to enter as you are now. The mountain is somewhat alive, able to act against intruders by causing avalanches or snowstorms to spring up around them frequently.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "91ff885b-8ecc-5278-b163-dd4d87dbd234": {
+    "id": "91ff885b-8ecc-5278-b163-dd4d87dbd234",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Lean and Green",
+    "cost": 100,
+    "description": "It was difficult, growing up in the dark and feeding on bugs. Your lack of a paunch, the thing that got you thrown into these caves, is also what saved you. You don’t need much food to survive, despite having a gnawing hunger for more no matter how full you are. A handful of bugs or tree roots can keep you going as a healthy diet, despite your great size and energy exertion depicting otherwise. Even if you grew bigger or needed more to stay healthy, you’d always be able to survive on far less than others in the same situation might need.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "4e7e7585-217c-5a8a-a996-70edff92a823": {
+    "id": "4e7e7585-217c-5a8a-a996-70edff92a823",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Lying in Wait",
+    "cost": 200,
+    "description": "There are some creatures, particularly the Dragons or Worms that hide deep within the caves that can sleep for days at a time yet wake at the slightest intruding sound. Fighting the beast within its own den is suicidal, all Hunters know that, so they must wait outside the cave mouth for hours or days without twitching. You’re able to withstand these long, motionless waits with ease on both a physical and mental level. Even the long weeks or months spent traveling alone in the mountains, sometimes with not even an animal companion, make no ill marks on your psyche. You were born to hunt and the act of doing so, even if it might cut you off from interaction with other people for extreme periods of time, would never result in you becoming some deranged beast.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "c1419035-fa52-596b-b183-926d7b8b42d0": {
+    "id": "c1419035-fa52-596b-b183-926d7b8b42d0",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Minotaur Twins",
+    "cost": 200,
+    "description": "Two bullgor brothers, each completely identical in every respect and with a bloody rivalry betwixt, have been sent down by their gods as... Your bodyguards. Each will use their brute mass to shield you from enemy fire and assault, and are capable of sending men flying with a single violent charge.",
+    "source": "Warhammer Fantasy - Beastmen."
+  },
+  "503b8a57-d7f1-568d-9902-452494406467": {
+    "id": "503b8a57-d7f1-568d-9902-452494406467",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Mournfang",
+    "cost": 200,
+    "description": "The bigger, meaner cousins to the Sabretusks. A Mournfang is like a giant bear crossed with a lion, adding in tusks big enough to impale an Ogre. They’re big enough for a Bruiser to ride on their backs and mean enough to rip apart men and Ogres alike. Tamed by being forcibly mounted during challenges between Mournfangs in the wild, you’ve broken this one to your will and it’ll remain a faithful mount. Despite its incredible strength and size, it can run as fast as the fastest of horses and do so for quite long periods of time.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "92c70efa-9644-5cd5-bdc3-77605630483c": {
+    "id": "92c70efa-9644-5cd5-bdc3-77605630483c",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Murda’Deff, The Killingist",
+    "cost": 600,
+    "description": "Wyverns are cannibalistic predators that are known to be a distant off-shoot of the Dragon race. These creatures have been known to be opportunistic hunters, able to eat just about anything from rotting carcasses to bloated bodies amongst other filthy habits, making the Wyvern one of the most foul-smelling creatures to ever plague the World's Edge Mountains. These beasts are the most highly prized mounts within a Greenskin army, where only the most powerful Orc Warbosses or Great Shamans have the ability and unnatural bond to bind these cruel beast to his will, and this one is yours, it even seems to have a bit more dragon than most Wyvern in it. In battle, Wyverns are voracious beast that always hunger for fresh meat, and would sometimes land right in the middle of an enemy unit and feast upon their flesh in the droves while its rider hacks at the enemy that are still left. This is a terrifying event to behold and even stalwart souls find fear and flight in the face of such open brutality. In addition to that this Wyvern is able to breath fire like the Sun Dragons, burninating the countryside as well as the people's.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "2a18fe2d-4a2b-5c37-93c8-c697b91aa76a": {
+    "id": "2a18fe2d-4a2b-5c37-93c8-c697b91aa76a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Pet Gnoblar",
+    "cost": 100,
+    "description": "A favourite little pet of yours, out of the many Gnoblars to be found. It sees you as its personal God and Master, never even considering the idea of betraying you. It’d throw itself into a fire to make you laugh. For a Gnoblar, it has surprisingly good skills at cooking too and can work as an able assistant in the kitchen. It’s also quite trusted by other Gnoblars, Goblins and small creatures, despite never having their interests in mind on the same level as it has your own.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "242281d0-7129-5e68-90a8-36c9a38da48e": {
+    "id": "242281d0-7129-5e68-90a8-36c9a38da48e",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Professhunal Krumping Champion",
+    "cost": 100,
+    "description": "Every Greenskin has a proper amount of killing skill instilled into them by their instincts but you have even greater amounts. Any melee weapon you pick up can be used with a blunt form of what could be kindly called ‘grace’ and unfamiliarity bleeds away with use. Ranged weapons may not become more accurate from this ability to ‘pick up’ skill but you’d be able to fire half a dozen arrows in the time it takes for most take to line up one shot. This ability allows you to skip the inital rote skill development via being an awesome Greenskin.",
+    "source": "Warhammer Fantasy - Orcs and Goblins"
+  },
+  "03aafc58-b9cd-5858-a2cc-e1fdade0d49b": {
+    "id": "03aafc58-b9cd-5858-a2cc-e1fdade0d49b",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Rune-Tortured Axes",
+    "cost": 200,
+    "description": "It’s unclear what culture these shining, rune-covered axes came from. But one thing is certain - the flames that cover both of their blades will not be extinguished, even should an Ice Witch of Kislev use her coldest spells upon them. Resonating with your bestial fury, the axe will cook flesh as it cleaves, and melt through the armor of mankind’s champions with little effort.",
+    "source": "Warhammer Fantasy - Beastmen."
+  },
+  "255af464-8287-5cd8-8e7b-4c9579fa2d0e": {
+    "id": "255af464-8287-5cd8-8e7b-4c9579fa2d0e",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Skull of the Unicorn Lord",
+    "cost": 400,
+    "description": "Atop your scalp or hanging from your belt is a skull - a relic of one of your greatest conquests, a lord of unicorns that you tore limb from limb. Its beautiful horn still glimmers, even through the filth and the depravity you engage in, and this horn holds power. So long as the unicorn’s skull is on your body, offensive magicks and curses wash off of you like mud in the rain, a fireball only lightly singing your fur whilst an Amber Spear would glance off your skin - if the amber wizard’s lucky, grazing you with a light slice. Be warned, however - unicorns are friends to all creatures aligned with nature and light, and should they see this skull... Actually, I’m sure you’re already looking forward to making hateful enemies.",
+    "source": "Warhammer Fantasy - Beastmen."
+  },
+  "d5bb54c2-b7cd-584b-9957-ed5bb978233f": {
+    "id": "d5bb54c2-b7cd-584b-9957-ed5bb978233f",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Tall Tales",
+    "cost": 100,
+    "description": "Maneaters gather up plenty of stories in their adventures, yet they still exaggerate and make up stories even more impressive then the amazing stuff they actually experience. Even the most famous of adventuring Ogres do this. Why? All part of the fun. Every Ogre knows there’s half a chance you’re full of shit but the fun is in how good you are at telling stories anyway. And you are good. You’re both a greatly entertaining storyteller and a consummate liar, able to mix the two to paint yourself as one of the great heroes of the age with ease.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "3c448717-2d8e-5d5d-8692-0e123e651d07": {
+    "id": "3c448717-2d8e-5d5d-8692-0e123e651d07",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "The Beast-Paths",
+    "cost": 100,
+    "description": "Normally you would know where these were found criss-crossing about the Old World - how else do the Cloven Ones ravage between villages with such speed as they do? The Beast-Paths are their secret roads, and now these roads through the wilderness and woodlands are always with you - appearing whenever and wherever you need one, in this world and those to come.",
+    "source": "Warhammer Fantasy - Beastmen"
+  },
+  "81fd9831-af37-52ff-91fc-30e8ffae15b5": {
+    "id": "81fd9831-af37-52ff-91fc-30e8ffae15b5",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "The Dark Heart",
+    "cost": 400,
+    "description": "A fist-sized, dark red gemstone - made before the coming of Sigmar, when a Beastlord and an Elven Wizard clashed. The Beastlord attained victory, and ripped the Wizard’s heart out of his chest - a death brutal enough that Khorne smiled, and crystallized the heart whilst capturing the Gor’s wrath deep within. The gem emanates a light, and all that its rays shine upon find that their hate and their longing to kill and fight invigorate them twice-fold. A horde under The Dark Heart’s influence will know no need for rest, no need for sustenance, going from a day’s march straight into charging down an enemy’s ranks - sustained only by their hatred.",
+    "source": "Warhammer Fantasy - Beastmen."
+  },
+  "b84ed1e4-3121-5df5-a20d-7cd2cbe1127d": {
+    "id": "b84ed1e4-3121-5df5-a20d-7cd2cbe1127d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Thiefstone",
+    "cost": 400,
+    "description": "A mysterious little stone on a string, imbued with powers against magic and to find magic. Wearing the pendant grants a small amount of magical resistance to the wielder and increases the power of any existing magical resistances the wielder has. It also can detect magical items and draw them towards itself, a common practise being to wave it over corpses to collect any hidden magic trinkets the corpse may have had in life.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "a384bdd9-bfc7-5326-bd86-eb8b9ee2d70a": {
+    "id": "a384bdd9-bfc7-5326-bd86-eb8b9ee2d70a",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Titan Ship",
+    "cost": 600,
+    "description": "The Sky Titans were magnificent engineers, matching or even surpassing the Dwarves in the marvels they could create. Amongst those marvels were the Sky titan Cannons used against the Ogres in the war in heaven. Each cannon is several times the size of an Ogre and fires whole clutches of cannonballs at once. The cannon fires with such power and quantity that it can tear an entire navy ship in half with a single blow. God thing too, given you’ve received a dozen of the great cannons and a pirate ship large enough to handle them and a crew of a few dozen Ogres as well. It’s fast, tough and enormous, serving you well on the high seas. It’d take a whole fleet to take you down with the Sky titan Cannons mounted on the sides, front and back of your flagship.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "6f2ff4a5-bf6e-58d4-ba86-bc9367c43524": {
+    "id": "6f2ff4a5-bf6e-58d4-ba86-bc9367c43524",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Tyrant Crown",
+    "cost": 400,
+    "description": "A crown fit for any Tyrant, made in the image of that of the Overtyrant Greasus Goldtooth’s own. Wearing this ogre-sized crown increases the wearer’s intelligence, making humans into geniuses and Ogres are able to match normal humans. It has many protective enchantments, giving the wearer a good defence against all kinds of magical effects directed against him, and when worn and visible, will protect any nearby allies of the wearer from suffering from any sort of fear, uncertainty or madness.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "77112967-6114-5cf5-9937-b303398e2cac": {
+    "id": "77112967-6114-5cf5-9937-b303398e2cac",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Wolf Pack",
+    "cost": 100,
+    "description": "A Hunter needs his pets to be controlled. Why bother training a Sabretusk if it’ll snap your neck in the night or run the first time a big beastie lands in front of you? You’re a good, experienced hand with taming animals but it’s once they’re tamed that you show your worth. Once you’ve tamed a beast, it’ll never disobey you. Even if one of those big ugly Chaos Dragons is staring down your poochie, it’ll stand its ground beside you without a blink. If a witch or wizard tries to use beast magic to control one of your pets, they won’t be entirely powerless but those magic users will find it far more difficult to influence any of your hounds, particularly when you are there with them.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "136dccde-9402-5e0e-81a1-84f3d348c79d": {
+    "id": "136dccde-9402-5e0e-81a1-84f3d348c79d",
+    "category": "codex_fantasy_edition",
+    "chapter": "Orcs, Goblins, Ogres, & Beastmen",
+    "name": "Your Money and Your Life",
+    "cost": 100,
+    "description": "A ransom is a delicate business at times, usually too delicate for an Ogre. You need to strike a balance between the threat given and the tribute asked for. Too much is asked for, and they might decide it’s best to fight for their lives anyway. The Thunderguts, despite a long history of making ransoms and then taking the hostages anyway, seem to manage just fine. You’re not just excellent at getting just the right hostages to get the ransom you want, but also in making people believe you’ll uphold your end of the bargain, even if you haven’t several times before now.",
+    "source": "Warhammer Fantasy - Ogre Kingdoms"
+  },
+  "fd9ba359-2c2c-56a9-98ec-e0729829bd05": {
+    "id": "fd9ba359-2c2c-56a9-98ec-e0729829bd05",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "A Monument to Time Itself-",
+    "cost": 400,
+    "description": "You built things to last. A monument to death that itself dies may have a certain appeal to more philosophical sorts but you wanted your monuments to last for eternity, so that everyone would look upon them and know the glories that your mind had wrought. What objects or structures you create, by your own hand or by your direction, will last forever. The passage of time and the environment around it will not degrade it or damage it or destroy it. Even blows against it, attempts to demolish what you have made, will see their blades break long before the stone you laid down does. Your creations are imbued with supernatural durability, though they will not last forever or be protected against anything, they will be proof against mere mortals trying to defile your art.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "09c9a11d-e00b-517c-8f41-b01f14decf28": {
+    "id": "09c9a11d-e00b-517c-8f41-b01f14decf28",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Bat Form",
+    "cost": 100,
+    "description": "You can transform back and forth from a bat at will, subsuming your clothing and equipment into the transformation.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "d92f1356-d045-5e2a-b2c1-a7990c9d77cc": {
+    "id": "d92f1356-d045-5e2a-b2c1-a7990c9d77cc",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Blood Chalice",
+    "cost": 400,
+    "description": "This magic chalice was used by the Order of the Blood Dragon in mockery of the Lady of the Lake and her own Grail. Walach Harkon added the blood of any opponent he respected, from knights and witch hunters to even his own lover Aurora. Dipping a weapon in the chalice will enchant it and set it aflame. Drinking from it instead heals wounds.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "b582c2e5-af1a-5b6f-95ae-078a6ef05907": {
+    "id": "b582c2e5-af1a-5b6f-95ae-078a6ef05907",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Call Forth Thunder",
+    "cost": 100,
+    "description": "Once per day you can instantly create a storm severe enough to blot out the sun and allow you to walk in sunlight. The storm will last for hours.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "f51a6d33-8c47-5317-b4ad-9f24f4fc1a14": {
+    "id": "f51a6d33-8c47-5317-b4ad-9f24f4fc1a14",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Chariot of the Gods",
+    "cost": 400,
+    "description": "An immense golden chariot with scythed wheels, drawn by four similarly large, skeletal horses. This chariot has been blessed by each God of the desert, granting it speed far beyond any other chariot, the ability to move smoothly on any terrain no matter how uneven or dangerous and the ability to light itself on fire with holy flames, flames that will only damage the enemies of the rightful driver, yourself. The Chariot and its mounts can batter their way through anything short of a warded tomb wall and each horse will act to strike out at any foe who comes too close. The chariot will never break and nothing short of an outright attack will make the horses trip or stumble.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "48c9ccb6-4600-53bd-b60e-0aef4b0cfec4": {
+    "id": "48c9ccb6-4600-53bd-b60e-0aef4b0cfec4",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Cloak of the Dunes",
+    "cost": 200,
+    "description": "A long brown cloak originally created by Khsar, the God of the Desert Winds. When worn, the user can transform themselves into a living sandstorm, whirling across the dunes at great speed. Not only is the sand storm violent enough to strip skin and muscle from bone in under a minute, a large trail of whirling sand at almost the same speed is left behind the wearer as he travels, allowing him to trap people in dangerous sandstorms. This form may be held for a few minutes at a time, needing a short rest in between uses before the cloak will allow the user to transform again.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "e6053926-9aeb-54d8-a263-30a4bfc1a9a2": {
+    "id": "e6053926-9aeb-54d8-a263-30a4bfc1a9a2",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Dark Majesty",
+    "cost": 100,
+    "description": "You can naturally control several dozens of lesser undead (ie not vampires, mummies, or liches) separate from whatever you might control with necromancy. The number scales with your willpower.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "7305e97f-722a-51f2-9713-c240ec8ecf40": {
+    "id": "7305e97f-722a-51f2-9713-c240ec8ecf40",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Dark Teacher",
+    "cost": 100,
+    "description": "There is only so much a single necromancer can achieve, yet the Necrarchs have always had a problem with rebellious apprentices. W’soran was betrayed and killed by his apprentice Melkhior, who was in turn attacked by his own rebellious apprentice Zacharius. You are not only a skilled teacher in the sense of being good at imparting knowledge, but you know how to instill loyalty in your students or failing that at least the wit to notice when they’re planning to turn on you.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "de5a1cd3-2cb9-50d1-8011-4e8f38ec1039": {
+    "id": "de5a1cd3-2cb9-50d1-8011-4e8f38ec1039",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Deathmask",
+    "cost": 100,
+    "description": "For your burial, an ornate, full-face mask was created. Fitted perfectly to you and crafted with the most incredible skill, this mask looks like you if you were even more beautiful than you truly are. From porcelain, gold and other valuable materials, it was enchanted with magic to act and move as if it were your real face. A minor addition at the time, but a surprise boon in your current state, as it allows you to take on the appearance of being truly alive, even if under the mask, you are as bony as ever.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "38c1c996-4f14-5950-a01e-4608200bff2b": {
+    "id": "38c1c996-4f14-5950-a01e-4608200bff2b",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Deathsight",
+    "cost": 100,
+    "description": "You can naturally see immaterial spirits and souls.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "cfeb1b51-7ac3-52df-9ca8-db68e5af936b": {
+    "id": "cfeb1b51-7ac3-52df-9ca8-db68e5af936b",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Destroyer of Eternities",
+    "cost": 600,
+    "description": "An immense black blade, ornately decorated with gold and almost as long as a man is tall. The Destroyer of Eternities is perhaps the most feared weapon ever to be created in Nehekhara, a weapon capable of destroying the very soul. The blade itself is impossibly sharp, able to slice through even the magically enchanted metal of a Necrosphinx with effortless ease, but what it slays, it destroys utterly. When the body of a being is killed by the blade, the soul of that being is destroyed along with it. Not scattered or torn to shreds, simply erased from existence, never to pass on to the afterlife. It’s no wonder a culture so obsessed with the great beyond would shiver at the thought of this black blade.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "e5049b5f-cc02-5bb7-bd06-915916db9182": {
+    "id": "e5049b5f-cc02-5bb7-bd06-915916db9182",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Domination",
+    "cost": 100,
+    "description": "You can control the mind of a nearby mortal, pitting your charisma against their willpower. Any danger, before or after the control, breaks the effect.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "8766fce2-da98-5a3b-8967-6ef5fad93b88": {
+    "id": "8766fce2-da98-5a3b-8967-6ef5fad93b88",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Don’t Kill The Messenger",
+    "cost": 100,
+    "description": "As excelling at lying as the priesthood was, there came times when one would have to directly answer the interrogations of the King. These were rarely pleasant and usually resulted in the death of whoever was sent as messenger. Only the very canniest of Priests, such as yourself, figured out ways to avoid the wroth of their rulers. When you are the messenger of bad news, you’ll find yourself never blamed or harmed for the act of delivering it. Even the most prone to anger lords won’t think to harm you and if you were actually a part of the cause of that bad news, you’ll find this the perfect opportunity to deflect attention onto another involved in the incident, even tangentially. Turn an attempt to get rid of you with the anger of your lord into a chance to rid yourself of one of your many rivals.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "353a77d1-285a-5d82-9af3-d8afc1fe2ff9": {
+    "id": "353a77d1-285a-5d82-9af3-d8afc1fe2ff9",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Enhil’s Kanopi",
+    "cost": 400,
+    "description": "The Kanopi is a small jar, holding the heart of a High Priest from long ago. A powerful tool for and against magic users, opening the jar will result in all magical energy in a small area being sucked into the jar. Though the storage space is not infinite, it can still hold enough to drain many high-level magicians of everything they have. It only affects magical energy in the air already, allowing it to destroy active spells and enchantments in an instant. It can also be utilised by magic users by drawing out the magic energy contained within, though such is an often risky process, as if the jar breaks, it will release all it stores in a great explosion.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "f065e50f-b4c3-578c-a3b3-098c1f1ef30d": {
+    "id": "f065e50f-b4c3-578c-a3b3-098c1f1ef30d",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Ethereal Mist",
+    "cost": 100,
+    "description": "Once per day, you can transform yourself and your clothing and equipment into mist. In this form, you are immune to any damage except spells. After several hours, you’ll be able to try to re-coalesce as an act of willpower, trying again ever few hours until you succeed.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "1977db2e-8672-5e07-a8e7-3b828c754286": {
+    "id": "1977db2e-8672-5e07-a8e7-3b828c754286",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Grudges",
+    "cost": 100,
+    "description": "That’s what the Strigoi were left with when the Lahmians destroyed their city. Hate for the Lahmians themselves, their greenskin pawns, the Blood Dragons and Necrarchs that scorned them... hate that filled their dreams as they slept in the wilderness and plotted revenge. You share their capacity for hate, the ability to hold grudges that would do a Dwarf proud. So long as someone has wronged you, you find yourself empowered when working against them.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "cb6677c8-a30a-518f-9081-2506324cf6cc": {
+    "id": "cb6677c8-a30a-518f-9081-2506324cf6cc",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Heart’s Desire",
+    "cost": 100,
+    "description": "All Necrotects are skilled architects and designers. They wouldn’t have the job if they weren’t and you’re no different. You’re gifted with any sort of architecture, trap making or monument designing. What makes you special is that you have a sense for what your customers really want. You can picture in your mind the exact ideal of the thing they’re hiring you to build and create it. Closer than any instructions could communicate to you, you understand their wish and you know what it should look like, though the construction of such a thing may yet be beyond your means. Still, if you can carry it out, they’ll love you for it, even if it differs from the instructions they said to you.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "48574e0f-07ae-5564-96b9-1ba4a0016ef6": {
+    "id": "48574e0f-07ae-5564-96b9-1ba4a0016ef6",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Heraldry Armour",
+    "cost": 100,
+    "description": "A gift from your master, a splendid set of armour fit for his right hand. Formed from the strongest and rarest metals in Nehekhara, the armour offers excellent protection across your entire body and looks quite good too. It has no magical enchantments on it, save for a minor one that allows it to slowly repair and clean itself when not worn.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "9109bd50-db59-5e71-ae7e-1cd1ebdd277d": {
+    "id": "9109bd50-db59-5e71-ae7e-1cd1ebdd277d",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Horse of the Sands",
+    "cost": 100,
+    "description": "The Chariots of the Nehekharan army were once feared across the world. In the open fields or the rolling dunes, they were unmatched in speed and power and the cavalry of the other kingdoms could have no hope of ever matching them. Many times you commanded one of these vehicles, for war and for the entertainment of your lord as well. You’re a master of handling a chariot and a horse, able to fight just as well as if you were on solid ground, even if you are standing atop a galloping horse. You are even able to use your mount or vehicle itself to attack, expertly directing it to smash into opposing cavalry without taking damage yourself.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "b0b1e6e7-cf01-5cec-a9ce-a921516fe355": {
+    "id": "b0b1e6e7-cf01-5cec-a9ce-a921516fe355",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Lady Zmada’s Portrait",
+    "cost": 100,
+    "description": "It is expected for a vampire to hide from the daylight. But apparently one member of the Zmada family had the clever idea to hide in plain sight. A vampire can walk into this empty portrait, appearing inside as a painted image until they emerge.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "2cc13a0a-82ef-5398-8f5e-1f935672d427": {
+    "id": "2cc13a0a-82ef-5398-8f5e-1f935672d427",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Liche Staff",
+    "cost": 400,
+    "description": "An ancient copper staff, twisted in on itself at both ends. It has been engraved with the names of all the Gods of the desert and grants a significant boost to the power of any magic cast while it is in hand. The Liche Staff’s real power however, is that it allows the user to avert catastrophic failures in their casting, making the caster aware of when their attempt is about to fail and bolstering their skill with its own to try and avert it if the caster does not decide to stop.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "c74833e1-3353-5dc6-9de9-6e10449ac35c": {
+    "id": "c74833e1-3353-5dc6-9de9-6e10449ac35c",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Madness Immunity",
+    "cost": 200,
+    "description": "Vampires have a tendency to go mad over the centuries. Really, even the men of Mallus seem to have fragile minds that go mad at the drop of a hat. Maybe it’s all the Chaos leaking into the world through the polar gates? But the Necrarchs have it particularly bad, tending to go so paranoid that their bloodline cannot even work together, instead all huddling in their individual towers penning insane prophecies about the undead replacing humanity. But at least now you’re immune to insanity, whether the cause be external or internal.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "4262a1ed-74fd-5478-bca0-1fe01c60da53": {
+    "id": "4262a1ed-74fd-5478-bca0-1fe01c60da53",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Master of Slaves",
+    "cost": 200,
+    "description": "To construct the immense tombs and monoliths you were ordered to create, you needed the assistance of countless labourers and workers. You could not construct it on your own but you could direct many others to do it for you. You became a slave driver unlike any other. Not only can you motivate a force of thousands to work on your own, without a single rebellious action being taken against you by any less than a real heroic sort, you can also turn even uneducated slaves into an effective work force. They are unlikely to know what they are doing or how it should be done but under your watchful eye, they will not make mistakes and will work as if using your own two hands.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "094ef412-4bb9-525e-ab90-17cb3f6bee26": {
+    "id": "094ef412-4bb9-525e-ab90-17cb3f6bee26",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "My Weight in Gold",
+    "cost": 100,
+    "description": "There are so many like you, architects and artisans who aspired to have their skills chosen to create the tomb of some particularly notable King. With all the hotheads and big egos, it’s important to keep note of how good you really are and how much someone would pay for the use of someone with your skills. Gives you a better bargaining point if you know what people will start at. You’ve always got an accurate assessment of how good your own skills are in comparison to the majority of your peers in that skill area, as well as how much those skills are worth to any particular person.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "21bb8fbf-5ed6-5786-bb8a-8e18f661ef90": {
+    "id": "21bb8fbf-5ed6-5786-bb8a-8e18f661ef90",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Necromancer’s Tower",
+    "cost": 200,
+    "description": "This tower is designed for experimentation. Its basement is filled with cells to hold prisoners or experimental subjects. It also has living quarters for servants (a few heavily mutated assistants come with this as followers if desired) and a library full of necromantic texts. The top of the tower has an observatory and a lightning rod, meant to aid in the study of the stars and harness lightning.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "c3d9f2d8-3c47-5577-a542-51f7e34725e5": {
+    "id": "c3d9f2d8-3c47-5577-a542-51f7e34725e5",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Necrotic Powder",
+    "cost": 100,
+    "description": "This alchemically treated pouch contains necrotic powder, pure Dhar solidified into a powdered warpstone. The powder can eat through nearly anything: papers that need to be destroyed, locks or doors blocking the user’s way, minions who have outlived their usefulness, etc.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "485fb52d-e71e-5650-a019-2a9d73a4cff3": {
+    "id": "485fb52d-e71e-5650-a019-2a9d73a4cff3",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Nehekharan Crown",
+    "cost": 200,
+    "description": "A full headed crown created by the artisans of your family. Made for a king, it is quite obvious to all who see the wearer that the wearer is of most noble birth, though not all people will respect you just for that. Those who wear the crown however, may force their will upon those around them, gaining an ability to compel those who hear the wearer’s words to follow those words as absolute orders. Sadly, the effect on its own is rather weak and while it does increase with the user’s willpower, it would take a truly immense amount to turn it into a powerful form of domination.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "2d709c45-7eac-5697-ad7b-5cc27c2856c4": {
+    "id": "2d709c45-7eac-5697-ad7b-5cc27c2856c4",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Nine Books of Nagash",
+    "cost": 600,
+    "description": "Nagash was the first and greatest necromancer, and his infamous Nine Books recount his secret knowledge and the records of his experiments. Each is a heavily sought after source of necromantic knowledge, and you possess the full set, sure to provide a treasure trove of dark lore that any necromancer would salivate over.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "5edf2a6c-8139-5787-8294-86198609b39a": {
+    "id": "5edf2a6c-8139-5787-8294-86198609b39a",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Psychic Drain",
+    "cost": 100,
+    "description": "You drain the will from any living creature nearby. Those without great willpower will find their ability to put effort into anything they do quickly eroding by being near you, needing hours to recover afterwords.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "78aed805-762f-58ef-99e9-eea01372c936": {
+    "id": "78aed805-762f-58ef-99e9-eea01372c936",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Regeneration",
+    "cost": 100,
+    "description": "You regenerate wounds quickly and constantly, except ones inflicted by silver weapons.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "8a8f31e7-81b1-536a-9d74-0c29a4f76fce": {
+    "id": "8a8f31e7-81b1-536a-9d74-0c29a4f76fce",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Rune Carving",
+    "cost": 200,
+    "description": "Necrotects themselves are usually inexperienced in the ways of magic. It’s rarely their duty to cast spells or command rituals, yet they are often called upon to inscribe runes on a vast scale or otherwise prepare things for magical means. You’re very skilled at creating structures or items that can be channelled or used with magic, even whilst lacking it yourself. If you had a mage or wizard on hand, you’d even be able to work in tandem effortlessly, crafting items or structures suited to that person’s magic in particular, working even better for them than anyone else.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "50d60ac5-72d6-57a0-a6aa-6fde0fcaefc9": {
+    "id": "50d60ac5-72d6-57a0-a6aa-6fde0fcaefc9",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Scroll of the Cursing Word",
+    "cost": 200,
+    "description": "Created as a way to deal with enemy spell casters without wasting the energy of the wizard himself, these scrolls were created to kill those who try to cast a spell in the users’ presence. When the incantation upon the scroll is read out, it will activate and attack any who are actively using magic within the surrounding area. Those who cast in this time will find their lungs filled with burning sand and their mouths filled with biting dung beetles. The scroll is used up by this and will replenish its use a day later.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "533a0033-d2f5-547e-bf44-94ad5d5406a7": {
+    "id": "533a0033-d2f5-547e-bf44-94ad5d5406a7",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Slavemaster’s Daughter",
+    "cost": 100,
+    "description": "A particularly nasty kind of whip. Nine ropes are attached to a sturdy, comfortable-to-grip handle, and each rope has a heady, barbed lead weight attached to the end. The whip seems to almost come alive in your hands, it is so eager to punish and split open any who angers you. It’d never harm you, seemingly to have a sort of affection for you that you can feel when you hold it, and it unerringly seeks out the tenderest spots on those you strike with it. Any slave struck with this would be very unlikely indeed to risk another stroke.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "d2d7901a-0fd2-52c6-acd4-3b85575d4910": {
+    "id": "d2d7901a-0fd2-52c6-acd4-3b85575d4910",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Summon Wolves",
+    "cost": 100,
+    "description": "Once per day you can call any nearby wolves or dire wolves to do your bidding for the next few hours.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "ed0d0210-2b47-5e30-b3d2-5d2fc914e360": {
+    "id": "ed0d0210-2b47-5e30-b3d2-5d2fc914e360",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Survivalist",
+    "cost": 200,
+    "description": "The Strigoi were forced into hiding in the wilderness after the fall of Strigos, and like them you are an expert at living and hiding in the deep wilds. You could survive for centuries, hunting animals and staying hidden until you were nothing but a legend.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "9ec5becc-0ff4-5491-82b8-7ce73666db56": {
+    "id": "9ec5becc-0ff4-5491-82b8-7ce73666db56",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Swarm Form",
+    "cost": 100,
+    "description": "Choose one of beetles, cockroaches, flies, or ravens. You can transform into a swarm of these creatures for a few minutes. As long as even one of your swarm survives, so do you. You won’t be able to turn back into a swarm again until the next sunset.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "d6d8c94b-fef2-5f5d-bb46-298141c5e741": {
+    "id": "d6d8c94b-fef2-5f5d-bb46-298141c5e741",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "The Eternal Soldier",
+    "cost": 200,
+    "description": "When you were buried alongside your liege, your armour and sword were left on you. It would be needed for the moment you wake up, as you would be required to immediately look to protect your King from any possible dangers. For that sake, those weapons and armour were enchanted in a similar way to your own body, to prevent them from rusting and aging to dust. Your gear is all the same way, sharing in your magic to ensure that it will never age or become damaged from the passing of time. Swords never rust or lose their edge, armour does not gain weaker bonds over time and even food will not spoil when held in your bags.",
+    "source": "Warhammer Fantasy: Tomb Kings"
+  },
+  "baa511ac-6604-510a-87c4-efdf92a91ad8": {
+    "id": "baa511ac-6604-510a-87c4-efdf92a91ad8",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Transfixing Gaze",
+    "cost": 100,
+    "description": "Your gaze can immobilize the weak willed who meet it, allowing you to keep them helpless while you kill them.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "c7244b8c-5b8d-5c5a-bd62-955791cd12ea": {
+    "id": "c7244b8c-5b8d-5c5a-bd62-955791cd12ea",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Wellspring of Dhar",
+    "cost": 100,
+    "description": "Your soul is a natural pool of Dhar. All wizards near you who draw on dark magic, chaos magic, or necromancy have their spells empowered. You can toggle this effect on and off.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "d4b7ebff-59fa-5fa5-a720-bf0ae5cbc608": {
+    "id": "d4b7ebff-59fa-5fa5-a720-bf0ae5cbc608",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Wings",
+    "cost": 100,
+    "description": "You can grow wings on your back or between your arm and side, allowing you to fly at twice your running speed.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "cfca7f8d-7b90-51f5-bda6-8cb071cf3302": {
+    "id": "cfca7f8d-7b90-51f5-bda6-8cb071cf3302",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Wolf Form",
+    "cost": 100,
+    "description": "You can transform back and forth from a Doom Wolf (one of the gigantic wolves native to Slyvania) at will, subsuming your clothing and equipment into the transformation.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  },
+  "4d937e79-79c8-5620-85d5-83a078110da5": {
+    "id": "4d937e79-79c8-5620-85d5-83a078110da5",
+    "category": "codex_fantasy_edition",
+    "chapter": "The Undead",
+    "name": "Worthy Foe",
+    "cost": 200,
+    "description": "When Walach Harkon challenged the Order of the Blood Dragon, he killed the cowardly and inept but granted the blood kiss to the brave warriors who put up a fight. Indeed, it is common for Blood Dragons to duel a prospective child-in-darkness to decide whether they are worthy of vampirism. You will find that your enemies adopt a similar attitude towards you, their minds filling with respect and dreams of how useful you might be so long as you give a good showing in your battles with them. They’ll still kill you if it isn’t safe to capture you or should you refuse the honor of joining them.",
+    "source": "Warhammer Fantasy: Vampire Counts"
+  }
+}

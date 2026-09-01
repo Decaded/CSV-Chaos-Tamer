@@ -1,5 +1,6 @@
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const csv = require('csv-parser');
 const { Readable } = require('stream');
 const { parseMarkdown } = require('./md-parser');
@@ -437,6 +438,184 @@ function buildPerkDatabases(items) {
 	return grouped;
 }
 
+function uuidForLogicalKey(logicalKey) {
+	const bytes = crypto.createHash('sha1').update(`celestial-gambler/${logicalKey}`).digest().subarray(0, 16);
+	bytes[6] = (bytes[6] & 0x0f) | 0x50;
+	bytes[8] = (bytes[8] & 0x3f) | 0x80;
+	const hex = bytes.toString('hex');
+	return `${hex.slice(0, 8)}-${hex.slice(8, 12)}-${hex.slice(12, 16)}-${hex.slice(16, 20)}-${hex.slice(20)}`;
+}
+
+function disambiguateLogicalKeys(items) {
+	const occurrences = new Map();
+	for (const item of items) {
+		const occurrence = occurrences.get(item.logicalKey) || 0;
+		occurrences.set(item.logicalKey, occurrence + 1);
+		if (occurrence) item.logicalKey = `${item.logicalKey}/occurrence_${occurrence + 1}`;
+	}
+}
+
+function buildBackendGeneratorFiles(items, sourceGroups = shared.sourceVersions) {
+	const files = {};
+
+	for (const item of items) {
+		const { database, chapter, sourceName } = item;
+		files[database] ||= {};
+		files[database][chapter] ||= [];
+		files[database][chapter].push({
+			id: uuidForLogicalKey(item.logicalKey),
+			category: database,
+			chapter,
+			name: item.perk.name,
+			cost: item.perk.cost,
+			description: item.perk.description,
+			source: sourceName,
+		});
+	}
+
+	for (const chapters of Object.values(files)) {
+		for (const perks of Object.values(chapters)) perks.sort((left, right) => left.name.localeCompare(right.name) || left.id.localeCompare(right.id));
+	}
+
+	const sourceMetadata = buildSourceMetadata(files, items, sourceGroups);
+	return {
+		files: sortObjectByKeys(Object.fromEntries(Object.entries(files).map(([database, chapters]) => [database, sortObjectByKeys(chapters)]))),
+		sourceMetadata: { schemaVersion: 1, sources: sourceMetadata },
+	};
+}
+
+function buildSourceMetadata(files, items, configuredGroups = shared.sourceVersions || {}) {
+	const groupedDatabases = new Set();
+	const sources = [];
+	const itemsByDatabase = new Map();
+	for (const item of items) {
+		const databaseItems = itemsByDatabase.get(item.database) || [];
+		databaseItems.push(item);
+		itemsByDatabase.set(item.database, databaseItems);
+	}
+
+	for (const [sourceId, group] of Object.entries(configuredGroups)) {
+		if (!MACHINE_ID_RE.test(sourceId) || !group || typeof group !== 'object') throw new Error(`Invalid source version group ${sourceId}`);
+		const versions = Object.entries(group.versions || {});
+		if (!versions.length || !versions.some(([version]) => version === group.defaultVersion)) throw new Error(`Source version group ${sourceId} must include its defaultVersion`);
+		for (const [version, database] of versions) {
+			if (!MACHINE_ID_RE.test(version) || typeof database !== 'string' || !Object.hasOwn(files, database)) {
+				throw new Error(`Source version group ${sourceId} maps ${version} to an unknown database`);
+			}
+			if (groupedDatabases.has(database)) throw new Error(`Database ${database} is mapped to more than one source version group`);
+			groupedDatabases.add(database);
+		}
+		const groupItems = versions.flatMap(([, database]) => itemsByDatabase.get(database) || []);
+		sources.push({
+			id: sourceId,
+			displayName: group.displayName || displayNameFromId(sourceId),
+			description: group.description || `Perks from ${group.displayName || displayNameFromId(sourceId)}.`,
+			isR18: groupItems.some(item => item.perk.isAdult),
+			defaultVersion: group.defaultVersion,
+			categories: versions.map(([version, id]) => ({ id, version })),
+		});
+	}
+
+	const standaloneVersionDatabases = new Map();
+	for (const database of Object.keys(files)) {
+		if (groupedDatabases.has(database)) continue;
+		const versionMatch = database.match(/^(.+)_v(\d+)$/);
+		if (!versionMatch || Object.hasOwn(files, versionMatch[1])) continue;
+		const databases = standaloneVersionDatabases.get(versionMatch[1]) || [];
+		databases.push({ database, version: `v${versionMatch[2]}` });
+		standaloneVersionDatabases.set(versionMatch[1], databases);
+	}
+
+	for (const database of Object.keys(files)) {
+		if (groupedDatabases.has(database)) continue;
+		const databaseItems = itemsByDatabase.get(database) || [];
+		const versionMatch = database.match(/^(.+)_v(\d+)$/);
+		const baseId = versionMatch?.[1];
+		const standaloneVersion = baseId && standaloneVersionDatabases.get(baseId)?.length === 1 ? `v${versionMatch[2]}` : null;
+		const sourceId = standaloneVersion ? baseId : database;
+		const displayName = standaloneVersion ? displayNameFromId(baseId) : databaseItems[0]?.perk.categoryDisplayName || displayNameFromId(database);
+		sources.push({
+			id: sourceId,
+			displayName,
+			description: `Perks from ${displayName}.`,
+			isR18: databaseItems.some(item => item.perk.isAdult),
+			defaultVersion: standaloneVersion || 'default',
+			categories: [{ id: database, version: standaloneVersion || 'default' }],
+		});
+	}
+
+	return sources.sort((left, right) => left.id.localeCompare(right.id));
+}
+
+function validateBackendGeneratorFiles({ files, sourceMetadata }) {
+	const errors = [];
+	const uuidPattern = /^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i;
+	const categories = new Set(Object.keys(files));
+	const mappedCategories = new Set();
+	const ids = new Set();
+
+	for (const source of sourceMetadata.sources) {
+		if (!MACHINE_ID_RE.test(source.id) || !source.displayName || !source.description || typeof source.isR18 !== 'boolean' || typeof source.defaultVersion !== 'string') {
+			errors.push(`Invalid source metadata for ${source.id}`);
+		}
+		if (!source.categories.some(category => category.version === source.defaultVersion)) errors.push(`Source ${source.id} has no mapped default version`);
+		for (const category of source.categories) {
+			if (!categories.has(category.id) || !MACHINE_ID_RE.test(category.version) || mappedCategories.has(category.id))
+				errors.push(`Invalid source category mapping for ${category.id}`);
+			mappedCategories.add(category.id);
+		}
+	}
+
+	for (const [category, chapters] of Object.entries(files)) {
+		if (!Object.keys(chapters).length) errors.push(`Category ${category} has no chapters`);
+		for (const [chapter, perks] of Object.entries(chapters)) {
+			if (!Array.isArray(perks)) errors.push(`Category ${category}, chapter ${chapter} is not an array`);
+			for (const perk of perks) {
+				if (!uuidPattern.test(perk.id) || ids.has(perk.id)) errors.push(`Invalid or duplicate perk UUID ${perk.id}`);
+				ids.add(perk.id);
+				if (perk.category !== category || perk.chapter !== chapter || !perk.name || !perk.description || !perk.source || !Number.isFinite(perk.cost) || perk.cost < 0) {
+					errors.push(`Invalid perk ${perk.id}`);
+				}
+			}
+		}
+	}
+
+	for (const category of categories) {
+		if (!mappedCategories.has(category)) errors.push(`Category ${category} is missing source metadata`);
+	}
+	return errors;
+}
+
+function writeBackendNyaDb({ files, sourceMetadata }, logger = console) {
+	const NyaDB = require('@decaded/nyadb');
+	const nyadb = new NyaDB({
+		formattingStyle: 'space',
+		indentSize: 2,
+		writeDebounce: 0,
+		maxFileSize: 1024,
+	});
+	const databases = {
+		generatorSources: Object.fromEntries(sourceMetadata.sources.map(source => [source.id, source])),
+	};
+	for (const [sourceId, chapters] of Object.entries(files)) {
+		databases[`perks_${sourceId}`] = Object.fromEntries(
+			Object.values(chapters)
+				.flat()
+				.map(perk => [perk.id, perk]),
+		);
+	}
+
+	for (const name of nyadb.getList()) {
+		if (!Object.hasOwn(databases, name)) nyadb.delete(name);
+	}
+	for (const [name, contents] of Object.entries(databases)) {
+		if (nyadb.exists(name)) nyadb.clear(name);
+		else nyadb.create(name);
+		if (!nyadb.set(name, contents)) throw new Error(`Failed to write database "${name}"`);
+		logger.log(`Stored database "${name}"`);
+	}
+}
+
 function validatePreparedData({ dataset, categories, sources, grouped, items, changedIdCount, reusedOrRetiredIdCount }) {
 	const errors = [];
 	const ids = new Set();
@@ -766,21 +945,13 @@ async function readFolderRows(folder, sheetsRoot = SHEETS_ROOT, logger = console
 }
 
 /**
- * Main build function: parses all CSVs and MDs in SHEETS_ROOT and writes contract-shaped dataset files.
+ * Main build function: parses all CSVs and MDs in SHEETS_ROOT into backend-compatible NyaDB records.
  * @returns {Promise<void>}
  */
 async function buildDatabase(options = {}) {
 	const sheetsRoot = options.sheetsRoot || SHEETS_ROOT;
-	const outRoot = options.outRoot || OUT_ROOT;
-	const registryPath = options.registryPath || ID_REGISTRY_PATH;
 	const logger = options.logger || console;
-	const writeFiles = options.writeFiles === true;
-	const writeRegistry = options.writeRegistry !== false;
-	const retireMissing = options.retireMissing !== false;
 	const writeNyaDb = options.writeNyaDb !== false;
-	const mergeNyaDb = options.mergeNyaDb === true;
-
-	if (writeFiles) await fs.promises.mkdir(outRoot, { recursive: true });
 
 	let globalMaxCP = 0;
 	const databases = new Map();
@@ -805,64 +976,28 @@ async function buildDatabase(options = {}) {
 		}
 	}
 
-	const dataset = { ...shared.dataset };
-	const registry = loadRegistry(registryPath);
 	const prepared = prepareItems(databases);
-	const idStats = assignPerkIds(prepared.items, registry);
-	const grouped = buildPerkDatabases(prepared.items);
-	const validationErrors = validatePreparedData({
-		dataset,
-		...prepared,
-		grouped,
-		...idStats,
-	});
-	const report = reportPreparedData({
-		dataset,
-		...prepared,
-		grouped,
-		...idStats,
+	disambiguateLogicalKeys(prepared.items);
+	const output = buildBackendGeneratorFiles(prepared.items);
+	const validationErrors = validateBackendGeneratorFiles(output);
+	const report = {
+		perkCount: prepared.items.length,
+		categoryCount: Object.keys(output.files).length,
+		sourceCount: output.sourceMetadata.sources.length,
 		validationErrorCount: validationErrors.length,
-	});
+	};
 
 	if (validationErrors.length) {
 		logger.error(JSON.stringify(report, null, 2));
 		throw new Error(`Prepared data failed validation:\n${validationErrors.slice(0, 25).join('\n')}`);
 	}
 
-	if (retireMissing) retireMissingRegistryKeys(registry, new Set(prepared.items.map(item => item.logicalKey)));
-
-	if (writeFiles) {
-		await fs.promises.writeFile(path.join(outRoot, 'dataset.json'), JSON.stringify(dataset, null, 2), 'utf8');
-		await fs.promises.writeFile(path.join(outRoot, 'categories.json'), JSON.stringify({ categories: prepared.categories }, null, 2), 'utf8');
-		await fs.promises.writeFile(path.join(outRoot, 'sources.json'), JSON.stringify({ sources: prepared.sources }, null, 2), 'utf8');
-		for (const [database, contents] of Object.entries(grouped).sort(([a], [b]) => a.localeCompare(b))) {
-			await fs.promises.writeFile(path.join(outRoot, `${database}.json`), JSON.stringify(contents, null, 2), 'utf8');
-			logger.log(`Wrote "${database}"`);
-		}
-	}
-
-	if (writeNyaDb) {
-		const nyaDbList = writeNyaDbDatabases(
-			{
-				dataset,
-				categories: prepared.categories,
-				sources: prepared.sources,
-				grouped,
-			},
-			logger,
-			{ mergeExisting: mergeNyaDb },
-		);
-		report.nyaDbDatabaseCount = nyaDbList.length;
-	}
-
-	if (writeRegistry) await fs.promises.writeFile(registryPath, JSON.stringify(registry, null, 2), 'utf8');
+	if (writeNyaDb) writeBackendNyaDb(output, logger);
 	logger.log(JSON.stringify(report, null, 2));
 	logger.log(`Highest CP found: ${globalMaxCP}`);
 	return {
 		report,
-		outRoot,
-		registryPath,
-		databases: Object.keys(grouped).sort((a, b) => a.localeCompare(b)),
+		databases: Object.keys(output.files),
 	};
 }
 
@@ -877,6 +1012,9 @@ module.exports = {
 	deriveSplitCategory,
 	extractChapterFromFilename,
 	buildPerkDatabases,
+	buildBackendGeneratorFiles,
+	buildSourceMetadata,
+	disambiguateLogicalKeys,
 	normalizeHeader,
 	normalizeCost,
 	assignPerkIds,
@@ -884,6 +1022,8 @@ module.exports = {
 	parseCsv,
 	mergeNyaDbContents,
 	validatePreparedData,
+	validateBackendGeneratorFiles,
+	writeBackendNyaDb,
 	writeNyaDbDatabases,
 	writeSplitFiles,
 };

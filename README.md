@@ -31,8 +31,8 @@ The CSV Chaos Tamer standardizes this chaos into a consistent JSON format that c
 - Splits out specific chapters into their own JSON files if configured, aggregating split rows across all input folders.
 - Cleans text by trimming whitespace, fixing newlines, and removing stray characters.
 - Adds source metadata to parsed rows for easier debugging.
-- Produces contract-shaped Celestial Gambler API preparation files, including dataset, category, source, and grouped perk data.
-- Maintains a durable perk ID registry so rerenders keep existing perk IDs stable.
+- Produces backend-compatible `perks` and `generatorSources` NyaDB records.
+- Generates deterministic RFC 4122 v5 perk IDs from input locations.
 - Can be extended with new CSV header mappings, Markdown entry formats, or split rules.
 
 ---
@@ -61,7 +61,7 @@ npm install
 npm run run
 ```
 
-4. Collect your prepared JSON from `data/`.
+4. The normalized records are written to `NyaDB/perks_{source-id}.json`, one file per source, plus `NyaDB/generatorSources.json`.
 
 You can run the parser directly:
 
@@ -103,6 +103,22 @@ If you need to split specific chapters into separate files, modify `shared.split
 'lewd': 'companion_lewd',
 ```
 
+To group physical source files as selectable versions, configure `shared.sourceVersions`:
+
+```js
+grimoire: {
+  displayName: 'Grimoire',
+  defaultVersion: 'default',
+  versions: {
+    default: 'grimoire',
+    v2: 'grimoire_v2',
+    yggdrasil: 'grimoire_yggdrasil_personal',
+  },
+},
+```
+
+Unlisted source folders are published as independent sources. Every mapped physical source must exist and can belong to only one logical source.
+
 Markdown parsing rules live in `md-parser.js`. When a new Markdown export has a weird entry layout, add a small regression case in `test/md-parser.test.js` before changing the
 parser.
 
@@ -116,54 +132,28 @@ node scripts/md-diagnose.js "sheets/DatasetName/source.md"
 
 ## Output format
 
-The script generates Celestial Gambler API preparation databases:
+The script writes one NyaDB record per source plus source metadata:
 
-- `dataset` - public dataset metadata.
-- `categories` - category metadata with available versions and database keys.
-- `sources` - canonical source metadata.
-- `{database}` - perk data grouped as `sourceId -> chapters -> chapterKey -> perks -> nameKey -> Perk[]`.
+- `perks_{source-id}` - normalized perks for one source, keyed by UUID.
+- `generatorSources` - source metadata keyed by source ID.
 
-Optional file export:
+Each perk ID is a deterministic RFC 4122 v5 UUID derived from its input location. The generator validates the output before writing it.
 
-- Set `writeFiles: true` when calling `buildDatabase(...)` to also emit JSON files under `data/`.
-
-When file export is enabled, the script writes:
-
-- `data/dataset.json` - public dataset metadata.
-- `data/categories.json` - category metadata with available versions and database keys.
-- `data/sources.json` - canonical source metadata.
-- `data/{database}.json` - perk data grouped as `sourceId -> chapters -> chapterKey -> perks -> nameKey -> Perk[]`.
-- `perk-id-registry.json` - durable identity mapping used to keep generated perk IDs stable across rerenders.
-
-Do not delete `perk-id-registry.json` once a dataset has been released. It is the stable ID ledger; without it the builder cannot prove historical perk IDs were preserved.
-
-Example grouped perk output:
+Example perk record:
 
 ```json
 {
- "source_example_jump": {
-  "source": "Example Jump",
-  "description": "Perks from Example Jump.",
-  "chapters": {
-   "example_chapter": {
-    "chapter": "Example Chapter",
-    "perks": {
-     "example_perk": [
-      {
-       "id": "perk_000001",
+ "Example Chapter": [
+    {
+     "id": "00000000-0000-5000-8000-000000000000",
        "cost": 200,
        "name": "Example Perk",
        "description": "Cleaned description here.",
        "category": "example",
-       "categoryVersion": "default",
-       "categoryDisplayName": "Example",
-       "tags": [],
-       "isAdult": false
+     "chapter": "Example Chapter",
+     "source": "Example Jump"
       }
-     ]
-    }
-   }
-  }
+ ]
  }
 }
 ```

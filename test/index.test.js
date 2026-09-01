@@ -9,8 +9,12 @@ const {
 	normalizeCost,
 	normalizeHeader,
 	prepareItems,
+	buildBackendGeneratorFiles,
+	buildSourceMetadata,
+	disambiguateLogicalKeys,
 	mergeNyaDbContents,
 	validatePreparedData,
+	validateBackendGeneratorFiles,
 } = require('../index');
 
 function test(name, fn) {
@@ -116,6 +120,106 @@ test('prepareItems and buildPerkDatabases create source chapter name hierarchy',
 
 	assert.deepStrictEqual(errors, []);
 	assert.strictEqual(grouped.grimoire_v2.source_fate_grand_master.chapters.parameters.perks.arcane_tuning[0].categoryVersion, 'v2');
+});
+
+test('buildBackendGeneratorFiles produces importer-compatible category files and source metadata', () => {
+	const prepared = prepareItems(
+		new Map([
+			[
+				'forge',
+				{
+					categoryId: 'forge',
+					categoryDisplayName: 'Forge',
+					versionId: 'default',
+					versionDisplayName: 'Forge',
+					database: 'forge',
+					rows: [{ __source: 'Forge Sheet', __line: 1, name: 'Hammer Time', cost: 200, source: 'The Forge', chapter: 'Tools', description: 'Make tools.' }],
+				},
+			],
+		]),
+	);
+	const output = buildBackendGeneratorFiles(prepared.items, {});
+
+	assert.deepStrictEqual(validateBackendGeneratorFiles(output), []);
+	assert.strictEqual(output.sourceMetadata.schemaVersion, 1);
+	assert.strictEqual(output.sourceMetadata.sources[0].id, 'forge');
+	assert.strictEqual(output.sourceMetadata.sources[0].defaultVersion, 'default');
+	assert.match(output.files.forge.Tools[0].id, /^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i);
+	assert.strictEqual(output.files.forge.Tools[0].source, 'The Forge');
+});
+
+test('buildBackendGeneratorFiles keeps UUIDs stable across regenerations', () => {
+	const items = [
+		{
+			database: 'forge',
+			chapter: 'Tools',
+			sourceName: 'The Forge',
+			logicalKey: 'forge/forge_sheet/id_1',
+			perk: { name: 'Hammer Time', cost: 200, description: 'Make tools.' },
+		},
+		{
+			database: 'forge',
+			chapter: 'Tools',
+			sourceName: 'The Forge',
+			logicalKey: 'forge/forge_sheet/id_2',
+			perk: { name: 'Anvil Time', cost: 300, description: 'Make heavier tools.' },
+		},
+	];
+	const firstBuild = buildBackendGeneratorFiles(items, {});
+	const secondBuild = buildBackendGeneratorFiles([...items].reverse(), {});
+	const idsByName = build => Object.fromEntries(build.files.forge.Tools.map(perk => [perk.name, perk.id]));
+
+	assert.deepStrictEqual(idsByName(secondBuild), idsByName(firstBuild));
+});
+
+test('buildSourceMetadata groups configured physical databases as source versions', () => {
+	const files = { grimoire: { Main: [] }, grimoire_v2: { Main: [] }, forge: { Tools: [] } };
+	const items = [
+		{ database: 'grimoire', perk: { categoryDisplayName: 'Grimoire', isAdult: false } },
+		{ database: 'grimoire_v2', perk: { categoryDisplayName: 'Grimoire V2', isAdult: false } },
+		{ database: 'forge', perk: { categoryDisplayName: 'Forge', isAdult: false } },
+	];
+	const sources = buildSourceMetadata(files, items, {
+		grimoire: {
+			displayName: 'Grimoire',
+			defaultVersion: 'default',
+			versions: { default: 'grimoire', v2: 'grimoire_v2' },
+		},
+	});
+	const grimoire = sources.find(source => source.id === 'grimoire');
+
+	assert.strictEqual(grimoire.defaultVersion, 'default');
+	assert.deepStrictEqual(grimoire.categories.slice(0, 2), [
+		{ id: 'grimoire', version: 'default' },
+		{ id: 'grimoire_v2', version: 'v2' },
+	]);
+	assert.ok(sources.some(source => source.id === 'forge'));
+});
+
+test('buildSourceMetadata groups a standalone versioned database under its base source', () => {
+	const files = { song_v2: { Main: [] } };
+	const items = [{ database: 'song_v2', perk: { categoryDisplayName: 'Song V2', isAdult: false } }];
+	const sources = buildSourceMetadata(files, items, {});
+
+	assert.deepStrictEqual(sources, [
+		{
+			id: 'song',
+			displayName: 'Song',
+			description: 'Perks from Song.',
+			isR18: false,
+			defaultVersion: 'v2',
+			categories: [{ id: 'song_v2', version: 'v2' }],
+		},
+	]);
+});
+
+test('disambiguateLogicalKeys gives repeated source rows distinct UUID identities', () => {
+	const items = [{ logicalKey: 'example/sheet/id_1' }, { logicalKey: 'example/sheet/id_1' }];
+	disambiguateLogicalKeys(items);
+	assert.deepStrictEqual(
+		items.map(item => item.logicalKey),
+		['example/sheet/id_1', 'example/sheet/id_1/occurrence_2'],
+	);
 });
 
 test('mergeNyaDbContents upserts category versions by category id and version id', () => {
