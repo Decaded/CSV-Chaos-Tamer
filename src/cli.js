@@ -2,6 +2,7 @@ const path = require('path');
 const fs = require('fs');
 
 const { buildDatabase } = require('./index');
+const lockApi = require('./lock');
 const { ID_REGISTRY_PATH } = require('./registry/perk-registry');
 
 const SOURCES_ROOT = path.join(__dirname, '..', 'sources');
@@ -124,6 +125,32 @@ async function runBuild({ root, registryPath, sourceMetadataConfigPath, writeNya
 	);
 	spinner.start();
 
+	let lock = null;
+	let lockError = null;
+	try {
+		lock = lockApi.acquire();
+		if (!lock.ok) {
+			spinner.stop();
+			console.error('\nAnother build is already running (the web panel or another CLI instance).');
+			console.error('Close the web panel or wait until it finishes, then re-run this script.');
+			process.exitCode = 3;
+			return;
+		}
+
+		for (const signal of ['SIGINT', 'SIGTERM']) {
+			process.once(signal, () => {
+				lockApi.release();
+				process.exit(signal === 'SIGINT' ? 130 : 143);
+			});
+		}
+	} catch (error) {
+		lockError = error;
+		spinner.stop();
+		console.error(`\nUnable to acquire the build lock: ${error.message}`);
+		process.exitCode = 3;
+		return;
+	}
+
 	try {
 		const { report, writtenDatabases } = await buildDatabase({ sheetsRoot: root, registryPath, sourceMetadataConfigPath, writeNyaDb, logger });
 		spinner.stop();
@@ -152,6 +179,10 @@ async function runBuild({ root, registryPath, sourceMetadataConfigPath, writeNya
 			console.error(err.message);
 		}
 		process.exitCode = 1;
+	} finally {
+		if (lock && lock.ok) {
+			lockApi.release();
+		}
 	}
 }
 
