@@ -19,10 +19,10 @@ const { validateBackendGeneratorFiles, validatePreparedData } = require('./build
 const { reportPreparedData } = require('./build/report');
 const { mergeNyaDbContents, writeNyaDbDatabases } = require('./nyadb/nyadb-writer');
 
-const SHEETS_ROOT = path.join(__dirname, '..', 'sheets');
+const SOURCES_ROOT = path.join(__dirname, '..', 'sources');
 const SPLIT_CHAPTERS = shared.splitChapters;
 
-async function readFolderRows(folder, sheetsRoot = SHEETS_ROOT, logger = console) {
+async function readFolderRows(folder, sheetsRoot = SOURCES_ROOT, logger = console) {
 	const folderPath = path.join(sheetsRoot, folder);
 	const allFiles = fs.readdirSync(folderPath).sort((a, b) => a.localeCompare(b));
 	const csvFiles = allFiles.filter(f => f.endsWith('.csv'));
@@ -89,11 +89,11 @@ async function readFolderRows(folder, sheetsRoot = SHEETS_ROOT, logger = console
 }
 
 /**
- * Main build function: parses all CSVs and MDs in SHEETS_ROOT into backend-compatible NyaDB records.
+ * Main build function: parses all CSVs and MDs in the sources folder into backend-compatible NyaDB records.
  * @returns {Promise<void>}
  */
 async function buildDatabase(options = {}) {
-	const sheetsRoot = options.sheetsRoot || SHEETS_ROOT;
+	const sheetsRoot = options.sheetsRoot || SOURCES_ROOT;
 	const logger = options.logger || console;
 	const writeNyaDb = options.writeNyaDb !== false;
 	const registryPath = options.registryPath || ID_REGISTRY_PATH;
@@ -150,17 +150,22 @@ async function buildDatabase(options = {}) {
 
 	if (validationErrors.length) {
 		logger.error(JSON.stringify(report, null, 2));
-		throw new Error(`Prepared data failed validation:\n${validationErrors.slice(0, 25).join('\n')}`);
+		const err = new Error(`Prepared data failed validation:\n${validationErrors.slice(0, 25).join('\n')}`);
+		err.validationErrors = validationErrors;
+		err.report = report;
+		throw err;
 	}
 
 	applySourceMetadataOverrides(output.sourceMetadata.sources, manualSourceMetadata);
 	updateSourceR18Flags(output.sourceMetadata.sources);
-	if (writeNyaDb) writeNyaDbDatabases({ files: output.files, sourceMetadata: output.sourceMetadata }, logger);
+	let writtenDatabases = { changed: [], unchanged: [], deleted: [] };
+	if (writeNyaDb) writtenDatabases = writeNyaDbDatabases({ files: output.files, sourceMetadata: output.sourceMetadata }, logger);
 	logger.log(JSON.stringify(report, null, 2));
 	logger.log(`Highest CP found: ${globalMaxCP}`);
 	return {
 		report,
 		databases: Object.keys(output.files),
+		writtenDatabases,
 	};
 }
 

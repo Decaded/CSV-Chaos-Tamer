@@ -7,6 +7,20 @@ function listFromPayload(payload, key) {
 	return [];
 }
 
+function deepEqual(a, b) {
+	if (a === b) return true;
+	if (a === null || b === null || typeof a !== 'object' || typeof b !== 'object') return false;
+	if (Array.isArray(a) !== Array.isArray(b)) return false;
+	if (Array.isArray(a)) return a.length === b.length && a.every((value, index) => deepEqual(value, b[index]));
+	const aKeys = Object.keys(a);
+	const bKeys = Object.keys(b);
+	return aKeys.length === bKeys.length && aKeys.every(key => Object.prototype.hasOwnProperty.call(b, key) && deepEqual(a[key], b[key]));
+}
+
+function deepCopy(value) {
+	return JSON.parse(JSON.stringify(value));
+}
+
 function mergeCategoryPayload(existingPayload, incomingPayload) {
 	const existing = listFromPayload(existingPayload, 'categories');
 	const incoming = listFromPayload(incomingPayload, 'categories');
@@ -103,21 +117,34 @@ function writeNyaDbDatabases({ files, sourceMetadata }, logger = console, option
 		);
 	}
 
+	const deleted = [];
 	if (!mergeExisting) {
 		for (const name of nyadb.getList()) {
-			if (!Object.hasOwn(databases, name)) nyadb.delete(name);
+			if (!Object.hasOwn(databases, name)) {
+				nyadb.delete(name);
+				deleted.push(name);
+				logger.log(`Removed database "${name}"`);
+			}
 		}
 	}
+
+	const changed = [];
+	const unchanged = [];
 	for (const [name, contents] of Object.entries(databases).sort(([a], [b]) => a.localeCompare(b))) {
 		const exists = nyadb.exists(name);
+		const current = exists ? deepCopy(nyadb.get(name)) : null;
+		const nextContents = mergeExisting ? mergeNyaDbContents(name, current, contents) : contents;
+		if (exists && deepEqual(current, nextContents)) {
+			unchanged.push(name);
+			continue;
+		}
 		if (!exists) nyadb.create(name);
-		const existingContents = mergeExisting && exists ? nyadb.get(name) : null;
-		const nextContents = mergeExisting ? mergeNyaDbContents(name, existingContents, contents) : contents;
-		if (!nyadb.set(name, nextContents)) throw new Error(`Failed to write database "${name}"`);
+		if (!nyadb.set(name, deepCopy(nextContents))) throw new Error(`Failed to write database "${name}"`);
+		changed.push(name);
 		logger.log(`Stored database "${name}"`);
 	}
 
-	return Object.keys(databases).sort((a, b) => a.localeCompare(b));
+	return { changed, unchanged, deleted };
 }
 
 module.exports = { mergeNyaDbContents, writeNyaDbDatabases };
