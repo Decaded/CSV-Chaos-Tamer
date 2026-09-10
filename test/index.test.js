@@ -21,7 +21,7 @@ const {
 	validateBackendGeneratorFiles,
 	validateSourceMetadataConfig,
 	applySourceMetadataOverrides,
-} = require('../index');
+} = require('../src/index');
 
 test('normalizeHeader lowercases and removes non-letters', () => {
 	assert.strictEqual(normalizeHeader('CP Cost'), 'cpcost');

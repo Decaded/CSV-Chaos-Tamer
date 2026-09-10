@@ -19,9 +19,6 @@ const shared = {
 		'lewd': 'companion_lewd',
 	},
 
-	/** Databases that should mark every contained perk as adult content. */
-	adultDatabases: ['bordello', 'companion_lewd', 'debauchery'],
-
 	/**
 	 * Logical generator sources with selectable physical dataset versions. Every
 	 * physical database may appear in at most one group; unlisted databases are

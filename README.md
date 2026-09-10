@@ -66,7 +66,7 @@ npm run run
 You can run the parser directly:
 
 ```bash
-node index.js
+node src/index.js
 ```
 
 Run the regression tests with:
@@ -96,7 +96,7 @@ perkname: 'name',
 setting: 'source',
 ```
 
-If you need to split specific chapters into separate files, modify `shared.splitChapters` in `config.js`:
+If you need to split specific chapters into separate files, modify `shared.splitChapters` in `src/config/settings.js`:
 
 ```js
 'waifu catalogue': 'waifu',
@@ -119,14 +119,8 @@ grimoire: {
 
 Unlisted source folders are published as independent sources. Every mapped physical source must exist and can belong to only one logical source.
 
-Markdown parsing rules live in `md-parser.js`. When a new Markdown export has a weird entry layout, add a small regression case in `test/md-parser.test.js` before changing the
+Markdown parsing rules live in `src/parsers/md-parser.js`. When a new Markdown export has a weird entry layout, add a small regression case in `test/md-parser.test.js` before changing the
 parser.
-
-To inspect Markdown parse quality without dumping a huge source file, run:
-
-```bash
-node scripts/md-diagnose.js "sheets/DatasetName/source.md"
-```
 
 ---
 

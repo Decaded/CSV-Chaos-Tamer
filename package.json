@@ -11,9 +11,9 @@
   "name": "csv-chaos-tamer",
   "version": "2.0.0",
   "description": "A Node.js script that processes multiple differently formatted CSV files into clean, normalized JSON, built specifically to prepare data for celestial.decaded.dev.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "run": "node index.js",
+    "run": "node src/index.js",
     "web": "node web-server.js",
     "test": "node test/run.js"
   },

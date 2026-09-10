@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { md: mdConfig } = require('./config');
+const { md: mdConfig } = require('../config/settings');
 
 /** Regex that matches the start of a numbered entry (e.g. "1\." or "132.") */
 const NUMBERED_RE = /^(\d+)\\?\.\s+/;

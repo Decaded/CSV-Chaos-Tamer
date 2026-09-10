@@ -48,7 +48,7 @@ CSV Chaos Tamer validates mapping uniqueness, source existence, and UUID shape b
 
 ## Manual Metadata Config
 
-`source-metadata.config.json` (repo root) is the dedicated, hand-maintained file that supplies `description`, `sourceUrl`, `altSourceUrl`, and `altSourceLabel` for every logical
+`source-metadata.config.json` (in `src/config/`) is the dedicated, hand-maintained file that supplies `description`, `sourceUrl`, `altSourceUrl`, and `altSourceLabel` for every logical
 source, keyed by logical source ID:
 
 ```json

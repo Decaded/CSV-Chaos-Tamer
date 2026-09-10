@@ -3,7 +3,7 @@ const fs = require('fs');
 const os = require('os');
 const path = require('path');
 const { test, testAsync } = require('./summary');
-const { parseEntry, parseMarkdown } = require('../md-parser');
+const { parseEntry, parseMarkdown } = require('../src/parsers/md-parser');
 
 test('parseEntry handles cost before name', () => {
 	assert.deepStrictEqual(parseEntry('(200 CP) Example Name - Example description.'), {
