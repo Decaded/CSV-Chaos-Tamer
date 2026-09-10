@@ -7,7 +7,6 @@ const { parseMarkdown } = require('./md-parser');
 const { shared, csv: csvConfig } = require('./config');
 
 const SHEETS_ROOT = path.join(__dirname, 'sheets');
-const OUT_ROOT = path.join(__dirname, 'data');
 const ID_REGISTRY_PATH = path.join(__dirname, 'perk-id-registry.json');
 const SOURCE_METADATA_CONFIG_PATH = path.join(__dirname, 'source-metadata.config.json');
 const MACHINE_ID_RE = /^[a-z0-9_-]+$/;
@@ -142,40 +141,6 @@ async function parseCsv(filePath) {
 	});
 
 	return { rows, maxCP };
-}
-
-/**
- * Splits out special chapters from the database and removes them from the main data.
- * Stores split chapter rows in global buckets so multiple folders cannot overwrite each other.
- * @param {Record<string, object[]>} database - The chapter-keyed database
- * @param {Record<string, object[]>} splitBuckets - Output filename-keyed split rows
- * @returns {void}
- */
-function collectSplitRows(database, splitBuckets) {
-	const allRows = Object.values(database).flat();
-	for (const [chapterName, fileName] of Object.entries(SPLIT_CHAPTERS)) {
-		const filtered = allRows.filter(r => r.chapter?.toLowerCase() === chapterName.toLowerCase());
-		if (filtered.length) {
-			splitBuckets[fileName] ||= [];
-			splitBuckets[fileName].push(...filtered);
-			console.log(`Queued split: ${filtered.length} rows from "${chapterName}"`);
-		}
-	}
-	for (const key in database) {
-		database[key] = database[key].filter(row => !SPLIT_CHAPTERS[row.chapter?.toLowerCase()]);
-	}
-}
-
-/**
- * Writes all globally collected split chapter files.
- * @param {Record<string, object[]>} splitBuckets - Output filename-keyed split rows
- * @returns {Promise<void>}
- */
-async function writeSplitFiles(splitBuckets) {
-	for (const [fileName, rows] of Object.entries(splitBuckets).sort(([a], [b]) => a.localeCompare(b))) {
-		await fs.promises.writeFile(path.join(OUT_ROOT, `${fileName}.json`), JSON.stringify({ 1: rows }, null, 2), 'utf8');
-		console.log(`✅ Split: ${rows.length} rows to "${fileName}.json"`);
-	}
 }
 
 function requireMachineId(value, fallback = 'unknown') {
@@ -315,6 +280,7 @@ function assignPerkIds(items, registry) {
 			usedIds.add(item.perk.id);
 			delete registry.retired[logicalKey];
 			registry.active[logicalKey] = item.perk.id;
+			reusedOrRetiredIdCount += 1;
 			continue;
 		}
 
@@ -708,36 +674,6 @@ function applySourceMetadataOverrides(sources, manualConfig) {
 	}
 }
 
-function writeBackendNyaDb({ files, sourceMetadata }, logger = console) {
-	const NyaDB = require('@decaded/nyadb');
-	const nyadb = new NyaDB({
-		formattingStyle: 'space',
-		indentSize: 2,
-		writeDebounce: 0,
-		maxFileSize: 1024,
-	});
-	const databases = {
-		generatorSources: Object.fromEntries(sourceMetadata.sources.map(source => [source.id, source])),
-	};
-	for (const [sourceId, chapters] of Object.entries(files)) {
-		databases[`perks_${sourceId}`] = Object.fromEntries(
-			Object.values(chapters)
-				.flat()
-				.map(perk => [perk.id, perk]),
-		);
-	}
-
-	for (const name of nyadb.getList()) {
-		if (!Object.hasOwn(databases, name)) nyadb.delete(name);
-	}
-	for (const [name, contents] of Object.entries(databases)) {
-		if (nyadb.exists(name)) nyadb.clear(name);
-		else nyadb.create(name);
-		if (!nyadb.set(name, contents)) throw new Error(`Failed to write database "${name}"`);
-		logger.log(`Stored database "${name}"`);
-	}
-}
-
 function validatePreparedData({ dataset, categories, sources, grouped, items, changedIdCount, reusedOrRetiredIdCount }) {
 	const errors = [];
 	const ids = new Set();
@@ -921,58 +857,15 @@ function mergeSourcePayload(existingPayload, incomingPayload) {
 	};
 }
 
-function mergePerkPayload(existingPayload, incomingPayload) {
-	const existing = existingPayload && typeof existingPayload === 'object' ? existingPayload : {};
-	const incoming = incomingPayload && typeof incomingPayload === 'object' ? incomingPayload : {};
-	const merged = { ...existing };
-
-	for (const [sourceId, incomingSource] of Object.entries(incoming)) {
-		if (sourceId === 'metadata' || sourceId === '_metadata') {
-			merged[sourceId] = {
-				...(existing[sourceId] && typeof existing[sourceId] === 'object' ? existing[sourceId] : {}),
-				...(incomingSource && typeof incomingSource === 'object' ? incomingSource : {}),
-			};
-			continue;
-		}
-
-		const existingSource = existing[sourceId] && typeof existing[sourceId] === 'object' ? existing[sourceId] : {};
-		const existingChapters = existingSource.chapters && typeof existingSource.chapters === 'object' ? existingSource.chapters : {};
-		const incomingChapters = incomingSource?.chapters && typeof incomingSource.chapters === 'object' ? incomingSource.chapters : {};
-		const chapters = { ...existingChapters };
-
-		for (const [chapterKey, incomingChapter] of Object.entries(incomingChapters)) {
-			const existingChapter = existingChapters[chapterKey] && typeof existingChapters[chapterKey] === 'object' ? existingChapters[chapterKey] : {};
-			const existingPerks = existingChapter.perks && typeof existingChapter.perks === 'object' ? existingChapter.perks : {};
-			const incomingPerks = incomingChapter?.perks && typeof incomingChapter.perks === 'object' ? incomingChapter.perks : {};
-			chapters[chapterKey] = {
-				...existingChapter,
-				...incomingChapter,
-				perks: {
-					...existingPerks,
-					...incomingPerks,
-				},
-			};
-		}
-
-		merged[sourceId] = {
-			...existingSource,
-			...incomingSource,
-			chapters,
-		};
-	}
-
-	return merged;
-}
-
 function mergeNyaDbContents(name, existingContents, incomingContents) {
 	if (!existingContents || typeof existingContents !== 'object') return incomingContents;
 	if (name === 'dataset') return { ...existingContents, ...(incomingContents || {}) };
 	if (name === 'categories') return mergeCategoryPayload(existingContents, incomingContents);
 	if (name === 'sources') return mergeSourcePayload(existingContents, incomingContents);
-	return mergePerkPayload(existingContents, incomingContents);
+	return { ...existingContents, ...(incomingContents || {}) };
 }
 
-function writeNyaDbDatabases({ dataset, categories, sources, grouped }, logger = console, options = {}) {
+function writeNyaDbDatabases({ files, sourceMetadata }, logger = console, options = {}) {
 	const mergeExisting = options.mergeExisting === true;
 	const NyaDB = require('@decaded/nyadb');
 	const nyadb = new NyaDB({
@@ -982,12 +875,21 @@ function writeNyaDbDatabases({ dataset, categories, sources, grouped }, logger =
 		maxFileSize: 1024,
 	});
 	const databases = {
-		dataset,
-		categories: { categories },
-		sources: { sources },
-		...grouped,
+		generatorSources: Object.fromEntries(sourceMetadata.sources.map(source => [source.id, source])),
 	};
+	for (const [category, chapters] of Object.entries(files)) {
+		databases[`perks_${category}`] = Object.fromEntries(
+			Object.values(chapters)
+				.flat()
+				.map(perk => [perk.id, perk]),
+		);
+	}
 
+	if (!mergeExisting) {
+		for (const name of nyadb.getList()) {
+			if (!Object.hasOwn(databases, name)) nyadb.delete(name);
+		}
+	}
 	for (const [name, contents] of Object.entries(databases).sort(([a], [b]) => a.localeCompare(b))) {
 		const exists = nyadb.exists(name);
 		if (!exists) nyadb.create(name);
@@ -1074,6 +976,10 @@ async function buildDatabase(options = {}) {
 	const sheetsRoot = options.sheetsRoot || SHEETS_ROOT;
 	const logger = options.logger || console;
 	const writeNyaDb = options.writeNyaDb !== false;
+	const registryPath = options.registryPath || ID_REGISTRY_PATH;
+	const retireMissing = options.retireMissing !== false;
+	const sourceMetadataConfigPath = options.sourceMetadataConfigPath;
+	const sourceGroups = options.sourceGroups || shared.sourceVersions;
 
 	let globalMaxCP = 0;
 	const databases = new Map();
@@ -1100,15 +1006,27 @@ async function buildDatabase(options = {}) {
 
 	const prepared = prepareItems(databases);
 	disambiguateLogicalKeys(prepared.items);
-	const output = buildBackendGeneratorFiles(prepared.items);
-	const manualSourceMetadata = loadSourceMetadataConfig();
+
+	const registry = loadRegistry(registryPath);
+	const { changedIdCount, reusedOrRetiredIdCount } = assignPerkIds(prepared.items, registry);
+	if (retireMissing) retireMissingRegistryKeys(registry, new Set(prepared.items.map(item => item.logicalKey)));
+	fs.mkdirSync(path.dirname(registryPath), { recursive: true });
+	fs.writeFileSync(registryPath, JSON.stringify(registry, null, 2), 'utf8');
+
+	const output = buildBackendGeneratorFiles(prepared.items, sourceGroups);
+	const grouped = buildPerkDatabases(prepared.items);
+	const manualSourceMetadata = loadSourceMetadataConfig(sourceMetadataConfigPath);
 	const validationErrors = [...validateBackendGeneratorFiles(output), ...validateSourceMetadataConfig(output.sourceMetadata.sources, manualSourceMetadata)];
-	const report = {
-		perkCount: prepared.items.length,
-		categoryCount: Object.keys(output.files).length,
-		sourceCount: output.sourceMetadata.sources.length,
+	const report = reportPreparedData({
+		dataset: shared.dataset,
+		categories: prepared.categories,
+		sources: prepared.sources,
+		grouped,
+		items: prepared.items,
+		changedIdCount,
+		reusedOrRetiredIdCount,
 		validationErrorCount: validationErrors.length,
-	};
+	});
 
 	if (validationErrors.length) {
 		logger.error(JSON.stringify(report, null, 2));
@@ -1117,7 +1035,7 @@ async function buildDatabase(options = {}) {
 
 	applySourceMetadataOverrides(output.sourceMetadata.sources, manualSourceMetadata);
 	updateSourceR18Flags(output.sourceMetadata.sources);
-	if (writeNyaDb) writeBackendNyaDb(output, logger);
+	if (writeNyaDb) writeNyaDbDatabases({ files: output.files, sourceMetadata: output.sourceMetadata }, logger);
 	logger.log(JSON.stringify(report, null, 2));
 	logger.log(`Highest CP found: ${globalMaxCP}`);
 	return {
@@ -1132,7 +1050,6 @@ if (require.main === module) {
 
 module.exports = {
 	buildDatabase,
-	collectSplitRows,
 	deriveCategoryVersion,
 	deriveSplitCategory,
 	extractChapterFromFilename,
@@ -1151,8 +1068,5 @@ module.exports = {
 	loadSourceMetadataConfig,
 	validateSourceMetadataConfig,
 	applySourceMetadataOverrides,
-	writeBackendNyaDb,
-	writeNyaDbDatabases,
-	writeSplitFiles,
 	updateSourceR18Flags,
 };
