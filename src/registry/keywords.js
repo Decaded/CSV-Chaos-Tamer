@@ -2,15 +2,12 @@ const fs = require('fs');
 const path = require('path');
 
 const KEYWORD_FILTER_PATH = path.join(__dirname, '..', 'config', 'keyword-filter.json');
-let keywordCache = null;
 
 function loadKeywords() {
-	if (keywordCache) return keywordCache;
 	try {
 		const raw = fs.readFileSync(KEYWORD_FILTER_PATH, 'utf8');
 		const parsed = JSON.parse(raw);
-		keywordCache = (parsed.keywords || []).map(k => String(k).toLowerCase()).filter(Boolean);
-		return keywordCache;
+		return (parsed.keywords || []).map(k => String(k).toLowerCase()).filter(Boolean);
 	} catch (err) {
 		console.warn('Could not load keyword-filter.json, R18 keyword detection disabled.', err.message);
 		return [];
