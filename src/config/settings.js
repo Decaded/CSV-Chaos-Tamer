@@ -91,6 +91,7 @@ const csv = {
 		name: 'name',
 		item: 'name',
 		perkname: 'name',
+		perkitem: 'name',
 		jump: 'source',
 		jumpdoc: 'source',
 		jumpchain: 'source',
