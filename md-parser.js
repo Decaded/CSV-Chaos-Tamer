@@ -60,6 +60,16 @@ function parseEntry(rawRest) {
 		return { name, cost, descStart: '' };
 	}
 
+	// Format: [Name] (COST)(Extra tag): Description — leading bracket is the name when its
+	// content doesn't look like a cost marker and a cost-shaped parenthetical follows it
+	const bracketNameThenParenCost = rest.match(/^\[([^\]]+)\][\s​\u200B]*\((-?\d+(?:\s*(?:CP|BP|KP))?|Free)\)(?:\s*\([^)]*\))*\s*:?\s*(.*)$/is);
+	if (bracketNameThenParenCost && !/CP|BP|KP|Free|\d/i.test(bracketNameThenParenCost[1])) {
+		name = bracketNameThenParenCost[1].replace(/^\*+/, '').trim();
+		cost = bracketNameThenParenCost[2].trim();
+		descStart = bracketNameThenParenCost[3];
+		return { name, cost, descStart };
+	}
+
 	// Format: [COST] Name: Description or [COST] Name - Description or [COST] Name (desc on next line)
 	// Handle multiple brackets by preferring ones with CP/BP/KP
 	const bracketCostFirst = rest.match(/^\[([^\]]+)\][\s​\u200B]+(.+)$/s);
@@ -330,7 +340,8 @@ async function parseMarkdown(filePath) {
 
 		// Chapter heading? (This becomes the "source" field)
 		if (isChapterHeading(lines, i)) {
-			currentSource = trimmed;
+			// Strip ATX-style markdown heading markers (#, ##, ...) before using as source name
+			currentSource = trimmed.replace(/^#+\s*/, '');
 			continue;
 		}
 
@@ -354,10 +365,7 @@ async function parseMarkdown(filePath) {
 			}
 
 			const nextLineCostIndex = descLines.findIndex(line => line.trim());
-			const nextLineCost =
-				nextLineCostIndex >= 0
-					? descLines[nextLineCostIndex].trim().match(/^(-?\d+(?:\s*(?:CP|BP|KP))?|Free|Variable\s+CP)\s*:?\s*$/i)
-					: null;
+			const nextLineCost = nextLineCostIndex >= 0 ? descLines[nextLineCostIndex].trim().match(/^(-?\d+(?:\s*(?:CP|BP|KP))?|Free|Variable\s+CP)\s*:?\s*$/i) : null;
 			const parsedCost = transforms.cost(cost);
 			const costLooksLikeMetadata = typeof parsedCost !== 'number' && !/free|\d/i.test(String(parsedCost));
 			if (nextLineCost && (cost === 'Free' || costLooksLikeMetadata)) {
@@ -456,13 +464,7 @@ async function parseMarkdown(filePath) {
 				source: currentSource || filename,
 			};
 
-			if (
-				rows.length &&
-				row.cost === 0 &&
-				!row.description &&
-				row.name.length > 100 &&
-				/[.!?][\s\\]*$/.test(row.name)
-			) {
+			if (rows.length && row.cost === 0 && !row.description && row.name.length > 100 && /[.!?][\s\\]*$/.test(row.name)) {
 				const previous = rows[rows.length - 1];
 				previous.description = transforms.description([previous.description, row.name].filter(Boolean).join('\n'));
 				continue;

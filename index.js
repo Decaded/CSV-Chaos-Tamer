@@ -9,6 +9,7 @@ const { shared, csv: csvConfig } = require('./config');
 const SHEETS_ROOT = path.join(__dirname, 'sheets');
 const OUT_ROOT = path.join(__dirname, 'data');
 const ID_REGISTRY_PATH = path.join(__dirname, 'perk-id-registry.json');
+const SOURCE_METADATA_CONFIG_PATH = path.join(__dirname, 'source-metadata.config.json');
 const MACHINE_ID_RE = /^[a-z0-9_-]+$/;
 
 const headerMap = csvConfig.headerMap;
@@ -16,6 +17,38 @@ const transformMap = csvConfig.transforms;
 const SPLIT_CHAPTERS = shared.splitChapters;
 
 const fallbackHeaders = csvConfig.fallbackHeaders;
+
+const KEYWORD_FILTER_PATH = path.join(__dirname, 'keyword-filter.json');
+let keywordCache = null;
+
+function loadKeywords() {
+	if (keywordCache) return keywordCache;
+	try {
+		const raw = fs.readFileSync(KEYWORD_FILTER_PATH, 'utf8');
+		const parsed = JSON.parse(raw);
+		keywordCache = (parsed.keywords || []).map(k => String(k).toLowerCase()).filter(Boolean);
+		return keywordCache;
+	} catch (err) {
+		console.warn('Could not load keyword-filter.json, R18 keyword detection disabled.', err.message);
+		return [];
+	}
+}
+
+/**
+ * Sets isR18 = true for any source whose displayName or description
+ * contains any keyword from keyword-filter.json (case‑insensitive substring).
+ * @param {object[]} sources - Array of source metadata objects, mutated in place.
+ */
+function updateSourceR18Flags(sources) {
+	const keywords = loadKeywords();
+	if (!keywords.length) return;
+	for (const source of sources) {
+		const text = [source.displayName, source.description].filter(Boolean).join(' ').toLowerCase();
+		const hasKeyword = keywords.some(keyword => text.includes(keyword));
+		if (hasKeyword) source.isR18 = true;
+		// If already true from perk detection, we keep it true.
+	}
+}
 
 /**
  * Normalizes a header by lowercasing and stripping non-alphabetic characters.
@@ -586,6 +619,95 @@ function validateBackendGeneratorFiles({ files, sourceMetadata }) {
 	return errors;
 }
 
+/**
+ * Loads the hand-maintained per-source metadata (description, sourceUrl, ...) that
+ * generator runs are gated on. See SOURCE_METADATA.md for the required shape.
+ * @param {string} configPath - Path to the manual metadata JSON file
+ * @returns {Record<string, object>} Manual metadata keyed by logical source id
+ */
+function loadSourceMetadataConfig(configPath = SOURCE_METADATA_CONFIG_PATH) {
+	let raw;
+	try {
+		raw = fs.readFileSync(configPath, 'utf8');
+	} catch (err) {
+		throw new Error(`Unable to read source metadata config at ${configPath}: ${err.message}`);
+	}
+	try {
+		return JSON.parse(raw);
+	} catch (err) {
+		throw new Error(`Invalid JSON in source metadata config at ${configPath}: ${err.message}`);
+	}
+}
+
+/**
+ * Validates that generated sources and the manual metadata config are in lockstep:
+ * every generated source must have a manual entry and vice versa, with required fields present.
+ * @param {object[]} sources - Generated source metadata entries
+ * @param {Record<string, object>} manualConfig - Manual metadata keyed by logical source id
+ * @returns {string[]} Validation error messages, empty if valid
+ */
+function validateSourceMetadataConfig(sources, manualConfig) {
+	const errors = [];
+	const sourcesById = new Map(sources.map(source => [source.id, source]));
+	const sourceIds = new Set(sourcesById.keys());
+
+	for (const sourceId of sourceIds) {
+		if (!Object.hasOwn(manualConfig, sourceId)) errors.push(`Source ${sourceId} is missing a source-metadata.config.json entry`);
+	}
+	for (const sourceId of Object.keys(manualConfig)) {
+		if (!sourceIds.has(sourceId)) errors.push(`source-metadata.config.json has an entry for unknown source ${sourceId}`);
+	}
+
+	for (const [sourceId, entry] of Object.entries(manualConfig)) {
+		if (!entry || typeof entry !== 'object') {
+			errors.push(`source-metadata.config.json entry for ${sourceId} must be an object`);
+			continue;
+		}
+		if (typeof entry.description !== 'string' || !entry.description.trim()) errors.push(`source-metadata.config.json entry for ${sourceId} is missing a description`);
+		if (typeof entry.sourceUrl !== 'string' || !entry.sourceUrl.trim()) errors.push(`source-metadata.config.json entry for ${sourceId} is missing a sourceUrl`);
+		if (Boolean(entry.altSourceUrl) !== Boolean(entry.altSourceLabel))
+			errors.push(`source-metadata.config.json entry for ${sourceId} must set altSourceUrl and altSourceLabel together`);
+
+		if (entry.categoryUrls !== undefined) {
+			if (!entry.categoryUrls || typeof entry.categoryUrls !== 'object' || Array.isArray(entry.categoryUrls)) {
+				errors.push(`source-metadata.config.json entry for ${sourceId} has an invalid categoryUrls`);
+			} else {
+				const categoryIds = new Set((sourcesById.get(sourceId)?.categories || []).map(category => category.id));
+				for (const [categoryId, url] of Object.entries(entry.categoryUrls)) {
+					if (!categoryIds.has(categoryId)) errors.push(`source-metadata.config.json entry for ${sourceId} has a categoryUrls entry for unknown category ${categoryId}`);
+					if (typeof url !== 'string' || !url.trim()) errors.push(`source-metadata.config.json entry for ${sourceId} has an empty categoryUrls entry for ${categoryId}`);
+				}
+			}
+		}
+	}
+
+	return errors;
+}
+
+/**
+ * Merges manually-maintained metadata into generated sources, replacing the auto-generated description.
+ * @param {object[]} sources - Generated source metadata entries, mutated in place
+ * @param {Record<string, object>} manualConfig - Manual metadata keyed by logical source id
+ */
+function applySourceMetadataOverrides(sources, manualConfig) {
+	for (const source of sources) {
+		const entry = manualConfig[source.id];
+		if (!entry) continue;
+		source.description = entry.description;
+		source.sourceUrl = entry.sourceUrl;
+		if (entry.altSourceUrl && entry.altSourceLabel) {
+			source.altSourceUrl = entry.altSourceUrl;
+			source.altSourceLabel = entry.altSourceLabel;
+		}
+		if (entry.categoryUrls) {
+			for (const category of source.categories) {
+				const categoryUrl = entry.categoryUrls[category.id];
+				if (categoryUrl) category.sourceUrl = categoryUrl;
+			}
+		}
+	}
+}
+
 function writeBackendNyaDb({ files, sourceMetadata }, logger = console) {
 	const NyaDB = require('@decaded/nyadb');
 	const nyadb = new NyaDB({
@@ -979,7 +1101,8 @@ async function buildDatabase(options = {}) {
 	const prepared = prepareItems(databases);
 	disambiguateLogicalKeys(prepared.items);
 	const output = buildBackendGeneratorFiles(prepared.items);
-	const validationErrors = validateBackendGeneratorFiles(output);
+	const manualSourceMetadata = loadSourceMetadataConfig();
+	const validationErrors = [...validateBackendGeneratorFiles(output), ...validateSourceMetadataConfig(output.sourceMetadata.sources, manualSourceMetadata)];
 	const report = {
 		perkCount: prepared.items.length,
 		categoryCount: Object.keys(output.files).length,
@@ -992,6 +1115,8 @@ async function buildDatabase(options = {}) {
 		throw new Error(`Prepared data failed validation:\n${validationErrors.slice(0, 25).join('\n')}`);
 	}
 
+	applySourceMetadataOverrides(output.sourceMetadata.sources, manualSourceMetadata);
+	updateSourceR18Flags(output.sourceMetadata.sources);
 	if (writeNyaDb) writeBackendNyaDb(output, logger);
 	logger.log(JSON.stringify(report, null, 2));
 	logger.log(`Highest CP found: ${globalMaxCP}`);
@@ -1023,7 +1148,11 @@ module.exports = {
 	mergeNyaDbContents,
 	validatePreparedData,
 	validateBackendGeneratorFiles,
+	loadSourceMetadataConfig,
+	validateSourceMetadataConfig,
+	applySourceMetadataOverrides,
 	writeBackendNyaDb,
 	writeNyaDbDatabases,
 	writeSplitFiles,
+	updateSourceR18Flags,
 };

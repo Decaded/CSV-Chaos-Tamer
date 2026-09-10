@@ -1,0 +1,181 @@
+{
+  "akashic_grimoire_rift_mod": {
+    "description": "Collection of perks, items, and companions pulled from Nasuverse jumpchains.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1WuP8rvDqTw7US8wOz5c8stDBlCH6uBdbIs1tT4TvUdY"
+  },
+  "bordello": {
+    "description": "Companions, relationships, and romance (R18+).",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1uzLB7rEYeXYKFxnL-qSCfv3rNuk4hbfkkXncHXczWjw"
+  },
+  "codex_40k_edition": {
+    "description": "Warhammer 40k universe.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1nhXV0EhJkW9556sJPTECVCPGrRr1hIEQ4MOK8b1tSkA"
+  },
+  "codex_fantasy_edition": {
+    "description": "Warhammer Fantasy universe.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1K6vQx_Cr0_U8TDPEWJQif49xw9YxZSVeqbLKQR9Fgwo"
+  },
+  "comic_book": {
+    "description": "Aliens, hero, mad scientist, villains and more.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1Y-r_-e0s3W_lTgWiPxBM2aLZkldcFCqQ1KUlLfdjMaw"
+  },
+  "companion": {
+    "description": "Recruit, coordinate, and empower companions.",
+    "sourceUrl": "https://docs.google.com/document/d/1yLw_trh14-1X2_P1-iJ9mRBEQgVrCBoJ4rcGk_Z9Fm4",
+    "altSourceUrl": "https://docs.google.com/spreadsheets/d/1NWlHKOZ2gIBtw9UFIZV7hATjp9bWKSlS9BgGzs62OMY",
+    "altSourceLabel": "sheet version by Celestial Dragon"
+  },
+  "companion_lewd": {
+    "description": "Companion-focused content with explicit, adult-oriented themes (R18+).",
+    "sourceUrl": "https://docs.google.com/document/d/1yLw_trh14-1X2_P1-iJ9mRBEQgVrCBoJ4rcGk_Z9Fm4",
+    "altSourceUrl": "https://docs.google.com/spreadsheets/d/1NWlHKOZ2gIBtw9UFIZV7hATjp9bWKSlS9BgGzs62OMY",
+    "altSourceLabel": "sheet version by Celestial Dragon"
+  },
+  "compendium": {
+    "description": "Mixed-genre perks, items, and powers.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1wTlbwB1o3STt2TKzc5UbytCarS52hxXICYrRN6f2YLA"
+  },
+  "darkest_tome": {
+    "description": "Dark magic, summoning, and Eldritch perks.",
+    "sourceUrl": "https://docs.google.com/document/d/1Il9Zzd85vnMw9FSzRe_fgJKqTHbrNeVHKzFACbjQm4c",
+    "altSourceUrl": "https://docs.google.com/spreadsheets/d/18a_5BInbtpu9n2Dvo6gNQL2sSpq6LO6YbC7pYiwBKys",
+    "altSourceLabel": "sheet version by Celestial Dragon"
+  },
+  "debauchery": {
+    "description": "Seduction, debauchery, and power (R18+). Also Waifus!",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/16QeMKFwWZy4dSNC1o24DgtliqPmu2tB79mPBiyZFsWw"
+  },
+  "dojo": {
+    "description": "Martial arts, combat techniques, and training methods.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1NuZt_0VgsI9IYEOa379kIJ9VAIZCp4BZ67BTfwyu6Zo"
+  },
+  "eldritch_grimoire": {
+    "description": "Blessings, lairs, relics, and summons.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1quvUOxMKbBmjlVnXuenskfBETlryO57pMYGju1q14cw"
+  },
+  "fighter": {
+    "description": "A Celestial Dojo Alternative.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1gGO1UX_NEJ7W7gpbzwvUVY8MPUsX4UIUDLA31hW8oC4"
+  },
+  "forge": {
+    "description": "Crafting, engineering, and technological advancements.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/16i09vrQq24uhajNCKdhAw2kbKdhdCyhj7PPlBcIFho0"
+  },
+  "gardens": {
+    "description": "Flora and farmland.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1uH7PaW6l5ZqopNLXTrd5hhmslH0Tcg98GE795INv0dc"
+  },
+  "grimoire": {
+    "description": "Magical abilities and powers.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1DmxG5BPs7YVe5u1F1GG70ZGYKOsqeABQVyqv4hi_k98",
+    "categoryUrls": {
+      "grimoire_v2": "https://docs.google.com/spreadsheets/d/1sg6o86EGVzrvMFrvHfXNTzvmR91DDrfvL4ySvwNiuBE",
+      "grimoire_v3": "https://docs.google.com/spreadsheets/d/1Ynehe1I8cbNpHt6iALC3vPWR81Qz_DhMqVI9HdHR8s4",
+      "grimoire_v6": "https://docs.google.com/spreadsheets/d/1r6mj_GRIUxxD_zP5O1WvSgtSNFZ91pEIfhHIziM_j4c",
+      "grimoire_yggdrasil_personal": "https://docs.google.com/spreadsheets/d/1XqfuMvuBfEWf-OBGC1IxLwDCc_VOUiUrcN72LnGa0Fg"
+    }
+  },
+  "heros_journey": {
+    "description": "Perks, powers, and tools for becoming a hero.",
+    "sourceUrl": "https://drive.google.com/file/d/1cbaI3q0X4Pq15zh6VRGrN2GjMHOWFutg",
+    "altSourceUrl": "https://docs.google.com/spreadsheets/d/1RxNK7ARYk5m6CQq_RYrruKM-_A2BDvdhFT7jGJvxeE4",
+    "altSourceLabel": "sheet version by Celestial Dragon"
+  },
+  "holocron": {
+    "description": "Star Wars perks, items, and powers.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1OP5o8EI2wKAJj6i6plrIV4Dh5gQACICREgSBetgSGA0"
+  },
+  "laboratory": {
+    "description": "Knowledge, tools, minions, assistants, weapons, and powers.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/11GwXhEpRCn6kaf2H_OHjCG9RoPF-UNAFP_gJ-uodH80"
+  },
+  "mutation": {
+    "description": "Mutations, transformations, and biological enhancements (modified).",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1pkgWPvDmSg0jNGf3_1YN5dvxw9bxdIdwGOLhlxP_JJs"
+  },
+  "ocarina": {
+    "description": "Legend of Zelda universe.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1Ad3kJnrfZc2sPIy4B7uSH_k99r33nxvEf93TgeHwJ1M"
+  },
+  "omni-tool": {
+    "description": "Mass Effect universe.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1EsWJv2TqGjI1RdGcvgmfdfBnXNQqMWzdCpxC2MdY7Jk"
+  },
+  "oven": {
+    "description": "Cooking accessories, items, and culinary enhancements.",
+    "sourceUrl": "https://docs.google.com/document/d/1xacp7JjaSnDw3e_gfxVmtZxqL7ASxKT6oW_AsYXOgEY"
+  },
+  "pipboy": {
+    "description": "Fallout universe.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1ntRDAZCQHAgK3wFciQdPosawATpbvGXArD580IE6RdY"
+  },
+  "primordial_flames": {
+    "description": "The Celestial Forge, Deindustrialized.",
+    "sourceUrl": "https://docs.google.com/document/d/1-q4n6FuwSX2OmvHt5YqY3tQjGkWtiVIA",
+    "altSourceUrl": "https://docs.google.com/spreadsheets/d/1y-iuCv92jwNt2dh_aWK8luJ9fSyAYASxs58BfPM6t7E",
+    "altSourceLabel": "sheet version by Celestial Dragon"
+  },
+  "reliquary": {
+    "description": "Artifacts, relics, and legendary items.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1sj0ZhEOg0EoRSm0OOWF9mrWF-71PRyMlUo6JfRbAsPM"
+  },
+  "ring": {
+    "description": "Lord of the Rings universe.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/17NvGhYlHhOx2x8Np305rH3X5hJOSa-FThDYczpDzTQs"
+  },
+  "scrolls": {
+    "description": "Perks, items, companions, and powers from the Elder Scrolls universe.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1m_SDaUBWBedXICK7akqP0a5v2IcVCbOUezJbxxBcBJs",
+    "categoryUrls": {
+      "scrolls_v1": "https://docs.google.com/spreadsheets/d/1nB6ZEoVgUFQJEW4To1UQGr3q1G5WaFm-aUX7Ob5YeL0",
+      "scrolls_v3": "https://docs.google.com/spreadsheets/d/1nB6ZEoVgUFQJEW4To1UQGr3q1G5WaFm-aUX7Ob5YeL0"
+    }
+  },
+  "secundus": {
+    "description": "Warhammer 40k universe.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1ZKdvihOL4rYl38r593jBS7tq_I6iLYoRwaNFDn3eXuY"
+  },
+  "something": {
+    "description": "Minecraft, Factorio, RimWorld, and other games.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1v7eHZ0wPnC9B_jhTrh-hFgmt6Jwyr729risMDimthKU",
+    "categoryUrls": {
+      "something_v2": "https://docs.google.com/spreadsheets/d/1qWY9o7B9mGmD7HcGdDiFioARY1Jm4_pq2OyTyHa86kk",
+      "something_v3": "https://docs.google.com/spreadsheets/d/1qWY9o7B9mGmD7HcGdDiFioARY1Jm4_pq2OyTyHa86kk"
+    }
+  },
+  "song": {
+    "description": "Dragonlords, Sorcery, Relics, and Rule.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1eUw87Qgk5PRgDcYaOLg7OcYVc8mhFjRPv1I2wstW6SU"
+  },
+  "spellbook": {
+    "description": "Spells, scrolls, and magical knowledge (Harry Potter and Fantastic Beasts).",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1UZGZuuW6VF3XtTIqU0qoPX3Ed-sQlraWpLAb3AL9AJc",
+    "categoryUrls": {
+      "spellbook_v2": "https://docs.google.com/spreadsheets/d/15dtLXBZCAoVZtRdkDmGh6udZlU8jXMdIordUkvKO3Tg"
+    }
+  },
+  "tarot": {
+    "description": "Dragon Age series.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1kkN-q8ZTXmccwCMVGZBlbUSt4iuwR25h5qF3_51XNrQ"
+  },
+  "the_godly_epic_meros_proto_xxxl": {
+    "description": "A collection of perks, items, and powers from various sources.",
+    "sourceUrl": "https://drive.google.com/file/d/1GGkxdmLii8CSdgEohmyIxvsYsnkpxFqg"
+  },
+  "treasure_chest": {
+    "description": "Treasure, Loot, and Rewards.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/15EeEh-HV5ZwEzRGyFTfM9fgOrebwW2HSohNWLUA0Z2U"
+  },
+  "vault": {
+    "description": "Sci-Fi version of the Celestial Reliquary.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1wuJRHeysHc8JbCJAX-P422P1_JHJcrNTSwd-wc-jCP0"
+  },
+  "waifu": {
+    "description": "Waifu companions and romance content (R18+).",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/16QeMKFwWZy4dSNC1o24DgtliqPmu2tB79mPBiyZFsWw"
+  },
+  "warp_core": {
+    "description": "Star Trek universe.",
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1hRC8nBlG0Ur8p3V4kOyN24XwjOFoPX5Lia3yM7Z0wPw"
+  }
+}

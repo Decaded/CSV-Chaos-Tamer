@@ -15,6 +15,8 @@ const {
 	mergeNyaDbContents,
 	validatePreparedData,
 	validateBackendGeneratorFiles,
+	validateSourceMetadataConfig,
+	applySourceMetadataOverrides,
 } = require('../index');
 
 function test(name, fn) {
@@ -349,4 +351,46 @@ test('assignPerkIds assigns fresh id for retired logical key', () => {
 	assert.strictEqual(registry.active['demo/source/id_1'], 'perk_000003');
 	assert.strictEqual(registry.retired['demo/source/id_1'], undefined);
 	assert.strictEqual(stats.reusedOrRetiredIdCount, 0);
+});
+
+test('validateSourceMetadataConfig flags sources missing a manual entry', () => {
+	const errors = validateSourceMetadataConfig([{ id: 'grimoire' }], {});
+	assert.ok(errors.some(err => err.includes('grimoire') && err.includes('missing')));
+});
+
+test('validateSourceMetadataConfig flags manual entries with no matching source', () => {
+	const errors = validateSourceMetadataConfig([], { orphan: { description: 'd', sourceUrl: 'https://example.com' } });
+	assert.ok(errors.some(err => err.includes('orphan') && err.includes('unknown source')));
+});
+
+test('validateSourceMetadataConfig requires non-empty description and sourceUrl', () => {
+	const errors = validateSourceMetadataConfig([{ id: 'grimoire' }], { grimoire: { description: '', sourceUrl: '' } });
+	assert.ok(errors.some(err => err.includes('description')));
+	assert.ok(errors.some(err => err.includes('sourceUrl')));
+});
+
+test('validateSourceMetadataConfig requires altSourceUrl and altSourceLabel together', () => {
+	const errors = validateSourceMetadataConfig([{ id: 'grimoire' }], {
+		grimoire: { description: 'd', sourceUrl: 'https://example.com', altSourceUrl: 'https://alt.example.com' },
+	});
+	assert.ok(errors.some(err => err.includes('altSourceUrl') && err.includes('altSourceLabel')));
+});
+
+test('validateSourceMetadataConfig passes for a fully matched, valid config', () => {
+	const errors = validateSourceMetadataConfig([{ id: 'grimoire' }], { grimoire: { description: 'd', sourceUrl: 'https://example.com' } });
+	assert.deepStrictEqual(errors, []);
+});
+
+test('applySourceMetadataOverrides replaces description and adds sourceUrl', () => {
+	const sources = [{ id: 'grimoire', description: 'Perks from Grimoire.' }];
+	applySourceMetadataOverrides(sources, { grimoire: { description: 'Magical abilities and powers.', sourceUrl: 'https://example.com' } });
+	assert.strictEqual(sources[0].description, 'Magical abilities and powers.');
+	assert.strictEqual(sources[0].sourceUrl, 'https://example.com');
+});
+
+test('applySourceMetadataOverrides leaves sources without a manual entry untouched', () => {
+	const sources = [{ id: 'grimoire', description: 'Perks from Grimoire.' }];
+	applySourceMetadataOverrides(sources, {});
+	assert.strictEqual(sources[0].description, 'Perks from Grimoire.');
+	assert.strictEqual(sources[0].sourceUrl, undefined);
 });
