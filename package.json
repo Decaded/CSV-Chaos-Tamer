@@ -15,7 +15,7 @@
   "scripts": {
     "run": "node index.js",
     "web": "node web-server.js",
-    "test": "node test/md-parser.test.js && node test/index.test.js"
+    "test": "node test/run.js"
   },
   "keywords": [
     "celestial",

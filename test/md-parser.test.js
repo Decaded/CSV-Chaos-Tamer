@@ -2,27 +2,8 @@ const assert = require('assert');
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
+const { test, testAsync } = require('./summary');
 const { parseEntry, parseMarkdown } = require('../md-parser');
-
-function test(name, fn) {
-	try {
-		fn();
-		console.log(`ok - ${name}`);
-	} catch (err) {
-		console.error(`not ok - ${name}`);
-		throw err;
-	}
-}
-
-async function testAsync(name, fn) {
-	try {
-		await fn();
-		console.log(`ok - ${name}`);
-	} catch (err) {
-		console.error(`not ok - ${name}`);
-		throw err;
-	}
-}
 
 test('parseEntry handles cost before name', () => {
 	assert.deepStrictEqual(parseEntry('(200 CP) Example Name - Example description.'), {

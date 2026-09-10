@@ -1,8 +1,12 @@
 const assert = require('assert');
+const fs = require('fs');
+const os = require('os');
+const path = require('path');
+const { test, testAsync } = require('./summary');
 const {
 	assignPerkIds,
+	buildDatabase,
 	buildPerkDatabases,
-	collectSplitRows,
 	deriveCategoryVersion,
 	deriveSplitCategory,
 	extractChapterFromFilename,
@@ -19,16 +23,6 @@ const {
 	applySourceMetadataOverrides,
 } = require('../index');
 
-function test(name, fn) {
-	try {
-		fn();
-		console.log(`ok - ${name}`);
-	} catch (err) {
-		console.error(`not ok - ${name}`);
-		throw err;
-	}
-}
-
 test('normalizeHeader lowercases and removes non-letters', () => {
 	assert.strictEqual(normalizeHeader('CP Cost'), 'cpcost');
 	assert.strictEqual(normalizeHeader('Unnamed: 0'), 'unnamed');
@@ -36,27 +30,6 @@ test('normalizeHeader lowercases and removes non-letters', () => {
 
 test('extractChapterFromFilename strips common noise', () => {
 	assert.strictEqual(extractChapterFromFilename('Copy - Items.csv'), 'Items');
-});
-
-test('collectSplitRows aggregates split chapters and removes them from database', () => {
-	const database = {
-		1: [
-			{ name: 'Keep me', chapter: 'Main' },
-			{ name: 'Split waifu', chapter: 'Waifu Catalogue' },
-		],
-		2: [{ name: 'Split lewd', chapter: 'Lewd' }],
-	};
-	const splitBuckets = {};
-
-	collectSplitRows(database, splitBuckets);
-
-	assert.deepStrictEqual(Object.keys(splitBuckets).sort(), ['companion_lewd', 'waifu']);
-	assert.strictEqual(splitBuckets.waifu.length, 1);
-	assert.strictEqual(splitBuckets.companion_lewd.length, 1);
-	assert.deepStrictEqual(database, {
-		1: [{ name: 'Keep me', chapter: 'Main' }],
-		2: [],
-	});
 });
 
 test('deriveCategoryVersion groups trailing v-number folders as category versions', () => {
@@ -350,7 +323,52 @@ test('assignPerkIds assigns fresh id for retired logical key', () => {
 	assert.strictEqual(items[0].perk.id, 'perk_000003');
 	assert.strictEqual(registry.active['demo/source/id_1'], 'perk_000003');
 	assert.strictEqual(registry.retired['demo/source/id_1'], undefined);
+	assert.strictEqual(stats.reusedOrRetiredIdCount, 1);
+});
+
+test('assignPerkIds preserves existing active ids and skips counting them as changed', () => {
+	const registry = {
+		version: 1,
+		nextNumericId: 1,
+		active: { 'demo/source/id_1': 'perk_000007' },
+		retired: {},
+	};
+	const items = [{ logicalKey: 'demo/source/id_1', perk: { id: null } }];
+
+	const stats = assignPerkIds(items, registry);
+
+	assert.strictEqual(items[0].perk.id, 'perk_000007');
+	assert.strictEqual(stats.changedIdCount, 0);
 	assert.strictEqual(stats.reusedOrRetiredIdCount, 0);
+});
+
+testAsync('buildDatabase writes a persistent perk ID registry and keeps ids stable across runs', async () => {
+	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-registry-'));
+	const sheetsRoot = path.join(dir, 'sheets');
+	const registryPath = path.join(dir, 'perk-id-registry.json');
+	const configPath = path.join(dir, 'source-metadata.config.json');
+
+	await fs.promises.mkdir(path.join(sheetsRoot, 'forge'), { recursive: true });
+	await fs.promises.writeFile(
+		path.join(sheetsRoot, 'forge', 'Forge.csv'),
+		['Name,Cost,Source,Description', 'Hammer Time,200,The Forge,Make tools.', 'Anvil Time,300,The Forge,Make heavier tools.'].join('\n'),
+		'utf8',
+	);
+	await fs.promises.writeFile(configPath, JSON.stringify({ forge: { description: 'Crafting perks.', sourceUrl: 'https://example.com' } }), 'utf8');
+
+	const options = { sheetsRoot, registryPath, sourceMetadataConfigPath: configPath, sourceGroups: {}, writeNyaDb: false, logger: { log() {}, warn() {}, error() {} } };
+
+	const first = await buildDatabase(options);
+	assert.strictEqual(first.report.perkCount, 2);
+	assert.deepStrictEqual(first.databases, ['forge']);
+	assert.strictEqual(first.report.duplicateIdCount, 0);
+	const firstIds = JSON.parse(await fs.promises.readFile(registryPath, 'utf8')).active;
+
+	const second = await buildDatabase(options);
+	const secondIds = JSON.parse(await fs.promises.readFile(registryPath, 'utf8')).active;
+	assert.deepStrictEqual(secondIds, firstIds);
+	assert.strictEqual(second.report.perkCount, 2);
+	assert.strictEqual(second.report.changedIdCountSincePreviousRender, 0);
 });
 
 test('validateSourceMetadataConfig flags sources missing a manual entry', () => {
