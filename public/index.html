@@ -17,21 +17,21 @@
 			class="ribbon-corner"
 			aria-hidden="true"
 		>
-			<div class="ribbon">IN DEVELOPMENT</div>
+			<div class="ribbon">BETA</div>
 		</div>
 		<main class="app-shell">
 			<section class="workspace">
 				<header class="topbar">
 					<div>
 						<h1>CSV Chaos Tamer</h1>
-						<p id="databaseStatus">Storage status pending</p>
+						<p id="serverStatus">Status pending</p>
 					</div>
 					<button
 						class="icon-button"
 						id="refreshStatus"
 						type="button"
-						title="Refresh storage status"
-						aria-label="Refresh storage status"
+						title="Refresh status"
+						aria-label="Refresh status"
 					>
 						<span aria-hidden="true">R</span>
 					</button>
@@ -41,10 +41,26 @@
 					<button
 						type="button"
 						class="tab-button active"
-						id="tabUpload"
-						data-tab="upload"
+						id="tabBuild"
+						data-tab="build"
 					>
-						Upload
+						Build
+					</button>
+					<button
+						type="button"
+						class="tab-button"
+						id="tabSourceMetadata"
+						data-tab="source-metadata"
+					>
+						Source metadata
+					</button>
+					<button
+						type="button"
+						class="tab-button"
+						id="tabKeywordFilter"
+						data-tab="keyword-filter"
+					>
+						Keyword filter
 					</button>
 					<button
 						type="button"
@@ -57,62 +73,20 @@
 				</div>
 
 				<section
-					id="paneUpload"
+					id="paneBuild"
 					class="tab-pane active"
 				>
-					<div class="grid">
-						<form
-							id="convertForm"
-							class="panel upload-panel"
-						>
-							<p class="helper-text">Category folders are detected automatically per uploaded file.</p>
-
-							<div
-								class="dropzone"
-								id="dropzone"
-							>
-								<input
-									id="files"
-									name="files"
-									type="file"
-									accept=".csv,.md,text/csv,text/markdown"
-									multiple
-								/>
-								<div>
-									<strong>Files</strong>
-									<span id="fileCount">No files selected</span>
-								</div>
+					<div class="build-layout">
+						<section class="panel build-sidebar">
+							<div class="panel-title">
+								<h2>Run build</h2>
+								<span
+									id="runState"
+									class="status-pill idle"
+									>Idle</span
+								>
 							</div>
-
-							<div class="field compact">
-								<label for="chooseFolder">Folder upload</label>
-								<div class="folder-actions">
-									<button
-										id="chooseFolder"
-										type="button"
-										class="ghost-button"
-									>
-										Add folder
-									</button>
-									<button
-										id="clearFolders"
-										type="button"
-										class="ghost-button"
-									>
-										Clear folders
-									</button>
-									<span id="folderCount">No folder selected</span>
-								</div>
-								<p class="helper-text">Add multiple folders by clicking Add folder repeatedly.</p>
-								<input
-									id="folderFiles"
-									name="folderFiles"
-									type="file"
-									webkitdirectory
-									multiple
-									hidden
-								/>
-							</div>
+							<p class="helper-text">Parses every CSV/Markdown source, validates the data, and updates the NyaDB datasets.</p>
 
 							<label class="check-row">
 								<input
@@ -121,85 +95,194 @@
 									type="checkbox"
 									checked
 								/>
-								<span>Write databases</span>
-							</label>
-
-							<label class="check-row">
-								<input
-									id="persistRegistry"
-									name="persistRegistry"
-									type="checkbox"
-									checked
-								/>
-								<span>Persist new perk IDs</span>
+								<span>Write NyaDB datasets</span>
 							</label>
 
 							<button
 								class="primary-button"
-								id="convertButton"
-								type="submit"
-							>
-								Convert
-							</button>
-						</form>
-
-						<section class="panel report-panel">
-							<div class="panel-title">
-								<h2>Conversion</h2>
-								<span
-									id="runState"
-									class="status-pill idle"
-									>Idle</span
-								>
-							</div>
-
-							<div
-								id="metrics"
-								class="metrics empty"
-							>
-								<div class="metric">
-									<span>Perks</span>
-									<strong>0</strong>
-								</div>
-								<div class="metric">
-									<span>Adult</span>
-									<strong>0</strong>
-								</div>
-								<div class="metric">
-									<span>Sources</span>
-									<strong>0</strong>
-								</div>
-								<div class="metric">
-									<span>Errors</span>
-									<strong>0</strong>
-								</div>
-							</div>
-
-							<div
-								id="outputs"
-								class="outputs"
-							></div>
-						</section>
-					</div>
-
-					<section class="panel logs-panel">
-						<div class="panel-title">
-							<h2>Logs</h2>
-							<button
-								class="ghost-button"
-								id="clearLogs"
+								id="buildButton"
 								type="button"
 							>
-								Clear
+								Run build
 							</button>
+
+							<div
+								class="field compact"
+								id="buildResultBlock"
+								hidden
+							>
+								<div class="panel-title compact-title">
+									<h2>Result</h2>
+								</div>
+								<div
+									id="metrics"
+									class="metrics empty"
+								></div>
+								<div
+									id="buildSummary"
+									class="helper-text build-summary"
+								></div>
+								<ul
+									id="validationErrors"
+									class="version-rows"
+								></ul>
+								<div
+									id="buildDiagnostics"
+									class="build-diagnostics"
+									hidden
+								></div>
+							</div>
+						</section>
+
+						<section class="panel console-panel">
+							<div class="panel-title">
+								<h2>Build console</h2>
+								<button
+									class="ghost-button"
+									id="clearLogs"
+									type="button"
+								>
+									Clear
+								</button>
+							</div>
+							<div
+								id="logs"
+								class="logs-console"
+							>
+								<span class="log-line log-info">Ready.</span>
+							</div>
+						</section>
+					</div>
+				</section>
+
+				<section
+					id="paneSourceMetadata"
+					class="tab-pane"
+				>
+					<section class="panel datasets-panel">
+						<div class="datasets-block">
+							<div class="panel-title compact-title">
+								<h2>Source metadata</h2>
+								<div class="dataset-actions">
+									<button
+										class="ghost-button"
+										id="addMetaRow"
+										type="button"
+									>
+										Add source
+									</button>
+									<button
+										class="ghost-button"
+										id="reloadSourceMetadata"
+										type="button"
+									>
+										Reload
+									</button>
+								</div>
+							</div>
+							<p class="helper-text">Descriptions and source URLs for each source folder, one row per source. Saved straight to source-metadata.config.json.</p>
+							<div class="editor-search-row condensed">
+								<input
+									id="metadataSearch"
+									type="text"
+									placeholder="Filter rows"
+								/>
+								<span id="metadataSearchCount"></span>
+							</div>
+							<div class="meta-table-wrap">
+								<table class="meta-table">
+									<thead>
+										<tr>
+											<th>Name</th>
+											<th>Description</th>
+											<th>Source URL</th>
+											<th>Alt. source URL</th>
+											<th>Alt. label</th>
+											<th></th>
+										</tr>
+									</thead>
+									<tbody id="metaTableBody"></tbody>
+								</table>
+							</div>
 						</div>
-						<pre
-							id="logs"
-							class="logs"
-						>
-Ready.</pre
-						>
 					</section>
+
+					<div
+						id="sourceModal"
+						class="modal-overlay"
+						hidden
+					>
+						<div class="modal">
+							<div class="modal-header">
+								<h2>Add source</h2>
+								<button
+									id="closeSourceModal"
+									type="button"
+									class="ghost-button"
+								>
+									Cancel
+								</button>
+							</div>
+							<div class="modal-body">
+								<div
+									id="sourceModalUploadSection"
+									class="dropzone dropzone-modal"
+								>
+									<input
+										id="sourceModalUpload"
+										type="file"
+										accept=".csv,.md,text/csv,text/markdown"
+										multiple
+									/>
+									<div>
+										<span>Drop CSV/Markdown files here or click to browse</span>
+										<strong>All files will be uploaded into the source folder.</strong>
+									</div>
+								</div>
+								<div
+									id="sourceModalStagedFiles"
+									class="staged-files-list"
+								></div>
+								<div class="field">
+									<label for="sourceModalName">Source name *</label>
+									<input
+										id="sourceModalName"
+										type="text"
+										placeholder="e.g. Celestial Forge"
+										required
+									/>
+									<p class="field-note">Folder / metadata id: <code id="sourceModalSlug"></code></p>
+								</div>
+								<div class="field">
+									<label for="sourceModalUrl">Source URL *</label>
+									<input
+										id="sourceModalUrl"
+										type="url"
+										placeholder="https://..."
+										required
+									/>
+								</div>
+								<div class="field">
+									<label for="sourceModalDesc">Description *</label>
+									<textarea
+										id="sourceModalDesc"
+										rows="2"
+										placeholder="Short description of the source"
+										required
+									></textarea>
+								</div>
+							</div>
+							<div class="modal-footer">
+								<button
+									id="saveSourceModal"
+									type="button"
+									class="primary-button"
+								>
+									Create source
+								</button>
+							</div>
+						</div>
+					</div>
 				</section>
 
 				<section
@@ -209,7 +292,7 @@ Ready.</pre
 					<section class="panel datasets-panel">
 						<div class="datasets-block">
 							<div class="panel-title compact-title">
-								<h2>Existing Datasets</h2>
+								<h2>Datasets</h2>
 								<button
 									class="ghost-button"
 									id="refreshDatasets"
@@ -230,7 +313,7 @@ Ready.</pre
 							></div>
 
 							<div class="field compact dataset-editor-block">
-								<label for="selectedDataset">View / edit selected dataset</label>
+								<label for="selectedDataset">View selected dataset</label>
 								<input
 									id="selectedDataset"
 									type="text"
@@ -246,14 +329,6 @@ Ready.</pre
 										Clear selection
 									</button>
 								</div>
-								<label class="check-row dataset-adult-toggle">
-									<input
-										id="datasetIsAdult"
-										type="checkbox"
-										disabled
-									/>
-									<span>Set isAdult for all perks in selected dataset</span>
-								</label>
 								<div class="editor-search-row">
 									<input
 										id="editorSearch"
@@ -280,7 +355,9 @@ Ready.</pre
 									id="datasetEditor"
 									class="dataset-editor"
 									spellcheck="false"
-									placeholder="Dataset JSON appears here"
+									rows="16"
+									readonly
+									placeholder="Datasets are served as-is — select one to view it"
 								></textarea>
 								<div class="dataset-actions">
 									<button
@@ -290,66 +367,58 @@ Ready.</pre
 									>
 										Reload
 									</button>
-									<button
-										id="saveDataset"
-										type="button"
-										class="primary-button"
-									>
-										Save dataset
-									</button>
 								</div>
 							</div>
+						</div>
+					</section>
+				</section>
 
-							<p
-								id="versionBuilderNotice"
-								class="helper-text"
-								hidden
-							>
-								Versioning options are unavailable for system datasets.
-							</p>
-							<div
-								id="versionBuilderBlock"
-								class="field compact version-builder-block"
-							>
-								<label>Combine datasets into category versions</label>
-								<div class="inline-grid two-col readonly-grid">
-									<input
-										id="categoryIdDisplay"
-										type="text"
-										readonly
-										placeholder="Category ID is detected from selected datasets"
-									/>
-									<input
-										id="categoryDisplayLabel"
-										type="text"
-										readonly
-										placeholder="Category name is auto-generated"
-									/>
-								</div>
-								<div
-									id="versionRowsContainer"
-									class="version-rows"
-								></div>
-								<div class="inline-grid two-col">
-									<button
-										id="addVersionRow"
-										type="button"
-										class="ghost-button"
-									>
-										Add version row
-									</button>
-									<select id="categoryDefaultVersionSelect"></select>
-								</div>
-								<div class="dataset-actions">
-									<button
-										id="saveCategoryVersions"
-										type="button"
-										class="primary-button"
-									>
-										Save category versions
-									</button>
-								</div>
+				<section
+					id="paneKeywordFilter"
+					class="tab-pane"
+				>
+					<section class="panel datasets-panel">
+						<div class="datasets-block">
+							<div class="panel-title compact-title">
+								<h2>Keyword filter config</h2>
+								<button
+									class="ghost-button"
+									id="reloadKeywordFilter"
+									type="button"
+								>
+									Reload
+								</button>
 							</div>
+							<p class="helper-text">Case‑insensitive substring match over source display name and description. One keyword per line. Matching sources are flagged as R18.</p>
+							<div class="editor-search-row">
+								<input
+									id="keywordSearch"
+									type="text"
+									placeholder="Jump to text"
+								/>
+								<button
+									id="keywordSearchPrev"
+									type="button"
+									class="ghost-button"
+								>
+									Prev
+								</button>
+								<button
+									id="keywordSearchNext"
+									type="button"
+									class="ghost-button"
+								>
+									Next
+								</button>
+								<span id="keywordSearchCount">0 matches</span>
+							</div>
+							<textarea
+								id="keywordFilterEditor"
+								class="dataset-editor"
+								spellcheck="false"
+								rows="14"
+								placeholder="one keyword per line&#10;lewd&#10;nude"
+							></textarea>
 						</div>
 					</section>
 				</section>

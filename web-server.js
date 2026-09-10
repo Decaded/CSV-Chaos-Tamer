@@ -1,34 +1,54 @@
-const crypto = require('crypto');
 const fs = require('fs');
 const http = require('http');
-const os = require('os');
 const path = require('path');
 const { URL } = require('url');
-const { buildDatabase } = require('./index');
 
-const ROOT = __dirname;
-const PUBLIC_ROOT = path.join(ROOT, 'public');
-const JOB_ROOT = path.join(ROOT, 'tmp', 'web-jobs');
-const MAIN_REGISTRY = path.join(ROOT, 'perk-id-registry.json');
-const PORT = Number(process.env.PORT || 3000);
-const HOST = process.env.HOST || '127.0.0.1';
-const MAX_UPLOAD_BYTES = Number(process.env.MAX_UPLOAD_BYTES || 250 * 1024 * 1024);
+const { buildDatabase } = require('./src/index');
+const { buildFailureReport } = require('./src/diagnostics');
+const { ID_REGISTRY_PATH } = require('./src/registry/perk-registry');
+const lockApi = require('./src/lock');
 
-const jobs = new Map();
+const DEFAULT_SOURCES_ROOT = path.join(__dirname, 'sources');
+const DEFAULT_NYADB_ROOT = path.resolve(process.cwd(), 'NyaDB');
+const DEFAULT_CONFIG_PATH = path.join(__dirname, 'src', 'config', 'source-metadata.config.json');
+const DEFAULT_KEYWORD_FILTER_PATH = path.join(__dirname, 'src', 'config', 'keyword-filter.json');
+const DEFAULT_PUBLIC_ROOT = path.join(__dirname, 'public');
+const DEFAULT_LOCK_PATH = path.join(__dirname, '.nya-build.lock');
+
+const PORT = Number(process.env.CSV_TAMER_PORT || 3000);
+const HOST = process.env.CSV_TAMER_HOST || '127.0.0.1';
+const MAX_BODY_BYTES = Number(process.env.CSV_TAMER_MAX_BODY || 64 * 1024 * 1024);
+
+function envPath(name, fallback) {
+	const value = process.env[name];
+	return value ? path.resolve(value) : fallback;
+}
+
+const CONFIG = {
+	sourcesRoot: envPath('CSV_TAMER_SOURCES_ROOT', DEFAULT_SOURCES_ROOT),
+	nyaDbRoot: envPath('CSV_TAMER_NYADB_ROOT', DEFAULT_NYADB_ROOT),
+	sourceMetadataConfigPath: envPath('CSV_TAMER_SOURCE_METADATA_CONFIG', DEFAULT_CONFIG_PATH),
+	keywordFilterPath: envPath('CSV_TAMER_KEYWORD_FILTER_CONFIG', DEFAULT_KEYWORD_FILTER_PATH),
+	registryPath: envPath('CSV_TAMER_REGISTRY_PATH', ID_REGISTRY_PATH),
+	publicRoot: envPath('CSV_TAMER_PUBLIC_ROOT', DEFAULT_PUBLIC_ROOT),
+	lockPath: envPath('CSV_TAMER_LOCK_FILE', DEFAULT_LOCK_PATH),
+	host: HOST,
+	port: PORT,
+	maxBodyBytes: MAX_BODY_BYTES,
+};
 
 const MIME_TYPES = {
 	'.html': 'text/html; charset=utf-8',
 	'.css': 'text/css; charset=utf-8',
 	'.js': 'application/javascript; charset=utf-8',
 	'.json': 'application/json; charset=utf-8',
+	'.svg': 'image/svg+xml',
+	'.png': 'image/png',
 };
 
 function sendJson(res, statusCode, payload) {
 	const body = JSON.stringify(payload, null, 2);
-	res.writeHead(statusCode, {
-		'content-type': 'application/json; charset=utf-8',
-		'content-length': Buffer.byteLength(body),
-	});
+	res.writeHead(statusCode, { 'content-type': 'application/json; charset=utf-8', 'content-length': Buffer.byteLength(body) });
 	res.end(body);
 }
 
@@ -37,44 +57,30 @@ function sendText(res, statusCode, message) {
 	res.end(message);
 }
 
-async function readJsonBody(req) {
-	const body = await readRequestBody(req);
-	if (!body.length) return {};
-	try {
-		return JSON.parse(body.toString('utf8'));
-	} catch (error) {
-		throw new Error('Invalid JSON body');
+async function readJsonBody(req, maxBytes) {
+	const chunks = [];
+	let total = 0;
+	for await (const chunk of req) {
+		total += chunk.length;
+		if (total > maxBytes) {
+			throw new Error(`Request body exceeds ${Math.round(maxBytes / 1024 / 1024)} MB`);
+		}
+		chunks.push(chunk);
 	}
-}
-
-function createStorageClient() {
-	const NyaDB = require('@decaded/nyadb');
-	return new NyaDB({
-		writeDebounce: 0,
-		maxFileSize: 1024,
-		formattingStyle: 'space',
-		indentSize: 2,
-	});
+	if (!total) return {};
+	try {
+		return JSON.parse(Buffer.concat(chunks).toString('utf8'));
+	} catch (error) {
+		throw new Error('Body must be valid JSON');
+	}
 }
 
 function safeDatabaseName(value) {
-	const name = String(value || '')
-		.trim()
-		.toLowerCase();
-	if (!/^[a-z0-9_-]+$/.test(name)) {
-		throw new Error('Database name must use lowercase letters, numbers, underscores, or dashes');
+	const name = String(value || '').trim();
+	if (!/^[a-zA-Z0-9_-]+$/.test(name)) {
+		throw Object.assign(new Error('Database name must use letters, numbers, underscores, or dashes'), { status: 400 });
 	}
 	return name;
-}
-
-function normalizeVersionId(value) {
-	const id = String(value || '')
-		.trim()
-		.toLowerCase();
-	if (!/^[a-z0-9_-]+$/.test(id)) {
-		throw new Error('Version ID must use lowercase letters, numbers, underscores, or dashes');
-	}
-	return id;
 }
 
 function toArray(value, fallbackKey) {
@@ -84,120 +90,56 @@ function toArray(value, fallbackKey) {
 	return Object.values(value);
 }
 
-function safeSegment(value, fallback = 'upload') {
-	const cleaned = String(value || fallback)
-		.normalize('NFKD')
-		.replace(/[\u0300-\u036f]/g, '')
-		.replace(/[^a-zA-Z0-9._ -]+/g, '_')
-		.replace(/\s+/g, ' ')
-		.trim();
-	return cleaned && cleaned !== '.' && cleaned !== '..' ? cleaned : fallback;
+function isPlainObject(value) {
+	return value !== null && typeof value === 'object' && !Array.isArray(value);
 }
 
-function safeRelativePath(value) {
-	return String(value || '')
-		.replace(/\\/g, '/')
-		.split('/')
-		.map(part => safeSegment(part))
-		.filter(part => part && part !== '.' && part !== '..')
-		.join('/');
-}
-
-function parseHeaderParams(headerValue) {
-	const params = {};
-	for (const part of headerValue.split(';')) {
-		const [rawKey, ...rawValue] = part.trim().split('=');
-		if (!rawValue.length) continue;
-		const value = rawValue.join('=').trim();
-		params[rawKey.toLowerCase()] = value.replace(/^"|"$/g, '');
-	}
-	return params;
-}
-
-function splitMultipart(buffer, boundary) {
-	const boundaryBuffer = Buffer.from(`--${boundary}`);
-	const parts = [];
-	let cursor = buffer.indexOf(boundaryBuffer);
-
-	while (cursor !== -1) {
-		cursor += boundaryBuffer.length;
-		if (buffer[cursor] === 45 && buffer[cursor + 1] === 45) break;
-		if (buffer[cursor] === 13 && buffer[cursor + 1] === 10) cursor += 2;
-		const next = buffer.indexOf(boundaryBuffer, cursor);
-		if (next === -1) break;
-		let end = next;
-		if (buffer[end - 2] === 13 && buffer[end - 1] === 10) end -= 2;
-		parts.push(buffer.subarray(cursor, end));
-		cursor = next;
-	}
-
-	return parts;
-}
-
-async function readRequestBody(req) {
+async function readRawBody(req, maxBytes) {
 	const chunks = [];
 	let total = 0;
 	for await (const chunk of req) {
 		total += chunk.length;
-		if (total > MAX_UPLOAD_BYTES) throw new Error(`Upload exceeds ${Math.round(MAX_UPLOAD_BYTES / 1024 / 1024)} MB`);
+		if (total > maxBytes) {
+			throw new Error(`Request body exceeds ${Math.round(maxBytes / 1024 / 1024)} MB`);
+		}
 		chunks.push(chunk);
 	}
 	return Buffer.concat(chunks);
 }
 
-async function parseMultipartRequest(req) {
-	const contentType = req.headers['content-type'] || '';
-	const boundary = contentType.match(/boundary=(?:"([^"]+)"|([^;]+))/)?.[1] || contentType.match(/boundary=(?:"([^"]+)"|([^;]+))/)?.[2];
-	if (!boundary) throw new Error('Missing multipart boundary');
-
-	const buffer = await readRequestBody(req);
-	const fields = {};
-	const files = [];
-
-	for (const part of splitMultipart(buffer, boundary)) {
-		const headerEnd = part.indexOf(Buffer.from('\r\n\r\n'));
-		if (headerEnd === -1) continue;
-		const rawHeaders = part.subarray(0, headerEnd).toString('utf8');
-		const body = part.subarray(headerEnd + 4);
-		const headers = Object.fromEntries(
-			rawHeaders.split('\r\n').map(line => {
-				const index = line.indexOf(':');
-				return index === -1 ? [line.toLowerCase(), ''] : [line.slice(0, index).toLowerCase(), line.slice(index + 1).trim()];
-			}),
-		);
-		const disposition = headers['content-disposition'];
-		if (!disposition) continue;
-		const params = parseHeaderParams(disposition);
-		if (!params.name) continue;
-
-		if (params.filename !== undefined) {
-			if (!params.filename || !body.length) continue;
-			files.push({
-				field: params.name,
-				filename: params.filename,
-				buffer: body,
-			});
-		} else {
-			fields[params.name] = body.toString('utf8');
-		}
+function safeSourceFolder(value) {
+	const name = String(value || '').trim();
+	if (!name || name === '.' || name === '..' || name.startsWith('.') || /[\/\\\0]/.test(name)) {
+		throw Object.assign(new Error('Source folder name is invalid'), { status: 400 });
 	}
-
-	return { fields, files };
+	return name;
 }
 
-function createLogger() {
+function safeSourceFileName(value) {
+	const name = String(value || '').trim();
+	if (!name || name === '.' || name === '..' || /[\/\\\0]/.test(name) || !/\.(csv|md)$/i.test(name)) {
+		throw Object.assign(new Error('Source file must end in .csv or .md'), { status: 400 });
+	}
+	return name;
+}
+
+function createLogger(onEntry) {
 	const entries = [];
 	const push = (level, values) => {
-		entries.push({
-			level,
-			message: values
-				.map(value => {
-					if (value instanceof Error) return value.stack || value.message;
-					if (typeof value === 'string') return value;
+		const message = values
+			.map(value => {
+				if (value instanceof Error) return value.stack || value.message;
+				if (typeof value === 'string') return value;
+				try {
 					return JSON.stringify(value);
-				})
-				.join(' '),
-		});
+				} catch {
+					return String(value);
+				}
+			})
+			.join(' ');
+		const entry = { level, message };
+		entries.push(entry);
+		if (onEntry) onEntry(entry);
 	};
 	return {
 		entries,
@@ -207,297 +149,376 @@ function createLogger() {
 	};
 }
 
-async function writeUploadedFiles(files, sheetsRoot) {
-	const saved = [];
-
-	for (const file of files) {
-		const relative = safeRelativePath(file.filename);
-		if (!relative) continue;
-		const ext = path.extname(relative).toLowerCase();
-		if (ext !== '.csv' && ext !== '.md') continue;
-
-		const parts = relative.split('/');
-		const inferredCategory = safeSegment(path.basename(parts[0], ext), 'uploaded');
-		const targetRelative = parts.length > 1 ? relative : path.join(inferredCategory, parts[0]);
-		const targetPath = path.join(sheetsRoot, targetRelative);
-		const resolved = path.resolve(targetPath);
-		if (!resolved.startsWith(path.resolve(sheetsRoot) + path.sep)) throw new Error(`Unsafe upload path: ${file.filename}`);
-		await fs.promises.mkdir(path.dirname(resolved), { recursive: true });
-		await fs.promises.writeFile(resolved, file.buffer);
-		saved.push(targetRelative);
-	}
-
-	return saved.sort((a, b) => a.localeCompare(b));
-}
-
-function listOutputFiles(outRoot) {
-	if (!fs.existsSync(outRoot)) return [];
+function listDatabaseFiles(nyaDbRoot) {
+	if (!fs.existsSync(nyaDbRoot)) return [];
 	return fs
-		.readdirSync(outRoot, { withFileTypes: true })
+		.readdirSync(nyaDbRoot, { withFileTypes: true })
 		.filter(entry => entry.isFile() && entry.name.endsWith('.json'))
 		.map(entry => {
-			const filePath = path.join(outRoot, entry.name);
-			return {
-				name: entry.name,
-				bytes: fs.statSync(filePath).size,
-			};
+			const filePath = path.join(nyaDbRoot, entry.name);
+			return { name: entry.name.slice(0, -'.json'.length), bytes: fs.statSync(filePath).size };
 		})
 		.sort((a, b) => a.name.localeCompare(b.name));
 }
 
-async function handleConvert(req, res) {
-	const jobId = `${Date.now().toString(36)}-${crypto.randomBytes(4).toString('hex')}`;
-	const jobRoot = path.join(JOB_ROOT, jobId);
-	const sheetsRoot = path.join(jobRoot, 'sheets');
-	const outRoot = path.join(jobRoot, 'data');
-	const tempRegistry = path.join(jobRoot, 'perk-id-registry.json');
-	const logger = createLogger();
+function readDatabase(nyaDbRoot, name) {
+	const filePath = path.join(nyaDbRoot, `${name}.json`);
+	if (!fs.existsSync(filePath)) return null;
+	return JSON.parse(fs.readFileSync(filePath, 'utf8'));
+}
 
-	try {
-		await fs.promises.mkdir(sheetsRoot, { recursive: true });
-		const { fields, files } = await parseMultipartRequest(req);
-		const uploadedFiles = await writeUploadedFiles(files, sheetsRoot);
-		if (!uploadedFiles.length) throw new Error('Upload at least one CSV or Markdown file.');
-
-		const persistRegistry = fields.persistRegistry === 'true';
-		const writeFiles = fields.writeFiles === 'true';
-		if (!persistRegistry && fs.existsSync(MAIN_REGISTRY)) {
-			await fs.promises.copyFile(MAIN_REGISTRY, tempRegistry);
-		}
-
-		const result = await buildDatabase({
-			sheetsRoot,
-			outRoot,
-			registryPath: persistRegistry ? MAIN_REGISTRY : tempRegistry,
-			retireMissing: false,
-			writeFiles,
-			writeNyaDb: fields.writeNyaDb !== 'false',
-			mergeNyaDb: true,
-			logger,
-		});
-
-		const outputFiles = listOutputFiles(outRoot);
-		const job = {
-			id: jobId,
-			createdAt: new Date().toISOString(),
-			jobRoot,
-			outRoot,
-			uploadedFiles,
-			outputFiles,
-			report: result.report,
-			logs: logger.entries,
-		};
-		jobs.set(jobId, job);
-
-		sendJson(res, 200, job);
-	} catch (error) {
-		jobs.set(jobId, {
-			id: jobId,
-			createdAt: new Date().toISOString(),
-			jobRoot,
-			outRoot,
-			report: null,
-			logs: logger.entries,
-			error: error.message,
-		});
-		sendJson(res, 400, {
-			id: jobId,
-			error: error.message,
-			logs: logger.entries,
-		});
+function writeDatabase(nyaDbRoot, name, contents) {
+	if (!isPlainObject(contents)) {
+		throw new Error('Dataset contents must be a JSON object');
 	}
-}
-
-function handleDownload(req, res, url) {
-	const jobId = url.searchParams.get('job');
-	const fileName = url.searchParams.get('file');
-	const job = jobs.get(jobId);
-	if (!job || !fileName) return sendText(res, 404, 'File not found');
-	const safeName = path.basename(fileName);
-	const filePath = path.resolve(job.outRoot, safeName);
-	if (!filePath.startsWith(path.resolve(job.outRoot) + path.sep) || !fs.existsSync(filePath)) return sendText(res, 404, 'File not found');
-
-	res.writeHead(200, {
-		'content-type': 'application/json; charset=utf-8',
-		'content-disposition': `attachment; filename="${safeName}"`,
-	});
-	fs.createReadStream(filePath).pipe(res);
-}
-
-function handleStatus(_req, res) {
-	let storage = null;
-	try {
-		const db = createStorageClient();
-		storage = {
-			databases: db.getList().sort((a, b) => a.localeCompare(b)),
-			size: db.size(),
-		};
-	} catch (error) {
-		storage = { error: error.message };
+	if (!fs.existsSync(nyaDbRoot)) {
+		fs.mkdirSync(nyaDbRoot, { recursive: true });
 	}
-
-	sendJson(res, 200, {
-		jobs: [...jobs.values()].map(job => ({
-			id: job.id,
-			createdAt: job.createdAt,
-			report: job.report,
-			error: job.error,
-		})),
-		storage,
-		nyaDb: storage,
-	});
+	const filePath = path.join(nyaDbRoot, `${name}.json`);
+	const tmpPath = `${filePath}.tmp-${process.pid}`;
+	fs.writeFileSync(tmpPath, JSON.stringify(contents, null, 2), 'utf8');
+	fs.renameSync(tmpPath, filePath);
 }
 
-function handleDatasetList(_req, res) {
-	try {
-		const db = createStorageClient();
-		const databases = db.getList().sort((a, b) => a.localeCompare(b));
-		const categoriesPayload = db.exists('categories') ? db.get('categories') : { categories: [] };
-		sendJson(res, 200, {
-			databases,
-			categories: toArray(categoriesPayload, 'categories'),
-		});
-	} catch (error) {
-		sendJson(res, 500, { error: error.message });
+function listSources(sourcesRoot) {
+	if (!fs.existsSync(sourcesRoot)) {
+		return { path: sourcesRoot, sources: [] };
 	}
-}
-
-function handleGetDataset(_req, res, url) {
-	try {
-		const name = safeDatabaseName(url.searchParams.get('name'));
-		const db = createStorageClient();
-		if (!db.exists(name)) return sendJson(res, 404, { error: `Database not found: ${name}` });
-		sendJson(res, 200, {
-			name,
-			contents: db.get(name),
-		});
-	} catch (error) {
-		sendJson(res, 400, { error: error.message });
-	}
-}
-
-async function handlePutDataset(req, res, url) {
-	try {
-		const name = safeDatabaseName(url.searchParams.get('name'));
-		const body = await readJsonBody(req);
-		if (body === null || typeof body !== 'object' || Array.isArray(body)) {
-			return sendJson(res, 400, { error: 'Dataset payload must be a JSON object' });
-		}
-
-		const db = createStorageClient();
-		if (!db.exists(name)) db.create(name);
-		if (!db.set(name, body)) {
-			return sendJson(res, 500, { error: `Failed to save database: ${name}` });
-		}
-		sendJson(res, 200, { ok: true, name });
-	} catch (error) {
-		sendJson(res, 400, { error: error.message });
-	}
-}
-
-async function handleUpsertCategoryVersion(req, res) {
-	try {
-		const body = await readJsonBody(req);
-		const categoryId = safeDatabaseName(body.categoryId);
-		const displayName = String(body.displayName || categoryId).trim();
-		const defaultVersion = normalizeVersionId(body.defaultVersion || 'default');
-		const versionsInput = Array.isArray(body.versions) ? body.versions : [];
-		if (!versionsInput.length) {
-			return sendJson(res, 400, { error: 'At least one version is required' });
-		}
-
-		const db = createStorageClient();
-		const knownDatabases = new Set(db.getList());
-		const seenVersionIds = new Set();
-		const versions = versionsInput.map((version, index) => {
-			const id = normalizeVersionId(version.id);
-			if (seenVersionIds.has(id)) {
-				throw new Error(`Duplicate version ID: ${id}`);
-			}
-			seenVersionIds.add(id);
-			const database = safeDatabaseName(version.database);
-			if (!knownDatabases.has(database)) {
-				throw new Error(`Version ${id} references unknown database: ${database}`);
-			}
+	const sources = fs
+		.readdirSync(sourcesRoot, { withFileTypes: true })
+		.filter(entry => entry.isDirectory())
+		.map(entry => {
+			const folderPath = path.join(sourcesRoot, entry.name);
+			const files = fs
+				.readdirSync(folderPath, { withFileTypes: true })
+				.filter(file => file.isFile() && /\.(csv|md)$/i.test(file.name))
+				.map(file => {
+					const filePath = path.join(folderPath, file.name);
+					return { name: file.name, bytes: fs.statSync(filePath).size };
+				})
+				.sort((a, b) => a.name.localeCompare(b.name));
 			return {
-				id,
-				displayName: String(version.displayName || `${displayName} ${id.toUpperCase()}`).trim(),
-				database,
-				order: Number.isFinite(Number(version.order)) ? Number(version.order) : index,
+				name: entry.name,
+				filesCount: files.length,
+				bytes: files.reduce((sum, file) => sum + file.bytes, 0),
+				files,
 			};
-		});
+		})
+		.sort((a, b) => a.name.localeCompare(b.name));
+	return { path: sourcesRoot, sources };
+}
 
-		if (!seenVersionIds.has(defaultVersion)) {
-			throw new Error(`defaultVersion not found in versions: ${defaultVersion}`);
-		}
+function createApp(config) {
+	const appConfig = { ...CONFIG, ...config };
+	let building = false;
 
-		const categoriesPayload = db.exists('categories') ? db.get('categories') : { categories: [] };
-		const categories = toArray(categoriesPayload, 'categories').filter(entry => entry && entry.id);
-		const byId = new Map(categories.map(category => [category.id, category]));
-		const existing = byId.get(categoryId) || { id: categoryId, versions: [] };
-		const existingByVersion = new Map((existing.versions || []).filter(v => v?.id).map(v => [v.id, v]));
-		for (const version of versions) {
-			existingByVersion.set(version.id, {
-				...(existingByVersion.get(version.id) || {}),
-				id: version.id,
-				displayName: version.displayName,
-				database: version.database,
-				order: version.order,
+	const route = async (req, res) => {
+		const url = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
+		const { pathname } = url;
+
+		const sourceCreateMatch = pathname.match(/^\/api\/sources\/([^/]+)$/);
+		const sourceFileMatch = pathname.match(/^\/api\/sources\/([^/]+)\/files\/([^/]+)$/);
+
+		try {
+			if (req.method === 'GET' && pathname === '/api/status') {
+				return await handleStatus(res);
+			}
+			if (req.method === 'GET' && pathname === '/api/datasets') {
+				return await handleDatasetList(res);
+			}
+			if (req.method === 'GET' && pathname === '/api/dataset') {
+				return await handleGetDataset(res, url);
+			}
+			if (req.method === 'PUT' && pathname === '/api/dataset') {
+				return await handlePutDataset(req, res, url);
+			}
+			if (req.method === 'GET' && pathname === '/api/sources') {
+				return sendJson(res, 200, listSources(appConfig.sourcesRoot));
+			}
+			if (req.method === 'POST' && sourceCreateMatch) {
+				return await handleCreateSourceFolder(res, decodeURIComponent(sourceCreateMatch[1]));
+			}
+			if (req.method === 'PUT' && sourceFileMatch) {
+				return await handlePutSourceFile(req, res, decodeURIComponent(sourceFileMatch[1]), decodeURIComponent(sourceFileMatch[2]));
+			}
+			if (req.method === 'DELETE' && sourceFileMatch) {
+				return await handleDeleteSourceFile(res, decodeURIComponent(sourceFileMatch[1]), decodeURIComponent(sourceFileMatch[2]));
+			}
+			if (req.method === 'GET' && pathname === '/api/source-metadata') {
+				return await handleGetSourceMetadata(res);
+			}
+			if (req.method === 'PUT' && pathname === '/api/source-metadata') {
+				return await handlePutSourceMetadata(req, res);
+			}
+			if (req.method === 'GET' && pathname === '/api/config/keyword-filter') {
+				return await handleGetKeywordFilter(res);
+			}
+			if (req.method === 'PUT' && pathname === '/api/config/keyword-filter') {
+				return await handlePutKeywordFilter(req, res);
+			}
+			if (req.method === 'POST' && pathname === '/api/build') {
+				return await handleBuild(req, res);
+			}
+			if (req.method === 'GET' && pathname === '/api/health') {
+				return sendJson(res, 200, { ok: true, pid: process.pid });
+			}
+			if (req.method === 'GET') {
+				return await serveStatic(res, url);
+			}
+			return sendText(res, 405, 'Method not allowed');
+		} catch (error) {
+			return sendJson(res, error.status || 400, {
+				error: error.message,
+				...(error.validationErrors ? { validationErrors: error.validationErrors } : {}),
 			});
 		}
+	};
 
-		const mergedVersions = [...existingByVersion.values()]
-			.sort((a, b) => Number(a.order ?? 0) - Number(b.order ?? 0) || String(a.id).localeCompare(String(b.id)))
-			.map(({ order, ...version }) => version);
-
-		byId.set(categoryId, {
-			...existing,
-			id: categoryId,
-			displayName,
-			defaultVersion,
-			versions: mergedVersions,
+	function handleStatus(res) {
+		const databases = listDatabaseFiles(appConfig.nyaDbRoot);
+		const categories = readDatabase(appConfig.nyaDbRoot, 'categories');
+		return sendJson(res, 200, {
+			lock: { held: true, pid: process.pid, path: appConfig.lockPath },
+			building,
+			databases,
+			categories: toArray(categories, 'categories'),
+			sourcesRoot: appConfig.sourcesRoot,
+			nyaDbRoot: appConfig.nyaDbRoot,
 		});
-
-		const nextCategories = [...byId.values()].sort((a, b) => String(a.id).localeCompare(String(b.id)));
-		if (!db.exists('categories')) db.create('categories');
-		if (!db.set('categories', { categories: nextCategories })) {
-			throw new Error('Failed to save categories database');
-		}
-
-		sendJson(res, 200, {
-			ok: true,
-			category: byId.get(categoryId),
-		});
-	} catch (error) {
-		sendJson(res, 400, { error: error.message });
 	}
+
+	function handleDatasetList(res) {
+		const databases = listDatabaseFiles(appConfig.nyaDbRoot);
+		return sendJson(res, 200, { databases });
+	}
+
+	function handleGetDataset(res, url) {
+		const name = safeDatabaseName(url.searchParams.get('name'));
+		const contents = readDatabase(appConfig.nyaDbRoot, name);
+		if (contents === null) return sendJson(res, 404, { error: `Database not found: ${name}` });
+		return sendJson(res, 200, { name, contents });
+	}
+
+	async function handlePutDataset(req, res, url) {
+		const name = safeDatabaseName(url.searchParams.get('name'));
+		const body = await readJsonBody(req, appConfig.maxBodyBytes);
+		if (!isPlainObject(body)) {
+			throw Object.assign(new Error('Dataset payload must be a JSON object'), { status: 400 });
+		}
+		writeDatabase(appConfig.nyaDbRoot, name, body);
+		return sendJson(res, 200, { ok: true, name });
+	}
+
+	async function handleBuild(req, res) {
+		if (building) {
+			return sendJson(res, 409, { error: 'A build is already running.' });
+		}
+		const body = await readJsonBody(req, appConfig.maxBodyBytes);
+		const writeNyaDb = body.writeNyaDb !== false;
+		building = true;
+		res.writeHead(200, { 'content-type': 'application/x-ndjson; charset=utf-8' });
+		const logger = createLogger(entry => {
+			try {
+				res.write(JSON.stringify({ type: 'log', level: entry.level, message: entry.message }) + '\n');
+			} catch {
+				// Response may already be closed; ignore.
+			}
+		});
+		const finish = payload => {
+			try {
+				res.end(JSON.stringify({ type: 'result', result: { ...payload, logs: logger.entries, writeNyaDb } }) + '\n');
+			} catch {
+				// Response stream already closed.
+			}
+		};
+		try {
+			let result;
+			try {
+				result = await (appConfig.buildDatabaseFn || buildDatabase)({
+					sheetsRoot: appConfig.sourcesRoot,
+					registryPath: appConfig.registryPath,
+					sourceMetadataConfigPath: appConfig.sourceMetadataConfigPath,
+					sourceGroups: appConfig.sourceGroups,
+					writeNyaDb,
+					logger,
+				});
+			} catch (error) {
+				throw error;
+			}
+			const updatedCount = result.writtenDatabases.changed.length + result.writtenDatabases.deleted.length;
+			return finish({
+				success: true,
+				report: result.report,
+				writtenDatabases: result.writtenDatabases,
+				updatedCount,
+			});
+		} catch (error) {
+			const diagnostics = buildFailureReport({
+				error,
+				logs: logger.entries,
+				mode: 'web',
+				writeNyaDb,
+				context: { sourcesRoot: appConfig.sourcesRoot, sourceMetadataConfigPath: appConfig.sourceMetadataConfigPath },
+			});
+			if (error.validationErrors) {
+				return finish({
+					success: false,
+					validationErrors: error.validationErrors,
+					report: error.report,
+					diagnostics,
+				});
+			}
+			logger.error(error);
+			return finish({ success: false, error: error.message, diagnostics });
+		} finally {
+			building = false;
+		}
+	}
+
+	function handleGetSourceMetadata(res) {
+		const filePath = appConfig.sourceMetadataConfigPath;
+		if (!fs.existsSync(filePath)) {
+			return sendJson(res, 200, { path: filePath, exists: false, contents: {} });
+		}
+		const contents = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+		return sendJson(res, 200, { path: filePath, exists: true, contents });
+	}
+
+	async function handlePutSourceMetadata(req, res) {
+		const body = await readJsonBody(req, appConfig.maxBodyBytes);
+		if (!isPlainObject(body)) {
+			throw Object.assign(new Error('Source metadata must be a JSON object'), { status: 400 });
+		}
+		const filePath = appConfig.sourceMetadataConfigPath;
+		fs.mkdirSync(path.dirname(filePath), { recursive: true });
+		const tmpPath = `${filePath}.tmp-${process.pid}`;
+		fs.writeFileSync(tmpPath, JSON.stringify(body, null, 2), 'utf8');
+		fs.renameSync(tmpPath, filePath);
+		return sendJson(res, 200, { ok: true, path: filePath });
+	}
+
+	function handleCreateSourceFolder(res, folder) {
+		const name = safeSourceFolder(folder);
+		const folderPath = path.join(appConfig.sourcesRoot, name);
+		if (!fs.existsSync(path.dirname(folderPath))) {
+			fs.mkdirSync(path.dirname(folderPath), { recursive: true });
+		}
+		fs.mkdirSync(folderPath, { recursive: true });
+		return sendJson(res, 200, { ok: true, name });
+	}
+
+	async function handlePutSourceFile(req, res, folder, file) {
+		const folderName = safeSourceFolder(folder);
+		const fileName = safeSourceFileName(file);
+		const buffer = await readRawBody(req, appConfig.maxBodyBytes);
+		const text = buffer.toString('utf8');
+		if (!text.length) {
+			throw Object.assign(new Error('File content is empty'), { status: 400 });
+		}
+		const folderPath = path.join(appConfig.sourcesRoot, folderName);
+		fs.mkdirSync(folderPath, { recursive: true });
+		const filePath = path.join(folderPath, fileName);
+		const tmpPath = `${filePath}.tmp-${process.pid}`;
+		fs.writeFileSync(tmpPath, text, 'utf8');
+		fs.renameSync(tmpPath, filePath);
+		return sendJson(res, 200, { ok: true, folder: folderName, name: fileName, bytes: Buffer.byteLength(text) });
+	}
+
+	function handleDeleteSourceFile(res, folder, file) {
+		const folderName = safeSourceFolder(folder);
+		const fileName = safeSourceFileName(file);
+		const filePath = path.join(appConfig.sourcesRoot, folderName, fileName);
+		if (!fs.existsSync(filePath)) {
+			return sendJson(res, 404, { error: `File not found: ${fileName}` });
+		}
+		fs.unlinkSync(filePath);
+		return sendJson(res, 200, { ok: true, folder: folderName, name: fileName });
+	}
+
+	function handleGetKeywordFilter(res) {
+		const filePath = appConfig.keywordFilterPath;
+		if (!fs.existsSync(filePath)) {
+			return sendJson(res, 200, { path: filePath, exists: false, contents: { keywords: [] } });
+		}
+		const contents = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+		return sendJson(res, 200, { path: filePath, exists: true, contents });
+	}
+
+	async function handlePutKeywordFilter(req, res) {
+		const body = await readJsonBody(req, appConfig.maxBodyBytes);
+		if (!isPlainObject(body) || !Array.isArray(body.keywords)) {
+			throw Object.assign(new Error('Keyword filter must be a JSON object with a "keywords" array'), { status: 400 });
+		}
+		const keywords = body.keywords.map(keyword => String(keyword).trim()).filter(Boolean);
+		const filePath = appConfig.keywordFilterPath;
+		fs.mkdirSync(path.dirname(filePath), { recursive: true });
+		const tmpPath = `${filePath}.tmp-${process.pid}`;
+		fs.writeFileSync(tmpPath, JSON.stringify({ keywords }, null, 2), 'utf8');
+		fs.renameSync(tmpPath, filePath);
+		return sendJson(res, 200, { ok: true, path: filePath, count: keywords.length });
+	}
+
+	function serveStatic(res, url) {
+		const requested = url.pathname === '/' ? '/index.html' : url.pathname;
+		const filePath = path.resolve(appConfig.publicRoot, `.${requested}`);
+		if (!filePath.startsWith(appConfig.publicRoot + path.sep)) {
+			return sendText(res, 403, 'Forbidden');
+		}
+		if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile()) {
+			return sendText(res, 404, 'Not found');
+		}
+		const ext = path.extname(filePath);
+		res.writeHead(200, { 'content-type': MIME_TYPES[ext] || 'application/octet-stream' });
+		fs.createReadStream(filePath).pipe(res);
+	}
+
+	const server = http.createServer((req, res) => {
+		route(req, res).catch(error => {
+			sendJson(res, 500, { error: error.message });
+		});
+	});
+
+	return { server, config: appConfig };
 }
 
-function serveStatic(req, res, url) {
-	const requested = url.pathname === '/' ? '/index.html' : url.pathname;
-	const filePath = path.resolve(PUBLIC_ROOT, `.${requested}`);
-	if (!filePath.startsWith(PUBLIC_ROOT + path.sep)) return sendText(res, 403, 'Forbidden');
-	if (!fs.existsSync(filePath) || !fs.statSync(filePath).isFile()) return sendText(res, 404, 'Not found');
+function main() {
+	const acquired = lockApi.acquire(CONFIG.lockPath);
+	if (!acquired.ok) {
+		console.error('\nAnother build is already running (the CLI or another web instance).');
+		console.error('Close it or wait until it finishes, then start the web panel again.');
+		process.exit(3);
+	}
 
-	const ext = path.extname(filePath);
-	res.writeHead(200, { 'content-type': MIME_TYPES[ext] || 'application/octet-stream' });
-	fs.createReadStream(filePath).pipe(res);
+	const { server, config } = createApp();
+	let closing = false;
+	const shutdown = () => {
+		if (closing) return;
+		closing = true;
+		server.close(() => {
+			lockApi.release(config.lockPath);
+			process.exit(0);
+		});
+		setTimeout(() => {
+			lockApi.release(config.lockPath);
+			process.exit(0);
+		}, 5000).unref();
+	};
+
+	for (const signal of ['SIGINT', 'SIGTERM']) {
+		process.once(signal, shutdown);
+	}
+	process.on('exit', () => lockApi.release(config.lockPath));
+
+	fs.mkdirSync(config.nyaDbRoot, { recursive: true });
+	server.listen(config.port, config.host, () => {
+		console.log(`Web panel running at http://${config.host}:${config.port}`);
+		console.log(`Lock held: ${config.lockPath}`);
+		console.log(`Press Ctrl+C to close the panel and release the lock.`);
+	});
 }
 
-const server = http.createServer((req, res) => {
-	const url = new URL(req.url, `http://${req.headers.host || 'localhost'}`);
-	if (req.method === 'POST' && url.pathname === '/api/convert') return handleConvert(req, res);
-	if (req.method === 'POST' && url.pathname === '/api/category-version') return handleUpsertCategoryVersion(req, res);
-	if (req.method === 'GET' && url.pathname === '/api/download') return handleDownload(req, res, url);
-	if (req.method === 'GET' && url.pathname === '/api/datasets') return handleDatasetList(req, res);
-	if (req.method === 'GET' && url.pathname === '/api/dataset') return handleGetDataset(req, res, url);
-	if (req.method === 'PUT' && url.pathname === '/api/dataset') return handlePutDataset(req, res, url);
-	if (req.method === 'GET' && url.pathname === '/api/status') return handleStatus(req, res);
-	if (req.method === 'GET') return serveStatic(req, res, url);
-	return sendText(res, 405, 'Method not allowed');
-});
+if (require.main === module) {
+	main();
+}
 
-fs.mkdirSync(JOB_ROOT, { recursive: true });
-server.listen(PORT, HOST, () => {
-	console.log(`Web interface running at http://${HOST}:${PORT}`);
-});
+module.exports = { createApp, CONFIG, lockApi };

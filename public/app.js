@@ -1,91 +1,127 @@
-const form = document.querySelector('#convertForm');
-const filesInput = document.querySelector('#files');
-const folderInput = document.querySelector('#folderFiles');
-const chooseFolder = document.querySelector('#chooseFolder');
-const clearFolders = document.querySelector('#clearFolders');
-const folderCount = document.querySelector('#folderCount');
-const fileCount = document.querySelector('#fileCount');
-const convertButton = document.querySelector('#convertButton');
-const runState = document.querySelector('#runState');
-const metrics = document.querySelector('#metrics');
-const outputs = document.querySelector('#outputs');
-const logs = document.querySelector('#logs');
-const clearLogs = document.querySelector('#clearLogs');
-const refreshStatus = document.querySelector('#refreshStatus');
-const databaseStatus = document.querySelector('#databaseStatus');
-const refreshDatasets = document.querySelector('#refreshDatasets');
-const datasetSummary = document.querySelector('#datasetSummary');
-const datasetList = document.querySelector('#datasetList');
-const selectedDataset = document.querySelector('#selectedDataset');
-const clearDatasetSelection = document.querySelector('#clearDatasetSelection');
-const datasetIsAdult = document.querySelector('#datasetIsAdult');
-const datasetEditor = document.querySelector('#datasetEditor');
-const reloadDataset = document.querySelector('#reloadDataset');
-const saveDataset = document.querySelector('#saveDataset');
-const editorSearch = document.querySelector('#editorSearch');
-const editorSearchPrev = document.querySelector('#editorSearchPrev');
-const editorSearchNext = document.querySelector('#editorSearchNext');
-const editorSearchCount = document.querySelector('#editorSearchCount');
-const categoryIdDisplay = document.querySelector('#categoryIdDisplay');
-const categoryDisplayLabel = document.querySelector('#categoryDisplayLabel');
-const addVersionRow = document.querySelector('#addVersionRow');
-const versionRowsContainer = document.querySelector('#versionRowsContainer');
-const categoryDefaultVersionSelect = document.querySelector('#categoryDefaultVersionSelect');
-const saveCategoryVersions = document.querySelector('#saveCategoryVersions');
-const versionBuilderBlock = document.querySelector('#versionBuilderBlock');
-const versionBuilderNotice = document.querySelector('#versionBuilderNotice');
-const tabUpload = document.querySelector('#tabUpload');
-const tabDatasets = document.querySelector('#tabDatasets');
-const paneUpload = document.querySelector('#paneUpload');
-const paneDatasets = document.querySelector('#paneDatasets');
-const dropzone = document.querySelector('#dropzone');
-const appModal = document.querySelector('#appModal');
-const appModalTitle = document.querySelector('#appModalTitle');
-const appModalMessage = document.querySelector('#appModalMessage');
-const appModalConfirm = document.querySelector('#appModalConfirm');
-const appModalCancel = document.querySelector('#appModalCancel');
-const appModalClose = document.querySelector('#appModalClose');
-const toastRack = document.querySelector('#toastRack');
+const $ = id => document.getElementById(id);
 
-const RESERVED_DATABASES = new Set(['dataset', 'categories', 'sources', 'database_backup']);
+const serverStatus = $('serverStatus');
+const refreshStatusButton = $('refreshStatus');
+const tabBuild = $('tabBuild');
+const tabSourceMetadata = $('tabSourceMetadata');
+const tabKeywordFilter = $('tabKeywordFilter');
+const tabDatasets = $('tabDatasets');
+const paneBuild = $('paneBuild');
+const paneSourceMetadata = $('paneSourceMetadata');
+const paneKeywordFilter = $('paneKeywordFilter');
+const paneDatasets = $('paneDatasets');
 
+const buildButton = $('buildButton');
+const writeNyaDbCheckbox = $('writeNyaDb');
+const runState = $('runState');
+const metrics = $('metrics');
+const buildSummary = $('buildSummary');
+const buildResultBlock = $('buildResultBlock');
+const validationErrors = $('validationErrors');
+const buildDiagnostics = $('buildDiagnostics');
+const clearLogsButton = $('clearLogs');
+const logs = $('logs');
+
+const reloadSourceMetadataButton = $('reloadSourceMetadata');
+const addMetaRowButton = $('addMetaRow');
+const sourceModal = $('sourceModal');
+const closeSourceModalButton = $('closeSourceModal');
+const sourceModalName = $('sourceModalName');
+const sourceModalSlug = $('sourceModalSlug');
+const sourceModalUrl = $('sourceModalUrl');
+const sourceModalDesc = $('sourceModalDesc');
+const sourceModalUploadSection = $('sourceModalUploadSection');
+const sourceModalUpload = $('sourceModalUpload');
+const sourceModalStagedFiles = $('sourceModalStagedFiles');
+const saveSourceModalButton = $('saveSourceModal');
+const metadataTableBody = $('metaTableBody');
+const metadataSearch = $('metadataSearch');
+const metadataSearchCount = $('metadataSearchCount');
+
+const reloadKeywordFilterButton = $('reloadKeywordFilter');
+const keywordFilterEditor = $('keywordFilterEditor');
+const keywordSearch = $('keywordSearch');
+const keywordSearchPrev = $('keywordSearchPrev');
+const keywordSearchNext = $('keywordSearchNext');
+const keywordSearchCount = $('keywordSearchCount');
+
+const refreshDatasetsButton = $('refreshDatasets');
+const datasetSummary = $('datasetSummary');
+const datasetList = $('datasetList');
+const selectedDataset = $('selectedDataset');
+const clearDatasetSelectionButton = $('clearDatasetSelection');
+const datasetEditor = $('datasetEditor');
+const reloadDatasetButton = $('reloadDataset');
+const editorSearch = $('editorSearch');
+const editorSearchPrev = $('editorSearchPrev');
+const editorSearchNext = $('editorSearchNext');
+const editorSearchCount = $('editorSearchCount');
+
+const appModal = $('appModal');
+const appModalTitle = $('appModalTitle');
+const appModalMessage = $('appModalMessage');
+const appModalConfirm = $('appModalConfirm');
+const appModalCancel = $('appModalCancel');
+const appModalClose = $('appModalClose');
+const toastRack = $('toastRack');
+
+const RESERVED_DATABASES = new Set(['dataset', 'categories', 'sources', 'database_backup', 'generatorSources']);
+
+let availableDatasets = [];
+let activeDatasetName = '';
+let metadataRows = [];
+let versionRows = [];
 let modalResolver = null;
 let modalKeyHandler = null;
 let modalLastFocused = null;
-let pickedFolderEntries = [];
-let pickedFolderNames = new Set();
-let availableDatasets = [];
-let activeDatasetName = '';
-let searchMatches = [];
-let activeSearchMatchIndex = -1;
 let searchDebounceTimer = null;
+let consoleLines = [];
 
-function setButtonBusy(button, busy, busyLabel) {
+function prettyDatasetName(name) {
+	return String(name || '').replace(/^perks_/, '');
+}
+
+function setBusy(button, busy) {
 	if (!button) return;
 	if (busy) {
-		if (!button.dataset.originalLabel) button.dataset.originalLabel = button.textContent;
 		button.disabled = true;
 		button.classList.add('is-busy');
-		button.setAttribute('aria-busy', 'true');
-		if (busyLabel) button.textContent = busyLabel;
-		return;
-	}
-	button.disabled = false;
-	button.classList.remove('is-busy');
-	button.removeAttribute('aria-busy');
-	if (button.dataset.originalLabel) {
-		button.textContent = button.dataset.originalLabel;
-		delete button.dataset.originalLabel;
+	} else {
+		button.disabled = false;
+		button.classList.remove('is-busy');
 	}
 }
 
 async function withBusy(button, work, busyLabel) {
-	setButtonBusy(button, true, busyLabel);
+	if (busyLabel && button.dataset.originalLabel === undefined) button.dataset.originalLabel = button.textContent;
+	if (busyLabel) button.textContent = busyLabel;
+	setBusy(button, true);
 	try {
 		return await work();
 	} finally {
-		setButtonBusy(button, false);
+		setBusy(button, false);
+		if (busyLabel) {
+			button.textContent = button.dataset.originalLabel;
+			delete button.dataset.originalLabel;
+		}
 	}
+}
+
+function showToast({ message = '', variant = 'info', timeout = 3200 } = {}) {
+	if (!message) return;
+	const toast = document.createElement('div');
+	toast.className = `toast toast-${variant}`;
+	const text = document.createElement('p');
+	text.textContent = message;
+	const closeButton = document.createElement('button');
+	closeButton.type = 'button';
+	closeButton.setAttribute('aria-label', 'Dismiss notification');
+	closeButton.textContent = 'X';
+	const remove = () => toast.parentNode && toast.parentNode.removeChild(toast);
+	closeButton.addEventListener('click', remove);
+	toast.append(text, closeButton);
+	toastRack.appendChild(toast);
+	window.setTimeout(remove, timeout);
 }
 
 function closeModal(result) {
@@ -102,17 +138,12 @@ function closeModal(result) {
 		document.removeEventListener('keydown', modalKeyHandler);
 		modalKeyHandler = null;
 	}
-	if (modalLastFocused?.focus) {
-		modalLastFocused.focus();
-	}
+	modalLastFocused?.focus?.();
 	resolve(result);
 }
 
 function showModal(options = {}) {
-	if (modalResolver) {
-		closeModal(false);
-	}
-
+	if (modalResolver) closeModal(false);
 	const { title = 'Notice', message = '', confirmLabel = 'OK', cancelLabel = 'Cancel', variant = 'info', allowDismiss = true, showCancel = false } = options;
 
 	modalLastFocused = document.activeElement;
@@ -130,22 +161,12 @@ function showModal(options = {}) {
 
 	return new Promise(resolve => {
 		modalResolver = resolve;
-
 		appModalConfirm.onclick = () => closeModal(true);
-		if (showCancel) {
-			appModalCancel.onclick = () => closeModal(false);
-		}
-
-		if (allowDismiss) {
-			appModalClose.onclick = () => closeModal(false);
-		}
-
+		if (showCancel) appModalCancel.onclick = () => closeModal(false);
+		if (allowDismiss) appModalClose.onclick = () => closeModal(false);
 		appModal.onclick = event => {
-			if (allowDismiss && event.target?.dataset?.modalClose === 'backdrop') {
-				closeModal(false);
-			}
+			if (allowDismiss && event.target?.dataset?.modalClose === 'backdrop') closeModal(false);
 		};
-
 		modalKeyHandler = event => {
 			if (event.key === 'Escape' && allowDismiss) {
 				event.preventDefault();
@@ -156,53 +177,19 @@ function showModal(options = {}) {
 				closeModal(true);
 			}
 		};
-
 		document.addEventListener('keydown', modalKeyHandler);
 	});
 }
 
-function showToast(options = {}) {
-	const { message = '', variant = 'info', timeout = 3200 } = options;
-	if (!message) return;
-
-	const toast = document.createElement('div');
-	toast.className = `toast toast-${variant}`;
-
-	const text = document.createElement('p');
-	text.textContent = message;
-
-	const closeButton = document.createElement('button');
-	closeButton.type = 'button';
-	closeButton.setAttribute('aria-label', 'Dismiss notification');
-	closeButton.textContent = 'X';
-
-	toast.append(text, closeButton);
-	toastRack.appendChild(toast);
-
-	const removeToast = () => {
-		if (toast.parentNode) {
-			toast.parentNode.removeChild(toast);
-		}
-	};
-
-	closeButton.addEventListener('click', removeToast);
-	window.setTimeout(removeToast, timeout);
-}
-
 function switchTab(tabName) {
-	const uploadActive = tabName === 'upload';
-	tabUpload.classList.toggle('active', uploadActive);
-	tabDatasets.classList.toggle('active', !uploadActive);
-	paneUpload.classList.toggle('active', uploadActive);
-	paneDatasets.classList.toggle('active', !uploadActive);
-}
-
-function selectedFiles() {
-	const fileEntries = [...filesInput.files].map(file => ({
-		file,
-		relativePath: file.webkitRelativePath || file.name,
-	}));
-	return [...fileEntries, ...pickedFolderEntries];
+	const activate = (button, pane, active) => {
+		button.classList.toggle('active', active);
+		pane.classList.toggle('active', active);
+	};
+	activate(tabBuild, paneBuild, tabName === 'build');
+	activate(tabSourceMetadata, paneSourceMetadata, tabName === 'source-metadata');
+	activate(tabKeywordFilter, paneKeywordFilter, tabName === 'keyword-filter');
+	activate(tabDatasets, paneDatasets, tabName === 'datasets');
 }
 
 function formatBytes(bytes) {
@@ -217,316 +204,262 @@ function formatBytes(bytes) {
 	return `${value.toFixed(index ? 1 : 0)} ${units[index]}`;
 }
 
-function setRunState(label, mode) {
-	runState.textContent = label;
-	runState.className = `status-pill ${mode}`;
+async function api(path, options = {}) {
+	const response = await fetch(path, options);
+	const contentType = response.headers.get('content-type') || '';
+	const payload = contentType.includes('application/json') ? await response.json() : await response.text();
+	if (!response.ok) {
+		const error = new Error(payload?.error || payload || `Request failed: ${response.status}`);
+		error.status = response.status;
+		error.payload = payload;
+		throw error;
+	}
+	return payload;
 }
 
-function updateFileCount() {
-	const count = selectedFiles().length;
-	fileCount.textContent = count ? `${count} selected` : 'No files selected';
-	folderCount.textContent = pickedFolderEntries.length ? `${pickedFolderNames.size} folder(s), ${pickedFolderEntries.length} file(s)` : 'No folder selected';
+function escapeHtml(value) {
+	return String(value).replace(/[&<>"']/g, ch => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[ch]));
 }
 
-function mergeFolderEntries(entries) {
-	if (!entries.length) return { added: 0 };
+// ---- Build console ----
 
-	const byPath = new Map(pickedFolderEntries.map(entry => [entry.relativePath, entry]));
-	let added = 0;
-	for (const entry of entries) {
-		if (!byPath.has(entry.relativePath)) {
-			added += 1;
+function logLevelClass(level) {
+	if (level === 'error') return 'log-error';
+	if (level === 'warn') return 'log-warn';
+	return 'log-info';
+}
+
+function appendLogLines(lines) {
+	for (const line of lines || []) {
+		if (line && typeof line === 'object' && typeof line.message === 'string') {
+			consoleLines.push({ level: line.level === 'warn' || line.level === 'error' ? line.level : 'info', message: line.message });
+		} else {
+			consoleLines.push({ level: 'info', message: String(line) });
 		}
-		byPath.set(entry.relativePath, entry);
-		const rootFolder = entry.relativePath.split('/')[0];
-		if (rootFolder) pickedFolderNames.add(rootFolder);
 	}
-	pickedFolderEntries = [...byPath.values()];
-	return { added };
-}
-
-function clearFolderQueue() {
-	pickedFolderEntries = [];
-	pickedFolderNames = new Set();
-	folderInput.value = '';
-	updateFileCount();
-}
-
-function renderMetrics(report) {
-	const items = [
-		['Perks', report?.perkCount || 0],
-		['Adult', report?.adultPerkCount || 0],
-		['Sources', report?.sourceCount || 0],
-		['Errors', report?.validationErrorCount || 0],
-		['Categories', report?.categoryCount || 0],
-		['Chapters', report?.chapterCount || 0],
-		['Databases', report?.databaseCount || 0],
-		['Storage', report?.nyaDbDatabaseCount || 0],
-	];
-
-	metrics.innerHTML = items
-		.map(
-			([label, value]) => `
-			<div class="metric">
-				<span>${label}</span>
-				<strong>${Number(value).toLocaleString()}</strong>
-			</div>
-		`,
-		)
-		.join('');
-}
-
-function renderOutputs(job) {
-	if (!job?.outputFiles?.length) {
-		outputs.innerHTML = '';
-		return;
-	}
-
-	outputs.innerHTML = job.outputFiles
-		.map(
-			file => `
-			<a class="output-link" href="/api/download?job=${encodeURIComponent(job.id)}&file=${encodeURIComponent(file.name)}">
-				<span>${file.name}</span>
-				<span>${formatBytes(file.bytes)}</span>
-			</a>
-		`,
-		)
-		.join('');
-}
-
-function renderLogs(entries, error) {
-	const lines = [];
-	if (error) lines.push(`[error] ${error}`);
-	for (const entry of entries || []) {
-		lines.push(`[${entry.level}] ${entry.message}`);
-	}
-	logs.textContent = lines.join('\n') || 'Ready.';
+	logs.innerHTML = consoleLines.map(line => `<span class="log-line ${logLevelClass(line.level)}">${escapeHtml(line.message)}</span>`).join('');
 	logs.scrollTop = logs.scrollHeight;
 }
 
-function splitMachineWords(value) {
-	return String(value || '')
-		.split(/[_-]+/)
-		.filter(Boolean)
-		.map(part => (/^v\d+$/i.test(part) ? part.toUpperCase() : `${part.charAt(0).toUpperCase()}${part.slice(1)}`));
+function clearConsole() {
+	consoleLines = [];
+	logs.textContent = 'Ready.';
 }
 
-function suggestVersionFromDatabase(name) {
-	const machine = String(name || '').toLowerCase();
-	const parts = machine.split(/[_-]+/).filter(Boolean);
-	if (!parts.length) {
-		return {
-			categoryId: machine,
-			versionId: 'default',
-			categoryDisplayName: machine,
-		};
+function renderMetrics(report) {
+	if (!report) {
+		metrics.innerHTML = '';
+		return;
 	}
+	const items = [
+		['Perks', report.perkCount],
+		['Adult', report.adultPerkCount],
+		['Sources', report.sourceCount],
+		['Categories', report.categoryCount],
+		['Chapters', report.chapterCount],
+		['Duplicate IDs', report.duplicateIdCount],
+		['Errors', report.validationErrorCount],
+		['Databases', report.databaseCount],
+	];
+	metrics.innerHTML = items
+		.map(([label, value]) => `<div class="metric"><span>${label}</span><strong>${Number(value || 0).toLocaleString()}</strong></div>`)
+		.join('');
+}
 
-	let categoryId = machine;
-	let versionId = 'default';
-	if (parts.length > 1) {
-		const tail = parts[parts.length - 1];
-		if (/^v\d+$/i.test(tail)) {
-			categoryId = parts.slice(0, -1).join('_');
-			versionId = tail.toLowerCase();
-		} else {
-			categoryId = parts[0];
-			versionId = parts.slice(1).join('_');
+function formatBuildResult(run) {
+	if (run.success) {
+		if (run.writeNyaDb) {
+			const changed = run.writtenDatabases?.changed || [];
+			const deleted = run.writtenDatabases?.deleted || [];
+			if (!changed.length && !deleted.length) return 'No changes were made to the database files.';
+			const lines = [];
+			if (changed.length) lines.push(`<strong>Updated (${changed.length}):</strong> ${changed.map(name => `<code>${escapeHtml(prettyDatasetName(name))}</code>`).join(', ')}`);
+			if (deleted.length) lines.push(`<strong>Removed (${deleted.length}):</strong> ${deleted.map(name => `<code>${escapeHtml(prettyDatasetName(name))}</code>`).join(', ')}`);
+			return `<div class="build-db-lines">${lines.map(line => `<p>${line}</p>`).join('')}</div>`;
 		}
+		return 'Dry run — NyaDB was not written.';
 	}
-
-	const categoryDisplayName = splitMachineWords(categoryId).join(' ') || categoryId;
-	return {
-		categoryId,
-		versionId,
-		categoryDisplayName,
-	};
+	return 'Build failed validation; NyaDB was NOT updated.';
 }
 
-function datasetOptionsForVersions() {
-	return availableDatasets.filter(name => !RESERVED_DATABASES.has(name));
-}
-
-function forEachPerk(dataset, onPerk) {
-	if (!dataset || typeof dataset !== 'object') return;
-	for (const sourceEntry of Object.values(dataset)) {
-		const chapters = sourceEntry?.chapters;
-		if (!chapters || typeof chapters !== 'object') continue;
-		for (const chapterEntry of Object.values(chapters)) {
-			const perksByKey = chapterEntry?.perks;
-			if (!perksByKey || typeof perksByKey !== 'object') continue;
-			for (const perkList of Object.values(perksByKey)) {
-				if (!Array.isArray(perkList)) continue;
-				for (const perk of perkList) {
-					if (perk && typeof perk === 'object') onPerk(perk);
-				}
+async function streamBuild() {
+	const response = await fetch('/api/build', {
+		method: 'POST',
+		headers: { 'content-type': 'application/json' },
+		body: JSON.stringify({ writeNyaDb: writeNyaDbCheckbox.checked }),
+	});
+	if (!response.ok) {
+		let message = `HTTP ${response.status}`;
+		try {
+			const data = await response.json();
+			message = data.error || message;
+		} catch {
+			// keep generic message
+		}
+		throw new Error(message);
+	}
+	const reader = response.body.getReader();
+	const decoder = new TextDecoder();
+	let buffer = '';
+	let result = null;
+	while (true) {
+		const { done, value } = await reader.read();
+		if (done) break;
+		buffer += decoder.decode(value, { stream: true });
+		let newlineIndex;
+		while ((newlineIndex = buffer.indexOf('\n')) !== -1) {
+			const line = buffer.slice(0, newlineIndex).trim();
+			buffer = buffer.slice(newlineIndex + 1);
+			if (!line) continue;
+			try {
+				const event = JSON.parse(line);
+				if (event.type === 'log') appendLogLines([event]);
+				else if (event.type === 'result') result = event.result;
+			} catch {
+				// Skip malformed frame; the result line is what matters.
 			}
 		}
 	}
+	if (!result) throw new Error('Build ended without a result.');
+	return result;
 }
 
-function getDatasetAdultState(dataset) {
-	let total = 0;
-	let adult = 0;
-	forEachPerk(dataset, perk => {
-		total += 1;
-		if (perk.isAdult === true) adult += 1;
-	});
-	if (!total) return { hasPerks: false, mixed: false, isAdult: false };
-	if (adult === 0) return { hasPerks: true, mixed: false, isAdult: false };
-	if (adult === total) return { hasPerks: true, mixed: false, isAdult: true };
-	return { hasPerks: true, mixed: true, isAdult: false };
-}
+async function runBuild() {
+	buildResultBlock.hidden = false;
+	runState.className = 'status-pill running';
+	runState.textContent = 'Running';
+	validationErrors.innerHTML = '';
+	renderBuildDiagnostics(null);
+	renderMetrics(null);
+	buildSummary.textContent = '';
+	clearConsole();
+	appendLogLines([
+		{ level: 'info', message: `Build started — ${writeNyaDbCheckbox.checked ? 'write mode (NyaDB will be updated)' : 'dry run (NyaDB will not be touched)'}.` },
+	]);
+	try {
+		const payload = await streamBuild();
 
-function applyDatasetAdultState(dataset, isAdult) {
-	forEachPerk(dataset, perk => {
-		perk.isAdult = Boolean(isAdult);
-	});
-}
-
-function clearSelectedDataset(notify = false) {
-	activeDatasetName = '';
-	selectedDataset.value = '';
-	datasetEditor.value = '';
-	datasetIsAdult.checked = false;
-	datasetIsAdult.indeterminate = false;
-	datasetIsAdult.disabled = true;
-	searchMatches = [];
-	activeSearchMatchIndex = -1;
-	editorSearchCount.textContent = '0 matches';
-	recomputeVersionBuilderState();
-	renderDatasetList(availableDatasets);
-	updateDatasetModeState();
-	if (notify) showToast({ message: 'Dataset selection cleared.', variant: 'info', timeout: 1600 });
-}
-
-function updateDatasetModeState() {
-	const isSystemDataset = Boolean(activeDatasetName && RESERVED_DATABASES.has(activeDatasetName));
-	if (versionBuilderBlock) {
-		versionBuilderBlock.hidden = isSystemDataset;
-	}
-	if (versionBuilderNotice) {
-		versionBuilderNotice.hidden = !isSystemDataset;
-	}
-}
-
-function scheduleSearchUpdate() {
-	if (searchDebounceTimer) {
-		window.clearTimeout(searchDebounceTimer);
-	}
-	searchDebounceTimer = window.setTimeout(() => {
-		searchDebounceTimer = null;
-		updateSearchMatches();
-	}, 500);
-}
-
-function flushSearchUpdate() {
-	if (!searchDebounceTimer) return;
-	window.clearTimeout(searchDebounceTimer);
-	searchDebounceTimer = null;
-	updateSearchMatches();
-}
-
-function createVersionRow(initial = {}) {
-	const wrapper = document.createElement('div');
-	wrapper.className = 'version-row';
-
-	const select = document.createElement('select');
-	select.className = 'version-dataset';
-	const available = datasetOptionsForVersions();
-	select.innerHTML = [`<option value="">Select dataset</option>`, ...available.map(name => `<option value="${name}">${name}</option>`)].join('');
-	if (initial.database && available.includes(initial.database)) {
-		select.value = initial.database;
-	}
-
-	const versionInput = document.createElement('input');
-	versionInput.type = 'text';
-	versionInput.className = 'version-id';
-	versionInput.placeholder = 'version id';
-	versionInput.value = initial.versionId || '';
-
-	const removeButton = document.createElement('button');
-	removeButton.type = 'button';
-	removeButton.className = 'ghost-button';
-	removeButton.textContent = 'Remove';
-
-	const updateFromSelection = () => {
-		if (!select.value) return;
-		const suggestion = suggestVersionFromDatabase(select.value);
-		if (!versionInput.value.trim()) {
-			versionInput.value = suggestion.versionId;
+		if (payload.success) {
+			runState.className = 'status-pill done';
+			runState.textContent = 'Done';
+			renderMetrics(payload.report);
+			buildSummary.innerHTML = formatBuildResult(payload);
+			appendLogLines([{ level: 'info', message: `Build complete: ${(payload.report?.perkCount || 0).toLocaleString()} perks.` }]);
+			await Promise.all([refreshServerStatus(), loadDatasetList()]);
+			showToast({ message: `Build complete: ${(payload.report?.perkCount || 0).toLocaleString()} perks.`, variant: 'success' });
+		} else if (payload.validationErrors) {
+			runState.className = 'status-pill failed';
+			runState.textContent = 'Failed';
+			renderMetrics(payload.report);
+			buildSummary.textContent = `${payload.validationErrors.length} issue(s) to fix. Nothing was written.`;
+			for (const entry of payload.validationErrors) {
+				const item = document.createElement('li');
+				item.className = 'helper-text';
+				item.textContent = entry;
+				validationErrors.appendChild(item);
+			}
+			appendLogLines([{ level: 'error', message: `Validation failed with ${payload.validationErrors.length} issue(s).` }]);
+			renderBuildDiagnostics(payload.diagnostics);
+			showModal({ title: 'Build Failed', message: `${payload.validationErrors.length} validation issue(s). Check the diagnostics below to fix them, or open a bug report.`, confirmLabel: 'Close' });
+		} else {
+			runState.className = 'status-pill failed';
+			runState.textContent = 'Failed';
+			buildSummary.textContent = payload.error || 'Build failed.';
+			appendLogLines([{ level: 'error', message: payload.error || 'Build failed.' }]);
+			renderBuildDiagnostics(payload.diagnostics);
+			showModal({ title: 'Build Failed', message: `${payload.error || 'Build failed.'} Check the diagnostics below to fix it, or open a bug report.`, confirmLabel: 'Close' });
 		}
-		recomputeVersionBuilderState();
-	};
-
-	select.addEventListener('change', updateFromSelection);
-	versionInput.addEventListener('input', recomputeVersionBuilderState);
-	removeButton.addEventListener('click', () => {
-		wrapper.remove();
-		recomputeVersionBuilderState();
-	});
-
-	wrapper.append(select, versionInput, removeButton);
-	versionRowsContainer.appendChild(wrapper);
-	updateFromSelection();
+	} catch (error) {
+		runState.className = 'status-pill failed';
+		runState.textContent = 'Failed';
+		appendLogLines([{ level: 'error', message: error.message }]);
+		showModal({
+			title: 'Build Failed',
+			message: `${error.message || 'Build failed before it could start.'} If this repeats, open a bug report with the console shown here.`,
+			confirmLabel: 'Close',
+		});
+	}
 }
 
-function collectVersionRows() {
-	return [...versionRowsContainer.querySelectorAll('.version-row')]
-		.map(row => ({
-			database: row.querySelector('.version-dataset')?.value || '',
-			versionId: row.querySelector('.version-id')?.value.trim().toLowerCase() || '',
-		}))
-		.filter(row => row.database && row.versionId);
-}
-
-function recomputeVersionBuilderState() {
-	const rows = collectVersionRows();
-	const categoryIds = [...new Set(rows.map(row => suggestVersionFromDatabase(row.database).categoryId))];
-
-	if (!rows.length) {
-		categoryIdDisplay.value = '';
-		categoryDisplayLabel.value = '';
-		categoryDefaultVersionSelect.innerHTML = '<option value="">Default version</option>';
-		saveCategoryVersions.disabled = true;
+function renderBuildDiagnostics(diagnostics) {
+	buildDiagnostics.innerHTML = '';
+	if (!diagnostics) {
+		buildDiagnostics.hidden = true;
 		return;
 	}
+	const fragments = [];
 
-	const categoryInfo = suggestVersionFromDatabase(rows[0].database);
-	categoryIdDisplay.value = categoryInfo.categoryId;
-	categoryDisplayLabel.value = categoryIds.length === 1 ? categoryInfo.categoryDisplayName : `${categoryInfo.categoryDisplayName} (mixed sources)`;
-
-	const versions = [...new Set(rows.map(row => row.versionId))].sort((a, b) => a.localeCompare(b));
-	const existingDefault = categoryDefaultVersionSelect.value;
-	categoryDefaultVersionSelect.innerHTML = versions.map(version => `<option value="${version}">${version}</option>`).join('');
-	if (versions.includes(existingDefault)) {
-		categoryDefaultVersionSelect.value = existingDefault;
+	if (diagnostics.selfHelp?.length) {
+		const heading = document.createElement('h3');
+		heading.textContent = 'How to fix this yourself';
+		const list = document.createElement('ul');
+		for (const hint of diagnostics.selfHelp) {
+			const item = document.createElement('li');
+			item.textContent = hint;
+			list.appendChild(item);
+		}
+		fragments.push(heading, list);
 	}
-	saveCategoryVersions.disabled = !rows.length;
+
+	if (diagnostics.bugReportUrl) {
+		const para = document.createElement('p');
+		para.className = 'diagnostics-bug';
+		const link = document.createElement('a');
+		link.href = diagnostics.bugReportUrl;
+		link.target = '_blank';
+		link.rel = 'noopener noreferrer';
+		link.textContent = 'Still stuck? Open a pre-filled bug report.';
+		link.title = 'Opens a GitHub issue pre-filled with the failure details from this build.';
+		para.appendChild(link);
+		fragments.push(para);
+	}
+
+	buildDiagnostics.append(...fragments);
+	buildDiagnostics.hidden = !fragments.length;
 }
 
-function renderDatasetList(databases) {
-	availableDatasets = [...(databases || [])].sort((a, b) => a.localeCompare(b));
+// ---- Server status & dataset list ----
+
+async function refreshServerStatus() {
+	try {
+		const status = await api('/api/status');
+		const size = status.databases.reduce((sum, db) => sum + db.bytes, 0);
+		serverStatus.textContent = `${status.databases.length} database(s), ${formatBytes(size)} · building: ${status.building ? 'yes' : 'no'}`;
+		refreshStatusButton.disabled = false;
+		return status;
+	} catch (error) {
+		serverStatus.textContent = error.message || 'Server unreachable.';
+		throw error;
+	}
+}
+
+async function loadDatasetList() {
+	try {
+		const payload = await api('/api/datasets');
+		availableDatasets = payload.databases.map(db => db.name).sort((a, b) => a.localeCompare(b));
+		renderDatasetList();
+		return payload;
+	} catch (error) {
+		showToast({ message: error.message, variant: 'error' });
+	}
+}
+
+// ---- Dataset viewer (read-only) ----
+
+function formatDatasetContents(contents) {
+	return JSON.stringify(contents || {}, null, 2);
+}
+
+function renderDatasetList() {
 	const sourceDatasets = availableDatasets.filter(name => !RESERVED_DATABASES.has(name));
 	const systemDatasets = availableDatasets.filter(name => RESERVED_DATABASES.has(name));
-	if (activeDatasetName && !availableDatasets.includes(activeDatasetName)) {
-		activeDatasetName = '';
-		selectedDataset.value = '';
-		datasetEditor.value = '';
-		datasetIsAdult.checked = false;
-		datasetIsAdult.indeterminate = false;
-		datasetIsAdult.disabled = true;
-	}
+
 	if (!availableDatasets.length) {
 		datasetSummary.textContent = 'No datasets found.';
-		datasetList.innerHTML = '<p class="dataset-empty">No datasets available yet.</p>';
+		datasetList.innerHTML = '<p class="dataset-empty">No datasets available yet — run a build first.</p>';
 		selectedDataset.value = '';
 		datasetEditor.value = '';
 		activeDatasetName = '';
-		datasetIsAdult.checked = false;
-		datasetIsAdult.indeterminate = false;
-		datasetIsAdult.disabled = true;
-		recomputeVersionBuilderState();
 		return;
 	}
 
@@ -535,66 +468,28 @@ function renderDatasetList(databases) {
 	const renderGroup = (title, names, system) => {
 		if (!names.length) return '';
 		const chips = names
-			.map(name => {
-				const stateClass = name === activeDatasetName ? 'active' : '';
-				const systemClass = system ? 'dataset-chip-system' : '';
-				return `<button class="dataset-chip ${systemClass} ${stateClass}" type="button" data-dataset-name="${name}">${name}</button>`;
-			})
+			.map(name => `<button class="dataset-chip ${system ? 'dataset-chip-system' : ''} ${name === activeDatasetName ? 'active' : ''}" type="button" data-dataset-name="${name}" title="${name}">${escapeHtml(prettyDatasetName(name))}</button>`)
 			.join('');
-		return `
-			<section class="dataset-group">
-				<p class="dataset-group-label">${title}</p>
-				<div class="dataset-row">${chips}</div>
-			</section>
-		`;
+		return `<section class="dataset-group"><p class="dataset-group-label">${title}</p><div class="dataset-row">${chips}</div></section>`;
 	};
 
 	datasetList.innerHTML = [renderGroup('Source datasets', sourceDatasets, false), renderGroup('System datasets', systemDatasets, true)].join('');
-
-	const availableForVersions = datasetOptionsForVersions();
-	for (const select of versionRowsContainer.querySelectorAll('.version-dataset')) {
-		const current = select.value;
-		select.innerHTML = [`<option value="">Select dataset</option>`, ...availableForVersions.map(name => `<option value="${name}">${name}</option>`)].join('');
-		if (availableForVersions.includes(current)) {
-			select.value = current;
-		}
-	}
-	recomputeVersionBuilderState();
 }
 
-function updateSearchMatches() {
-	const query = editorSearch.value;
-	const text = datasetEditor.value;
-	searchMatches = [];
-	activeSearchMatchIndex = -1;
-	if (!query) {
-		editorSearchCount.textContent = '0 matches';
-		return;
-	}
-
-	const lowerText = text.toLowerCase();
-	const lowerQuery = query.toLowerCase();
-	let start = 0;
-	while (start < lowerText.length) {
-		const index = lowerText.indexOf(lowerQuery, start);
-		if (index === -1) break;
-		searchMatches.push(index);
-		start = index + lowerQuery.length;
-	}
-
-	editorSearchCount.textContent = `${searchMatches.length} match(es)`;
-	if (searchMatches.length) {
-		activeSearchMatchIndex = 0;
-		focusSearchMatch();
-	}
+async function loadDataset(name) {
+	const payload = await api(`/api/dataset?name=${encodeURIComponent(name)}`);
+	activeDatasetName = name;
+	selectedDataset.value = prettyDatasetName(name);
+	datasetEditor.value = formatDatasetContents(payload.contents);
+	renderDatasetList();
+	refreshSearchMatchesFor(datasetEditor, editorSearch, editorSearchCount);
+	showToast({ message: `Loaded dataset: ${prettyDatasetName(name)}`, variant: 'success', timeout: 1800 });
 }
 
-// Font/spacing properties that must be mirrored so line-height & glyph width match the textarea.
-// Width and box-sizing are handled separately below since the textarea's scrollbar
-// shrinks its usable content width in a way computed style alone doesn't reflect.
+// ---- Text search in textareas ----
+
 const MIRROR_PROPS = ['paddingTop', 'paddingRight', 'paddingBottom', 'paddingLeft', 'fontFamily', 'fontSize', 'fontWeight', 'fontStyle', 'letterSpacing', 'lineHeight', 'tabSize'];
 
-/** Returns the pixel offset (top, height) of a caret position inside a textarea. */
 function getCaretOffset(textarea, position) {
 	const style = getComputedStyle(textarea);
 	const mirror = document.createElement('div');
@@ -608,418 +503,676 @@ function getCaretOffset(textarea, position) {
 	mirror.style.overflowWrap = 'break-word';
 	mirror.style.boxSizing = 'content-box';
 	for (const prop of MIRROR_PROPS) mirror.style[prop] = style[prop];
-
-	// Match the textarea's actual content width (clientWidth already excludes the scrollbar),
-	// then subtract padding since box-sizing is content-box here.
 	const paddingLeft = parseFloat(style.paddingLeft) || 0;
 	const paddingRight = parseFloat(style.paddingRight) || 0;
 	mirror.style.width = `${textarea.clientWidth - paddingLeft - paddingRight}px`;
-
 	mirror.textContent = textarea.value.slice(0, position);
 	const marker = document.createElement('span');
 	marker.textContent = textarea.value.slice(position) || '.';
 	mirror.appendChild(marker);
-
 	document.body.appendChild(mirror);
 	const top = marker.offsetTop;
 	const height = marker.offsetHeight || parseInt(style.lineHeight, 10) || parseInt(style.fontSize, 10);
 	document.body.removeChild(mirror);
-
 	return { top, height };
 }
 
-/** Scrolls the textarea vertically so the given caret position is centered in view. */
 function scrollTextareaToPosition(textarea, position) {
 	const { top, height } = getCaretOffset(textarea, position);
 	const target = top - textarea.clientHeight / 2 + height / 2;
 	textarea.scrollTop = Math.max(0, Math.min(target, textarea.scrollHeight - textarea.clientHeight));
 }
 
-function focusSearchMatch(step) {
-	if (!searchMatches.length) return;
-	if (typeof step === 'number') {
-		activeSearchMatchIndex = (activeSearchMatchIndex + step + searchMatches.length) % searchMatches.length;
+function refreshSearchMatchesFor(textarea, input, countEl) {
+	const query = input.value.trim();
+	if (!query) {
+		countEl.textContent = '0 matches';
+		return [];
 	}
-	const start = searchMatches[activeSearchMatchIndex];
-	const queryLength = editorSearch.value.length;
-	datasetEditor.focus();
-	datasetEditor.setSelectionRange(start, start + queryLength);
-	scrollTextareaToPosition(datasetEditor, start);
-	editorSearchCount.textContent = `${activeSearchMatchIndex + 1}/${searchMatches.length}`;
+	const lowerText = textarea.value.toLowerCase();
+	const lowerQuery = query.toLowerCase();
+	const matches = [];
+	let start = 0;
+	while (start < lowerText.length) {
+		const index = lowerText.indexOf(lowerQuery, start);
+		if (index === -1) break;
+		matches.push(index);
+		start = index + lowerQuery.length;
+	}
+	countEl.textContent = `${matches.length} match(es)`;
+	return matches;
 }
 
-async function loadDataset(name, notify) {
-	const response = await fetch(`/api/dataset?name=${encodeURIComponent(name)}`);
-	const payload = await response.json();
-	if (!response.ok) {
-		throw new Error(payload.error || `Failed to load dataset: ${name}`);
-	}
-	activeDatasetName = name;
-	selectedDataset.value = name;
-	const contents = payload.contents || {};
-	datasetEditor.value = JSON.stringify(contents, null, 2);
-	const adultState = getDatasetAdultState(contents);
-	datasetIsAdult.disabled = !adultState.hasPerks;
-	datasetIsAdult.indeterminate = adultState.mixed;
-	datasetIsAdult.checked = adultState.isAdult;
-	renderDatasetList(availableDatasets);
-	updateSearchMatches();
-	updateDatasetModeState();
-	if (notify) {
-		showToast({ message: `Loaded dataset: ${name}`, variant: 'success', timeout: 1800 });
-	}
-}
+function makeSearchable({ textarea, input, prevButton, nextButton, countEl }) {
+	let matches = [];
+	let activeIndex = -1;
 
-async function refreshStorageStatus(options = {}) {
-	const { notify = false } = options;
-	try {
-		const response = await fetch('/api/status');
-		const status = await response.json();
-		const storage = status.storage || status.nyaDb;
-		if (storage?.error) {
-			databaseStatus.textContent = storage.error;
-			renderDatasetList([]);
-			updateDatasetModeState();
-			if (notify) showToast({ message: storage.error, variant: 'error' });
+	const rebuild = () => {
+		const next = refreshSearchMatchesFor(textarea, input, countEl);
+		if (activeIndex >= (next || []).length) activeIndex = -1;
+		if (next?.length) {
+			activeIndex = 0;
+			focus();
+		}
+	};
+
+	const focus = () => {
+		if (!matches.length) return;
+		const start = matches[activeIndex];
+		textarea.focus();
+		textarea.setSelectionRange(start, start + input.value.length);
+		scrollTextareaToPosition(textarea, start);
+		countEl.textContent = `${activeIndex + 1}/${matches.length}`;
+	};
+
+	const step = direction => {
+		const found = refreshSearchMatchesFor(textarea, input, countEl);
+		if (!found?.length) {
+			countEl.textContent = '0 matches';
 			return;
 		}
-		const databases = storage?.databases || [];
-		const size = storage?.size?.total?.formatted;
-		databaseStatus.textContent = `Storage: ${databases.length} datasets${size ? `, ${size}` : ''}`;
-		renderDatasetList(databases);
-		updateDatasetModeState();
-		if (notify) showToast({ message: 'Storage refreshed.', variant: 'success', timeout: 1800 });
+		matches = found;
+		if (activeIndex < 0) activeIndex = 0;
+		activeIndex = (activeIndex + direction + matches.length) % matches.length;
+		focus();
+	};
+
+	const schedule = () => {
+		if (searchDebounceTimer) window.clearTimeout(searchDebounceTimer);
+		searchDebounceTimer = window.setTimeout(rebuild, 500);
+	};
+
+	input.addEventListener('input', schedule);
+	textarea.addEventListener('input', schedule);
+	nextButton.addEventListener('click', () => {
+		if (searchDebounceTimer) {
+			window.clearTimeout(searchDebounceTimer);
+			searchDebounceTimer = null;
+		}
+		step(1);
+	});
+	prevButton.addEventListener('click', () => {
+		if (searchDebounceTimer) {
+			window.clearTimeout(searchDebounceTimer);
+			searchDebounceTimer = null;
+		}
+		step(-1);
+	});
+}
+
+// ---- Source metadata (one row per source) ----
+
+function contentsToMetadataRows(contents) {
+	return Object.entries(contents || {})
+		.map(([id, entry]) => ({
+			id,
+			name: entry?.name || '',
+			description: entry?.description || '',
+			sourceUrl: entry?.sourceUrl || '',
+			altSourceUrl: entry?.altSourceUrl || '',
+			altSourceLabel: entry?.altSourceLabel || '',
+			categoryUrls: Object.entries(entry?.categoryUrls || {}),
+		}))
+		.sort((a, b) => a.id.localeCompare(b.id));
+}
+
+function splitMachineWords(value) {
+	return String(value || '')
+		.split(/[_-]+/)
+		.filter(Boolean)
+		.map(part => (/^v\d+$/i.test(part) ? part.toUpperCase() : `${part.charAt(0).toUpperCase()}${part.slice(1)}`));
+}
+
+function displayNameFromId(id) {
+	return splitMachineWords(id).join(' ') || id;
+}
+
+function versionDisplayName(key) {
+	return splitMachineWords(key).join(' ') || key;
+}
+
+function versionMachineFromDisplay(display) {
+	return String(display || '')
+		.toLowerCase()
+		.replace(/[\s-]+/g, '_')
+		.replace(/[^a-z0-9_]/g, '')
+		.replace(/_+/g, '_');
+}
+
+function createMetaRowElement(row, index, hidden) {
+	const tr = document.createElement('tr');
+	tr.className = 'meta-source-row';
+	if (hidden) tr.hidden = true;
+	tr.dataset.metaIndex = String(index);
+
+	const cell = field => {
+		const td = document.createElement('td');
+		const input = document.createElement('input');
+		input.type = 'text';
+		input.className = 'meta-input';
+		if (field === 'id') {
+			input.spellcheck = false;
+			input.value = row.name || '';
+			input.placeholder = displayNameFromId(row.id);
+			input.title = `Internal id: ${row.id}`;
+			input.addEventListener('input', () => {
+				row.name = input.value;
+			});
+			const sub = document.createElement('span');
+			sub.className = 'meta-id-sub';
+			sub.textContent = row.id;
+			sub.title = 'Internal id — fixed by the source folder name';
+			td.appendChild(input);
+			td.appendChild(sub);
+			return td;
+		}
+		input.value = row[field] || '';
+		input.addEventListener('input', () => {
+			row[field] = input.value;
+		});
+		td.appendChild(input);
+		return td;
+	};
+
+	const actionTd = document.createElement('td');
+	const actionWrap = document.createElement('div');
+	actionWrap.className = 'meta-actions';
+	const addVersionButton = document.createElement('button');
+	addVersionButton.type = 'button';
+	addVersionButton.className = 'ghost-button meta-add-version';
+	addVersionButton.textContent = 'Add version';
+	addVersionButton.addEventListener('click', () => addVersionRowForSource(row.id));
+	const removeButton = document.createElement('button');
+	removeButton.type = 'button';
+	removeButton.className = 'ghost-button meta-remove';
+	removeButton.textContent = 'Remove';
+	removeButton.dataset.metaIndex = String(index);
+	removeButton.addEventListener('click', async () => {
+		const confirmed = await showModal({
+			title: 'Remove source?',
+			message: `Remove source "${row.id}"? All its metadata and category versions will be deleted.`,
+			confirmLabel: 'Remove source',
+			cancelLabel: 'Cancel',
+			variant: 'danger',
+			showCancel: true,
+		});
+		if (confirmed) {
+			removeMetadataRow(index);
+			markMetadataDirty();
+		}
+	});
+	actionWrap.append(addVersionButton, removeButton);
+	actionTd.appendChild(actionWrap);
+
+	tr.append(cell('id'), cell('description'), cell('sourceUrl'), cell('altSourceUrl'), cell('altSourceLabel'), actionTd);
+	return tr;
+}
+
+function createVersionRowElement(version, hidden) {
+	const tr = document.createElement('tr');
+	tr.className = 'meta-version-row';
+	if (hidden) tr.hidden = true;
+
+	const blankTd = () => {
+		const td = document.createElement('td');
+		td.className = 'meta-version-blank';
+		td.textContent = '—';
+		return td;
+	};
+
+	const nameTd = document.createElement('td');
+	const nameInput = document.createElement('input');
+	nameInput.type = 'text';
+	nameInput.className = 'meta-input meta-version-name';
+	nameInput.value = versionDisplayName(version.key);
+	nameInput.setAttribute('title', version.key || '');
+	nameInput.addEventListener('input', () => {
+		version.key = versionMachineFromDisplay(nameInput.value);
+		nameInput.title = version.key;
+	});
+	nameTd.appendChild(nameInput);
+
+	const urlTd = document.createElement('td');
+	const urlInput = document.createElement('input');
+	urlInput.type = 'text';
+	urlInput.className = 'meta-input';
+	urlInput.value = version.url || '';
+	urlInput.addEventListener('input', () => {
+		version.url = urlInput.value;
+	});
+	urlTd.appendChild(urlInput);
+
+	const removeTd = document.createElement('td');
+	const removeButton = document.createElement('button');
+	removeButton.type = 'button';
+	removeButton.className = 'ghost-button meta-remove';
+	removeButton.textContent = 'Remove';
+	removeButton.addEventListener('click', () => removeVersionRow(version));
+	removeTd.appendChild(removeButton);
+
+	tr.append(nameTd, blankTd(), urlTd, blankTd(), blankTd(), removeTd);
+	return tr;
+}
+
+function renderMetadataTable() {
+	const query = metadataSearch.value.trim().toLowerCase();
+	let visible = 0;
+	metadataTableBody.innerHTML = '';
+	const fragments = [];
+	metadataRows.forEach((row, index) => {
+		const versions = versionRows.filter(version => version.sourceId === row.id);
+		const sourceHaystack = [row.id, row.description, row.sourceUrl, row.altSourceUrl, row.altSourceLabel].join(' ').toLowerCase();
+		const sourceMatches = !query || sourceHaystack.includes(query);
+		const versionMatchesAny = versions.some(version => [versionDisplayName(version.key), version.url].join(' ').toLowerCase().includes(query));
+		const sourceHidden = Boolean(query && !sourceMatches && !versionMatchesAny);
+		if (!sourceHidden) visible += 1;
+		fragments.push(createMetaRowElement(row, index, sourceHidden));
+		for (const version of versions) {
+			const versionHaystack = [versionDisplayName(version.key), version.url].join(' ').toLowerCase();
+			const hidden = Boolean(query && !sourceMatches && !versionHaystack.includes(query));
+			fragments.push(createVersionRowElement(version, hidden));
+		}
+	});
+	metadataTableBody.append(...fragments);
+	metadataSearchCount.textContent = query ? `${visible} of ${metadataRows.length} sources` : `${metadataRows.length} sources`;
+}
+
+let metadataDirty = false;
+let metadataAutoSaveTimer = null;
+function markMetadataDirty() {
+	metadataDirty = true;
+	scheduleMetadataSave();
+}
+function scheduleMetadataSave() {
+	if (!metadataDirty) return;
+	if (metadataAutoSaveTimer) clearTimeout(metadataAutoSaveTimer);
+	metadataAutoSaveTimer = setTimeout(() => {
+		metadataAutoSaveTimer = null;
+		saveSourceMetadata();
+	}, 900);
+}
+
+function removeMetadataRow(index) {
+	metadataRows.splice(index, 1);
+	versionRows = versionRows.filter(version => metadataRows.some(row => row.id === version.sourceId));
+	renderMetadataTable();
+}
+
+// ---- Category versions (dedicated table) ----
+
+function flattenVersionRows() {
+	const rows = [];
+	for (const row of metadataRows) {
+		for (const [key, url] of row.categoryUrls || []) {
+			rows.push({ sourceId: row.id, key, url });
+		}
+	}
+	return rows;
+}
+
+function addVersionRowForSource(sourceId) {
+	versionRows.push({ sourceId, key: '', url: '' });
+	renderMetadataTable();
+	const newRow = [...metadataTableBody.querySelectorAll('tr.meta-version-row')].pop();
+	newRow?.querySelector('.meta-version-name')?.focus();
+	markMetadataDirty();
+}
+
+function removeVersionRow(version) {
+	const index = versionRows.indexOf(version);
+	if (index !== -1) versionRows.splice(index, 1);
+	renderMetadataTable();
+	markMetadataDirty();
+}
+
+function applyVersionRowsToMetadataRows() {
+	for (const row of metadataRows) {
+		row.categoryUrls = versionRows
+			.filter(version => version.sourceId === row.id && version.key && version.url)
+			.map(version => [version.key, version.url]);
+	}
+}
+
+function metadataRowsToContents() {
+	const contents = {};
+	const seen = new Set();
+	for (const row of metadataRows) {
+		const id = row.id.trim();
+		if (!id) continue;
+		if (seen.has(id)) throw new Error(`Duplicate source ID: ${id}`);
+		seen.add(id);
+		const entry = {};
+		if (row.name.trim()) entry.name = row.name.trim();
+		if (row.description.trim()) entry.description = row.description.trim();
+		if (row.sourceUrl.trim()) entry.sourceUrl = cleanSourceUrl(row.sourceUrl);
+		if (row.altSourceUrl.trim()) {
+			entry.altSourceUrl = cleanSourceUrl(row.altSourceUrl);
+			if (row.altSourceLabel.trim()) entry.altSourceLabel = row.altSourceLabel.trim();
+		}
+		const categoryUrls = Object.fromEntries(row.categoryUrls.filter(([key, value]) => key && value).map(([key, value]) => [key, cleanSourceUrl(value)]));
+		if (Object.keys(categoryUrls).length) entry.categoryUrls = categoryUrls;
+		contents[id] = entry;
+	}
+	return contents;
+}
+
+async function loadSourceMetadata() {
+	metadataDirty = false;
+	if (metadataAutoSaveTimer) {
+		clearTimeout(metadataAutoSaveTimer);
+		metadataAutoSaveTimer = null;
+	}
+	const payload = await api('/api/source-metadata');
+	metadataRows = contentsToMetadataRows(payload.contents);
+	versionRows = flattenVersionRows();
+	renderMetadataTable();
+}
+
+async function saveSourceMetadata() {
+	if (!metadataDirty) return;
+	applyVersionRowsToMetadataRows();
+	let parsed;
+	try {
+		parsed = metadataRowsToContents();
 	} catch (error) {
-		databaseStatus.textContent = error.message;
-		renderDatasetList([]);
-		updateDatasetModeState();
-		if (notify) showToast({ message: error.message || 'Unable to refresh status.', variant: 'error' });
+		showToast({ message: error.message, variant: 'error' });
+		return;
+	}
+	try {
+		await api('/api/source-metadata', {
+			method: 'PUT',
+			headers: { 'content-type': 'application/json' },
+			body: JSON.stringify(parsed),
+		});
+		metadataDirty = false;
+		showToast({ message: 'Source metadata saved.', variant: 'success', timeout: 1800 });
+	} catch (error) {
+		showToast({ message: error.message, variant: 'error' });
 	}
 }
 
-function appendUploadFiles(formData, files) {
-	for (const entry of files) {
-		formData.append('files', entry.file, entry.relativePath || entry.file.name);
+// ---- Add-source modal ----
+
+function slugify(value) {
+	return String(value ?? '')
+		.normalize('NFKD')
+		.replace(/[\u0300-\u036f]/g, '')
+		.replace(/^Copy of\s*/i, '')
+		.replace(/['’]/g, '')
+		.replace(/&/g, ' and ')
+		.replace(/[^a-zA-Z0-9_-]+/g, '_')
+		.replace(/_+/g, '_')
+		.replace(/^_+|_+$/g, '')
+		.toLowerCase();
+}
+
+function cleanSourceUrl(url) {
+	const trimmed = String(url || '').trim();
+	if (!trimmed) return '';
+	try {
+		const parsed = new URL(trimmed);
+		parsed.search = '';
+		parsed.hash = '';
+		let pathname = parsed.pathname;
+		if (parsed.hostname.endsWith('docs.google.com') && /\/edit$/i.test(pathname)) {
+			pathname = pathname.replace(/\/edit$/i, '');
+		}
+		return parsed.origin + pathname;
+	} catch {
+		return trimmed;
 	}
 }
 
-async function collectDirectoryEntries(handle, prefix) {
-	const entries = [];
-	for await (const [name, item] of handle.entries()) {
-		if (item.kind === 'file') {
-			const file = await item.getFile();
-			entries.push({ file, relativePath: `${prefix}/${name}` });
+function sourceNameFromFile(fileName) {
+	const basename = String(fileName || '').replace(/\.[^.]+$/, '');
+	const segments = basename
+		.split(/[-:_]/)
+		.map(s => s.trim())
+		.filter(Boolean);
+	if (segments.length <= 1) return basename.trim();
+	return segments.slice(0, -1).join(' - ').trim();
+}
+
+let stagedSourceFiles = [];
+
+function updateSourceModalState() {
+	const name = sourceModalName.value.trim();
+	sourceModalSlug.textContent = slugify(name) || '—';
+}
+
+function openSourceModal() {
+	sourceModalName.value = '';
+	sourceModalUrl.value = '';
+	sourceModalDesc.value = '';
+	sourceModalUpload.value = '';
+	stagedSourceFiles = [];
+	renderStagedFileList();
+	updateSourceModalState();
+	sourceModal.hidden = false;
+	sourceModalName.focus();
+}
+
+function closeSourceModal() {
+	sourceModal.hidden = true;
+	sourceModalUpload.value = '';
+	stagedSourceFiles = [];
+	renderStagedFileList();
+}
+
+async function stageModalFiles(files) {
+	for (const file of Array.from(files || [])) {
+		const content = await file.text();
+		if (!content.trim()) {
+			showToast({ message: `Skipped empty file: ${file.name}`, variant: 'info', timeout: 1800 });
 			continue;
 		}
-		if (item.kind === 'directory') {
-			const nested = await collectDirectoryEntries(item, `${prefix}/${name}`);
-			entries.push(...nested);
+		if (!stagedSourceFiles.some(staged => staged.name === file.name)) {
+			stagedSourceFiles.push({ name: file.name, content });
 		}
 	}
-	return entries;
+	if (!sourceModalName.value.trim() && stagedSourceFiles.length) {
+		sourceModalName.value = sourceNameFromFile(stagedSourceFiles[0].name);
+	}
+	sourceModalUpload.value = '';
+	updateSourceModalState();
+	renderStagedFileList();
 }
 
-async function handleChooseFolder() {
-	const supportsDirectoryPicker = typeof window.showDirectoryPicker === 'function';
-	if (!supportsDirectoryPicker) {
-		folderInput.click();
+function renderStagedFileList() {
+	sourceModalStagedFiles.innerHTML = '';
+	for (const staged of stagedSourceFiles) {
+		const row = document.createElement('div');
+		row.className = 'staged-file';
+		const name = document.createElement('span');
+		name.textContent = staged.name;
+		const remove = document.createElement('button');
+		remove.type = 'button';
+		remove.className = 'ghost-button remove-file';
+		remove.textContent = 'Remove';
+		remove.addEventListener('click', () => {
+			stagedSourceFiles = stagedSourceFiles.filter(item => item !== staged);
+			renderStagedFileList();
+		});
+		row.append(name, remove);
+		sourceModalStagedFiles.appendChild(row);
+	}
+}
+
+async function saveSourceModal() {
+	const name = sourceModalName.value.trim();
+	const sourceUrl = cleanSourceUrl(sourceModalUrl.value);
+	const description = sourceModalDesc.value.trim();
+	if (!name || !sourceUrl || !description) {
+		showToast({ message: 'Name, source URL, and description are required.', variant: 'error' });
+		updateSourceModalState();
 		return;
 	}
-
-	try {
-		const handle = await window.showDirectoryPicker({ mode: 'read' });
-		const entries = await collectDirectoryEntries(handle, handle.name);
-		const filteredEntries = entries.filter(entry => /\.(csv|md)$/i.test(entry.file.name));
-		const { added } = mergeFolderEntries(filteredEntries);
-		updateFileCount();
-		if (!filteredEntries.length) {
-			showToast({ message: 'Folder selected, but no CSV/Markdown files were found.', variant: 'info' });
-			return;
-		}
-		showToast({ message: `Folder added: ${added} new file(s) queued.`, variant: 'success' });
-	} catch (error) {
-		if (error?.name === 'AbortError') return;
-		showToast({ message: 'Unable to read folder. Try fallback picker.', variant: 'error' });
-		folderInput.click();
+	const sourceId = slugify(name);
+	if (!sourceId) {
+		showToast({ message: 'The source name did not produce a valid folder id.', variant: 'error' });
+		sourceModalName.focus();
+		return;
 	}
-}
-
-form.addEventListener('submit', async event => {
-	event.preventDefault();
+	if (metadataRows.some(row => row.id === sourceId)) {
+		showToast({ message: `Source "${sourceId}" already exists.`, variant: 'error' });
+		return;
+	}
 	await withBusy(
-		convertButton,
+		saveSourceModalButton,
 		async () => {
-			const files = selectedFiles();
-			if (!files.length) {
-				setRunState('Failed', 'failed');
-				renderLogs([], 'Select at least one CSV or Markdown file.');
-				await showModal({
-					title: 'No Files Selected',
-					message: 'Select at least one CSV or Markdown file before starting conversion.',
-					confirmLabel: 'Got it',
-					allowDismiss: true,
-					showCancel: false,
-				});
-				return;
+			await api(`/api/sources/${encodeURIComponent(sourceId)}`, { method: 'POST', headers: { 'content-type': 'application/json' }, body: '{}' });
+			for (const staged of stagedSourceFiles) {
+				await api(`/api/sources/${encodeURIComponent(sourceId)}/files/${encodeURIComponent(staged.name)}`, { method: 'PUT', body: staged.content });
 			}
-
-			const formData = new FormData();
-			formData.append('writeNyaDb', document.querySelector('#writeNyaDb').checked ? 'true' : 'false');
-			formData.append('persistRegistry', document.querySelector('#persistRegistry').checked ? 'true' : 'false');
-			appendUploadFiles(formData, files);
-
-			setRunState('Running', 'running');
-			outputs.innerHTML = '';
-			renderLogs([{ level: 'info', message: 'Conversion started.' }]);
-			showToast({ message: 'Conversion started.', variant: 'info', timeout: 1600 });
-
-			try {
-				const response = await fetch('/api/convert', { method: 'POST', body: formData });
-				const payload = await response.json();
-				if (!response.ok) throw payload;
-
-				setRunState('Done', 'done');
-				renderMetrics(payload.report);
-				renderOutputs(payload);
-				renderLogs(payload.logs);
-				await refreshStorageStatus();
-				showToast({
-					message: `Conversion complete: ${(payload.report?.perkCount || 0).toLocaleString()} perks across ${(payload.report?.categoryCount || 0).toLocaleString()} categories.`,
-					variant: 'success',
-				});
-			} catch (error) {
-				setRunState('Failed', 'failed');
-				renderMetrics(null);
-				renderOutputs(null);
-				renderLogs(error.logs, error.error || error.message || 'Conversion failed.');
-				showToast({ message: error.error || error.message || 'Conversion failed.', variant: 'error' });
-				await showModal({
-					title: 'Conversion Failed',
-					message: error.error || error.message || 'Conversion failed. Check logs for details.',
-					confirmLabel: 'Close',
-					allowDismiss: true,
-					showCancel: false,
-				});
-			}
+			const current = await api('/api/source-metadata');
+			const contents = current.contents || {};
+			contents[sourceId] = { ...(contents[sourceId] || {}), name, description, sourceUrl };
+			await api('/api/source-metadata', {
+				method: 'PUT',
+				headers: { 'content-type': 'application/json' },
+				body: JSON.stringify(contents),
+			});
+			closeSourceModal();
+			await loadSourceMetadata();
+			showToast({ message: `Created source "${sourceId}".`, variant: 'success' });
 		},
-		'Converting...',
-	);
-});
-
-filesInput.addEventListener('change', updateFileCount);
-
-folderInput.addEventListener('change', () => {
-	if (!folderInput.files.length) {
-		updateFileCount();
-		return;
-	}
-
-	const fallbackEntries = [...folderInput.files]
-		.filter(file => /\.(csv|md)$/i.test(file.name))
-		.map(file => ({
-			file,
-			relativePath: file.webkitRelativePath || file.name,
-		}));
-
-	const { added } = mergeFolderEntries(fallbackEntries);
-	folderInput.value = '';
-	showToast({ message: `Fallback folder added: ${added} new file(s) queued.`, variant: 'info', timeout: 2200 });
-	updateFileCount();
-});
-
-chooseFolder.addEventListener('click', () => withBusy(chooseFolder, handleChooseFolder, 'Loading...'));
-
-clearFolders.addEventListener('click', async () => {
-	if (!pickedFolderEntries.length) return;
-	const confirmed = await showModal({
-		title: 'Clear Folder Queue',
-		message: 'Remove all selected folder files from the queue?',
-		confirmLabel: 'Clear',
-		cancelLabel: 'Keep',
-		variant: 'danger',
-		allowDismiss: true,
-		showCancel: true,
-	});
-	if (confirmed) {
-		clearFolderQueue();
-		showToast({ message: 'Folder queue cleared.', variant: 'success', timeout: 1800 });
-	}
-});
-
-for (const eventName of ['dragenter', 'dragover']) {
-	dropzone.addEventListener(eventName, event => {
-		event.preventDefault();
-		dropzone.classList.add('dragging');
-	});
+		'Creating...',
+	).catch(error => showToast({ message: error.message, variant: 'error' }));
 }
 
-for (const eventName of ['dragleave', 'drop']) {
-	dropzone.addEventListener(eventName, event => {
-		event.preventDefault();
-		dropzone.classList.remove('dragging');
-	});
+// ---- Keyword filter (one keyword per line) ----
+
+let keywordDirty = false;
+let keywordAutoSaveTimer = null;
+function markKeywordDirty() {
+	keywordDirty = true;
+	scheduleKeywordSave();
+}
+function scheduleKeywordSave() {
+	if (!keywordDirty) return;
+	if (keywordAutoSaveTimer) clearTimeout(keywordAutoSaveTimer);
+	keywordAutoSaveTimer = setTimeout(() => {
+		keywordAutoSaveTimer = null;
+		saveKeywordFilter();
+	}, 900);
 }
 
-clearLogs.addEventListener('click', async () => {
+async function loadKeywordFilter() {
+	keywordDirty = false;
+	if (keywordAutoSaveTimer) {
+		clearTimeout(keywordAutoSaveTimer);
+		keywordAutoSaveTimer = null;
+	}
+	const payload = await api('/api/config/keyword-filter');
+	keywordFilterEditor.value = (payload.contents?.keywords || []).join('\n');
+	refreshSearchMatchesFor(keywordFilterEditor, keywordSearch, keywordSearchCount);
+}
+
+async function saveKeywordFilter() {
+	if (!keywordDirty) return;
+	const keywords = keywordFilterEditor.value.split('\n').map(keyword => keyword.trim()).filter(Boolean);
+	try {
+		await api('/api/config/keyword-filter', {
+			method: 'PUT',
+			headers: { 'content-type': 'application/json' },
+			body: JSON.stringify({ keywords }),
+		});
+		keywordDirty = false;
+		showToast({ message: `Keyword filter saved (${keywords.length} keyword(s)).`, variant: 'success', timeout: 1800 });
+	} catch (error) {
+		showToast({ message: error.message, variant: 'error' });
+	}
+}
+
+// ---- Wiring ----
+
+buildButton.addEventListener('click', () => withBusy(buildButton, runBuild, 'Building...'));
+
+clearLogsButton.addEventListener('click', async () => {
 	const confirmed = await showModal({
 		title: 'Clear Logs',
 		message: 'Remove all current log lines?',
 		confirmLabel: 'Clear',
 		cancelLabel: 'Keep',
 		variant: 'danger',
-		allowDismiss: true,
 		showCancel: true,
 	});
-
 	if (confirmed) {
-		logs.textContent = 'Ready.';
+		clearConsole();
 		showToast({ message: 'Logs cleared.', variant: 'success', timeout: 1800 });
 	}
 });
 
-refreshStatus.addEventListener('click', () => withBusy(refreshStatus, () => refreshStorageStatus({ notify: true })));
-refreshDatasets.addEventListener('click', () => withBusy(refreshDatasets, () => refreshStorageStatus({ notify: true })));
+refreshStatusButton.addEventListener('click', () => withBusy(refreshStatusButton, refreshServerStatus, '…'));
+
+refreshDatasetsButton.addEventListener('click', () => withBusy(refreshDatasetsButton, loadDatasetList, 'Loading...'));
+
+addMetaRowButton.addEventListener('click', openSourceModal);
+metadataSearch.addEventListener('input', renderMetadataTable);
+reloadSourceMetadataButton.addEventListener('click', () => withBusy(reloadSourceMetadataButton, loadSourceMetadata, 'Loading...'));
+metadataTableBody.addEventListener('input', markMetadataDirty);
+metadataTableBody.addEventListener('focusout', scheduleMetadataSave);
+closeSourceModalButton.addEventListener('click', closeSourceModal);
+saveSourceModalButton.addEventListener('click', saveSourceModal);
+sourceModalName.addEventListener('input', updateSourceModalState);
+sourceModalUrl.addEventListener('input', updateSourceModalState);
+sourceModalDesc.addEventListener('input', updateSourceModalState);
+sourceModalUpload.addEventListener('change', () => {
+	const pending = stageModalFiles(sourceModalUpload.files);
+	pending.catch(error => showToast({ message: error.message, variant: 'error' }));
+});
+sourceModalUploadSection.addEventListener('click', () => sourceModalUpload.click());
+['dragenter', 'dragover'].forEach(type => sourceModalUploadSection.addEventListener(type, event => {
+	event.preventDefault();
+	sourceModalUploadSection.classList.add('dragover');
+}));
+['dragleave', 'drop'].forEach(type => sourceModalUploadSection.addEventListener(type, event => {
+	event.preventDefault();
+	sourceModalUploadSection.classList.remove('dragover');
+}));
+sourceModalUploadSection.addEventListener('drop', event => {
+	const pending = stageModalFiles(event.dataTransfer.files);
+	pending.catch(error => showToast({ message: error.message, variant: 'error' }));
+});
+
+reloadKeywordFilterButton.addEventListener('click', () => withBusy(reloadKeywordFilterButton, loadKeywordFilter, 'Loading...'));
+keywordFilterEditor.addEventListener('input', markKeywordDirty);
+keywordFilterEditor.addEventListener('focusout', scheduleKeywordSave);
 
 datasetList.addEventListener('click', event => {
 	const button = event.target.closest('[data-dataset-name]');
 	if (!button) return;
-	withBusy(button, () => loadDataset(button.dataset.datasetName, true), 'Loading').catch(error => {
-		showToast({ message: error.message || 'Failed to load dataset.', variant: 'error' });
-	});
+	withBusy(button, () => loadDataset(button.dataset.datasetName).catch(error => showToast({ message: error.message, variant: 'error' })), 'Loading');
 });
 
-reloadDataset.addEventListener('click', () => {
+clearDatasetSelectionButton.addEventListener('click', () => {
+	activeDatasetName = '';
+	selectedDataset.value = '';
+	datasetEditor.value = '';
+	renderDatasetList();
+});
+
+reloadDatasetButton.addEventListener('click', () => {
 	if (!activeDatasetName) {
 		showToast({ message: 'Select a dataset first.', variant: 'info', timeout: 1800 });
 		return;
 	}
-	withBusy(reloadDataset, () => loadDataset(activeDatasetName, true), 'Reloading...').catch(error => {
-		showToast({ message: error.message || 'Failed to reload dataset.', variant: 'error' });
-	});
+	withBusy(reloadDatasetButton, () => loadDataset(activeDatasetName), 'Reloading...').catch(error => showToast({ message: error.message, variant: 'error' }));
 });
 
-saveDataset.addEventListener('click', () => {
-	if (!activeDatasetName) {
-		showToast({ message: 'Select a dataset first.', variant: 'info', timeout: 1800 });
-		return;
-	}
-
-	let parsed;
-	try {
-		parsed = JSON.parse(datasetEditor.value || '{}');
-	} catch (error) {
-		showToast({ message: `Invalid JSON: ${error.message}`, variant: 'error' });
-		return;
-	}
-
-	if (!datasetIsAdult.disabled && !datasetIsAdult.indeterminate) {
-		applyDatasetAdultState(parsed, datasetIsAdult.checked);
-		datasetEditor.value = JSON.stringify(parsed, null, 2);
-	}
-
-	withBusy(
-		saveDataset,
-		async () => {
-			const response = await fetch(`/api/dataset?name=${encodeURIComponent(activeDatasetName)}`, {
-				method: 'PUT',
-				headers: { 'content-type': 'application/json' },
-				body: JSON.stringify(parsed),
-			});
-			const payload = await response.json();
-			if (!response.ok) {
-				throw new Error(payload.error || `Failed to save dataset: ${activeDatasetName}`);
-			}
-			showToast({ message: `Saved dataset: ${activeDatasetName}`, variant: 'success' });
-			await refreshStorageStatus();
-		},
-		'Saving...',
-	).catch(error => {
-		showToast({ message: error.message || 'Failed to save dataset.', variant: 'error' });
-	});
+[tabBuild, tabSourceMetadata, tabKeywordFilter, tabDatasets].forEach(button => {
+	button.addEventListener('click', () => switchTab(button.dataset.tab));
 });
 
-editorSearch.addEventListener('input', scheduleSearchUpdate);
-editorSearchNext.addEventListener('click', () => {
-	flushSearchUpdate();
-	focusSearchMatch(1);
-});
-editorSearchPrev.addEventListener('click', () => {
-	flushSearchUpdate();
-	focusSearchMatch(-1);
-});
-datasetEditor.addEventListener('input', scheduleSearchUpdate);
+makeSearchable({ textarea: datasetEditor, input: editorSearch, prevButton: editorSearchPrev, nextButton: editorSearchNext, countEl: editorSearchCount });
+makeSearchable({ textarea: keywordFilterEditor, input: keywordSearch, prevButton: keywordSearchPrev, nextButton: keywordSearchNext, countEl: keywordSearchCount });
 
-clearDatasetSelection.addEventListener('click', () => {
-	if (!activeDatasetName) return;
-	clearSelectedDataset(true);
-});
+switchTab('build');
 
-datasetIsAdult.addEventListener('change', () => {
-	datasetIsAdult.indeterminate = false;
-});
-
-addVersionRow.addEventListener('click', () => {
-	createVersionRow({ database: activeDatasetName || '' });
-	recomputeVersionBuilderState();
-});
-
-saveCategoryVersions.addEventListener('click', () => {
-	const rows = collectVersionRows();
-	if (!rows.length) {
-		showToast({ message: 'Add at least one version row.', variant: 'error' });
-		return;
-	}
-
-	const categoryIds = [...new Set(rows.map(row => suggestVersionFromDatabase(row.database).categoryId))];
-	const categoryInfo = suggestVersionFromDatabase(rows[0].database);
-	const defaultVersion = categoryDefaultVersionSelect.value || rows[0].versionId;
-	if (categoryIds.length !== 1) {
-		showToast({ message: `Mixed sources detected. Saving under category: ${categoryInfo.categoryId}`, variant: 'info', timeout: 2600 });
-	}
-
-	withBusy(
-		saveCategoryVersions,
-		async () => {
-			const response = await fetch('/api/category-version', {
-				method: 'POST',
-				headers: { 'content-type': 'application/json' },
-				body: JSON.stringify({
-					categoryId: categoryInfo.categoryId,
-					displayName: categoryInfo.categoryDisplayName,
-					defaultVersion,
-					versions: rows.map((row, index) => ({
-						database: row.database,
-						id: row.versionId,
-						order: index,
-					})),
-				}),
-			});
-			const payload = await response.json();
-			if (!response.ok) {
-				throw new Error(payload.error || 'Failed to save category versions');
-			}
-			showToast({ message: `Saved versions for ${categoryInfo.categoryDisplayName}.`, variant: 'success' });
-			await refreshStorageStatus();
-			if (availableDatasets.includes('categories')) {
-				await loadDataset('categories');
-			}
-		},
-		'Saving...',
-	).catch(error => {
-		showToast({ message: error.message || 'Failed to save category versions.', variant: 'error' });
-	});
-});
-
-[tabUpload, tabDatasets].forEach(button => {
-	button.addEventListener('click', () => {
-		switchTab(button.dataset.tab);
-	});
-});
-
-updateFileCount();
-renderMetrics(null);
-switchTab('upload');
-createVersionRow();
-recomputeVersionBuilderState();
-updateDatasetModeState();
-refreshStorageStatus();
+loadDatasetList().catch(() => {});
+refreshServerStatus()
+	.catch(() => {
+		serverStatus.textContent = 'Server unreachable. Check that the web panel is running.';
+	})
+	.then(() => loadSourceMetadata().catch(() => {}))
+	.then(() => loadKeywordFilter().catch(() => {}));
