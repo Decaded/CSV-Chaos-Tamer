@@ -2,6 +2,27 @@
 
 > A Node.js pipeline that turns messy, community-sourced perk tables into clean, validated JSON for [celestial.decaded.dev](https://celestial.decaded.dev).
 
+## Getting started
+
+Clone and install, then run one of the two front-ends:
+
+```bash
+git clone https://github.com/Decaded/CSV-Chaos-Tamer.git
+cd CSV-Chaos-Tamer
+npm install
+```
+
+Requires **Node.js 18 or newer** — grab the LTS from [nodejs.org](https://nodejs.org/), which includes `npm`. If you already had a Node install, skip straight to the commands above.
+
+Then run it:
+
+```bash
+npm run web    # web panel → http://localhost:3000 (set CSV_TAMER_PORT to override)
+npm run run    # CLI dry-run build of sources/; add --write to write NyaDB/
+```
+
+Full requirements, CLI flags, and the web-panel walkthrough are below.
+
 ## What it is
 
 CSV Chaos Tamer ingests a folder of **differently formatted CSV and Markdown files** and produces a single, consistent set of [`NyaDB`](https://github.com/Decaded/NyaDB) JSON
