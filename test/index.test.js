@@ -7,16 +7,17 @@ const {
 	assignPerkIds,
 	buildDatabase,
 	buildPerkDatabases,
-	deriveCategoryVersion,
-	deriveSplitCategory,
+	deriveSourceEdition,
+	deriveSplitEdition,
 	extractChapterFromFilename,
 	normalizeCost,
 	normalizeHeader,
 	prepareItems,
 	buildBackendGeneratorFiles,
+	buildFileEditions,
 	buildSourceMetadata,
 	disambiguateLogicalKeys,
-	mergeNyaDbContents,
+	deriveSourceEditionsConfig,
 	validatePreparedData,
 	validateBackendGeneratorFiles,
 	validateSourceMetadataConfig,
@@ -57,7 +58,7 @@ testAsync('parseCsv maps a plain Perk header to the name field', async () => {
 	assert.strictEqual(rows.length, 1);
 	assert.strictEqual(rows[0].name, 'Technical Training');
 	assert.strictEqual(rows[0].description, 'Not everyone knows how.');
-	assert.strictEqual(rows[0].source, '007');
+	assert.strictEqual(rows[0].origin, '007');
 	assert.strictEqual(rows[0].cost, 100);
 	assert.strictEqual(maxCP, 100);
 });
@@ -74,7 +75,7 @@ testAsync('parseCsv falls back to the first column as name when no name header e
 	assert.strictEqual(rows.length, 1);
 	assert.strictEqual(rows[0].name, 'Life Support');
 	assert.strictEqual(rows[0].description, 'Sealed environment.');
-	assert.strictEqual(rows[0].source, 'Metroid');
+	assert.strictEqual(rows[0].origin, 'Metroid');
 	assert.strictEqual(rows[0].cost, 0);
 });
 
@@ -82,20 +83,20 @@ test('extractChapterFromFilename strips common noise', () => {
 	assert.strictEqual(extractChapterFromFilename('Copy - Items.csv'), 'Items');
 });
 
-test('deriveCategoryVersion groups trailing v-number folders as category versions', () => {
-	assert.deepStrictEqual(deriveCategoryVersion('Grimoire v6'), {
-		categoryId: 'grimoire',
-		categoryDisplayName: 'Grimoire',
-		versionId: 'v6',
-		versionDisplayName: 'Grimoire V6',
-		database: 'grimoire_v6',
+test('deriveSourceEdition groups trailing v-number folders as source editions', () => {
+	assert.deepStrictEqual(deriveSourceEdition('Grimoire v6'), {
+		sourceId: 'grimoire',
+		sourceDisplayName: 'Grimoire',
+		editionVersion: 'v6',
+		editionDisplayName: 'Grimoire V6',
+		fileKey: 'grimoire_v6',
 	});
-	assert.deepStrictEqual(deriveSplitCategory('companion_lewd'), {
-		categoryId: 'companion_lewd',
-		categoryDisplayName: 'Companion Lewd',
-		versionId: 'default',
-		versionDisplayName: 'Companion Lewd',
-		database: 'companion_lewd',
+	assert.deepStrictEqual(deriveSplitEdition('companion_lewd'), {
+		sourceId: 'companion_lewd',
+		sourceDisplayName: 'Companion Lewd',
+		editionVersion: 'default',
+		editionDisplayName: 'Companion Lewd',
+		fileKey: 'companion_lewd',
 	});
 });
 
@@ -107,24 +108,24 @@ test('normalizeCost emits finite non-negative numbers', () => {
 	assert.strictEqual(normalizeCost(25), 25);
 });
 
-test('prepareItems and buildPerkDatabases create source chapter name hierarchy', () => {
+test('prepareItems and buildPerkDatabases create origin chapter name hierarchy', () => {
 	const databases = new Map([
 		[
 			'grimoire_v2',
 			{
-				categoryId: 'grimoire',
-				categoryDisplayName: 'Grimoire',
-				versionId: 'v2',
-				versionDisplayName: 'Grimoire V2',
-				database: 'grimoire_v2',
+				sourceId: 'grimoire',
+				sourceDisplayName: 'Grimoire',
+				editionVersion: 'v2',
+				editionDisplayName: 'Grimoire V2',
+				fileKey: 'grimoire_v2',
 				rows: [
 					{
-						__source: 'Sample Sheet',
+						__origin: 'Sample Sheet',
 						__line: 1,
 						id: 10,
 						cost: '100CP',
 						name: 'Arcane Tuning',
-						source: 'Fate/Grand Master',
+						origin: 'Fate/Grand Master',
 						chapter: 'Parameters',
 						description: 'Tune the spell to optimize power delivery.',
 					},
@@ -144,50 +145,54 @@ test('prepareItems and buildPerkDatabases create source chapter name hierarchy',
 	});
 
 	assert.deepStrictEqual(errors, []);
-	assert.strictEqual(grouped.grimoire_v2.source_fate_grand_master.chapters.parameters.perks.arcane_tuning[0].categoryVersion, 'v2');
+	assert.strictEqual(grouped.grimoire_v2.origin_fate_grand_master.chapters.parameters.perks.arcane_tuning[0].editionVersion, 'v2');
 });
 
-test('buildBackendGeneratorFiles produces importer-compatible category files and source metadata', () => {
+test('buildBackendGeneratorFiles produces importer-compatible edition files and source metadata', () => {
 	const prepared = prepareItems(
 		new Map([
 			[
 				'forge',
 				{
-					categoryId: 'forge',
-					categoryDisplayName: 'Forge',
-					versionId: 'default',
-					versionDisplayName: 'Forge',
-					database: 'forge',
-					rows: [{ __source: 'Forge Sheet', __line: 1, name: 'Hammer Time', cost: 200, source: 'The Forge', chapter: 'Tools', description: 'Make tools.' }],
+					sourceId: 'forge',
+					sourceDisplayName: 'Forge',
+					editionVersion: 'default',
+					editionDisplayName: 'Forge',
+					fileKey: 'forge',
+					rows: [{ __origin: 'Forge Sheet', __line: 1, name: 'Hammer Time', cost: 200, origin: 'The Forge', chapter: 'Tools', description: 'Make tools.' }],
 				},
 			],
 		]),
 	);
 	const output = buildBackendGeneratorFiles(prepared.items, {});
+	applySourceMetadataOverrides(output.sourceMetadata.sources, {
+		forge: { description: 'Crafting perks.', editions: { default: { fileKey: 'forge', sourceUrl: 'https://example.com' } } },
+	});
 
 	assert.deepStrictEqual(validateBackendGeneratorFiles(output), []);
 	assert.strictEqual(output.sourceMetadata.schemaVersion, 1);
 	assert.strictEqual(output.sourceMetadata.sources[0].id, 'forge');
 	assert.strictEqual(output.sourceMetadata.sources[0].defaultVersion, 'default');
+	assert.deepStrictEqual(output.sourceMetadata.sources[0].editions, [{ fileKey: 'forge', version: 'default', sourceUrl: 'https://example.com' }]);
 	assert.match(output.files.forge.Tools[0].id, /^[0-9a-f]{8}-[0-9a-f]{4}-5[0-9a-f]{3}-[89ab][0-9a-f]{3}-[0-9a-f]{12}$/i);
-	assert.strictEqual(output.files.forge.Tools[0].source, 'The Forge');
+	assert.strictEqual(output.files.forge.Tools[0].origin, 'The Forge');
 });
 
 test('buildBackendGeneratorFiles keeps UUIDs stable across regenerations', () => {
 	const items = [
 		{
-			database: 'forge',
+			fileKey: 'forge',
 			chapter: 'Tools',
-			sourceName: 'The Forge',
+			originName: 'The Forge',
 			logicalKey: 'forge/forge_sheet/id_1',
-			perk: { name: 'Hammer Time', cost: 200, description: 'Make tools.' },
+			perk: { sourceId: 'forge', editionVersion: 'default', name: 'Hammer Time', cost: 200, description: 'Make tools.' },
 		},
 		{
-			database: 'forge',
+			fileKey: 'forge',
 			chapter: 'Tools',
-			sourceName: 'The Forge',
+			originName: 'The Forge',
 			logicalKey: 'forge/forge_sheet/id_2',
-			perk: { name: 'Anvil Time', cost: 300, description: 'Make heavier tools.' },
+			perk: { sourceId: 'forge', editionVersion: 'default', name: 'Anvil Time', cost: 300, description: 'Make heavier tools.' },
 		},
 	];
 	const firstBuild = buildBackendGeneratorFiles(items, {});
@@ -197,34 +202,35 @@ test('buildBackendGeneratorFiles keeps UUIDs stable across regenerations', () =>
 	assert.deepStrictEqual(idsByName(secondBuild), idsByName(firstBuild));
 });
 
-test('buildSourceMetadata groups configured physical databases as source versions', () => {
+test('buildSourceMetadata groups configured physical editions as source editions', () => {
 	const files = { grimoire: { Main: [] }, grimoire_v2: { Main: [] }, forge: { Tools: [] } };
 	const items = [
-		{ database: 'grimoire', perk: { categoryDisplayName: 'Grimoire', isAdult: false } },
-		{ database: 'grimoire_v2', perk: { categoryDisplayName: 'Grimoire V2', isAdult: false } },
-		{ database: 'forge', perk: { categoryDisplayName: 'Forge', isAdult: false } },
+		{ fileKey: 'grimoire', perk: { editionDisplayName: 'Grimoire', isAdult: false } },
+		{ fileKey: 'grimoire_v2', perk: { editionDisplayName: 'Grimoire V2', isAdult: false } },
+		{ fileKey: 'forge', perk: { editionDisplayName: 'Forge', isAdult: false } },
 	];
-	const sources = buildSourceMetadata(files, items, {
+	const fileEditions = buildFileEditions(Object.keys(files), {
 		grimoire: {
 			displayName: 'Grimoire',
 			defaultVersion: 'default',
-			versions: { default: 'grimoire', v2: 'grimoire_v2' },
+			editions: { default: 'grimoire', v2: 'grimoire_v2' },
 		},
 	});
+	const sources = buildSourceMetadata(files, items, fileEditions);
 	const grimoire = sources.find(source => source.id === 'grimoire');
 
 	assert.strictEqual(grimoire.defaultVersion, 'default');
-	assert.deepStrictEqual(grimoire.categories.slice(0, 2), [
-		{ id: 'grimoire', version: 'default' },
-		{ id: 'grimoire_v2', version: 'v2' },
+	assert.deepStrictEqual(grimoire.editions.slice(0, 2), [
+		{ fileKey: 'grimoire', version: 'default' },
+		{ fileKey: 'grimoire_v2', version: 'v2' },
 	]);
 	assert.ok(sources.some(source => source.id === 'forge'));
 });
 
-test('buildSourceMetadata groups a standalone versioned database under its base source', () => {
+test('buildSourceMetadata groups a standalone versioned edition under its base source', () => {
 	const files = { song_v2: { Main: [] } };
-	const items = [{ database: 'song_v2', perk: { categoryDisplayName: 'Song V2', isAdult: false } }];
-	const sources = buildSourceMetadata(files, items, {});
+	const items = [{ fileKey: 'song_v2', perk: { editionDisplayName: 'Song V2', isAdult: false } }];
+	const sources = buildSourceMetadata(files, items, buildFileEditions(Object.keys(files), {}));
 
 	assert.deepStrictEqual(sources, [
 		{
@@ -233,7 +239,7 @@ test('buildSourceMetadata groups a standalone versioned database under its base 
 			description: 'Perks from Song.',
 			isR18: false,
 			defaultVersion: 'v2',
-			categories: [{ id: 'song_v2', version: 'v2' }],
+			editions: [{ fileKey: 'song_v2', version: 'v2' }],
 		},
 	]);
 });
@@ -245,111 +251,6 @@ test('disambiguateLogicalKeys gives repeated source rows distinct UUID identitie
 		items.map(item => item.logicalKey),
 		['example/sheet/id_1', 'example/sheet/id_1/occurrence_2'],
 	);
-});
-
-test('mergeNyaDbContents upserts category versions by category id and version id', () => {
-	const existing = {
-		categories: [
-			{
-				id: 'grimoire',
-				displayName: 'Grimoire',
-				defaultVersion: 'default',
-				versions: [{ id: 'default', displayName: 'Grimoire', database: 'grimoire' }],
-			},
-		],
-	};
-	const incoming = {
-		categories: [
-			{
-				id: 'grimoire',
-				displayName: 'Grimoire',
-				defaultVersion: 'v2',
-				versions: [{ id: 'v2', displayName: 'Grimoire V2', database: 'grimoire_v2' }],
-			},
-			{
-				id: 'forge',
-				displayName: 'Forge',
-				defaultVersion: 'default',
-				versions: [{ id: 'default', displayName: 'Forge', database: 'forge' }],
-			},
-		],
-	};
-
-	const merged = mergeNyaDbContents('categories', existing, incoming);
-	assert.strictEqual(merged.categories.length, 2);
-	const grimoire = merged.categories.find(category => category.id === 'grimoire');
-	assert.strictEqual(grimoire.defaultVersion, 'v2');
-	assert.deepStrictEqual(
-		grimoire.versions.map(version => version.id),
-		['default', 'v2'],
-	);
-});
-
-test('mergeNyaDbContents upserts sources and unions source categories', () => {
-	const existing = {
-		sources: [
-			{
-				id: 'source_test',
-				name: 'Test',
-				displayName: 'Test',
-				description: 'Old',
-				categories: ['grimoire'],
-			},
-		],
-	};
-	const incoming = {
-		sources: [
-			{
-				id: 'source_test',
-				name: 'Test',
-				displayName: 'Test',
-				description: 'New',
-				categories: ['forge'],
-			},
-		],
-	};
-
-	const merged = mergeNyaDbContents('sources', existing, incoming);
-	assert.strictEqual(merged.sources.length, 1);
-	assert.strictEqual(merged.sources[0].description, 'New');
-	assert.deepStrictEqual(merged.sources[0].categories, ['forge', 'grimoire']);
-});
-
-test('mergeNyaDbContents upserts perk database without removing unrelated sources', () => {
-	const existing = {
-		source_old: {
-			source: 'Old Source',
-			description: 'Old',
-			chapters: {
-				old_chapter: {
-					chapter: 'Old Chapter',
-					perks: {
-						old_perk: [{ id: 'perk_000001', name: 'Old', description: 'Old', cost: 100 }],
-					},
-				},
-			},
-		},
-	};
-	const incoming = {
-		source_new: {
-			source: 'New Source',
-			description: 'New',
-			chapters: {
-				new_chapter: {
-					chapter: 'New Chapter',
-					perks: {
-						new_perk: [{ id: 'perk_000002', name: 'New', description: 'New', cost: 200 }],
-					},
-				},
-			},
-		},
-	};
-
-	const merged = mergeNyaDbContents('grimoire', existing, incoming);
-	assert.ok(merged.source_old);
-	assert.ok(merged.source_new);
-	assert.ok(merged.source_old.chapters.old_chapter);
-	assert.ok(merged.source_new.chapters.new_chapter);
 });
 
 test('assignPerkIds assigns fresh id for retired logical key', () => {
@@ -404,9 +305,9 @@ testAsync('buildDatabase writes a persistent perk ID registry and keeps ids stab
 		['Name,Cost,Source,Description', 'Hammer Time,200,The Forge,Make tools.', 'Anvil Time,300,The Forge,Make heavier tools.'].join('\n'),
 		'utf8',
 	);
-	await fs.promises.writeFile(configPath, JSON.stringify({ forge: { description: 'Crafting perks.', sourceUrl: 'https://example.com' } }), 'utf8');
+	await fs.promises.writeFile(configPath, JSON.stringify({ forge: { description: 'Crafting perks.', editions: { default: { fileKey: 'forge', sourceUrl: 'https://example.com' } } } }), 'utf8');
 
-	const options = { sheetsRoot, registryPath, sourceMetadataConfigPath: configPath, sourceGroups: {}, writeNyaDb: false, logger: { log() {}, warn() {}, error() {} } };
+	const options = { sheetsRoot, registryPath, sourceMetadataConfigPath: configPath, datasetConfigPath: path.join(dir, 'dataset.json'), writeNyaDb: false, logger: { log() {}, warn() {}, error() {} } };
 
 	const first = await buildDatabase(options);
 	assert.strictEqual(first.report.perkCount, 2);
@@ -427,38 +328,220 @@ test('validateSourceMetadataConfig flags sources missing a manual entry', () => 
 });
 
 test('validateSourceMetadataConfig flags manual entries with no matching source', () => {
-	const errors = validateSourceMetadataConfig([], { orphan: { description: 'd', sourceUrl: 'https://example.com' } });
+	const errors = validateSourceMetadataConfig([], {
+		orphan: { description: 'd', editions: { default: { fileKey: 'orphan', sourceUrl: 'https://example.com' } } },
+	});
 	assert.ok(errors.some(err => err.includes('orphan') && err.includes('unknown source')));
 });
 
-test('validateSourceMetadataConfig requires non-empty description and sourceUrl', () => {
-	const errors = validateSourceMetadataConfig([{ id: 'grimoire' }], { grimoire: { description: '', sourceUrl: '' } });
-	assert.ok(errors.some(err => err.includes('description')));
-	assert.ok(errors.some(err => err.includes('sourceUrl')));
+test('validateSourceMetadataConfig requires an editions map on every entry', () => {
+	const errors = validateSourceMetadataConfig([{ id: 'grimoire' }], { grimoire: { description: 'd' } });
+	assert.ok(errors.some(err => err.includes('missing an editions map')), errors.join('\n'));
 });
 
-test('validateSourceMetadataConfig requires altSourceUrl and altSourceLabel together', () => {
-	const errors = validateSourceMetadataConfig([{ id: 'grimoire' }], {
-		grimoire: { description: 'd', sourceUrl: 'https://example.com', altSourceUrl: 'https://alt.example.com' },
-	});
-	assert.ok(errors.some(err => err.includes('altSourceUrl') && err.includes('altSourceLabel')));
+test('validateSourceMetadataConfig requires a non-empty description and per-edition sourceUrl', () => {
+	const errors = validateSourceMetadataConfig(
+		[{ id: 'grimoire', editions: [{ version: 'default', fileKey: 'grimoire' }] }],
+		{ grimoire: { description: '', editions: { default: { fileKey: 'grimoire', sourceUrl: '' } } } },
+	);
+	assert.ok(errors.some(err => err.includes('description')));
+	assert.ok(errors.some(err => err.includes('empty sourceUrl for edition default')));
+});
+
+test('validateSourceMetadataConfig rejects top-level sourceUrl and the legacy editionUrls field', () => {
+	const errors = validateSourceMetadataConfig(
+		[{ id: 'grimoire', editions: [{ version: 'default', fileKey: 'grimoire' }] }],
+		{ grimoire: { description: 'd', sourceUrl: 'https://example.com', editionUrls: { grimoire: 'https://example.com' }, editions: { default: { fileKey: 'grimoire', sourceUrl: 'https://example.com' } } } },
+	);
+	assert.ok(errors.some(err => err.includes('must not carry a top-level sourceUrl')), errors.join('\n'));
+	assert.ok(errors.some(err => err.includes('legacy editionUrls')), errors.join('\n'));
+});
+
+test('validateSourceMetadataConfig requires altSourceUrl and altSourceLabel together per edition', () => {
+	const errors = validateSourceMetadataConfig(
+		[{ id: 'grimoire', editions: [{ version: 'default', fileKey: 'grimoire' }] }],
+		{ grimoire: { description: 'd', editions: { default: { fileKey: 'grimoire', sourceUrl: 'https://example.com', altSourceUrl: 'https://alt.example.com' } } } },
+	);
+	assert.ok(errors.some(err => err.includes('altSourceUrl') && err.includes('altSourceLabel') && err.includes('edition default')));
 });
 
 test('validateSourceMetadataConfig passes for a fully matched, valid config', () => {
-	const errors = validateSourceMetadataConfig([{ id: 'grimoire' }], { grimoire: { description: 'd', sourceUrl: 'https://example.com' } });
+	const errors = validateSourceMetadataConfig(
+		[{ id: 'grimoire', editions: [{ version: 'default', fileKey: 'grimoire' }] }],
+		{ grimoire: { description: 'd', editions: { default: { fileKey: 'grimoire', sourceUrl: 'https://example.com' } } } },
+	);
 	assert.deepStrictEqual(errors, []);
 });
 
-test('applySourceMetadataOverrides replaces description and adds sourceUrl', () => {
-	const sources = [{ id: 'grimoire', description: 'Perks from Grimoire.' }];
-	applySourceMetadataOverrides(sources, { grimoire: { description: 'Magical abilities and powers.', sourceUrl: 'https://example.com' } });
+test('applySourceMetadataOverrides replaces description and adds the edition sourceUrl', () => {
+	const sources = [
+		{
+			id: 'grimoire',
+			description: 'Perks from Grimoire.',
+			defaultVersion: 'default',
+			editions: [{ fileKey: 'grimoire', version: 'default' }],
+		},
+	];
+	applySourceMetadataOverrides(sources, {
+		grimoire: { description: 'Magical abilities and powers.', editions: { default: { fileKey: 'grimoire', sourceUrl: 'https://example.com' } } },
+	});
 	assert.strictEqual(sources[0].description, 'Magical abilities and powers.');
-	assert.strictEqual(sources[0].sourceUrl, 'https://example.com');
+	assert.strictEqual(sources[0].editions[0].sourceUrl, 'https://example.com');
 });
 
 test('applySourceMetadataOverrides leaves sources without a manual entry untouched', () => {
-	const sources = [{ id: 'grimoire', description: 'Perks from Grimoire.' }];
+	const sources = [
+		{
+			id: 'grimoire',
+			description: 'Perks from Grimoire.',
+			defaultVersion: 'default',
+			editions: [{ fileKey: 'grimoire', version: 'default' }],
+		},
+	];
 	applySourceMetadataOverrides(sources, {});
 	assert.strictEqual(sources[0].description, 'Perks from Grimoire.');
-	assert.strictEqual(sources[0].sourceUrl, undefined);
+	assert.strictEqual(sources[0].editions[0].sourceUrl, undefined);
+});
+
+test('applySourceMetadataOverrides places per-edition sourceUrl and alt links from an editions map', () => {
+	const sources = [
+		{
+			id: 'grimoire',
+			defaultVersion: 'default',
+			editions: [
+				{ fileKey: 'grimoire', version: 'default' },
+				{ fileKey: 'grimoire_v2', version: 'v2' },
+			],
+		},
+	];
+	applySourceMetadataOverrides(sources, {
+		grimoire: {
+			description: 'Magical abilities and powers.',
+			editions: {
+				default: { fileKey: 'grimoire', sourceUrl: 'https://default.example.com', altSourceUrl: 'https://alt.example.com', altSourceLabel: 'Alt' },
+				v2: { fileKey: 'grimoire_v2', sourceUrl: 'https://v2.example.com' },
+			},
+		},
+	});
+	assert.strictEqual(sources[0].editions[0].sourceUrl, 'https://default.example.com');
+	assert.strictEqual(sources[0].editions[0].altSourceUrl, 'https://alt.example.com');
+	assert.strictEqual(sources[0].editions[0].altSourceLabel, 'Alt');
+	assert.strictEqual(sources[0].editions[1].sourceUrl, 'https://v2.example.com');
+});
+
+test('applySourceMetadataOverrides ignores a legacy top-level sourceUrl', () => {
+	const sources = [
+		{
+			id: 'grimoire',
+			defaultVersion: 'default',
+			editions: [{ fileKey: 'grimoire', version: 'default' }],
+		},
+	];
+	applySourceMetadataOverrides(sources, {
+		grimoire: { description: 'Magical abilities and powers.', sourceUrl: 'https://top.example.com' },
+	});
+	assert.strictEqual(sources[0].editions[0].sourceUrl, undefined);
+});
+
+test('deriveSourceEditionsConfig returns groups only for sources with an editions map', () => {
+	const groups = deriveSourceEditionsConfig({
+		forge: { description: 'd' },
+		grimoire: {
+			description: 'd',
+			editions: { default: { fileKey: 'grimoire' }, v2: { fileKey: 'grimoire_v2' } },
+		},
+	});
+	assert.deepStrictEqual(Object.keys(groups), ['grimoire']);
+	assert.deepStrictEqual(groups.grimoire, { defaultVersion: 'default', editions: { default: 'grimoire', v2: 'grimoire_v2' } });
+});
+
+test('deriveSourceEditionsConfig uses explicit defaultVersion', () => {
+	const groups = deriveSourceEditionsConfig({
+		song: { editions: { v2: { fileKey: 'song_v2' } }, defaultVersion: 'v2' },
+	});
+	assert.strictEqual(groups.song.defaultVersion, 'v2');
+	assert.deepStrictEqual(groups.song.editions, { v2: 'song_v2' });
+});
+
+test('validateSourceMetadataConfig flags editions without a defaultVersion and without a "default" edition', () => {
+	const sources = [{ id: 'grimoire', editions: [{ version: 'v2', fileKey: 'grimoire_v2' }] }];
+	const errors = validateSourceMetadataConfig(sources, {
+		grimoire: { description: 'd', editions: { v2: { fileKey: 'grimoire_v2', sourceUrl: 'https://v2.example.com' } } },
+	});
+	assert.ok(errors.some(err => err.includes('must include a "default" edition or set a defaultVersion')), errors.join('\n'));
+});
+
+test('validateSourceMetadataConfig flags a defaultVersion that is not an editions key', () => {
+	const sources = [{ id: 'grimoire', editions: [{ version: 'default', fileKey: 'grimoire' }, { version: 'v2', fileKey: 'grimoire_v2' }] }];
+	const errors = validateSourceMetadataConfig(sources, {
+		grimoire: {
+			description: 'd',
+			defaultVersion: 'v999',
+			editions: { default: { fileKey: 'grimoire', sourceUrl: 'https://example.com' }, v2: { fileKey: 'grimoire_v2', sourceUrl: 'https://v2.example.com' } },
+		},
+	});
+	assert.ok(errors.some(err => err.includes('defaultVersion that is not an editions key')), errors.join('\n'));
+});
+
+test('validateSourceMetadataConfig passes for a source with a valid editions map', () => {
+	const sources = [
+		{
+			id: 'grimoire',
+			editions: [
+				{ version: 'default', fileKey: 'grimoire' },
+				{ version: 'v2', fileKey: 'grimoire_v2' },
+			],
+		},
+	];
+	const errors = validateSourceMetadataConfig(sources, {
+		grimoire: {
+			description: 'd',
+			editions: {
+				default: { fileKey: 'grimoire', sourceUrl: 'https://example.com' },
+				v2: { fileKey: 'grimoire_v2', sourceUrl: 'https://v2.example.com' },
+			},
+		},
+	});
+	assert.deepStrictEqual(errors, []);
+});
+
+testAsync('buildDatabase inherits source editions from a manual config without needing sourceGroups', async () => {
+	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-groups-'));
+	const sheetsRoot = path.join(dir, 'sheets');
+	const registryPath = path.join(dir, 'perk-id-registry.json');
+	const configPath = path.join(dir, 'source-metadata.config.json');
+
+	await fs.promises.mkdir(path.join(sheetsRoot, 'grimoire'), { recursive: true });
+	await fs.promises.mkdir(path.join(sheetsRoot, 'grimoire_v2'), { recursive: true });
+	await fs.promises.writeFile(
+		path.join(sheetsRoot, 'grimoire', 'Grimoire.csv'),
+		['Name,Cost,Source,Description', 'Spellcraft,100,Fate/Mage,Magic.'].join('\n'),
+		'utf8',
+	);
+	await fs.promises.writeFile(
+		path.join(sheetsRoot, 'grimoire_v2', 'Grimoire V2.csv'),
+		['Name,Cost,Source,Description', 'Arcane Tuning,100,Fate/Grand Master,Tune.'].join('\n'),
+		'utf8',
+	);
+	await fs.promises.writeFile(
+		configPath,
+		JSON.stringify({
+			grimoire: {
+				description: 'Magic.',
+				editions: {
+					default: { fileKey: 'grimoire', sourceUrl: 'https://example.com' },
+					v2: { fileKey: 'grimoire_v2', sourceUrl: 'https://v2.example.com' },
+				},
+			},
+		}),
+		'utf8',
+	);
+
+	const options = { sheetsRoot, registryPath, sourceMetadataConfigPath: configPath, datasetConfigPath: path.join(dir, 'dataset.json'), writeNyaDb: false, logger: { log() {}, warn() {}, error() {} } };
+	const result = await buildDatabase(options);
+
+	assert.strictEqual(result.report.sourceCount, 1);
+	assert.strictEqual(result.report.editionCount, 2);
+	assert.deepStrictEqual(result.databases, ['grimoire', 'grimoire_v2']);
+	assert.ok(result.report.validationErrorCount === 0, result.report.validationErrorCount);
 });

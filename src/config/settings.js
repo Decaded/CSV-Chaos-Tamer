@@ -19,40 +19,6 @@ const shared = {
 		'lewd': 'companion_lewd',
 	},
 
-	/**
-	 * Logical generator sources with selectable physical dataset versions. Every
-	 * physical database may appear in at most one group; unlisted databases are
-	 * published as independent sources with a single default version.
-	 */
-	sourceVersions: {
-		grimoire: {
-			displayName: 'Grimoire',
-			defaultVersion: 'default',
-			versions: {
-				default: 'grimoire',
-				v2: 'grimoire_v2',
-				v3: 'grimoire_v3',
-				v6: 'grimoire_v6',
-				yggdrasil: 'grimoire_yggdrasil_personal',
-			},
-		},
-		scrolls: {
-			displayName: 'Scrolls',
-			defaultVersion: 'default',
-			versions: { default: 'scrolls', v1: 'scrolls_v1', v3: 'scrolls_v3' },
-		},
-		something: {
-			displayName: 'Something',
-			defaultVersion: 'default',
-			versions: { default: 'something', v2: 'something_v2', v3: 'something_v3' },
-		},
-		spellbook: {
-			displayName: 'Spellbook',
-			defaultVersion: 'default',
-			versions: { default: 'spellbook', v2: 'spellbook_v2' },
-		},
-	},
-
 	/** Description cleanup – reused by both CSV and MD transforms */
 	cleanDescription: v =>
 		String(v ?? '')
@@ -93,12 +59,12 @@ const csv = {
 		perk: 'name',
 		perkname: 'name',
 		perkitem: 'name',
-		jump: 'source',
-		jumpdoc: 'source',
-		jumpchain: 'source',
-		jumpsupplement: 'source',
-		source: 'source',
-		setting: 'source',
+		jump: 'origin',
+		jumpdoc: 'origin',
+		jumpchain: 'origin',
+		jumpsupplement: 'origin',
+		source: 'origin',
+		setting: 'origin',
 		chapter: 'chapter',
 		category: 'chapter',
 		description: 'description',

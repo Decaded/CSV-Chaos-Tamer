@@ -68,7 +68,7 @@ async function parseCsv(filePath) {
 				}),
 			)
 			.on('data', row => {
-				const clean = { __source: path.basename(filePath, '.csv'), __line: rows.length + 1 };
+				const clean = { __origin: path.basename(filePath, '.csv'), __line: rows.length + 1 };
 
 				// If no headers, row keys are fallbackHeaders exactly, so normalize manually
 				if (!likelyHasHeaders) {

@@ -1,9 +1,9 @@
-function reportPreparedData({ dataset, categories, sources, grouped, items, changedIdCount, reusedOrRetiredIdCount, validationErrorCount }) {
+function reportPreparedData({ dataset, sources, origins, grouped, items, changedIdCount, reusedOrRetiredIdCount, validationErrorCount }) {
 	const chapterKeys = new Set();
 	let adultPerkCount = 0;
 	for (const item of items) {
 		if (item.perk.isAdult) adultPerkCount += 1;
-		chapterKeys.add(`${item.sourceId}/${item.chapterKey}`);
+		chapterKeys.add(`${item.originId}/${item.chapterKey}`);
 	}
 	const duplicateIdCount = items.length - new Set(items.map(item => item.perk.id)).size;
 
@@ -11,8 +11,9 @@ function reportPreparedData({ dataset, categories, sources, grouped, items, chan
 		datasetVersion: dataset.datasetVersion,
 		perkCount: items.length,
 		adultPerkCount,
-		categoryCount: categories.length,
 		sourceCount: sources.length,
+		editionCount: sources.reduce((count, source) => count + source.editions.length, 0),
+		originCount: origins.length,
 		chapterCount: chapterKeys.size,
 		duplicateIdCount,
 		changedIdCountSincePreviousRender: changedIdCount,

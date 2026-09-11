@@ -102,22 +102,42 @@ function selfHelpSuggestions({ errors = [], zeroRowFiles = [], sourcesRoot = nul
 		} else if ((match = /^Source ([a-z0-9_-]+) is missing a source-metadata\.config\.json entry$/.exec(error))) {
 			hints.push(
 				`The build generated source "${match[1]}" but it has no entry in src/config/source-metadata.config.json. ` +
-					`Add one (with a name, description, and sourceUrl) — either via the web panel's "Add source" button or by editing the file directly. See ${validateSourceMetadataConfigDocs}.`,
+					`Add one (with a description and an editions map of per-edition links) — either via the web panel's "Add source" button or by editing the file directly. See ${validateSourceMetadataConfigDocs}.`,
 			);
 		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) is missing a description$/.exec(error))) {
 			hints.push(`Fill in a real description for source "${match[1]}" in source-metadata.config.json (or the web panel).`);
-		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) is missing a sourceUrl$/.exec(error))) {
-			hints.push(`Add the sourceUrl for "${match[1]}" in source-metadata.config.json (or the web panel) — it must link to the public document.`);
-		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) must set altSourceUrl and altSourceLabel together$/.exec(error))) {
-			hints.push(`For source "${match[1]}", altSourceUrl and altSourceLabel must both be set, or both removed.`);
 		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) has an invalid name$/.exec(error))) {
 			hints.push(`The optional "name" for source "${match[1]}" must be a non-empty string — clear it if you do not want a custom display name.`);
-		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) has an invalid categoryUrls$/.exec(error))) {
-			hints.push(`The categoryUrls value for source "${match[1]}" must be an object mapping category ids to URLs.`);
-		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) has a categoryUrls entry for unknown category (\S+)$/.exec(error))) {
-			hints.push(`Source "${match[1]}" has a categoryUrls URL for "${match[2]}", but that category does not exist for the source — remove or fix it.`);
-		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) has an empty categoryUrls entry for (\S+)$/.exec(error))) {
-			hints.push(`Source "${match[1]}" has an empty categoryUrls URL for "${match[2]}" — fill in the link or remove the entry.`);
+		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) must not carry a top-level sourceUrl/.exec(error))) {
+			hints.push(`Source "${match[1]}" uses the old top-level sourceUrl field — move links into each edition (version → { fileKey, sourceUrl }) in source-metadata.config.json.`);
+		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) must not carry top-level altSourceUrl/.exec(error))) {
+			hints.push(`Source "${match[1]}" uses top-level altSourceUrl/altSourceLabel — move those links onto the edition they belong to.`);
+		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) must not use the legacy editionUrls field$/.exec(error))) {
+			hints.push(`Source "${match[1]}" uses the removed editionUrls field — fold those links into its editions map as per-edition sourceUrl values.`);
+		} else if ((match = /^source-metadata\.config\.json entry for ([a-z0-9_-]+) is missing an editions map$/.exec(error))) {
+			hints.push(`Source "${match[1]}" needs an editions map — every entry must declare its editions as version → { fileKey, sourceUrl }.`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) has an empty editions map$/.exec(error))) {
+			hints.push(`Source "${match[1]}" declares an empty editions map — add at least one edition with a fileKey and sourceUrl.`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) is missing a fileKey for edition (\S+)$/.exec(error))) {
+			hints.push(`Source "${match[1]}" is missing a fileKey for edition "${match[2]}" — every edition maps version → { fileKey, sourceUrl, ... }.`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) uses a bare fileKey for edition (\S+)/.exec(error))) {
+			hints.push(`Source "${match[1]}" lists edition "${match[2]}" as a bare fileKey — editions must be objects with a sourceUrl.`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) maps edition (\S+) to (\S+) but the generated source does not$/.exec(error))) {
+			hints.push(`Source "${match[1]}" maps edition "${match[2]}" to "${match[3]}", but that file is not grouped under it. Fix the fileKey/version or the source folder.`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) has an empty sourceUrl for edition (\S+)$/.exec(error))) {
+			hints.push(`Source "${match[1]}" has an empty sourceUrl for edition "${match[2]}" — fill in the link or delete that edition row.`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) has an invalid edition version (\S+)$/.exec(error))) {
+			hints.push(`Edition version "${match[2]}" for source "${match[1]}" must be machine-id-safe (lowercase letters, numbers, dashes, underscores).`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) has a defaultVersion that is not an editions key$/.exec(error))) {
+			hints.push(`The defaultVersion for source "${match[1]}" must be one of its declared edition versions.`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) must include a "default" edition or set a defaultVersion$/.exec(error))) {
+			hints.push(`Source "${match[1]}" must pick a default edition — add a "default" version entry or set defaultVersion explicitly.`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) must set altSourceUrl and altSourceLabel together for edition (\S+)$/.exec(error))) {
+			hints.push(`For source "${match[1]}", edition "${match[2]}" needs altSourceUrl and altSourceLabel both set, or both removed.`);
+		} else if ((match = /^Edition (.+?) must set altSourceUrl and altSourceLabel together$/.exec(error))) {
+			hints.push(`Edition "${match[1]}" needs altSourceUrl and altSourceLabel both set, or both removed.`);
+		} else if ((match = /^source-metadata\.config\.json entry for (.+?) does not declare edition (\S+)$/.exec(error))) {
+			hints.push(`Source "${match[1]}" publishes edition "${match[2]}" but its editions map does not declare it — add the entry.`);
 		}
 	}
 

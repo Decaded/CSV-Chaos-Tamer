@@ -890,29 +890,52 @@ select {
 	padding: 2px 6px;
 }
 
-.meta-add-version {
+.meta-add-edition {
 	height: 24px;
 	font-size: 11px;
 	padding: 0 8px;
 	white-space: nowrap;
 }
 
-.meta-version-row {
+.meta-edition-row {
 	background: #10151b;
 }
 
-.meta-version-row td:first-child {
+.meta-edition-row td:first-child {
 	padding-left: 20px;
 }
 
-.meta-version-row .meta-input {
+.meta-edition-row .meta-input {
 	background: #0d1116;
 }
 
-.meta-version-blank {
+.meta-edition-blank {
 	color: #566070;
 	text-align: center;
 	font-size: 12px;
+}
+
+.meta-edition-identity {
+	display: flex;
+	gap: 6px;
+	align-items: center;
+}
+
+.meta-edition-version {
+	flex: 0 0 80px;
+	font-size: 12px;
+	font-weight: 600;
+	font-family: 'JetBrains Mono', monospace;
+	text-transform: none;
+	letter-spacing: 0;
+}
+
+.meta-edition-default {
+	width: 14px;
+	height: 14px;
+	margin: 0 8px 0 0;
+	accent-color: #69b4ff;
+	cursor: pointer;
 }
 
 .meta-remove {

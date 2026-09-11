@@ -18,37 +18,37 @@ function displayNameFromId(id) {
 		.join(' ');
 }
 
-function deriveCategoryVersion(folderName) {
-	const database = requireMachineId(folderName);
-	const versionMatch = database.match(/^(.+)_v(\d+)$/);
-	const categoryId = versionMatch ? versionMatch[1] : database;
-	const versionId = versionMatch ? `v${versionMatch[2]}` : 'default';
-	const categoryDisplayName = displayNameFromId(categoryId);
-	const versionDisplayName = versionId === 'default' ? categoryDisplayName : `${categoryDisplayName} ${versionId.toUpperCase()}`;
+function deriveSourceEdition(folderName) {
+	const fileKey = requireMachineId(folderName);
+	const versionMatch = fileKey.match(/^(.+)_v(\d+)$/);
+	const sourceId = versionMatch ? versionMatch[1] : fileKey;
+	const editionVersion = versionMatch ? `v${versionMatch[2]}` : 'default';
+	const sourceDisplayName = displayNameFromId(sourceId);
+	const editionDisplayName = editionVersion === 'default' ? sourceDisplayName : `${sourceDisplayName} ${editionVersion.toUpperCase()}`;
 
 	return {
-		categoryId,
-		categoryDisplayName,
-		versionId,
-		versionDisplayName,
-		database,
+		sourceId,
+		sourceDisplayName,
+		editionVersion,
+		editionDisplayName,
+		fileKey,
 	};
 }
 
-function deriveSplitCategory(splitName) {
-	const database = requireMachineId(splitName);
-	const displayName = displayNameFromId(database);
+function deriveSplitEdition(splitName) {
+	const fileKey = requireMachineId(splitName);
+	const sourceDisplayName = displayNameFromId(fileKey);
 	return {
-		categoryId: database,
-		categoryDisplayName: displayName,
-		versionId: 'default',
-		versionDisplayName: displayName,
-		database,
+		sourceId: fileKey,
+		sourceDisplayName,
+		editionVersion: 'default',
+		editionDisplayName: sourceDisplayName,
+		fileKey,
 	};
 }
 
-function sourceNameForRow(row, fallback) {
-	return String(row.source || row.__source || fallback || 'Unknown Source').trim();
+function originNameForRow(row, fallback) {
+	return String(row.origin || row.__origin || fallback || 'Unknown Origin').trim();
 }
 
 function normalizeCost(value) {
@@ -80,15 +80,15 @@ function normalizeTags(value) {
 		.sort((a, b) => a.localeCompare(b));
 }
 
-function isAdultRow(row, database) {
+function isAdultRow(row, fileKey) {
 	if (typeof row.isAdult === 'boolean') return row.isAdult;
-	return /\b(lewd|porn|bordello|debauchery)\b/i.test([row.chapter, row.source, row.__source].filter(Boolean).join(' '));
+	return /\b(lewd|porn|bordello|debauchery)\b/i.test([row.chapter, row.origin, row.__origin].filter(Boolean).join(' '));
 }
 
-function logicalIdentityForRow(row, database) {
-	const sourceFile = requireMachineId(row.__source || 'source');
+function logicalIdentityForRow(row, fileKey) {
+	const originFile = requireMachineId(row.__origin || 'origin');
 	const rowId = Number.isFinite(row.id) && row.id > 0 ? `id_${row.id}` : `line_${row.__line || 0}`;
-	return `${database}/${sourceFile}/${rowId}`;
+	return `${fileKey}/${originFile}/${rowId}`;
 }
 
 function sortObjectByKeys(obj) {
@@ -99,9 +99,9 @@ module.exports = {
 	MACHINE_ID_RE,
 	requireMachineId,
 	displayNameFromId,
-	deriveCategoryVersion,
-	deriveSplitCategory,
-	sourceNameForRow,
+	deriveSourceEdition,
+	deriveSplitEdition,
+	originNameForRow,
 	normalizeCost,
 	normalizeTags,
 	isAdultRow,

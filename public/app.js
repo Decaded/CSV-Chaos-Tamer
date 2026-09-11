@@ -24,6 +24,9 @@ const buildDiagnostics = $('buildDiagnostics');
 const clearLogsButton = $('clearLogs');
 const logs = $('logs');
 
+const datasetVersionInput = $('datasetVersion');
+const saveDatasetConfigButton = $('saveDatasetConfig');
+
 const reloadSourceMetadataButton = $('reloadSourceMetadata');
 const addMetaRowButton = $('addMetaRow');
 const sourceModal = $('sourceModal');
@@ -76,7 +79,7 @@ const RESERVED_DATABASES = new Set(['dataset', 'categories', 'sources', 'databas
 let availableDatasets = [];
 let activeDatasetName = '';
 let metadataRows = [];
-let versionRows = [];
+let editionRows = [];
 let modalResolver = null;
 let modalKeyHandler = null;
 let modalLastFocused = null;
@@ -262,7 +265,7 @@ function renderMetrics(report) {
 		['Perks', report.perkCount],
 		['Adult', report.adultPerkCount],
 		['Sources', report.sourceCount],
-		['Categories', report.categoryCount],
+		['Editions', report.editionCount],
 		['Chapters', report.chapterCount],
 		['Duplicate IDs', report.duplicateIdCount],
 		['Errors', report.validationErrorCount],
@@ -642,10 +645,17 @@ function contentsToMetadataRows(contents) {
 			id,
 			name: entry?.name || '',
 			description: entry?.description || '',
-			sourceUrl: entry?.sourceUrl || '',
-			altSourceUrl: entry?.altSourceUrl || '',
-			altSourceLabel: entry?.altSourceLabel || '',
-			categoryUrls: Object.entries(entry?.categoryUrls || {}),
+			defaultVersion: entry?.defaultVersion || '',
+			editions: Object.entries(entry?.editions || {}).map(([version, edition]) => {
+				const config = typeof edition === 'string' ? { fileKey: edition } : edition || {};
+				return {
+					version,
+					fileKey: config.fileKey || '',
+					sourceUrl: config.sourceUrl || '',
+					altSourceUrl: config.altSourceUrl || '',
+					altSourceLabel: config.altSourceLabel || '',
+				};
+			}),
 		}))
 		.sort((a, b) => a.id.localeCompare(b.id));
 }
@@ -661,11 +671,11 @@ function displayNameFromId(id) {
 	return splitMachineWords(id).join(' ') || id;
 }
 
-function versionDisplayName(key) {
+function fileKeyDisplayName(key) {
 	return splitMachineWords(key).join(' ') || key;
 }
 
-function versionMachineFromDisplay(display) {
+function fileKeyFromDisplay(display) {
 	return String(display || '')
 		.toLowerCase()
 		.replace(/[\s-]+/g, '_')
@@ -673,7 +683,28 @@ function versionMachineFromDisplay(display) {
 		.replace(/_+/g, '_');
 }
 
-function createMetaRowElement(row, index, hidden) {
+function metaBlankCell() {
+	const td = document.createElement('td');
+	td.className = 'meta-edition-blank';
+	td.textContent = '—';
+	return td;
+}
+
+function editionLinkCell(edition, field, placeholder) {
+	const td = document.createElement('td');
+	const input = document.createElement('input');
+	input.type = 'text';
+	input.className = 'meta-input';
+	input.value = edition[field] || '';
+	input.placeholder = placeholder;
+	input.addEventListener('input', () => {
+		edition[field] = input.value;
+	});
+	td.appendChild(input);
+	return td;
+}
+
+function createMetaRowElement(row, index, hidden, singleEdition) {
 	const tr = document.createElement('tr');
 	tr.className = 'meta-source-row';
 	if (hidden) tr.hidden = true;
@@ -711,11 +742,11 @@ function createMetaRowElement(row, index, hidden) {
 	const actionTd = document.createElement('td');
 	const actionWrap = document.createElement('div');
 	actionWrap.className = 'meta-actions';
-	const addVersionButton = document.createElement('button');
-	addVersionButton.type = 'button';
-	addVersionButton.className = 'ghost-button meta-add-version';
-	addVersionButton.textContent = 'Add version';
-	addVersionButton.addEventListener('click', () => addVersionRowForSource(row.id));
+	const addEditionButton = document.createElement('button');
+	addEditionButton.type = 'button';
+	addEditionButton.className = 'ghost-button meta-add-edition';
+	addEditionButton.textContent = 'Add edition';
+	addEditionButton.addEventListener('click', () => addEditionRowForSource(row.id));
 	const removeButton = document.createElement('button');
 	removeButton.type = 'button';
 	removeButton.className = 'ghost-button meta-remove';
@@ -724,7 +755,7 @@ function createMetaRowElement(row, index, hidden) {
 	removeButton.addEventListener('click', async () => {
 		const confirmed = await showModal({
 			title: 'Remove source?',
-			message: `Remove source "${row.id}"? All its metadata and category versions will be deleted.`,
+			message: `Remove source "${row.id}"? All its metadata and editions will be deleted.`,
 			confirmLabel: 'Remove source',
 			cancelLabel: 'Cancel',
 			variant: 'danger',
@@ -735,56 +766,114 @@ function createMetaRowElement(row, index, hidden) {
 			markMetadataDirty();
 		}
 	});
-	actionWrap.append(addVersionButton, removeButton);
+	actionWrap.append(addEditionButton, removeButton);
 	actionTd.appendChild(actionWrap);
 
-	tr.append(cell('id'), cell('description'), cell('sourceUrl'), cell('altSourceUrl'), cell('altSourceLabel'), actionTd);
+	const urlCells = singleEdition
+		? [
+				editionLinkCell(singleEdition, 'sourceUrl', 'source URL'),
+				editionLinkCell(singleEdition, 'altSourceUrl', 'alt source URL'),
+				editionLinkCell(singleEdition, 'altSourceLabel', 'alt source label'),
+			]
+		: [metaBlankCell(), metaBlankCell(), metaBlankCell()];
+
+	tr.append(cell('id'), cell('description'), ...urlCells, actionTd);
 	return tr;
 }
 
-function createVersionRowElement(version, hidden) {
+function createEditionRowElement(edition, hidden) {
 	const tr = document.createElement('tr');
-	tr.className = 'meta-version-row';
+	tr.className = 'meta-edition-row';
 	if (hidden) tr.hidden = true;
 
 	const blankTd = () => {
 		const td = document.createElement('td');
-		td.className = 'meta-version-blank';
+		td.className = 'meta-edition-blank';
 		td.textContent = '—';
 		return td;
 	};
 
-	const nameTd = document.createElement('td');
-	const nameInput = document.createElement('input');
-	nameInput.type = 'text';
-	nameInput.className = 'meta-input meta-version-name';
-	nameInput.value = versionDisplayName(version.key);
-	nameInput.setAttribute('title', version.key || '');
-	nameInput.addEventListener('input', () => {
-		version.key = versionMachineFromDisplay(nameInput.value);
-		nameInput.title = version.key;
+	const identityTd = document.createElement('td');
+	const identity = document.createElement('div');
+	identity.className = 'meta-edition-identity';
+	const versionInput = document.createElement('input');
+	versionInput.type = 'text';
+	versionInput.className = 'meta-input meta-edition-version';
+	versionInput.value = edition.version || '';
+	versionInput.placeholder = 'default';
+	versionInput.title = 'Edition version id';
+	versionInput.spellcheck = false;
+	versionInput.addEventListener('input', () => {
+		edition.version = versionInput.value;
 	});
-	nameTd.appendChild(nameInput);
+	const fileKeyInput = document.createElement('input');
+	fileKeyInput.type = 'text';
+	fileKeyInput.className = 'meta-input meta-edition-filekey';
+	fileKeyInput.value = fileKeyDisplayName(edition.fileKey);
+	fileKeyInput.placeholder = 'file key';
+	fileKeyInput.setAttribute('title', edition.fileKey || '');
+	fileKeyInput.spellcheck = false;
+	fileKeyInput.addEventListener('input', () => {
+		edition.fileKey = fileKeyFromDisplay(fileKeyInput.value);
+		fileKeyInput.title = edition.fileKey;
+	});
+	identity.append(versionInput, fileKeyInput);
+	identityTd.appendChild(identity);
 
 	const urlTd = document.createElement('td');
 	const urlInput = document.createElement('input');
 	urlInput.type = 'text';
 	urlInput.className = 'meta-input';
-	urlInput.value = version.url || '';
+	urlInput.value = edition.sourceUrl || '';
+	urlInput.placeholder = 'edition source URL';
 	urlInput.addEventListener('input', () => {
-		version.url = urlInput.value;
+		edition.sourceUrl = urlInput.value;
 	});
 	urlTd.appendChild(urlInput);
 
-	const removeTd = document.createElement('td');
+	const altUrlTd = document.createElement('td');
+	const altUrlInput = document.createElement('input');
+	altUrlInput.type = 'text';
+	altUrlInput.className = 'meta-input';
+	altUrlInput.value = edition.altSourceUrl || '';
+	altUrlInput.placeholder = 'alt source URL';
+	altUrlInput.addEventListener('input', () => {
+		edition.altSourceUrl = altUrlInput.value;
+	});
+	altUrlTd.appendChild(altUrlInput);
+
+	const altLabelTd = document.createElement('td');
+	const altLabelInput = document.createElement('input');
+	altLabelInput.type = 'text';
+	altLabelInput.className = 'meta-input';
+	altLabelInput.value = edition.altSourceLabel || '';
+	altLabelInput.placeholder = 'alt source label';
+	altLabelInput.addEventListener('input', () => {
+		edition.altSourceLabel = altLabelInput.value;
+	});
+	altLabelTd.appendChild(altLabelInput);
+
+	const actionTd = document.createElement('td');
+	const actionWrap = document.createElement('div');
+	actionWrap.className = 'meta-actions';
+	const defaultRadio = document.createElement('input');
+	defaultRadio.type = 'radio';
+	defaultRadio.className = 'meta-edition-default';
+	defaultRadio.name = `meta-default-${edition.sourceId}`;
+	defaultRadio.title = 'Set as the source\'s default edition';
+	defaultRadio.checked = Boolean(edition.version && edition.defaultVersion === edition.version);
+	defaultRadio.addEventListener('change', () => {
+		edition.defaultVersion = edition.version;
+	});
 	const removeButton = document.createElement('button');
 	removeButton.type = 'button';
 	removeButton.className = 'ghost-button meta-remove';
 	removeButton.textContent = 'Remove';
-	removeButton.addEventListener('click', () => removeVersionRow(version));
-	removeTd.appendChild(removeButton);
+	removeButton.addEventListener('click', () => removeEditionRow(edition));
+	actionWrap.append(defaultRadio, removeButton);
+	actionTd.appendChild(actionWrap);
 
-	tr.append(nameTd, blankTd(), urlTd, blankTd(), blankTd(), removeTd);
+	tr.append(identityTd, blankTd(), urlTd, altUrlTd, altLabelTd, actionTd);
 	return tr;
 }
 
@@ -794,17 +883,22 @@ function renderMetadataTable() {
 	metadataTableBody.innerHTML = '';
 	const fragments = [];
 	metadataRows.forEach((row, index) => {
-		const versions = versionRows.filter(version => version.sourceId === row.id);
-		const sourceHaystack = [row.id, row.description, row.sourceUrl, row.altSourceUrl, row.altSourceLabel].join(' ').toLowerCase();
+		const editions = editionRows.filter(edition => edition.sourceId === row.id);
+		const singleEdition = editions.length === 1 ? editions[0] : null;
+		const sourceHaystack = [row.id, row.description].join(' ').toLowerCase();
 		const sourceMatches = !query || sourceHaystack.includes(query);
-		const versionMatchesAny = versions.some(version => [versionDisplayName(version.key), version.url].join(' ').toLowerCase().includes(query));
-		const sourceHidden = Boolean(query && !sourceMatches && !versionMatchesAny);
+		const editionMatchesAny = editions.some(edition =>
+			[edition.version, fileKeyDisplayName(edition.fileKey), edition.sourceUrl, edition.altSourceUrl, edition.altSourceLabel].join(' ').toLowerCase().includes(query),
+		);
+		const sourceHidden = Boolean(query && !sourceMatches && !editionMatchesAny);
 		if (!sourceHidden) visible += 1;
-		fragments.push(createMetaRowElement(row, index, sourceHidden));
-		for (const version of versions) {
-			const versionHaystack = [versionDisplayName(version.key), version.url].join(' ').toLowerCase();
-			const hidden = Boolean(query && !sourceMatches && !versionHaystack.includes(query));
-			fragments.push(createVersionRowElement(version, hidden));
+		fragments.push(createMetaRowElement(row, index, sourceHidden, singleEdition));
+		if (!singleEdition) {
+			for (const edition of editions) {
+				const editionHaystack = [edition.version, fileKeyDisplayName(edition.fileKey), edition.sourceUrl, edition.altSourceUrl, edition.altSourceLabel].join(' ').toLowerCase();
+				const hidden = Boolean(query && !sourceMatches && !editionHaystack.includes(query));
+				fragments.push(createEditionRowElement(edition, hidden));
+			}
 		}
 	});
 	metadataTableBody.append(...fragments);
@@ -828,42 +922,51 @@ function scheduleMetadataSave() {
 
 function removeMetadataRow(index) {
 	metadataRows.splice(index, 1);
-	versionRows = versionRows.filter(version => metadataRows.some(row => row.id === version.sourceId));
+	editionRows = editionRows.filter(edition => metadataRows.some(row => row.id === edition.sourceId));
 	renderMetadataTable();
 }
 
-// ---- Category versions (dedicated table) ----
+// ---- Editions (dedicated table) ----
 
-function flattenVersionRows() {
+function flattenEditionRows() {
 	const rows = [];
 	for (const row of metadataRows) {
-		for (const [key, url] of row.categoryUrls || []) {
-			rows.push({ sourceId: row.id, key, url });
+		for (const edition of row.editions || []) {
+			rows.push({ sourceId: row.id, version: edition.version, fileKey: edition.fileKey, sourceUrl: edition.sourceUrl, altSourceUrl: edition.altSourceUrl, altSourceLabel: edition.altSourceLabel, defaultVersion: row.defaultVersion });
 		}
 	}
 	return rows;
 }
 
-function addVersionRowForSource(sourceId) {
-	versionRows.push({ sourceId, key: '', url: '' });
+function addEditionRowForSource(sourceId) {
+	const row = metadataRows.find(meta => meta.id === sourceId);
+	editionRows.push({ sourceId, version: '', fileKey: '', sourceUrl: '', altSourceUrl: '', altSourceLabel: '', defaultVersion: row?.defaultVersion || '' });
 	renderMetadataTable();
-	const newRow = [...metadataTableBody.querySelectorAll('tr.meta-version-row')].pop();
-	newRow?.querySelector('.meta-version-name')?.focus();
+	const newRow = [...metadataTableBody.querySelectorAll('tr.meta-edition-row')].pop();
+	newRow?.querySelector('.meta-edition-version')?.focus();
 	markMetadataDirty();
 }
 
-function removeVersionRow(version) {
-	const index = versionRows.indexOf(version);
-	if (index !== -1) versionRows.splice(index, 1);
+function removeEditionRow(edition) {
+	const index = editionRows.indexOf(edition);
+	if (index !== -1) editionRows.splice(index, 1);
 	renderMetadataTable();
 	markMetadataDirty();
 }
 
-function applyVersionRowsToMetadataRows() {
+function applyEditionRowsToMetadataRows() {
 	for (const row of metadataRows) {
-		row.categoryUrls = versionRows
-			.filter(version => version.sourceId === row.id && version.key && version.url)
-			.map(version => [version.key, version.url]);
+		const rowEditions = editionRows.filter(edition => edition.sourceId === row.id && edition.version.trim() && edition.fileKey.trim());
+		row.editions = rowEditions.map(edition => ({
+			version: edition.version.trim(),
+			fileKey: edition.fileKey.trim(),
+			sourceUrl: cleanSourceUrl(edition.sourceUrl),
+			altSourceUrl: cleanSourceUrl(edition.altSourceUrl),
+			altSourceLabel: edition.altSourceLabel.trim(),
+		}));
+		const defaultEdition =
+			rowEditions.find(edition => edition.defaultVersion === edition.version) || rowEditions.find(edition => edition.version === 'default');
+		row.defaultVersion = defaultEdition ? defaultEdition.version : rowEditions.length ? rowEditions[0].version : '';
 	}
 }
 
@@ -878,13 +981,19 @@ function metadataRowsToContents() {
 		const entry = {};
 		if (row.name.trim()) entry.name = row.name.trim();
 		if (row.description.trim()) entry.description = row.description.trim();
-		if (row.sourceUrl.trim()) entry.sourceUrl = cleanSourceUrl(row.sourceUrl);
-		if (row.altSourceUrl.trim()) {
-			entry.altSourceUrl = cleanSourceUrl(row.altSourceUrl);
-			if (row.altSourceLabel.trim()) entry.altSourceLabel = row.altSourceLabel.trim();
+		if (row.editions.length) {
+			entry.editions = Object.fromEntries(
+				row.editions.map(edition => {
+					const value = { fileKey: edition.fileKey, sourceUrl: cleanSourceUrl(edition.sourceUrl) };
+					if (edition.altSourceUrl && edition.altSourceLabel) {
+						value.altSourceUrl = edition.altSourceUrl;
+						value.altSourceLabel = edition.altSourceLabel;
+					}
+					return [edition.version, value];
+				}),
+			);
+			if (row.defaultVersion && row.editions.some(edition => edition.version === row.defaultVersion)) entry.defaultVersion = row.defaultVersion;
 		}
-		const categoryUrls = Object.fromEntries(row.categoryUrls.filter(([key, value]) => key && value).map(([key, value]) => [key, cleanSourceUrl(value)]));
-		if (Object.keys(categoryUrls).length) entry.categoryUrls = categoryUrls;
 		contents[id] = entry;
 	}
 	return contents;
@@ -898,13 +1007,13 @@ async function loadSourceMetadata() {
 	}
 	const payload = await api('/api/source-metadata');
 	metadataRows = contentsToMetadataRows(payload.contents);
-	versionRows = flattenVersionRows();
+	editionRows = flattenEditionRows();
 	renderMetadataTable();
 }
 
 async function saveSourceMetadata() {
 	if (!metadataDirty) return;
-	applyVersionRowsToMetadataRows();
+	applyEditionRowsToMetadataRows();
 	let parsed;
 	try {
 		parsed = metadataRowsToContents();
@@ -1060,7 +1169,13 @@ async function saveSourceModal() {
 			}
 			const current = await api('/api/source-metadata');
 			const contents = current.contents || {};
-			contents[sourceId] = { ...(contents[sourceId] || {}), name, description, sourceUrl };
+			contents[sourceId] = {
+				...(contents[sourceId] || {}),
+				name,
+				description,
+				defaultVersion: 'default',
+				editions: { default: { fileKey: sourceId, sourceUrl } },
+			};
 			await api('/api/source-metadata', {
 				method: 'PUT',
 				headers: { 'content-type': 'application/json' },
@@ -1114,6 +1229,29 @@ async function saveKeywordFilter() {
 		});
 		keywordDirty = false;
 		showToast({ message: `Keyword filter saved (${keywords.length} keyword(s)).`, variant: 'success', timeout: 1800 });
+	} catch (error) {
+		showToast({ message: error.message, variant: 'error' });
+	}
+}
+
+async function loadDatasetVersion() {
+	const payload = await api('/api/config/dataset');
+	datasetVersionInput.value = payload.contents?.datasetVersion || '';
+}
+
+async function saveDatasetVersion() {
+	const datasetVersion = datasetVersionInput.value.trim();
+	if (!datasetVersion) {
+		showToast({ message: 'Dataset version cannot be empty.', variant: 'error' });
+		return;
+	}
+	try {
+		await api('/api/config/dataset', {
+			method: 'PUT',
+			headers: { 'content-type': 'application/json' },
+			body: JSON.stringify({ datasetVersion }),
+		});
+		showToast({ message: `Dataset version saved: ${datasetVersion}.`, variant: 'success', timeout: 1800 });
 	} catch (error) {
 		showToast({ message: error.message, variant: 'error' });
 	}
@@ -1174,6 +1312,11 @@ reloadKeywordFilterButton.addEventListener('click', () => withBusy(reloadKeyword
 keywordFilterEditor.addEventListener('input', markKeywordDirty);
 keywordFilterEditor.addEventListener('focusout', scheduleKeywordSave);
 
+saveDatasetConfigButton.addEventListener('click', () => withBusy(saveDatasetConfigButton, saveDatasetVersion, 'Saving...'));
+datasetVersionInput.addEventListener('keydown', event => {
+	if (event.key === 'Enter') saveDatasetConfigButton.click();
+});
+
 datasetList.addEventListener('click', event => {
 	const button = event.target.closest('[data-dataset-name]');
 	if (!button) return;
@@ -1216,4 +1359,5 @@ refreshServerStatus()
 		serverStatus.textContent = 'Server unreachable. Check that the web panel is running.';
 	})
 	.then(() => loadSourceMetadata().catch(() => {}))
-	.then(() => loadKeywordFilter().catch(() => {}));
+	.then(() => loadKeywordFilter().catch(() => {}))
+	.then(() => loadDatasetVersion().catch(() => {}));

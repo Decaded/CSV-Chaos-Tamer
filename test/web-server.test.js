@@ -47,9 +47,9 @@ async function setup() {
 
 	fs.mkdirSync(path.join(sourcesRoot, 'forge'), { recursive: true });
 	fs.writeFileSync(path.join(sourcesRoot, 'forge', 'Forge.csv'), ['Name,Cost,Source,Description', 'Hammer Time,200,The Forge,Make tools.', 'Anvil Time,300,The Forge,Make heavier tools.'].join('\n'), 'utf8');
-	fs.writeFileSync(configPath, JSON.stringify({ forge: { description: 'Crafting perks.', sourceUrl: 'https://example.com' } }), 'utf8');
+	fs.writeFileSync(configPath, JSON.stringify({ forge: { description: 'Crafting perks.', defaultVersion: 'default', editions: { default: { fileKey: 'forge', sourceUrl: 'https://example.com' } } } }), 'utf8');
 
-	const app = createApp({ sourcesRoot, nyaDbRoot, sourceMetadataConfigPath: configPath, keywordFilterPath: path.join(dir, 'keyword-filter.json'), registryPath, sourceGroups: {} });
+	const app = createApp({ sourcesRoot, nyaDbRoot, sourceMetadataConfigPath: configPath, keywordFilterPath: path.join(dir, 'keyword-filter.json'), datasetConfigPath: path.join(dir, 'dataset.json'), registryPath });
 	await new Promise(resolve => app.server.listen(0, '127.0.0.1', resolve));
 	return { server: app.server, dir };
 }
@@ -92,7 +92,7 @@ enqueue('web server serves health, status, sources, and source metadata', async 
 
 	const metadata = await request(server, { path: '/api/source-metadata' });
 	assert.strictEqual(metadata.status, 200);
-	assert.strictEqual(metadata.json.contents.forge.sourceUrl, 'https://example.com');
+	assert.strictEqual(metadata.json.contents.forge.editions.default.sourceUrl, 'https://example.com');
 });
 
 enqueue('dry-run build validates and writes no NyaDB files', async () => {
@@ -151,12 +151,42 @@ enqueue('source metadata can be saved and reloaded', async () => {
 	const updated = await request(server, {
 		method: 'PUT',
 		path: '/api/source-metadata',
-		body: { forge: { description: 'Updated description.', sourceUrl: 'https://example.com', altSourceLabel: 'Alt', altSourceUrl: 'https://alt.example.com' } },
+		body: {
+			forge: {
+				description: 'Updated description.',
+				defaultVersion: 'default',
+				editions: {
+					default: { fileKey: 'forge', sourceUrl: 'https://example.com', altSourceUrl: 'https://alt.example.com', altSourceLabel: 'Alt' },
+				},
+			},
+		},
 	});
 	assert.strictEqual(updated.status, 200);
 
 	const loaded = await request(server, { path: '/api/source-metadata' });
 	assert.strictEqual(loaded.json.contents.forge.description, 'Updated description.');
+	assert.strictEqual(loaded.json.contents.forge.editions.default.altSourceLabel, 'Alt');
+});
+
+enqueue('source metadata editions round-trip through the API', async () => {
+	const { server } = await shared;
+	const editionsConfig = {
+		forge: {
+			description: 'Crafting perks.',
+			sourceUrl: 'https://example.com',
+			defaultVersion: 'default',
+			editions: {
+				default: { fileKey: 'forge', sourceUrl: 'https://example.com' },
+				v2: { fileKey: 'forge_v2', sourceUrl: 'https://v2.example.com' },
+			},
+		},
+	};
+	const updated = await request(server, { method: 'PUT', path: '/api/source-metadata', body: editionsConfig });
+	assert.strictEqual(updated.status, 200);
+
+	const loaded = await request(server, { path: '/api/source-metadata' });
+	assert.deepStrictEqual(loaded.json.contents, editionsConfig);
+	assert.strictEqual(loaded.json.contents.forge.editions.v2.fileKey, 'forge_v2');
 });
 
 enqueue('unknown API paths 404 and wrong methods 405', async () => {
@@ -229,6 +259,32 @@ enqueue('keyword filter config round-trips and rejects bad shapes', async () => 
 
 	const badShape = await request(server, { method: 'PUT', path: '/api/config/keyword-filter', body: { keywords: 'nope' } });
 	assert.strictEqual(badShape.status, 400);
+});
+
+enqueue('dataset config round-trips and rejects bad shapes', async () => {
+	const { server, dir } = await shared;
+	const pathLabel = path.join(dir, 'dataset.json');
+
+	const initial = await request(server, { path: '/api/config/dataset' });
+	assert.strictEqual(initial.status, 200);
+	assert.strictEqual(initial.json.path, pathLabel);
+	assert.strictEqual(initial.json.contents.name, 'Celestial Gambler Dataset');
+	assert.strictEqual(initial.json.contents.datasetVersion, 'development');
+
+	const saved = await request(server, { method: 'PUT', path: '/api/config/dataset', body: { datasetVersion: '1.2.3' } });
+	assert.strictEqual(saved.status, 200);
+	assert.strictEqual(saved.json.contents.datasetVersion, '1.2.3');
+	assert.strictEqual(saved.json.contents.name, 'Celestial Gambler Dataset');
+
+	const after = await request(server, { path: '/api/config/dataset' });
+	assert.deepStrictEqual(after.json.contents, { name: 'Celestial Gambler Dataset', datasetVersion: '1.2.3', description: 'Public Celestial Gambler perk dataset.' });
+	assert.strictEqual(JSON.parse(fs.readFileSync(pathLabel, 'utf8')).datasetVersion, '1.2.3');
+
+	const badShape = await request(server, { method: 'PUT', path: '/api/config/dataset', body: { datasetVersion: 42 } });
+	assert.strictEqual(badShape.status, 400);
+
+	const empty = await request(server, { method: 'PUT', path: '/api/config/dataset', body: { datasetVersion: '' } });
+	assert.strictEqual(empty.status, 400);
 });
 
 enqueue('builds are refused while another build is running', async () => {

@@ -6,6 +6,7 @@ const { URL } = require('url');
 const { buildDatabase } = require('./src/index');
 const { buildFailureReport } = require('./src/diagnostics');
 const { ID_REGISTRY_PATH } = require('./src/registry/perk-registry');
+const { loadDatasetConfig, validateDatasetConfig, DEFAULT_DATASET_CONFIG_PATH } = require('./src/config/dataset');
 const lockApi = require('./src/lock');
 
 const DEFAULT_SOURCES_ROOT = path.join(__dirname, 'sources');
@@ -28,6 +29,7 @@ const CONFIG = {
 	sourcesRoot: envPath('CSV_TAMER_SOURCES_ROOT', DEFAULT_SOURCES_ROOT),
 	nyaDbRoot: envPath('CSV_TAMER_NYADB_ROOT', DEFAULT_NYADB_ROOT),
 	sourceMetadataConfigPath: envPath('CSV_TAMER_SOURCE_METADATA_CONFIG', DEFAULT_CONFIG_PATH),
+	datasetConfigPath: envPath('CSV_TAMER_DATASET_CONFIG', DEFAULT_DATASET_CONFIG_PATH),
 	keywordFilterPath: envPath('CSV_TAMER_KEYWORD_FILTER_CONFIG', DEFAULT_KEYWORD_FILTER_PATH),
 	registryPath: envPath('CSV_TAMER_REGISTRY_PATH', ID_REGISTRY_PATH),
 	publicRoot: envPath('CSV_TAMER_PUBLIC_ROOT', DEFAULT_PUBLIC_ROOT),
@@ -81,13 +83,6 @@ function safeDatabaseName(value) {
 		throw Object.assign(new Error('Database name must use letters, numbers, underscores, or dashes'), { status: 400 });
 	}
 	return name;
-}
-
-function toArray(value, fallbackKey) {
-	if (Array.isArray(value)) return value;
-	if (!value || typeof value !== 'object') return [];
-	if (Array.isArray(value[fallbackKey])) return value[fallbackKey];
-	return Object.values(value);
 }
 
 function isPlainObject(value) {
@@ -250,6 +245,12 @@ function createApp(config) {
 			if (req.method === 'PUT' && pathname === '/api/source-metadata') {
 				return await handlePutSourceMetadata(req, res);
 			}
+			if (req.method === 'GET' && pathname === '/api/config/dataset') {
+				return handleGetDatasetConfig(res);
+			}
+			if (req.method === 'PUT' && pathname === '/api/config/dataset') {
+				return await handlePutDatasetConfig(req, res);
+			}
 			if (req.method === 'GET' && pathname === '/api/config/keyword-filter') {
 				return await handleGetKeywordFilter(res);
 			}
@@ -276,12 +277,10 @@ function createApp(config) {
 
 	function handleStatus(res) {
 		const databases = listDatabaseFiles(appConfig.nyaDbRoot);
-		const categories = readDatabase(appConfig.nyaDbRoot, 'categories');
 		return sendJson(res, 200, {
 			lock: { held: true, pid: process.pid, path: appConfig.lockPath },
 			building,
 			databases,
-			categories: toArray(categories, 'categories'),
 			sourcesRoot: appConfig.sourcesRoot,
 			nyaDbRoot: appConfig.nyaDbRoot,
 		});
@@ -338,7 +337,7 @@ function createApp(config) {
 					sheetsRoot: appConfig.sourcesRoot,
 					registryPath: appConfig.registryPath,
 					sourceMetadataConfigPath: appConfig.sourceMetadataConfigPath,
-					sourceGroups: appConfig.sourceGroups,
+					datasetConfigPath: appConfig.datasetConfigPath,
 					writeNyaDb,
 					logger,
 				});
@@ -433,6 +432,35 @@ function createApp(config) {
 		}
 		fs.unlinkSync(filePath);
 		return sendJson(res, 200, { ok: true, folder: folderName, name: fileName });
+	}
+
+	function handleGetDatasetConfig(res) {
+		const contents = loadDatasetConfig(appConfig.datasetConfigPath);
+		const exists = fs.existsSync(appConfig.datasetConfigPath);
+		return sendJson(res, 200, { path: appConfig.datasetConfigPath, exists, contents });
+	}
+
+	async function handlePutDatasetConfig(req, res) {
+		const body = await readJsonBody(req, appConfig.maxBodyBytes);
+		if (!isPlainObject(body)) {
+			throw Object.assign(new Error('Dataset config must be a JSON object'), { status: 400 });
+		}
+		const current = loadDatasetConfig(appConfig.datasetConfigPath);
+		const merged = {
+			name: body.name ?? current.name,
+			datasetVersion: body.datasetVersion ?? current.datasetVersion,
+			description: body.description ?? current.description,
+		};
+		const errors = validateDatasetConfig(merged);
+		if (errors.length) {
+			throw Object.assign(new Error(errors.join('; ')), { status: 400 });
+		}
+		const filePath = appConfig.datasetConfigPath;
+		fs.mkdirSync(path.dirname(filePath), { recursive: true });
+		const tmpPath = `${filePath}.tmp-${process.pid}`;
+		fs.writeFileSync(tmpPath, JSON.stringify(merged, null, 2), 'utf8');
+		fs.renameSync(tmpPath, filePath);
+		return sendJson(res, 200, { ok: true, path: filePath, contents: merged });
 	}
 
 	function handleGetKeywordFilter(res) {

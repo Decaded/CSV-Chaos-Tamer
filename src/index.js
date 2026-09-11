@@ -3,21 +3,23 @@ const path = require('path');
 
 const { parseMarkdown } = require('./parsers/md-parser');
 const { shared } = require('./config/settings');
+const { loadDatasetConfig } = require('./config/dataset');
 
-const { deriveCategoryVersion, deriveSplitCategory, normalizeCost } = require('./helpers');
+const { deriveSourceEdition, deriveSplitEdition, normalizeCost } = require('./helpers');
 const { normalizeHeader, extractChapterFromFilename, parseCsv } = require('./parsers/parse-csv');
 const { updateSourceR18Flags } = require('./registry/keywords');
 const { ID_REGISTRY_PATH, loadRegistry, assignPerkIds, retireMissingRegistryKeys } = require('./registry/perk-registry');
 const { prepareItems, buildPerkDatabases, disambiguateLogicalKeys } = require('./build/prepare-items');
-const { buildBackendGeneratorFiles, buildSourceMetadata } = require('./build/generator-files');
+const { buildBackendGeneratorFiles, buildFileEditions, buildSourceMetadata } = require('./build/generator-files');
 const {
 	loadSourceMetadataConfig,
+	deriveSourceEditionsConfig,
 	validateSourceMetadataConfig,
 	applySourceMetadataOverrides,
 } = require('./build/source-metadata');
 const { validateBackendGeneratorFiles, validatePreparedData } = require('./build/validate');
 const { reportPreparedData } = require('./build/report');
-const { mergeNyaDbContents, writeNyaDbDatabases } = require('./nyadb/nyadb-writer');
+const { writeNyaDbDatabases } = require('./nyadb/nyadb-writer');
 
 const SOURCES_ROOT = path.join(__dirname, '..', 'sources');
 const SPLIT_CHAPTERS = shared.splitChapters;
@@ -61,7 +63,7 @@ async function readFolderRows(folder, sheetsRoot = SOURCES_ROOT, logger = consol
 				const { rows: parsedRows } = await parseMarkdown(path.join(folderPath, file));
 				const sourceName = path.basename(file, '.md');
 				const rowsWithMetadata = parsedRows.map((row, index) => ({
-					__source: sourceName,
+					__origin: sourceName,
 					__line: row.id ?? index + 1,
 					...row,
 				}));
@@ -100,7 +102,9 @@ async function buildDatabase(options = {}) {
 	const registryPath = options.registryPath || ID_REGISTRY_PATH;
 	const retireMissing = options.retireMissing !== false;
 	const sourceMetadataConfigPath = options.sourceMetadataConfigPath;
-	const sourceGroups = options.sourceGroups || shared.sourceVersions;
+	const datasetConfigPath = options.datasetConfigPath;
+	const manualSourceMetadata = loadSourceMetadataConfig(sourceMetadataConfigPath);
+	const sourceGroups = options.sourceGroups || deriveSourceEditionsConfig(manualSourceMetadata);
 
 	let globalMaxCP = 0;
 	const databases = new Map();
@@ -112,7 +116,7 @@ async function buildDatabase(options = {}) {
 		.sort((a, b) => a.localeCompare(b));
 
 	for (const folder of folders) {
-		const category = deriveCategoryVersion(folder);
+		const sourceEdition = deriveSourceEdition(folder);
 		const { rows, maxCP, skippedFiles: folderSkipped } = await readFolderRows(folder, sheetsRoot, logger);
 		skippedFiles.push(...folderSkipped);
 		if (maxCP > globalMaxCP) globalMaxCP = maxCP;
@@ -120,10 +124,10 @@ async function buildDatabase(options = {}) {
 
 		for (const row of rows) {
 			const splitName = SPLIT_CHAPTERS[row.chapter?.toLowerCase()];
-			const target = splitName ? deriveSplitCategory(splitName) : category;
-			const db = databases.get(target.database) || { ...target, rows: [] };
+			const target = splitName ? deriveSplitEdition(splitName) : sourceEdition;
+			const db = databases.get(target.fileKey) || { ...target, rows: [] };
 			db.rows.push(row);
-			databases.set(target.database, db);
+			databases.set(target.fileKey, db);
 		}
 	}
 
@@ -138,12 +142,13 @@ async function buildDatabase(options = {}) {
 
 	const output = buildBackendGeneratorFiles(prepared.items, sourceGroups);
 	const grouped = buildPerkDatabases(prepared.items);
-	const manualSourceMetadata = loadSourceMetadataConfig(sourceMetadataConfigPath);
+	applySourceMetadataOverrides(output.sourceMetadata.sources, manualSourceMetadata);
+	updateSourceR18Flags(output.sourceMetadata.sources);
 	const validationErrors = [...validateBackendGeneratorFiles(output), ...validateSourceMetadataConfig(output.sourceMetadata.sources, manualSourceMetadata)];
 	const report = reportPreparedData({
-		dataset: shared.dataset,
-		categories: prepared.categories,
-		sources: prepared.sources,
+		dataset: loadDatasetConfig(datasetConfigPath),
+		sources: output.sourceMetadata.sources,
+		origins: prepared.origins,
 		grouped,
 		items: prepared.items,
 		changedIdCount,
@@ -159,10 +164,8 @@ async function buildDatabase(options = {}) {
 		throw err;
 	}
 
-	applySourceMetadataOverrides(output.sourceMetadata.sources, manualSourceMetadata);
-	updateSourceR18Flags(output.sourceMetadata.sources);
 	let writtenDatabases = { changed: [], unchanged: [], deleted: [] };
-	if (writeNyaDb) writtenDatabases = writeNyaDbDatabases({ files: output.files, sourceMetadata: output.sourceMetadata }, logger);
+	if (writeNyaDb) writtenDatabases = await writeNyaDbDatabases({ files: output.files, sourceMetadata: output.sourceMetadata }, logger);
 	logger.log(JSON.stringify(report, null, 2));
 	logger.log(`Highest CP found: ${globalMaxCP}`);
 	if (skippedFiles.length) {
@@ -183,11 +186,12 @@ if (require.main === module) {
 
 module.exports = {
 	buildDatabase,
-	deriveCategoryVersion,
-	deriveSplitCategory,
+	deriveSourceEdition,
+	deriveSplitEdition,
 	extractChapterFromFilename,
 	buildPerkDatabases,
 	buildBackendGeneratorFiles,
+	buildFileEditions,
 	buildSourceMetadata,
 	disambiguateLogicalKeys,
 	normalizeHeader,
@@ -195,10 +199,10 @@ module.exports = {
 	assignPerkIds,
 	prepareItems,
 	parseCsv,
-	mergeNyaDbContents,
 	validatePreparedData,
 	validateBackendGeneratorFiles,
 	loadSourceMetadataConfig,
+	deriveSourceEditionsConfig,
 	validateSourceMetadataConfig,
 	applySourceMetadataOverrides,
 	updateSourceR18Flags,

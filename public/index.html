@@ -142,7 +142,7 @@
 							>
 								<strong>Source metadata</strong>
 								<span class="helper-text"
-									>Add sources and upload their CSV/Markdown files, then edit descriptions, URLs, and category versions. It is saved straight to source-metadata.config.json.</span
+									>Add sources and upload their CSV/Markdown files, then edit descriptions, URLs, and editions. It is saved straight to source-metadata.config.json.</span
 								>
 							</button>
 							<button
@@ -194,6 +194,25 @@
 								/>
 								<span>Write NyaDB datasets</span>
 							</label>
+
+							<div class="field compact">
+								<label for="datasetVersion">Dataset version</label>
+								<div class="input-row">
+									<input
+										id="datasetVersion"
+										type="text"
+										placeholder="e.g. 1.0.0"
+									/>
+									<button
+										class="ghost-button"
+										id="saveDatasetConfig"
+										type="button"
+									>
+										Save
+									</button>
+								</div>
+								<p class="field-note">Version written into build reports. Edit and save; it persists across builds.</p>
+							</div>
 
 							<button
 								class="primary-button"
@@ -277,7 +296,7 @@
 									</button>
 								</div>
 							</div>
-							<p class="helper-text">Descriptions and source URLs for each source folder, one row per source. Saved straight to source-metadata.config.json.</p>
+							<p class="helper-text">One row per source; sources with a single edition show their link columns on the source row, while sources with multiple editions expand into edition rows below. Saved straight to source-metadata.config.json.</p>
 							<div class="editor-search-row condensed">
 								<input
 									id="metadataSearch"

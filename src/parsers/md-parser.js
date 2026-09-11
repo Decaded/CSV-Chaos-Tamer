@@ -5,8 +5,8 @@ const { md: mdConfig } = require('../config/settings');
 /** Regex that matches the start of a numbered entry (e.g. "1\." or "132.") */
 const NUMBERED_RE = /^(\d+)\\?\.\s+/;
 
-/** Regex for a category marker line: a short title ending with colon and optional whitespace */
-const CATEGORY_RE = /^([A-Za-zÀ-ÿ][\w\s''-]{0,40}):\s*$/;
+/** Regex for a section marker line: a short title ending with colon and optional whitespace */
+const SECTION_MARKER_RE = /^([A-Za-zÀ-ÿ][\w\s''-]{0,40}):\s*$/;
 
 /**
  * Detect whether `line` is a chapter heading.
@@ -17,7 +17,7 @@ function isChapterHeading(lines, idx) {
 	const line = lines[idx].trim();
 	if (!line) return false;
 	if (NUMBERED_RE.test(line)) return false;
-	if (CATEGORY_RE.test(line)) return false;
+	if (SECTION_MARKER_RE.test(line)) return false;
 	if (line.length > 80) return false;
 
 	// Reject description-like lines: ends with sentence punctuation
@@ -282,7 +282,7 @@ function parseEntry(rawRest) {
 /**
  * Parse a markdown file and return rows matching CSV output format.
  * @param {string} filePath
- * @returns {Promise<{rows: object[], source: string}>}
+ * @returns {Promise<{rows: object[], origin: string}>}
  */
 async function parseMarkdown(filePath) {
 	const transforms = mdConfig.transforms;
@@ -311,8 +311,8 @@ async function parseMarkdown(filePath) {
 		}
 	}
 
-	let currentCategory = '';
-	let currentSource = '';
+	let sectionMarker = '';
+	let currentOrigin = '';
 	const rows = [];
 
 	// We'll do a single pass collecting entries.
@@ -325,23 +325,23 @@ async function parseMarkdown(filePath) {
 		}
 	}
 
-	// Now walk the file, tracking category/chapter and building entries.
+	// Now walk the file, tracking section markers and origins while building entries.
 	let entryIdx = 0; // pointer into entryStarts
 
 	for (let i = 0; i < lines.length; i++) {
 		const trimmed = lines[i].trim();
 
-		// Category marker?
-		const catMatch = trimmed.match(CATEGORY_RE);
-		if (catMatch) {
-			currentCategory = catMatch[1].trim();
+		// Section marker?
+		const sectionMatch = trimmed.match(SECTION_MARKER_RE);
+		if (sectionMatch) {
+			sectionMarker = sectionMatch[1].trim();
 			continue;
 		}
 
-		// Chapter heading? (This becomes the "source" field)
+		// Chapter heading? (This becomes the "origin" field)
 		if (isChapterHeading(lines, i)) {
-			// Strip ATX-style markdown heading markers (#, ##, ...) before using as source name
-			currentSource = trimmed.replace(/^#+\s*/, '');
+			// Strip ATX-style markdown heading markers (#, ##, ...) before using as the origin name
+			currentOrigin = trimmed.replace(/^#+\s*/, '');
 			continue;
 		}
 
@@ -359,8 +359,8 @@ async function parseMarkdown(filePath) {
 			for (let j = i + 1; j < nextEntryLine; j++) {
 				// If this line is a chapter heading, stop collecting – it belongs to the next section
 				if (isChapterHeading(lines, j)) break;
-				// Category markers also stop collection
-				if (CATEGORY_RE.test(lines[j].trim())) break;
+				// Section markers also stop collection
+				if (SECTION_MARKER_RE.test(lines[j].trim())) break;
 				descLines.push(lines[j]);
 			}
 
@@ -410,22 +410,22 @@ async function parseMarkdown(filePath) {
 							cost: transforms.cost(costFromName || cost),
 							name: transforms.name(titleDescription[1].trim()),
 							description: newDescription,
-							chapter: currentCategory || filename,
-							source: currentSource || filename,
+							chapter: sectionMarker || filename,
+							origin: currentOrigin || filename,
 						};
 						rows.push(row);
 						continue;
 					}
 
 					const costOnlyName = /^\d+\s*(?:CP|BP|KP)?:?\s*$/i.test(transforms.name(name));
-					if (costOnlyName && currentSource && currentSource !== filename) {
+					if (costOnlyName && currentOrigin && currentOrigin !== filename) {
 						const row = {
 							id: transforms.id(id),
 							cost: transforms.cost(name),
-							name: transforms.name(currentSource),
+							name: transforms.name(currentOrigin),
 							description,
-							chapter: currentCategory || filename,
-							source: currentSource || filename,
+							chapter: sectionMarker || filename,
+							origin: currentOrigin || filename,
 						};
 						rows.push(row);
 						continue;
@@ -446,8 +446,8 @@ async function parseMarkdown(filePath) {
 							cost: transforms.cost(costFromName || cost),
 							name: transforms.name(realNameLine.replace(/\[.*?\]/, '').trim()), // Remove any bracket costs from name
 							description: newDescription,
-							chapter: currentCategory || filename,
-							source: currentSource || filename,
+							chapter: sectionMarker || filename,
+							origin: currentOrigin || filename,
 						};
 						rows.push(row);
 						continue;
@@ -460,8 +460,8 @@ async function parseMarkdown(filePath) {
 				cost: transforms.cost(cost),
 				name: transforms.name(name),
 				description,
-				chapter: currentCategory || filename,
-				source: currentSource || filename,
+				chapter: sectionMarker || filename,
+				origin: currentOrigin || filename,
 			};
 
 			if (rows.length && row.cost === 0 && !row.description && row.name.length > 100 && /[.!?][\s\\]*$/.test(row.name)) {
@@ -476,7 +476,7 @@ async function parseMarkdown(filePath) {
 		}
 	}
 
-	return { rows, source: currentCategory || filename };
+	return { rows, origin: sectionMarker || filename };
 }
 
 module.exports = { parseMarkdown, parseEntry, isChapterHeading };

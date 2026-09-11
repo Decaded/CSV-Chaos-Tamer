@@ -22,7 +22,7 @@ test('buildFailureReport surfaces validation issues, self-help, env, and a pre-f
 	error.validationErrors = [
 		'source-metadata.config.json has an entry for unknown source celestrial_workshop',
 		'Source bordello is missing a source-metadata.config.json entry',
-		'source-metadata.config.json entry for vault is missing a sourceUrl',
+		'source-metadata.config.json entry for vault has an empty sourceUrl for edition default',
 	];
 	const report = buildFailureReport({
 		error,
@@ -74,7 +74,7 @@ test('selfHelpSuggestions keeps range of hint types for common errors', () => {
 	const hints = selfHelpSuggestions({
 		errors: [
 			'Source bordello is missing a source-metadata.config.json entry',
-			'source-metadata.config.json entry for vault is missing a sourceUrl',
+			'source-metadata.config.json entry for vault has an empty sourceUrl for edition default',
 		],
 		zeroRowFiles: [],
 		sourcesRoot: null,

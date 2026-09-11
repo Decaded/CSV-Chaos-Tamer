@@ -193,11 +193,11 @@ testAsync('parseMarkdown keeps chapter and description boundaries', async () => 
 
 	assert.strictEqual(rows.length, 3);
 	assert.deepStrictEqual(
-		rows.map(row => ({ id: row.id, cost: row.cost, name: row.name, chapter: row.chapter, source: row.source })),
+		rows.map(row => ({ id: row.id, cost: row.cost, name: row.name, chapter: row.chapter, origin: row.origin })),
 		[
-			{ id: 1, cost: 0, name: 'First Thing', chapter: 'Perks', source: 'sample' },
-			{ id: 2, cost: 200, name: 'Second Thing', chapter: 'Perks', source: 'sample' },
-			{ id: 3, cost: 300, name: 'Third Thing', chapter: 'Items', source: 'sample' },
+			{ id: 1, cost: 0, name: 'First Thing', chapter: 'Perks', origin: 'sample' },
+			{ id: 2, cost: 200, name: 'Second Thing', chapter: 'Perks', origin: 'sample' },
+			{ id: 3, cost: 300, name: 'Third Thing', chapter: 'Items', origin: 'sample' },
 		],
 	);
 	assert.strictEqual(rows[0].description, 'First inline sentence. Second sentence continues here.');
@@ -286,5 +286,5 @@ testAsync('parseMarkdown strips ATX heading markers from the source field', asyn
 	assert.strictEqual(rows.length, 1);
 	assert.strictEqual(rows[0].name, 'Wondrous Fare');
 	assert.strictEqual(rows[0].cost, 200);
-	assert.strictEqual(rows[0].source, 'Enchanted Cooking');
+	assert.strictEqual(rows[0].origin, 'Enchanted Cooking');
 });

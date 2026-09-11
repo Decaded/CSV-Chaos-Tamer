@@ -1,7 +1,7 @@
 const crypto = require('crypto');
 const {
 	requireMachineId,
-	sourceNameForRow,
+	originNameForRow,
 	normalizeCost,
 	normalizeTags,
 	isAdultRow,
@@ -10,92 +10,87 @@ const {
 } = require('../helpers');
 
 function prepareItems(databases) {
-	const categoriesById = new Map();
-	const sourceMetadataById = new Map();
+	const sourcesById = new Map();
+	const originsById = new Map();
 	const items = [];
 
-	for (const db of [...databases.values()].sort((a, b) => a.database.localeCompare(b.database))) {
-		const category = categoriesById.get(db.categoryId) || {
-			id: db.categoryId,
-			displayName: db.categoryDisplayName,
+	for (const db of [...databases.values()].sort((a, b) => a.fileKey.localeCompare(b.fileKey))) {
+		const source = sourcesById.get(db.sourceId) || {
+			id: db.sourceId,
+			displayName: db.sourceDisplayName,
 			defaultVersion: 'default',
-			versions: [],
+			editions: [],
 		};
-		if (!category.versions.some(version => version.id === db.versionId)) {
-			category.versions.push({
-				id: db.versionId,
-				displayName: db.versionDisplayName,
-				database: db.database,
+		if (!source.editions.some(edition => edition.version === db.editionVersion)) {
+			source.editions.push({
+				version: db.editionVersion,
+				displayName: db.editionDisplayName,
+				fileKey: db.fileKey,
 			});
 		}
-		if (!category.versions.some(version => version.id === category.defaultVersion)) category.defaultVersion = db.versionId;
-		categoriesById.set(db.categoryId, category);
+		if (!source.editions.some(edition => edition.version === source.defaultVersion)) source.defaultVersion = db.editionVersion;
+		sourcesById.set(db.sourceId, source);
 
 		for (const row of db.rows) {
-			const sourceName = sourceNameForRow(row, db.categoryDisplayName);
-			const sourceId = `source_${requireMachineId(sourceName)}`;
+			const originName = originNameForRow(row, db.sourceDisplayName);
+			const originId = `origin_${requireMachineId(originName)}`;
 			const chapter = String(row.chapter || 'Uncategorized').trim();
 			const chapterKey = requireMachineId(chapter);
 			const name = String(row.name || '').trim();
 			const nameKey = requireMachineId(name);
 			const description = String(row.description || '').trim();
-			const sourceMetadata = sourceMetadataById.get(sourceId) || {
-				id: sourceId,
-				name: sourceName,
-				displayName: sourceName,
-				description: `Perks from ${sourceName}.`,
-				categories: [],
+			const origin = originsById.get(originId) || {
+				id: originId,
+				name: originName,
+				displayName: originName,
+				description: `Perks from ${originName}.`,
 			};
-			if (!sourceMetadata.categories.includes(db.categoryId)) sourceMetadata.categories.push(db.categoryId);
-			sourceMetadataById.set(sourceId, sourceMetadata);
+			originsById.set(originId, origin);
 
 			const perk = {
 				id: null,
 				cost: normalizeCost(row.cost),
 				name,
 				description,
-				category: db.categoryId,
-				categoryVersion: db.versionId,
-				categoryDisplayName: db.versionDisplayName,
+				sourceId: db.sourceId,
+				editionVersion: db.editionVersion,
+				editionDisplayName: db.editionDisplayName,
 				tags: normalizeTags(row.tags),
-				isAdult: isAdultRow(row, db.database),
+				isAdult: isAdultRow(row, db.fileKey),
 			};
 
 			items.push({
-				database: db.database,
-				sourceId,
-				sourceName,
-				sourceDescription: sourceMetadata.description,
+				fileKey: db.fileKey,
+				originId,
+				originName,
+				originDescription: origin.description,
 				chapterKey,
 				chapter,
 				nameKey,
 				rawCost: row.cost,
-				logicalKey: logicalIdentityForRow(row, db.database),
+				logicalKey: logicalIdentityForRow(row, db.fileKey),
 				perk,
 			});
 		}
 	}
 
-	for (const category of categoriesById.values()) {
-		category.versions.sort((a, b) => a.id.localeCompare(b.id));
-	}
-	for (const source of sourceMetadataById.values()) {
-		source.categories.sort((a, b) => a.localeCompare(b));
+	for (const source of sourcesById.values()) {
+		source.editions.sort((a, b) => a.version.localeCompare(b.version));
 	}
 
 	items.sort(
 		(a, b) =>
-			a.perk.category.localeCompare(b.perk.category) ||
-			a.perk.categoryVersion.localeCompare(b.perk.categoryVersion) ||
-			a.sourceId.localeCompare(b.sourceId) ||
+			a.perk.sourceId.localeCompare(b.perk.sourceId) ||
+			a.perk.editionVersion.localeCompare(b.perk.editionVersion) ||
+			a.originId.localeCompare(b.originId) ||
 			a.chapterKey.localeCompare(b.chapterKey) ||
 			a.nameKey.localeCompare(b.nameKey) ||
 			a.logicalKey.localeCompare(b.logicalKey),
 	);
 
 	return {
-		categories: [...categoriesById.values()].sort((a, b) => a.id.localeCompare(b.id)),
-		sources: [...sourceMetadataById.values()].sort((a, b) => a.id.localeCompare(b.id)),
+		sources: [...sourcesById.values()].sort((a, b) => a.id.localeCompare(b.id)),
+		origins: [...originsById.values()].sort((a, b) => a.id.localeCompare(b.id)),
 		items,
 	};
 }
@@ -104,27 +99,26 @@ function buildPerkDatabases(items) {
 	const grouped = {};
 
 	for (const item of items) {
-		grouped[item.database] ||= {};
-		grouped[item.database][item.sourceId] ||= {
-			source: item.sourceName,
-			description: item.sourceDescription,
+		grouped[item.fileKey] ||= {};
+		grouped[item.fileKey][item.originId] ||= {
+			origin: item.originName,
 			chapters: {},
 		};
-		const source = grouped[item.database][item.sourceId];
-		source.chapters[item.chapterKey] ||= {
+		const origin = grouped[item.fileKey][item.originId];
+		origin.chapters[item.chapterKey] ||= {
 			chapter: item.chapter,
 			perks: {},
 		};
-		const chapter = source.chapters[item.chapterKey];
+		const chapter = origin.chapters[item.chapterKey];
 		chapter.perks[item.nameKey] ||= [];
 		chapter.perks[item.nameKey].push(item.perk);
 	}
 
-	for (const database of Object.keys(grouped)) {
-		grouped[database] = sortObjectByKeys(grouped[database]);
-		for (const source of Object.values(grouped[database])) {
-			source.chapters = sortObjectByKeys(source.chapters);
-			for (const chapter of Object.values(source.chapters)) {
+	for (const fileKey of Object.keys(grouped)) {
+		grouped[fileKey] = sortObjectByKeys(grouped[fileKey]);
+		for (const origin of Object.values(grouped[fileKey])) {
+			origin.chapters = sortObjectByKeys(origin.chapters);
+			for (const chapter of Object.values(origin.chapters)) {
 				chapter.perks = sortObjectByKeys(chapter.perks);
 				for (const perks of Object.values(chapter.perks)) {
 					perks.sort((a, b) => a.id.localeCompare(b.id));
