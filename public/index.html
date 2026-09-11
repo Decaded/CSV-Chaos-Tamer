@@ -164,7 +164,8 @@
 						</div>
 
 						<p class="welcome-note helper-text">
-							Only one build can run at a time. While this panel or a CLI build holds the lock, other builds wait. Close the panel with <strong>Ctrl+C</strong> in the console (where you ran this panel from) to release it.
+							Only one build can run at a time. While this panel or a CLI build holds the lock, other builds wait. Close the panel with <strong>Ctrl+C</strong> in the console
+							(where you ran this panel from) to release it.
 						</p>
 					</section>
 				</section>
@@ -357,7 +358,10 @@
 										placeholder="https://..."
 										required
 									/>
-									<p class="field-note">Link to the source document these files came from (e.g. the Google Sheet/Doc). This is for reference only. Files are not loaded from it, please upload them above.</p>
+									<p class="field-note">
+										Link to the source document these files came from (e.g. the Google Sheet/Doc). This is for reference only. Files are not loaded from it, please upload them
+										above.
+									</p>
 								</div>
 								<div class="field">
 									<label for="sourceModalDesc">Description *</label>
@@ -486,7 +490,11 @@
 									Reload
 								</button>
 							</div>
-							<p class="helper-text">Case‑insensitive substring match over source display name and description. One keyword per line. Matching sources are flagged as R18.</p>
+							<div class="r18-note">
+								<strong>R18 auto-marking</strong><br />This filter detects adult content. Any source whose display name or description matches one of these keywords is flagged
+								<strong>R18</strong> on every build.
+							</div>
+							<p class="helper-text">Case‑insensitive substring match over source display name and description. One keyword per line.</p>
 							<div class="editor-search-row">
 								<input
 									id="keywordSearch"
@@ -579,11 +587,35 @@
 			></div>
 		</main>
 		<footer class="site-footer">
-			<span>Site created by <a href="https://decaded.dev" target="_blank" rel="noopener noreferrer">Decaded</a></span>
+			<span
+				>Site created by
+				<a
+					href="https://decaded.dev"
+					target="_blank"
+					rel="noopener noreferrer"
+					>Decaded</a
+				></span
+			>
 			<span aria-hidden="true">·</span>
-			<span>Check my other projects <a href="https://decaded.dev/projects" target="_blank" rel="noopener noreferrer">here</a></span>
+			<span
+				>Check my other projects
+				<a
+					href="https://decaded.dev/projects"
+					target="_blank"
+					rel="noopener noreferrer"
+					>here</a
+				></span
+			>
 			<span aria-hidden="true">·</span>
-			<span>Support me <a href="https://decaded.dev/support" target="_blank" rel="noopener noreferrer">here</a></span>
+			<span
+				>Support me
+				<a
+					href="https://decaded.dev/support"
+					target="_blank"
+					rel="noopener noreferrer"
+					>here</a
+				></span
+			>
 		</footer>
 		<script src="/app.js"></script>
 	</body>
