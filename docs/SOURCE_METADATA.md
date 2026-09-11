@@ -48,12 +48,13 @@ CSV Chaos Tamer validates mapping uniqueness, source existence, and UUID shape b
 
 ## Manual Metadata Config
 
-`source-metadata.config.json` (in `src/config/`) is the dedicated, hand-maintained file that supplies `description`, `sourceUrl`, `altSourceUrl`, and `altSourceLabel` for every logical
-source, keyed by logical source ID:
+`source-metadata.config.json` (in `src/config/`) is the dedicated, hand-maintained file that supplies `description`, `sourceUrl`, `altSourceUrl`, and `altSourceLabel` for every
+logical source, keyed by logical source ID:
 
 ```json
 {
 	"grimoire": {
+		"name": "Grimoire",
 		"description": "Magical abilities and powers.",
 		"sourceUrl": "https://docs.google.com/spreadsheets/d/1DmxG5BPs7YVe5u1F1GG70ZGYKOsqeABQVyqv4hi_k98"
 	}
@@ -68,3 +69,7 @@ This file must be updated manually before running the generator. It is a hard ga
 - `altSourceUrl`/`altSourceLabel` are not both present or both absent.
 
 Manual `description`/`sourceUrl`/`altSourceUrl`/`altSourceLabel` values fully replace the auto-generated placeholder description in the final `generatorSources.json` output.
+
+`name` is **optional**: the source's public-facing display name, e.g. "Complete Companion". When present it overrides the `displayName` derived from the logical source ID, so it
+also applies to the Generator source picker and the R18 auto-marking keyword match. When omitted, the panel shows a placeholder derived from the ID and the build keeps the derived
+display name.
