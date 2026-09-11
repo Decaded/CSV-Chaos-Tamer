@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@decaded/nyadb": "^6.1.1",
     "csv-parser": "^3.2.1",
     "fs": "^0.0.1-security",
     "path": "^0.12.7",
@@ -8,12 +9,13 @@
     "unified": "^11.0.5"
   },
   "name": "csv-chaos-tamer",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "A Node.js script that processes multiple differently formatted CSV files into clean, normalized JSON, built specifically to prepare data for celestial.decaded.dev.",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "run": "node index.js",
-    "test": "node test/md-parser.test.js && node test/index.test.js"
+    "run": "node src/cli.js",
+    "web": "node web-server.js",
+    "test": "node test/run.js"
   },
   "keywords": [
     "celestial",

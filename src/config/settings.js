@@ -1,0 +1,172 @@
+/**
+ * Global configuration for CSV and Markdown parsing.
+ * All settings live here; parsers import what they need.
+ */
+
+// ───────────────────── Shared ─────────────────────
+
+const shared = {
+	/** Public dataset metadata written to NyaDB dataset database */
+	dataset: {
+		name: 'Celestial Gambler Dataset',
+		datasetVersion: 'development',
+		description: 'Public Celestial Gambler perk dataset.',
+	},
+
+	/** Chapters that get split into separate JSON files. key = lowercase chapter, value = output filename (no extension) */
+	splitChapters: {
+		'waifu catalogue': 'waifu',
+		'lewd': 'companion_lewd',
+	},
+
+	/**
+	 * Logical generator sources with selectable physical dataset versions. Every
+	 * physical database may appear in at most one group; unlisted databases are
+	 * published as independent sources with a single default version.
+	 */
+	sourceVersions: {
+		grimoire: {
+			displayName: 'Grimoire',
+			defaultVersion: 'default',
+			versions: {
+				default: 'grimoire',
+				v2: 'grimoire_v2',
+				v3: 'grimoire_v3',
+				v6: 'grimoire_v6',
+				yggdrasil: 'grimoire_yggdrasil_personal',
+			},
+		},
+		scrolls: {
+			displayName: 'Scrolls',
+			defaultVersion: 'default',
+			versions: { default: 'scrolls', v1: 'scrolls_v1', v3: 'scrolls_v3' },
+		},
+		something: {
+			displayName: 'Something',
+			defaultVersion: 'default',
+			versions: { default: 'something', v2: 'something_v2', v3: 'something_v3' },
+		},
+		spellbook: {
+			displayName: 'Spellbook',
+			defaultVersion: 'default',
+			versions: { default: 'spellbook', v2: 'spellbook_v2' },
+		},
+	},
+
+	/** Description cleanup – reused by both CSV and MD transforms */
+	cleanDescription: v =>
+		String(v ?? '')
+			.replace(/[\r\t]+/g, '')
+			.replace(/\n{3,}/g, '\n\n')
+			.replace(/(?<!\n)\n(?!\n)/g, ' ')
+			.replace(/\s{2,}/g, ' ')
+			.trim(),
+
+	/** Convert a string to a machine-ID-safe slug */
+	slugify: str =>
+		String(str ?? '')
+			.normalize('NFKD')
+			.replace(/[\u0300-\u036f]/g, '')
+			.replace(/^Copy of\s*/i, '')
+			.replace(/['’]/g, '')
+			.replace(/&/g, ' and ')
+			.replace(/[^a-zA-Z0-9_-]+/g, '_')
+			.replace(/_+/g, '_')
+			.replace(/^_+|_+$/g, '')
+			.toLowerCase(),
+};
+
+// ───────────────────── CSV ─────────────────────
+
+const csv = {
+	/**
+	 * Maps raw CSV headers (lowercased, alpha-only) or column indices to standard field names.
+	 */
+	headerMap: {
+		0: 'id',
+		unnamed0: 'id',
+		cpcost: 'cost',
+		cost: 'cost',
+		price: 'cost',
+		name: 'name',
+		item: 'name',
+		perk: 'name',
+		perkname: 'name',
+		perkitem: 'name',
+		jump: 'source',
+		jumpdoc: 'source',
+		jumpchain: 'source',
+		jumpsupplement: 'source',
+		source: 'source',
+		setting: 'source',
+		chapter: 'chapter',
+		category: 'chapter',
+		description: 'description',
+		effect: 'description',
+	},
+
+	/** Fallback headers when no CSV headers are detected */
+	fallbackHeaders: ['CP Cost', 'Name', 'Jumpdoc', 'Description'],
+
+	/** Per-field transforms applied to parsed CSV rows */
+	transforms: {
+		id: v => Number(String(v).replace(/cp$/i, '').trim()) || 0,
+		cost: v => Number(String(v).replace(/cp$/i, '').trim()) || 0,
+		description: v => shared.cleanDescription(v),
+		chapter: v => v?.trim(),
+	},
+};
+
+// ───────────────────── Markdown ─────────────────────
+
+const md = {
+	/**
+	 * Separator inserted between folded sub-sections in descriptions.
+	 * Use '\n\n' for a blank line, '\n' for a single newline, or any string.
+	 */
+	subSectionSeparator: '\n\n',
+
+	/** Per-field transforms applied to parsed MD rows */
+	transforms: {
+		id: v => {
+			if (v === null || v === undefined) return null;
+			return Number(String(v).replace(/\D/g, '')) || null;
+		},
+		cost: v => {
+			const str = String(v).trim();
+			// Remove zero-width spaces and other invisible Unicode characters
+			const cleaned = str
+				.replace(/[\u200B\u200C\u200D\uFEFF]/g, '')
+				.replace(/^-/, '')
+				.replace(/[()[\]]/g, '')
+				.trim();
+			const num = Number(
+				cleaned
+					.replace(/cp$/i, '')
+					.replace(/\s*bp$/i, '')
+					.replace(/\s*kp$/i, '')
+					.replace(/\s+(?:CP|BP|KP)$/i, '')
+					.trim(),
+			);
+			return isNaN(num) ? (cleaned.toLowerCase() === 'free' ? 0 : str) : num;
+		},
+		name: v =>
+			String(v || '')
+				.replace(/[\u200B\u200C\u200D\uFEFF]/g, '') // Remove zero-width spaces
+				.replace(/^\*+/, '')
+				.trim(),
+		description: v => {
+			// Remove escape sequences: \* → *, \[ → [, \] → ], \! → !, \' → ', \" → ", \< → <, \> → >
+			const s = String(v ?? '').replace(/\\([*[\]!?.'\"<>])/g, '$1');
+			return s
+				.replace(/[\r\t]+/g, '')
+				.replace(/\n{3,}/g, '\n\n') // cap at double-newline
+				.replace(/(?<!\n)\n(?!\n)/g, ' ') // single newlines → space
+				.replace(/[^\S\n]{2,}/g, ' ') // collapse horizontal whitespace only
+				.replace(/\n{2,}/g, md.subSectionSeparator) // apply configured separator
+				.trim();
+		},
+	},
+};
+
+module.exports = { shared, csv, md };

@@ -1,0 +1,1613 @@
+{
+  "d956cfc3-228c-5ac1-a606-7f603f87070a": {
+    "id": "d956cfc3-228c-5ac1-a606-7f603f87070a",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Baby Dragon",
+    "cost": 500,
+    "description": "A single baby dragon that you’ve hatched and has bonded to you. This beast while small will grow at an incredible rate and eventually become a medieval superweapon easily able to lay waste to armies of men. Beyond this jump the dragon will grow with you becoming more powerful as you grow in power so that it may forever stand by your side. Alternatively, it could be an egg that hatches whenever you want it to, and can rehatch each jump. The dragon comes with the Blessing of Valyria perk.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "87082ba6-6657-56f0-a767-ef7058a490fe": {
+    "id": "87082ba6-6657-56f0-a767-ef7058a490fe",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Blackfyre",
+    "cost": 200,
+    "description": "This weapon was wielded by Aegon II Targaryen. It is lighter than the average sword but still every bit as deadly as the usual Valyrian Steel standards. Any who wield this sword can go on for longer periods and find negotiating as a whole less exhausting than without.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "5ee961cd-a1e1-5e7f-9db0-0802b5a0c364": {
+    "id": "5ee961cd-a1e1-5e7f-9db0-0802b5a0c364",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Blood of the Dragon",
+    "cost": 400,
+    "description": "The ancient magic of Valyria flows in your veins, granting you unparalleled command over dragons and their secrets. You possess the rare ability to tame and breed dragons, bending even the most willful of them to your will. With focus and care, you can awaken seemingly dormant or petrified dragon eggs without the need for sacrifice, breathing fire back into these ancient symbols of power. Dragons respond to you with near-instinctive obedience, and your bond with them grows stronger with time",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "f7155c35-056b-573c-b665-77409738f014": {
+    "id": "f7155c35-056b-573c-b665-77409738f014",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dark Sister",
+    "cost": 200,
+    "description": "This weapon was wielded by Daemon Targaryen. It is lighter than the average sword but still every bit as deadly as the usual Valyrian Steel standards. Any who wield this sword can go on for longer periods and find combat as a whole less exhausting than without.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "64933072-1b9a-5011-b629-47a081dcf985": {
+    "id": "64933072-1b9a-5011-b629-47a081dcf985",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dragon",
+    "cost": 800,
+    "description": "An adult dragon is already a fully grown force of nature, massive in size and strength, with scales impervious to ordinary weapons and fire that can reduce even stone to ash. While less malleable in temperament, it will obey your commands, though mutual respect is crucial for such a volatile creature.",
+    "source": "ASOIAF Small Council Jumpchain"
+  },
+  "368629eb-0cc2-5cf5-a789-4d451e317ce6": {
+    "id": "368629eb-0cc2-5cf5-a789-4d451e317ce6",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dragon Egg",
+    "cost": 500,
+    "description": "A dragon egg. It will hatch naturally in around a week. Your dragon will be loyal and take basic instructions but ferocious. Young dragons are vulnerable but can grow to be incredibly large, durable and breath a fire far hotter than even wildfire fully capable of melting stout stone towers into twisted wrecks.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "5d4185f4-8c8f-5c22-b653-1a33e7648564": {
+    "id": "5d4185f4-8c8f-5c22-b653-1a33e7648564",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dragon Treats",
+    "cost": 100,
+    "description": "Made from a mixture of different meats charred together with magic each package will give the correct amount of daily nutrients for a dragon to survive and grow. They will always be tasty and also be eaten by humans.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "7750d181-357e-5ae7-a74c-0a5e01276439": {
+    "id": "7750d181-357e-5ae7-a74c-0a5e01276439",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dragonbinder",
+    "cost": 500,
+    "description": "A priceless relic of Old Valyria, this horn has the unique ability to bind dragons and their kin. Whenever blown any draconic creatures within earshot will be forced to kneel to you, completely incapable of going against you and entirely submissive.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "24ec9fcc-f35b-5519-a5ba-560e1d7f75eb": {
+    "id": "24ec9fcc-f35b-5519-a5ba-560e1d7f75eb",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dragonblood",
+    "cost": 200,
+    "description": "A descendant of Old Valyria, you have the ability to claim one dragon and ride the beast. You can tolerate higher heat than normal and will be inhumanly beautiful. Common traits of this are light hair (white, platinum, silver or gold) and eyes of blue or purple. You also have a mastery of the Valyrian language and all its dialects.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "34d6dd83-cbba-5af9-9396-26b90f2bcac6": {
+    "id": "34d6dd83-cbba-5af9-9396-26b90f2bcac6",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dragonbone Bow",
+    "cost": 200,
+    "description": "An exceptionally strong bow made of Dragonbone. Exceptional power and range. Projectiles fired tend to hit where they’d do the most damage by chance very regularly.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "26d5efeb-8e7c-5688-9560-6ff85055692f": {
+    "id": "26d5efeb-8e7c-5688-9560-6ff85055692f",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dragonglass Cache",
+    "cost": 0,
+    "description": "A black cloak wrapped around a few obsidian daggers, arrowheads and spearheads.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "d79f0ac9-80a2-58e4-9d1c-b7fec00a3df7": {
+    "id": "d79f0ac9-80a2-58e4-9d1c-b7fec00a3df7",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dragonstone",
+    "cost": 400,
+    "description": "Based on the Targaryen trading post that became the seat of the royal heir this dark militaristic castle is filled with dragon motifs. It has all the features of the original castle like a Painted Table for the area and is staffed with follower servants. Not even a magical dragon can breach the castle or burn the walls down which makes it perfect for a staging base.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "c53d6e40-c328-5b9c-895c-deac4092e292": {
+    "id": "c53d6e40-c328-5b9c-895c-deac4092e292",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Dreamer",
+    "cost": 200,
+    "description": "Much rarer than dragon riding, some of House Targaryen have been known to dream of the future. Now when you sleep meaning can be found in the metaphors you see although these dreams should not be taken too literally and you may only see part of the picture.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "6a3cdb5f-a29c-5cec-b2a0-13ef40eeb6c0": {
+    "id": "6a3cdb5f-a29c-5cec-b2a0-13ef40eeb6c0",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Fleet of the Sunset Sea",
+    "cost": 200,
+    "description": "A navy surpassing even the Redwyne fleet in ambition and versatility, its ships crafted for both war and trade. Your fleet dominates trade routes, spices from Qarth, silks from Lys, and Arbor gold flow through your holds, but unlike their lumbering merchant cogs, your ships transform effortlessly into instruments of war. Cargo decks hide compartments for wildfire jars, while merchant crews double as marines trained to board enemy vessels with axes and grappling hooks.",
+    "source": "ASOIAF Small Council Jumpchain"
+  },
+  "68b22e7f-433b-52d5-9ddd-6fd25eac0ae8": {
+    "id": "68b22e7f-433b-52d5-9ddd-6fd25eac0ae8",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Glass Candle",
+    "cost": 400,
+    "description": "An ancient artifact from the Valyrian Freehold, the obsidian rod of a glass candle twists in a sharp, imposing shape. When ignited, the glass candle emits an uncomfortably bright light, casting an eerie glow that seems to amplify colors caught in its glow. With this candle, you gain potent magical abilities: you can communicate instantly with other candle-holders, observe distant locations as though you were there, and experience visions of events or people across the world.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "83226a99-a05b-58a0-8d1a-d72d83710ed5": {
+    "id": "83226a99-a05b-58a0-8d1a-d72d83710ed5",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Iron Throne",
+    "cost": 300,
+    "description": "The symbol for the royal crown in this world and what everyone wants to sit in. Made from the surrendered swords when Aegon united the six kingdoms. Sitting in it boosts your legitimacy and allows you to manipulate the emotions of those nearby. Make them feel fear when in the presence of the chair. You can choose to receive the 40-foot tall book accurate throne, the HOtD version or the more symmetrical GOT version. All versions will be comfortable and the sharp edges won’t hurt you or your chosen representatives.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "a19063ef-0fd1-5947-a55e-5c137af0dab4": {
+    "id": "a19063ef-0fd1-5947-a55e-5c137af0dab4",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Lingua Valyria",
+    "cost": 100,
+    "description": "Regardless of your upbringing, you are most definitely fluent in both the written and spoken form of the High Valyrian language. Indeed, it is in that tongue that matters of diplomacy are often carried out in the Free Cities and between them and the Sunset Kingdoms. But a mere fluency in a language is hardly a boon, no? Worry not, this gift is so much more than that. Whenever you enter a Jump, you may choose one language with both written and spoken form to be the new “lingua franca” of the setting. While not everyone will be fluent, matters of state and business will be carried out in your tongue of choice and among the elite and scholarly its use is universal. Naturally, you would also be given a full understanding of the language you choose.",
+    "source": "The Seven Kingdoms"
+  },
+  "a192915d-1064-51bb-8f4e-9c96e43154ce": {
+    "id": "a192915d-1064-51bb-8f4e-9c96e43154ce",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Lord Freeholder",
+    "cost": 300,
+    "description": "In Valyria of old, a true Dragonlord of great standing was as much a warrior and general as they were a ruler or head of their household. As a great Valyrian lord in your own right, you have the skills to fulfill your martial duties with as much excellence as your duties to your house and lands. You are a great leader in war, whether you are leading groups of men into battle, directing whole armies, or planning out campaigns of conquest or defense. It would take truly lopsided odds and a massive blunder on your part for an army under your direct command to face defeat. You will also find that when leading from the front, the morale of your men is brought to great heights, such that they would hold in the face of a charge of great elephants even were they a line one man thick and the elephants a herd.",
+    "source": "The Seven Kingdoms"
+  },
+  "bdd5cab0-5176-5db2-bd97-43c74258f094": {
+    "id": "bdd5cab0-5176-5db2-bd97-43c74258f094",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Lore of the Freehold",
+    "cost": 500,
+    "description": "Though much was lost in the destruction of the Valyrian peninsula, knowledge of sorcery and dragons... you have what has survived the Doom and some of what predated it. You are learned in dragonlore from the first meal of a hatchling all the way to the symptoms that let one know when a dragon’s death is near, you know the sorcery of the Valyrians in how they worked Glass Candles and controlled flame, all the way down to how they made their roads and walls and buildings out of blackstone. However, knowledge of more rare secrets such as Valyrian Steel are not known to you.",
+    "source": "The Seven Kingdoms"
+  },
+  "65475491-249c-506f-aa36-dd57e15f664e": {
+    "id": "65475491-249c-506f-aa36-dd57e15f664e",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Political Marriage",
+    "cost": 100,
+    "description": "A discrete clause in the Doctrine of Exceptionalism seems to apply to jumpers and their companions as you are not like other men. You can marry whomever you want no matter the familial relation or gender and all government institutions will consider it lawful. Any children you consider yours will also be without a doubt.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "007e106a-a3b7-5478-97b3-ec7573a4bc90": {
+    "id": "007e106a-a3b7-5478-97b3-ec7573a4bc90",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Power Overwhelming!",
+    "cost": 500,
+    "description": "For most mages on Planetos, the greatest barrier to being a powerful mage is sacrifice. Specifically, the fact that all magics known to Planetos require some degree of blood, soul or human sacrifice to function. You neatly sidestep this issue through your innate connection to a powerful natural network of magic like the Weirwoods, instead powering your magic through that. You’ll even be able to craft items using this connection. This natural network of magic will appear in future worlds, and provides you with enough power that you could cast high level magics near trivially. This does not give you the power to pull off spells like the Hammer of the Gods by yourself, but by working with others, such powers may be within your grasp.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "56e45494-3849-5e5f-a982-3a4492a2fd45": {
+    "id": "56e45494-3849-5e5f-a982-3a4492a2fd45",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Prince In Exile",
+    "cost": 200,
+    "description": "People will welcome you as a prince from a foreign land and be amused at your alien ways and customs. You will be welcomed at most courts as a curiosity.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "11e48073-2124-5dac-b164-71b44ed154f2": {
+    "id": "11e48073-2124-5dac-b164-71b44ed154f2",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Red Keep",
+    "cost": 400,
+    "description": "Based on the Targaryen royal palace that became the seat of the Iron Throne this crimson stately castle is filled with dragon motifs. It has all the features of the original castle like the secret passages - apart from the chair - and is staffed with follower servants. No sieging army can breach the walls which makes it perfect for targets of attacks.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "9629ecf4-980c-50f0-9cdf-baa7219eba81": {
+    "id": "9629ecf4-980c-50f0-9cdf-baa7219eba81",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Refuge in Audacity",
+    "cost": 400,
+    "description": "Whether due to your rank, connections, or skill with a blade, you find that you can get away with things that would see another person ostracised if not outright banished. Steal a dragon egg? No long-term consequences to your standing so long as it's eventually returned. Is it an open secret that your royal heirs are really bastards? No one will dare to speak it out loud unless they want to lose their head. Note, this only affects any fallout to your social status. You may still face criminal charges or provoke someone to seek vengeance if you take things too far.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "58af72d1-6c6d-5bed-8f91-12d3e08a2cb6": {
+    "id": "58af72d1-6c6d-5bed-8f91-12d3e08a2cb6",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Support of the Men",
+    "cost": 200,
+    "description": "Say what you will about Daemon Targaryen, but the man instils loyalty in his fighting men. Whether the Gold Cloaks or the Sea Snake’s soldiers, Daemon was beloved by the warriors he fought with. Now you enjoy a similar boost to the loyalty and morale of the soldiers you lead or serve alongside.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "4e663662-4c63-53e0-8c80-d79ba97556bb": {
+    "id": "4e663662-4c63-53e0-8c80-d79ba97556bb",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Valyrian Smithing",
+    "cost": 200,
+    "description": "You have all the skills of a Valyrian Master Smith, able to forge and reforge Valyrian Steel And craft Items of power, particularly those related to dragons or fire.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "2b36bacd-54fe-51bb-bf1e-347369fe20ba": {
+    "id": "2b36bacd-54fe-51bb-bf1e-347369fe20ba",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Valyrian Steel Armour",
+    "cost": 400,
+    "description": "By purchasing this armour, you have gained one of the greatest personal protections available in this entire setting. At first pierceable only by another Valyrian Steel weapon, as you grow in power, this armour will scale with you. Be aware that it only protects the parts it covers, so if you’re shot through your visor, you’re shit out of luck.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "ec8774d7-9c51-509e-8984-e0fc89fb10b0": {
+    "id": "ec8774d7-9c51-509e-8984-e0fc89fb10b0",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Valyrian Steel Blade",
+    "cost": 200,
+    "description": "Forged in a style and colour of your choice the metal edge will always be perfectly sharp and feel almost weightless in your hands. Valyrian steel is a higher metal and can harm magical beings like White Walkers and Dragons. If lost or stolen it will return to the sheath or at a property.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "b7cc1adf-dc8e-5470-bfb5-89a61d4c0e86": {
+    "id": "b7cc1adf-dc8e-5470-bfb5-89a61d4c0e86",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Valyrian Steel Dagger",
+    "cost": 100,
+    "description": "You are the proud owner of a Valyrian Steel dagger. Or not. See, this dagger is special beyond just being made of one of the strongest metals on the planet and worth an exorbitant amount of money. Anyone who you try to hoodwink or bamboozle whilst wearing this will be far more likely to believe whatever bullshit you’re spinning. Those with tricky minds, or strong will can break through its effect however.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "0bcf505c-f2e7-5f49-94c8-e543485b4ee9": {
+    "id": "0bcf505c-f2e7-5f49-94c8-e543485b4ee9",
+    "category": "song_v2",
+    "chapter": "The Dragonrider",
+    "name": "Valyrian Stone Shaping:",
+    "cost": 200,
+    "description": "Far stronger even than steel, granite or diamond, dragonstone is an ancient material used by the Valyrians in much of their constructions. By purchasing this perk, you have the magical ability to shape the material into any form you may wish. You can transmute regular stone into this with intensive magical effort, or slightly less exhaustingly create it wholesale similar to cement. Whilst it is possible to alter the shape of the stone by using dragonfire to melt it into a liquid, then shaping and fusing it from there, this magic is far faster and easier, as well as safer.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "db2e252d-477b-5211-819f-7b6f1fbd7d02": {
+    "id": "db2e252d-477b-5211-819f-7b6f1fbd7d02",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Alchemy",
+    "cost": 200,
+    "description": "The alchemical arts are at your command. You possess the skills of a veteran member of the Alchemist's Guild of King's Landing, with a deep understanding of herbs, mixtures, and their medicinal uses. You are, of course, adept at creating wildfire, the volatile and destructive substance feared throughout Westeros.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "e294c1bf-7289-5edc-9b43-3d62c65bbade": {
+    "id": "e294c1bf-7289-5edc-9b43-3d62c65bbade",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Beloved of Magic",
+    "cost": 200,
+    "description": "Ordinarily, the overall strength of magic on Planetos is related to the tides of the earth, and the existence of magical creatures such as dragons. This means that in times of great magical power, the least of magicians could cast complex and powerful magics limited only to the strongest in times when magic wanes. Of course the flipside of this is that in times when magic isn’t strong, magicians can barely cast, with that same magician from before barely being able to summon sparks of fire with an ignition source. You gracefully avoid this problem, as magic seems to favour you preventing any such environmental factors affecting your power negatively.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "85d640ed-8a23-597d-8903-069673a6deb4": {
+    "id": "85d640ed-8a23-597d-8903-069673a6deb4",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Born of the Divine",
+    "cost": 300,
+    "description": "There was a divinity in your family history, and no matter how many generations the benefits have skipped over, they are shining through you now. You’re a little taller, a lot smarter, a little more attractive and charming, and a fair bit stronger and faster than you were before. You will live maybe half again as long as others of your kind, and be in full vigour until the end of your years. This works as a capstone booster, boosting all of your perks slightly, but most especially all of your capstone perks. The enhanced version of the perks are in the notes, as are the height differences.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "ae4a9391-e6bb-5507-b0d6-c9ac0e66a001": {
+    "id": "ae4a9391-e6bb-5507-b0d6-c9ac0e66a001",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Counselor’s Map",
+    "cost": 200,
+    "description": "A map enchanted much like the Marauder's Map, revealing the location of everyone within the Red Keep. It includes every room and hidden passage within the castle, though it is limited to a bird’s eye view.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "90ae9061-a625-5189-9ff4-5e64af44552c": {
+    "id": "90ae9061-a625-5189-9ff4-5e64af44552c",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Crate of Weirwood, or Black-Barked Saplings",
+    "cost": 200,
+    "description": "Ten of either or five of both. They grow to full maturity within a year. Every ten years, another crate of twenty arrives. Weirwoods are sacred trees grown by the Children of the Forest and used as places of worship for those who follow the Old Gods. They have white bark, red sap and red leaves. The children often carve elaborate faces into the trunks as well, which the sap will swell up from, giving the appearance of tears. Black-Barked trees on the other hand are the trees Qarthian Warlocks use the leaves of, to make the Shade of Evening. Black-Barked trees have black bark and inky blue leaves. Both may have magical properties yet undiscovered, but will most likely relate to the two’s mystical properties. May be purchased multiple times. Both types of tree will create a mystical connection to trees of their fellow species, and can be used as a network to divine anything that has happened in their presence in the past or present. They can even be used to communicate through, over vast distances, as long as you have skills in divination.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "c63b9bd6-661b-5f37-a87f-5895fffb54d2": {
+    "id": "c63b9bd6-661b-5f37-a87f-5895fffb54d2",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Dancing in Two Skins",
+    "cost": 200,
+    "description": "One of the most difficult aspects of warging is the helplessness that comes with leaving your own body behind. Not for you. With this upgrade, you can move, act, and even fight as your human self while your mind resides in another creature. It’s as though you inhabit two bodies at once, maintaining total awareness and coordination between them.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "897d00da-a9cd-5f3b-ade7-f058e4bae053": {
+    "id": "897d00da-a9cd-5f3b-ade7-f058e4bae053",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Divination",
+    "cost": 400,
+    "description": "The First Men would name you a greenseer; the Targaryens would call you a dreamer. You possess the rare and enigmatic gift of prophecy. This ability grants you premonitions, glimpses of the future that come in visions, dreams, or sudden flashes of insight. These visions can be cryptic and open to interpretation, with truths often hidden beneath layers of symbolism. While the Sight can be a powerful tool, beware: prophecy is a double-edged sword. Misinterpretation of what you see can lead to unintended consequences, and knowing the future does not always mean you can change it.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "60411168-ad9f-55ff-bcdb-7a4c7ee63fd3": {
+    "id": "60411168-ad9f-55ff-bcdb-7a4c7ee63fd3",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Elemental Magic",
+    "cost": 200,
+    "description": "You can command the primal forces of nature, bending them to your will. With the base purchase, you gain the ability to manipulate one of three elements—Air, Fire, or Water. While initially limited to minor feats and parlor tricks—stirring a breeze, sparking a flame, or rippling water—you have the foundation for growth into a powerful elemental adept. This perk may be purchased multiple times, once for each element, but upgrades apply only to the element selected for their respective purchase.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "bc50999d-9840-5911-b3a2-b2cd85125db7": {
+    "id": "bc50999d-9840-5911-b3a2-b2cd85125db7",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Faceless",
+    "cost": 200,
+    "description": "The dark art of the Faceless Men is yours to command. By harvesting the face of a willing subject—or removing it from the dead before decay claims it—you can take on their visage. Each face must be expertly preserved, a skill you instinctively possess. The magic imbued in these faces allows you to completely adopt the identity of their previous owner, from voice to mannerisms.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "ada2588f-1022-596e-a6d3-698afaec0b20": {
+    "id": "ada2588f-1022-596e-a6d3-698afaec0b20",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Flaming Weapon",
+    "cost": 300,
+    "description": "You can use your blood to set alight your weapon. Such fire blazes incredibly hot and is unnaturally intimidating to your enemies and heartening to your allies but will ruin ordinary steel.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "c8e570ad-649f-5594-a7da-30197bfa83ea": {
+    "id": "c8e570ad-649f-5594-a7da-30197bfa83ea",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Glamouring",
+    "cost": 200,
+    "description": "You have a subtle yet powerful gift: the ability to alter your appearance and that of items you touch. These changes are minor and cannot radically transform your body or disguise you entirely, but they are perfect for creating plausible deceptions. A slight shift in your features, the color of your eyes, or the cut of your clothing—these illusions are as real as the world believes them to be.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "f253cb22-4561-5a4a-bcf5-be461d76651c": {
+    "id": "f253cb22-4561-5a4a-bcf5-be461d76651c",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Inheritor",
+    "cost": 200,
+    "description": "The Asshai’i are a mysterious people, steeped in lore, versed in magic and myth. And few more than you. You have a natural gift for learning magic, for digging lore and artifacts out of the darkness of the past. You know the right way to step in haunted ruins, methods to translate and understand long-dead scripts, ways of testing for and diffusing lingering magic on that which you seek to take... while this does very little for your actual power or talent with magic, it does make you incredibly able when it comes to acquiring knowledge or artifacts. And knowledge is a power all its own.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "0202022f-e8c0-5241-9952-e4a090e327be": {
+    "id": "0202022f-e8c0-5241-9952-e4a090e327be",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Iron Coin",
+    "cost": 400,
+    "description": "A simple yet ominous iron coin bearing the mark of the Faceless Men. When you present this coin and whisper the name of your intended target, a Faceless Man will ensure their death within a week—no matter where they hide or how well-guarded they are. This can only be used once per year, and the Faceless Men will not divulge how they completed the task.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "131fa06e-c1a5-5dfa-88af-15d80b3d676c": {
+    "id": "131fa06e-c1a5-5dfa-88af-15d80b3d676c",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Mummer’s Farce",
+    "cost": 100,
+    "description": "At least in Westeros, magic is commonly believed to be dead or faded. This makes it harder for an aspiring mage to gain the patronage often necessary to get reagents and artefacts with which to do magic. Thankfully, you don’t have that problem! You are an expert in getting people to believe in your prowess, and can get them to sacrifice things on your behalf to power your magic. Yes, you too can convince a man to burn his own daughter!",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "f36d3794-8b47-5601-b685-a3c6b696f2e0": {
+    "id": "f36d3794-8b47-5601-b685-a3c6b696f2e0",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Mythical Weapon",
+    "cost": 200,
+    "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you. This weapon may take on whatever appearance you desire, and regardless of its form, this weapon will function impeccably, even if it might otherwise seem impractical.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "55a58fd8-598c-5c72-8328-9df48d6ca0bd": {
+    "id": "55a58fd8-598c-5c72-8328-9df48d6ca0bd",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Necromancy",
+    "cost": 400,
+    "description": "The magic of life and death, necromancy is a fell magic used by many,including Qyburn, the Others, some Qarthian Warlocks, and the Bloodstone Emperor. By purchasing this perk, you have gained the ability to raise groups of undead wights bound by your will and life force, as well as the ability to perform a true resurrection once per year.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "583e568c-bc52-532c-90e0-f7a5503e4eaf": {
+    "id": "583e568c-bc52-532c-90e0-f7a5503e4eaf",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Of Flame and Forge",
+    "cost": 400,
+    "description": "Your mastery extends beyond ordinary smithing to include secret techniques and alchemical processes that elevate your creations into legendary artefacts. You can forge entirely new Valyrian Steel without needing dragonfire, making you perhaps the only living individual capable of creating these legendary blades from scratch. Though the process is still resource-intensive and arduous, the results are unparalleled.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "27f48753-6e5c-5fa3-a8b3-9e22a2a05094": {
+    "id": "27f48753-6e5c-5fa3-a8b3-9e22a2a05094",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Packmaster",
+    "cost": 300,
+    "description": "Where most wargs can control only one creature at a time, you wield dominion over entire packs. Like Varamyr Sixskins, you can command multiple animals simultaneously, coordinating them as extensions of your will. Whether it’s a swarm of ravens, a pack of wolves, or a pride of lions, your influence over beasts knows few limits.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "96a71084-319b-5f04-8d99-2190a276e178": {
+    "id": "96a71084-319b-5f04-8d99-2190a276e178",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Resistant to Magical Area Effects",
+    "cost": 200,
+    "description": "Does an area seem too cold to be natural? Is an area still volcanically deadly even almost five hundred years after the area was blighted by an unspecified doom? Perhaps being too long in an area will cause grayscale to latch onto you. Well, no longer. You are resistant to the effects of magical environments, be the source of a curse, damnation of fourteen gods, or just a shroud worn by the White Walkers. Now, it takes a bit longer for the effect to affect you. As long as you’re moving through the area, the magic won’t take hold on you, but the moment you stop with the intent of staying, the magic will very slowly start to work, 1% per ten minutes until you start leaving the area again. When it gets to 100%, the magic works on you as it would any other person.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "27c1df2a-6ce9-5a12-8012-52670d98cb4b": {
+    "id": "27c1df2a-6ce9-5a12-8012-52670d98cb4b",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Shadowbinder",
+    "cost": 600,
+    "description": "Once a week you may produce a shadow. Such a shadow will obey your command to assassinate someone. Highly effective but must have surfaces to walk on. Ineffective against magical targets.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "cb639365-0118-5e41-8952-afb413fa896f": {
+    "id": "cb639365-0118-5e41-8952-afb413fa896f",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Ship of Wonder",
+    "cost": 100,
+    "description": "A magnificent ship rivaling the legendary Sun Chaser in speed, durability, and design. Crafted with rare materials and imbued with subtle enchantments, this vessel can weather the fiercest storms, outrun pirates, and cross vast oceans with ease. It comes with a fully trained and loyal crew, ready to follow your every command. After this jump, the ship will adapt to fit the setting, remaining the best possible vessel for its time and place, whether that’s a spaceship, airship, or something else entirely.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "33e149af-99b6-5a6d-9094-2eadb3ae56cb": {
+    "id": "33e149af-99b6-5a6d-9094-2eadb3ae56cb",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Signed in Blood",
+    "cost": 200,
+    "description": "This dark, beautifully crafted quill binds any contract signed with it to the full force of fate itself. Once someone signs their name, they are bound to their oath without question, though they remain unquestioning of the quill’s true nature. Anyone who uses the quill will be aware of the consequences of signing with it. Neither oaths nor terms can be violated by the signer without dire consequence.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "d21b1da7-e153-5226-ac18-b27bab7388c5": {
+    "id": "d21b1da7-e153-5226-ac18-b27bab7388c5",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Silver‘s Saddle",
+    "cost": 100,
+    "description": "This unassuming saddle, crafted from supple leather and silver-chased buckles, transforms any mount into a paragon of its kind. Place it on a donkey, and the beast becomes a warhorse with the speed of a Dornish sand steed and the endurance of a mammoth. Strap it to a lizard-lion, and the creature gains the cunning of a direwolf and the resilience of scaled plate. The saddle’s magic seeps into the mount, sharpening its instincts, tripling its stamina, and bending its loyalty unshakably to you. The mount instinctively understands complex mental commands, leap chasms, feign death, or navigate tight city streets, and heals from near-fatal wounds overnight.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "b016db50-217b-5579-83a4-a667f940c98a": {
+    "id": "b016db50-217b-5579-83a4-a667f940c98a",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Skinchanger",
+    "cost": 100,
+    "description": "You are a beastling, a skinchanger. The ancient and feared gift of warging is yours to command. You can possess animals, entering their minds and controlling their bodies as if they were your own. This bond initially manifests in dreams, connecting you to a single creature with whom you share a special bond, but with practice, it expands to conscious control and a growing number of animals. A purchase of this allows you a free purchase of Furry(or Not So Furry) Friend.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "96ee360c-3ddc-53bb-abb4-a5bf5a23fb12": {
+    "id": "96ee360c-3ddc-53bb-abb4-a5bf5a23fb12",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Songs of the Earth",
+    "cost": 300,
+    "description": "Those who sing the songs of the earth have many gifts. Chief amongst these is the ability to speak the True Tongue, a great affinity for magic, and a deep spiritual connection to nature which increases potency of nature based magics. The True Tongue is based on the sounds of the world, including things like wind on leaves, rain on water and the sound of stones in a brook. By binding themselves to a weirwood, an earthsinger may live for far longer than any other of their kind. There is evidence that some of the Children currently alive today were amongst those who created the Others 12,000 years ago.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "828066dc-edeb-59f0-9359-8589627efbc5": {
+    "id": "828066dc-edeb-59f0-9359-8589627efbc5",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "The Builder",
+    "cost": 600,
+    "description": "You have inherited the ingenuity and creativity that Bran the Builder was said to possess, granting you the ability to design and construct monumental projects that rival the greatest wonders of Westeros. Fortresses that defy siegecraft, walls that stand against the ages, and sprawling structures that awe all who see them are within your grasp. You can complete immense projects in a fraction of the time and with far fewer resources than should be possible, your efficiency supernatural. The things you create are not only practical and enduring but works of art in their own right, imbued with a sense of purpose and majesty that captures the imagination. Whether constructing a castle, designing defenses, or raising a tower to scrape the heavens, your work is guaranteed to stand for generations as a marvel of the world.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "aabf29d1-eb04-562e-b011-32129a42bde6": {
+    "id": "aabf29d1-eb04-562e-b011-32129a42bde6",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "The Green",
+    "cost": 400,
+    "description": "Like Garth Greenhand before you, you are a fountain of life and vitality, a living embodiment of fertility and abundance. Women touched by your blessing are granted extraordinary fertility, often bearing twins or triplets, while crops thrive and flourish in your presence. Wherever you tread, the land awakens: barren fields ripen with grain, orchards yield fruit beyond expectation, and flowers bloom in your wake. This gift of life flows from you effortlessly, rejuvenating both people and nature alike. Your presence is a blessing to any who rely on the land, ensuring prosperity wherever you choose to wander.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "caf8056f-195e-51d2-90eb-cc7f92783dec": {
+    "id": "caf8056f-195e-51d2-90eb-cc7f92783dec",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "The Mother’s River",
+    "cost": 400,
+    "description": "The Rhoyne’s children did not kneel to dragons. They fought with currents, not swords, and drowned fire in the Mother’s embrace. Now, her power flows through you. You wield the ancient water magic of the Rhoynar, a legacy of the river priests who once defied Valyria itself. While crude hydrokinesis is a small portion of this gift, the Mother’s blessings run deeper. You can summon impenetrable fogs that stretch for miles, shrouding fleets or armies in mist that only you and your allies can see through. Wounds immersed in flowing water knit together under your touch, bones mending and gashes closing as if time itself bends to the river’s song. Poisoned wine turns harmless at your command, and blighted wells run clear again. Yet the Rhoyne’s mercy is matched by her wrath, her currents answer your fury, dragging ships beneath the waves or crashing torrents against castle walls.",
+    "source": "ASOIAF Small Council Jumpchain"
+  },
+  "7fa1bcf5-45d5-564e-9dcd-0bb8ce28aa09": {
+    "id": "7fa1bcf5-45d5-564e-9dcd-0bb8ce28aa09",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Transmutation",
+    "cost": 200,
+    "description": "You have unlocked the ability to transmute metals. With the right resources and focus, you can transform lead into gold or iron into steel. This power is not instantaneous and requires precise alchemical processes, but the results are undeniable. Beyond wealth, this skill has practical applications, such as forging superior tools or armaments from otherwise inferior materials.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "0dd6ee2d-8209-5181-9ea4-3babdc0a8e05": {
+    "id": "0dd6ee2d-8209-5181-9ea4-3babdc0a8e05",
+    "category": "song_v2",
+    "chapter": "The Greenseer",
+    "name": "Winter’s Children",
+    "cost": 300,
+    "description": "More than any other beings, the White Walkers are the children of winter. This manifests in their immensely powerful winter magic, as well as their ability to reshape ice into any form they wish. At first, all you will be able to do is create crude forms out of ice, and affect the weather around you towards the cooler side. But as you gain experience, you will learn to create weapons of ice capable of cutting castle forged steel like butter as well as alter the weather on a large enough scale to plunge an entire continent into a decades long ice age. As one of the others, you also possess the ability to raise vast armies of the dead as wights. Other species can do this if they practice, however White Walkers have a greater affinity, and are capable of simultaneously raising hosts numbering in the thousands with a bit of effort.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "f05e5741-5274-548e-b28e-a3e5ebd16d0a": {
+    "id": "f05e5741-5274-548e-b28e-a3e5ebd16d0a",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "A Proficient Warrior",
+    "cost": 100,
+    "description": "You are the equal of any knight in swordfighting, jousting and riding, as well as capable of caring for your armour and weapons without the aid of a squire. You have a weapon you are slightly more skilled in, than your average knight, whether that is a greatsword, a warhammer or something different.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "54cb66b5-d2f1-5e3c-9656-54c675404b5e": {
+    "id": "54cb66b5-d2f1-5e3c-9656-54c675404b5e",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Always Armoured",
+    "cost": 100,
+    "description": "For whatever reason, it’s a fairly common practice in Westeros for nobles and important characters to fight without all their armour - rule of cool maybe? Nonetheless, now you can too! As long as you are wearing some kind of armour, you will be protected by the concept of armour to the same extent that what you are already wearing would protect you. Finally, you too can run around the battlefield without a helmet like all the other morons - and as a bonus, you won’t die doing so!",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "c8aacf17-8bac-51aa-b5d9-86ada3c185df": {
+    "id": "c8aacf17-8bac-51aa-b5d9-86ada3c185df",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Armor of the Kingsguard",
+    "cost": 400,
+    "description": "You possess a suit of exquisitely crafted white armor of the Kingsguard, perfectly fitted to you and aesthetically pleasing. This armor can take on any appearance you desire, should it be traditional Kingsguard regalia or something entirely different. Lightweight and comfortable, it won’t hinder your movement, yet it offers the protection of fully enclosing plate armor as long as it covers most of your body. This armor is virtually indestructible, even largely impervious to Valyrian steel or starmetal. Additionally, you may choose to have it enchanted with protective runes, similar to the ancient armor of House Royce. After each battle, the armor will magically repair and cleanse itself, requiring no upkeep on your part.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "ec6a3bb9-29a9-5369-85ab-02a68c138860": {
+    "id": "ec6a3bb9-29a9-5369-85ab-02a68c138860",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Armour of the Laughing Tree",
+    "cost": 200,
+    "description": "Despite its name, the Armour of the Laughing Tree is not necessarily an armour. Instead, it is an upgrade you can apply to any piece of clothing or armour you wear. When activated, the wearer will be near-impossible to unmask or capture, whilst people’s memories seem to gloss over any attempts to connect the unmasked and masked forms.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "081921f0-9921-50ad-8a62-4dd86b20cfa6": {
+    "id": "081921f0-9921-50ad-8a62-4dd86b20cfa6",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Bold",
+    "cost": 200,
+    "description": "You are brave without recklessness. You can keep your cool in even the most heated situations and you will not balk at a dangerous challenge.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "9cadd4f6-c758-5bf9-887f-09929d7ec03c": {
+    "id": "9cadd4f6-c758-5bf9-887f-09929d7ec03c",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Cold Hands",
+    "cost": 300,
+    "description": "It is common for men to break when they come eye to eye with the Dark. You are made of far stronger stuff. Even tortured to the brink, isolated and abandoned, you will never forget your beliefs and purpose. If you are part of an organisation, that organisation will always recognize you as one of them, as long as you abide by their rules to the best of your ability. In addition, your adamantine will grants you immunity to possession or trickery based magics such as warging, mind control, glamours or shadow binding.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "88ce0b70-c3d1-5a8e-8cad-76ed993166fd": {
+    "id": "88ce0b70-c3d1-5a8e-8cad-76ed993166fd",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Commander",
+    "cost": 200,
+    "description": "Learning to command is the job of a lifetime, it’s something nobles are trained in from the moment they can walk. Although very few ever achieve more than basic competency, to work autonomously from their liege and lead men into battle, you’ve reached a greater height. Whether from years of being a squire under a fantastic commander, learning all of their secrets, or a combination of a good library and a mind for the craft, you have become one of the greatest commanders of your realm, and recognised as such in the entire civilised world. Tactics, strategy, logistics, even propaganda and morale, you know it all, and can easily adapt your talents to other worlds and weapons as well.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "3b2c7268-b706-59c3-9894-23f722b579bd": {
+    "id": "3b2c7268-b706-59c3-9894-23f722b579bd",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Company",
+    "cost": 600,
+    "description": "You have command over a hundred sellswords willing to follow your orders to the grave. These professional mercenaries are considered men at arms with average fighting skills but learn what you teach them incredibly quickly. The group regains any losses at one person a week and accepts any additions but they are followers and not companions.",
+    "source": "Hedge Knight"
+  },
+  "634caaeb-28d5-5d52-a374-9ddb58832770": {
+    "id": "634caaeb-28d5-5d52-a374-9ddb58832770",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Fear Cuts Deeper Than Swords",
+    "cost": 400,
+    "description": "Your unmatched willpower allows you to stay focused and disciplined no matter the circumstances. You do not stop fighting. Even drenched in your own blood, you press on until there is no life left behind your eyes. You will survive, you will push on, you will not yield, no matter the tribulations. You can stand and draw your sword against a tide of death without hesitation, and you will cling to survival with every ounce of your strength a dozen times over.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "50be28c0-5e75-5c9b-8497-7896a7b7a100": {
+    "id": "50be28c0-5e75-5c9b-8497-7896a7b7a100",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Genius Strategist",
+    "cost": 400,
+    "description": "You are now a strategist unparallelled on Planetos, rivalling the likes of Napoleon and Alexander the Great, with a strategic mind that can, with enough resources and determination, change the face of the world. You can now win a battle whilst greatly outnumbered if only you have the time to prepare.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "7f9e9a4f-7867-5219-90fb-49dc3827432e": {
+    "id": "7f9e9a4f-7867-5219-90fb-49dc3827432e",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Giant Falcon",
+    "cost": 100,
+    "description": "The Winged Knight, sometimes conflated with Ser Artys Arryn, was a legendary hero that was certainly a character. He received his title due to the massive falcon that he rode. This may have been some ancient dragon, but where’s the fun in that? You have a giant falcon at your beck and call, able to carry a grown man, and fly at tremendous speeds. Unlike normal birds, it’s bones are not hollow either, and can thus take a serious beating before it takes any real damage.",
+    "source": "A Song of Ice and Fire: The Epoch of Legends"
+  },
+  "d790648b-2723-5195-9439-e1091a3b5dd2": {
+    "id": "d790648b-2723-5195-9439-e1091a3b5dd2",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Gold Cloak",
+    "cost": 100,
+    "description": "This set consists of black armour and a gold cloak. Despite its more ceremonious appearance it is as tough as steel and can resist any glancing blow from the weapons here (aside from Valyrian steel and supernatural threats like Dragons). Any breakages will be repaired within two weeks. It has the special aura of a patrolling officer.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "9d296eaf-e898-5746-8d55-a97b7768e35c": {
+    "id": "9d296eaf-e898-5746-8d55-a97b7768e35c",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Master of Arms",
+    "cost": 200,
+    "description": "You are a skilled teacher, capable of imparting a mastery of five weapon types and a martial philosophy over the course of a few years.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "dc0412d4-6abb-54c0-af8f-b0e89ca3c739": {
+    "id": "dc0412d4-6abb-54c0-af8f-b0e89ca3c739",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Mythical Weapon",
+    "cost": 200,
+    "description": "You gain a weapon of your choice; it can be a sword, bow, spear, axe, dagger, or something more unique. You may select Valyrian steel or metal of a fallen star as the material, imbuing it with the power and prestige of legendary arms like the greatsword Dawn of House Dayne. If you choose a bow, it may be crafted from materials like Dragonbone or the fabled Goldenheart wood of the Summer Islands. You’ll also receive a replenishing quiver of Valyrian steel or starmetal arrows, which vanish once they’ve served their purpose and are out of sight, ensuring they can’t be used by anyone but you.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "03ec78b1-f545-5124-aea5-13105318fb93": {
+    "id": "03ec78b1-f545-5124-aea5-13105318fb93",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Of Oaths and Vows",
+    "cost": 100,
+    "description": "In a world where oaths hold ironclad weight, you somehow stand exempt. Oaths, vows, and the bonds that demand loyalty and sacrifice simply don’t cling to you in the same way as they do for others. The life-long service of the Night’s Watch becomes voluntary, the Kingsguard’s oath of celibacy becomes a mere formality, and the restrictions of the Silent Sisters are waived as needed—all without consequence or any resentment from others. People around you naturally accept that you can step outside the bounds of duty, understanding, if not entirely rationalizing, that the typical rules simply don’t apply.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "d5c913d1-f955-5a4c-8f0e-9bd87b28dabe": {
+    "id": "d5c913d1-f955-5a4c-8f0e-9bd87b28dabe",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Poisonous",
+    "cost": 200,
+    "description": "The weaponry you use can be instantly coated in deadly poisons. This is done by pouring the catalysts onto the blade. The effect will stay on the blade for twenty-four hours before fading. These poisons don’t harm you and you can switch them out for a cure without any ingredients.",
+    "source": "Hedge Knight"
+  },
+  "357febe8-a1ec-5de8-b3db-a2a89d7c1d27": {
+    "id": "357febe8-a1ec-5de8-b3db-a2a89d7c1d27",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Qyburn's Scorpion",
+    "cost": 300,
+    "description": "Repeating scorpion, range of several miles, hits what it’s aimed at in a straight line. You will not need to adjust for either distance, curvature of the earth, or weather.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "41cbed66-fb5f-5d34-a1d5-3ffc4b555143": {
+    "id": "41cbed66-fb5f-5d34-a1d5-3ffc4b555143",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Squire",
+    "cost": 200,
+    "description": "A nine-year-old child has begged and pleaded to become your squire. Possibly a bastard noble orphan as seen in their reading skills, it is difficult to figure out what house they come from due to the broad brim hat that keeps their face in shadow and their shaved head. In time they will grow up and under your tutelage become a powerful fighter, basing their honour on you.",
+    "source": "Hedge Knight"
+  },
+  "7746b504-e847-5f0f-ae56-63a8e3a8bf8b": {
+    "id": "7746b504-e847-5f0f-ae56-63a8e3a8bf8b",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Starforged Sword",
+    "cost": 200,
+    "description": "A sword made out of the remnants of a fallen star. Milky white and intensely shiny. Around as sharp and light as Valyrian Steel. Gives a strong impression of chivalry and honour. You may also import any melee weapon you own to take on the appearance and strengths of the sword.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "ee98b9ba-b4b7-51d1-a2e3-20685fc09a55": {
+    "id": "ee98b9ba-b4b7-51d1-a2e3-20685fc09a55",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Storied Hero",
+    "cost": 600,
+    "description": "You are the epitome of knighthood, an unparalleled force on the battlefield and the paragon of the Kingsguard. You could match the swordsmanship of Ser Arthur Dayne, the leadership of Ser Duncan the Tall, the bravery of Ser Barristan the Bold, the beauty of Ser Jaime Lannister, and the nobility of Prince Aemon the Dragonknight. You easily stand as the greatest knight to ever live in every facet of the ideal. Your presence alone can sway the tide of battles, lifting allies’ spirits and striking despair into foes. Your skill with a blade is such that people would call you the Warrior reborn, allowing you to win a bout when outnumbered and surrounded on all sides. Your poise, gallantry, and skill set you apart, making you a living legend, an example for all the world to follow.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "dd35c14d-8c80-5f42-b4e3-a6cfa025f77b": {
+    "id": "dd35c14d-8c80-5f42-b4e3-a6cfa025f77b",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Stormy Berserker",
+    "cost": 200,
+    "description": "During a fight you can choose to enter a heightened state of reaction where your sense of pain lowers and you seem to have more energy. Once the adrenaline fades your injuries will catch up with you and you will have twenty four hours to get medical attention.",
+    "source": "Hedge Knight"
+  },
+  "af0fb746-ca47-5b23-b767-c21c2e73bcdc": {
+    "id": "af0fb746-ca47-5b23-b767-c21c2e73bcdc",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Sword of the Morning",
+    "cost": 500,
+    "description": "You are one of the greatest warriors to grace the face of Planetos in a generation. Your mind and body are in perfect sync with combat. You could easily analyse a battlefield to create an imaginary version of it in your Mind’s Eye to easily predict the movements of your opponent until they stop being a threat... or if they play dead. You could fight 10 men, perhaps even 20 by yourself, and come out without a scratch. Against truly skilled opponents on the level of Ned Stark in his prime, this number goes down to 4-7. This is quite straining to a baseline human, but it is possible to expand the limits of your predictions with training, unnatural modifications or perks from another Jump. You also gain a substantial increase in skill to dual wield your preferred weapon with the same level of mastery that you wield one.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "b3f11e77-01e8-5c37-80c3-cc5afadd75a7": {
+    "id": "b3f11e77-01e8-5c37-80c3-cc5afadd75a7",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Sworn Shield",
+    "cost": 100,
+    "description": "You have a Sworn Shield, a true paragon of loyalty, discipline, and martial prowess, rivaling the most legendary warriors of Westeros.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "764a0777-ddce-5cfe-9d72-9c4dc4700a49": {
+    "id": "764a0777-ddce-5cfe-9d72-9c4dc4700a49",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "The Battlefield",
+    "cost": 100,
+    "description": "Due to it being the crossroads of Westeros, it is very common for the different kingdoms to have their battles in the Riverlands. Now it is easier for you to figure out where battles will take place and even figure out how to use the surroundings against enemies. Environmental kills will be much easier.",
+    "source": "Hedge Knight"
+  },
+  "1bc414c0-61fc-53ad-953a-493bbc3f457e": {
+    "id": "1bc414c0-61fc-53ad-953a-493bbc3f457e",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "The Knight",
+    "cost": 100,
+    "description": "You are now accompanied by the knight, an archetypical hero, even in this era before knights allegedly existed. They are the perfect embodiment of chivalry, willing to help those in need, and fight any evil or injustice. They can also tell good jokes, as all men are fools, and all men are knights, so far as women are concerned.",
+    "source": "A Song of Ice and Fire: The Epoch of Legends"
+  },
+  "1565c301-6318-53d6-8ab9-bf07466dbf10": {
+    "id": "1565c301-6318-53d6-8ab9-bf07466dbf10",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Through All the Seven Hells",
+    "cost": 200,
+    "description": "You embody an ideal of heroism that can stir even the most hardened of hearts. In you, people see the possibility of a brighter future and recognize the dreams told in the stories of great heroes long past. Those around you become far more likely to hold to their oaths, fight bravely, and resist the temptations of dishonor. In your presence, even those who have lost everything can finally have hope for the days to come and feel motivated to fight for that hope. You believe the dream that you inspire, and that belief lends you a unique resilience: as long as you keep fighting, you are always able to hold onto hope, always finding some chance at victory, no matter how grim the odds.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "34971ce4-c522-5932-bde8-754981f90d18": {
+    "id": "34971ce4-c522-5932-bde8-754981f90d18",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Unsullied Grit",
+    "cost": 300,
+    "description": "You have unbreakable will, easily equal to that of the Unsullied Legions from Astapor, able to stand through extreme pain and hardship. You are also capable of completely controlling yourself, no longer falling into a bloodthirsty rage in the case of a battle, only to then commit atrocities.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "deb3488d-85d5-52dc-9fc8-88859bb838d1": {
+    "id": "deb3488d-85d5-52dc-9fc8-88859bb838d1",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Warrior’s Son",
+    "cost": 200,
+    "description": "A mystery knight wearing a rainbow cloak, possibly a remnant from the Faith Militant. Either way they are an unofficial holy man and follow the Faith of the Seven in a way that does not go against you; figuring out an interpretation that fits the idea of many worlds. They seem to channel their faith which increases their damage and defense against magical enemies.",
+    "source": "Hedge Knight"
+  },
+  "b1af6c60-fb56-579d-b7a9-ee64e80a41a5": {
+    "id": "b1af6c60-fb56-579d-b7a9-ee64e80a41a5",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "Weapons and Armour",
+    "cost": 100,
+    "description": "Weapons and armour suitable for your station, profession and location. If you are a Stormslander knight, then you get heavy plate armour and your specialty weapon. If you are a diplomat from Dorne, you probably have leather armour and a poisoned dagger. This gear respawns in the warehouse a day after if lost or destroyed. This gear is generally about average for what your social position would expect.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "6dfaebf3-50fb-5488-8898-19913c20beb0": {
+    "id": "6dfaebf3-50fb-5488-8898-19913c20beb0",
+    "category": "song_v2",
+    "chapter": "The Knight",
+    "name": "What Do We Say to the God of Death?",
+    "cost": 400,
+    "description": "Your years as a warrior and protector have given you a heightened awareness of threats, even those directed at others in your charge. You experience a sixth sense regarding impending danger, feeling subtle warnings when an ambush or betrayal is imminent. This extends to any threat against yourself, your allies, or those you are sworn to protect, whether in the heat of battle, the backrooms of court or poison in a chalice. You are also attuned to conspiracies, possessing an instinctive awareness of plots aimed at harming you or those close to you.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "3f543526-f554-5aa2-a5c0-3bb0bafed095": {
+    "id": "3f543526-f554-5aa2-a5c0-3bb0bafed095",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "A Suitable Network",
+    "cost": 600,
+    "description": "This perk grants you a reliable and influential support network tailored to your role and needs. These individuals—whether advisors, warriors, administrators, or informants—are among the best in their fields and are completely loyal to you. The individuals within your network are invaluable assets who understand your goals and work tirelessly to see them fulfilled. Should any member of your network perish in the line of duty, they will reappear within a week after all conflicts or dangerous situations have concluded, restored exactly as they were. However, be advised that “conflict” extends beyond open warfare to intense political or strategic confrontations where their expertise is critical.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "45b1c7c6-56b2-5e95-bbec-3b130aebd99d": {
+    "id": "45b1c7c6-56b2-5e95-bbec-3b130aebd99d",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Ah, That’s a Pity",
+    "cost": 400,
+    "description": "You have an unparalleled knack for revealing truths. Through subtle observations and skillfully crafted questions, you can draw out secrets and detect lies without raising a hint of suspicion. Even the most guarded individuals find themselves unwittingly revealing hidden details in your presence. You can easily cut through layers of deception, discerning the true meaning behind people's words and intentions.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "332ee689-53fd-5eaf-a3ba-97e8842e08c8": {
+    "id": "332ee689-53fd-5eaf-a3ba-97e8842e08c8",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "An Opportunity for an Ally",
+    "cost": 200,
+    "description": "Ser Criston Cole was prepared to end his life before Alicent gave him purpose. Afterwards, he became her most fervent supporter. Larys Strong was on the sidelines, overlooked and unutilized before Alicent struck up an unusual quid pro quo for his services as a spymaster. You have a similar ability to find potential allies among the broken, discarded, and ignored members of society. They may not be nice people, but the most loyal dogs are the ones you rescue from the street.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "3229f5ea-cd91-5b66-801f-f8f113b88cdd": {
+    "id": "3229f5ea-cd91-5b66-801f-f8f113b88cdd",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Assistant",
+    "cost": 100,
+    "description": "You have an assistant which excels at absolutely everything you assign them with a level of focus and proficiency that puts others to shame. Be it managing logistics, devising strategies, overseeing finances, or organizing complex political maneuvers, they are masters at what they do. They are versatile, adaptable, and proactive, and utterly competent and capable of turning even your most ambitious plans into reality.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "f92413ab-27ed-56dd-bf0b-85d120a48a35": {
+    "id": "f92413ab-27ed-56dd-bf0b-85d120a48a35",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Castamere’s Mines",
+    "cost": 400,
+    "description": "In your possession is a source of immense wealth—perhaps a series of rich mines rivaling the famed Lannister gold or vast vineyards and wineries on the scale of the Redwynes. Whatever form it takes, this enterprise is a vast operation, run by a skilled workforce and knowledgeable experts who ensure smooth, profitable production. The income is staggering, enough to raise even a destitute family to prominence, and, with this alone, you could rival the wealthiest houses in Westeros.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "65fe9c6b-d5d8-5a79-8954-2b3e7eeb691d": {
+    "id": "65fe9c6b-d5d8-5a79-8954-2b3e7eeb691d",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Dornish Prince",
+    "cost": 600,
+    "description": "You are viewed as too important to be challenged or taken down. This could be due to your status, influence, or strategic importance, those around you dare not risk slighting, ignoring, or harming you. This “diplomatic immunity” is not bound to a specific title, but rather to the perception that your removal or insult would be too costly or damaging for those in power to consider.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "c8bae273-da00-5833-aa5d-2e6fc2f136d8": {
+    "id": "c8bae273-da00-5833-aa5d-2e6fc2f136d8",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Eye For Talent",
+    "cost": 400,
+    "description": "Finding talent in a realm as large as Westeros is no easy feat—yet you have an unparalleled gift for locating the best and convincing them to join your cause. Whether they are renowned warriors, brilliant scholars, or masterful spies, people of great skill are naturally drawn to you. Convincing them to leave their prior loyalties behind is rarely a challenge, and those you recruit feel a deep sense of purpose and trust in your leadership.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "ed235621-7525-503f-a2e6-0b4d9b1cf316": {
+    "id": "ed235621-7525-503f-a2e6-0b4d9b1cf316",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "First Choice",
+    "cost": 100,
+    "description": "When someone is considering who to appoint for a position you desire, you will be the first name that comes to mind. Whilst this won’t stop them from choosing someone grossly more qualified and experienced, it will give you an edge if it’s a choice between you, and someone of a similar or slightly greater competence.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "a5630b87-3c45-57c1-9669-525a6e66f9a3": {
+    "id": "a5630b87-3c45-57c1-9669-525a6e66f9a3",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "George Loves His Food",
+    "cost": 100,
+    "description": "Why settle for gruel and moldy bread when you can dine like a king? This item ensures you receive three exquisite meals a day, perfectly suited to your tastes. From succulent roasts to delicate pastries, every dish is a culinary masterpiece. Even better, no one will find it odd if your meals differ from theirs, ensuring you avoid awkward questions while savoring your private feast. Never go hungry, and never compromise on flavor.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "ee11344f-e283-58c6-bca3-345ae890c9a1": {
+    "id": "ee11344f-e283-58c6-bca3-345ae890c9a1",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Great Fortification",
+    "cost": 500,
+    "description": "You have a full Westerosi castle. This is a fortification comparable to Winterfell itself, being capable of holding several thousand people, enchanted with to be immune to offensive magics, and to keep out a single sentient species which is defined at the start of each jump.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "fb45beea-fe9f-5cba-bc32-8db6357459e3": {
+    "id": "fb45beea-fe9f-5cba-bc32-8db6357459e3",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Hand of the King",
+    "cost": 300,
+    "description": "This object when worn grants the wearer the authority of the highest leader of their local area (or if they’re actually representing someone, them). By default, it takes the form of a golden pin held by a hand, but after this jump it can take whatever design you wish.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "b5553921-a53d-530d-96e8-d778cb586a5c": {
+    "id": "b5553921-a53d-530d-96e8-d778cb586a5c",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Honourable",
+    "cost": 100,
+    "description": "They may call it arrogance but when you stay out of conflicts neither side can pull you in without your consent. This allows you to conserve your power while they duke it out.",
+    "source": "Hedge Knight"
+  },
+  "47254466-bc18-5922-85d7-7b9720cdcc20": {
+    "id": "47254466-bc18-5922-85d7-7b9720cdcc20",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Labyrinthine Sense",
+    "cost": 300,
+    "description": "You have an innate understanding of hidden passages, secret exits, and concealed spaces, particularly within King’s Landing but extending to most other significant locations. Whether finding long-forgotten passages throughout the Red Keep or knowing exactly which false wall opens into a forgotten storeroom, you have perfect instincts for discovering and utilizing them. Every city and castle you pass through seems eager to reveal its secrets to you.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "78c13fd3-a70a-5280-a3c0-561e9e680922": {
+    "id": "78c13fd3-a70a-5280-a3c0-561e9e680922",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Lies and Arbor Gold",
+    "cost": 400,
+    "description": "A single bottle of the finest Arbor Gold, a vintage so rare and smooth that it’s guaranteed to impress even the most skeptical of drinkers. But its true power lies in its ability to grease the wheels of deception. Serve this wine to someone, and they will believe almost any lie you tell them during the course of their intoxication. However, the effects are not foolproof—evidence to the contrary will break the illusion, and once sobriety returns, the lie will be judged as any other. Use it to spin tales, seal deals, or save your life in a pinch.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "3624c886-c151-5fda-ab62-c1807a0b9c46": {
+    "id": "3624c886-c151-5fda-ab62-c1807a0b9c46",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Lord Confessor",
+    "cost": 200,
+    "description": "It is easy for you to ferret out secrets and lies from people at a disadvantage to you. You could listen to a conversation by lurking in the background almost out of sight and those in pain will be hard-pressed to lie to you.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "d6f599cb-0b19-5849-9683-ef729bc90359": {
+    "id": "d6f599cb-0b19-5849-9683-ef729bc90359",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "No Happy Accidents",
+    "cost": 100,
+    "description": "You hold full control over your own fertility, deciding precisely if and when you wish to conceive, without fear of accidental pregnancy. Additionally, you are entirely immune to diseases transmitted through intimacy, granting you peace of mind and security in even the closest liaisons. If you experience them, you may choose to never have a period again should you wish it to be so.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "d0e07d82-0ead-5d56-bd36-352631c71a86": {
+    "id": "d0e07d82-0ead-5d56-bd36-352631c71a86",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Old Blood",
+    "cost": 100,
+    "description": "Within your veins pumps the blood of one of the Great Houses of Westeros, such as Stark or Lannister. As befitting of your blood, people give you more attention than they normally would when you demand it and are far more likely to bend to your demands or orders than normal. This also gives you a bit of divine right to rule causing vassals to be far less likely to betray you, after all your family has ruled well for centuries.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "07950c3d-ec9a-5dbd-af4c-db8e29cee1f0": {
+    "id": "07950c3d-ec9a-5dbd-af4c-db8e29cee1f0",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "PR is a Strong-Suit",
+    "cost": 200,
+    "description": "You understand reputation like no other, able to enhance your standing or protect yourself from rumors with remarkable skill. When speaking about yourself or others, you can subtly manipulate public opinion to your advantage, making small incidents seem grand or turning scandals into mere misunderstandings. Whether seeking to bolster your influence or protect an ally’s name, your social influence allows you to sway reputations as easily as turning a page.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "fe5343e5-5d7d-5461-9195-321888b887a8": {
+    "id": "fe5343e5-5d7d-5461-9195-321888b887a8",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Private Manse",
+    "cost": 200,
+    "description": "Living in King’s Landing can be exhausting, especially if you’re confined to the Red Keep. This item grants you ownership of a luxurious estate in the city, complete with fine furnishings, loyal servants, and the privacy to escape the madness of court. Alternatively, you can choose to fully customize your quarters within the Red Keep, outfitting them to your specifications. Want plumbing? Secret compartments? A cozy library? It’s yours. This item will function wherever you are living, no matter how temporary.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "2c28c3ef-15aa-5d0d-874f-bf8ff5a269d6": {
+    "id": "2c28c3ef-15aa-5d0d-874f-bf8ff5a269d6",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Queen of Thorns",
+    "cost": 400,
+    "description": "In the treacherous world of Westerosi politics, your sharp tongue is both feared and respected. When you express a truth, be it blunt, through a veiled insult, or a rebuke, people will listen and recognize the validity in what you say. People may not like it, but they recognize your correctness when you’re truthful, even if the way you say it stings.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "db3da6d8-26bb-520e-a086-adb561ad6233": {
+    "id": "db3da6d8-26bb-520e-a086-adb561ad6233",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Signed in Blood",
+    "cost": 200,
+    "description": "This dark, beautifully crafted quill binds any contract signed with it to the full force of fate itself. Once someone signs their name, they are bound to their oath without question, though they remain unquestioning of the quill’s true nature. Anyone who uses the quill will be aware of the consequences of signing with it. Neither oaths nor terms can be violated by the signer without dire consequence.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "0ae0a53e-aa9e-56d2-ae2f-ad2e3e863f8d": {
+    "id": "0ae0a53e-aa9e-56d2-ae2f-ad2e3e863f8d",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Social Architect",
+    "cost": 100,
+    "description": "You possess an incredible gift for shaping and guiding the social structures around you. Be it restructuring a city’s governance, shaping cultural practices, or controlling the flow of information within a council or court, your talent can have consequences that reach far further than the group you began in. With careful planning, you can manipulate public opinion, create and split factions, and even mold traditions to benefit yourself.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "23bf0051-a61b-557d-b9bf-06943c067cfe": {
+    "id": "23bf0051-a61b-557d-b9bf-06943c067cfe",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Tell the King No",
+    "cost": 100,
+    "description": "Those above you in the political hierarchy, particularly the king, always heed your counsel, even in the face of vehement disagreement. They process your advice with a clarity that pierces through ego, stubbornness, or impulsive tendencies, rather than letting pride or emotion cloud their judgment. This sway allows you to temper extreme decisions and act as a steady hand that pulls the realm back from the brink.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "ad811c43-afbe-5d46-b856-cf0c7bf39391": {
+    "id": "ad811c43-afbe-5d46-b856-cf0c7bf39391",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "That Smell",
+    "cost": 0,
+    "description": "You are always impeccably clean and can choose exactly how you’d like to smell, no matter what you’ve been through. From your perspective, everything and everyone around you also smells perfectly pleasant—even if you’re wading through filth or haven’t seen a bath in weeks.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "3553f5e5-c25b-5b9d-8fce-79c771c155dc": {
+    "id": "3553f5e5-c25b-5b9d-8fce-79c771c155dc",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "The Game of Thrones",
+    "cost": 300,
+    "description": "It wouldn’t be much of a game without a throne to win. Now you have a throne of a style which matches your aesthetic and theme. If you’re a conqueror king, then perhaps you have an iron throne, whereas if you’re a humble king, you might have a simple wooden bench. Your throne emits an aura which conveys the kind of king you are. If you are a harsh, cruel king, then your throne might feel cold and stark like the seastone throne, whilst if you are a knightly king, then your throne might create a sense of chivalry and honour. Whilst you sit on your throne, any subjects you may have will be far more subservient, your lands will be more efficient, and none will doubt your kingship.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "a8c2ad30-fe5f-5087-bab0-36cceada3ea3": {
+    "id": "a8c2ad30-fe5f-5087-bab0-36cceada3ea3",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "The World a Tapestry",
+    "cost": 400,
+    "description": "Your mind for systems and bureaucracy stands above all others in history. You see systems, be they legal, social, or bureaucratic, more clearly than anyone else, understanding their inner workings, identifying vulnerabilities, and knowing how to exploit or improve them. When you look at a structure, you easily assess its efficiencies and efficacies, and how to best apply them to your benefit.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "cab41bff-849c-5f85-8c24-9516be2af509": {
+    "id": "cab41bff-849c-5f85-8c24-9516be2af509",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Title of Land",
+    "cost": 100,
+    "description": "A title of land equal to what someone of your station would expect. Regular warriors may have a small block for them and their family, a lord may have a castle, and the surrounding area, a lord paramount may have a massive castle, and an enormous area around as their personal domain, and a royal may have not just an enormous castle, but also an area near equal to the other kingdoms as their land.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "d4e8f8a9-df36-5317-ace3-036e67395aec": {
+    "id": "d4e8f8a9-df36-5317-ace3-036e67395aec",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Undying Allegiance",
+    "cost": 200,
+    "description": "Those who directly work for you are bound by a loyalty that defies all attempts at betrayal. Their dedication to you is unbreakable, immune to bribery, coercion, or even ideological persuasion. This allegiance is more than mere respect; it’s a deeply ingrained trust that keeps them from ever wavering or plotting against you. While this unwavering allegiance does not extend infinitely outward to every person in your network, it ensures your immediate agents and allies remain steadfast in your service.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "b4776a0d-90f3-5fbb-9c2b-1d96f347b557": {
+    "id": "b4776a0d-90f3-5fbb-9c2b-1d96f347b557",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Wardrobe",
+    "cost": 100,
+    "description": "You have access to a vast wardrobe in whatever style you desire, from Westerosi finery to the exotic garb of distant lands. Regardless of appearance, these clothes adapt to make you comfortable in any weather, remaining perpetually clean unless you prefer to blend in with a bit of grime.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "dc88cee9-1148-5a77-b7ea-927380fd2d1e": {
+    "id": "dc88cee9-1148-5a77-b7ea-927380fd2d1e",
+    "category": "song_v2",
+    "chapter": "The Lord",
+    "name": "Whisper the Right Words",
+    "cost": 200,
+    "description": "You have an almost supernatural knack for saying just the right thing at the right time to be selected for prestigious or influential tasks. Be it a quiet word in a lord’s ear, a rousing speech, or an earnest request, your words naturally present you as the ideal candidate for opportunities that lead to power, wealth, or influence. You are frequently offered chances others might dream of, as your instincts for advancement are sharp and reliable.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "d93d8b40-8b56-588b-b52d-810d4a9d8592": {
+    "id": "d93d8b40-8b56-588b-b52d-810d4a9d8592",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "A Coin in Little Fingers",
+    "cost": 400,
+    "description": "You have a way with money that most don’t gain in their lifetime, for you’re able to turn investments into entire enterprises and find money in industries no one else would and how to manage your economy with ease. For this extends to cover all avenues of trade such as seaborne and others and you’ll always be the first to find out about new and more importantly wealth inducing trends. In the right position, you can sink an entire empire into dangerous levels of debt. You can easily do the opposite as well, and make the kingdom flourish, creating trade opportunities that wouldn't have existed without your expertise.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "8f6a0c28-f483-5975-81b6-a7a79d3458f5": {
+    "id": "8f6a0c28-f483-5975-81b6-a7a79d3458f5",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "All the Proper Paperwork",
+    "cost": 200,
+    "description": "Even in Westeros, the tedium of bureaucracy can be a barrier to progress. Building up an estate in King’s Landing, acquiring lands, or gaining the approval of other nobles typically requires endless time, effort, and stacks of paperwork. This item provides a self-replenishing stack of completed, lawful paperwork tailored precisely to your needs. These documents are accepted without issue, allowing you to bypass red tape effortlessly and complete your tasks without delay.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "15358881-054d-56a9-a60d-c3c8bfd98994": {
+    "id": "15358881-054d-56a9-a60d-c3c8bfd98994",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Blackmail",
+    "cost": 100,
+    "description": "You possess a trove of dirty secrets from across the realm. While you may lack leverage on fellow councilors or the royal family (for now), most others aren’t as fortunate. This cache holds enough damaging information to keep many people in line—or ruin them, should you choose.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "632d2f20-824d-578f-93e7-4602e7d8ca30": {
+    "id": "632d2f20-824d-578f-93e7-4602e7d8ca30",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Brothels",
+    "cost": 400,
+    "description": "You own a shop chain of some kind which caters to some form of vice. By default, this is a brothel, but whatever it is, the business provides you with a stable source of income in the range of 500 to 700 gold dragons a year. The main benefit of this item is the blackmail it provides however, as whatever the type, your chain attracts the patronage of the rich and powerful. Thanks to this, you will regularly discover blackmail on various high profile individuals, as well as evidence to corroborate this. Sadly however, you cannot control who you gain blackmail on, so if you’re aiming to extort a particular person, you’re shit out of luck. You can freely import businesses to gain this effect if you wish.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "4df1a192-c71a-5b00-8f1f-4f96dd66e24b": {
+    "id": "4df1a192-c71a-5b00-8f1f-4f96dd66e24b",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Crone",
+    "cost": 200,
+    "description": "You have the Crone’s own wisdom now, and with it a gift for the scholarly pursuits that would shame any Maesters who try to compete with you. From numbers to languages, there is little written in a book you cannot master in short order, your mind working like greased lightning and your comprehension of such things matching great wizened elders five times your age. You have true wisdom now too, not just the ability to memorize things. As soon as you read something you understand it, on as deep and inherent a level as possible, and can use it to the absolute fullest extent possible in all the practical ways it is possible for such a thing to be used.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "26951515-05b7-57ac-b90d-a396224f5a3c": {
+    "id": "26951515-05b7-57ac-b90d-a396224f5a3c",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Eyes of Gold(en Dragons)",
+    "cost": 400,
+    "description": "Your eyes were practically made for making money. With barely a glance, you can discern the true value and quality of practically anything. You can instantly see the differences between the blade of an apprentice blacksmith and the masterwork of a journeyman, and what makes it of more value and higher quality. You even intuitively grasp the value of abstract assets like secrets or knowledge. Finally and arguably most importantly, you know exactly who will pay the most for these things.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "cdb68fb7-64d7-5c15-a4e2-daa6d1bd39ed": {
+    "id": "cdb68fb7-64d7-5c15-a4e2-daa6d1bd39ed",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Gilded Sovereign",
+    "cost": 600,
+    "description": "You have an unparalleled instinct for creating and growing wealth. From humble beginnings, you can build thriving cities, initiate booming trade networks, and enrich entire regions. Within a few years, a small port could become a thriving economic center. In time, your work could rival the prosperity of Braavos or Qarth. You seem to turn financial investments into empires, making you an economic visionary capable of completely reshaping the Westerosi financial landscape.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "3f8fbfd4-f49e-5502-a9b3-237a90dbfcf2": {
+    "id": "3f8fbfd4-f49e-5502-a9b3-237a90dbfcf2",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Great Manse",
+    "cost": 100,
+    "description": "As a diplomat, you generally represent some powerful faction. As such, you have been provided with a great manse to show off your (and your faction’s) status. This lodging is almost decadently luxurious, coming with fine furnishings and an array of servants to look after it.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "c7d07e9d-11a8-5333-b012-1be5f1361c6c": {
+    "id": "c7d07e9d-11a8-5333-b012-1be5f1361c6c",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Green Hand",
+    "cost": 200,
+    "description": "You have an incredible knowledge of flora life with an agricultural understanding that would be helpful in farming and foraging. If Winter comes you could grow crops during the harsh seasons. For you, it is easy to find edible plants, just as easy to find poisonous ones and you won’t mistake them for each other.",
+    "source": "Hedge Knight"
+  },
+  "881a2650-2b6e-5d15-b196-24aa75c3b47f": {
+    "id": "881a2650-2b6e-5d15-b196-24aa75c3b47f",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Illuminator",
+    "cost": 200,
+    "description": "A natural teacher and storyteller, you have an extraordinary talent for explaining complex ideas in ways that captivate and educate. Texts you write are remembered as masterworks, shaping society’s philosophies and traditions long after you’re gone. Your influence can establish entire schools of thought, religious doctrines, or cultural norms, leaving a legacy that persists across generations. The best teachers, of course, are also the best learners; you have an uncanny ability to absorb new knowledge quickly, able to master skills and concepts at remarkable speed.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "6f398904-e877-5cf2-871b-b44fa1cdc833": {
+    "id": "6f398904-e877-5cf2-871b-b44fa1cdc833",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Informed Intellectual",
+    "cost": 100,
+    "description": "Your knowledge extends to the very limits of maesterly duties, encompassing history, philosophy, medicine, science, and ravenry, with insights that stretch as far as Yi-Ti. Any knowledge a maester would have to know, you possess in spades, making you a scholarly titan of the world. Furthermore, your credibility grows to match your expertise; no one, not even the skeptical or mistrustful, will question your words. You are an authority beyond reproach.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "e7a7a962-2382-5d85-9454-77b777317796": {
+    "id": "e7a7a962-2382-5d85-9454-77b777317796",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Instructor",
+    "cost": 200,
+    "description": "Few places indeed have the art of instruction honed so well as Slaver’s Bay, but even amongst their number your talent is unparalleled - if someone has the potential to learn something, you can teach it to them far faster and far better than any other, and they’ll retain it far past where those taught by another would grow rusty. You needn’t use this for the kind of purpose the locals would put it to, either; there’s no skill you can’t teach save the ones you don’t know. And of course, a good teacher must know their subject - you learn just as fast as you can teach, and retain it even better still.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "a26da930-3ff2-509b-85d6-d0ed6d25a7ae": {
+    "id": "a26da930-3ff2-509b-85d6-d0ed6d25a7ae",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Iron Allowance",
+    "cost": 100,
+    "description": "If you do any job you will be paid a basic wage by this drawstring pouch without any middle organisations. You can also access your money through this and it can’t be stolen.",
+    "source": "Hedge Knight"
+  },
+  "722a6024-3b16-58d6-a65f-e25196ce2b11": {
+    "id": "722a6024-3b16-58d6-a65f-e25196ce2b11",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Maester of the Citadel",
+    "cost": 300,
+    "description": "Whether you are a Maester, or simply have the accreditation, you have studied enough to have forged a full chain, and are the equal of any Maester of the Citadel in academic knowledge. This knowledge stretches from healing to scholarly knowledge, science and the training of ravenry, who carry messages in the Seven Kingdoms.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "0a5dbed5-f064-5451-b1a1-c00f08ff4184": {
+    "id": "0a5dbed5-f064-5451-b1a1-c00f08ff4184",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Memory of Ages",
+    "cost": 100,
+    "description": "Normally people forget things over time. Without prompting or need to remember a thing, we humans tend to forget what we’ve done, read, or been taught. Not you though, you’ll pass through death, rebirth, and all the years of childhood only to perfectly remember anything you need to know that you can ever claim to have known.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "6abbb56c-d0fb-55fa-baa1-dd04364f1750": {
+    "id": "6abbb56c-d0fb-55fa-baa1-dd04364f1750",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Mender of Bones",
+    "cost": 400,
+    "description": "Your medical expertise is nothing short of miraculous. You possess knowledge of anatomy, treatments, and healing techniques well beyond a maester’s usual training, including remedies for rare diseases and subtle methods for disguising poisons as illnesses. With the right herbs and techniques, you can heal with the power of the Mother behind you, or inflict harm with the subtlety of a whisper. In your hands, medicine becomes both a balm of life and an art of the Stranger.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "7ffb4b21-59bc-519f-847c-a2eecb80023a": {
+    "id": "7ffb4b21-59bc-519f-847c-a2eecb80023a",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Merchant Prince",
+    "cost": 200,
+    "description": "From a couple of halfpennies to a couple of thousand gold dragons, it takes work, skill, wit, learning, and good luck to make a fortune. Luckily for you, when it comes to matters of finance and economics, you’ve got all of that. You could create the Westerosi equivalent of Venice from a small trading town in a decade, and rival Braavos in another.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "febc8137-8f3b-5108-a021-01c69798391d": {
+    "id": "febc8137-8f3b-5108-a021-01c69798391d",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Mountain of Gold",
+    "cost": 500,
+    "description": "Much like the Lannisters of Casterly Rock, you now own a truly impressive gold mine. This gold mine could be mined for centuries - millennia perhaps without running dry. In addition, you own a mint which will print valid money for you from now on. Please be aware that this does not come with inflation protection, so you could truly wreck the economy if you spend too much.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "7eee4c6e-fe2d-57b5-a9d9-0bd7b82e9092": {
+    "id": "7eee4c6e-fe2d-57b5-a9d9-0bd7b82e9092",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Paying Debts",
+    "cost": 200,
+    "description": "The Lannisters are the richest house in Westeros and even if you don’t have their fortune you have the ability to always get paid. You understand economics and can even get different payment types that are of equal equivalence. Winning a battle for a lord could allow you to be promoted as an example.",
+    "source": "Hedge Knight"
+  },
+  "6cdda79b-f3fb-5b10-837b-95c6b9cf763d": {
+    "id": "6cdda79b-f3fb-5b10-837b-95c6b9cf763d",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Poisons and Toxins",
+    "cost": 100,
+    "description": "You’ve mastered the dark art of poison-making. From the subtle and deadly Tears of Lys to the instantly lethal Strangler, no toxin is beyond your skill. You can even craft new and insidious poisons with effects tailored to your needs—toxins that delay their activation for weeks or only target members of a specific family.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "91be3f9d-5547-5f1d-afbe-06ad45b275b9": {
+    "id": "91be3f9d-5547-5f1d-afbe-06ad45b275b9",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Pouch of Gold",
+    "cost": 25,
+    "description": "A pouch of golden coins. Around 100 Golden Dragons worth. May be taken multiple times.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "403a508c-4902-5193-811f-56d6a4ae45cb": {
+    "id": "403a508c-4902-5193-811f-56d6a4ae45cb",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Price to Everything",
+    "cost": 200,
+    "description": "You understand that everyone and everything has a price. In negotiations, you cut through emotions and morals, restricting the other party’s options to their knowledge, resources, and needs. You can convince anyone to agree to even extreme proposals if you can effectively sell the idea to them. This can come in the form of convincing a noble family to part with their treasured Valyrian steel sword or through purchasing an invaluable stretch of land one really shouldn’t give up. Even when deals border on the unethical or illegal, others will not judge you or the target unless they’re aware of the risks involved. After the deal, no hard feelings linger, preserving your reputation.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "7cfa73b6-1ba6-56e8-a184-f8200eec0258": {
+    "id": "7cfa73b6-1ba6-56e8-a184-f8200eec0258",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Puppeteer’s Purse",
+    "cost": 200,
+    "description": "Money talks, and with it you orchestrate rivalries, disrupt alliances, and play your enemies against each other. Through carefully timed loans, gifts, or bribes, you can subtly fuel grudges, incite tensions, and drive wedges between rivals. Even allies of your enemies will hesitate to turn against you directly, focusing instead on whoever you’ve positioned as a greater threat. With this perk, you can ensure that those who seek to undermine you are too busy with each other to target you effectively.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "4d886530-b4cb-5e74-9055-b5659eee078c": {
+    "id": "4d886530-b4cb-5e74-9055-b5659eee078c",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Safehouse",
+    "cost": 300,
+    "description": "Sometimes, a man of wealth has to simply drop off the radar for a little while. Now you can do so in style. This lavishly appointed town house in a foreign city comes with servants and a fiat backed guarantee that as long as you actively are trying to hide, that your enemies will not find you. This can also be used as a handy way to hide people - such as your crush’s daughter who you’re trying to turn into your sex slave - where they will never be found. Sadly, it does not come with anything stopping anyone from escaping.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "6f3babda-43cb-5cc4-ad3e-0a1b88529118": {
+    "id": "6f3babda-43cb-5cc4-ad3e-0a1b88529118",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Tongues of Many Lands",
+    "cost": 100,
+    "description": "You have a masterful and supernatural grasp on linguistics, able to learn, understand, and fluently speak any language or dialect you come across within days of encountering it. This perk also grants you a mild cultural understanding of the many places you go.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "1c18c93f-7122-518c-ab20-5c36d592a540": {
+    "id": "1c18c93f-7122-518c-ab20-5c36d592a540",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Treasure Maps",
+    "cost": 400,
+    "description": "A grand tome filled with maps and clues leading to legendary lost artifacts scattered across the world of Planetos. From the missing Lannister sword, Brightroar, to the mythic Dragonbinder, the book reveals the rumored locations and last sightings of each fabled treasure. While none of these relics will be easy to claim, every one will be possible for you to accomplish.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "d9a12c4b-57b1-52c9-a1e5-f1311fbb5cd1": {
+    "id": "d9a12c4b-57b1-52c9-a1e5-f1311fbb5cd1",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Treasury Pouch",
+    "cost": 200,
+    "description": "All of your monetary possessions are hidden in separate locations so your enemies can’t find them, while you can easily access them from this era-appropriate wallet. You can throw any money in the bag to hide it and nobody but you and your chosen companions can open it.",
+    "source": "House of the Dragon Jumpchain"
+  },
+  "f2e79d86-26fd-5243-a8b8-2804abc88659": {
+    "id": "f2e79d86-26fd-5243-a8b8-2804abc88659",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Tribute",
+    "cost": 400,
+    "description": "When the barbarians are battering at the gate, sometimes you need a little something to pay them off. This provides you with that. This item provides a non-specific array of precious goods and items which, when given to another, generate far more good will than they should. It also enforces a geass which ensures that any deals sealed by the trading of these items will be kept. Examples of what could be provided by the Tribute include gold, jewels, food, livestock, slaves, horses, good quality weapons, and other precious goods. The contents of the tribute changes to be whatever the second party would consider to be a good tribute. The item refills once per jump.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "02134789-5c0b-5715-8ed6-fc2df32721ac": {
+    "id": "02134789-5c0b-5715-8ed6-fc2df32721ac",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Vault of Memories",
+    "cost": 200,
+    "description": "Your mind is a perfect repository, retaining everything you’ve ever learned, read, or experienced with photographic clarity. You can recall any minute detail on command. If you choose, can forget or compartmentalize memories, allowing you to selectively block out knowledge whenever you desire.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "3449e6c4-25b2-5a2f-9028-95bf4e57e280": {
+    "id": "3449e6c4-25b2-5a2f-9028-95bf4e57e280",
+    "category": "song_v2",
+    "chapter": "The Maester & Merchant",
+    "name": "Wandering Maester",
+    "cost": 200,
+    "description": "While the learned men of the Citadel normally reside in castles some roam the smaller villages of Westeros. They have finished their links in healing, history, ravenry, warcraft, accounting and higher mysteries but are willing to learn more.",
+    "source": "Hedge Knight"
+  },
+  "af96b8fa-32bc-58c4-8e38-8007685038de": {
+    "id": "af96b8fa-32bc-58c4-8e38-8007685038de",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Bard",
+    "cost": 200,
+    "description": "With an enchanting voice and the ability to easily remember lyrics you could have a second job as a bard. What separates you from the rest though is being able to quickly make a new song based on recent events or fake ones you want to perpetrate.",
+    "source": "Hedge Knight"
+  },
+  "5c7918c8-574a-5030-a232-563306d2c504": {
+    "id": "5c7918c8-574a-5030-a232-563306d2c504",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Basic Supplies",
+    "cost": 100,
+    "description": "(100): You have the necessary items to survive on the edges of society. This includes things like a tent and simple rations.",
+    "source": "Hedge Knight"
+  },
+  "b4d7456d-ecac-5724-a5c7-8bd8e1cc5dc7": {
+    "id": "b4d7456d-ecac-5724-a5c7-8bd8e1cc5dc7",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Black Cloak",
+    "cost": 300,
+    "description": "When worn, this item, not necessarily a cloak, grants you easy and instant admission into any organisation, no matter what requirements may normally be in place. To be clear, this item allows admission to ANY organisation including things like a rebellion as the person they’re rebelling against, the Maesters as a woman, the Seven Kingdoms as a wildling or other such ordinarily impossible to join groups. If you perform any actions against that organisation whilst a part of them (for example, sabotaging the rebellion you joined), then the protection of this item is revoked, and they’ll treat you like they would any other betrayer.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "e222bd37-446d-5460-ae46-f00f64dcd5a0": {
+    "id": "e222bd37-446d-5460-ae46-f00f64dcd5a0",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Dirty Fighter",
+    "cost": 200,
+    "description": "You have picked up a lot of tricks in tavern brawls and are very capable at fighting cleverly (dirty). This will give you a significant edge against more honourable opponents.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "2adf1306-05a3-5924-ba0f-6185a130ce9e": {
+    "id": "2adf1306-05a3-5924-ba0f-6185a130ce9e",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Frey Pies",
+    "cost": 100,
+    "description": "You are a world class chef capable of making any material taste delicious, and masking any flavour. Literally any flavour.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "a04a060d-09df-502d-a12d-b54668923985": {
+    "id": "a04a060d-09df-502d-a12d-b54668923985",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Guest Right",
+    "cost": 100,
+    "description": "Guest right is a practice that has and will continue to be one of the most sacred oaths and obligations any man owes to another, of safety under the roof of the man offering it. A guest is expected to respect their host, and the host is to see to the safety of their guest and do them no harm while they are under their roof. But sadly even the greatest of customs can be broken, and for one such as yourself, of the North where old customs run strong, it is a worrying thought. However, you will never have to worry about such a thing. So long as you respect your responsibilities as a guest or host, no harm shall be done to you, and no harm shall come to your guests while they are under your protection. This goes for oaths such as those of service as well. When men swear to serve you, they will, and will not even attempt to plot treachery against you. However, if you should stray from your own obligations, you will lose the protection of this perk.",
+    "source": "The Seven Kingdoms"
+  },
+  "2f05912b-171c-553d-9bdf-32c6b44f1e70": {
+    "id": "2f05912b-171c-553d-9bdf-32c6b44f1e70",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Guest Rites",
+    "cost": 100,
+    "description": "By taking this perk, those with whom you make promises or agreements in good faith are far more likely to hold to them. This is strongest in promises not to attack you, but even then, sufficiently motivated or honorless individuals may break them. To break agreements made with you would generally require someone to hate you with all their being, be single mindedly devoted to whatever cause motivates them, or in some other way find breaking the oath to be the lesser problem",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "b0448b27-ae73-5aec-a1b8-d0933bc50930": {
+    "id": "b0448b27-ae73-5aec-a1b8-d0933bc50930",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Horn of Joruman",
+    "cost": 500,
+    "description": "A large, ornate and legendary hunting horn capable of massive destruction to even the largest of structures. Can only be used on a weekly basis but can bring practically any building (or Wall) tumbling down when blown.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "d2b5c1d9-907e-5695-9e38-c6ff0ec12dda": {
+    "id": "d2b5c1d9-907e-5695-9e38-c6ff0ec12dda",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Iron Price",
+    "cost": 200,
+    "description": "When you kill an enemy you can take some of their possessions without any backlash if the killing is legal. Doing this will also increase the chance of more valuables being looted then they should normally have. This only works when the action leads you to taking the items.",
+    "source": "Hedge Knight"
+  },
+  "4efe1a0d-df57-5a4b-b7a0-eac49a1059a1": {
+    "id": "4efe1a0d-df57-5a4b-b7a0-eac49a1059a1",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Layered",
+    "cost": 100,
+    "description": "The North is quite a frigid place even in summer, most will armour themselves in layers of leather. You on the other hand always have a perfect internal temperature no matter the clothes you are wearing if the weather is natural. The more unnatural the weather is the more likely you will need to wear appropriate clothing.",
+    "source": "Hedge Knight"
+  },
+  "588f4b24-605c-5d6b-8350-13bf6c1d94af": {
+    "id": "588f4b24-605c-5d6b-8350-13bf6c1d94af",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Little(finger) Lies",
+    "cost": 200,
+    "description": "You are one of the best liars and actors on the planet, easily deceiving virtually anyone as to your true intentions and feelings, and seamlessly mixing lies and truth to direct conversations exactly where you want them to go. You could get a man to trust you by explaining exactly why he shouldn’t trust you, and yet still have him be taken completely off guard by your sudden yet inevitable betrayal.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "47719a17-87af-56c4-9521-0e5736f7395c": {
+    "id": "47719a17-87af-56c4-9521-0e5736f7395c",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Making the Eight",
+    "cost": 200,
+    "description": "Is a rather popular claim among the less... ‘proper’ lordlings of this world. And you’re one who might have a very real chance, even without bringing in the matter of your social status or wealth. You have a charm, an absolutely captivating charisma, that makes anyone you’re interested in putty in your hands. You know when to smile, when to laugh, what stories to tell to amuse and entice them... and how to satisfy, tire, or utterly break them in bed. Even when it comes to multiple partners at the same time, you have a gift for managing them and making them get along, not to mention, at times, having them develop similar attractions among themselves... regardless of how little sense it makes.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "8566bf0e-90c0-5f6e-988e-19c44ed78122": {
+    "id": "8566bf0e-90c0-5f6e-988e-19c44ed78122",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Musical Skill",
+    "cost": 100,
+    "description": "The art of Song and Instruments, one you're quite talented at, to the point that many would compare your skill to the late Prince Rhaegar Targaryen. Weaving new songs and music comes as easy to you as winning the hearts and minds of your audience and you’ll find that you seem to never run out of inspiration; drawing ideas from your experiences and environment. To think, with this alone you could indeed make quite a lot of coin; though do be careful, not every King or Lord enjoys a good song.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "64cf8a8d-8813-5ce2-b4a9-c9bdf60c59be": {
+    "id": "64cf8a8d-8813-5ce2-b4a9-c9bdf60c59be",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Of Flame and Forge",
+    "cost": 200,
+    "description": "The forge answers to you. As a blacksmith of unparalleled skill, you can craft weapons, armor, and tools of unmatched quality. Beyond this, you possess one of the rarest talents in the world: the ability to reforge Valyrian Steel. You can repair shattered blades and reshape this legendary material into new forms without losing its signature sharpness, strength, or dark beauty.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "d135d8ad-d67a-50cb-ae40-1f1bad076a52": {
+    "id": "d135d8ad-d67a-50cb-ae40-1f1bad076a52",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Puppeteer",
+    "cost": 300,
+    "description": "You can create extremely intricate puppets and use them in a show. Watchers will be drawn in by the stories and if you let your hands wander with specific figures you can tell the future. This comes with two puppets - one for each hand - which when held out of sight change to fit the story.",
+    "source": "Hedge Knight"
+  },
+  "e4098473-2910-52db-8567-079e2832e221": {
+    "id": "e4098473-2910-52db-8567-079e2832e221",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Sellsword for Hire",
+    "cost": 400,
+    "description": "Despite the feudal nature of this world, you have no trouble travelling the land, and can easily be hired by competing factions without them killing you. Want to work for Tyrwin, then go live in Sunspear? Go ahead. Want to live as a free folk then join the Umber’s household? Sure. Want to be a Night’s Watchmen, then leave? I guess. Essentially, despite anything you might normally expect, you may freely join or leave an organisation without consequence.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "25afa3aa-9d95-532b-b321-74f8ad5d4eba": {
+    "id": "25afa3aa-9d95-532b-b321-74f8ad5d4eba",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Smith",
+    "cost": 100,
+    "description": "You are a skilled blacksmith, capable of forging most things seen on Planetos. Items forged by you are better at their intended function in some way, with swords being sharper, ploughs ploughing more easily, armour blocking blows more easily, or decorative items being more eye-catching. Whilst",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "d20fe750-7ba5-512d-aa0c-81cfef84f900": {
+    "id": "d20fe750-7ba5-512d-aa0c-81cfef84f900",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Smith",
+    "cost": 200,
+    "description": "With the Smith’s own gift in your arms and mind, you are a craftsman beyond peer, a maker of such wonders that lords and magisters would wage wars just for the chance to lay their hands on a piece you made. Be it smaller things like swords, armor or other crafts, or great feats of engineering and construction like Harrenhal or the Eyrie, your mind is flush with ideas and blueprints, making you a Smith, an Architect, an Engineer, and a Shipwright... and equally unmatched in all those fields.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "8207ca3c-1640-583e-bea5-f6dd55b18c83": {
+    "id": "8207ca3c-1640-583e-bea5-f6dd55b18c83",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Stranger",
+    "cost": 200,
+    "description": "The Stanger’s Favor makes you into the very image of death. You have a preternatural level of skill and talent at all things stealthy, and can get in and out of just about anywhere, be it by intrusion or infiltration. You’re also similarly skilled in actually dealing death, whether by poisons, blade, or unfortunate accident. To make it clear, this perk makes you one of the finest assassins or spies in the setting, someone so deadly as to give the House of Black and White pause.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "6e9543ae-77a8-5c45-b18f-67c69ce98e83": {
+    "id": "6e9543ae-77a8-5c45-b18f-67c69ce98e83",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Strength of the First Men",
+    "cost": 300,
+    "description": "It is only right that the men of the North, last bastion of the First Men be strong of arm and heart. How else could your ancestors have thrown back the Andals and great Theon led the Northmen to destroy the Andal homeland? Regardless of the truth, you’ll find that you take after the general belief of Northern strength. While not supernatural, your body is strong and approaches what could be considered the peak of human strength, and learning to fight or becoming skilled in the ways of a warrior is much easier than it should be.",
+    "source": "The Seven Kingdoms"
+  },
+  "6b8b9b47-8776-5d54-9e66-af9008431916": {
+    "id": "6b8b9b47-8776-5d54-9e66-af9008431916",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "The Honorable Lord Stark",
+    "cost": 200,
+    "description": "Most often - though not always - the Starks, a great deal of ASOIAF fic features a fast alliance being formed with the author’s favoured faction. Your ability to rapidly form strong mutual bonds, regardless of social status or the strangeness of a situation, is quite incredible, so long as you’re being genuine about it. As part of a group, you can rapidly rise in prestige and authority, so long as you discharge your duties well and prove worthy of the trust placed in you. You’re the exception to the whole notion that bad things must happen to good people. So long as you do your part honestly, sincerely and well, you find that anyone else you have a right to expect loyalty and service from does theirs just as genuinely too.",
+    "source": "Generic ASOIAF Fanfiction"
+  },
+  "0cd53fe6-87db-5784-af06-1c5eefa35f8b": {
+    "id": "0cd53fe6-87db-5784-af06-1c5eefa35f8b",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "The Onion Knight",
+    "cost": 200,
+    "description": "You are an amazing smuggler. This may not sound like much, but it comes with a host of benefits. You are a master sailor, capable of taming the fiercest of sea storms, and in addition, are truly superb at hiding things. When hiding things, you seem to be exceptionally good at causing people to overlook you, which stops officials and unwanted individuals from noticing your concealed cargo. This SEP field shorts out if A) your hidden items are physically discovered (eg. falling through a hidden door), or B) you rely solely upon it for protection. Finally, if you are ever caught, officials will be far less likely to hit you with the full punishment. You will still be punished, but the punishment itself will be drastically reduced in severity.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "4892c566-a089-58bd-8f27-6d964b8b36fd": {
+    "id": "4892c566-a089-58bd-8f27-6d964b8b36fd",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "The Raider",
+    "cost": 0,
+    "description": "You’ve become friends with one of the greatest raiders of their time. Wielding a giant axe and hammer as their weapons, this ironclad warrior is powerful and remarkably dexterous, able to cave your skull in as easily as they can chop it off before you could react. On the sea, they have a blessing that keeps them from being killed by any adversary, assuming that they could be stopped anyway. Despite the name, and their somewhat aggressive behavior, they won’t actually do much raiding unless you are up for it.",
+    "source": "A Song of Ice and Fire: The Epoch of Legends"
+  },
+  "268d4d55-effc-5176-ae9c-d15f32c5e61c": {
+    "id": "268d4d55-effc-5176-ae9c-d15f32c5e61c",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "The Winds of Winter",
+    "cost": 0,
+    "description": "Your body possesses an incredible resilience, enabling you to thrive even in the harshest conditions. Native diseases hold little threat, and you endure brutal winters or food shortages with ease, maintaining strength and clarity where others falter. Sickness rarely takes hold, and starvation becomes a distant worry, as you instinctively ration energy and resources within yourself.",
+    "source": "ASOIAF - Small Council Jumpchain"
+  },
+  "3ec781d3-183e-5aeb-b186-057641da88fb": {
+    "id": "3ec781d3-183e-5aeb-b186-057641da88fb",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Too Lowborn",
+    "cost": 400,
+    "description": "People will very rarely consider you a threat. As long as you do nothing overtly threatening people will expect no harm from your direction.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  },
+  "d72a5591-a7b9-572c-ab9e-185d02624519": {
+    "id": "d72a5591-a7b9-572c-ab9e-185d02624519",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Tradecraft Skills",
+    "cost": 100,
+    "description": "You have skills in a mundane trade of your choice which someone of Planetos of your political standing, geographic location and time could conceivably learn. This includes being a Myrrish glassmaker, a carpenter, a brewer or other such trades.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "24ac4f6d-4416-5ade-b233-6f7977f8824f": {
+    "id": "24ac4f6d-4416-5ade-b233-6f7977f8824f",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Travel Supplies",
+    "cost": 100,
+    "description": "A leather satchel which, when opened, contains the minimum needed to survive in the wild, as well as enough food for the day. Each day, the contents of the bag will change to cover this, with, for example, an arctic biome providing (among other things) warm clothes, firewood and a tinderbox, whilst a desert locale might provide thin, light, covering clothes, extra water and a tent. Once a week the perishables are replaced.",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "c48992f5-9ee7-5248-8405-77dc298caca1": {
+    "id": "c48992f5-9ee7-5248-8405-77dc298caca1",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Traveller’s Hospitality",
+    "cost": 100,
+    "description": "A hearth to rest one’s feet at, and a table to eat and drink at, something we all desire and something many travellers don’t always get, is something you can get with ease. You have a bit of an aura that makes people open their doors to allow you to stay and rest for a bit so long as you aren’t a problem. Of course this can always be undone if you’re a monster who rapes and pillages his/her way across nations but then why would you be looking for fellowship?",
+    "source": "Game Of Thrones - Version 1.201"
+  },
+  "16d343b2-94d0-519b-9a8d-39f49981b34c": {
+    "id": "16d343b2-94d0-519b-9a8d-39f49981b34c",
+    "category": "song_v2",
+    "chapter": "The Smallfolk",
+    "name": "Worker",
+    "cost": 200,
+    "description": "You are willing to push yourself far beyond the normal limits with physical or tedious work. You will continue to do such tasks to the best of your ability without soon tiring.",
+    "source": "A Song of Ice and Fire Jumpchain"
+  }
+}

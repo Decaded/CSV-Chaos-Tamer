@@ -2,27 +2,8 @@ const assert = require('assert');
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
-const { parseEntry, parseMarkdown } = require('../md-parser');
-
-function test(name, fn) {
-	try {
-		fn();
-		console.log(`ok - ${name}`);
-	} catch (err) {
-		console.error(`not ok - ${name}`);
-		throw err;
-	}
-}
-
-async function testAsync(name, fn) {
-	try {
-		await fn();
-		console.log(`ok - ${name}`);
-	} catch (err) {
-		console.error(`not ok - ${name}`);
-		throw err;
-	}
-}
+const { test, testAsync } = require('./summary');
+const { parseEntry, parseMarkdown } = require('../src/parsers/md-parser');
 
 test('parseEntry handles cost before name', () => {
 	assert.deepStrictEqual(parseEntry('(200 CP) Example Name - Example description.'), {
@@ -81,7 +62,7 @@ test('parseEntry handles leading type and trailing numeric cost', () => {
 });
 
 test('parseEntry handles CP prefix with double dash separators', () => {
-	assert.deepStrictEqual(parseEntry("100CP -- Two-faced -- protects against people easily detecting other identity"), {
+	assert.deepStrictEqual(parseEntry('100CP -- Two-faced -- protects against people easily detecting other identity'), {
 		name: 'Two-faced',
 		cost: '100CP',
 		descStart: 'protects against people easily detecting other identity',
@@ -176,6 +157,14 @@ test('parseEntry prefers cost bracket before requirement bracket', () => {
 	});
 });
 
+test('parseEntry handles bracket name with trailing cost and tag parentheticals', () => {
+	assert.deepStrictEqual(parseEntry('[Wondrous Fare] (200CP)(Wandering Inn): Originally a unique Skill.'), {
+		name: 'Wondrous Fare',
+		cost: '200CP',
+		descStart: 'Originally a unique Skill.',
+	});
+});
+
 testAsync('parseMarkdown keeps chapter and description boundaries', async () => {
 	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-md-'));
 	const filePath = path.join(dir, 'sample.md');
@@ -220,14 +209,7 @@ testAsync('parseMarkdown recovers title from cost-only line followed by title co
 
 	await fs.promises.writeFile(
 		filePath,
-		[
-			'Items:',
-			'',
-			'557. 100 cp',
-			'',
-			'Lots of Guns: You own a lot of legally licensed and registered firearms.',
-			'Second sentence continues here.',
-		].join('\n'),
+		['Items:', '', '557. 100 cp', '', 'Lots of Guns: You own a lot of legally licensed and registered firearms.', 'Second sentence continues here.'].join('\n'),
 		'utf8',
 	);
 
@@ -236,29 +218,14 @@ testAsync('parseMarkdown recovers title from cost-only line followed by title co
 	assert.strictEqual(rows.length, 1);
 	assert.strictEqual(rows[0].cost, 100);
 	assert.strictEqual(rows[0].name, 'Lots of Guns');
-	assert.strictEqual(
-		rows[0].description,
-		'You own a lot of legally licensed and registered firearms. Second sentence continues here.',
-	);
+	assert.strictEqual(rows[0].description, 'You own a lot of legally licensed and registered firearms. Second sentence continues here.');
 });
 
 testAsync('parseMarkdown handles name line followed by cost line', async () => {
 	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-md-'));
 	const filePath = path.join(dir, 'sample.md');
 
-	await fs.promises.writeFile(
-		filePath,
-		[
-			'Pseudo:',
-			'',
-			'139. (Criminally) Insane Dedication',
-			'',
-			'600 CP',
-			'',
-			'You know hatred.',
-		].join('\n'),
-		'utf8',
-	);
+	await fs.promises.writeFile(filePath, ['Pseudo:', '', '139. (Criminally) Insane Dedication', '', '600 CP', '', 'You know hatred.'].join('\n'), 'utf8');
 
 	const { rows } = await parseMarkdown(filePath);
 
@@ -272,17 +239,7 @@ testAsync('parseMarkdown uses preceding heading as name for cost-only entries', 
 	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-md-'));
 	const filePath = path.join(dir, 'sample.md');
 
-	await fs.promises.writeFile(
-		filePath,
-		[
-			'God',
-			'',
-			'90. 1200 CP',
-			'',
-			'A very long time ago, humanity looked up and wondered.',
-		].join('\n'),
-		'utf8',
-	);
+	await fs.promises.writeFile(filePath, ['God', '', '90. 1200 CP', '', 'A very long time ago, humanity looked up and wondered.'].join('\n'), 'utf8');
 
 	const { rows } = await parseMarkdown(filePath);
 
@@ -316,4 +273,18 @@ testAsync('parseMarkdown merges long costless numbered continuations into previo
 		rows[0].description,
 		'Each of your adventures will be recorded. Discovering just what happened to an artifact after you lost it becomes pretty simple when it is literally spelled out for you.',
 	);
+});
+
+testAsync('parseMarkdown strips ATX heading markers from the source field', async () => {
+	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-md-'));
+	const filePath = path.join(dir, 'sample.md');
+
+	await fs.promises.writeFile(filePath, ['## Enchanted Cooking', '', '10. [Wondrous Fare] (200CP)(Wandering Inn): Originally a unique Skill.'].join('\n'), 'utf8');
+
+	const { rows } = await parseMarkdown(filePath);
+
+	assert.strictEqual(rows.length, 1);
+	assert.strictEqual(rows[0].name, 'Wondrous Fare');
+	assert.strictEqual(rows[0].cost, 200);
+	assert.strictEqual(rows[0].source, 'Enchanted Cooking');
 });

@@ -1,0 +1,1423 @@
+0,Perk Name,Cost,Source,Description
+1,Spell: Stone Flow,10 CP,Original,"You've learned a new spell!
+
+Name: Stone Flow
+Aspect: 3 Earth + 1 Water
+Description: This spell infuses targeted piece/volume of rock in a few seconds of focus. Infused pieces of stone can be shaped like clay by the user's hand or even be made flow akin to a liquid small distance away by user's will. When a spell stops working after some time or when it is dispelled, the stone turns back solid and keeps its new shape. This spell works better at softer rocks: harder the rock - more time it takes to infuse and harder it is to mold."
+2,Spell: Glass Staining,10 CP,Original,"You've learned a new spell!
+
+Name: Glass Staining
+Aspect: 1 Earth + 1 Light
+Description: This spell affects a targeted piece or volume of glass. It alters the internal crystalline structure of the glass to permanently change its color by introducing specific tendencies toward the refraction and absorption of light within the material. It can be used to make a piece of glass red, green, or any relatively simple shade the caster desires. It can also make glass frosted, more opaque, or even produce simple multicolored patterns. However, this spell depends heavily on the skill of the caster. It is easy to simply make glass redder, but much harder to achieve a specific hue or introduce a precise pattern. It takes considerable practice to master."
+3,Spell: Concrete Setting,10 CP,Original,"You've learned a new spell!
+
+Name: Concrete Setting
+Aspect: 1 Earth + 1 Order
+Description: This spell targets mortar, cement, or similar binding materials. It accelerates and refines the setting process, meaning the material turns solid more quickly and with fewer internal imperfections than it would naturally. When the spell takes effect, it produces a small burst of infrared light and a modest amount of waste heat."
+4,Enchantment: Cooling Surface Charm,10 CP,Original,"You've learned a new enchantment!
+
+Name: Cooling Surface Charm
+Aspect: 3 Air + 1 Order + 1 Water
+Description: This enchantment can be applied to a small surface. It persists for a few years, but gradually deteriorates over time and can be broken by severely damaging the enchanted object. When the surface bearing this charm moves through air, it causes the gas in contact with it to cool down by one or two degrees Celsius. The charm cannot bring temperatures lower than 19 degrees Celsius, but it is quite good to have cast on fan blades on a hot day."
+5,Spell: Root-Weave Compaction,10 CP,Original,"You've learned a new spell!
+
+Name: Root-Weave Compaction
+Aspect: 2 Earth + 2 Life + 1 Water
+Description: The caster places their palms flat on bare soil and hums at a low frequency. Over the course of a minute, the spell encourages the dormant seeds and fungal mycelium within the soil to grow at an accelerated, controlled rate. The roots intertwine into a dense, living mat while simultaneously absorbing ambient moisture to swell and fill every void. The result is a section of ground that becomes as hard and load-bearing as packed gravel, but remains permeable to water. The effect is permanent, as the root-mat continues to live and self-repair, though it requires annual ""re-tuning"" to prevent overgrowth or death.
+"
+6,Spell: Lumicrete Mixture,15 CP,Original,"You've learned a new spell!
+
+Name: Lumicrete Mixture
+Aspect: 3 Light + 1 Earth
+Description: A dry mortar or concrete powder is piled up and the caster speaks a sustained, resonant word over it. The powder glows faintly for a few moments and then goes dark. When mixed with water and poured, the setting process is accelerated to completion in under an hour (instead of days). More importantly, the crystalline structure of the cured material aligns in such a way that it ""stores"" ambient light. During the day, the surface absorbs sunlight; at night, it emits a soft, moon-like glow equivalent to a well-lit corridor for up to eight hours. It does not produce heat."
+7,Spell: Chord of True Level,10 CP,Original,"You've learned a new spell!
+
+Name: Chord of True Level
+Aspect: 2 Space + 1 Order
+Description: The caster snaps a length of ordinary twine or rope taut between two stakes. They then whisper the spell and flick the twine. A barely-visible ripple of blue-white light travels along the cord, and the twine goes unnaturally rigid. For the next hour, the twine is magically anchored to the planet's gravitational core, making it a perfectly horizontal and vibration-less reference line. This is the surveyor's best friend, used to lay perfectly straight aqueduct channels, set door frames, and pour flawless floors. The twine can be moved and re-anchored, but each re-setting requires a new casting."
+8,Spell: Slow-Glass Annealing,10 CP,Original,"You've learned a new spell!
+
+Name: Slow-Glass Annealing
+Aspect: 2 Fire + 2 Earth + 1 Time
+Description: This spell is cast over a kiln or a sand-smelter right as the molten silica is poured into its molds. Instead of flash-cooling, the spell extends the cooling process over a period of several days, but does so internally, eliminating all thermal stress and micro-fractures. The resulting glass panes are cheap to produce (no fuel for slow cooling ovens) and have the tensile strength of wrought iron. Used to create massive, flawless windows for public buildings, greenhouse panels, and translucent floor-tiles for upper-story walkways. "
+9,Spell: Draft-Ward Seal,10 CP,Original,"You've learned a new spell!
+
+Name: Draft-Ward Seal
+Aspect: 2 Air + 1 Order
+Description: The caster traces the outline of a door, window, or city-gate with their finger, leaving a faint silver tracing. The spell doesn't stop airflow completely, but it equalizes air pressure and temperature between the inside and outside by ""slowing"" the chaotic movement of air particles to a gentle, laminar flow. Ward deteriorates over a few weeks and can be disrupted. "
+10,Spell: Miracle of Healing ,25 CP,Original,"You've learned a new spell!
+
+Name: Miracle of Healing (Impure Regeneration) 
+Aspect: 1 Light + 1 Healing + 1 Life
+Description: This spell produces a small amount of healing light, which can be infused into a living target or projected in a direction to cause rapid regeneration. The spell takes biomass from various tissues in the body in such a way as to cause the least amount of damage, and uses this biomass to heal a variety of wounds. It can even restore eyesight lost due to injury, regenerate parts of damaged organs, and even grow new limbs. However, more intensive effects require prolonged use of the spell or repeated applications. It takes a full week of uninterrupted healing light to grow a new arm - though this time can be broken down into shorter sessions.
+
+Historical Note: This spell was discovered and used by priests of an ancient eastern civilization, who believed it was a revelation from their god of healing. It was used extensively after its discovery, causing the early empire to become a powerful regional force, conquer many neighbors, and elevate the social status of the healing god's priests to great heights. 
+
+Unfortunately (unknown to anyone at the time) the spell carried a terrible hidden cost. Using the Miracle of Healing increased the chances of cancer in subsequent years, and also increased the likelihood of genetic disorders in the offspring of those affected by the healing light. The effect was cumulative: those who bathed in the light more frequently suffered worse consequences later. This caused the civilization to collapse after a few generations.
+
+That said, the spell can still be used safely in moderation. A single application to save a friend from blood loss (transforming a small amount of fat into blood) carries only a tiny increase in cancer risk, far outweighed by the immediate benefit. The danger lies in repeated exposure, especially to the intense regeneration required for major wounds, limbs, or organs."
+11,Spell: Heat Metal,10 CP,Original,"You've learned a new spell!
+
+Name: Heat Metal
+Aspect: 3 Fire + 1 Metal
+Description: This spell produces a short cone of red light. When this light strikes a targeted piece of metal, it heats the metal quickly and evenly throughout its entire volume. The spell can heat metal up to 1,344 degrees Celsius. However, different metals, alloys, and compositions require fine-tuning of the spell. 
+
+Heating iron and copper requires very different compositions of the spell, while heating one type of steel versus another introduces small changes that must be accounted for. Mastering this spell requires extensive practice and experimentation with different metals. If tuned wrong it doesn’t work or works only partially."
+12,Spell: Carve Wood,10 CP,Original,"You've learned a new spell!
+
+Name: Carve Wood
+Aspect: 3 Wood + 1 Force
+Description: This spell infuses a piece of wood with a touch and produces a cutting surface that intersects the volume of the material. The cut can be made rough or smooth, and the geometry of the surface can vary: a simple plane passing through the volume, a cut that does not go all the way through, a wavy surface, or even one with holes. It cannot, however, produce a completely closed surface. 
+
+After the cutting surface is placed inside the volume of the wood, the caster activates it, causing the cut to follow the surface's geometry through the material they are touching. It works quicker and easier on less dense types of wood."
+13,Spell: Wave of Erosion,10 CP,Original,"You've learned a new spell!
+
+Name: Wave of Erosion
+Aspect: 3 Earth + 1 Chaos
+Description: This spell produces a ""wave"" that travels through stone or other minerals of a similar nature from the point of contact. Each wave loosens the integrity of the material, breaks it down, and eventually turns it into fine dust of evenly redistributed mineral components. The finer the end result, the longer and more difficult it is to achieve. 
+
+It is relatively easy to break down a stone into smaller shards (taking only a few seconds), but much harder and more time-consuming to turn sand into dust (taking around an hour). The spell works best on smaller volumes; the wave has limited capacity to travel through material and becomes weaker the further it gets from the point of contact. Denser materials with more complex compositions are more resistant to the spell. It does not affect metals."
+14,Spell: Stone-Bond Welding,10 CP,Original,"You've learned a new spell!
+
+Name: Stone-Bond Welding
+Aspect: 2 Earth + 1 Fire + 1 Order
+Description: This spell fuses two pieces of stone or ceramics together at their contact surfaces, effectively ""welding"" them into a single continuous mass. The caster presses the two pieces together and channels the spell through the joint, causing the stone at the interface to soften, flow, and re-crystallize as a seamless bond. The resulting joint is as strong as the surrounding stone, with no visible seam. The spell works best on similar stone types and requires careful preparation of the surfaces: they must be clean, dry, and closely matched."
+15,Spell: Become Entropy,50 CP,Original,"You've learned a new spell!
+
+Name: Become Entropy
+Aspect: 1 Chaos
+Description: Choose a point on your body from which the spell will be cast. From this point, everything within a few meters in a direction of your choice will suddenly have its entropy heightened: things will break down, mix, and reach thermal equilibrium over a few seconds. In practical terms: things disintegrate. 
+
+However, you are inevitably caught at the edge of the spell's volume of effect. If you cast it from your fingertips in a forward direction, your hand will also succumb to entropy. The spell is more effective against targets of lesser density, and certain materials or composites are more resistant to it than others."
+16,Spell: Scissors Fingers,10 CP,Original,"You've learned a new spell!
+
+Name: Scissors Fingers
+Aspect: 2 Force + 1 Order + 1 Semblance
+Description: This spell is cast and sustained on your fingers. Make a scissors gesture and activate the spell. It will create a thin metallic glint on the inner sides of your fingers. You can now use this gesture as actual sharp scissors to cut soft materials such as paper, thin leather, cardboard, fabric, and similar items. This spell does not affect living tissues."
+17,Spell: Thread-Finger,10 CP,Original,"You've learned a new spell!
+
+Name: Thread-Finger
+Aspect: 1 Semblance + 1 Force
+Description: The caster's fingertip extrudes a thin, temporary filament of magical force that acts like thread. It can be used to sew, stitch, or bind materials together, or to tie small knots. The thread has the tensile strength of strong cotton and lasts for several hours before dissolving harmlessly. Useful for field repairs or any situation where needle and thread are unavailable."
+18,Spell: Steady Hand,10 CP,Original,"You've learned a new spell!
+
+Name: Steady Hand
+Aspect: 2 Order + 1 Semblance + 1 Lore
+Description: This spell creates a temporary visual guide (a faint glowing line or grid) that overlays the caster's field of vision, helping them cut, draw, or place objects with perfect alignment. It lasts as long as the caster maintains concentration. Used by masons, carpenters, scribes, and artists."
+19,Spell: Measuring Eye,10 CP,Original,"You've learned a new spell!
+
+Name: Measuring Eye
+Aspect: 1 Order + 1 Light + 2 Lore
+Description: The caster can gauge the exact dimensions (length, width, depth) of any object within their line of sight, up to a distance of fifty meters. The information appears in their mind as precise measurements. However, the caster must already understand what they are measuring and how to measure it, as well as the units they are using. 
+
+If you do not know how to measure something by hand, or what you are measuring, the spell will not work, or will only work partially. Used by surveyors, architects, carpenters, and tailors."
+20,Spell: Marker's Trace,10 CP,Original,"You've learned a new spell!
+
+Name: Marker's Trace
+Aspect: 1 Order + 1 Semblance + 1 Light
+Description: The caster traces a finger along a surface, leaving a faint glowing line that marks a specific measurement or cut line. The line persists for a few minutes (without sustaining) before fading, allowing the caster to mark multiple points or cut lines without needing chalk, pencil, or string. "
+21,Spell: Needle Finger,10 CP,Original,"You've learned a new spell!
+
+Name: Needle Finger
+Aspect: 2 Force + 1 Semblance
+Description: This spell is cast and sustained on your fingertip. Make a pointing gesture with one finger and cast the spell. It will create a thin metallic glint extending a few millimeters from the tip of your finger. You can now use this gesture as an actual sharp needle point, allowing you to make holes in soft materials like thin leather, paper, fabric, cardboard, and similar items. 
+
+You can control the diameter and depth of the puncture within certain limits (up to four millimeters deep and two millimeters wide). It takes more force and time to puncture harder or denser materials, or to make a larger hole. This spell does not affect living tissues."
+22,Spell: Gather Moisture,10 CP,Original,"You've learned a new spell!
+
+Name: Gather Moisture
+Aspect: 2 Water + 1 Air
+Description: This spell is used to gather and concentrate moisture from the volume of air around the caster (up to a maximum radius of around four meters). It does not work through walls. The spell condenses water vapor into liquid form and produces a ball of water at the focus center of the spell. It cannot lower the humidity of the air around further than 7.2%."
+23,Spell: Crystallization,10 CP,Original,"You've learned a new spell!
+
+Name: Crystallization
+Aspect: 1 Water + 1 Order + 1 Transformation
+Description: This spell rapidly causes a targeted liquid to crystallize and become solid. It does not require contact, but proximity is needed, and crystallization starts from the closest point to the caster. The spell does not lower the temperature of the liquid - it merely makes it solid and keeps it that way for a time, or while the spell is sustained by the caster. 
+
+For example, it can turn boiling water into ice and keep it in that state for a few hours (or while actively sustained), while preserving its boiling hot temperature. Different kinds of liquids require different fine-tuning of the spell; some liquids are easier to affect than others. When the spell duration ends, the targeted substance returns to its normal state."
+24,Spell: Evaporation,10 CP,Original,"You've learned a new spell!
+
+Name: Evaporation
+Aspect: 1 Water + 1 Chaos + 1 Transformation
+Description: This spell rapidly causes a targeted liquid to evaporate and become a gas. It does not require contact, but proximity is needed, and evaporation starts from the closest point to the caster. The spell does not change the temperature of the liquid - it merely makes it gaseous and keeps it that way for a time, or while the spell is sustained by the caster. 
+
+For example, it can turn cold water into vapor and keep it in that state for a few hours (or while actively sustained), while preserving its freezing cold temperature. Different kinds of liquids require different fine-tuning of the spell; some liquids are easier to affect than others. When the spell duration ends, the targeted substance returns to its normal state."
+25,Spell: Bubble Telekinesis,10 CP,Original,"You've learned a new spell!
+
+Name: Bubble Telekinesis
+Aspect: 2 Force + 1 Air
+Description: This spell creates a barely visible bubble that can be used to envelop and lift objects. Things moved this way become buoyant inside the bubble and will follow it as it moves. This spell can lift and move very heavy objects, but it does so slowly. Trying to push it to move more quickly might separate the object from the bubble enveloping it. This spell can move loose materials like sand, gravel, or even liquids, but it may lose some small pieces while moving such materials."
+26,Spell: Film Telekinesis,10 CP,Original,"You've learned a new spell!
+
+Name: Film Telekinesis
+Aspect: 2 Force + 1 Earth
+Description: This spell creates a barely visible, glinting film on the surface of an object, which envelops and presses slightly on it. Objects follow the movement of the film that envelops them. The caster must be close to apply the film, but once applied, they can move the object further away, fix it relative to certain places, or even move several independently. It can move objects rather quickly and in a decently precise manner. However, it cannot handle very heavy objects; overly complicated surfaces make the spell weaker; and it works only on solid items."
+27,Spell: Push Telekinesis,10 CP,Original,"You've learned a new spell!
+
+Name: Push Telekinesis
+Aspect: 1 Force + 1 Space
+Description: This spell makes objects float (as if without gravity) and can apply a vector of acceleration to the center of mass of the affected item. It has a maximum speed it can accelerate an object toward, but on the other hand, it can be used to slow down already moving objects (if one can focus on them). This spell is more powerful and more precise the closer it is to the caster (maximum radius of ten meters). Heavier objects accelerate more slowly with this spell. It can be used to make loose materials and liquids float, but it cannot apply vector acceleration to them."
+28,Spell: Hand Projection,10 CP,Original,"You've learned a new spell!
+
+Name: Hand Projection
+Aspect: 1 Force + 1 Air + 1 Semblance + 1 Mind
+Description: This spell creates projections (resembling ghosts or holograms) of the user's hands, which they can move around and use to hold, catch, or manipulate objects. The spell provides feedback, feeling like moving your own hands and touching something. These hands are not very strong, and it is difficult to have more than two doing anything complex at a time. 
+
+However, they can be used to hold things, perform simple repetitive movements, or similar tasks. This spell depends heavily on the user's skill and dexterity: if the user cannot write neatly, the hands they create will not write neatly either."
+29,Spell: Psychokinesis,25 CP,Original,"You've learned a new spell!
+
+Name: Psychokinesis
+Aspect: 1 Mind + 2 Force + 1 Aether
+Description: This spell targets the soul of a living being and moves it, causing the body to follow. It allows the caster to hold, reposition, or move living targets. A target who is awake and in full possession of their will can resist the spell's effect or even assist it, making the spell easier to cast on willing subjects. The spell can move the target evenly - with or without the acceleration-induced G-load that would normally accompany such movement. 
+
+The spell can be sustained, allowing the caster to hold a target in place, suspend them mid-air, or slowly lower them to safety. However, maintaining the spell on an unwilling target is exhausting and requires constant mental effort. So its easier to just suddenly push. "
+30,Spell: Light Telekinesis,10 CP,Original,"You've learned a new spell!
+
+Name: Light Telekinesis
+Aspect: 1 Light + 2 Force + 1 Order
+Description: This spell produces a ray of light effect (although not as fast as actual light). When this ray strikes a separate object, it causes the target to glow faintly in outline and allows the caster to move the object by manipulating the beam of light connecting them. The spell can be used to rotate objects, drag them closer, or push them further away, or generally move them around.
+
+However, the ray connecting the caster and the target can be disrupted by other objects passing between them. The beam will attempt to bend and evade obstacles intersecting its path, but it has limitations: too many obstacles, rapidly moving objects, or solid barriers can break the connection entirely. Intersecting objects will become a new target or disrupt the spell completely. The beam also has a maximum effective range of about thirty meters, beyond which it dissipates."
+31,Spell: Radiant Grasp,10 CP,Original,"You've learned a new spell!
+
+Name: Radiant Grasp
+Aspect: 1 Light + 1 Force + 1 Air
+Description: Instead of a single beam, this spell produces a diffuse cone of glowing light. Everything within the cone is lightly grasped, allowing the caster to push or pull multiple objects at once. Though with less individual control and strength than Light Telekinesis. Useful for clearing debris, scattering projectiles, or moving a group of small objects. The cone loses strength with distance and is easily blocked."
+32,Spell: Create Water,10 CP,Original,"You've learned a new spell!
+
+Name: Create Water
+Aspect: 1 Water + 1 Creation
+Description: This spell allows the caster to create a small amount of pure water per casting. It can produce up to 0.909 liters of water at a time, in the form of a simple shape, which is soon after creation affected by gravity. This water contains no impurities - it is perfectly distilled and permanent. The temperature of the water can vary between 4 and 66 degrees Celsius, and this can be tuned by the caster."
+33,Spell: Create Salt,10 CP,Original,"You've learned a new spell!
+
+Name: Create Salt
+Aspect: 1 Creation + 1 Earth
+Description: This spell allows the caster to create a piece of pure, permanent salt (either as one chunk or as several smaller pieces) in a simple shape, which soon after creation is affected by gravity and falls. It can create a maximum of 0.314 kilograms of salt per casting."
+34,Spell: Exhumation,10 CP,Original,"You've learned a new spell!
+
+Name: Exhumation
+Aspect: 2 Earth + 1 Death
+Description: This spell causes all dead bodies within a targeted volume of earth to be pushed upward and reach the surface. It separates dead bodies from the earth, like wood floating to the surface of water. The caster does not need to know a body is present - simply target a volume of earth beneath you and watch as all carcasses are pushed to the surface without leaving any holes (only some slightly disturbed soil)."
+35,Spell: Grave-Seal,10 CP,Original,"You've learned a new spell!
+
+Name: Grave-Seal
+Aspect: 2 Earth + 1 Death + 1 Order
+Description: This spell is cast upon a burial site to prevent Exhumation from working. It binds the dead to their resting place, making them ""heavier"" than the earth around them. Corpses under Grave-Seal cannot be raised, floated, or disturbed by magical means. Used by temples, families, and governments to protect the sanctity of graves. Need to be reapplied every few months. "
+36,Spell: Bone-Whisper,10 CP,Original,"You've learned a new spell!
+
+Name: Bone-Whisper
+Aspect: 1 Death + 1 Mind + 1 Aether
+Description: This spell allows the caster to receive vague impressions from a corpse or skeleton: fragments of memory, emotion, or sensation from the moment of death. The older the corpse, the fainter the impressions."
+37,Spell: Press Plastic,10 CP,Original,"You've learned a new spell!
+
+Name: Press Plastic
+Aspect: 4 Plastic + 1 Transformation
+Description: This spell allows the caster to target a piece of plastic they are touching and infuse it with the spell over the course of a few seconds. The caster then chooses a shape and activates the spell, causing the plastic to reshape itself into the desired form with a slight pop, as if it had been pressed into its new shape. It can produce some details and relatively complex shapes, but not overly so. The spell requires attuning to different kinds of plastics and works more easily on some than on others."
+38,Spell: Plastic-Bond,10 CP,Original,"You've learned a new spell!
+
+Name: Plastic-Bond
+Aspect: 2 Plastic + 1 Earth
+Description: This spell fuses two pieces of plastic together at their contact surfaces, effectively ""welding"" them into a single piece. The fusion is as strong as the surrounding plastic. Used for repairing broken items, joining pieces, or creating larger structures from smaller components."
+39,Spell: Polishing Touch,10 CP,Original,"You've learned a new spell!
+
+Name: Polishing Touch
+Aspect: 3 Transformation + 1 Order + 1 Earth
+Description: This spell allows the caster to polish solid surfaces with their palms. The user can control how smooth they want the surface to be with each movement of their palm along the surface. Harder and denser surfaces require more time and more passes to polish. This spell can polish materials as hard as certain cast iron alloys, though doing so takes a long time and a great deal of ""scrubbing."""
+40,Spell: Roughening Touch,10 CP,Original,"You've learned a new spell!
+
+Name: Roughening Touch
+Aspect: 3 Transformation + 1 Chaos + 1 Earth
+Description: This spell is the opposite of Polishing Touch. It allows the caster to roughen solid surfaces with their palms. The user can control how rough they want the surface to be with each movement of their palm along the surface. Harder and denser surfaces require more time and more passes to roughen. This spell can roughen materials as hard as certain cast iron alloys, though doing so takes a very long time and a great deal of ""scrubbing."" The resulting texture can range from a fine, matte finish (barely different from polished) to a coarse, abrasive surface like sandpaper, depending on the caster's intent and effort."
+41,Spell: Edge-Sharpening,10 CP,Original,"You've learned a new spell!
+
+Name: Edge-Sharpening
+Aspect: 2 Transformation + 1 Order + 1 Force
+Description: This spell allows the caster to sharpen the edge of a blade or tool with their thumb. The user can control the angle and fineness of the edge with each pass of their thumb along the blade. Harder materials take more passes and it cannot affect things harder than glass. The spell cannot create an edge from a dull surface - it only refines an existing edge. It works worse, if the edge is less defined."
+42,Spell: Healing Touch,10 CP,Original,"You've learned a new spell!
+
+Name: Healing Touch
+Aspect: 3 Healing + 1 Life
+Description: This spell allows the caster to accelerate scabbing on a touched wound and stop mild bleeding. It requires more time to deal with deeper and larger wounds. It aids natural healing but does not cause regeneration or rapid tissue repair - it merely makes the wound more protected and ready to heal, while preventing the immediate danger of bleeding out."
+43,Spell: Tree Grafting,10 CP,Original,"You've learned a new spell!
+
+Name: Tree Grafting
+Aspect: 3 Wood + 1 Healing + 1 Life
+Description: This spell allows the caster to graft one type of wood to another. It causes quick fusion and integration of a new branch at the point of contact and slightly accelerates natural growth. It can only target trees and woody plants."
+44,Spell: Time Keeping,10 CP,Original,"You've learned a new spell!
+
+Name: Time Keeping
+Aspect: 1 Order + 1 Time + 2 Lore
+Description: This spell functions the same as Measuring Eye, but for measuring how much time has passed since the spell was activated. The caster activates the spell and, upon focusing on it later, receives a precise measurement of the elapsed duration. The information appears in their mind as a clear sense of time passed - down to the second. 
+
+However, as with Measuring Eye, the caster must already understand the units they are measuring in and have a conceptual grasp of timekeeping. If you do not understand hours, minutes, or seconds, the spell will not work - or will only work partially, perhaps giving you a vague sense of ""long"" or ""short"" rather than precise numbers."
+45,Spell: Sun-Reading,10 CP,Original,"You've learned a new spell!
+
+Name: Sun-Reading
+Aspect: 1 Light + 1 Time + 2 Lore
+Description: This spell tells the caster the current time of day based on the position of the sun (or stars, at night). The information appears in their mind as a precise time, but only if they have a clear view of the sky and understand the local timekeeping system. In overcast conditions the spell less accurate, and indoors - the spell fails. Effectively a magical sundial that works even without a physical sundial."
+46,Spell: Weight Sense,10 CP,Original,"You've learned a new spell!
+
+Name: Weight Sense
+Aspect: 1 Space + 2 Lore + 1 Earth
+Description: This spell allows the caster to gauge the exact weight or mass of an object they are touching or can see within a short distance. The information appears in their mind as a precise weight in the units they understand. Used by merchants, alchemists, cooks, and anyone who needs to measure quantities. "
+47,Spell: Food Duplication,25 CP,Original,"You've learned a new spell!
+
+Name: Food Duplication
+Aspect: 3 Creation + 2 Semblance + 1 Transformation
+Description: This spell allows the caster to target a portion of food no larger than 1.344 liters in volume and no heavier than 3.5 kilograms. The spell creates a duplicate of the targeted dish nearby, but the duplicate has only 50% of the nutritional value of the original."
+48,Spell: Death Ray,50 CP,Original,"You've learned a new spell!
+
+Name: Death Ray
+Aspect: 1 Light + 2 Death + 1 Hurt
+Description: This spell produces a ray of light that flies at supersonic speed and possesses penetrative properties similar to an X-ray beam. When it strikes living tissue, it causes death and decomposition from the point of contact. At full power, a single good hit from this spell is enough to kill a quarter of the cells in an average human by volume, and causing a sixth to decompose into simple organic sludge."
+49,Spell: Vitality Ward,25 CP,Original,"You've learned a new spell!
+
+Name: Vitality Ward
+Aspect: 3 Life + 1 Protection + 1 Light
+Description: This spell creates a faint shimmering barrier around the caster that absorbs incoming attacks specifically targeting life force or ones using death magic. It protects against spells like Death Ray by dissipating their Death and Hurt aspects before they reach the caster's tissue. The ward is fragile, capable of absorbing only one or two powerful attacks before collapsing. It glows with a warm, golden light when hit and that dims as it weakens."
+50,Spell: Suffer!,50 CP,Original,"You've learned a new spell!
+
+Name: Suffer!
+Aspect: 3 Hurt + 1 Mind + 1 Aether
+Description: This spell produces a small, sickly-looking orb that flies as quickly as an arrow and can penetrate solid objects with force, though not much (it can pierce a thin steel barrier). When it strikes a living creature, it triggers a sensation of pain and disgust. This sensation is the most painful thing the target has ever experienced, but with a slight edge to it (about 1.5% more intense). 
+
+This information is taken from their soul and projected onto their body. The relative nature of the sensation means the spell always creates a new peak of suffering for the target, meaning subsequent hits will be slightly worse than the last."
+51,Spell: Enrich Soil,10 CP,Original,"You've learned a new spell!
+
+Name: Enrich Soil
+Aspect: 2 Earth + 1 Creation + 1 Life
+Description: This spell targets a volume of soil (no more than five cubic meters at a time) and, over the course of ten minutes, enriches it with beneficial elements, making it more fertile. However, it uses substances already present in the soil and duplicates them in small quantities. It is possible for the soil to be too diminished in one or all aspects for the spell to work effectively or not at all."
+52,Spell: Dust Banishment,10 CP,Original,"You've learned a new spell!
+
+Name: Dust Banishment
+Aspect: 1 Destruction + 2 Earth
+Description: This spell targets dust and small debris on surfaces, making them instantly vanish without a trace and leaving a clean surface behind. It cannot target stains that are strongly stuck to the surface, and it may require several castings if there is a significant amount of dust. If the amount is too great, the spell will not work at all - it cannot be used to vanish a pile of dust. The spell works better on some types of dust and worse on others."
+53,Spell: Blemish Erase,10 CP,Original,"You've learned a new spell!
+
+Name: Blemish Erasure
+Aspect: 1 Destruction + 1 Water + 1 Order
+Description: This spell targets stains and spots on surfaces, breaking them down molecule by molecule until they vanish. Unlike Dust Banishment, it can handle stuck-on stains, but it requires the caster to understand the nature of the stain (oil, wine, blood, etc.) and takes longer to work. Cannot be used on living tissue."
+54,Spell: Fresh Scent,10 CP,Original,"You've learned a new spell!
+
+Name: Fresh Scent
+Aspect: 1 Air + 1 Semblance + 1 Mind
+Description: This spell creates a pleasant, clean scent in a targeted area - subtle and refreshing rather than perfumed. The scent fades after a few hours. Often used in conjunction with Dust Banishment to create a feeling of cleanliness. The exact scent can vary based on the caster's intention (fresh linen, mountain air, citrus, etc.)."
+55,Spell: Banishment,50 CP,Original,"You've learned a new spell!
+
+Name: Banishment
+Aspect: 2 Destruction + 1 Chaos + 1 Order
+Description: This spell causes all matter and energy in a small targeted radius (up to six inches) to vanish without a trace. The spell has a unique sound and the effect of a black orb appearing in the targeted area for just a moment, leaving behind a cleanly cut-out volume. It requires a second to target, and if miscast, the sphere of annihilation will appear somewhere within the caster's body."
+56,Ritual: The Sun Calling,100 CP,Original,"You've learned a new ritual!
+
+Name: The Sun Calling
+Aspect: 1 Light + 3 Fire + 2 Air + 1 Space
+Description: This is a complicated ritual that usually takes a few days to complete and requires rare materials to be consumed. The end result of a successful ritual is a dark, obsidian-like shape that resembles an egg. When the object is accelerated, it produces a dim warm glow. 
+
+When broken or activated by magic, the object begins to glow: red → yellow → white → blue... and then it transforms into a miniature sun, emulating fusion processes within, causing a massive explosion (approximately one-tenth of a kiloton). If the ritual is disturbed, it either fails and fizzles out, or it causes a much smaller explosion without the ""phoenix egg"" being formed."
+57,Rutial: The Moon Calling,100 CP,Original,"You've learned a new spell!
+
+Name: The Moon Calling
+Aspect: 1 Water + 3 Aether + 2 Mind + 1 Space
+Description: This is a complicated ritual that usually takes a few days to complete and requires rare materials to be consumed. The end result of a successful ritual is a pearl-like shape with a blueish iridescent tint. When the object is accelerated, it becomes dimmer and darker. When broken or activated by magic, the pearl plants a vivid vision and experience into the minds of everyone caught in the produced wave of silver light (approximately 100 meters radius). 
+
+The nature of the mental add-on is decided when the ritual is performed, and the effect irreversibly alters the personality and beliefs of those caught in it. If the ritual is disturbed, it either fails and fizzles out, or it causes a much smaller and less predictable ""wave of madness"" to be released."
+58,Spell: Exsanguinate Catch,10 CP,Original,"You've learned a new spell!
+
+Name: Exsanguinate Catch
+Aspect: 1 Death + 2 Water
+Description: This spell targets a dead body, producing rope-like patterns on its surface with knots near punctures. This spell makes the blood inside the body less thick and sticky, and forces it to leave the carcass through wounds, practically leaving the blood vessels dry afterward. The patterns vanish when the spell is stopped."
+59,Spell: Flay Carcass,10 CP,Original,"You've learned a new spell!
+
+Name: Flay Carcass
+Aspect: 1 Death + 2 Order
+Description: This spell targets a dead body, producing tattoo-like, pretty symbols on its surface. It then causes the skin to be separated from other tissues and carefully removed from the carcass. It can be used to target only parts of the dead body, separating and cutting only portions of the skin. The symbols vanish after the spell is used."
+60,Spell: Dry Bones,10 CP,Original,"You've learned a new spell!
+
+Name: Dry Bones
+Aspect: 2 Death + 1 Fire + 1 Earth
+Description: This spell targets a dead body (or parts of one) and rapidly draws out all remaining moisture, leaving the tissue dried and preserved. It works best on bones, but can also dry flesh, sinew, and organs. Used for preparing anatomical specimens, creating bone tools, or preserving trophies. The process takes about half an hour and leaves the remains brittle but stable."
+61,Spell: Mercy Kill,25 CP,Original,"You've learned a new spell!
+
+Name: Mercy Kill
+Aspect: 1 Aether + 2 Death + 1 Destruction
+Description: This spell targets a living creature. It creates a thin, barely visible tether between the caster and the target, and sends a request into the target's soul. If the target can understand the request and answers positively, they quickly and painlessly die. If they decline, the tether snaps and nothing happens. Death begins with the rapid death of neurons in the brain and the unraveling of connections, but other tissues follow shortly after.
+
+The spell does not require the target to be conscious, aware, or physically capable of response. Even a target in a coma, paralyzed, or otherwise unable to communicate can be reached through their soul, which receives the request and can accept or decline it based on its understanding. Some animals are also capable of giving their consent, provided their souls can grasp the nature of the choice being offered."
+62,Spell: Internal Abacus,10 CP,Original,"You've learned a new spell!
+
+Name: Internal Abacus
+Aspect: 2 Mind + 1 Order + 1 Semblance
+Description: This spell creates a temporary partition in the caster's mind that functions like a calculator. The user can enter various mathematical operations they understand how to perform, and the Internal Abacus will quickly provide the solution."
+63,Spell: Penance,10 CP,Original,"You've learned a new spell!
+
+Name: Penance
+Aspect: 1 Hurt + 1 Healing
+Description: This spell causes the caster themselves to receive painful, but temporary and mostly illusory, wounds. The caster can control how much pain they experience and for how long - up to around an hour or until they lose consciousness."
+64,Spell: Decapitation,15 CP,Original,"You've learned a new spell!
+
+Name: Decapitation
+Aspect: 2 Hurt + 1 Force + 1 Semblance
+Description: Make a chopping gesture with your hand. Around your palm and extending some distance away from it (approximately five inches from the fingertips), a burning-like crimson aura will appear, which sounds like a knife being sharpened when moved through the air. If the aura touches the neck of another living creature, it leaves a small cut, which quickly grows into a clean decapitation. It can be temporarily disrupted or blocked by physical objects (as if it was a physical flame)."
+65,Spell: Severance,25 CP,Original,"You've learned a new spell!
+
+Name: Severance
+Aspect: 3 Hurt + 1 Force + 1 Semblance
+Description: A less theatrical but more versatile variant of Decapitation. The same chopping gesture produces a faint, almost invisible cutting edge that can sever any limb or body part, not just the neck. It can be blocked by sufficiently thick material or partially disrupted. 
+
+>Requires Spell: Decapitation"
+66,Spell: Bleed!,25 CP,Original,"You've learned a new spell!
+
+Name: Bleed!
+Aspect: 2 Hurt + 1 Water + 1 Life
+Description: This spell is channeled through a weapon or through the caster themselves. Wounds left by weapons with Bleed! channeled cause blood to stop coagulating and become thinner near the puncture temporarily, causing them to bleed profusely for a few minutes. Even blunt wounds are affected, but to a lesser degree - this spell works best for cuts and punctures."
+67,Spell: Cease!,15 CP,Original,"You've learned a new spell!
+
+Name: Cease!
+Aspect: 2 Hurt + 1 Air + 1 Aether
+Description: This spell is transmitted by voice: whoever hears the caster's voice while their throat is infused with the spell will be affected. It has a maximum radius of five meters, and the effect slowly becomes weaker over distance. A louder voice makes the effect stronger in the radius. It works in short bursts (such as the next word spoken). 
+
+The spell causes the target to experience a sudden but short-lived headache (like a severe migraine) and slight muscle cramps in random parts of their body. Not hearing the voice prevents the effect from working."
+68,Spell: Fall!,50 CP,Original,"You've learned a new spell!
+
+Name: Fall!
+Aspect: 2 Hurt + 1 Space + 1 Aether
+Description: This spell is channeled through a gesture - a downward pointing of the finger. A target within ten meters who sees the gesture and is of roughly human size or smaller feels a sudden, crushing weight on their body, as if gravity had intensified tenfold for an instant. They are forced to the ground and may be briefly stunned or winded, or even get their legs broken. Larger targets or those with exceptional strength may resist or ignore the effect."
+69,Spell: Choke!,25 CP,Original,"You've learned a new spell!
+
+Name: Choke!
+Aspect: 3 Hurt + 1 Aether + 1 Air
+Description: This spell is channeled through the user's body and transmitted by their scent (such as blood and sweat). When a target smells the caster while the spell is active, they suddenly choke - their airways contract. The spell's effect works like a poison; it lingers after being applied and can even damage the airways. 
+
+However, it lasts only for a limited time. The strength of the effect depends on the olfactory acuity of the target, and its duration depends on how long they perceive the smell (up to nine minutes of active choking)."
+70,Spell: Spit!,10 CP,Original,"You've learned a new spell!
+
+Name: Spit!
+Aspect: 3 Hurt + 1 Aether + 1 Water
+Description: This spell is cast once to linger on the caster's body for some time (up to 44 minutes). It is transmitted through the caster's taste (their saliva, sweat, blood, etc.) When a target comes into contact with the caster's taste (such as through a spit, a kiss, or bite), they are affected by the spell. The target experiences severe nausea and vertigo, which can be debilitating and disorienting. The effect lasts for a limited time (up to 12 minutes), and its severity depends on the acuity of the target's sense of taste and duration for how long they experienced taste."
+71,Spell: Kitty Claws,10 CP,Original,"You've learned a new spell!
+
+Name: Kitty Claws
+Aspect: 1 Hurt + 1 Transformation + 1 Semblance
+Description: This spell slightly elongates the user's nails, making them sharp like claws and distinctly red. It can be channeled, sustained, or cast for a duration (up to three minutes). It can target both toenails and fingernails. These claws are durable and unusually sharp, especially when cutting living or dead tissues. When the spell ends, the nails return to their normal state."
+72,Spell: Kitty Bristles,15 CP,Original,"You've learned a new spell!
+
+Name: Kitty Bristles
+Aspect: 1 Hurt + 2 Protection + 1 Transformation + 1 Semblance
+Description: This spell can be channeled, sustained, or cast for a duration (up to 33 minutes). It affects all of the user's hair, turning it into a ginger-colored reactive shield. When the user feels a threat from a certain direction or something tries to strike them, the hairs stand on end, working like durable needles that are especially good at piercing living and dead tissues. When the spell ends, the hair returns to its normal state."
+73,Spell: Kitty Bites,10 CP,Original,"You've learned a new spell!
+
+Name: Kitty Bites
+Aspect: 2 Hurt + 1 Semblance + 1 Transformation
+Description: This spell can be channeled, sustained, or cast for a duration (up to 71 minutes). It affects the user's mouth and teeth, making the latter much more durable and sharper when used against other living creatures. It also grants enhanced biting strength and the ability to open the jaws wider. 
+
+However, the main effect of the spell is the ability to project the bite slightly outside the reach of the mouth: red and ghostly outlines of chomping teeth appear for a moment when the user performs a biting action, and they will bite things up to four inches away from the mouth. When the spell ends, the teeth return to their normal state."
+74,Spell: Perish!,50 CP,Original,"You've learned a new spell!
+
+Name: Perish!
+Aspect: 2 Hurt + 2 Death + 1 Transformation
+Description: The user infuses a hair with this spell, allowing it to be flung like a needle-projectile as fast as a dart and extremely difficult to see due to its thin nature. When this hair sinks into living flesh, the effect of the spell takes hold. It works like a venom, causing severe, hot pain at the site of impact, necrosis spreading from the point of contact, and gradually worsening paralysis. A single hair can kill an adult male if it remains embedded in their body for half a minute. Removing the hair quickly lessens the effect of the spell."
+75,Spell: Wound Patch,10 CP,Original,"You've learned a new spell!
+
+Name: Wound Patch
+Aspect: 2 Semblance + 1 Healing
+Description: Creates a temporary, semi-transparent film over a wound. The film prevents the wound from widening, keeps out dirt and debris, and stops minor bleeding. It lasts for several hours. The spell does not heal the wound - it only stabilizes and protects it. Larger or deeper wounds may require multiple applications or a stronger, different spell."
+76,Spell: Epinephrine Charm,10 CP,Original,"You've learned a new spell!
+
+Name: Epinephrine Charm
+Aspect: 1 Semblance + 1 Healing + 1 Life
+Description: This spell functions much like an EpiPen. It stops and reverses severe allergic reactions and prevents anaphylactic shock from occurring. The spell can also be used preemptively, providing protection for one to two hours."
+77,Spell: Organic Mending,25 CP,Original,"You've learned a new spell!
+
+Name: Organic Mending
+Aspect: 3 Healing + 2 Transformation
+Description: This spell reverses mechanical damage in a variety of tissues. It does not leave scars, but it is not perfect - the effect cannot regenerate lost tissue. Instead, it takes what is present and fuses it back together into a coherent, functional whole. The spell works on practically any tissue, though its effectiveness varies by tissue type."
+78,Spell: Bone Mending,50 CP,Original,"You've learned a new spell!
+
+Name: Bone Mending
+Aspect: 3 Healing + 2 Transformation + 1 Order
+Description: This spell is a specialized variation of Organic Mending, focused specifically on repairing mechanical damage to bone. It can also regenerate small amounts of lost bone tissue. The spell can be guided with high accuracy and precision by the practitioner, allowing even complex fractures to be fully repaired.
+
+>Requires Spell: Organic Mending"
+79,Spell: Skin Mending,50 CP,Original,"You've learned a new spell!
+
+Name: Skin Mending
+Aspect: 3 Healing + 2 Transformation + 1 Order
+Description: A specialized variation of Organic Mending focused on skin, mucous membranes, and related tissues. The spell reverses mechanical damage, sealing cuts, tears, and abrasions without scarring. It can regenerate lost tissue in small amounts, but mostly fuses existing material back into a coherent, functional whole.
+
+>Requires Spell: Organic Mending"
+80,Spell: Vascular Mending,50 CP,Original,"You've learned a new spell!
+
+Name: Vascular Mending
+Aspect: 3 Healing + 2 Transformation + 1 Order
+Description: A specialized variation of Organic Mending focused on blood vessels, the heart, and related tissues. The spell repairs mechanical damage such as tears, punctures, and ruptures, restoring circulatory integrity. It can regenerate lost tissue to a degree, but mostly fuses existing material back into a functional state.
+
+>Requires Spell: Organic Mending"
+81,Spell: Muscle Mending,50 CP,Original,"You've learned a new spell!
+
+Name: Muscle Mending
+Aspect: 3 Healing + 2 Transformation + 1 Order
+Description: A specialized variation of Organic Mending focused on muscles, tendons, and similar tissues. The spell reverses mechanical damage, reconnecting torn fibers and restoring tensile strength. It can regenerate lost tissue to a degree, but mostly fuses existing material back into a coherent, functional whole.
+
+>Requires Spell: Organic Mending"
+82,Spell: Neural Mending,50 CP,Original,"You've learned a new spell!
+
+Name: Neural Mending
+Aspect: 3 Healing + 2 Transformation + 1 Order
+Description: A specialized variation of Organic Mending focused on nerves, neural tissues, and their supporting structures. The spell repairs mechanical damage, reconnecting severed or compressed neural pathways. It can regenerate small amounts of lost tissue, but mostly fuses existing material back into a functional state. Results may vary depending on the complexity of the injury. The spell does not restore memories or skills - it only repairs the hardware.
+
+>Requires Spell: Organic Mending"
+83,Spell: Cancer Killing Array,100 CP,Original,"You've learned a new spell!
+
+Name: Cancer Killing Array
+Aspect: 5 Healing + 2 Life + 1 Death + 3 Order + 2 Transformation
+Description: This complex, modular spell is designed to counter malignant tumors. It operates through several vectors: detecting problematic tissue, killing or reverting cancerous cells, and temporarily training the immune system to accurately recognize that specific cancer type. With repeated use, this immune training can become semi-permanent for this specific kind of cancer.
+
+The spell requires significant time and focus to execute. Multiple applications are usually needed to fully eliminate a tumor, and it may miss isolated rogue cells. The lengthy process is due to the vast diversity of cancer types, even within a single tissue. The spell cannot harm healthy tissues."
+84,Spell: Immune Fortification,10 CP,Original,"You've learned a new spell!
+
+Name: Immune Fortification
+Aspect: 3 Life + 2 Order + 1 Healing + 1 Protection
+Description: This spell temporarily bolsters the patient's immune system, enhancing its ability to identify and eliminate threats - including infections, abnormal cells, and even some types of cancer. The effect lasts for several days. Overuse might cause acute auto-immune symptoms. "
+85,Spell: Antibody Focus,15 CP,Original,"You've learned a new spell!
+
+Name: Antibody Focus
+Aspect: 5 Life + 2 Order + 1 Healing + 1 Mind + 1 Protection
+Description: This spell is a variant of Immune Fortification that allows the healer to direct the patient's immune system toward a specific threat: a particular pathogen, a known allergen, or a recognized cancer marker. The spell requires the healer to understand the target and provides no protection against other threats. The effect lasts for several hours. Less risk of auto-immune symptoms due to the focused nature of the spell.
+
+>Requires Spell: Immune Fortification"
+86,Spell: Hydra's Blessing,50 CP,Original,"You've learned a new spell!
+
+Name: Hydra's Blessing
+Aspect: 4 Healing + 2 Life + 1 Semblance + 2 Creation
+Description: This spell grants a short-lived but extreme healing factor focused on regenerating lost limbs and organs. For organs, at least some remaining tissue (such as a portion of a kidney) is required for the spell to function.
+
+The blessing works best on fresh, mechanical wounds. The user can guide the regeneration for improved results. However, the spell places strain on the body (even while producing tissue ex nihilo) and may cause complications for those who are famished, ill, or otherwise exhausted.
+
+Note: Slightly ages regenerated tissues and slightly increases the risk of cancer in the long run."
+87,Spell: True Healing,100 CP,Original,"You've learned a new spell!
+
+Name: True Healing
+Aspect: 6 Healing + 3 Order + 3 Life + 3 Creation + 1 Aether
+Description: This spell heals mechanical wounds and corrects alignment issues (such as misaligned bones, partial organ loss, or paralysis) without drawing energy or biomass from the recipient. It cannot handle complex problems like vision loss from brain damage or completely missing eyes, but resolves anything less severe. The spell does not affect poisons or illnesses, though it can heal the damage they caused.
+
+True Healing is costly and works in an unfocused manner: healing everything at once, it cannot be focused or prioritized. Cost increases proportionally with the number and complexity of issues addressed per unit of time."
+88,Spell: Cellular Resuscitation,25 CP,Original,"You've learned a new spell!
+
+Name: Cellular Resuscitation
+Aspect: 3 Healing + 2 Aether + 1 Order + 1 Time
+Description: This spell reverses the death of recently deceased cells and repairs cellular-level damage in targeted tissues. It is highly effective against necrosis and radiation damage. While the spell cannot fully repair DNA, it can reliably address recent and severe DNA damage. It does not affect genetic disorders - only damage incurred relatively recently and that is unnatural for the body's usual state."
+89,Spell: Deformation Curse,50 CP,Original,"You've learned a new spell!
+
+Name: Deformation Curse
+Aspect: 2 Curse + 2 Hurt + 1 Transformation
+Description: This curse manifests as a continuous, fluid-like ray of energy with a faint scent of rotten blood. When it strikes a living creature, it begins to slowly and painfully deform their bone and muscle structure.
+
+The effect is not deadly and leaves almost no actual tissue or organ damage, but it is severely crippling and distorting. The point of impact is affected the most, and the user can decide the general direction of the deformation. Like all curses, it resists being reversed."
+90,Spell: Pins and Needles,15 CP,Original,"You've learned a new spell!
+
+Name: Pins and Needles
+Aspect: 1 Curse + 1 Mind + 2 Hurt
+Description: This curse manifests as a thin needle of dark-red light accompanied by the sound of a nail dragged across glass. Upon impact, the victim experiences a sudden, brief sensation of many tiny needles pricking random parts of their skin - then it vanishes.
+
+From that moment on, several times a day at random intervals, the sensation of one or more needles piercing the skin will flare up again and then abruptly stop. This continues for the rest of the victim's life unless the curse is lifted or countered somehow."
+91,Spell: Festering Mark,15 CP,Original,"You've learned a new spell!
+
+Name: Festering Mark
+Aspect: 2 Curse + 1 Death
+Description: This curse appears as a small, fast-moving blob of brown slime. Upon striking a target, it enters the body and causes all wounds near the point of impact to become inflamed and rotten. Even after those wounds are finally cleared and healed, any new injury dealt to the same area will spontaneously become infected and rot again, because the curse still lingers in the flesh."
+92,Spell: Slippery Soul,15 CP,Original,"You've learned a new spell!
+
+Name: Slippery Soul
+Aspect: 2 Aether + 2 Order + 1 Life + 1 Protection
+Description: This blessing grants temporary resistance to curses. It rarely prevents a curse's effect entirely, but ensures the curse does not stick and generally weakens its impact. The blessing can be overwhelmed by enough curses layered together.
+
+Focusing on a specific curse or a few similar ones during the casting improves resistance against those specifically while weakening effect against others. Slippery Soul can also be cast immediately after being struck by a curse, causing it to ""slip"" off the target - though this is harder and less reliable."
+93,Mystic Craft: Ward from Evil,25 CP,Original,"You've learned a new mystic craft!
+
+Name: Ward from Evil
+Aspect: 3 Protection + 1 Creation
+Description: This is the art of creating a protective mark on a body that prevents curses from sticking and weakens their initial effects. The closer a curse strikes to the mark, the more effective the protection. With each curse blocked or weakened, the mark diminishes until it eventually vanishes. This mark can also be placed on an object to prevent it from being cursed."
+94,Ritual: Cleansing Pyre,100 CP,Original,"You've learned a new ritual!
+
+Name: Cleansing Pyre
+Aspect: 4 Fire + 3 Order + 2 Aether + 1 Death + 1 Purity
+Description: This ritual is designed to separate a curse from its target (land, object, or creature) and burn it in purifying flames. The cost and complexity scale with the nature, intensity, and scale of the curse.
+
+Full success: The curse is erased (without reversing its physical effects) and yields purified remnants (white ash, milky water, etc.) which can be used in future Cleansing Pyre rituals against the same or similar curses, greatly reducing cost and complexity.
+
+Partial success: The curse may be separated and latched onto something else nearby (warping it in the process), or weakened enough to fade on its own over time.
+
+Failure: The curse is unaffected, or at most temporarily weakened."
+95,Spell: Purifying Embers,25 CP,Original,"You've learned a new spell!
+
+Name: Purifying Embers
+Aspect: 2 Fire + 1 Order + 1 Healing + 2 Purity
+Description: A smaller, less dramatic version of Cleansing Pyre. This spell produces a small flame that can be applied directly to a cursed wound or object. It weakens the curse rather than removing it entirely, buying time for a proper Cleansing Pyre ritual. The flames do not harm living tissue."
+96,Spell: Heart Sight,15 CP,Original,"You've learned a new spell!
+
+Name: Heart Sight
+Aspect: 1 Air + 1 Mind + 1 Lore
+Description: This spell alters your perception, allowing you to see nearby heartbeats as an overlay on your vision combined with an intuitive sense. It works through walls, but effective sound isolation will block it.
+
+The spell captures sounds, identifies those matching the noise of heartbeats, and lets you see them. You can perceive how loud or fast each heartbeat is. If too many heartbeats are present, they tune out and turn into a vague fog, causing no negative effects on you."
+97,Spell: Mind Mapping,50 CP,Original,"You've learned a new spell!
+
+Name: Mind Mapping
+Aspect: 2 Lore + 1 Mind + 1 Aether
+Description: This spell lets you take a snapshot of a person's general neural structure or mind via eye contact or touch. It provides only the ""shape"" of their mind: no thoughts, moods, or memories, no specific contents. Think of it as an intuitive magic MRI.
+
+The longer you focus on a target, the clearer the image becomes. The spell can reveal abnormalities, unique mental traits, which temperaments are more or less expressed in the psyche, and so on. However, interpreting what unfamiliar ""mind map"" features actually mean is entirely up to you."
+98,Spell: Write In,10 CP,Original,"You've learned a new spell!
+
+Name: Write In
+Aspect: 1 Lore + 1 Mind + 1 Order
+Description: This spell lets you perfectly memorize what you are currently reading. It creates something like a file somewhere in your neural architecture, which is very easy to access and recall later. 
+
+However, you must actually read and comprehend what you are looking at while sustaining the spell, as it uses the text-recognition part of your mind to function. Being tired or lacking focus and reading skills may prevent the spell from working, or cause it to stop while you are reading - resulting in an incomplete recording or missing sections."
+99,Spell: Know Thy Tongues,100 CP,Original,"You've learned a new spell!
+
+Name: Know Thy Tongues
+Aspect: 4 Mind + 2 Order + 1 Lore
+Description: This spell lets you teach a willing or unconscious target any language you know, provided they are capable of learning it. The spell works in two stages.
+
+First, you isolate and create a small mind-space containing a copy of your knowledge of a specific language. You can even teach an incomplete version if you wish. Then, that knowledge is removed from your mind, placed into a wisp-like carrier, and transferred to the recipient through touch or close proximity.
+
+The spell teaches the language as you speak it: including word meanings, accent, and reading and writing specifics. It is possible for someone to learn the same language from two different people and still gain something useful from each, because everyone's linguistic knowledge is slightly different."
+100,Spell: Skill Implantation,100 CP,Original,"You've learned a new spell!
+
+Name: Skill Implantation
+Aspect: 4 Mind + 2 Order + 2 Life
+Description: This spell lets you copy a motor skill you possess into an isolated, temporary part of your mind, then remove it as a spell carrier and implant it into a willing or unconscious target. The spell automatically remaps the skill to the recipient's neural structure.
+
+The recipient needs time to practice and fully integrate the new skill. The thing includes any bad skill-related habits or quirks from the original owner. Taking a skill directly from another person's head is possible, but they must perform the first step (isolating the data package) themselves. This method costs significantly more."
+101,Spell: Hypercalculia,25 CP,Original,"You've learned a new spell!
+
+Name: Hypercalculia
+Aspect: 2 Mind + 1 Order + 1 Lore
+Description: This spell temporarily enhances and optimizes the part of the user's mind that handles calculations. Working with numbers becomes much more intuitive and quick, while comprehension of numerical and calculation-related knowledge and skills is slightly improved.
+
+The spell can be cast on others, but at a higher cost and with a shorter duration (unless continuously sustained). It can also counter the effects of dyscalculia, bringing the target at least to an average level for the duration."
+102,Mystic Craft: Catch-Curse Talisman,50 CP,Original,"You've learned a new mystic craft!
+
+Name: Catch-Curse Talisman
+Aspect: 3 Creation + 2 Protection
+Description: This magical craft allows you to create special amulets (ofuda) that intercept and absorb curses, burning away instead of allowing the curse to affect the wielder, but only if the curse strikes the amulet or lands close to it. These talismans can also be used to temporarily weaken and slow an existing curse's active effect, consuming the amulet in the process."
+103,Crafting Ritual: Hide Lantern,,Original,"You've learned a new crafting ritual!
+
+Name: Hide Lantern
+Aspect: 3 Transformation + 1 Light + 1 Order
+Description: Inscribe a specific sigil on a piece of raw animal skin and add a drop of blood (any). The skin folds and transforms into a leathery, slightly bouncy sphere. Squeeze it to turn the light on; squeeze again to turn it off. The light is relatively dim. 
+
+While squeezed and held, you can cycle through colors: cold white (brightest), warm white, orange, yellow, and red (dimmest). The lantern lasts for a few months of continuous use. Larger pieces of skin produce larger spheres (up to 15 cm in diameter) that last longer."
+104,Spell: Explosivo,25 CP,Original,"You've learned a new spell!
+
+Name: Explosivo
+Aspect: 2 Fire + 2 Air + 1 Order
+Description: This spell produces a fast-moving, metallic-looking sphere that is extremely sticky. Upon impact, it begins to grow in size over the course of one second, then explodes. You can create spheres as small as a pea or as large as a soccer ball, with explosive power scaling proportionally. The projectile feels lightweight and hollow.
+
+If the sphere is broken before detonation, the explosion may be prevented entirely or triggered early with reduced force, depending on how and when it is damaged. It won't explode before sticking though."
+105,Spell: Gamma Laser,50 CP,Original,"You've learned a new spell!
+
+Name: Gamma Laser
+Aspect: 1 Light
+Description: This spell produces a thin ray of gamma radiation in an extremely short burst. The beam is incredibly quick, energy-efficient, and possesses exceptional penetration power, cutting through most mundane materials with ease.
+
+However, the ray is narrow and highly focused. Unless it strikes something vital (a brain, heart, or critical component), the results are often debilitating rather than immediately fatal. Tissue along the beam's path suffers severe radiation damage, but the wound channel itself is tiny."
+106,Martial Technique: Swift and Heavy ,25 CP,Original,"You've learned a martial technique!
+
+Name: Swift and Heavy
+Aspect: 1 Space + 1 Force
+Description: This martial technique targets a tool or weapon wielded by the user. While infused, the user can change the object's effective inertia and mass at will: making it up to ten times lighter or heavier, and doing so almost instantly. Doesn't make target more or less durable."
+107,Spell: Entropic Shattering,50 CP,Original,"You've learned a new spell!
+
+Name: Entropic Shattering
+Aspect: 3 Chaos + 1 Destruction
+Description: This spell can be applied on hit or through a relatively slow, flame-like carrier. When it strikes a target, a few faintly glowing, illusionary cracks appear on its surface, radiating from the point of impact. These cracks fade over time.
+
+While the cracks are still visible, any sufficiently strong hit may shatter the object along these imaginary lines, making them real. The more faded the cracks, the less effective the effect. The spell practically ignores conventional durability. It works best on homogeneous materials and is less effective on composite or uneven substances."
+108,Spell: Entropic Flames,50 CP,Original,"You've learned a new spell!
+
+Name: Entropic Flames
+Aspect: 2 Chaos + 1 Fire
+Description: This spell produces extremely cold, cyan-blue-white fire that does not burn. Upon contact with a material, the flame is partially drawn into it, causing the material's entropy to gradually increase from the point of contact inward, while the flame is still fed into it or persists.
+
+This effect causes sudden heat redistribution, chaotic mingling of different materials and elements within the composition (including with surrounding air), and typically results in the target crumbling into dust from the points of contact. The spell works best on composite materials made of many different substances, but is less effective against homogeneous materials."
+109,Spell: Disarming Spell,15 CP,Original,"You've learned a new spell!
+
+Name: Disarming Spell
+Aspect: 1 Mind + 1 Force + 1 Air
+Description: This spell produces a quick red carrier ray that forces the target to unclench their hands (or similar appendages) and release whatever they are wielding, while simultaneously propelling the item away from them."
+110,Spell: Paralysis Needle,15 CP,Original,"You've learned a new spell!
+
+Name: Paralysis Needle
+Aspect: 1 Life + 1 Mind
+Description: This spell launches needles of dim green light that easily penetrate living tissue and some thin non-living materials. The needles do not cause physical damage - they partially phase into the target and can be removed without trauma.
+
+However, each needle induces numbness and paralysis around the struck area. This effect lasts until the needles naturally vanish, are dispelled, or are removed. The spell is clearly non-lethal, but highly restrictive."
+111,Spell: Bone Breaker,15 CP,Original,"You've learned a new spell!
+
+Name: Bone Breaker
+Aspect: 2 Hurt + 1 Life
+Description: The carrier of this spell is a projectile that can pass through low-density obstacles and living tissue, though it gradually loses power and can eventually be stopped. When it strikes bone, it interacts like fast-moving metallic material, typically fracturing or breaking it."
+112,Spell: Bloodletting,20 CP,Original,"You've learned a new spell!
+
+Name: Bloodletting
+Aspect: 2 Hurt + 1 Water
+Description: The carrier of this spell resembles liquid crimson lightning. When Bloodletting strikes, it causes nearby blood vessels to burst and temporarily prevents blood from coagulating. This typically results in severe internal bleeding."
+113,Spell: Piercing Spell,20 CP,Original,"You've learned a new spell! 
+
+Name: Piercing Spell
+Aspect: 1 Force
+Description: This spell manifests as a semi-transparent, light-blue projectile shaped like an arrowhead. When it strikes something, it applies high force over a small area and pierces through the obstacle. It is strong enough to pierce glass with almost no shattering. It can be tuned to be more or less powerful."
+114,Spell: Bludgeoning Spell,20 CP,Original,"You've learned a new spell!
+
+Name: Bludgeoning Spell
+Aspect: 1 Force
+Description: This spell manifests as a semi-transparent, light-orange projectile shaped like a fuzzy disc or slab. When it strikes a target, it applies high force across the area of contact, pushing and shattering whatever it hits. It is strong enough to easily knock down a door or overturn a car. The spell can be tuned to be more or less powerful as needed."
+115,Spell: Slicing Spell,20 CP,Original,"You've learned a new spell!
+
+Name: Slicing Spell
+Aspect: 1 Force
+Description: This spell manifests as a semi-transparent, light-green projectile shaped like a thin crescent. When it strikes a target, it applies high force along a narrow edge, cutting and shearing through the material. It is strong enough to slice through rope, leather, or even thin metal cables with ease. The spell can be tuned to deliver a shallow cut or a deep gash as needed."
+116,Spell: Crimson Flame,25 CP,Original,"You've learned a new spell!
+
+Name: Crimson Flame
+Aspect: 3 Fire + 1 Hurt
+Description: The spell produces streams, bursts or small projectiles of special flame. This crimson fire is not very hot (around 100 degrees Celsius), produces a sound of rubbing needles, and sticks to living tissues. Damage from this flame mostly comes from the small cuts and pinpricks it causes to living tissues while it is stuck, turning the material it ""burns"" into mincemeat. This fire consumes blood as fuel - as if it were gas for the flame."
+117,Spell: Absorption Nudge,10 CP,Original,"You've learned a new spell!
+
+Name: Absorption Nudge 
+Aspect: 1 Life + 1 Transformation + 1 Water
+Description: This spell can be cast on medicine, on the patient, or on both simultaneously. It helps the drug to be absorbed more quickly and to take effect sooner. A skilled medic can even use this spell to nudge the drug toward specific areas of the body first, or to reduce its presence in others, making treatment more efficient and lowering side effects."
+118,Spell: Cauterize Wounds,10 CP,Original,"You've learned a new spell!
+
+Name: Cauterize Wounds
+Aspect: 1 Healing + 1 Fire
+Description: This spell allows the user to efficiently and quickly cauterize wounds with just a touch, stopping bleeding and sealing the wound closed. The process is painful and leaves burns and scars, but it is highly effective in emergencies where proper treatment is unavailable."
+119,Spell: Defibrillation,10 CP,Original,"You've learned a new spell!
+
+Name: Defibrillation
+Aspect: 1 Healing + 1 Lightning
+Description: This spell functions like a finely tuned defibrillator. The user lays their palms on the patient's chest and channels the spell through them. It does not work on other parts of the body and cannot be used to produce a shock on demand - it is specifically calibrated to restore proper heart rhythm."
+120,Spell: Anesthetic Touch,15 CP,Original,"You've learned a new spell!
+
+Name: Anesthetic Touch
+Aspect: 2 Healing + 1 Mind + 1 Life
+Description: This spell numbs a targeted area of the patient's body, blocking pain signals without affecting consciousness or motor function. The effect lasts for up to an hour, depending on the area and the patient's constitution. Useful for surgery or treating painful injuries without general anesthesia."
+121,Spell: Blood Clotting,10 CP,Original,"You've learned a new spell!
+
+Name: Blood Clotting
+Aspect: 2 Healing + 1 Water + 1 Life
+Description: This spell accelerates the body's natural clotting process, rapidly sealing wounds and stopping internal bleeding. The effect is localized to the wound and does not affect the rest of the circulatory system. Useful for deep wounds or internal injuries."
+122,Spell: Field Injection,10 CP,Original,"You've learned a new spell!
+
+Name: Field Injection
+Aspect: 2 Semblance + 1 Metal + 1 Healing + 1 Transformation
+Description: This spell is used on a finger by the caster. It temporarily transforms the finger into a metallic but organically shaped syringe. It can be used to store and inject medicine into a patient. The needle part can be controlled: made thicker or thinner, or bent to a degree. This spell does not leave puncture holes; they are healed on the needle's way out."
+123,Spell: Paralytic Touch,15 CP,Original,"You've learned a new spell!
+
+Name: Paralytic Touch
+Aspect: 2 Life + 1 Lightning
+Description: This spell produces a barely visible blue aura around the caster's hand. This aura can be used to force muscles to relax and prevent movement in the area by touch. Alternatively, the spell can be channeled into the target for more general paralysis and relaxation, or to make the effect stick for a time (up to an hour)."
+124,Spell: Sterile Field,10 CP,Original,"You've learned a new spell!
+
+Name: Sterile Field
+Aspect: 2 Protection + 1 Life + 1 Air +1 Earth 
+Description: This spell creates a temporary, invisible barrier around a targeted area (such as a wound, a surgical site, or a medical instrument) that repels bacteria, viruses, and other contaminants. The field lasts for several hours or until deliberately dismissed. Used in field medicine to prevent infection when sterile conditions cannot be guaranteed. It is highly efficient, but not perfect. "
+125,Spell: Muscle Relaxant,10 CP,Original,"You've learned a new spell!
+
+Name: Muscle Relaxant
+Aspect: 2 Life + 1 Water + 1 Healing
+Description: A gentler variant of Paralytic Touch that reduces muscle tension without causing full paralysis. The target remains mobile but feels relaxed and loose, with reduced strength and reflexes. Useful for treating spasms, anxiety, or preparing a patient for physical therapy."
+126,Spell: Slicing Curse,50 CP,Original,"You've learned a new spell!
+
+Name: Slicing Curse
+Aspect: 2 Hurt + 1 Curse + 1 Force
+Description: A sibling of the Slicing Spell. This curse manifests as a semi-transparent, dark greenish-yellow projectile shaped like a thin crescent with a jagged edge. When it strikes a creature, it leaves an ugly cut and causes temporary severe bleeding. It can penetrate thin armor, but its intended target is living flesh.
+
+Wounds left by this curse heal several times slower, bleed more profusely, and leave ugly scars that tend to ache, reopen, and even bleed again on occasion. Like all curses, it resists being reversed.
+
+>Requires Spell: Slicing Spell "
+127,Spell: Sweating Sickness,25 CP,Original,"You've learned a new spell!
+
+Name: Sweating Sickness
+Aspect: 2 Life + 1 Fire + 1 Curse
+Description: This curse appears as a streak of ugly flame and carries a faint scent of sweat. When it strikes a target, it induces a high (but not deadly) fever that lasts for several hours. From that point on, the fever will return and subside periodically. Sometimes it lasts a few hours, sometimes a full day. It may strike once a month or several times a week. In the long run, this will surely wear down the victim's body and spirit unless the curse is lifted or countered somehow."
+128,Spell: Snap & Seal,50 CP,Original,"You've learned a new spell!
+
+Name: Snap & Seal
+Aspect: 1 Curse + 1 Hurt + 1 Force + 1 Heal
+Description: This curse appears as a barely visible slab of black and white, accompanied by a wet snapping sound - similar to the Bone Breaker spell. It is a projectile that can pass through low-density obstacles and living tissue, gradually losing power until stopped.
+
+When it strikes bone, it interacts like fast-moving metallic material, typically fracturing or breaking it. The bone then instantly heals, but in the wrong, fractured state. The curse actively resists any attempt to correct the mishealed bone.
+
+>Requires Spell: Bone Breaker"
+129,Spell: Hurting,25 CP,Original,"You've learned a new spell!
+
+Name: Hurting
+Aspect: 1 Hurt
+Description: Creates a semi-transparent, head-sized orb of flowing red and violet swirls. It moves as quickly as a stone thrown from a sling. When the orb hits, it creates a heavy impact and pushes the target away. The effect is much stronger against living things - dramatically so. It can leave literal cylindrical holes in a target, like a cannonball. However, it pops soon after impact."
+130,Spell: Drubbing,25 CP,Original,"You've learned a new spell!
+
+Name: Drubbing
+Aspect: 1 Hurt
+Description: This spell produces a swarm (12 to 43) of small orbs, which look like semi-transparent ball bearings filled with red and violet swirls. They flow together like a swarm of flies and can be sustained by the caster as a relentless wave of newly produced orbs, and even slightly controlled. Each one creates a small impact on contact with inanimate things and punches like a fist on contact with a creature. They pop on impact."
+131,Spell: Carnage,50 CP,Original,"You've learned a new spell!
+
+Name: Carnage
+Aspect: 2 Hurt + 1 Chaos
+Description: This is a bolt-quick streak of yellow-crimson color. When it hits a creature, it causes tissues around the zone of impact to explode like a bloody, gory balloon. It can be blocked by thick enough physical barriers and it simply punches them instead. The volume it explodes can be tuned within certain limits (from exploding a finger, to popping half the torso of tissue)."
+132,Martial Technique: Red Strikes,50 CP,Original,"You've learned two new martial techniques!
+
+Name: Red Punch
+Aspect: 1 Hurt
+Description: Channel the Hurt aspect in a specific way through your fists, forearms, and elbows to make your punches twice as efficient and damaging against creatures.
+
+Name: Red Kick
+Aspect: 1 Hurt
+Description: Channel the Hurt aspect in a specific way through your feet, shins, and knees to make your kicks twice as efficient and damaging against creatures."
+133,Martial Technique: Vulnerability,25 CP,Original,"You've learned a new martial technique!
+
+Name: Vulnerability
+Aspect: 1 Hurt + 1 Destruction
+Description: Push some of the magic into your target while attacking. The place you push it into will be temporarily weakened and more vulnerable against subsequent attacks to this area, especially if you are using the Hurt aspect as part of the attack."
+134,Martial Technique: Red Skin,25 CP,Original,"You've learned a new martial technique!
+
+Name: Red Skin
+Aspect: 1 Hurt + 1 Protection
+Description: Channel magic through your skin in a specific way. Your skin will appear slightly redder. When a creature attacks you using their body parts, those body parts will suffer twice as much of natural blowback, making it more painful to punch or kick, or otherwise attack you without a weapon."
+135,Martial Technique: Red Mist,25 CP,Original,"You've learned a new martial technique!
+
+Name: Red Mist
+Aspect: 1 Hurt + 1 Mind
+Description: This technique makes your sweat evaporate and linger around your body as a barely visible red-tinted aura of steam. When opponents touch the steam, the area touched gets amplified pain sensations. If they feel pain in the place of contact, it becomes worse."
+136,Martial Technique: Internal Trauma,25 CP,Original,"You've learned a new martial technique!
+
+Name: Internal Trauma
+Aspect: 1 Hurt + 1 Water
+Description: At the moment of attack, infuse your hit with magic, making most of the force of your attack transfer as vibrations and spikes of pressure in blood vessels in the area where the attack lands."
+137,Martial Technique: Red Echo,15 CP,Original,"You've learned a new martial technique!
+
+Name: Red Echo
+Aspect: 1 Hurt + 1 Air
+Description: Channel Hurt through your breath and voice. When you shout or exhale sharply, the sound carries a minor Hurt effect - causing brief, sharp pain in the ears and sinuses of anyone within close range. The effect is disorienting but not damaging."
+138,Martial Technique: Red Shadow,50 CP,Original,"You've learned a new martial technique!
+
+Name: Red Shadow
+Aspect: 2 Hurt + 1 Semblance
+Description: Channel Hurt through your movements. Afterimages of your attacks linger in the air for a moment - a faint red glow that pulses with violet. Anyone struck by the afterimage, which then fades quickly, experiences a brief but intense burst of pain, as if they had been hit. More advanced usage can create these afterimages for a multitude of attacks at once."
+139,Martial Technique: Shrug It Off,50 CP,Original,"You've learned a new martial technique!
+
+Name: Shrug It Off
+Aspect: 2 Protection + 1 Hurt + 1 Aether
+Description: A more unorthodox technique, usually used in bursts. It temporarily turns off the feeling of pain and reduces damage to half, but only if the user takes the hit on purpose. Perfect for moments, when one wants to trade the hits."
+140,Martial Technique: Pain Transfer,10 CP,Original,"You've learned a new martial technique!
+
+Name: Pain Transfer
+Aspect: 3 Hurt + 1 Life
+Description: Transfer part of your current sensation of pain with each landed strike. It causes a sudden spike of pain and discomfort in the hit area of the target briefly, at the same time slightly reducing the pain of the user for a moment."
+141,Martial Technique: Bloody Feast,25 CP,Original,"You've learned a new martial technique!
+
+Name: Bloody Feast
+Aspect: 3 Hurt + 2 Healing
+Description: This technique causes spilled blood from the enemy that lands on and stains you to be consumed and transformed into a slight burst of healing and invigoration for the user."
+142,Martial Technique: Burning Blood,25 CP,Original,"You've learned a new martial technique!
+
+Name: Burning Blood
+Aspect: 2 Hurt + 1 Fire + 1 Life
+Description: This technique causes your own spilled blood, which lands on and sticks to the enemy, to suddenly become boiling hot and catch fire. It evaporates in the process, leaving burns on the enemy's body."
+143,Martial Technique: Blood Echo,15 CP,Original,"You've learned a new martial technique!
+
+Name: Blood Echo
+Aspect: 2 Hurt + 1 Mind + 1 Semblance
+Description: This technique causes a lingering imprint of your spilled blood to remain in the area. Anyone who steps into the blood later experiences a brief but intense phantom pain - as if they have stepped into a memory of violence or shard of glass."
+144,Martial Technique: Bone Snapping,10 CP,Original,"You've learned a new martial technique!
+
+Name: Bone Snapping
+Aspect: 1 Hurt + 1 Earth
+Description: At the moment of attack, infuse your hit with magic, making most of the force of your attack transfer directly into the nearby bones in the area, instead of being diffused through surrounding tissues."
+145,Martial Technique: Butchery,10 CP,Original,"You've learned a new martial technique!
+
+Name: Butchery
+Aspect: 3 Hurt + 1 Metal
+Description: This technique is channeled through the sharp edge of a weapon or tool. It makes it unusually efficient at cutting soft, unprotected tissues of the target. Even a relatively dulled edge can be dangerous with this technique. Doesn’t affect bones."
+146,Martial Technique: Lunge,10 CP,Original,"You've learned a new martial technique!
+
+Name: Lunge
+Aspect: 1 Transformation
+Description: This sword technique allows the user to lengthen their blade for a moment in a burst of motion when performing a lunging attack (up to 4 inches). It gives an unexpected burst of reach for the attack."
+147,Martial Technique: Shield Breaking,10 CP,Original,"You've learned a new martial technique!
+
+Name: Shield Breaking
+Aspect: 3 Metal + 1 Destruction
+Description: This simple sword technique, used at the moment of attack, makes the blade more efficient at deforming and cutting metal. "
+148,Martial Technique: Armor Piercing,10 CP,Original,"You've learned a new martial technique!
+
+Name: Armor Piercing
+Aspect: 2 Metal + 1 Force + 1 Transformation
+Description: This technique is channeled through the tip of a weapon. At the moment of impact, the tip briefly becomes harder and more pointed, allowing it to pierce through armor that would otherwise deflect it. The effect is momentary - just long enough to penetrate."
+149,Spell: Karmic Retribution,75 CP,Original,"You've learned a new spell!
+
+Name: Karmic Retribution
+Aspect: 4 Aether + 2 Hurt + 1 Lore + 1 Destruction
+Description: This spell is a kind of aura that can be channeled into your weapons or even some solid magical projectiles. It causes a poisoning-like effect and great suffering to the target on contact, but proportional to how much they have hurt others. It essentially turns the pain they dealt to others against themselves, converting it into ""soul decay"" damage, which affects the shape of the soul and causes the body to take damage as well. The spell sees the older caused pain worse, not counting it completely. "
+150,Spell: Tree Birth,15 CP,Original,"You've learned a new spell!
+
+Name: Tree Birth
+Aspect: 3 Wood + 3 Creation + 2 Life + 1 Transformation
+Description: This spell requires a piece of wood (at least acorn-sized) to infuse. After this is done, the piece of wood will transform and sprout into a healthy sapling of the tree from which the wood was taken."
+151,Spell: Seed of Renewal,10 CP,Original,"You've learned a new spell!
+
+Name: Seed of Renewal
+Aspect: 2 Wood + 2 Life + 1 Creation
+Description: A simpler variant of Tree Birth that can be cast on a single living seed, causing it to sprout and grow into a healthy sapling over the course of a few hours. It does not require wood - only a viable seed."
+152,Ritual: Forest Awakening,25 CP,Original,"You've learned a new ritual!
+
+Name: Forest Awakening
+Aspect: 4 Wood + 3 Life + 2 Creation + 1 Transformation + 1 Earth
+Description: A large ritual that can sprout an entire grove from fallen wood. It requires a piece of wood from each tree and a decent amount of time and energy to perform. The result is a new forest, growing from the remnants of the old."
+153,Spell: Seed Duplication,15 CP,Original,"You've learned a new spell!
+
+Name: Seed Duplication
+Aspect: 2 Life + 2 Creation + 1 Transformation
+Description: This spell targets a single or a few plant seeds. The target goes through a process that visibly resembles cell division, creating two seeds of the same type. However, the created seeds are not clones of the original, but rather the same species with a bit of genetic variation."
+154,Spell: Wood Petrification,15 CP,Original,"You've learned a new spell!
+
+Name: Wood Petrification
+Aspect: 2 Transformation + 1 Wood + 1 Earth
+Description: This spell is used on a volume of wood to gradually turn it into petrified wood. The larger the volume, the longer it takes. There is a maximum volume of a target (around 17 cubic meters). Allows the caster to petrify only specific parts of a wooden object - such as the outer layer, or a decorative pattern. "
+155,Spell: Wood Hardening,15 CP,Original,"You've learned a new spell!
+
+Name: Wood Hardening
+Aspect: 2 Transformation + 1 Wood + 1 Force
+Description: A spell inspired by Wood Petrification that hardens wood without turning it to stone. The wood becomes denser, more durable, and resistant to damage, but retains its organic nature. Useful for tools, weapons, and structural elements. Beware, it becomes heavier and might sink."
+156,Spell:  Coal Making,10 CP,Original,"You've learned a new spell!
+
+Name: Coal Making
+Aspect: 2 Transformation + 1 Wood + 1 Fire
+Description: This spell is used on a volume of wood to gradually turn it into charcoal of that type of wood. It works more quickly on many smaller chunks of wood than on one large piece. The larger the volume, the longer it takes. There is a maximum volume of a target (around 1.72 cubic meters)."
+157,Spell: Wood Drying,10 CP,Original,"You've learned a new spell!
+
+Name: Wood Drying
+Aspect: 3 Wood + 1 Air + 1 Water
+Description: This spell is used on a volume of wood to gradually and quickly dry it, making the material ready for construction uses. The process doesn’t damage wood. The larger the volume, the longer it takes. There is a maximum volume of a target (around 2.33 cubic meters)."
+158,Spell: Wood Bending,10 CP,Original,"You've learned a new spell!
+
+Name: Wood Bending
+Aspect: 2 Wood + 1 Water
+Description: This spell is used on a volume of wood to make it bend as if it had been steamed, and then harden it into its new, changed shape. The larger the volume, the longer it takes. There is a maximum volume of a target (around 0.345 cubic meters)."
+159,Spell: Wood Fusion,10 CP,Original,"You've learned a new spell!
+
+Name: Wood Glue
+Aspect: 2 Wood + 1 Water + 1 Order
+Description: This spell fuses two pieces of wood together at their contact surfaces, creating a bond as strong as the surrounding wood. The wood must be clean and dry, and the pieces must be held together during the process. Useful for joinery and repair."
+160,Spell: Rust Removal,10 CP,Original,"You've learned a new spell!
+
+Name: Rust Removal
+Aspect: 3 Metal + 1 Air + 1 Chaos
+Description: This spell produces a cone or ray area of effect (which feels and looks like wind) that separates and grinds rust away, leaving behind a clear metallic surface. It specializes in iron alloys, but can be tuned to work on some other metals."
+161,Spell: Iron Destressing,10 CP,Original,"You've learned a new spell!
+
+Name: Iron Destressing
+Aspect: 3 Metal + 1 Fire + 1 Order
+Description: This spell is used on a volume of metal (or part of it) and lessens its mechanical fatigue, dealing with microscopic damage to the structure of the metal. It specializes in iron alloys, but can be tuned to work on some other metals."
+162,Ritual: Alloy Separation,20 CP,Original,"You've learned a new ritual!
+
+Name: Alloy Separation
+Aspect: 3 Metal + 3 Transformation + 2 Chaos + 1 Order
+Description: This is a small ritual that separates a targeted volume of metal alloy into its component elements. For example, it can separate brass into copper and zinc, or steel into iron and carbon. The process is slow and requires precision. It is less effective and slower on alloys with many components."
+163,Spell: Metal Purity Testing,15 CP,Original,"You've learned a new spell!
+
+Name: Metal Purity Testing
+Aspect: 1 Metal + 2 Lore + 1 Light
+Description: A divination spell that reveals the purity and composition of a metal sample. The caster perceives the metal as a color or pattern that indicates its components and any impurities. However, the information depends on the user's knowledge. If the alloy contains substances unknown to the user, they will be marked as unknown."
+164,Ritual: Stone Liquefaction,15 CP,Original,"You've learned a new ritual!
+
+Name: Stone Liquefaction
+Aspect: 3 Earth + 2 Water + 1 Transformation
+Description: This ritual targets a volume of stone (up to 54.3 cubic meters) and turns it into a liquid similar to cement, but textured like the targeted stone. Different liquefied stones cannot mix. This ""cement"" will set over time and turn back into the original stone. Denser kinds of rock create heavier, less fluid ""cement"" and harden back more quickly."
+165,Spell: Stone Molding,10 CP,Original,"You've learned a new spell!
+
+Name: Stone Molding
+Aspect: 2 Earth + 1 Water + 1 Order
+Description: A less powerful variant of Stone Liquefaction turned into a spell form that softens stone to a clay-like consistency without fully liquefying it. The stone can be shaped by hand or with tools, then hardens back to its original density. Useful for detailed carving and repair work."
+166,Spell: Stone Fusion,10 CP,Original,"You've learned a new spell!
+
+Name: Stone Fusion
+Aspect: 3 Earth + 1 Fire + 1 Order
+Description: A spell that fuses two pieces of stone together at their contact surfaces, creating a seamless bond. The stone at the interface briefly softens, then hardens into a continuous mass. Used for joining stone elements without mortar."
+167,Ritual: Summon the Dead,25 CP,Original,"You've learned a new ritual!
+
+Name: Summon the Dead
+Aspect: 6 Aether + 4 Lore + 4 Death + 1 Alien + 1 Chaos
+Description: This unique and unusual work of magic allows you to summon echoes of the dead - something like ghosts. It works best on the recently dead or preserved corpses, and using it repeatedly on the same place makes the spell work less effectively.
+
+Unfortunately, you probably won't be able to interrogate anything useful from the echo of the dead. They are happy, blissful, and usually talk about good things, or simply sing. They are incapable of suffering. Weird."
+168,Ritual: Summon Imp,50 CP,Original,"You've learned a new ritual!
+
+Name: Summon Imp
+Aspect: 2 Alien + 1 Fire + 1 Hurt
+Description: Summon and trap a weak creature from some hellish dimension to bind it to serve you in exchange for something or by force. They are varied, and an experienced practitioner might find a specific kind of imp they desire for the job. Dead imps leave behind almost no physical traces. They are as smart as a human toddler, but cunning in certain areas, and different imps have different talents."
+169,Ritual:  Lesser Flame Summoning,50 CP,Original,"You've learned a new ritual!
+
+Name: Lesser Flame Summoning
+Aspect: 2 Alien + 2 Flame + 1 Aether
+Description: Summon a lesser spirit of fire to perform a task or bind it to your service. They do not have a mind of their own beyond what the summoner gives them. They have a strange way of thinking. Such a spirit might be used to power a large lantern or be settled into a furnace. In certain circumstances, it is possible for a lesser spirit to grow or become unstable, but this usually does not happen."
+170,Ritual: Bring Helping Hands,50 CP,Original,"You've learned a new ritual!
+
+Name: Bring Helping Hands
+Aspect: 2 Alien + 1 Semblance + 1 Mind + 1 Force
+Description: Use a ritual to obtain or discard this capability. You can summon ghost-like hands from the realm of palms. They can perform simple tasks requiring dexterity. They are much better at their job if you know how to do what you ask of them using your own hands - they partially draw on your understanding and skills.
+
+They cannot stay too far from you for too long, or the summoning will break (after about half an hour, give or take). You can summon two, four, six, eight, ten, or a dozen hands, and assign and reassign tasks to and between individual hands."
+171,Spell: Fire Shield,20 CP,Original,"You've learned a new spell!
+
+Name: Fire Shield
+Aspect: 2 Protection + 1 Fire
+Description: This spell can be cast on the self, another creature, or an object. It creates an invisible aura that becomes more visible proportionally to how much heat is trying to breach it. The aura blocks excessive heat, preventing it from reaching the target. However, if too much heat affects it at once, or if it is strained for too long, the shield may ""pop"" and leave the target defenseless."
+172,Spell: Shroud from Flame,20 CP,Original,"You've learned a new spell!
+
+Name: Shroud from Flame
+Aspect: 1 Protection + 1 Fire
+Description: This spell can be cast on the self, another creature, or an object. It creates a kind of field that penetrates the target's volume, reducing how much excess heat it receives from external sources and making it more resistant to the effects of heat. However, it does not block it completely - it just severely reduces the detrimental effects. For example, instead of receiving third-degree burns in two seconds, one will receive first-degree burns over the course of twenty seconds."
+173,Spell: Flaming Armor,25 CP,Original,"You've learned a new spell!
+
+Name: Flaming Armor
+Aspect: 1 Protection + 2 Flame
+Description: This spell can be cast on the self or another creature. It produces a barely visible effect that resembles a heat wave in the air. It will produce bursts of flame and heat when something violently tries to pierce it, or at the user's will. This will scorch the attacker, parry and burn projectiles, and more. 
+
+This armor can be weakened and turned off by too much offense, but it will return if given a breathing room. As a side effect, it keeps the user comfortably warm even in an intense cold and provides resistance against effects that impose cold or steal heat."
+174,Spell: Protection,50 CP,Original,"You've learned a new spell!
+
+Name: Protection
+Aspect: 1 Protection
+Description: This spell creates an invisible force field that briefly flickers silver when hit. When something connects with this field, 98.7% of its force is perfectly reflected back. However, if the field is hit with force above a certain limit, or too often within a period of time, it will pop - deflecting things in the process but going on cooldown. 
+
+The cooldown is proportional to the attack that broke it (from a few seconds to a minute). It can only be cast on the caster. An experienced user can layer up to three fields. It is bad at protecting against things like heat, poison gas, or electrical discharge (although it still protects a bit)."
+175,Spell: Force Shield,25 CP,Original,"You've learned a new spell!
+
+Name: Force Shield
+Aspect: 2 Semblance + 1 Protection + 1 Force
+Description: This spell creates a semi-transparent, orange-tinted force field that acts as a handheld shield, with an incredible ability to partially negate, absorb, and deflect force used against it. Can be turned off/on without dispelling. "
+176,Spell: Reinforcement,50 CP,Original,"You've learned a new spell!
+
+Name: Reinforcement
+Aspect: 1 Protection
+Description: This spell is channeled through the caster or items in contact with them, making targets more resistant to damage and physical effects, but only slightly (1 to 30% more). It works against a great variety of mundane phenomena, better against some and worse against others."
+177,Spell: Deflection Field,25 CP,Original,"You've learned a new spell!
+
+Name: Deflection Field
+Aspect: 2 Protection + 1 Air
+Description: This spell creates a subtle, invisible field around the caster that gently deflects incoming projectiles (arrows, bolts, and small thrown objects) slightly off course. The deflection is not perfect; it causes the projectile to miss by a few inches rather than stopping it entirely. Fast-moving or extremely heavy projectiles are less affected. The field lasts for several minutes or until the caster is struck by a hit that exceeds its capacity."
+178,Spell: Thermal Insulation,30 CP,Original,"You've learned a new spell!
+
+Name: Thermal Insulation
+Aspect: 2 Protection + 1 Fire + 1 Water
+Description: This spell creates a protective layer around the caster that resists extreme temperatures - both heat and cold. It does not block damage entirely, but significantly reduces the effects of environmental temperature extremes and temperature-based attacks. A person wearing this spell could walk through a burning building or a freezing blizzard with only minor discomfort. The effect lasts for up to an hour."
+179,Spell: Shock Absorber,30 CP,Original,"You've learned a new spell!
+
+Name: Shock Absorber
+Aspect: 2 Protection + 1 Force
+Description: This spell creates a subtle, invisible cushion around the caster that absorbs the force of impacts: falls, blunt strikes, and explosive shockwaves. The cushion reduces the effective force of any impact by half, but each absorbed impact weakens the spell. After absorbing a certain amount of total force, the spell dissipates and must be recast. Can be overwhelmed. "
+180,Spell: Reactive Plating,25 CP,Original,"You've learned a new spell!
+
+Name: Reactive Plating
+Aspect: 2 Protection + 1 Metal + 1 Force
+Description: This spell coats the caster's skin or armor in a barely visible metallic sheen. When struck, the coating momentarily hardens and disperses the force of the blow across a wider area, reducing the damage significantly. The coating is most effective against blunt force and slashing attacks, but offers little protection against piercing attacks or energy-based damage. The effect lasts up to 11 minutes."
+181,Spell: Lingering Ward,50 CP,Original,"You've learned a new spell!
+
+Name: Lingering Ward
+Aspect: 2 Protection + 1 Time + 1 Order
+Description: This spell is cast on a location or object (a door, a chest, or a perimeter) rather than on a person. It creates a protective field that lasts for hours or days, absorbing or deflecting attacks against the warded object. 
+
+The ward is not as strong as a personal shield, but it persists without the caster's attention. It can be set to trigger on specific conditions (e.g., ""only if touched by a living creature""). The ward fades when its stored energy is depleted."
+182,Spell: Ward of Negation,100 CP,Original,"You've learned a new spell!
+
+Name: Ward of Negation
+Aspect: 4 Protection + 2 Order + 1 Aether + 1 Essence
+Description: This spell creates a shimmering, silvery bubble-like field around the caster that actively negates magical effects that target them. A curse aimed at the caster will be weakened or dispelled entirely. A scrying spell will fail to penetrate the ward. A direct magical attack will be reduced in power or slightly thrown off course. The ward is not perfect (powerful, cunning or specialized magic can overwhelm it) but it provides a significant defense against hostile magic. The effect has to be actively sustained. Stationary. "
+183,Spell: Phalanx Ward,25 CP,Original,"You've learned a new spell!
+
+Name: Phalanx Ward
+Aspect: 3 Protection + 1 Force + 1 Order
+Description: This spell creates a large, semi-transparent shield in front of the caster that can cover multiple people. The shield is rectangular and about the size of a tower shield. It blocks physical projectiles and absorbs kinetic force, but it must be actively maintained - the caster must hold the shield in place. It can withstand a significant amount of force before breaking, but it does not protect against attacks from the sides or rear."
+184,Spell: Adaptive Shell,50 CP,Original,"You've learned a new spell!
+
+Name: Adaptive Shell
+Aspect: 2 Protection + 1 Lore + 1 Transformation
+Description: This spell creates a protective shell around the caster that adapts to the type of attack it faces. When struck by fire, the shell becomes fire-resistant. When struck by a blade, it hardens. When struck by a curse, it becomes resistant to magic. The adaptation is not instant (it takes a few hits to fully adjust) and the shell can only adapt to one or two damage types at a time. The effect lasts for 17 minutes."
+185,Spell: Flaming Droplet,10 CP,Original,"You've learned a new spell!
+
+Name: Flaming Droplet
+Aspect: 1 Fire
+Description: This spell creates and throws a ball-like projectile made of fire. It is round, up to 44 cm in size, and really bouncy. Each bounce leaves behind a flaming puddle, like burning napalm. Each bounce makes the projectile smaller."
+186,Spell: Fire Ball,10 CP,Original,"You've learned a new spell!
+
+Name: Fire Ball
+Aspect: 1 Fire
+Description: This spell creates a ball of flame and shoots it. The orb is around 30 cm in diameter and suddenly expands into a cloud of flame on impact, like burning gas exploding. Classic. "
+187,Spell: Fire Orb,10 CP,Original,"You've learned a new spell!
+
+Name: Fire Orb
+Aspect: 1 Fire
+Description: This creates a smooth projectile of yellow, swirling flame. It is like a smooth marble, almost looking solid. On impact, it turns into a great number of extremely hot and quick white sparks flying in all directions, which slightly penetrate and burn things on contact."
+188,Spell: Burning Sphere,10 CP,Original,"You've learned a new spell!
+
+Name: Burning Sphere
+Aspect: 1 Fire
+Description: This spell creates a small, bubble-like projectile as small as a fist, filled with orange fire. Many bubbles can be created quickly. The projectile is heavy and very hot; it rams into and melts things on contact, getting smaller over time or from burning through things."
+189,Spell: Smoldering Touch,10 CP,Original,"You've learned a new spell!
+
+Name: Smoldering Touch
+Aspect: 1 Fire
+Description: This spell causes the caster's hands to become hot enough to ignite flammable materials on contact. The heat is contained to the hands and does not harm the caster. Useful for starting fires, lighting torches, or leaving burning handprints."
+190,Spell: Miniature Sun,50 CP,Original,"You've learned a new spell!
+
+Name: Miniature Sun
+Aspect: 1 Fire + 1 Light
+Description: This spell creates a small, glowing orb of white light and shoots it at extreme speed. On impact, it destabilizes over a few moments (enough time for it to melt through many things) and then violently explodes, practically evaporating everything in a small radius."
+191,Martial Technique: Solar Prominence,50 CP,Original,"You've learned a new martial technique!
+
+Name: Solar Prominence
+Aspect: 1 Fire + 1 Light
+Description: This martial technique allows the user to create and partially control the shape of bright loops of plasma extending from their body. Good for melee attacks or to evaporate incoming projectiles."
+192,Spell: Flashfire,15 CP,Original,"You've learned a new spell!
+
+Name: Flashfire
+Aspect: 1 Fire + 2 Light
+Description: This spell creates a blinding flash of white light accompanied by a wave of intense heat. The flash temporarily (or not) blinds anyone within 10 meters who is looking in the direction of the spell. The heat is enough to ignite flammable materials and cause first-degree burns on exposed skin. The effect is brief: a single, directional burst."
+193,Spell: Solar Blade,30 CP,Original,"You've learned a new spell!
+
+Name: Solar Blade
+Aspect: 2 Fire + 1 Light + 1 Sembalance
+Description: This spell creates a blade of condensed plasma and light extending from the caster's hand - a sword made of solar energy. The blade is incredibly hot and can cut through most materials. It lasts for a few minutes and can be dismissed at will. The blade sheds bright light, illuminating the area around the caster."
+194,Crafting Ritual: Amber Glass Casting,20 CP,Original,"You've learned a new crafting ritual!
+
+Name: Amber Glass Casting
+Aspect: 2 Wood + 1 Light
+Description: This small ritual allows one to transform wood into an amber-like substance that can be used like glass. The ritual works best on sawdust. Different types of wood produce different hues of ""amber glass,"" and some types are objectively better to use for the ritual."
+195,Spell: Mud Brick Shaping,10 CP,Original,"You've learned a new spell!
+
+Name: Mud Brick Shaping
+Aspect: 4 Earth + 1 Order
+Description: This spell is cast on loose soil, mud, or clay. It quickly shapes a small volume of material into robust mud bricks (or several). The caster can tune the size and proportions of the bricks a bit."
+196,Crafting Ritual: Wooden Glue,10 CP,Original,"You've learned a new crafting ritual!
+
+Name: Wooden Glue
+Aspect: 3 Wood + 1 Water + 1 Earth
+Description: This little ritual allows one to turn wood into a liquid resin-like substance, which hardens over time or at the user's will into a hard amber-like form (not as hard or clear as amber glass). It is very sticky and makes great glue while fluid."
+197,Spell: Screw Spell,10 CP,Original,"You've learned a new spell!
+
+Name: Screw Spell
+Aspect: 3 Force + 1 Order
+Description: This spell targets small objects. It can apply rotation and push/pull to them. Basically, it works as a great substitute for a screwdriver - great for screwing in or unscrewing bolts\ and other fasteners."
+198,Ritual: Quicklime Transmutation,10 CP,Original,"You've learned a new ritual!
+
+Name: Quicklime Transmutation
+Aspect: 2 Earth + 1 Fire + 1 Transformation
+Description: This small ritual transforms limestone or shells into quicklime, a key ingredient for mortar, plaster, and tanning. The process is quick and efficient, producing usable quicklime in minutes rather than days."
+199,Spell: Rope Weave,10 CP,Original,"You've learned a new spell!
+
+Name: Rope Weave
+Aspect: 2 Wood + 1 Force + 1 Semblance
+Description: This spell transforms plant fibers (grass, bark, or reeds) into strong, flexible rope. The rope can be made in any length up to 9.8 meters at a time (although, you can continue from where you finished last time) and can be tuned for thickness and strength. Some fibers are obviously better than others to use. "
+200,Spell: Torch,10 CP,Original,"You've learned a new spell!
+
+Name: Torch
+Aspect: 2 Fire + 1 Wood
+Description: This spell produces flame on one end of a stick or small piece of wood the caster wields. The flame keeps burning on the top and is very hard to put out while the spell is working. The stick itself slowly turns into burnt wood, consumed in the process of sustaining the flame at the top. The user can turn the flame on or off at any moment, or control the intensity of the fire."
+201,Spell: Water Soap,10 CP,Original,"You've learned a new spell!
+
+Name: Water Soap
+Aspect: 7 Water + 1 Purity
+Description: This spell makes a small amount of targeted water act soapy: it produces foam and bubbles and is good at cleaning things. After the spell is stopped, or after some time has passed, the water returns to its normal state."
+202,Spell: Water Probe,10 CP,Original,"You've learned a new spell!
+
+Name: Water Probe
+Aspect: 9 Water + 1 Lore
+Description: This spell targets a volume of water. It gives the caster general information about how much the liquid is contaminated, indicated on a scale from blue to red. It does not reveal the specific nature of the contamination - only how far it is from the purity of distilled water."
+203,Spell: Disinfection,15 CP,Original,"You've learned a new spell!
+
+Name: Disinfection
+Aspect: 9 Spirit + 1 Death + 1 Purity
+Description: This spell produces a small amount of temporary liquid with a slightly gelatinous consistency that smells like alcohol. It is a great disinfectant and good at loosing the stains to be removed."
+204,Crafting Ritual: Iron Wood Production,25 CP,Original,"You've learned a new crafting ritual!
+
+Name: Iron Wood Production
+Aspect: 4 Wood + 2 Iron + 1 Transformation + 1 Essence
+Description: This is a crafting ritual. You need a piece of hard wood and a tiny amount of iron. This work infuses the essence of iron into the piece of wood, making it much more durable, noticeably harder, and resistant to fire. However, it also makes the wood slightly heavier and more susceptible to rot in humid environments."
+205,Crafting Ritual: Wood Treatment,25 CP,Original,"You've learned a new crafting ritual!
+
+Name: Wood Treatment
+Aspect: 5 Wood + 2 Plastic + 2 Earth
+Description: This is a crafting ritual. It requires a piece of wood as a target and a pile of coal dust (charcoal will do). In the process, the dust turns into a kind of resin, soaks into the wood structure, permeates it, and sets. The resulting wood is much more resistant to natural rot and decay, slightly more durable and harder, and waterproof. It burns with thick, stinky smoke."
+206,Spell: Spark Burst,10 CP,Original,"You've learned a new spell!
+
+Name: Spark Burst
+Aspect: 1 Fire
+Description: This spell creates a small burst of short-lived but hot sparks in one direction. Ideal for starting a fire. That's it."
+207,Spell: Heat Stroke,25 CP,Original,"You've learned a new spell!
+
+Name: Heat Stroke
+Aspect: 2 Fire + 1 Light + 1 Air
+Description: This spell creates a small area around the user where other creatures get heated up more quickly. Basically, it feels hot as hell: like standing in front of an open oven. The spell can be reshaped to create a cone instead, making the effect more contained and more intense, causing heat stroke in a few seconds of exposure. It works somewhat like a microwave. "
+208,Spell: Convection Wave,10 CP,Original,"You've learned a new spell!
+
+Name: Convection Wave
+Aspect: 1 Fire + 2 Air + 1 Force
+Description: This spell creates a visible wave of shimmering heat that blasts outward from the user, pushing targets away while searing them with hot air. The wave is brief but intense, enough to knock down and painfully burn anyone within its path."
+209,Spell: Induction,10 CP,Original,"You've learned a new spell!
+
+Name: Induction
+Aspect: 4 Fire + 2 Light + 1 Metal + 1 Lightning
+Description: This spell produces a small aura or a cone of effect that slowly heats up metal caught in the area. Metals with higher electrical resistance heat up faster, but it still takes minutes, and the spell cannot heat metal above 1,440 degrees Celsius."
+210,Ritual: Induction Forge,30 CP,Original,"You've learned a new spell!
+
+Name: Induction Forge
+Aspect: 5 Fire + 3 Metal + 2 Lightning + 1 Light + 1 Transformation
+Description: An advanced variant of Induction in the form of a ritual. This ritual creates a contained field that rapidly heats metal placed within it, reaching temperatures up to 2,599°C - more than enough to melt iron and steel. The field is stable and can be maintained for extended periods, and controlled, making it ideal for foundry work and advanced metalworking. "
+211,Spell: Shovel,10 CP,Original,"You've learned a new spell!
+
+Name: Shovel
+Aspect: 1 Earth
+Description: This spell cuts a simple shape from dirt, soil, or similar soft material, then lifts this shape and tosses it aside. The spell can be used to dig up to one cubic meter of soil per use."
+212,Spell: Bug-Zapper,10 CP,Original,"You've learned a new spell!
+
+Name: Bug-Zapper
+Aspect: 1 Lightning
+Description: This spell can be cast on oneself or infused into a small object. It creates a temporary field (up to 0.55 meter radius) around the target that ""zaps"" any flying or fast-moving insect with a small shock, killing it instantly. Can be briefly overwhelmed by obscene amount of bugs!"
+213,Crafting Ritual: Cold Iron Forging,100 CP,Original,"You've learned a new crafting ritual!
+
+Name: Cold Iron Forging
+Aspect: 5 Metal + 2 Essence + 1 Transformation + 1 Death + 2 Order
+Description: This is a crafting ritual to produce cold iron. It is a magical metal that slowly ""freezes"" the magic (or at least ""cools"" it down) of a living creature in the area of contact, making it harder to use spells utilizing the affected body part or even harming magical creatures that rely on magic to maintain their physiological functions. Works better or worse on certain magics. "
+214,Crafting Ritual: Spell-Arrester Copper Forging,100 CP,Original,"You've learned a new crafting ritual!
+
+Name: Spell-Arrester Copper Forging
+Aspect: 5 Metal + 2 Essence + 1 Transformation + 1 Air + 2 Lighting
+Description: This is a crafting ritual to produce spell-arrester copper. It is a magical metal that slightly attracts spells flying nearby and ""grounds"" them. It works mostly on charms with clear shape, attracting their projectile trajectories toward the metal. It acts like a lightning rod, but for spells that use intermediate stages such as rays, projectiles, or similar carriers. Some spells or too many at once can mess up the metal: warp, break, melt or even rust it."
+215,Crafting Ritual: Ruinite Transmutation,100 CP,Original,"You've learned a new crafting ritual!
+
+Name: Ruinite Transmutation
+Aspect: 4 Earth + 3 Chaos + 2 Transformation + 2 Death + 1 Essence
+Description: This is an alchemical transmutation that permanently converts a carefully prepared rust mixture (composed of specific metal oxides in precise ratios) into ruinite. The resulting substance is ugly, brittle, and emits a pungent, acrid stench. Ruinite accelerates certain natural processes on contact: erosion in rocks, corrosion in metals, and rotting in dead organic materials. It is highly carcinogenic and allergenic to living beings, causing severe skin reactions and long-term health deterioration with prolonged exposure."
+216,Crafting Ritual: Blightinite Forging,100 CP,Original,"You've learned a new crafting ritual!
+
+Name: Blightinite Forging
+Aspect: 9 Metal + 3 Transformation + 2 Essence + 2 Aether + 1 Taint + 1 Curse
+Description: This is a complex alchemical ritual that processes raw cesium into a stable, magical metal known as blightinite. The resulting metal is darker than its mundane counterpart and significantly less radioactive. However, the first time a curse strikes the metal, it permanently remembers the effect. The metal subtly shifts shade to match the magic's ""color"" and begins to slowly emit radiation infused with that dark spell's essence, causing a lesser version of the effect to occur in the area. "
+217,Ritual: Transition Ice,15 CP,Original,"You've learned a new ritual!
+
+Name: Transition Ice
+Aspect: 4 Water + 3 Transformation
+Description: This is a specialized ritual that targets water ice. It allows an experienced practitioner to transition the ice into a different crystalline phase (types that normally exist only under extreme pressure or temperature conditions) and keep it stable for a limited time. Some are easier to make and do persist for longer. The ritual depends heavily on the user's knowledge."
+218,Spell: Far Vision,15 CP,Original,"You've learned three new spells!
+
+Name: Far Vision
+Aspect: 1 Lore
+Description: This spell can be cast on oneself or sustained. It does one simple thing - it allows the caster to zoom in their vision, seeing distant objects as if they were close. Each eye can be adjusted separately.
+
+Name: Near Vision
+Aspect: 1 Lore
+Description: This spell can be cast on oneself or sustained. It does one simple thing - it allows the caster to perceive the smallest details and objects nearby, functioning like a built-in weak microscope or magnifying glass. Each eye can be adjusted separately.
+
+Name: Depth Sight
+Aspect: 1 Lore + 1 Water
+Description: This spell can be cast on oneself, another person, or sustained. It alters the target's vision to be better suited for underwater environments, allowing them to see clearly beneath the surface, much like a fish."
+219,Spell: Muscle Snap,15 CP,Original,"You've learned a new spell!
+
+Name: Muscle Snap
+Aspect: 1 Hurt
+Description: This spell produces a thin, barely visible streak of red. When it strikes a living creature, it causes muscle tissue near the point of impact to suddenly and violently stretch for a moment, damaging the muscle or even tearing it completely."
+220,Spell: Pain,15 CP,Original,"You've learned a new spell!
+
+Name: Pain
+Aspect: 1 Hurt
+Description: This spell produces a continuous burst or a crackling flash of crimson, lightning-like energy. The area it strikes experiences intense pain: the spell forces the nerves in that area to fire ""hurt"" signals to the brain. The caster can modulate the effect, making it weaker or stronger as desired. Prolonged and high intensity use may  permanently damage nerves. "
+221,Spell: Butcher's Punishment,50 CP,Original,"You've learned a new spell!
+
+Name: Butcher's Punishment
+Aspect: 1 Hurt + 1 Curse + 1 Space
+Description: This spell is channeled through a sharp edge, giving it a slight crimson-brown tint. When it strikes a part of the body, the wound grows until it separates that part from the body. However, the severed areas remain connected to each other - the cut itself acts as a kind of portal, linking the separated parts across space. 
+
+A head chopped off with this spell remains attached to the body through this spatial connection, and no viscera is lost. Unfortunately, the victim still feels the sensation of having that body part cut off: constantly, without relief."
+222,Spell: Wet Stench,25 CP,Original,"You've learned a new spell!
+
+Name: Wet Stench
+Aspect: 1 Taint + 1 Curse
+Description: This curse is cast on a piece of food or drink, remaining infused for several hours. Anyone who consumes the affected food becomes cursed: their sweat turns brown-black in color, becomes sticky, and reeks of rot and stagnant water."
+223,Spell: Silver Scales,15 CP,Original,"You've learned a new spell!
+
+Name: Silver Scales
+Aspect: 2 Protection + 1 Transformation + 1 Beast
+Description: This spell temporarily transforms part or all of the target's skin into silvery scales temporarily. It can be cast on oneself or on another. The scales cause attacks to slide off unusually easily, to ricochet, and generally make the affected areas harder and more resistant to damage."
+224,Spell: Stone Fur,15 CP,Original,"You've learned a new spell!
+
+Name: Stone Fur
+Aspect: 2 Protection + 1 Transformation + 1 Beast + 2 Earth
+Description: This spell grows thick, brown fur over part or all of the target's skin temporarily. It can be cast on oneself or on others. The fur is a superb thermal insulator (comparable to asbestos but safe), thick and durable like mineral wool, yet soft and comfortable to the touch."
+225,Spell: Confect's Touch,10 CP,Original,"You've learned a new spell!
+
+Name: Confect's Touch
+Aspect: 2 Sweet + 1 Fire + 1 Transformation 
+Description: This spell lets you heat up and melt sugar, then control it telekinetically to some extent. It gives a bit of feedback info about movements of the substance being controlled. Good for shaping candies."
+226,Spell: Sweet Sting,10 CP,Original,"You've learned a new spell!
+
+Name: Sweet Sting
+Aspect: 2 Sweet + 1 Earth 
+Description: This spell shapes targeted sugar into thin needles and launches them in the direction of caster's choice. These needles are reinforced by the effect of the spell, but barely enough to qualify as glass. It is still sugar though. "
+227,Spell: Sweet Rot ,50 CP,Original,"You've learned a new spell!
+
+Name: Sweet Rot 
+Aspect: 8 Sweet + 2 Curse
+Description: This curse creates a pretty burst of sweet dust, which quickly turns bitter after getting into one's mouths. If someone gets enough of it in their body, they will be cursed with having magically induced diabetes (or random type). Dust doesn’t exist for long."
+228,Spell: Caramel Shell,15 CP,Original,"You've learned a new spell!
+
+Name: Caramel Shell
+Aspect: 3 Protection + 2 Sweet
+Description: This spell coats the caster or a target in a thin, glossy layer of hardened caramel. The layer is surprisingly durable (it can deflect minor blows and resist heat) but it's brittle against cold or repeated impacts. It also makes the target smell delicious, which is a liability against hungry beasts. Caramel is not permanent and most of it disappear afterwards."
+229,Spell: Sugar Rush,15 CP,Original,"You've learned a new spell!
+
+Name: Sugar Rush
+Aspect: 4 Sweet + 2 Life + 1 Creation
+Description: This spell is cast on the self or another creature. It floods the target's bloodstream with pure, magically-conjured glucose, causing a massive burst of energy, heightened reflexes, and reduced perception of pain. The effect lasts for a few minutes, after which the target crashes: experiencing lethargy, tremors, and an overwhelming need to eat something substantial. Overuse can cause pancreatic damage."
+230,Ritual: Candy Golem,15 CP,Original,"You've learned a new ritual!
+
+Name: Candy Golem
+Aspect: 6 Sweet + 3 Earth + 2 Life + 1 Semblance
+Description: This ritual animates a large quantity of sugar-based confections (hard candy, taffy, caramel, etc.) into a temporary, golem-like servant. The golem is surprisingly strong and can be shaped into a crude humanoid form. It moves with a sticky, cracking sound. 
+
+However, it is vulnerable to water (which dissolves it), heat (which melts it), and anything that likes to eat sugar. The golem lasts for a few hours before crumbling into inert, stale candy."
+231,Spell: Taffy Tether,15 CP,Original,"You've learned a new spell!
+
+Name: Taffy Tether
+Aspect: 1 Sweet  
+Description: This spell creates a stretchy, adhesive strand of magical taffy that extends from the caster's hand to a target. The tether is surprisingly strong and elastic, allowing the caster to pull objects closer, swing from anchor points, or even bind a creature's limbs together. The tether dissolves into harmless sugar after a few minutes and mostly vanishes. It is not strong enough to hold a struggling adult for long."
+232,Spell: Jelly Prison,15 CP,Original,"You've learned a new spell!
+
+Name: Jelly Prison 
+Aspect: 5 Sweet + 1 Air + 1 Creation 
+Description: This spell conjures a stream of liquid jelly, which quickly hardens and turns into kind of really flexible blobs, trapping things inside. It's possible to breathe inside one. The thing vanishes after a few hours, leaving behind only a few pieces of jelly. The user can control the taste and color of created jelly, but not separately."
+233,Spell: Sticky Jam,10 CP,Original,"You've learned a new spell!
+
+Name: Sticky Jam
+Aspect: 3 Sweet + 1 Water
+Description: This spell coats the ground in front of the caster with jam that is unusually heavy and sticky. The caster can control the color and taste of the created jam, but not separately. The jam vanishes after a few hours, leaving nothing but sweet smell behind. It is edible, but has no nutritional value and is far too sticky to eat comfortably."
+234,Spell: Licorice Ropes,10 CP,Original,"You've learned a new spell!
+
+Name: Licorice Ropes
+Aspect: 4 Sweet + 1 Semblance
+Description: This spell creates a few ropes made of unusually durable licorice and allows the caster to move them at will. They attempt to ensnare and wrap around targets. They vanish after two hours without the caster sustaining them."
+235,Spell: Create Sugar,20 CP,Original,"You've learned a new spell!
+
+Name: Create Sugar
+Aspect: 3 Sweet + 2 Creation
+Description: This spell creates up to 122 grams of sugar. It can do so in various forms: a simple shape (like a cube), sand or dust sugar, or hardened caramel. The created sugar is permanent and, aside from glucose, contains some other edible sugars in smaller quantities."
+236,Spell: Grain Percolation,10 CP,Original,"You've learned a new spell!
+
+Name: Grain Percolation
+Aspect: 2 Earth + 1 Order
+Description: This spell targets loose granular material (sand, dust, fine gravel) and vibrates it to separate larger pieces from smaller ones. It creates a gradient ranging from fine particles at one end to coarse aggregates at the other. The caster can use it to stratify a mixture into several distinct layers, each with a similar grain size."
+237,Spell: Air Hammer,10 CP,Original,"You've learned a new spell!
+
+Name: Air Hammer
+Aspect: 2 Force + 1 Air + 1 Semblance
+Description: The caster makes a hammering motion with their fist. A ghostly, translucent hammer head appears at the point of impact, delivering a precise, controlled strike. The force can be tuned from a gentle tap to a solid blow (but never more than a strong man could deliver with a real hammer). The spell does not damage the caster's hand. "
+238,Spell: Tension Gauge,10 CP,Original,"You've learned a new spell!
+
+Name: Tension Gauge
+Aspect: 2 Lore + 1 Semblance + 1 Force
+Description: The caster touches a rope, chain, cable, or beam and focuses. They receive an intuitive sense of how much tension or stress the object is under: whether it's near breaking point, properly tensioned, or too loose. The information appears as a vague feeling: ""safe,"" ""strained,"" ""danger."" Useful for engineers, riggers, and anyone working with loads. Requires understanding of tension to work better. "
+239,Spell: Steam Burst,10 CP,Original,"You've learned a new spell!
+
+Name: Steam Burst 
+Aspect: 1 Fire + 1 Water 
+Description: Produces a high-pressure stream of hot steam from the caster's mouth or hands in a chosen direction. It is not immediately dangerous to the caster, but poses a significant threat to others and the surrounding environment. Leaves behind only a bit of humidity."
+240,Overcharge,100 CP,Original,"You gain the ability, knowledge, and skill to overcharge your spells. This allows you to put more ""power"" into any work of magic to intensify its effect or increase its scale (within certain limits). Limitations and unique interactions vary between spells. Some spells may even offer multiple ways to overcharge them. However, overcharged spells are usually less stable and more prone to miscasting, as well as harder to wield with accuracy."
+241,Undercharge,50 CP,Original,"You gain the ability, knowledge, and skill to undercharge your spells. This allows you to still use a spell while spending fewer resources on it (reducing its cost). In exchange, the spell becomes proportionally less intense, scales down, or loses some of its properties.
+
+There are limits to how far a spell can be undercharged, and certain spells react differently than others to this trick. Sometimes undercharging may be impossible or even dangerous for specific types of magic. However, it can be a good way to save resources in a moment of need."
+242,Dual Casting,50 CP,Original,"You gain the ability, knowledge, and skill to cast two spells at the same time. You can run them in parallel - whether the same spell or two different ones. This makes the overall cost slightly higher, but it can be quite useful. This perk only affects active casting; sustained effects can run in parallel on their own."
+243,Triple Casting,50 CP,Original,"This is an upgrade to Dual Casting, refining your methodology and multitasking abilities when working with magic. It lets you execute three spells in parallel with only a slight increase in overall cost.
+
+>Requires Dual Casting"
+244,Multi Casting,50 CP,Original,"This is nigh perfected methodology, natural talent, and skill derived from Dual and Triple Casting. You can juggle multiple magical works at once in parallel with only a slight increase in overall cost. How many you can cast simultaneously, and how safe and depended it is, depends on the nature of the spells in question. 
+
+>Requires Triple Casting"
+245,Chain Casting,150 CP,Original,"This perk grants you the knowledge, skill, and ability to prepare multiple spells for execution and then cast them all at once. You can begin preparing the first spell while keeping it from actually executing, then add another, and another...
+
+How many spells you can chain together depends on the nature of the spells, your focus, skill, and talent. Maintaining spells in suspension carries a cost and cannot be done forever - only for a few tens of minutes at most.
+
+The overall cost when executing the chain is slightly higher than casting them separately. You can also withdraw and break the chain before execution, which removes all suspended spells at once with no significant cost. When the chain is ready, you execute the spells in order, almost simultaneously."
+246,Slot Preparation,150 CP,Original,"You can spend time to convert a work of magic into a matrix of sorts and create a temporary slot for it in your soul. The process has an associated cost, but it mostly just takes a lot of time (from several minutes to a full day).
+
+A spell placed in a slot is suspended at no ongoing cost and can be instantly executed by you at any time. However, it cannot be modified in any way. The only way to free the slot is either to cast the spell or to take just as long to unravel it from the slot.
+
+You can prepare several slots this way. How many depends on the nature of the spells you place in them, but typically you can maintain between one and seven slots at once.
+
+>Requires Chain Casting"
+247,Quick Execution,100 CP,Original,"This methodology lets you ""rush"" spells and some other works of magic to execute them faster by skipping certain steps, using mnemonic tricks, and performing several parts of a single magical work at once. How much you can rush a spell depends on its nature: some spells cannot be quick-executed at all.
+
+Spells cast this way are riskier and more prone to miscasting. Their intensity may also be either reduced or increased unpredictably. The main drawback is the inconsistency of these side effects, though the general nature of the spell is always preserved."
+248,Cosmetic Calibration,25 CP,Original,"You can change the cosmetic effects of your spells, if they have any. You can make them sound or look different, but not in a way that alters their general behavior. Not all spells can be affected, though most can accept some aesthetic adjustments. It costs you virtually nothing to make a charm's ray pink instead of red. This does not affect more esoteric or detailed methods of observing spells."
+249,Subtle Spellwork,75 CP,Original,"This is an upgrade to Cosmetic Calibration. It lets you make your spells less noticeable - including reducing their ""loudness"" for magic detection and analysis. You can also introduce noise or more profound changes to a spell's perceptible effects to confuse and mislead observers.
+
+However, you still cannot change the general nature of the work. An observer may still tell that you are casting some sort of curse, but it will be much harder to identify the specifics. It introduces cost growth proportional to degree and complexety of changes.
+
+>Requires Cosmetic Calibration"
+250,Hidden Spellwork,100 CP,Original,"This is the near-perfected methodology of Subtle Spellwork and Cosmetic Calibration. It allows you to conceal or almost completely remove any visible effects of a magical work: no light rays, visible projectiles, odd smells... Almost nothing.
+
+The spell can still be detected by more specialized observation and sensing methods, and the ""carry"" of the spell remains - it's just harder to perceive. There is still a ray, but it's invisible. Some spells cannot be hidden this way due to their inherent nature.
+
+>Requires Subtle Spellwork"
+251,Spell Stretching,100 CP,Original,"This method lets you ""stretch"" a spell, extending its duration while sacrificing some of its intensity. This can be applied in two ways. To the effect: the spell's effect becomes weaker, but lasts longer. To the carrier: A short-lived ray becomes a continuous one by reducing the intensity of the effect per unit of time. Overall cost increased only slightly. Not all spells can be stretched this way. "
+252,Spell Compression,100 CP,Original,"This method lets you shorten the duration of a spell's effect while increasing its intensity in the moment. It interacts with the spell's carrier in various ways - details you'll need to discover on your own.
+
+This technique is applied to the spell's effect, but the carrier is always affected as well. Some spell's carrier may become quicker but more short-lived, losing their maximum range. For continuous works of magic, the intensified effect may become less stable over time. However, in the moment, intensity increases significantly while the cost rises only slightly to moderately."
+253,Efficient Interruption,100 CP,Original,"This perk grants you the skill, knowledge, and ability to interrupt spells mid-execution while recovering part of their cost. It also allows you to un-conjure certain things from the Transformation chapter and regain some of the cost, as well as stop a ritual before completion while retaining some of the cost not yet used in the effect. It never gives you back the whole cost, but even third is great in certain situations and sometimes there is a need to stop magic suddenly. "
+254,Fluid Execution,200 CP,Original,"This perk grants you the skill, knowledge, and ability to fluidly and continuously transition from one spell into another without interrupting the overall process, assuming the spells are similar enough in nature.
+
+For example, transitioning from a spell that produces a cone of flame into one that creates a ray of fire is quite easy, with almost no increase in cost. This allows you to gradually morph one spell into another in the process of continuous execution."
+255,Spell Multiplication,100 CP,Original,"You have the skill, knowledge, and ability to sacrifice some of a spell's intensity or prolong its execution time in exchange for producing multiple copies of the same effect at once. For example, firing four rays of a curse instead of one, but each is weaker or taking longer to execute them together. Not all spells can be used this way, and there is a limit to how many copies you can create. The more copies you attempt, the faster the cost grows."
+256,Litany,200 CP,Original,"By incorporating ritualistic aspects into your works of magic (such as specific gestures and signs, words, or even entire poems) you can increase the scale, intensity, and longevity of magical works to varying degrees. The kind of ritualistic aspects you use will slightly affect the spell and even change how it interacts with other metamagic options (for better or worse). 
+
+Multiple ritualistic elements can be combined on a single spell to enhance it further. One spell can be affected using different ritualistic parts for various degrees of effect.With this, you can effectively pay with execution time and ritual performance to improve a spell without side effects. However, this approach may be unwieldy in certain situations."
+257,Spell-Slinging,100 CP,Original,"This perk grants you the skill and knowledge to pre-program certain simple changes to a spell's carrier trajectory before casting, or to give it a slight nudge while it is already active with some focus. It increases accuracy and allows techniques such as curving spells or changing their speed mid-flight. It cannot be too complicated and the cost grows proportionally to degree and complexity of changes, depending partially on the nature of the work too. "
+258,Emotional Resonance,100 CP,Original,"Entering a specific state of mind or experiencing certain emotions can affect spells whose nature resonates with that feeling. This works especially well for many spells from the Curses and Blessings chapters, for instance.
+
+Using certain tricks and techniques, you can forcefully enter a specific state of mind or evoke a particular emotion, then use that state to influence your magical work: enhancing it, slightly warping its effect, or in some cases causing it to fail or rarely even miscast. This skill is not easy to execute and carries certain psychological risks."
+259,Spell: Polyploidy Transformation,15 CP,Original,"You've learned a new spell!
+
+Name: Polyploidy Transformation
+Aspect: 4 Life + 1 Order + 1 Transformation
+Description: This spell targets two or more seeds from the same plant species (ideally from genetically identical individuals) and fuses them together into a single or several, viable seed(s). The resulting seed exhibits polyploidy - possessing multiple complete sets of chromosomes. This can be beneficial, detrimental, or neutral depending on the plant species and the intended application."
+260,Spell: Orb of Annihilation,50 CP,Original,"You've learned a new spell!
+
+Name: Orb of Annihilation
+Aspect: 1 Chaos + 1 Destruction
+Description: This spell forms an orb of darkness that seems to suck in the surrounding air and light. It floats between palms of the user. After a few moments, it is launched in a direction of caster's choice. When it hits something, the orb expands for a moment (to 2.2 meters in diameter), consumes everything it intersects, and then vanishes with a slight flash of white light. If something (such as an impact) catches the orb while it is forming or in flight, it activates prematurely. It takes about 1.5 seconds to prepare for launch. It flies as fast professional pitcher throw "
+261,Ritual: Inevitability,100 CP,Original,"You've learned a new ritual!
+
+Name: Inevitability
+Aspect: 1 Chaos + 1 Destruction + 1 Order + 1 Time + 1 Space + 5 Essence
+Description: This complicated ritual lets one catch and make physical the entropy that surrounds us everywhere in the universe. It plucks this principle from all around and turns it into a gray, ever-burning flame. This fire can be moved; it is imperishable by normal means and causes anything intersecting its volume to reach its end. If part of a metal rod intersects the flame, it will appear as though its time accelerates faster and faster, until it reaches the end state of its existence."
+262,Spell: Bloody Steam,25 CP,Original,"You've learned a new spell!
+
+Name: Bloody Steam
+Aspect: 2 Hurt + 1 Fire + 1 Water
+Description: This spell is used on touch or via a short-lived, misty red orb that flies toward the target. The spell causes blood (up to 7.2 liters) to instantly reach its boiling point and go beyond, turning into hot, pressurized steam. This usually causes blood vessels and organs to violently burst. Be careful - the steam can scorch you too!"
+263,Esoteric Flames of Metal,100 CP,Original,"You can generate and control small amounts of Metallic Fire: orbs, wisps, and sparks of heavy, glinting flame colored gray, copper and patina. You also possess the skill to craft small magitech devices and enchanted trinkets that can produce this flame autonomously using appropriate fuel or energy source. The flame naturally exists between 800-1600°C. Below that, it extinguishes; above, it collapses into mundane fire.
+
+The fire does not physically turn things to metal. Instead, it infuses materials with conceptual metallic traits while they interact with it. The effect depends on application:
+
+1. Burning (best): Ash and smoke retain strong, permanent metallic properties - excellent for reagents or crafting.
+2. Catalyzing (decent): Cooking, brewing, or firing clay imparts lasting but lesser metallic traits to the finished product.
+3. State-changing (worst): Melting or boiling creates dramatic effects only while the material remains in that state; upon cooling, only faint, barely-detectible traces remain."
+264,Esoteric Flames of Cooking,100 CP,Original,"You can generate and control small amounts of Cooking Fire: orbs, wisps, and sparks of warm yellow-brown flame that faintly smells of fresh bread, caramel, and roasted meat. You also possess the skill to craft small magitech devices and enchanted trinkets that can produce this flame autonomously using appropriate fuel or energy sources. The flame naturally exists between 250–600°C. Below that, it extinguishes; above, it collapses into mundane fire.
+
+The fire does not physically alter composition. Instead, it infuses materials with conceptual traits of Flavor and Nourishment. It even works on non-edible items, but usually not much. The effect depends on application:
+
+1. Catalyzing (best): Cooking, brewing, or baking imparts rich, lasting flavor and enhanced nutritional value to the finished product.
+2. Burning (worst): Complete combustion yields ash and smoke with faint nourishing properties - slightly better fertilizer for plants, but little else.
+3. State-changing (nonfunctional): Melting or boiling produces no meaningful effect."
+265,,,,

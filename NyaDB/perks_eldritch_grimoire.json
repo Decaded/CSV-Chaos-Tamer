@@ -1,0 +1,866 @@
+{
+  "8877529a-0766-5b35-a53f-8f05203a4d70": {
+    "id": "8877529a-0766-5b35-a53f-8f05203a4d70",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "A Fine Sword Arm",
+    "cost": 0,
+    "description": "The forces of Chaos likely consist of the most feared warriors in the entire world, and that is for a very good reason. Entire battle lines have been known to be easily torn apart by even small units of Chaos Warriors, their combination of supernatural strength and vast combat experience making them nigh unstoppable. You too possess this unnatural skill with one weapon of choice. You’ll also be at least moderately proficient with just about anything you pick up that can be considered a mundane form of weapon.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "0a186443-9d99-5050-8f15-3b1559b4ea82": {
+    "id": "0a186443-9d99-5050-8f15-3b1559b4ea82",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Arcanist",
+    "cost": 200,
+    "description": "You are not just a psionic monster; you are a skilled user of the arcane. You naturally excel at the mystical arts, and while you have natural skill with necromancy you also have natural skill with another arcane discipline. This also grants you the ability to sense the arcane, and allows you to detect lifeforms with magical abilities when they enter your presence. Your spells hit harder based on the minds you’ve recently trapped and the brains you’ve recently eaten, particularly those with magical skills themselves.",
+    "source": "Out Of Context Illithid Supplement"
+  },
+  "77383025-9145-5d36-b3de-e63115cb4264": {
+    "id": "77383025-9145-5d36-b3de-e63115cb4264",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Big Bad",
+    "cost": 100,
+    "description": "Strength, speed, or durability. Pick one. Said attribute is enhanced a good deal, with a single purchase of strength letting you lift about 500lbs over your head, a purchase of speed adding 30mph to your max, and a purchase of durability making most bladed objects barely cut your skin. Can be purchased multiple times.",
+    "source": "Cabin In The Woods"
+  },
+  "ac0f6777-bc8b-5f60-abe2-7c0db1aac46d": {
+    "id": "ac0f6777-bc8b-5f60-abe2-7c0db1aac46d",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Brains",
+    "cost": 400,
+    "description": "The more significant the difference in intelligence between you and your foes the heavier your psionic abilities hit. This means that your powers will naturally overwhelm those who lack intelligence and can easily work on many kinds of animals. This also increases how much damage your attacks do and how long they stun or dominate those you use them on, based on how much smarter than them you are.",
+    "source": "Out Of Context Illithid Supplement"
+  },
+  "4bf1918c-f0e8-5519-afcf-485207dcce33": {
+    "id": "4bf1918c-f0e8-5519-afcf-485207dcce33",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Broken Looking Glass",
+    "cost": 400,
+    "description": "Madness is a part of everyone, a blemish on the psyche that makes each and every person unique in their own special way. It's only when that blemish becomes too big that others start to have a problem with it, but you actively encourage it. You constantly emit an aura that will drive those around you insane, warping their minds until all that's left are maniacal cloudcuckoolanders or paranoid wrecks. You can even focus, direct this aura onto a single person, speeding up the process. This can be resisted by those of strong wills and minds, though, and does not affect those already insane. This aura can be toggled on and off at will.",
+    "source": "TES: Daedra"
+  },
+  "e72b6796-7e98-5bb0-add7-23283ddd7f11": {
+    "id": "e72b6796-7e98-5bb0-add7-23283ddd7f11",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Chaos Magic",
+    "cost": 600,
+    "description": "Chaos magic is the main ability that the Scarlet Witch possesses. This option will give you power equivalent to her at her best. The most terrifying ability that the Scarlet Witch possesses however, is undoubtedly her ability to manipulate reality. She is capable of targeting both the environment and other beings. Some other simpler examples of her powers are flight, energy blasts, and the ability to truly destroy anything. Even objects as powerful as the infinity stones can be shattered using this power.",
+    "source": "Dr Strange: In the Multiverse of Madness by Sentry342"
+  },
+  "05f1886a-bf51-573c-9425-49881085df32": {
+    "id": "05f1886a-bf51-573c-9425-49881085df32",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Corrupting Influence",
+    "cost": 200,
+    "description": "Some servants of Chaos have become so attuned to the Powers that they slowly radiate these hellish energies, slowly warping the ground around them...and the people as well. In an area a few miles wide around you, you can slowly cause the ground to blacken and shape to be more useful to you, along with other...oddities. People who are in this area will be affected as well, as the Gods will use you as a conduit to get into their souls. It is a slow process, yes...but a certain one.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "642eb8fa-7809-5c07-9f91-2a4cae74170f": {
+    "id": "642eb8fa-7809-5c07-9f91-2a4cae74170f",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Corruptive Influence",
+    "cost": 200,
+    "description": "Treachery resides in all things, and we shall set it free. It ill matters how much of a front they put up. Every fire that is not of Hell must fade, and the Dark Lord sees weakness in all things. You have a knack at this ability, your words like poisoned honey as the weak-minded and the greedy listen to you. Promises of power can convince others to join your side, while agreements to restore what was lost could see all but the most stubborn at least consider your offer. It is their betrayal that will create the crack in a defense. Best reward them in kind when it is done... for the wages of treachery are suffering.",
+    "source": "Doom Eternal"
+  },
+  "01396c2f-a646-5536-856f-c2d532efc437": {
+    "id": "01396c2f-a646-5536-856f-c2d532efc437",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Deathdealer",
+    "cost": 200,
+    "description": "As a warrior of Khorne, you will put your weapons through so much torment that in their service they may suddenly shatter in your hands if the craftsmanship has even a small flaw, such is the superiority of your strength to mortals. In such a situation you may have to take up arms from the ground in order to remain killing. You are talented at quickly figuring out how to use even esoteric weapons, and in the event that you should be left with only broken blades and stones, anything you pick up will be temporarily granted hefty weight and effectiveness as a weapon, which will last until the remainder of the battle. When life gives you lemons, beat life to death for it’s paltry offerings.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "304a1069-f718-5740-a815-3f057650a4bd": {
+    "id": "304a1069-f718-5740-a815-3f057650a4bd",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Dream Strider",
+    "cost": 200,
+    "description": "Just as all mortals eventually connect to the Lady of Nightmares, so too do you connect with the sleeping. At will, you may travel into a dream realm, where each sleeping mind is represented as a door, though some are more protected than others. You need simply enter these doors, and you can change and manipulate the dreams of others however you desire.",
+    "source": "TES: Daedra"
+  },
+  "853e7450-a13f-5e05-b897-8880857f5d11": {
+    "id": "853e7450-a13f-5e05-b897-8880857f5d11",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Dreams of Desire",
+    "cost": 100,
+    "description": "Whenever you go to sleep, you will have truly wonderful dreams. In your land of sleep, you will find yourself in a situation intended to please you thoroughly. Whether you find yourself cutting down your foes in battle with quick and surprised strikes like a god of death, or caressed by the touch of a hundred lovers, you are guaranteed to have a truly enjoyable rest that you will find invigorating...as well as revealing to you your truest desires. While you may wake up slightly disappointed that it was only the realm of dreams that you indulge yourself in, you are now much more sure of how you want to pass your time that day...",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "1c7be95b-0997-5f0a-aa6b-eb51e753a9fc": {
+    "id": "1c7be95b-0997-5f0a-aa6b-eb51e753a9fc",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Dreamwalking",
+    "cost": 400,
+    "description": "Dreamwalking is a spell contained within the Darkhold. It allows the user to travel to another universe by possessing their counterpart there. This however, can have cataclysmic effects since it tears the boundaries between the universes apart. This perk grants you two options. First, you can possess your counterpart and there will be no damage to the boundaries of the universe. Alternatively, you could instead create an avatar in a different universe. Your main body will remain, but you will gain a new body activity linked to you in the other universe. To clarify both options do not cause any damage, though you may disable this protection and intentionally cause incursions. Lastly, you receive both options by purchasing this. You only need to buy this once.",
+    "source": "Dr Strange: In the Multiverse of Madness by Sentry342"
+  },
+  "7f36452e-3145-5bb9-8d3f-82a3b8e05890": {
+    "id": "7f36452e-3145-5bb9-8d3f-82a3b8e05890",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Fiery Essence",
+    "cost": 100,
+    "description": "Roiling is the torment of others. Like an inferno, it spreads out and burns all that it touches. It is a weapon that attacks the mind as it attacks flesh, as beautiful as it is dangerous. That torment has risen in you, given you power. You are able to summon the flames of Hell, sending them forth as balls of fire or surrounding someone in terrible heat. As you grow in power and climb the ranks, so will the amount of flame and how much it can burn. One day, you may count yourself among the ranks of Archvile or beyond. One day.",
+    "source": "Doom Eternal"
+  },
+  "ca656697-dc6f-5b40-a8d4-62f632c4b54a": {
+    "id": "ca656697-dc6f-5b40-a8d4-62f632c4b54a",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Flayer Science",
+    "cost": 400,
+    "description": "One of the deadliest tools in the Illithid arsenal is their abominable science. Illithid technology is a thing to be feared, with illithid inventions including nautiloids and various devices for empowering psionic abilities. You are an expert when it comes to illithid sciences, able to invent everything from mighty brine tanks for elder brains to strange Illithid grafts that through specialized medical procedures and painful surgery can give humanoids Illithid-like abilities and make them easier for Illithids to subdue and control.",
+    "source": "Out Of Context Illithid Supplement"
+  },
+  "5dcc0530-5cfa-50c0-bd75-a991ce6c1fb2": {
+    "id": "5dcc0530-5cfa-50c0-bd75-a991ce6c1fb2",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Flight of Fancy",
+    "cost": 200,
+    "description": "You know what would be really neat? Being a butterfly, flying and flittering and fornicating and all that. Welp, your Prince heard you, and thought the idea would be pretty cool, too. At will, you can burst into a cloud of bloodsucking butterflies, capable of moving each one simultaneously. And when you want to, you can turn back, no worse for wear so long as even one of them survives.",
+    "source": "TES: Daedra"
+  },
+  "16717e8d-ae13-5290-a990-11912d6b3be3": {
+    "id": "16717e8d-ae13-5290-a990-11912d6b3be3",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Furious Charge",
+    "cost": 200,
+    "description": "The warriors in Khorne’s service are devoted utterly to battle in melee combat, and the only other part of warfare that exists to them is how to get INTO melee. Everything else is for cowards and lickspittles. You are filled with a unique speed and skill when you charge into melee at full speed, which allows you to attack incredibly precisely and, more curiously, attack five times as quickly with your weapons for a very brief time, just enough to totally shatter most battle lines. You can use all of these attacks on one foe or divide them up and take down multiple opponents.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "178408b4-1479-58d6-a2b6-1e6144c997c6": {
+    "id": "178408b4-1479-58d6-a2b6-1e6144c997c6",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Gore Nesting",
+    "cost": 200,
+    "description": "No realm is beyond the reach of Hell. No world is immune to us. We shall march across all of Creation, even if we must do so upon the broken bodies of their fallen. Your infernal mind has taken this to heart, and has mastered the creation of Gore Nests. By piling corpses and fashioning them, they will warp and reshape themselves to create a portal, allowing demonic forces to start coming through. The larger the Nest, the bigger the portal. Pile enough broken bodies and you could very well make a Gore Nest the size of a large city. Let us march, infernal ones. Let us conquer.",
+    "source": "Doom Eternal"
+  },
+  "5d1afb95-e6c4-5142-92e6-ca1994479d0f": {
+    "id": "5d1afb95-e6c4-5142-92e6-ca1994479d0f",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Hive Mind",
+    "cost": 400,
+    "description": "By coming into physical contact with someone, and through a battle of wills, you can essentially murder their mind and spirit, allowing you to split off a piece of your mind into their body. With this, you’ll be able to control up to 5 bodies at a time, allowing you to see and feel from said bodies, and, once a body has already been taken over, you can switch control from body to body at will. If you lose the battle of wills, you will be unable to attempt it again on them for several days, and you will feel exhausted for a short while.",
+    "source": "Cabin In The Woods"
+  },
+  "f39578fc-db0d-596f-8c05-17166705ee56": {
+    "id": "f39578fc-db0d-596f-8c05-17166705ee56",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "I’m Being Reasonable Right Now",
+    "cost": 200,
+    "description": "Woah! Honestly, you are a terrifying individual. Much like Wanda you are incredibly skilled at intimidating others. Your mere presence can cause weaker opponents to flee in terror and suppress more powerful beings. In addition, threats and deals you make become more effective. For example if you threaten to kill someone’s student to make them surrender they are basically guaranteed that they’ll give in.",
+    "source": "Dr Strange: In the Multiverse of Madness by Sentry342"
+  },
+  "13815c9d-6326-5e7b-b021-9b484ad0be88": {
+    "id": "13815c9d-6326-5e7b-b021-9b484ad0be88",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Icon of Hell",
+    "cost": 600,
+    "description": "When the Betrayer allowed the forces of Hell into Argent D’Nur, all he asked was for the resurrection of his son. His wish was granted, resurrected into the Icon of Sin so that the product of his treachery was eternal. While you do not share the Icon’s inability to be killed, you share his ability of corruption. You may choose to spread the chaotic properties of Hell to things around you, causing fleshy growths and horrific terraforming as the skies burn and the oceans boil. Corpses are not immune, being warped and corrupted into demons to further spread your influence. The longer you choose to let this effect stay active, the further it will spread. It will be slow. It will be arduous. But eventually there will be no worlds. There will only be Hell.",
+    "source": "Doom Eternal"
+  },
+  "9de1b8ed-3c04-528f-a3bd-e56f588698dc": {
+    "id": "9de1b8ed-3c04-528f-a3bd-e56f588698dc",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Immune",
+    "cost": 100,
+    "description": "Though the plague has torn Dunwall asunder, you find yourself absolutely immune. Rat bites and Weepers won’t even make you cough. Though the rats may still swarm and try to eat you. And the weepers in their sickness induced mental trauma may still attack you. No infection though! You’re also more hardy against disease in general.",
+    "source": "Dishonoured  1"
+  },
+  "03e9943a-994a-5239-93f7-bc0a25935285": {
+    "id": "03e9943a-994a-5239-93f7-bc0a25935285",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Marauder",
+    "cost": 600,
+    "description": "You were a Sentinel once. You perished. But your suffering is not yet over, and you were revived into a powerful demonic warrior. Your eyes were opened. You will fight once more. It is demanded. Your power is closer to that of one of the Titans, able to erase an entire army from your physical power alone. Any infernal powers you have are augmented similarly, while gaining a slew of unique magic or abilities to better serve you in battle. This power will cause demons to fear and respect you, letting you command those who are lesser than you. Perhaps one day, you will remove the Slayer. All who have tried have failed thus far. Do not disappoint us.",
+    "source": "Doom Eternal"
+  },
+  "581cb93d-ed77-58f5-91c7-5fd35ba78bc7": {
+    "id": "581cb93d-ed77-58f5-91c7-5fd35ba78bc7",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Mind Blast",
+    "cost": 0,
+    "description": "The signature ability of mind flayers, one possessed by every main type of mind flayer (the end result of when humans, elves, drow, githyanki, githzerai, grimlocks, gnolls, human-sized goblinoids, and orcs undergo ceremorphosis) and most half-illithids (which include creatures like Brainstealer Dragons and Gnome Ceremorphs). This perk allows you to use this ability regardless of your current form. This ability manifests as either a cone of psychic, damaging energy that radiates out from the direction you’re facing for sixty feet and hits all targets in its range or is more focused and hits a single target much harder, dealing twice as much damage and being harder to resist. Targets who don’t successfully resist the attack are stunned for a short while (potentially as long as a minute, but it could be as short as six seconds). After you use it, you can use it again after a few seconds, taking at most half a minute to recharge and become reusable. This blast hits all foes, and you can toggle it to ignore allies or those you don’t want it to target with a single thought.",
+    "source": "Out Of Context Illithid Supplement"
+  },
+  "eaf963b8-c95e-5a3c-9850-1451f1970033": {
+    "id": "eaf963b8-c95e-5a3c-9850-1451f1970033",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Nightmare",
+    "cost": 400,
+    "description": "No, not the horse. Unless your victim is afraid of horses, I guess. At will you may take the shape of your victim’s worst nightmare, appearing for all intents and purposes to be the thing they fear most. Sadly, this does nothing against the fearless, or at least it shouldn’t. But for you, whenever you are taking on a nightmare form your overall intimidation level is increased dramatically, allowing you to scare just about anything that can feel fear in the first place, even if only a little.",
+    "source": "Cabin In The Woods"
+  },
+  "247fe520-ffe8-5292-97aa-3bbb85856bd3": {
+    "id": "247fe520-ffe8-5292-97aa-3bbb85856bd3",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Possession",
+    "cost": 400,
+    "description": "By coming into physical contact with someone, you can enter their body, possessing them. This will allow you to see a good portion of their memories, allowing you to blend in with their friends and family, but be wary as strong-willed people can push you out.",
+    "source": "Cabin In The Woods"
+  },
+  "315fdc67-7c7a-5222-8484-3c5699ac1ae2": {
+    "id": "315fdc67-7c7a-5222-8484-3c5699ac1ae2",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Power Absorption",
+    "cost": 600,
+    "description": "There are a wide variety of powers that are possessed by a multiple of individuals in this world. So many of their users waste their potential however. So why don’t you take their powers and show them what they could have been. This perk grants you the ability to absorb the powers others possess by draining them. The main limit is that it takes a certain amount of time depending on the strength of the power. This also must remain uninterrupted to be successful. This means that you must subdue your target and isolate them during the process so that you are not interrupted.",
+    "source": "Dr Strange: In the Multiverse of Madness by Sentry342"
+  },
+  "9f5bb14b-86dd-5d6e-95ea-88d6b2f27f65": {
+    "id": "9f5bb14b-86dd-5d6e-95ea-88d6b2f27f65",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Sadist-Masochist",
+    "cost": 200,
+    "description": "The servants of Slaanesh often revel in pain, one of the strongest sensations your body is capable of without requiring substances or strong blessings of Slaanesh. Who the pain is delivered to is usually irrelevant, they love to give and take in equal measure. Whenever you’re dealt a particularly painful wound or cause great pain on another, your body is enhanced somewhat, making you slightly faster and stronger. It will also be much harder to break your mind when you are feeling pain. The more pain, the better.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "e847caa7-fed3-56a2-9c47-eaa694f462ac": {
+    "id": "e847caa7-fed3-56a2-9c47-eaa694f462ac",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Shadow Walker",
+    "cost": 100,
+    "description": "​You take to the shadows as if you were born from them. When attempting to sneak around someone, or avoid detection, you know almost instinctively where to hide and the best path to move such that they will never see you coming or going.",
+    "source": "Dishonoured  1"
+  },
+  "14b61e0f-a732-5d64-981e-1f83771532fe": {
+    "id": "14b61e0f-a732-5d64-981e-1f83771532fe",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Siren",
+    "cost": 200,
+    "description": "A voice that can seduce even the most celibate and a scream that can shatter glass, both are your weapons now. Your voice at normal levels is incredibly soothing and attractive when you want it to be, and menacing when you don’t. Simply put, you can alter your voice at will to sound however you like. And if being loud is how you want to go, you can scream at 160 decibels, louder than a jet plane and enough to rupture a person’s eardrums.",
+    "source": "Cabin In The Woods"
+  },
+  "47f6e050-40de-5d81-907a-74b13f4bcdf5": {
+    "id": "47f6e050-40de-5d81-907a-74b13f4bcdf5",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Stronger Soul",
+    "cost": 100,
+    "description": "​The powers of the Outsider’s Mark draw from your mind and soul, and can be extremely taxing if used en masse without stopping for an extended rest. This perk can be purchased multiple times, each purchase granting your mind and soul more resistance against the debilitating effects of the Mark, and allowing you to use its powers more before you’re too drained to continue using them.",
+    "source": "Dishonoured  1"
+  },
+  "3a637be1-48a8-5e9a-9ed9-7449c9d3283a": {
+    "id": "3a637be1-48a8-5e9a-9ed9-7449c9d3283a",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Telekinesis",
+    "cost": 200,
+    "description": "Standard psychic powers, you can lift things with your mind up to the weight of an obese human but not much more without considerable effort. This doesn’t include yourself, only the things you’re carrying, so feel free to levitate (not fly) around with it.",
+    "source": "Cabin In The Woods"
+  },
+  "8d4c784c-6b08-54a8-974d-4e6aa7643727": {
+    "id": "8d4c784c-6b08-54a8-974d-4e6aa7643727",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Telepathic Juggernaut",
+    "cost": 200,
+    "description": "You are an incredibly powerful telepathy, able to read minds while ignoring things like language and you can easily read the minds of eldritch beings without any sort of negative consequences. Additionally, your own mind is shielded from being forcibly read or controlled, though you can allow another mind into your own and decide what, if anything, the alien mind can see. This perk makes it somewhat easier for you to pierce mental defenses and do deep probes of other minds. This perk also allows you to always utilize telepathy regardless of your equipped form and whether or not the form would normally be able to utilize telepathy.",
+    "source": "Out Of Context Illithid Supplement"
+  },
+  "db8e8f76-c123-511b-ba28-748aabd645b8": {
+    "id": "db8e8f76-c123-511b-ba28-748aabd645b8",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Totem of Tyranny",
+    "cost": 400,
+    "description": "The suffering of others is more than just nectar to the denizens of Hell. It is lifeblood. It is power. The more we bring unto others, the more we receive in turn. We can shape it, mold it to empower us. With this, you may summon totems of bone and flesh. Made of incarnal manifestations of human suffering, such beacons emit waves of necroplasmic dark-wave energy that adrenalizes demonic entities, making them much stronger and faster. All others find that without defenses, they become infected with nightmarish terror as psychic energy attacks their thoughts to make them easy prey. This effects end once the totem is destroyed, but that is why you summon others.",
+    "source": "Doom Eternal"
+  },
+  "08f65f56-8d73-5164-947b-e2126e509832": {
+    "id": "08f65f56-8d73-5164-947b-e2126e509832",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Unnatural Movement",
+    "cost": 100,
+    "description": "You are a master of the Levitate at-will ability Mind Flayers possess. This gives you an uncapped version of the ability, one that alters several facets of how it works (and which is always accessible to you regardless of alt-form, which can also always lift you allowing you to use the power to fly). Your enhanced Levitate is, for all intents and purposes, a cantrip you can use at will. It also loses the weight limit imposed on the normal spell, and instead how much weight it can move or affect at once is determined by your intelligence. Additionally, you can cast it on multiple targets at once, again determined by your intelligence, and it loses the 20 feet in the air maximum height restriction. This is a fusion of telekinesis and something akin to the original Levitate ability, though it remains difficult to use as precisely as true telekinesis barring a truly immense amount of training.",
+    "source": "Out Of Context Illithid Supplement"
+  },
+  "30875e72-5e69-54bf-b88a-7b0d437d9545": {
+    "id": "30875e72-5e69-54bf-b88a-7b0d437d9545",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Walker of the Wastes",
+    "cost": 100,
+    "description": "Due to their extremely close proximity to the Chaos Wastes, the Northmen are actually capable of moving through the Wastes, their knowledge of the hellish environment, and their sword arm, keeping them...relatively safe. You are one of these people too, of course, but in other truly hostile environments not in this world you will find that this talent extends to them, as well. Even your fellow Northmen will be astounded at how little the environment hinders you.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "6b70488c-74ef-54c8-a1ad-60caec3868f8": {
+    "id": "6b70488c-74ef-54c8-a1ad-60caec3868f8",
+    "category": "eldritch_grimoire",
+    "chapter": "Blessings",
+    "name": "Wild Night",
+    "cost": 200,
+    "description": "Mortals can be so silly at times, all hooked on honor, duty, chastity, and generally being a stick in the mud. Well, not when you're around! You now produce an aura that encourages debauchery and revelry, corroding the sense of modesty and their inhibitions.",
+    "source": "TES: Daedra"
+  },
+  "2384e30e-1364-5315-94ac-f04a28326c76": {
+    "id": "2384e30e-1364-5315-94ac-f04a28326c76",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "A Downed Nautiloid",
+    "cost": 100,
+    "description": "This is the wreckage of a Nautiloid, the flying vessels that Illithids use to travel through dimensions and time. You can eventually figure out how to repair it. Even in its downed state, this item is a large home base you can operate out of, but if you fix it and restore it to its optimal state you can do a great deal with it, such as use it to travel through realities, or use it as the centrepiece of your own colony. You can also spend 100 CP to restore it immediately. In its restored state it regenerates from damage, is half-alive, and responds to your will and your will alone, as well as is armed with psionic cannons which hit entire towns with immensely powerful mind blasts. You can command it with nothing short of your own will.",
+    "source": "Out Of Context Illithid Supplement"
+  },
+  "ec0a15c2-824f-5e86-905b-18f58612a6a9": {
+    "id": "ec0a15c2-824f-5e86-905b-18f58612a6a9",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Brine Pool",
+    "cost": 0,
+    "description": "This small brine pool is just large enough for an elder brain and a few hundred tadpoles. This place perfectly sustains such lifeforms and can be used in a pinch to keep mind flayers alive, though mind flayers find the brine pool’s sickly water to taste flavorless. Still, this is perfect for keeping your spawn alive, and for sustaining you if you are stuck in a place that lacks brains.",
+    "source": "Out Of Context Illithid Supplement"
+  },
+  "679824dc-3d1f-54b2-80ce-d2a86f17e154": {
+    "id": "679824dc-3d1f-54b2-80ce-d2a86f17e154",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Cabin in the Woods",
+    "cost": 300,
+    "description": "Congratulations! That cousin of yours hit the bucket, and now his cabin is your cabin. Residing in a secluded area right next to a lake, the cabin and surrounding land are even surrounded by a force field, preventing nearly anything from getting in or out besides the wind and rain. Extra cozy, limitless electricity, and will even follow you from jump to jump. Basement and secret facility not included.",
+    "source": "Cabin In The Woods"
+  },
+  "964abc4f-a1a0-52ba-9c9e-e9a5484bba3c": {
+    "id": "964abc4f-a1a0-52ba-9c9e-e9a5484bba3c",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Daedric Realm",
+    "cost": 600,
+    "description": "Extensions of their Princes, these realms of reality are reflections of their true nature. Although, it need not be that way here. While you could certainly purchase one of the sixteen realms currently lorded over by their Daedric Prince, you can also design your realm to whatever specifications you desire. From geography to the sky to weather to flora and fauna to so many other little things, it would be hard to keep track of. Regardless, this realm will be as large as the continent of Tamriel, as well as a little bit beyond.",
+    "source": "TES: Daedra"
+  },
+  "9cb01b39-9491-5333-8aa0-ffaa4d85bb93": {
+    "id": "9cb01b39-9491-5333-8aa0-ffaa4d85bb93",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Daedric Shrine",
+    "cost": 200,
+    "description": "When you travel beyond into future realms, would it not be beneficial to stay in touch with your Prince? Then this shall be the purchase for you, a statue made in the image of your daedric master, allowing you to communicate with them and receive their blessings regardless of where you are. They cannot exert much power beyond this shrine, though perhaps you could find a way around that?",
+    "source": "TES: Daedra"
+  },
+  "4e5c24b3-4586-5f06-9023-012a139d2240": {
+    "id": "4e5c24b3-4586-5f06-9023-012a139d2240",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Daedric Wellspring",
+    "cost": 400,
+    "description": "In order to ensure that daedra do not reform within some random realm, the environment or inhabitants hostile and fatal to the newly replenished entity, they have constructed these wellsprings. Massive pools of chaotic creatia that any daedric entity can bind themselves to, allowing for them to be resurrected within it’s waters three days after their death, so long as their souls or the wellspring itself is not damaged or destroyed. You could even bind yourself to this wellspring, granting you effectively unlimited resurrections, barring any of the previously mentioned criteria.",
+    "source": "TES: Daedra"
+  },
+  "6bd61c6a-10ba-5c27-a9ad-be6a1271ea49": {
+    "id": "6bd61c6a-10ba-5c27-a9ad-be6a1271ea49",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Essence Pool",
+    "cost": 200,
+    "description": "The living have more value than they know, for in torturing them and breaking them, large amounts of Hell Essence is created from their souls. The simple process of transformation also creates it, but not in nearly as much quantity. It is capable of greatly empowering demons, causing postmortem reanimation in corpses, and being channelled to cause extradimensional portals into other worlds. While it is a shame the demonic hordes barely use any and let most go to waste, you yourself have a series of pools filled with the stuff that replenishes as you use it. May you find new avenues for the flames to spread.",
+    "source": "Doom Eternal"
+  },
+  "cbd44ac6-3c16-57be-9ed6-c8e6b92dd56e": {
+    "id": "cbd44ac6-3c16-57be-9ed6-c8e6b92dd56e",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Nekravol District",
+    "cost": 600,
+    "description": "Nowhere will you find a greater example of Hell’s ideology, nor will you see a place of greater power. Constructed by Sentinel slaves according to Makyr design, this city produces a large amount of Argent Energy which is used for a great deal of things. This is all done methodically, as Nekravol is a large-scale slaughterhouse. Victims are ferried in, judged, and those worthy are placed further in to the Soul Spires to be tortured and have their souls extracted, mixed with Sentinel Energy to create the unfathomably potent Argent. What you have here is a small district, continuing to produce the energy for you but will ramp up production should you provide the fuel. Naturally, free-range is better.",
+    "source": "Doom Eternal"
+  },
+  "aebf2b74-a591-537b-83b0-1e7c24ff0eb3": {
+    "id": "aebf2b74-a591-537b-83b0-1e7c24ff0eb3",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Otherworldly Realm",
+    "cost": 400,
+    "description": "This is your domain, a pocket of reality which is tailored to you and your comfort. While within this realm you will also find yourself bolstered, somewhat better in every way. This isn’t a massive change, but you in this domain would edge out you outside of it in pretty much any contest. When you purchase this you must choose whether it is some place in normal reality, up to a few miles in its longest dimension, or its own pocket reality. If a part of normal reality it can still have subtly altered physics - like existing in a pocket of (noticeable on a human scale) spacetime resulting in odd and non-euclidean angles - but will never be so altered as to be intrinsically dangerous to normal matter and will be some environment you find comfortable. I",
+    "source": "Generic Lovecraftian Film"
+  },
+  "e1a880db-541e-55dd-b010-b98cc3a2d9e5": {
+    "id": "e1a880db-541e-55dd-b010-b98cc3a2d9e5",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Resurrection Chamber",
+    "cost": 200,
+    "description": "A small pool, hidden away in a labyrinth that is itself hidden away in a cave in some remote part of the world. By committing a human sacrifice in this place, filling the pool with blood, the dead can be revived- one life, for another, with no body necessary.",
+    "source": "Hellboy (Cinematic) JumpChain"
+  },
+  "3003d347-ac96-5e61-8c48-d931ebf1d1c5": {
+    "id": "3003d347-ac96-5e61-8c48-d931ebf1d1c5",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Secret Facility",
+    "cost": 600,
+    "description": "Ah, your very own underground murder complex. Stocked with generic researchers, technicians, and the like, as well as a variety of monsters that can be expanded with the monsters you catch in future jumps. What you use it for is up to you, although I should mention that, if you ever need to, you can lure in some young teens/adults and, assuming they’re killed by one of your monsters, their deaths can be used as a substitute sealing mechanism. This can be for any being that would be considered a god or other overwhelmingly powerful being, just note that they must already be sealed, this just makes sure they stay sealed for at least 1 year. Can be attached to your warehouse or imported into settings.",
+    "source": "Cabin In The Woods"
+  },
+  "886b9b73-4ccf-5dea-8713-e2b35f048f48": {
+    "id": "886b9b73-4ccf-5dea-8713-e2b35f048f48",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Well Stocked Library",
+    "cost": 200,
+    "description": "This library contains books and research materials ranging from anthropological and comparative mythology to new developments in science. Strangely enough the information within dealing with paranormal entities is strangely accurate to whatever the truth happens to be, despite the wide ranges for weaknesses and vulnerability among common folklore creatures.",
+    "source": "Generic Lovecraftian Film"
+  },
+  "62630515-693c-5b72-9a3b-6cf28072beaf": {
+    "id": "62630515-693c-5b72-9a3b-6cf28072beaf",
+    "category": "eldritch_grimoire",
+    "chapter": "Lairs",
+    "name": "Wundagore Mountain",
+    "cost": 400,
+    "description": "Mount Wundagore is an ancestral mountain surrounded by dark magic and witchcraft. Atop of this mountain is the stronghold known as Darkhold Castle. Within the castle are the original carvings of the Darkhold made by Chthon and the demonic army he left behind. This castle acts as a nexus enhancing rituals and other magics cast within. You will initially receive four Demonic Warriors, but you may create more within the castle.",
+    "source": "Dr Strange: In the Multiverse of Madness by Sentry342"
+  },
+  "0ea1360b-a601-5a9d-b4fc-f697b9c591c9": {
+    "id": "0ea1360b-a601-5a9d-b4fc-f697b9c591c9",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Artist’s Tools",
+    "cost": 200,
+    "description": "This set of paintbrushes and sculpting tools are simply perfect for their mundane uses, but they have a use beyond mere tools to create art. You can use them to literally remake the appearance of others by magically changing the flesh how you please. Under your touch, the ugly would become astonishingly beautiful, and the entire process is so pleasurable that others might ask you to change them purely for how it feels.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "58cf0e88-ced3-5761-b756-c16423b2b1b1": {
+    "id": "58cf0e88-ced3-5761-b756-c16423b2b1b1",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Banner of Rage",
+    "cost": 200,
+    "description": "This banner is inscribed with daemonic words and the sigils of Khorne, and all who look upon it feel their inner rage flaring wildly, driving them into furious killing should even the smallest excuse present itself. This is extremely useful for warding away cowardice within the ranks and is considered a holy item by most servants of Khorne, so those willing to carry it into battle are treated with great respect.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "6915e69f-5085-5923-b3f1-422bf07f6131": {
+    "id": "6915e69f-5085-5923-b3f1-422bf07f6131",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Black Books",
+    "cost": 400,
+    "description": "These eight books are tomes of esoteric knowledge with a special property to them. By reading them, you will be taken to an island within the realm of Apocrypha, and subjected to a test. What this test is differs from book to book, ranging from complex puzzles to a gauntlet of combat. If you die in the books, you will be returned to the real world unharmed, but should you succeed you will be granted powerful abilities.",
+    "source": "TES: Daedea"
+  },
+  "57c9e403-f5b6-5dc7-b0f8-f980c0444e2b": {
+    "id": "57c9e403-f5b6-5dc7-b0f8-f980c0444e2b",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Chaos Weapon",
+    "cost": 200,
+    "description": "Chaos Weapons are usually bladed weapons of some form that have either been awarded to an exceptional servant of the Chaos Gods or have been (un)naturally created through continuous contact with the energies of Chaos. Ranged Chaos Weapons do exist, but the Chaos Gods normally look down on cowardly ranged combat so weapons of that type are exceptionally rare. Chaos Weapons are certainly dangerous, but they are essentially a lesser form of a proper Daemon Weapon and are usually awarded to the lesser servants of Chaos, as opposed to their great Champions. They are unnaturally powerful, but they will not strike horror and awe like Daemon Weapons do.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "4e1264e2-33c9-5dee-849d-431b3a4ce956": {
+    "id": "4e1264e2-33c9-5dee-849d-431b3a4ce956",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Cowl of Nocturnal",
+    "cost": 400,
+    "description": "An artifact associated with stealth and secrecy, it is the greatest tool for any thief. While wearing it, to all others you will simply become the Gray Fox, a legendary thief. None will be able to tell what your actual identity is, even if you were to take it off right in front of somebody. It will also increase the wearer’s ability to sneak around, long falls will not harm them as much, and they will be able to detect life around them in a radius of fifty feet.",
+    "source": "TES: Daedea"
+  },
+  "feb0befb-f453-5915-ab86-5043a61494f2": {
+    "id": "feb0befb-f453-5915-ab86-5043a61494f2",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Darkhold",
+    "cost": 600,
+    "description": "The Darkhold, also known as the Book of Sins, was a book of spells created by Chthon the First Demon. This book has two main powers. First, the book is said to contain infinite knowledge. Spells, formula, advanced technology and numerous other examples of invaluable knowledge are within this book. Second, the book amplifies the user&#39;s magic. While using the book, Scarlet Witch was capable of easily overpowering Strange and a number of other sorcerers at the same time. Since you are paying CP for this, you will be immune to its corruptive effects and gain access to the entirety of its knowledge as soon as you acquire it. You may also gain a third eye like Dr. Strange to represent the boosted power you have obtained.",
+    "source": "Dr Strange: In the Multiverse of Madness by Sentry342"
+  },
+  "6b1003f1-84ee-5a65-b8a1-de9671320896": {
+    "id": "6b1003f1-84ee-5a65-b8a1-de9671320896",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Darkspawn Longsword",
+    "cost": 0,
+    "description": "This crude, savage-looking blade has been tainted by the touch of its wielder.",
+    "source": "Darkspawn Chroncles Gauntlet"
+  },
+  "76e5d91e-e01f-5f09-bfb1-552850d7572b": {
+    "id": "76e5d91e-e01f-5f09-bfb1-552850d7572b",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Elder Sign Talisman",
+    "cost": 400,
+    "description": "This is a small talisman worn around the neck and bearing the Elder Sign. Reinforced by powerful warding magic, this talisman has strong protective qualities. Hostile magic cannot affect you as long as you wear it, creatures from other realities are repulsed by it unable to touch you or it, and corruptive forces cannot affect you when you wear it. However it does have only so much power, the more powerful the being or magic it holds back the faster this power will drain, and eventually it will shut down temporarily until it manages to recharge itself.",
+    "source": "Generic Lovecraftian Film"
+  },
+  "b29b98ca-8d0d-5155-92b3-ffd784a2c305": {
+    "id": "b29b98ca-8d0d-5155-92b3-ffd784a2c305",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Eye of Nocturnal",
+    "cost": 100,
+    "description": "A black and red orb the size of a man’s head, it is highly valued by Nocturnal for sentimental reasons. By activating it, this orb can envelop an entire area in darkness, making it difficult to see.",
+    "source": "TES: Daedea"
+  },
+  "1d080478-02b2-5177-bd0a-5566197e4040": {
+    "id": "1d080478-02b2-5177-bd0a-5566197e4040",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Hell Barge",
+    "cost": 400,
+    "description": "As disorganized as Hell’s armies are thanks to their innumerable minions, there is still a level of coordination required. This coordination cannot use normal methods for such forces, and thus the Hell Barge was created. A slave Titan carrying a small palace atop their shoulders, a commanding demon could gauge much from their vantage point and psionically direct their minions to increase their battle effectiveness and reduce chances of infighting. It is also extremely durable, with enemies needing to sever the psychokinetic link from the commander to the titan in order to neutralize it. Try not to make it easy for them.",
+    "source": "Doom Eternal"
+  },
+  "22000a3e-621e-5b1e-9c55-7d2ab7259646": {
+    "id": "22000a3e-621e-5b1e-9c55-7d2ab7259646",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Helm of Iron and Blood",
+    "cost": 100,
+    "description": "This helmet has been seen on the heads of many Champions of Khorne, constantly being taken and worn as a trophy by other champions when the owner was killed. As it was passed along, it seemed to gather a curious effect. Those that wear their helmet are able to artificially inflate their rage, becoming immensely furious over absolutely nothing. The helmet is of good construction, and if the wearer has a set of Chaos Armor on when it is first donned, the helmet will take up the durability and traits of Chaos Armor when put on. Otherwise it is simply a fine helmet. The Helm sports a pair of sharp, massive horns which can literally be used to gore enemies like a bull.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "add16500-ee35-5e76-b0b7-75f8c13216bc": {
+    "id": "add16500-ee35-5e76-b0b7-75f8c13216bc",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Irresistible Jewelry",
+    "cost": 100,
+    "description": "This box of jewelry has perhaps some of the most high-quality necklaces and rings that you’ve ever seen, and they will quickly prove to be very popular at social gatherings and high-class occasions. They give you an air of confidence and presence that makes you very prominent socially, allowing you to tempt and manipulate others with the aid of their subtle effect.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "015b2d18-7337-50c4-9621-7d3a87e117ef": {
+    "id": "015b2d18-7337-50c4-9621-7d3a87e117ef",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Masque of Clavicus Vile",
+    "cost": 400,
+    "description": "A metallic mask that has undergone numerous changes, often to best suit the current wearer. When wearing this, you will find yourself to be extremely persuasive and skilled at bartering. It would be quite possible for you to talk a poor man out of all of his worldly possessions.",
+    "source": "TES: Daedea"
+  },
+  "75fd182f-ce35-5aae-abfc-ff1ce98d9d10": {
+    "id": "75fd182f-ce35-5aae-abfc-ff1ce98d9d10",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Oghma Infinium",
+    "cost": 600,
+    "description": "An ancient tome of knowledge written by Xarxes, the wizard sage and scribe also known as \"The Ageless One.\" Upon reading it, you gain the eldritch knowledge of one of the three paths of Shadow, Spirit, or Steel. Each person may only be affected by this artifact once, as more than that can and have driven men to madness. Still, many who have read it have achieved near demi-god capabilities.",
+    "source": "TES: Daedea"
+  },
+  "b6fd12b4-d0e2-5f7f-b333-152a6d119010": {
+    "id": "b6fd12b4-d0e2-5f7f-b333-152a6d119010",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Overseer Music Box",
+    "cost": 100,
+    "description": "This musicbox when played will disrupt the magical abilities of those Marked by the Outsider. Since that includes you as a bonus it won’t affect you now. On future jumps, when played will disrupt the concentration of those who use magic, causing them to mess up. Effects end when the music box is no longer played.",
+    "source": "Dishonoured  1"
+  },
+  "4856d573-3bdc-5c36-ab6b-c6e99d491459": {
+    "id": "4856d573-3bdc-5c36-ab6b-c6e99d491459",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Potions Bag",
+    "cost": 0,
+    "description": "A bag that contains 3 of Sokolov’s elixir and Piero’s spiritual remedies each. The elixirs heal the body while the remedies heal the mind. Replenishes weekly.",
+    "source": "Dishonoured  1"
+  },
+  "2b1bfbfe-c828-55e2-9b0a-3bc5debd5b98": {
+    "id": "2b1bfbfe-c828-55e2-9b0a-3bc5debd5b98",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Profane Idol",
+    "cost": 200,
+    "description": "This statue(tte) is a representation of you. Besides the vanity of it all, it is a representation of you. It acts as a sort of proxy for yourself; to look at it is to look at you, to be in its presence is to be in your presence, and you may even concentrate to move your consciousness into it though this will not animate it. It is however only a proxy of yourself, effects applied by seeing you or being in your presence are weakened through it, and while you can perceive through it and project mental or spiritual powers through it they will likewise be weakened when transmitted in this way.",
+    "source": "Generic Lovecraftian Film"
+  },
+  "a1c42971-27c9-5e0f-9558-2f1654a3e7ec": {
+    "id": "a1c42971-27c9-5e0f-9558-2f1654a3e7ec",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Ritual Components",
+    "cost": 100,
+    "description": "To prolong suffering is the nature of Hell. To cause suffering is to declare your loyalty for it. It is fortunate that so many worlds feed their resources and their people to us, for we will have greater use than they ever will. You will get a regular supply of blood, bone, and corpses to utilize in necromantic rituals, and a book of rituals so that you may place down wards or create horrific doors. Use everything you can.",
+    "source": "Doom Eternal"
+  },
+  "4ac87646-dd0f-5bd7-95fa-a6f9de41c36c": {
+    "id": "4ac87646-dd0f-5bd7-95fa-a6f9de41c36c",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Rueful Axe",
+    "cost": 100,
+    "description": "A silver axe with engravings of a wolf created by the Daedric Prince of Bargains, Clavicus Vile. A father learned of his daughter being afflicted with lycanthropy and begged the Prince for a cure. Clavicus gave him this silver axe. It will drain away the stamina of the target, replenishing the user's.",
+    "source": "TES: Daedea"
+  },
+  "2dfed4e5-2429-5160-b29a-9f4b8c6c7265": {
+    "id": "2dfed4e5-2429-5160-b29a-9f4b8c6c7265",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Skeleton Key",
+    "cost": 600,
+    "description": "By far Nocturnal's most well known and sought after artifact. The Skeleton Key can open any lock, be it mundane or magical. You can also use it to relock stuff once you're done. Should you channel enough magicka into it, you could even unlock a person's latent potential.",
+    "source": "TES: Daedea"
+  },
+  "c0a63d17-a3fe-5054-b87d-e386f0bedf88": {
+    "id": "c0a63d17-a3fe-5054-b87d-e386f0bedf88",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Spear of Bitter Mercy",
+    "cost": 400,
+    "description": "A mighty spear, daedric in origin and passed around by the many Princes, or perhaps there are actually multiple copies? Regardless, this mighty weapon certainly lives up to its name. When the target is wounded by the spear, all methods of healing it will be heavily stunted. Not even healing magics would be able to heal it, forcing the target to wait for it to heal naturally, if it ever could. Secondly, it is capable of striking at the target’s very soul, should the wielder desire it. Theoretically, it could even slay a Daedric Prince.",
+    "source": "TES: Daedea"
+  },
+  "51910892-cdfe-516f-8d2d-4aeb2d6815cc": {
+    "id": "51910892-cdfe-516f-8d2d-4aeb2d6815cc",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Stylish Robes",
+    "cost": 100,
+    "description": "A stylish set of robes that practically radiate a feeling of occult strangeness. They also have the ability to change shape, taking on the appearance of other clothing items such as suits, including items like sunglasses.",
+    "source": "Hellboy (Cinematic) JumpChain"
+  },
+  "1d679aca-a47c-5f45-a13e-9c8fa4e072d5": {
+    "id": "1d679aca-a47c-5f45-a13e-9c8fa4e072d5",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Talisman of Tzeentch",
+    "cost": 400,
+    "description": "This silver amulet with a large blue gem allows Tzeentch’s Sorcerers to magically store some of the Winds of Magic to be used at the Sorcerer’s discretion, rather than rely on the whims of the Winds for the magical energy that they need. This special pendant is made specially for you, and it can store ANY kind of magical energy to be used whenever you desire. You can utilize some of the stored energy as fuel for spells or use them for some other nefarious purpose, but there seems to be no upper limit on how much can be stored. You may import another piece of jewelry if you wish.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "973bd6ce-b59f-5637-8bc1-30ac81931d46": {
+    "id": "973bd6ce-b59f-5637-8bc1-30ac81931d46",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "The Bow of Shadows",
+    "cost": 200,
+    "description": "A bow made from shadow, it was gifted to a legendary ranger, Raerlas Ghile, who had unfortunately failed in his mission. This bow will allow arrows to fly faster than ever before, is easier to pull back, and will temporarily render the user invisible.",
+    "source": "TES: Daedea"
+  },
+  "ee097fb4-160b-5511-8bcb-d1270ccb12fe": {
+    "id": "ee097fb4-160b-5511-8bcb-d1270ccb12fe",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "The Collar of Khorne",
+    "cost": 400,
+    "description": "This spiked collar is worn only by the greatest champions of Khorne and his many Daemons. Khorne’s immense hatred of magic is reflected in this collar, which protects the wearer against ANY spells that aren’t impressively strong or are cast by a weak-willed mage. This is not complete immunity, but you may stride much more confidently into battle knowing that underhanded tricks are of no concern. Normally, these collars are impossible to remove, but this one is able to be unclasped and removed if you desire.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "18417fae-736b-5011-b265-47e207481d37": {
+    "id": "18417fae-736b-5011-b265-47e207481d37",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "The Heart",
+    "cost": 100,
+    "description": "A copy of the one given to Corvo by the outsider. Like the original, it will beat fast when pointed at supernatural objects. Squeezing it causes it to whisper secrets of the area you’re in into your mind. If it’s pointed at someone while squeezed, it will reveal their secrets to you.",
+    "source": "Dishonoured  1"
+  },
+  "33ca03a4-6128-586a-9d9c-932e499b24af": {
+    "id": "33ca03a4-6128-586a-9d9c-932e499b24af",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "The Jade Idol",
+    "cost": 400,
+    "description": "This is a small statuette of an androgynous individual, covering their chest and groin with their arms. It seems like a small conversation starter and nothing more, but it is more than that underneath the surface. When placed in a dwelling, such as a church or bar, regulars will over the course of a few days feel an odd excitement stir in themselves. Their repressed desires will become harder to stop and eventually all will gather not for what they originally planned to do, but to release these strong despires. Even if it is done in secret, occupants will eventually drop all pretenses and party, potentially creating a Slaaneshi cult over the course of a few days. The new club will simply acknowledge you as their new leader and allow you to indulge yourself with them as the master.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "36f24492-ece6-5890-8330-ab1716ff61b3": {
+    "id": "36f24492-ece6-5890-8330-ab1716ff61b3",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Tome of Secrets",
+    "cost": 200,
+    "description": "This journal looks completely unassuming at first glance, but when one looks inside they will find that no matter how many pages they turn, the journal will simply have more pages available, the texts on those pages perfectly preserved regardless of the conditions. This will make an excellent place to write down information you keep to keep but also remain private, for if any who are not welcome attempt to take or open the book will be on the receiving end of a powerful blast of magic that will likely take off their hands and arms. The book will also magically notify you that an intruder is attempting to steal your precious secrets.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "f28c89f2-7134-5f7f-aa27-7f57b4b8c905": {
+    "id": "f28c89f2-7134-5f7f-aa27-7f57b4b8c905",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Trinket",
+    "cost": 0,
+    "description": "A little trinket or toy of your design. When someone completes a specific action with it you’ll know about it as well as their location.",
+    "source": "Cabin In The Woods"
+  },
+  "ed02442e-46a4-5e0e-9b86-17a23eac99a7": {
+    "id": "ed02442e-46a4-5e0e-9b86-17a23eac99a7",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Vanguard Plate Armour Set",
+    "cost": 0,
+    "description": "A set of plate armour made from veridium, in the style of the Darkspawn. It offers excellent defensive bonuses which will increase your survivability.",
+    "source": "Darkspawn Chroncles Gauntlet"
+  },
+  "844586a9-9c41-5fdf-a885-86984ee2862d": {
+    "id": "844586a9-9c41-5fdf-a885-86984ee2862d",
+    "category": "eldritch_grimoire",
+    "chapter": "Relics",
+    "name": "Wabbajack",
+    "cost": 600,
+    "description": "As befits the Prince of Madness, this magical staff is unique. Just like the Mad God who made it, its effects are impossible to predict. It may shoot a fireball,turn the target into a chicken or dragon, heal them of all wounds, make them explode in a shower of gold and sweetrolls, or an infinite number of possibilities. I'm sure you'll have a lot of fun with this.",
+    "source": "TES: Daedea"
+  },
+  "522c8977-7247-5079-adaa-48440dcdb2f3": {
+    "id": "522c8977-7247-5079-adaa-48440dcdb2f3",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Atronach Mount",
+    "cost": 0,
+    "description": "Atronachs are not confined to a form resembling only humanoid creatures, and it is not unheard of for them to take the form of rideable beasts. This animalistic Atronach, being of an element of your choosing, is eternally bound to you, allowing you to summon them anywhere you want, with no magicka cost. In addition to the standard abilities you would see in an Atronach, this mount is easy to ride, and will always be faster than you.",
+    "source": "TES: Daedra"
+  },
+  "ac74fc6a-db81-5480-9650-0d73845017fb": {
+    "id": "ac74fc6a-db81-5480-9650-0d73845017fb",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Atronach Thralls",
+    "cost": 100,
+    "description": "Atronachs are one of the most used summons by mortals, and for good reason. They follow their orders without question, and won't try to stab you in the back. You now have three Atronachs bound to your will, fire, frost, and storm. They are all more powerful than average atronachs, can take much more of a beating, and can appear by your side at will. Should they perish, simply wait an hour before calling on them once more.",
+    "source": "TES: Daedra"
+  },
+  "748a9e1b-678f-5c07-ad94-3b40cda30021": {
+    "id": "748a9e1b-678f-5c07-ad94-3b40cda30021",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Baby Ogdru Jahad",
+    "cost": 100,
+    "description": "This is a surprisingly cute tentacled abomination from beyond the stars; an infant version of the Ogdru Jahad that are imprisoned in the abyss. It waves its tentacles at you enthusiastically whenever it sees you, begging for you to pet it or pick it up, and uses them to give you hugs while burbling excitedly in dark tongues. It’s more like a baby than a pet.",
+    "source": "Hellboy (Cinematic) JumpChain"
+  },
+  "c6f415d9-23a8-508b-bed0-236644727333": {
+    "id": "c6f415d9-23a8-508b-bed0-236644727333",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Bloodletter",
+    "cost": 200,
+    "description": "These Lesser Daemons make up the majority of Khorne’s mighty forces, wielding fiery swords known as Hellblades that easily cleave through chaff and mighty heroes alike. These Daemon warriors exist to kill and only kill, the reason that Khorne favors them so. They revel in slaughter so greatly that they fight each other beyond the void simply for a chance to be summoned into the material realm and kill as men do. Though they are savage beasts, do not think them to be stupid. They do possess a cunning that often goes unnoticed on the battlefield.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "0014ecb4-84bd-59be-b4ae-7315823e936e": {
+    "id": "0014ecb4-84bd-59be-b4ae-7315823e936e",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Cat from Ulthar",
+    "cost": 200,
+    "description": "This is a normal seeming cat. Though seeming is the operative word. It is highly intelligent, smart enough to understand human language if physically incapable of speaking it, and cleverer than most people; really it’s probably smarter than most people if ultimately still feline in behavior. Beyond this intelligence it seems to have a strange presence on planes of thought or spirit; planes like the Astral Planes or the Dreamlands. When in these dimensions of thought and spirit it is a highly capable predator, able to leap to or over the moon in a single bound, and match up against terrible creatures like nightgaunts, shantak birds, or the winged serpents of Nyarlathotep known as hunting horrors. It will protect your dreams from invaders, hunting them like the mice most of them really are, and can even destroy spells or psychic influence over your sleeping mind. If you abuse the cat it will turn on you, however. Counts as a follower/pet unless imported as a companion. While any kittens it has (either as dad or mom) will be skilled hunters of dreams and smarter than the average cat, they won’t be as smart as it nor will they inherently possess its loyalty and protectiveness towards you.",
+    "source": "Generic Lovecraftian Film"
+  },
+  "75e0d1b3-40ea-54cb-9d7c-342a8efaabc5": {
+    "id": "75e0d1b3-40ea-54cb-9d7c-342a8efaabc5",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Chaos Dragon",
+    "cost": 600,
+    "description": "Spoken of only in whispers by the people of the north, these two headed beings are corrupted versions of the beasts of legend that are extremely rare and often sleep away the eons, never seen by the eyes of mortals. When anyone sees one of these deeply corrupted bringers of destruction, it is likely for the very first time...and the very last time.Their bodies are covered in extremely thick scales that ward off all attacks and their heads breathe fire that destroys all it touches. They rout entire armies with their terrifying presence and destroy all that are not wise enough to run. They are no longer exclusively powerful due to their nature, but in addition to the dark magics of Chaos, changed by the energies of Tzeentch. Although they are products of Tzeentch’s meddling, they do not swear an allegiance to the Master of Magic and instead go where they please and ally with whomever they will, for they feel that they are above the plotting of the Gods and instead see themselves as the true servants. When a Chaos Dragon serves it serves because it wills it, not because it must.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "f28b9e1c-d7fd-5ce5-9552-7621787e8943": {
+    "id": "f28b9e1c-d7fd-5ce5-9552-7621787e8943",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Chaos Steed",
+    "cost": 100,
+    "description": "These dark stallions are the mount of choice for the brutish Chaos Knights. Colored black as night and normally the host to the mutations of Chaos, these mounts are now closer to the forces of darkness than their previous heritage. They bear sharp horns on their head and spikes on their hooves, and with a cruel intelligence they will use them in combat to gore their foes.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "eca2468c-2b4e-5dbf-9da6-8f3cd3a5c804": {
+    "id": "eca2468c-2b4e-5dbf-9da6-8f3cd3a5c804",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Clea",
+    "cost": 300,
+    "description": "Clea is the Sorcerer Supreme of the Dark Dimension. She is introduced to the MCU in the post credit scene of Multiverse of Madness. She is incredibly powerful, at the very least capable of matching Strange. We have yet to see how she will be handled, but this option will allow you to recruit this powerful sorceress now.",
+    "source": "Dr Strange: In the Multiverse of Madness by Sentry342"
+  },
+  "788e038e-1a7e-50d7-9081-b2ca6a318b86": {
+    "id": "788e038e-1a7e-50d7-9081-b2ca6a318b86",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Court Jester",
+    "cost": 0,
+    "description": "Once a respected healer, this Nord has long since joined Sheogorath's realm due to a toxic romance. But now she has a new target for her affections. You. A skilled acrobat and deadly with her massive warhammer, she'll smash anything that would get in the way of you two being together.",
+    "source": "TES: Daedra"
+  },
+  "bd7ce217-be6b-5344-acb5-5e5e897631f5": {
+    "id": "bd7ce217-be6b-5344-acb5-5e5e897631f5",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Daemonette",
+    "cost": 200,
+    "description": "Beings cloaked in a perverse beauty as they dance through the battlefield, Daemonettes are the Lesser Daemons of Slaanesh. Obsessed with sensory experiences and glad to help others indulge in the intense feeling of pain, Daemonettes are uniquely cruel creatures that relish in the suffering of every mortal they kill. Their unnatural speed and agility make them horrifying creatures in combat, death often coming before one can even muster the effort to fight back. Such a creature should have no beauty at all, but the Prince of Excess decides what is beautiful and what iS not.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "7250999a-49eb-502a-87c0-27aaf6c686ff": {
+    "id": "7250999a-49eb-502a-87c0-27aaf6c686ff",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Disc of Tzeentch",
+    "cost": 300,
+    "description": "Previously a Screamer, one of Tzeentch’s Daemons, this large flying disc was transformed by Tzeentch to better serve as a mount for his sorcerers. Round and flat, these Daemons are less traditional mounts to be ridden and more like...well, discs that you surf on as it flies through the air at greats speeds, giving you an excellent view of the battle, and a fine perch to cast your magics at a distance.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "e3a1a287-41b3-5e62-bce9-8dc793ad2c3d": {
+    "id": "e3a1a287-41b3-5e62-bce9-8dc793ad2c3d",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Insane Gatekeeper",
+    "cost": 200,
+    "description": "I don't know how you did it, and quite frankly I don't want to know. This massive flesh atronach was specially crafted to help protect the gates to the Shivering Isles, and now you are the master of one such creature. It's extremely durable, highly resistant to magic, and can take down an entire mercenary company on its lonesome with ease. It would be madness to try fighting against this thing.",
+    "source": "TES: Daedra"
+  },
+  "ac01d122-fbb0-5542-a9fc-d1bf4f60e65d": {
+    "id": "ac01d122-fbb0-5542-a9fc-d1bf4f60e65d",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Juggernaut",
+    "cost": 400,
+    "description": "These Khornate Daemons from beyond the veil are no longer a purely biological creature, made of meat and bone. These beasts are somewhat similar in appearance to a bull in shape, but profaned armor and a series of cables hide the mass of corrupted flesh within. These beasts are extremely strong and eager to use their entire body as a means to slaughter your enemies. Some Juggernauts can be found alone on the battlefield, not because they never had a rider, but because the rider was killed but none had the desire to attempt to kill his steed next.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "0e170618-e782-517b-a75c-a279553740c6": {
+    "id": "0e170618-e782-517b-a75c-a279553740c6",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Lord of Oblivion",
+    "cost": 600,
+    "description": "The Daedric Princes do not bow to another so easily, especially not to another of their power, but perhaps they could be swayed to? By taking this option, you may have one of these godlike entities become your Companion. But you will not be taking just the Prince, oh no. You will be taking them and their entire Realm, as well as their artifacts, though they will be under the control of the Prince, not you. I would certainly hope that you understand the gravity of your situation, and realize that these beings are alien in mindset, and do not submit easily.",
+    "source": "TES: Daedra"
+  },
+  "a19c6dbf-476a-536c-b7d1-49194745ac66": {
+    "id": "a19c6dbf-476a-536c-b7d1-49194745ac66",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Pink Horror",
+    "cost": 200,
+    "description": "Tzeentch’s main Lesser Daemon, the Horror, comes not in one form but two. The first is the Pink Horror, which is the main form of the Horror. Pink Horrors focus on using their energies and magics to deal death to their foes, firing blasts of magic of their hands and mouths. Horrors are dangerous foes like this, but if seriously wounded the Horror will cackle and change into two of its second form - the Blue Horror. These smaller beings are like Daemonic temperamental children, lashing wildly at their enemies and strangulating and tearing until they finally expire.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  },
+  "619e5c25-0715-52e0-8039-ffcde8f610e8": {
+    "id": "619e5c25-0715-52e0-8039-ffcde8f610e8",
+    "category": "eldritch_grimoire",
+    "chapter": "Summons",
+    "name": "Steed of Slaanesh",
+    "cost": 400,
+    "description": "These Daemonic beasts make excellent servants for the children of Slaanesh, as their precise and swift movements make them useful for moving across uneven and dangerous terrain. They are extremely quick and their tongues are like whips, ripping the flesh of those that they lash out at. They are bipedal creatures, and possess an uncanny beauty that stun your enemies long enough for you and your unholy partner to do your work. Such is the danger of these mounts that Daemonettes often use them as their mounts of choice, and when encountered by themselves it usually means something is afoot.",
+    "source": "Warhammer Fantasy - Warriors of Chaos"
+  }
+}

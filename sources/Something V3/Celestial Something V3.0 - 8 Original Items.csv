@@ -1,0 +1,394 @@
+0,Perk Name,Cost,Source,Description
+1,Cold Iron,200 CP,Original,"A magical metal with the unique property of slowly ""freezing"" the magic of a living creature in the area of contact. This makes it harder to use spells utilizing the affected body part and can even harm magical creatures that rely on magic to maintain their physiological functions. You receive a full shipping container of this material in ingots.
+
+Recurring Supply (+100 CP): An additional container of Cold Iron is delivered to you each week, but only if you actually want or need it at that time."
+2,Stakewood,100 CP,Original,"A specially treated wood that paralyzes vampires (partially or completely) when it pierces their flesh. It can also slow down or even prevent the turning process if inserted into the flesh of a freshly bitten person. It might has some effect on other types of undead. You receive a full shipping container of this material in various forms, configured to be as useful or desirable to you as possible at the moment of delivery.
+
+Recurring Supply (+50 CP): An additional container of Stakewood is delivered to you each week, but only if you actually want or need it at that time."
+3,Blessed Salt,100 CP,Original,"Alchemically processed salt that can act as a barrier against dark magical creatures when poured into lines, making it harder for them to cross the bounded space, or even preventing it entirely in some cases. You receive a full shipping container of this material, packaged in various sacks, boxes, and other vessels that you would find most suitable at the moment of delivery.
+
+Recurring Supply (+50 CP): An additional container of Blessed Salt is delivered to you each week, but only if you actually want or need it at that time."
+4,Spell-Arrester Copper,200 CP,Original,"A magical metal that slightly attracts spells flying nearby and ""grounds"" them. It works primarily on spells with a projectile form (such as hexes, charms, or jinxes) drawing their trajectory toward the metal like a lightning rod for magic. You receive a full shipping container of this material in ingots.
+
+Recurring Supply (+100 CP): An additional container of Spell-Arrester Copper is delivered to you each week, but only if you actually want or need it at that time."
+5,Mystical Neodymium,150 CP,Original,"A magical alloy that functions like a magnet, but for mystical energies with a clear positive/negative conceptual ""charge."" It possesses distinct positive and negative parts, which are attracted to or repelled by corresponding negative or positive magics in objects or the environment. It does not interact with neutral or near-neutral magic. Its behavior might become slightly unpredictable when exposed to mystical energies that are not part of a duality with clearly defined positive and negative aspects. It is even less predictable, if it's triality or quaternity, or something along the lines. You receive a full shipping container of this material in ingots.
+
+Recurring Supply (+75 CP): An additional container of Mystical Neodymium is delivered to you each week, but only if you actually want or need it at that time."
+6,Hungry Lead,150 CP,Original,"A magical metal that can accumulate and store magic when mystical energy in question is poured into it with intent, or when it passively absorbs ambient mystical charge from a saturated environment. The more magic stored inside, the heavier the metal becomes. It slowly loses magic over time, returning to its empty and lightest state. There is a limit to how much magic can be stored, as growing internal ""pressure"" causes leakage to accelerate. You receive a full shipping container of this material in ingots.
+
+Recurring Supply (+75 CP): An additional container of Hungry Lead is delivered to you each week, but only if you actually want or need it at that time."
+7,Scarlet Iron,200 CP,Original,"A magical metal created through the permanent alchemical transmutation of blood into iron. On contact, it causes blood incoagulability, and if used to cut a living creature, it induces severe bleeding. The metal can soak up and preserve blood like a sponge, releasing it slowly over time. It is particularly useful for blood-related magic. You receive a full shipping container of this material in ingots.
+
+Recurring Supply (+100 CP): An additional full container of Scarlet Iron is delivered to you each week, but only if you actually want or need it at that time."
+8,Ruinite,50 CP,Original,"A foul-looking solid magical substance created through the permanent alchemical transmutation of a rust mixture composed of various specific metals. It is ugly, brittle and reeks. On contact, Ruinite accelerates specific natural processes: erosion in rocks, corrosion in metals, and rotting in dead organic matter. It is highly carcinogenic and allergenic to living beings. You receive a full shipping container of this material in various tightly sealed vessels suitable for your current needs.
+
+Recurring Supply (+25 CP): An additional full container of Ruinite is delivered to you each week, but only if you actually want or need it at that time."
+9,Blightinite,250 CP,Original,"A magical metal created from alchemically processed cesium. It is darker in color and significantly less radioactive than its mundane counterpart. However, the first time a dark spell (curse, hex, or jinx) strikes it, the metal permanently remembers the effect, subtly shifting in shade and beginning to emit radiation conceptually ""colored"" by that dark magic.
+
+This ambient radiation replicates a weakened version of the spell's effect on living things in its vicinity. For example, if struck by the Killing Curse, the metal would emit radiation that causes gradual spiritual withering and interferes with the connection between body and soul. You receive a full shipping container of this material in ingots inside tightly sealed enchanted boxes for safe storage.
+
+Recurring Supply (+125 CP): An additional full container of Blightinite is delivered to you each week, but only if you actually want or need it at that time."
+10,Pure Coal,150 CP,Original,"A magical substance created through the alchemical purification of vast amounts of ordinary coal. It is gray, almost bone-white in color, and burns for an extremely long time with flames that are far brighter, hotter, and distinctly blue. It produces almost no smoke or soot. The flames possess a supernatural purifying quality, making them effective for cleansing rituals, removing curses, or burning away corruption. You receive a full shipping container of this material sorted in boxes and sacks.
+
+Recurring Supply (+75 CP): An additional full container of Pure Coal is delivered to you each week, but only if you actually want or need it at that time."
+11,Bottled Lightning,50 CP,Original,"Durable, hardened glass containing natural lightning trapped and frozen in place through an alchemical process. When the glass is shattered or sufficiently damaged, the pent-up electric charge is released all at once into the surrounding environment. Useful as a single use capacitor, weapon or catalyst. You receive a full shipping container of this material, packaged in various vessels designed for safe transportation and storage.
+
+Recurring Supply (+25 CP): An additional full container of Bottled Lightning is delivered to you each week, but only if you actually want or need it at that time."
+12,Living Plastics,150 CP,Original,"A range of materials created from alchemically processed and purified plastics. By exploiting plastics nature as organic polymers (inevitably tied to life) these substances are ideal for interacting with, merging into, and even imitating the functions of living tissue. Different variants possess unique effects, strengths, and weaknesses, and can be combined to synergize or interfere with one another in countless ways.
+
+You receive a full shipping container filled with various types of these plastics, sorted, labeled, and selected to be as convenient, useful, or desirable for you as possible at the moment of delivery.
+
+Recurring Supply (+75 CP): An additional full container of Living Plastics is delivered to you each week, but only if you actually want or need it at that time."
+13,Purified Nitinol,200 CP,Original,"A magical alloy purified through alchemy, far harder and more adept at shape memory than its mundane counterpart. Once cast/forged for the first time, it permanently remembers its original form. When damaged, it will actively revert to that shape: undoing bends and dents, and even attracting nearby broken pieces to fuse them back together with exceptional accuracy. This makes it ideal for creating measuring instruments, precision components, or any item where maintaining exact form is critical. 
+
+You receive a full shipping container of this material, moulded into various shapes selected to be as convenient, useful, or desirable for you as possible at the moment of delivery.
+
+Recurring Supply (+100 CP): An additional full container of Purified Nitinol is delivered to you each week, but only if you actually want or need it at that time."
+14,Wither Ash,50 CP,Original,"A fine white dust created through the alchemical fusion of bone ash and ethanol. It is extremely effective at killing microscopic organisms while remaining completely safe for larger creatures. Wither Ash destroys bacteria, spores, viruses, and even finely dispersed organic compounds such as free-floating DNA fragments or prions. You receive a full shipping container of this substance sorted into various suitable vessels for easy transportation, use and storage.
+
+Recurring Supply (+25 CP): An additional full container of Wither Ash is delivered to you each week, but only if you actually want or need it at that time."
+15,Wind-Infused Aerogel,50 CP,Original,"A material infused with air-natured magic. It floats naturally and possesses buoyancy and aerodynamic characteristics that can be actively manipulated through the application of additional air magic in specific way. The material remains relatively brittle despite its magical properties. You receive a full shipping container of this substance cut in various simple shapes suitable for your current needs and desires.
+
+Recurring Supply (+25 CP): An additional full container of Wind-Infused Aerogel is delivered to you each week, but only if you actually want or need it at that time."
+16,Clay of Genesis,400 CP,Original,"A magical clay exceptionally suited for creating sculptures. Shapes formed from this clay, when baked, become objects imbued with the intent behind the shape and enhanced by the type of flames used in the firing process. For example, a rat sculpted from this clay and baked in normal fire would become an animated sculpture of a rat.
+
+The functionality, power and enchantments of the resulting creation depend on three factors: the skill used in shaping the form, the depth and reach of the maker's understanding of that form, and the type of flames used in the baking process (all within certain limits). Only a truly skilled and knowledgeable creator can unlock the full potential of this mystical substance.
+
+You receive a large pot containing one cubic meter of this clay. Each week, the pot refills itself completely."
+17,Aquarium of Idea-Eating Fish,200 CP,Original,"A glass bowl seemingly filled with water and small, semi-transparent fish that slowly shift in appearance over time. The water and fish are an illusion - attempting to touch or tip the bowl dispels it until left undisturbed again.
+
+>Feeding: Write down discarded ideas on paper or other water-soluble materials. Include your reasoning, vision, instructions, desires, and advice. The paper will slowly vanish inside the aquarium, breaking down until consumed entirely. Cutting ideas into small pieces speeds the process.
+
+>Creation: The fish consume the ideas and excrete completed stories based on the material fed. Different fish have different writing styles, but all are proficient authors when given suitable prompts. Continue feeding until the fish become opaque and paper stops disappearing - this indicates they are full. For best results, start with general concepts and gradually add specific details.
+
+>Harvesting: When the fish are full, turn the bowl upside down and ""pour"" the invisible story into an appropriate medium: an empty notebook, a random USB, or similar. The text will appear in an organized manner within the chosen object. The fish are then empty and ready to eat again."
+18,Targeted Associative Amnestics,100 CP,Original,"A specialized drug that selectively destroys targeted memories. When a subject actively recalls specific memories within an hour of administration, those memories (and all neural connections storing and leading to them) are irretrievably erased. The subject loses not only the memory itself but also awareness that anything is missing. Only systematic external evidence can convince them of the loss, but the actual content remains permanently unrecoverable.
+
+You receive a box of this amnestic compound along with a comprehensive manual detailing its use, application protocols, and instructions for recreating the substance."
+19,Bottled Punishment,50 CP,Original,"A drug that creates a permanent neural link between targeted sensations or emotions and the brain's pain centers. After administration, whenever the subject experiences a specific sensation (such as warmth, cold, or touch) or a particular emotion (like joy, trust, or desire) they simultaneously experience intense physical pain or profound emotional suffering. A feeling of warmth may be accompanied by burning agony; joy may trigger unbearable shame at the same time. 
+
+Caution: Attempting to attach too many sensations or emotions to suffering can result in unpredictable and severe side effects. You receive several vials of this compound along with a comprehensive manual detailing its use, application protocols, and instructions for recreating the substance."
+20,Foresight Kaleidoscope,50 CP,Original,"An ornate, expensive-looking kaleidoscope. When you look into the tube, you see the usual shifting patterns of color and light, but within the mirror reflections and mosaic of hues, fragments of your potential futures appear.
+
+The sheer number of images and complexity of patterns makes it nearly impossible to discern specific events. However, if many of the pieces suddenly turn black, it signals a high and imminent probability of death in the near future."
+21,Nudist Mirror,100 CP,Original,"A collection of strange, enchanted mirrors in various sizes and shapes - each impact-resistant and expensive in appearance. When a living being stands before one, the mirror reflects their body perfectly, but never their clothes or equipment.
+
+You receive a large assortment of these mirrors, along with an encrypted journal from their creator. The encryption is not particularly difficult to crack, and the journal contains insights into their creation and enchantment. "
+22,The Last Bomb to Explode,200 CP,Original,"An unholy abomination - summoning magic twisted by Chaos and sealed within a small, silverish shell. This round device is covered in grooves and engraved symbols. At one pole sits a button that must be turned and pressed. A metal token attached to the bomb reads: ""Don't do this!""
+
+When activated, you have five seconds to flee. The bomb then detonates in a loud, hot explosion. Milliseconds later, two identical copies are summoned nearby - each ready to explode in another five seconds. Those copies will each summon two more after exploding, and so on, until something interrupts the chain reaction.
+
+Warning: Once started, the cascade continues until something (or someone) stops it. Use only if you have a plan."
+23,Shattering Mirror Shield,200 CP,Original,"A tower shield with a semi-reflective outer surface. The longer the same object is reflected in its surface, the clearer and more perfect the reflection becomes. When the image reaches perfect clarity, the mirror becomes fragile.
+
+At that moment, either the shield's wielder or their opponent may shatter the mirror. The surface cracks and breaks into vanishing pieces - and the reflected object suffers identical damage: cracking, breaking, or shattering in kind. Afterward, the shield becomes cloudy again, and the process can begin anew. A devastating tool for patient warriors."
+24,Yellotite,250 CP,Original,"A light, refractory metal found as yellowish-red ore or lemon yellow crystals. Both ore and metal emit a faint yellow glow as background magic passes through them. Yellotite absorbs, accumulates, and changes shape under the influence of magic - properties that strengthen with enchantment and smelting, eventually yielding ""dancing"" weapons and tools that deform at their owner's command. You receive a full shipping container of Yellotite, cut into various simple shapes suitable for your current needs and desires, including both pure metal and raw ore.
+
+>Binding: Pump your magic into the metal until you feel it resonate under your touch. The metal now ""remembers"" your signature and will resist any other wielder - they must siphon your charge or/and overwrite the memory to claim it.
+
+>Shaping: Tune into the magic within the metal. Use shifts in vibration to reshape it as you wish - though you cannot create new holes or separate parts; the material's topology remains unchanged. With practice, a sword can strike around corners or squirm like a snake while remaining solid.
+
+Recurring Supply (+125 CP): An additional full container of Yellotite is delivered to you each week, but only if you actually want or need it at that time."
+25,Frostfire Matches,200 CP,Original,"A small black matchbox with snowflake patterns on its velvet-soft surface - hard as rock when pressed. Inside rest 12 ebony matches with crimson glass heads. When a match is burned or destroyed, the box creates a replacement upon being closed and reopened.
+
+Matches can only be lit using the box. They burn with cold flames of black, blue, and white - a fire that freezes rather than heats.
+
+A lit match can ignite water and steam in sufficiently humid conditions, causing them to burn with the same ice fire. The water is consumed, leaving behind clouds of extremely cold gas (a hydrogen-oxygen mixture) and frozen particles: snow, frost, and rime.
+
+Warning: Do not use near large bodies of water!"
+26,Tuning Fork Sword,300 CP,Original,"A sword with two parallel blades, designed to channel resonance. By striking the weapon or through the wielder's skill, the sword can be tuned to the vibrational frequency of a specific object or material.
+
+Once tuned, strikes against that target trigger controlled destruction through resonance: delayed and precisely programmed. Shatter a wall seconds after striking it. Tear an object apart in a specific direction. Create micro-damage throughout a structure. Destroy bones while leaving flesh and armor untouched.
+
+After impact, the target begins to resonate: ringing, crunching, growling, or buzzing depending on its material, vibrating more intensely until the programmed destruction occurs."
+27,Sword of Cursed Blood,350 CP,Original,"A blade that inflicts a terrible curse upon the wounded. Upon cutting a living creature, the sword causes blood to rapidly coagulate - preventing bleeding. But this is only the beginning. The clots harden and sprout into sharp, scarlet crystals that feed on the victim's energy and vitality. Blood that touches these growths also thickens and crystallizes.
+
+The process is slow but inexorable. The victim is gradually filled with red sharp crystals. Upon death, the corpse becomes a source of highly valuable alchemical ingredients: scarlet crystal formations and crystalline powder. The crystals are harmless to other creatures; the curse only affects blood of wounded by the sword.
+
+Warning: Do not to cut yourself!"
+28,The Vernier Engine,200 CP,Original,"You gain access to a cathedral of precision - the Vernier Engine. This massive milling machine occupies an entire reinforced room, its cutting head floating on electromagnets to eliminate all vibration. It works at the quantum threshold, using self-renewing diamond lattice cutters to machine components with impossible tolerances. Parts emerging from the Engine have no tool marks, no heat distortion, no residual stress - they are simply the shape the material always wanted to take.
+
+Operation requires only a digital model and raw feedstock. The Engine hums for hours or days, then falls silent, presenting a single perfect component ready to serve for centuries. It cannot create energy or produce alloys it isn't fed, and the building must be isolated from vibration during operation.
+
+You receive the machine within a sealed, isolated room, complete with comprehensive documentation covering operation, maintenance, repair, production of all consumables, and instructions for reproducing the Engine using lesser technology. It does not include its own power source. You may withhold its appearance until a suitable time and place are found."
+29,Twinning Cleaver,400 CP,Original,"This is a massive, durable butcher knife with a jagged, razor-sharp edge that appears chipped and scaly - yet every broken tooth cuts as true as a master's blade. The blade periodically rusts and sheds its rust, renewing itself endlessly. Intricate engravings cover its surface: teeth, eyes, genitalia, and mating rituals of unknowable creatures. After each shedding, the patterns rearrange, but the themes remain.
+
+Wounds inflicted by the Twinning Cleaver are excruciatingly painful yet produce no blood. The target experiences a brief, disorienting euphoria alongside the agony. Minor cuts heal quickly, leaving only a characteristic scarring.
+
+But a deep enough wound (proportional to the target's size) triggers something far stranger. The cut grows, deepens and the victim divides into two perfect copies. Each is half the size, half the age, and possesses exactly half the experiences of the original. One is always male, the other female. Both are healthy, whole, and share a basic, inexplicable sympathy for one another. "
+30,Struck Gold,300 CP,Original,"This seemingly simple pickaxe, with its handle of peach wood and head of an unknown bluish-pink metal, holds a remarkable power. Whenever you strike and break a rock with it, a small portion of the mass is transmuted into either powdered metal or small nuggets of iron, copper, silver, gold, zinc, tin, or lead, or into small gemstones like diamond, emerald, ruby, sapphire, spinel, topaz, and aquamarine. If the rock already naturally contains any of these materials, the pickaxe will simply extract them with every successful strike instead of transmuting them, ensuring you get the most out of every vein.
+
+The head of the pickaxe is made of an extremely durable and high-melting-point alloy. However, it is not indestructible; it can be melted down and reforged. If you choose to rework this metal into a different tool, its core property will adapt to its new purpose. For instance, reforged into an axe, it would grant a similar effect when used on wood, offering different, wood or nature-themed rewards. The metal retains its fundamental ""lucky strike"" nature, but the context and the bounty it provides will always be appropriate to the tool's function and the material it's used on."
+31,Smoking Pipe,100 CP,Original,"A pipe of curious craftsmanship, fused from wood and bone. It allows you to safely smoke any flammable material with minimal negative effects, though it works best with organic substances like plants or fungi. Depending on what you choose to burn, the pipe will provide a temporary beneficial buff, produce controllable smoke with a unique magical effect, or create some combination of both. Experimentation is key to discovering the myriad of possible effects."
+32,Cursed Casket,400 CP,Original,"This is a high-quality casket made of stone, metal, and wood. If a dead body is placed inside and the lid is closed, the corpse will be stitched together toward a state of relative integrity and reanimated. It will act just like the person whose body was used in the casket.
+
+However, it will be a psychopathic approximation of that person, like a demon possessing the corpse. This undead is stronger, more durable, and more agile than the dead body used to create it. This creature is very afraid of death, but it is devout and loyal toward its creator, even if it cannot always fight its impulses.
+
+To continue existing and remain animated, this undead must harm other living creatures (preferably sapient beings) and do so severely (and it knows this fact). The damage and suffering inflicted on others can be used by this sort of vampire to regenerate, sustain itself, and accumulate energy for a sudden burst of physical capability."
+33,Pound of Flesh,250 CP,Original,"This is a crimson-red curved knife with slowly moving swirling patterns on it. It is sharp and incredibly durable, exceptionally good at carving and cutting anything that can be defined as ""flesh."" Wounds left by this knife instantly knit together with incredible pain and leave behind ugly red scars. It can easily chop off a hand, even from a person with enhanced durability.
+
+Cut pieces of flesh morph into small, squishy red balls of meat that stay fresh for an incredibly long time and are nutritious in proportion to the piece of flesh they were made from. Eating one ball gives a temporary boost to stats and some other buffs, depending on whose flesh was consumed and how much. A very small fraction of this boost remains permanent. Additionally, these red fleshy balls are incredibly delicious and slightly addictive in a psychological way, and they may taint the eater's mind over time with pieces of their meal's mind if eaten too often."
+34,Flower?,100 CP,Original,"It's not. This is a colorful mushroom, always speckled with yellow dots, that grows in red, green, or blue variants depending on its environment. Each color produces a different effect when consumed: blue suppresses hunger for several hours (though provides no actual nourishment), green induces a slowly building hallucinogenic high that eventually crashes into a hangover, and red causes numbness and pain immunity, with high doses inducing anesthesia-like sleep. Different variants can be mixed in various proportions and ways for interesting and unique combined results. You receive a small glasshouse with all three variants growing inside, along with several bags of spores and a cultivation guide detailing how to grow and properly use these fungi."
+35,Stone Flowers,100 CP,Original,"These bulbous stems and flowers look as though they are made of stone, but they are as soft to the touch as silk and smell like roses. They have transparent, glass-like thorns growing sparsely on the plant's surface. These spikes are extremely thin, nearly invisible, fragile, and poisonous. Toxin from these thorns temporarily turns affected flesh to stone. The more poison injected, the longer the effect lasts and the more tissue beyond the pricked area is affected.
+
+Affected areas cannot move, are hard, and look petrified, but they can still feel things - though sensations are more numb the more toxin has been used to petrify the tissues. Otherwise, it is safe. The fruit of the stone flowers looks like cut gemstones: emerald, diamond, ruby, or sapphire. They are also soft, edible, and delicious - like tough jelly with a hard caramel crust, tasting slightly of Wealth and Prosperity when freshly plucked. You receive a small plot of these flowers to cultivate."
+36,RED MATERIA,600 CP,Original,"A supply of the COLOR of inertia and fixity. RED MATTER is the ultimate still point in a turning world. It does not obey gravity so much as it ignores it - its weight is conceptual, the principle of ""staying put"" given form. Unless deliberately placed by will of the Demiurges, a loose fragment simply rests where it is, immovable by any mundane force. An object of pure RED MATTER is anchored in reality itself. 
+
+You receive a significant cache of this crystalline substance and the tools to work it (but not the insane degree of skill needed). With these, you can shape RED into the foundations of realms, create unshakable keystones, or anchor a location so firmly that it cannot be moved, banished, or destroyed by any means short of a greater Demiurge's whim. The tools are perfect for this one task and stubbornly resist being repurposed. They are conceptually ultra-focused on one purpose."
+37,ORANGE MATERIA,600 CP,Original,"A supply of the COLOR of adhesion and attraction. ORANGE MATTER is the cosmic glue that binds disparate things into a single object. It does not merely stick surfaces together - it creates a fundamental attractive force between particles of other matters, governing cohesion itself. In its default state, it is a fibrous or amorphous solid that can be drawn into impossibly fine, strong threads or a sticky paste. It is the principle that makes a sword out of iron atoms and a body out of cells, that keeps a mountain from being just a pile of gravel. 
+
+You receive a significant cache of this substance and the tools to work it (but not the insane degree of skill needed). With these, you can weave ORANGE into the fabric of realities, bind broken artifacts beyond any hope of repair, or create composite materials of impossible strength. The tools are perfect for this one task and stubbornly resist being repurposed. They are conceptually ultra-focused on one purpose."
+38,YELLOW MATERIA,600 CP,Original,"A supply of the COLOR of mutability and reaction. YELLOW MATTER is the ultimate catalyst - the principle of ""changing in response to stimulus"" given form. In its default state, it is a non-Newtonian gel that hardens under pressure, liquefies when still, and shifts color or state in the presence of different energies. It does not merely react to force; it embodies transformation through interaction. It can absorb kinetic energy, storing it as potential, or release it as a catalyst for change in other materials. 
+
+You receive a significant cache of this substance and the tools to work it (but not the insane degree of skill needed). With these, you can weave YELLOW into armors that adapt to dangerous phenomena, create alchemical reagents capable of true transmutation, or forge ""smart"" materials that respond to their environment. The tools are perfect for this one task and stubbornly resist being repurposed. They are conceptually ultra-focused on one purpose."
+39,GREEN MATERIA,600 CP,Original,"A supply of the COLOR of dissolution and purity. GREEN MATTER is the universal solvent - the principle of ""breaking down into components"" given form. It does not destroy; it purifies by separation. A touch of this utterly clear, flowing liquid causes complex structures to unravel into their constituent parts, or even COLOR MATTER (Mortal Matter is usually purely GRAY). 
+
+You receive a significant cache of this substance and the tools to work it (but not the insane degree of skill needed). With these, you can weave GREEN into alchemical baths that refine any material to its purest form, create reagents that dissolve bindings without harming what they hold, or deconstruct artifacts down to their core components and essences for study and reuse. The tools are perfect for this one task and stubbornly resist being repurposed. They are conceptually ultra-focused on one purpose."
+40,BLUE MATERIA,600 CP,Original,"A supply of the COLOR of conduction and connection. BLUE MATTER is the ultimate conductor - the principle of ""carrying a force from one place to another"" given form. Thick and heavy as mercury, it flows in a deliberate, almost intelligent manner, seeking to create pathways and networks. It does not merely transmit electricity, but energy, force, momentum, and even thought or divine will itself. It is the bloodstream of the cosmos. 
+
+You receive a significant cache of this substance and the tools to work it (but not the insane degree of skill needed). With these, you can weave BLUE into the wiring of divine machines, create mediums for telepathic contact across universes, or channel raw power from one place to another without loss. The tools are perfect for this one task and stubbornly resist being repurposed. They are conceptually ultra-focused on one purpose."
+41,INDIGO MATERIA,600 CP,Original,"A supply of the COLOR of obscuration and mystery. INDIGO MATTER is the Veil - the principle of ""hiding and revealing"" given form. A cool, shifting mist that does not destroy light or information but diffuses, delays, and refracts it. Looking into it, you see a distorted version of reality, or perhaps glimpses of other places and times. It can hide objects completely, or make them appear where they are not. It governs illusion, secrets, and the concept of potential itself. 
+
+You receive a significant cache of this substance and the tools to work it (but not the insane degree of skill needed). With these, you can weave INDIGO into veils that shield realms from mortal eyes, create oracular fogs that reveal glimpses of what was or what may be, or shroud objects in mystery so they cannot be perceived or remembered. The tools are perfect for this one task and stubbornly resist being repurposed. They are conceptually ultra-focused on one purpose."
+42,VIOLET MATERIA,600 CP,Original,"A supply of the COLOR of essence and potency. VIOLET MATTER is the principle of ""being itself"" given form - the pure, undiluted expression of a thing's fundamental nature, stripped of all form. It is not fire that burns, but fire that defines. A flame of VIOLET touching a rock would not heat it, but cause it to momentarily flare with the very ""idea"" of Rock-ness. It is the closest matter to the original PRIMORDIAL LIGHT, flickering between states and radiating the ""color"" of whatever concept it expresses. 
+
+You receive a significant cache of this substance and the tools to work it (but not the insane degree of skill needed). With these, you can weave VIOLET into the soul-stuff of created things, fuel divine miracles that impose new nature upon part of reality, or capture the afterglow of a creative act to preserve its essence. The tools are perfect for this one task and stubbornly resist being repurposed. They are conceptually ultra-focused on one purpose."
+43,The Dross of Creation,300 CP,Original,"A supply of the COLOR of lost potential, ""almost, but not quite"" principle made manifest. GRAY is what remains when the seven COLORS are partially fused without skill, intention, or force - the Dross left behind by failed creation. Dull, lifeless, and utterly without inspiration, it is the gray of ash and dust, of color that has given up. In its default state, it is a brittle, crumbly solid that flakes and powders at the slightest touch. It has no strength, no beauty, no purpose. GRAY seemingly drains vitality from its surroundings (not literally, its just ugly). It cannot be shaped into tools, conduct or isolate energy, or anchor anything. 
+
+It simply fails at being anything at all. Over time, it slowly breaks down into random Mortal Matter. You gain a practically unlimited supply of this stuff, refilling the giant chamber it comes with whenever you wish. If only it was useful. But the thing is stubbornly committed to failing at being anything. You'll need to be smart to deal with it. Or you can wait a few million years for it to decay into random Mortal Matter like carbon, uranium, eezo, or whatever else."
+44,PRIMA MATERIA,800 CP,Original,"A supply of the FIRST MATTER - PRIMORDIAL LIGHT made tangible. Rainbow-hued, all seven COLORS simultaneously present but not blended: shift your perspective and the colors shift with you. No single angle shows all seven at once, but you always know the others are there. In a supercritical state by default: it is solid, liquid, and gas at once - dense as stone, fluid as water, breathable as air, one thing being three without transition. 
+
+PRIMA MATERIA contains all COLORS within it in perfect tension, waiting to be separated. It responds to Demiurgic will: it can be separated into components, copied through nurturing, shaped during separation, or even combined back into itself. It does nothing on its own. It simply is, patient and full, carrying the memory of the LIGHT. 
+
+You receive a significant cache of this substance and the tools to work it (but not the insane degree of skill, research, and comprehension needed). With these, you can potentially extract any COLOR from it, grow your supply of PRIMA MATERIA over time from the source, shape it directly into crude but functional forms, or even pursue the path toward CLEAR by subtracting all colors. 
+
+To a mortal, it is merely a beautiful and perfect substance they cannot begin to use. The tools are ideal for this one task and stubbornly resist being repurposed. They are conceptually ultra-focused on one purpose. But are you good enough to use this divine material?"
+45,DUSK MATERIA,600 CP,Original,"A supply of the POTENTIAL. DUSK is deep, luminous gray with hints of all colors struggling to emerge, like the moment between night and day when the world holds its breath. In its default state, it is a mutable mist: semi-solid, flowing like thick fog, heavy with possibility in a way that has nothing to do with weight. DUSK is the principle of ""waiting to become"": existence that has not yet decided what to be. It flows toward creative will, eager to become whatever is asked of it, but provides only raw potential. 
+
+The Demiurge must provide the form, function, identity, and essence in all the details. It can become anything, but only if the creator does all the work. You receive a significant cache of this substance and the tools to work it (but not the insane degree of skill, research, and comprehension needed). With these, you can shape DUSK into entirely new creations, fill wounds in reality with exactly what is needed, craft the substance of mortal dreams, or sketch first drafts before committing to permanent materials. 
+
+To a mortal, it is merely a beautiful and strange mist they cannot begin to use. The tools are perfect for this one task and stubbornly resist being repurposed. They are conceptually ultra-focused on one purpose. "
+46,Irresistible Resistors,100 CP,Original,"This is a large cardboard box filled with various resistors that exhibit negative electrical resistance. These components defy conventional physics. Once you open the box, the resistors rearrange themselves into any shape, form, or specification you find useful for your current project: whether that’s surface-mount chips, vintage carbon comps, or high-power ceramic blocks.
+
+>For an additional 100 CP (200 CP total), a fresh box of these remarkable resistors arrives each week, delivered discreetly and conveniently (e.g., on your doorstep, in your workshop, or via a sudden package from an unremarkable courier). You receive a new supply only if you need or desire more."
+47,Couple of Monopoles,100 CP,Original,"Two small wooden boxes. One contains a magnetic north monopoles, the other a magnetic south monopoles - as if someone took an ordinary magnets, cut them impossibly in half without spawning new opposite poles, and produced true solitary magnetic charges. When you first open the box, monopoles inside reshapes themselves into form and specification useful to your current project.
+
+>For an additional 100 CP (200 CP total), two fresh boxes (one north, one south) arrive each week, delivered discreetly and conveniently (e.g., on your doorstep, in your workshop, or via a sudden package from an unremarkable courier). You receive a new supply only if you need or desire more."
+48,Super Spirits,100 CP,Original,"A polished wooden box containing six glass bottles of impossibly potent spirits. Each bottle measures exactly 120% alcohol by volume - a chemical impossibility that somehow holds true. The six liquors are distinct in flavor, aroma, and culinary application, ranging from smoky and herbal to sweet and floral. When all bottles are intact and no living creature is directly observing them, they slowly refill to their original volume over 24 hours."
+49,Karmic Bronze,200 CP,Original,"A cubic meter of strange bronze, supplied as ingots, wires, and plates. This metal drains karma from any creature that touches it: slowly at first, then faster until it reaches a peak or the creature's karma hits zero. Once drained, the bronze holds either a positive charge (appearing new, shiny, and polished) or a negative charge (rusty, green, and rough). Left undisturbed and untouched, the stored karma gradually leaches out into the surrounding area, temporarily creating zones of enhanced or diminished luck and prosperity."
+50,Narratium,250 CP,Original,"A sealed container holding a quantity of Narratium: a fluid heavier than water that slowly absorbs narrative patterns from its surroundings. Over time it thickens, eventually solidifying into nearly indestructible crystalline ice, shot through with shifting colors and patterns. Once fully hardened, the crystal permanently projects its accumulated narratives into the world, bending fate and circumstance to fit the story it absorbed. A crystal fed on an ancient evil overlord's history will twist local events toward dark tropes, dramatic downfalls, and villainous archetypes - for better or worse. The container prevents narrative accumulation indefinitely, but once the Narratium is removed from it, the vessel loses its fait-backed protective property."
+51,Layerit,200 CP,Original,"A brown cermet with a pronounced layered structure: light as aluminum, slightly elastic, and has extremely low in thermal and electrical conductivity. Its true strength comes from an extradimensional architecture: some layers exist in another dimension, continuously connected to the slice visible in our reality. When damaged, Layerit recovers by pushing lost layers back into the main dimension. 
+
+This also distributes impact force across a larger volume of material via the extra space, making it surprisingly difficult to split or pierce. The repair force scales with the mass stored in the extra dimension; fresh Layerit can crush or expel foreign material stuck in its structure. You gain a full shipping container of this material packaged and in different shapes, which would be most useful and convenient for you. 
+
+Recurring Supply (+100 CP): An additional full container arrives each week, but only if you actually want or need it at that time."
+52,Scairhil,250 CP,Original,"A unique material between metal and stone: dark, nearly black, with a metallic sheen and a rough, rugged texture. It is notably heavy and difficult to work with. When exposed to magic, Scairhil briefly glows faint blue or purple, then becomes highly resistant to that specific magic type, sometimes making casting near it difficult or impossible. It can only be attuned to one magic type at a time; contact with a different type causes it to re-attune immediately. Differently attuned pieces stored together gradually destabilize, lose their attunement, and revert to blank Scairhil. The more distinct attunements in proximity, the faster the disruption. You gain one cubic meter of Scairhil as ingots, plates, and wires."
+53,Skatrium,100 CP,Original,"Skatrium is a rare and mysterious substance found only in the deepest, darkest corners of the world. It appears as a shimmering, iridescent crystal that seems to shift and change colors depending on the angle of the light. Skatrium is incredibly lightweight, hard, and impact-resistant. When exposed to heat, Skatrium shifts into a white, gas-like state while retaining its hardness and solid-like properties. Kinda like a cloud made of hard cotton wool that resists attempts to disperse itself. The material becomes much lighter than air in this state. 
+
+However, the transition itself is unexpected and explosive. The heated crystal remains almost unchanged for a while, but at some point it expands rapidly and becomes a solid cloud, like popcorn in a microwave. The transition occurs when the crystal is heated just above the boiling point of water. You gain one cubic meter of solid Skatrium in the form of crystals of various sizes, sealed in small boxes.
+
+Recurring Supply (+50 CP): An additional crate with one one cubic meter of material arrives each week, but only if you actually want or need it at that time."
+54,Angelic Lead,100 CP,Original,"This metal becomes harder and gains mass when in contact with sinful creatures. It temporarily increases in hardness and mass in proportion to the combined sins of everyone who touches the material at the moment - either directly or indirectly by one degree (such as through a layer of clothing). While in contact, the metal reflects their sins in its mass and hardness.
+
+Angelic Lead is an excellent material for binding physically strong, unholy demons. It is especially suitable for creating weapons for saints because the metal is naturally lightweight (similar to aluminum) and soft like lead. However, when the weapon makes contact with a sinful creature or something it is wearing (or if the weapon is a mere bullet) it suddenly becomes very hard and heavy the moment it finally hits the sinful monster. You gain one cubic meter of Angelic Lead in the form of ingots, plates, and wires."
+55,Eldritch Barbels,200 CP,Original,"Eldritch Barbels are long, white, and very flexible whisker-like formations. Their surface is covered with patterns resembling rings with many complex grooves. These organs belong to the same creature as the Eldritch Shell. Usually, they are stretched across different parts of the shell like strings, grow in armor gaps, or stand like long whiskers.
+
+When struck or rubbed, they produce a sound similar to a melody composed of the noises of cracking and breaking glass. Beings that perceive this sound begin to experience sharp, increasing pains, dizziness, and impairment of short-term memory. Recordings of this noise also have a cognitohazardous effect, though to a lesser extent.
+
+This substance can be used to create instruments and devices whose sounds produce a similar effect when perceived by beings with sufficiently complex perception. You gain a big bundle of these formations in different shapes and sizes, safely packaged to prevent negative effects."
+56,Eldritch Shell,400 CP,Original,"Eldritch Shell consists of hexagonal, flat pieces of thick armor made from a dark, wood-like material. The surface of each scale is dotted with complex carved patterns and symbols that creep very slowly and seem to ripple when you blink. This is part of the shell of a creature belonging to a species that specializes in hunting sentient beings and types of life with complex perceptions. 
+
+If a sentient or sapient being (or one with sufficiently complex perception) looks at the shell, their mind will gradually become filled with thoughts of patterns. They will no longer be able to look for vulnerabilities, plan an attack or retreat, and their thoughts will revolve around patterns: what they mean, how beautiful they are, what they look like, and so on. 
+
+Hypercognitive creatures suffer even more, as their accelerated thinking, multi-threaded consciousness, and other information-processing functions become clogged with noise. Photos and videos of sufficient clarity also convey the cognitohazard effect, though much less strongly.
+
+These properties make the material very difficult to study and process. However, things created from it can be quite interesting. You gain a large crate of these shells, sealed and contained in a way that prevents negative effects."
+57,Dimlight Stone,50 CP,Original,"A roughly polished, glass-like sphere. Under high illumination, the sphere dims and ceases to glow. But as soon as it is brought into darkness, it begins to emit a soft reddish-yellow light, although not very bright. Shattering the sphere causes a short, bright flash of red light. The fractured areas glow brighter than usual for some time, but soon the stone returns to its normal behavior. You gain a full shipping container of this material in the form of spheres of various sizes.
+
+Recurring Supply (+25 CP): An additional shipping container with this of material arrives each week, but only if you actually want or need it at that time."
+58,Kinelight Stone,100 CP,Original,"A matte, translucent stone that can turn the light passing through it into kinetic radiation. This type of light transfers energy to objects not as heat, but as acceleration. The stone mostly generates a soft version of kinetic radiation, which tends to be distributed nigh-evenly across an object and accelerate each of its points uniformly (resulting in no G‑force from the acceleration). This stone is easily recognizable by the cleared surface around it or by the hole into which it has partially buried itself. You gain a full shipping container of this material in shapes convenient for you at the moment.
+
+Recurring Supply (+50 CP): An additional shipping container with this of material arrives each week, but only if you actually want or need it at that time."
+59,Photonite (aka Absorbent Luminosity Stone),100 CP,Ottriman,"Photonite is an extremely dull and dark rock in its base state, seemingly unremarkable. However, it has a very unusual property: it can absorb light and store it within. As it does so, it lightens, progressing from black to grey to white.
+
+It can only absorb so much light. If it starts to passively emit rays of light and becomes uncomfortably hot, it is time to put it in a dark place, unless you want it to explode. The light can be stored effectively indefinitely, provided the stone doesn't break.
+
+To release the light, strike the opposite end from where you want the light to come out. A sharp tap with a narrow impactor produces a tight laser beam, while a loose slap with something wide and slow produces a cone of unfocused light. As long as the stone doesn't break, you can strike harder to emit more intense light. You gain a full shipping container of this material in shapes convenient for you at the moment.
+
+Recurring Supply (+50 CP): An additional shipping container with this of material arrives each week, but only if you actually want or need it at that time."
+60,P-Kinelight (or Penetrative Kinetic Light Emitting Material - P.K.L.E.M),50 CP,Original,"A group of Photonite-Kinelight alloy materials. The substance resembles glass with a greenish tint. It is capable of converting light passing through it into a penetrative variation of kinetic light - akin to gamma radiation from the world of kinetic light.
+
+A beam of this energy passes through many objects. The entire volume through which the light has traveled is unevenly and sharply shifted in the direction of the radiation's movement. Depending on the frequency of the radiation, the resulting destruction can vary, and some materials may not be affected at all. However, this type of kinetic light typically leaves holes with smooth edges.
+
+You gain a crate containing various P.K.L.E.M. alloys samples, along with a manual describing the properties and methods for creating this substance from base materials."
+61,H-Kinelight (or Hard Kinetic Light Emitting Material - H.K.L.E.M.,50 CP,Original,"A group of Photonite-Kinelight alloy materials. The substance resembles glass with a silvery-gray color. It is capable of converting light passing through it into a hard variation of kinetic light.
+
+This type of kinetic light transfers energy in the form of acceleration applied to the area on which the light beam falls. It exerts pressure, as opposed to the soft variation of kinetic light, which tends to distribute energy evenly and accelerate an object without compromising its integrity. Depending on the energy, area, and frequency, this light can push like a hydraulic press, hit like a sledgehammer, or pound like a jackhammer.
+
+You gain a crate containing various H.K.L.E.M. alloys samples, along with a manual describing the properties and methods for creating this substance from base materials."
+62,Acoustic Dye,25 CP,Original,"A synthetic material in the form of small, multi-colored crystals from which paint can be made very easily. The color of this material changes depending on the prevailing frequencies of vibrations (sound) passing through them. In other words, they change color based on the noise, provided the sound is loud enough.
+
+Very high sounds cause the crystals to take on a purple hues, while very low sounds turn them brown. White noise makes them gray. The color is retained until another sufficiently loud noise affects the hue. 
+
+Such paints are often used in nightclubs to create patterns that shimmer with the music. You gain a crate of this material, which refills itself every 24 hours if depleted."
+63,Thermus,150 CP,Original,"A dark, obsidian-like substance. It is close to diamond in hardness, similar to gold in density, conducts heat very well, and does not conduct electric current. It melts at 5273 K (5000°C; 9032°F). The main property of this material is its absurdly high heat capacity - at least ten times higher than that of water. This means a huge amount of energy is required to heat the material by just one Kelvin.
+
+Upon reaching its melting point, the material loses its hardness very quickly, then begins to emit X-ray radiation and tends to cool rapidly. This effect continues for some time even if the material has already lowered its temperature and solidified again - it continues to emit radiation and cool down for a period. You gain a shipping container full of this material in various shapes convenient for you at the moment.
+
+Recurring Supply (+75 CP): An additional shipping container with this of material arrives each week, but only if you actually want or need it at that time."
+64,Illogical Drill Bits,25 CP,Original,"A battered, impossibly heavy footlocker sits humming faintly with wrong geometry. Inside: a collection of drill bits that defy physics yet work perfectly. Square bits (for square holes), 90° bent bits (sideways drilling), zig-zag bits (snaking around pipes), flexible “wet noodle” bits (steerable in real time), and more esoteric shapes. Each bit is self-sharpening, extremely durable, and fits any standard chuck. Somehow, they always extract cleanly - no binding, no shattered walls."
+65,Blight of the Borrowed Spark,200 CP,Original,"You gain a specialized vessel capable of emitting Poisonous Light at will, in either a full omnidirectional or a directed cone of variable intensity. This light is harmless to anything it simply touches or illuminates. However, any system (biological or mechanical) that attempts to consume this light as an energy source (photosynthesis, solar panels, metabolic processes, etc.) will find the energy conversion process introduces a subtle, damaging noise. 
+
+This manifests as accumulating cellular or systemic damage over time: plants wither leaf by leaf, solar arrays degrade, and any creature foolish enough to try feeding on the light suffers internal harm. To safely derive energy from this light without consequence, specific adaptations or countermeasures are required. Use it for research, sabotage a garden, or simply as a lesson in why some sparks should never be caught."
+66,Haze of the Rusted Gale,200 CP,Original,"You gain a specialized vessel capable of releasing Iron Wind at will, in controlled amounts or torrential bursts. This heavy, metallic gas is transparent when still but takes on an iron sheen and a scraping-metal sound when in motion. It is breathable, but prolonged exposure causes harmful bioaccumulation unless you possess specific biological adaptations. The Wind creates extreme drag against sudden movements, conducts heat and electricity with ease, and can strip flesh or pierce like sharp iron when accelerated. 
+
+Its most unique property emerges under intense heat: it temporarily transforms into a shapeable solid plasma. Whatever form you shape the plasma into (a blade, a net, a hook) permanently influences the Iron Wind's character once it cools back to gas, making it sharper, blunter, stickier, or otherwise altered. Use this exotic matter as a weapon, a crafting material, or a hazard to reshape at your whim."
+67,Cigarette of the White Angel,300 CP,Original,"You gain a special vessel that releases Revive Smoke on command: a white, cloud-like substance with a faint glow visible in darkness. This smoke is absorbed by dead tissue and reanimates it to a living state. It does not heal wounds, but sustains the revived tissue until the smoke's charge burns out naturally (a process that typically takes a very long time). Revived tissue remains living permanently unless killed again by injury or decay after the charge depletes. 
+
+Medically, this smoke is invaluable: patients cannot die during surgery, necrotic tissue is revived at a cellular level, and radiation-damaged cells are restored to near-perfect health. However, it cannot cure toxins, fix genetic diseases, and revives cancerous cells as readily as healthy ones. "
+68,Lighter of the Black Demon,300 CP,Original,"You gain a special vessel (battery) that discharges Possession Charge: a rare, lightning-like element. Upon contact with dead tissue, it does not revive but animates the tissue, allowing it to move without life. You (or whoever used the charge) may either control the dead bodies directly or instill sets of instructions for autonomous operation. Unlike Revive Smoke, this charge does not burn out; animated bodies function for very long periods, though gradual decomposition slowly weakens their animation until it eventually fizzles out. 
+
+Bodies retain some qualities of the original creature depending on which tissues are animated - animating a fresh, dead brain allows the corpse to execute certain skills and complex orders. However, these are p-zombies at best: no true intelligence, no internal structure, just obedient motion. Destroy or burn the body to stop the effect early. Perfect for laborers, guards, or unsettling a rival's dinner party."
+69,Breath of the Hungry Void,200 CP,Original,"You gain a special vessel that releases Empty Wind: a gaseous Vacuum-Air hybrid that generates negative pressure instead of positive. Rather than pressing outward, it pulls on surfaces and sucks things into its volume. This substance naturally forms high-tension bubbles that can be broken by force, allowing the Wind to mix with other materials. 
+
+When blended with ordinary air, it creates persistent zones of lowered pressure. Empty Wind is not breathable (it is effectively moving vacuum). Use it to create implosion hazards, unconventional barriers, or simply to ruin someone's attempt at maintaining atmospheric stability."
+70,,,,
+71,,,,
+72,,,,
+73,,,,
+74,,,,
+75,,,,
+76,,,,
+77,,,,
+78,,,,
+79,,,,
+80,,,,
+81,,,,
+82,,,,
+83,,,,
+84,,,,
+85,,,,
+86,,,,
+87,,,,
+88,,,,
+89,,,,
+90,,,,
+91,,,,
+92,,,,
+93,,,,
+94,,,,
+95,,,,
+96,,,,
+97,,,,
+98,,,,
+99,,,,
+100,,,,
+101,,,,
+102,,,,
+103,,,,
+104,,,,
+105,,,,
+106,,,,
+107,,,,
+108,,,,
+109,,,,
+110,,,,
+111,,,,
+112,,,,
+113,,,,
+114,,,,
+115,,,,
+116,,,,
+117,,,,
+118,,,,
+119,,,,
+120,,,,
+121,,,,
+122,,,,
+123,,,,
+124,,,,
+125,,,,
+126,,,,
+127,,,,
+128,,,,
+129,,,,
+130,,,,
+131,,,,
+132,,,,
+133,,,,
+134,,,,
+135,,,,
+136,,,,
+137,,,,
+138,,,,
+139,,,,
+140,,,,
+141,,,,
+142,,,,
+143,,,,
+144,,,,
+145,,,,
+146,,,,
+147,,,,
+148,,,,
+149,,,,
+150,,,,
+151,,,,
+152,,,,
+153,,,,
+154,,,,
+155,,,,
+156,,,,
+157,,,,
+158,,,,
+159,,,,
+160,,,,
+161,,,,
+162,,,,
+163,,,,
+164,,,,
+165,,,,
+166,,,,
+167,,,,
+168,,,,
+169,,,,
+170,,,,
+171,,,,
+172,,,,
+173,,,,
+174,,,,
+175,,,,
+176,,,,
+177,,,,
+178,,,,
+179,,,,
+180,,,,
+181,,,,
+182,,,,
+183,,,,
+184,,,,
+185,,,,
+186,,,,
+187,,,,
+188,,,,
+189,,,,
+190,,,,
+191,,,,
+192,,,,
+193,,,,
+194,,,,
+195,,,,
+196,,,,
+197,,,,
+198,,,,
+199,,,,
+200,,,,
+201,,,,
+202,,,,
+203,,,,
+204,,,,
+205,,,,
+206,,,,
+207,,,,
+208,,,,
+209,,,,

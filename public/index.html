@@ -1,0 +1,636 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1"
+		/>
+		<title>CSV Chaos Tamer</title>
+		<link
+			rel="stylesheet"
+			href="/styles.css"
+		/>
+	</head>
+	<body>
+		<div
+			class="ribbon-corner"
+			aria-hidden="true"
+		>
+			<div class="ribbon">BETA</div>
+		</div>
+		<main class="app-shell">
+			<section class="workspace">
+				<header class="topbar">
+					<div>
+						<h1>CSV Chaos Tamer</h1>
+						<p id="serverStatus">Status pending</p>
+					</div>
+					<button
+						class="icon-button"
+						id="refreshStatus"
+						type="button"
+						title="Refresh status"
+						aria-label="Refresh status"
+					>
+						<span aria-hidden="true">R</span>
+					</button>
+				</header>
+
+				<div class="tabs-row">
+					<button
+						type="button"
+						class="tab-button active"
+						id="tabHome"
+						data-tab="home"
+					>
+						Home
+					</button>
+					<button
+						type="button"
+						class="tab-button"
+						id="tabBuild"
+						data-tab="build"
+					>
+						Build
+					</button>
+					<button
+						type="button"
+						class="tab-button"
+						id="tabSourceMetadata"
+						data-tab="source-metadata"
+					>
+						Source metadata
+					</button>
+					<button
+						type="button"
+						class="tab-button"
+						id="tabKeywordFilter"
+						data-tab="keyword-filter"
+					>
+						Keyword filter
+					</button>
+					<button
+						type="button"
+						class="tab-button"
+						id="tabDatasets"
+						data-tab="datasets"
+					>
+						Datasets
+					</button>
+				</div>
+
+				<section
+					id="paneHome"
+					class="tab-pane active"
+				>
+					<section class="panel welcome-panel">
+						<div class="welcome-hero">
+							<h2>Welcome</h2>
+							<p class="welcome-subtitle">
+								This panel turns the messy, community-sourced perk tables into clean, validated JSON databases for
+								<a
+									href="https://celestial.decaded.dev"
+									target="_blank"
+									rel="noopener noreferrer"
+									>celestial.decaded.dev</a
+								>.
+							</p>
+							<div class="welcome-contract">
+								<strong>Sources are served exactly as they are.</strong>
+								<span class="helper-text">CSV Chaos Tamer only reformats. It never edits, deduplicates, or &quot;corrects&quot; the source data.</span>
+								<span class="helper-text">If you spot any problems with the sources, please report them to the original source maintainers.</span>
+							</div>
+						</div>
+
+						<h3 class="welcome-section-title">Quick start</h3>
+						<ol class="welcome-steps">
+							<li>
+								<strong>Add your files in the browser.</strong>
+								On the Source metadata tab, click <strong>Add source</strong> and upload that source&rsquo;s CSV/Markdown files (drag-and-drop works too). The panel creates the
+								source and stores its files for you.
+							</li>
+							<li>
+								<strong>Run a dry build first.</strong>
+								On the Build tab, leave &quot;Write NyaDB datasets&quot; <em>unchecked</em> and run the build. The console streams every step, and validation problems surface
+								before anything is written.
+							</li>
+							<li>
+								<strong>Write the databases.</strong>
+								Re-run with &quot;Write NyaDB datasets&quot; checked. Output lands in the <code>NyaDB/</code> folder.
+							</li>
+							<li>
+								<strong>Inspect the output.</strong>
+								Use the Datasets tab to view the generated JSON (read-only), and the Keyword filter tab to tune R18 auto-marking.
+							</li>
+						</ol>
+
+						<h3 class="welcome-section-title">The tabs</h3>
+						<div class="welcome-tour">
+							<button
+								type="button"
+								class="tour-card"
+								data-tab="build"
+							>
+								<strong>Build</strong>
+								<span class="helper-text">Run the pipeline: parse every source, validate, and update NyaDB.</span>
+							</button>
+							<button
+								type="button"
+								class="tour-card"
+								data-tab="source-metadata"
+							>
+								<strong>Source metadata</strong>
+								<span class="helper-text"
+									>Add sources and upload their CSV/Markdown files, then edit descriptions, URLs, and category versions. It is saved straight to source-metadata.config.json.</span
+								>
+							</button>
+							<button
+								type="button"
+								class="tour-card"
+								data-tab="keyword-filter"
+							>
+								<strong>Keyword filter</strong>
+								<span class="helper-text">One keyword per line. Matching sources are flagged R18 on every build.</span>
+							</button>
+							<button
+								type="button"
+								class="tour-card"
+								data-tab="datasets"
+							>
+								<strong>Datasets</strong>
+								<span class="helper-text">Read-only, searchable view of the generated databases.</span>
+							</button>
+						</div>
+
+						<p class="welcome-note helper-text">
+							Only one build can run at a time. While this panel or a CLI build holds the lock, other builds wait. Close the panel with <strong>Ctrl+C</strong> in the console
+							(where you ran this panel from) to release it.
+						</p>
+					</section>
+				</section>
+
+				<section
+					id="paneBuild"
+					class="tab-pane"
+				>
+					<div class="build-layout">
+						<section class="panel build-sidebar">
+							<div class="panel-title">
+								<h2>Run build</h2>
+								<span
+									id="runState"
+									class="status-pill idle"
+									>Idle</span
+								>
+							</div>
+							<p class="helper-text">Parses every CSV/Markdown source, validates the data, and updates the NyaDB datasets.</p>
+
+							<label class="check-row">
+								<input
+									id="writeNyaDb"
+									name="writeNyaDb"
+									type="checkbox"
+								/>
+								<span>Write NyaDB datasets</span>
+							</label>
+
+							<button
+								class="primary-button"
+								id="buildButton"
+								type="button"
+							>
+								Run build
+							</button>
+
+							<div
+								class="field compact"
+								id="buildResultBlock"
+								hidden
+							>
+								<div class="panel-title compact-title">
+									<h2>Result</h2>
+								</div>
+								<div
+									id="metrics"
+									class="metrics empty"
+								></div>
+								<div
+									id="buildSummary"
+									class="helper-text build-summary"
+								></div>
+								<ul
+									id="validationErrors"
+									class="version-rows"
+								></ul>
+								<div
+									id="buildDiagnostics"
+									class="build-diagnostics"
+									hidden
+								></div>
+							</div>
+						</section>
+
+						<section class="panel console-panel">
+							<div class="panel-title">
+								<h2>Build console</h2>
+								<button
+									class="ghost-button"
+									id="clearLogs"
+									type="button"
+								>
+									Clear
+								</button>
+							</div>
+							<div
+								id="logs"
+								class="logs-console"
+							>
+								<span class="log-line log-info">Ready.</span>
+							</div>
+						</section>
+					</div>
+				</section>
+
+				<section
+					id="paneSourceMetadata"
+					class="tab-pane"
+				>
+					<section class="panel datasets-panel">
+						<div class="datasets-block">
+							<div class="panel-title compact-title">
+								<h2>Source metadata</h2>
+								<div class="dataset-actions">
+									<button
+										class="ghost-button"
+										id="addMetaRow"
+										type="button"
+									>
+										Add source
+									</button>
+									<button
+										class="ghost-button"
+										id="reloadSourceMetadata"
+										type="button"
+									>
+										Reload
+									</button>
+								</div>
+							</div>
+							<p class="helper-text">Descriptions and source URLs for each source folder, one row per source. Saved straight to source-metadata.config.json.</p>
+							<div class="editor-search-row condensed">
+								<input
+									id="metadataSearch"
+									type="text"
+									placeholder="Filter rows"
+								/>
+								<span id="metadataSearchCount"></span>
+							</div>
+							<div class="meta-table-wrap">
+								<table class="meta-table">
+									<thead>
+										<tr>
+											<th>Name</th>
+											<th>Description</th>
+											<th>Source URL</th>
+											<th>Alt. source URL</th>
+											<th>Alt. label</th>
+											<th></th>
+										</tr>
+									</thead>
+									<tbody id="metaTableBody"></tbody>
+								</table>
+							</div>
+						</div>
+					</section>
+
+					<div
+						id="sourceModal"
+						class="modal-overlay"
+						hidden
+					>
+						<div class="modal">
+							<div class="modal-header">
+								<h2>Add source</h2>
+								<button
+									id="closeSourceModal"
+									type="button"
+									class="ghost-button"
+								>
+									Cancel
+								</button>
+							</div>
+							<div class="modal-body">
+								<div
+									id="sourceModalUploadSection"
+									class="dropzone dropzone-modal"
+								>
+									<input
+										id="sourceModalUpload"
+										type="file"
+										accept=".csv,.md,text/csv,text/markdown"
+										multiple
+									/>
+									<div>
+										<span>Drop CSV/Markdown files here or click to browse</span>
+										<strong>All files will be uploaded into the source folder.</strong>
+									</div>
+								</div>
+								<div
+									id="sourceModalStagedFiles"
+									class="staged-files-list"
+								></div>
+								<div class="field">
+									<label for="sourceModalName">Source name *</label>
+									<input
+										id="sourceModalName"
+										type="text"
+										placeholder="e.g. Celestial Forge"
+										required
+									/>
+									<p class="field-note">Folder / metadata id: <code id="sourceModalSlug"></code></p>
+								</div>
+								<div class="field">
+									<label for="sourceModalUrl">Source URL *</label>
+									<input
+										id="sourceModalUrl"
+										type="url"
+										placeholder="https://..."
+										required
+									/>
+									<p class="field-note">
+										Link to the source document these files came from (e.g. the Google Sheet/Doc). This is for reference only. Files are not loaded from it, please upload them
+										above.
+									</p>
+								</div>
+								<div class="field">
+									<label for="sourceModalDesc">Description *</label>
+									<textarea
+										id="sourceModalDesc"
+										rows="2"
+										placeholder="Short description of the source"
+										required
+									></textarea>
+								</div>
+							</div>
+							<div class="modal-footer">
+								<button
+									id="saveSourceModal"
+									type="button"
+									class="primary-button"
+								>
+									Create source
+								</button>
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<section
+					id="paneDatasets"
+					class="tab-pane"
+				>
+					<section class="panel datasets-panel">
+						<div class="datasets-block">
+							<div class="panel-title compact-title">
+								<h2>Datasets</h2>
+								<button
+									class="ghost-button"
+									id="refreshDatasets"
+									type="button"
+								>
+									Refresh
+								</button>
+							</div>
+							<p
+								id="datasetSummary"
+								class="helper-text"
+							>
+								No datasets found.
+							</p>
+							<div
+								id="datasetList"
+								class="dataset-list"
+							></div>
+
+							<div class="field compact dataset-editor-block">
+								<label for="selectedDataset">View selected dataset</label>
+								<input
+									id="selectedDataset"
+									type="text"
+									readonly
+									placeholder="Click a dataset chip to load"
+								/>
+								<div class="dataset-actions">
+									<button
+										id="clearDatasetSelection"
+										type="button"
+										class="ghost-button"
+									>
+										Clear selection
+									</button>
+								</div>
+								<div class="editor-search-row">
+									<input
+										id="editorSearch"
+										type="text"
+										placeholder="Jump to text"
+									/>
+									<button
+										id="editorSearchPrev"
+										type="button"
+										class="ghost-button"
+									>
+										Prev
+									</button>
+									<button
+										id="editorSearchNext"
+										type="button"
+										class="ghost-button"
+									>
+										Next
+									</button>
+									<span id="editorSearchCount">0 matches</span>
+								</div>
+								<label class="check-row">
+									<input type="checkbox" id="editorJump" />
+									<span>Jump to match while searching</span>
+								</label>
+								<div class="editor-wrap">
+									<div id="editorHighlights" class="editor-highlights" aria-hidden="true"></div>
+									<textarea
+										id="datasetEditor"
+										class="dataset-editor"
+										spellcheck="false"
+										rows="16"
+										readonly
+										placeholder="Datasets are served as-is. Select one to view it"
+									></textarea>
+								</div>
+								<div class="dataset-actions">
+									<button
+										id="reloadDataset"
+										type="button"
+										class="ghost-button"
+									>
+										Reload
+									</button>
+								</div>
+							</div>
+						</div>
+					</section>
+				</section>
+
+				<section
+					id="paneKeywordFilter"
+					class="tab-pane"
+				>
+					<section class="panel datasets-panel">
+						<div class="datasets-block">
+							<div class="panel-title compact-title">
+								<h2>Keyword filter config</h2>
+								<button
+									class="ghost-button"
+									id="reloadKeywordFilter"
+									type="button"
+								>
+									Reload
+								</button>
+							</div>
+							<div class="r18-note">
+								<strong>R18 auto-marking</strong><br />This filter detects adult content. Any source whose display name or description matches one of these keywords is flagged
+								<strong>R18</strong> on every build.
+							</div>
+							<p class="helper-text">Case‑insensitive substring match over source display name and description. One keyword per line.</p>
+							<div class="editor-search-row">
+								<input
+									id="keywordSearch"
+									type="text"
+									placeholder="Jump to text"
+								/>
+								<button
+									id="keywordSearchPrev"
+									type="button"
+									class="ghost-button"
+								>
+									Prev
+								</button>
+								<button
+									id="keywordSearchNext"
+									type="button"
+									class="ghost-button"
+								>
+									Next
+								</button>
+<span id="keywordSearchCount">0 matches</span>
+								</div>
+								<label class="check-row">
+									<input type="checkbox" id="keywordJump" />
+									<span>Jump to match while searching</span>
+								</label>
+								<div class="editor-wrap">
+									<div id="keywordHighlights" class="editor-highlights" aria-hidden="true"></div>
+									<textarea
+										id="keywordFilterEditor"
+										class="dataset-editor"
+										spellcheck="false"
+										rows="14"
+										placeholder="one keyword per line&#10;lewd&#10;nude"
+									></textarea>
+								</div>
+						</div>
+					</section>
+				</section>
+			</section>
+
+			<div
+				id="appModal"
+				class="app-modal"
+				hidden
+				aria-hidden="true"
+			>
+				<div
+					class="app-modal-backdrop"
+					data-modal-close="backdrop"
+				></div>
+				<div
+					class="app-modal-dialog"
+					role="dialog"
+					aria-modal="true"
+					aria-labelledby="appModalTitle"
+				>
+					<div class="app-modal-header">
+						<h2 id="appModalTitle">Notice</h2>
+						<button
+							type="button"
+							class="icon-button modal-close"
+							id="appModalClose"
+							aria-label="Close dialog"
+						>
+							<span aria-hidden="true">X</span>
+						</button>
+					</div>
+					<p
+						id="appModalMessage"
+						class="app-modal-message"
+					></p>
+					<div class="app-modal-actions">
+						<button
+							type="button"
+							class="ghost-button"
+							id="appModalCancel"
+						>
+							Cancel
+						</button>
+						<button
+							type="button"
+							class="primary-button"
+							id="appModalConfirm"
+						>
+							OK
+						</button>
+					</div>
+				</div>
+			</div>
+
+			<div
+				id="toastRack"
+				class="toast-rack"
+				aria-live="polite"
+				aria-atomic="false"
+			></div>
+		</main>
+		<footer class="site-footer">
+			<span
+				>Site created by
+				<a
+					href="https://decaded.dev"
+					target="_blank"
+					rel="noopener noreferrer"
+					>Decaded</a
+				></span
+			>
+			<span aria-hidden="true">·</span>
+			<span
+				>Check my other projects
+				<a
+					href="https://decaded.dev/projects"
+					target="_blank"
+					rel="noopener noreferrer"
+					>here</a
+				></span
+			>
+			<span aria-hidden="true">·</span>
+			<span
+				>Support me
+				<a
+					href="https://decaded.dev/support"
+					target="_blank"
+					rel="noopener noreferrer"
+					>here</a
+				></span
+			>
+		</footer>
+		<script src="/app.js"></script>
+	</body>
+</html>
