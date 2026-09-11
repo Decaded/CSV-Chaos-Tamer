@@ -41,6 +41,14 @@
 					<button
 						type="button"
 						class="tab-button active"
+						id="tabHome"
+						data-tab="home"
+					>
+						Home
+					</button>
+					<button
+						type="button"
+						class="tab-button"
 						id="tabBuild"
 						data-tab="build"
 					>
@@ -73,8 +81,97 @@
 				</div>
 
 				<section
-					id="paneBuild"
+					id="paneHome"
 					class="tab-pane active"
+				>
+					<section class="panel welcome-panel">
+						<div class="welcome-hero">
+							<h2>Welcome</h2>
+							<p class="welcome-subtitle">
+								This panel turns the messy, community-sourced perk tables into clean, validated JSON databases for
+								<a
+									href="https://celestial.decaded.dev"
+									target="_blank"
+									rel="noopener noreferrer"
+									>celestial.decaded.dev</a
+								>.
+							</p>
+							<div class="welcome-contract">
+								<strong>Sources are served exactly as they are.</strong>
+								<span class="helper-text">CSV Chaos Tamer only reformats. It never edits, deduplicates, or &quot;corrects&quot; the source data.</span>
+								<span class="helper-text">If you spot any problems with the sources, please report them to the original source maintainers.</span>
+							</div>
+						</div>
+
+						<h3 class="welcome-section-title">Quick start</h3>
+						<ol class="welcome-steps">
+							<li>
+								<strong>Add your files in the browser.</strong>
+								On the Source metadata tab, click <strong>Add source</strong> and upload that source&rsquo;s CSV/Markdown files (drag-and-drop works too). The panel creates the
+								source and stores its files for you.
+							</li>
+							<li>
+								<strong>Run a dry build first.</strong>
+								On the Build tab, leave &quot;Write NyaDB datasets&quot; <em>unchecked</em> and run the build. The console streams every step, and validation problems surface
+								before anything is written.
+							</li>
+							<li>
+								<strong>Write the databases.</strong>
+								Re-run with &quot;Write NyaDB datasets&quot; checked. Output lands in the <code>NyaDB/</code> folder.
+							</li>
+							<li>
+								<strong>Inspect the output.</strong>
+								Use the Datasets tab to view the generated JSON (read-only), and the Keyword filter tab to tune R18 auto-marking.
+							</li>
+						</ol>
+
+						<h3 class="welcome-section-title">The tabs</h3>
+						<div class="welcome-tour">
+							<button
+								type="button"
+								class="tour-card"
+								data-tab="build"
+							>
+								<strong>Build</strong>
+								<span class="helper-text">Run the pipeline: parse every source, validate, and update NyaDB.</span>
+							</button>
+							<button
+								type="button"
+								class="tour-card"
+								data-tab="source-metadata"
+							>
+								<strong>Source metadata</strong>
+								<span class="helper-text"
+									>Add sources and upload their CSV/Markdown files, then edit descriptions, URLs, and category versions. It is saved straight to source-metadata.config.json.</span
+								>
+							</button>
+							<button
+								type="button"
+								class="tour-card"
+								data-tab="keyword-filter"
+							>
+								<strong>Keyword filter</strong>
+								<span class="helper-text">One keyword per line. Matching sources are flagged R18 on every build.</span>
+							</button>
+							<button
+								type="button"
+								class="tour-card"
+								data-tab="datasets"
+							>
+								<strong>Datasets</strong>
+								<span class="helper-text">Read-only, searchable view of the generated databases.</span>
+							</button>
+						</div>
+
+						<p class="welcome-note helper-text">
+							Only one build can run at a time. While this panel or a CLI build holds the lock, other builds wait. Close the panel with <strong>Ctrl+C</strong> in the console (where you ran this panel from) to release it.
+						</p>
+					</section>
+				</section>
+
+				<section
+					id="paneBuild"
+					class="tab-pane"
 				>
 					<div class="build-layout">
 						<section class="panel build-sidebar">
@@ -93,7 +190,6 @@
 									id="writeNyaDb"
 									name="writeNyaDb"
 									type="checkbox"
-									checked
 								/>
 								<span>Write NyaDB datasets</span>
 							</label>
@@ -357,7 +453,7 @@
 									spellcheck="false"
 									rows="16"
 									readonly
-									placeholder="Datasets are served as-is — select one to view it"
+									placeholder="Datasets are served as-is. Select one to view it"
 								></textarea>
 								<div class="dataset-actions">
 									<button
@@ -481,6 +577,13 @@
 				aria-atomic="false"
 			></div>
 		</main>
+		<footer class="site-footer">
+			<span>Site created by <a href="https://decaded.dev" target="_blank" rel="noopener noreferrer">Decaded</a></span>
+			<span aria-hidden="true">·</span>
+			<span>Check my other projects <a href="https://decaded.dev/projects" target="_blank" rel="noopener noreferrer">here</a></span>
+			<span aria-hidden="true">·</span>
+			<span>Support me <a href="https://decaded.dev/support" target="_blank" rel="noopener noreferrer">here</a></span>
+		</footer>
 		<script src="/app.js"></script>
 	</body>
 </html>

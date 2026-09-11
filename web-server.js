@@ -314,7 +314,7 @@ function createApp(config) {
 			return sendJson(res, 409, { error: 'A build is already running.' });
 		}
 		const body = await readJsonBody(req, appConfig.maxBodyBytes);
-		const writeNyaDb = body.writeNyaDb !== false;
+		const writeNyaDb = body.writeNyaDb === true;
 		building = true;
 		res.writeHead(200, { 'content-type': 'application/x-ndjson; charset=utf-8' });
 		const logger = createLogger(entry => {

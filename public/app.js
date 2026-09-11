@@ -2,10 +2,12 @@ const $ = id => document.getElementById(id);
 
 const serverStatus = $('serverStatus');
 const refreshStatusButton = $('refreshStatus');
+const tabHome = $('tabHome');
 const tabBuild = $('tabBuild');
 const tabSourceMetadata = $('tabSourceMetadata');
 const tabKeywordFilter = $('tabKeywordFilter');
 const tabDatasets = $('tabDatasets');
+const paneHome = $('paneHome');
 const paneBuild = $('paneBuild');
 const paneSourceMetadata = $('paneSourceMetadata');
 const paneKeywordFilter = $('paneKeywordFilter');
@@ -186,6 +188,7 @@ function switchTab(tabName) {
 		button.classList.toggle('active', active);
 		pane.classList.toggle('active', active);
 	};
+	activate(tabHome, paneHome, tabName === 'home');
 	activate(tabBuild, paneBuild, tabName === 'build');
 	activate(tabSourceMetadata, paneSourceMetadata, tabName === 'source-metadata');
 	activate(tabKeywordFilter, paneKeywordFilter, tabName === 'keyword-filter');
@@ -277,9 +280,9 @@ function formatBuildResult(run) {
 			if (deleted.length) lines.push(`<strong>Removed (${deleted.length}):</strong> ${deleted.map(name => `<code>${escapeHtml(prettyDatasetName(name))}</code>`).join(', ')}`);
 			return `<div class="build-db-lines">${lines.map(line => `<p>${line}</p>`).join('')}</div>`;
 		}
-		return 'Dry run — NyaDB was not written.';
+		return 'Dry run. NyaDB was not written.';
 	}
-	return 'Build failed validation; NyaDB was NOT updated.';
+	return 'Build failed validation. NyaDB was NOT updated.';
 }
 
 async function streamBuild() {
@@ -1160,14 +1163,19 @@ reloadDatasetButton.addEventListener('click', () => {
 	withBusy(reloadDatasetButton, () => loadDataset(activeDatasetName), 'Reloading...').catch(error => showToast({ message: error.message, variant: 'error' }));
 });
 
-[tabBuild, tabSourceMetadata, tabKeywordFilter, tabDatasets].forEach(button => {
+[tabHome, tabBuild, tabSourceMetadata, tabKeywordFilter, tabDatasets].forEach(button => {
 	button.addEventListener('click', () => switchTab(button.dataset.tab));
+});
+
+paneHome.addEventListener('click', event => {
+	const jump = event.target.closest('[data-tab]');
+	if (jump) switchTab(jump.dataset.tab);
 });
 
 makeSearchable({ textarea: datasetEditor, input: editorSearch, prevButton: editorSearchPrev, nextButton: editorSearchNext, countEl: editorSearchCount });
 makeSearchable({ textarea: keywordFilterEditor, input: keywordSearch, prevButton: keywordSearchPrev, nextButton: keywordSearchNext, countEl: keywordSearchCount });
 
-switchTab('build');
+switchTab('home');
 
 loadDatasetList().catch(() => {});
 refreshServerStatus()
