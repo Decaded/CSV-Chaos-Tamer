@@ -33,49 +33,12 @@ The core contract that defines this project:
 correcting the content is their call, not ours. Once the author fixes it, open a PR with the updated file, and the correction gets ingested as an alternative version of that
 source.
 
-## How it works
-
-```
-sources/<source-id>/            ← raw CSV/Markdown files, one folder per source
-        │
-        ▼
-src/parsers/…                   ← CSV parser + Markdown parser (header detection,
-        │                          transforms, chapter-from-filename)
-        ▼
-src/build/…                     ← prepare items, source metadata merge, keyword R18 flags
-        │
-        ▼
-(validation)                    ← nothing is written unless it validates clean
-        │
-        ▼
-NyaDB/                          ← perks_*.json + generatorSources.json
-```
-
-- Perk IDs are **deterministic RFC 4122 v5 UUIDs** derived from their input location (database / source file / line), so the same source always yields the same IDs.
-- A **perk ID registry** (`src/registry/perk-id-registry.json`) keeps numeric IDs stable across builds and retires keys for removed content.
-- **Only one build may run at a time** — the CLI and web panel share a lock, so two processes can never race each other while writing `NyaDB/` or the registry.
-
-```text
-src/
-  parsers/      parse-csv.js, md-parser.js
-  build/        prepare-items, generator-files, source-metadata, validate, report
-  config/       settings.js (header maps, transforms, source versions),
-                keyword-filter.json, source-metadata.config.json
-  registry/     perk-id-registry.js
-  nyadb/        nyadb-writer.js
-  cli.js        command-line entry point
-  index.js      the build pipeline
-  diagnostics.js  build failure reports + bug-report helpers
-docs/           SOURCE_METADATA.md
-public/         web panel (index.html, app.js, styles.css)
-test/           regression suite (npm test)
-```
 
 ## Using it
 
 ### Requirements
 
-- Node.js 16 or newer (LTS recommended)
+- Node.js 18 or newer (LTS recommended)
 - CSV/Markdown inputs encoded in UTF-8
 - Git, to submit prepared data
 
@@ -177,7 +140,7 @@ output logic.
 ### Reporting bugs
 
 Use the issue template (`.github/ISSUE_TEMPLATE/bug_report.md`). The CLI and web panel can generate a **pre-filled report** for you — on any build failure, the diagnostics block in
-the web panel and the terminal output include a "open a pre-filled bug report" link with the failure details, environment, and last console lines. Paste whatever it does not
+the web panel and the terminal output include an "open a pre-filled bug report" link with the failure details, environment, and last console lines. Paste whatever it does not
 include.
 
 ### Before opening a PR
