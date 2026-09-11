@@ -1,93 +1,163 @@
 # CSV Chaos Tamer
 
-A Node.js script that processes differently formatted CSV and Markdown files into clean, normalized JSON. It’s built specifically to prepare data for
-[celestial.decaded.dev](https://celestial.decaded.dev), but it can work with any similar dataset structure.
+> A Node.js pipeline that turns messy, community-sourced perk tables into clean, validated JSON for [celestial.decaded.dev](https://celestial.decaded.dev).
 
-This parser handles inconsistent CSV headers, Markdown formatting quirks, missing fields, and source-specific oddities so the data is ready to be consumed by the main project
-without manual cleanup.
+## What it is
 
----
+CSV Chaos Tamer ingests a folder of **differently formatted CSV and Markdown files** and produces a single, consistent set of [`NyaDB`](https://github.com/Decaded/NyaDB) JSON
+databases that the Celestial Gambler site can read without bending backwards.
 
-## Why this exists
+It ships two front-ends over the same pipeline:
 
-[celestial.decaded.dev](https://celestial.decaded.dev) is a database-driven project that relies on a large number of community-sourced datasets. The problem is that these datasets
-are often messy:
+- **CLI** (`npm run run`) — one-shot build for contributors and automation.
+- **Web panel** (`npm run web`) — a browser-based alternative to hand-editing files: runs the same build, plus a source-metadata table, a keyword filter editor, and a dataset
+  inspector.
+
+It works with any similarly-shaped dataset, not just Celestial.
+
+## Why it exists
+
+[celestial.decaded.dev](https://celestial.decaded.dev) is database-driven and aggregates a large number of **community-sourced documents**. Those documents are chaotic by nature:
 
 - Column names vary wildly between files.
-- Some datasets bury important metadata in filenames instead of proper columns.
-- Some source documents are easier to export as Markdown than DOCX, but still contain inconsistent entry formats.
-- Formatting can change mid-series due to different contributors.
+- Some datasets bury important metadata in filenames instead of columns.
+- Some sources only export cleanly as Markdown, with formatting shifts mid-series.
+- Different contributors change format between chapters.
 
-The CSV Chaos Tamer standardizes this chaos into a consistent JSON format that celestial can read without breaking.
+The core contract that defines this project:
 
----
+> **The sources are served exactly as they are.** CSV Chaos Tamer never edits, deduplicates, or "corrects" the source data. It only **reformats** it — normalizing headers, cleaning
+> whitespace, detecting chapters, and validating the result — so the app can consume the data as-is. If a source document contains something questionable, it stays in the output.
 
-## What it does
+**Spotted a problem with the data itself?** If a source document contains a factual error — a wrong cost, a typo, a misleading description — report it to the original author;
+correcting the content is their call, not ours. Once the author fixes it, open a PR with the updated file, and the correction gets ingested as an alternative version of that
+source.
 
-- Handles multiple CSV and Markdown formats without requiring a separate config for each.
-- Normalizes headers so variations like `Price`, `cost`, and `CPCost` are unified under `cost`.
-- Parses numbered Markdown entries with common cost/name layouts.
-- Detects chapter information from columns, filenames, Markdown category markers, and Markdown headings.
-- Splits out specific chapters into their own JSON files if configured, aggregating split rows across all input folders.
-- Cleans text by trimming whitespace, fixing newlines, and removing stray characters.
-- Adds source metadata to parsed rows for easier debugging.
-- Produces backend-compatible `perks` and `generatorSources` NyaDB records.
-- Generates deterministic RFC 4122 v5 perk IDs from input locations.
-- Can be extended with new CSV header mappings, Markdown entry formats, or split rules.
+## How it works
 
----
+```
+sources/<source-id>/            ← raw CSV/Markdown files, one folder per source
+        │
+        ▼
+src/parsers/…                   ← CSV parser + Markdown parser (header detection,
+        │                          transforms, chapter-from-filename)
+        ▼
+src/build/…                     ← prepare items, source metadata merge, keyword R18 flags
+        │
+        ▼
+(validation)                    ← nothing is written unless it validates clean
+        │
+        ▼
+NyaDB/                          ← perks_*.json + generatorSources.json
+```
 
-## How to set it up
+- Perk IDs are **deterministic RFC 4122 v5 UUIDs** derived from their input location (database / source file / line), so the same source always yields the same IDs.
+- A **perk ID registry** (`src/registry/perk-id-registry.json`) keeps numeric IDs stable across builds and retires keys for removed content.
+- **Only one build may run at a time** — the CLI and web panel share a lock, so two processes can never race each other while writing `NyaDB/` or the registry.
 
-1. Place CSV and/or Markdown files into subfolders inside `sheets/`:
+```text
+src/
+  parsers/      parse-csv.js, md-parser.js
+  build/        prepare-items, generator-files, source-metadata, validate, report
+  config/       settings.js (header maps, transforms, source versions),
+                keyword-filter.json, source-metadata.config.json
+  registry/     perk-id-registry.js
+  nyadb/        nyadb-writer.js
+  cli.js        command-line entry point
+  index.js      the build pipeline
+  diagnostics.js  build failure reports + bug-report helpers
+docs/           SOURCE_METADATA.md
+public/         web panel (index.html, app.js, styles.css)
+test/           regression suite (npm test)
+```
 
-```bash
-sheets/
-└── DatasetName/
+## Using it
+
+### Requirements
+
+- Node.js 16 or newer (LTS recommended)
+- CSV/Markdown inputs encoded in UTF-8
+- Git, to submit prepared data
+
+### Quick start (CLI)
+
+1. Drop your files into a subfolder of `sources/` — the folder name (slugified) becomes the source ID:
+
+```text
+sources/
+└── your-dataset/
     ├── file1.csv
-    ├── file2.csv
     └── source.md
 ```
 
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Run the parser:
+1. Run a **dry run** first — by default the CLI only builds and validates without touching `NyaDB/`:
 
 ```bash
 npm run run
 ```
 
-4. The normalized records are written to `NyaDB/perks_{source-id}.json`, one file per source, plus `NyaDB/generatorSources.json`.
-
-You can run the parser directly:
+1. When validation reports zero issues, write the databases:
 
 ```bash
-node src/index.js
+npm run run -- --write
 ```
 
-Run the regression tests with:
+If validation finds problems, **nothing is written** until they are fixed — invalid data is never submitted. On failure you get a report: the validation issues, self-service hints
+for the common causes, and (if it looks like a real bug) a pre-filled GitHub issue link.
+
+Other CLI flags:
+
+```bash
+node src/cli.js --root sources/MySource   # build a different root
+node src/cli.js --registry /tmp/registry.json   # keep IDs in a scratch registry
+node src/cli.js --config /path/to/source-metadata.config.json
+node src/cli.js --write                  # write mode (updates NyaDB/; default is a dry run)
+```
+
+Platform shortcuts: `run.bat` (Windows) and `run.sh` (macOS/Linux) do the same.
+
+### Runtime checks
 
 ```bash
 npm test
 ```
 
-Optionally, start the web interface with:
+### Web panel
 
 ```bash
 npm run web
 ```
 
-The web interface accepts CSV and Markdown uploads and writes prepared databases to `NyaDB/` using [@decaded/nyadb](https://github.com/Decaded/NyaDB).
+For people who prefer clicking over editing files by hand. It runs the **same pipeline** as the CLI:
 
----
+- **Build** — live console that streams log lines as they happen (info/warn/error), then a metrics summary. Dry-run first to surface validation errors, then write the `NyaDB/`
+  datasets.
+- **Source metadata** — edit `source-metadata.config.json` in a single table (name, description, source URL, alt source URL/label, per-category URLs), with filtering. The **Add
+  source** button collects the required metadata and then unlocks file uploads — everything lands in one folder named after the slugified source ID.
+- **Keyword filter** — edit `src/config/keyword-filter.json` as a plain list; the R18 auto-marking reads it on every build.
+- **Datasets** — read-only inspection of the generated databases, with search. Datasets are served as-is, so there is no editor.
 
-## Customizing
+**Process locking:** only one build can run at a time. While the web panel runs, the CLI refuses to start and vice versa — close the panel (Ctrl+C) or wait for the other build to
+finish.
 
-If your CSVs use unique or inconsistent headers, edit the `headerMap`:
+## Contributing
+
+Contributions are welcome, and most of the work is "make the parser cope with one more format without breaking anything else".
+
+### Ground rules
+
+1. **Never alter source data.** The build must keep serving sources verbatim — the originals in `sources/` are the contract.
+2. **Add a regression test first.** The suite lives in `test/` and runs with `npm test`. Every parser change should come with a small fixture or test case that would fail on the
+   old code.
+3. **Invalid data never ships.** A build does not write until validation passes.
+
+### Common contributions
+
+**Add a new source** — just drop CSV/Markdown files into a new folder under `sources/` and run a dry run. If validation flags a missing metadata entry, add one to
+`src/config/source-metadata.config.json` (or use the web panel's Add source). Required fields are `description` and `sourceUrl`; `name` is an optional display name. See
+`docs/SOURCE_METADATA.md`.
+
+**Teach the parser a new header** — header synonyms live in `csv.headerMap` in `src/config/settings.js`:
 
 ```js
 cpcost: 'cost',
@@ -96,78 +166,31 @@ perkname: 'name',
 setting: 'source',
 ```
 
-If you need to split specific chapters into separate files, modify `shared.splitChapters` in `src/config/settings.js`:
+**Handle a new Markdown layout** — parsing rules live in `src/parsers/md-parser.js`. Add a regression case in `test/md-parser.test.js` before changing behavior.
 
-```js
-'waifu catalogue': 'waifu',
-'lewd': 'companion_lewd',
-```
+**Split chapters into their own files** — configure `shared.splitChapters`; to group physical files as selectable versions, configure `shared.sourceVersions` and
+`displayName`/`defaultVersion` per group. See `src/config/settings.js`.
 
-To group physical source files as selectable versions, configure `shared.sourceVersions`:
+**How data must look when it ships** — `docs/SOURCE_METADATA.md` is the data contract and documents how `generatorSources.json` merges with `perks_*.json`. Read it before touching
+output logic.
 
-```js
-grimoire: {
-  displayName: 'Grimoire',
-  defaultVersion: 'default',
-  versions: {
-    default: 'grimoire',
-    v2: 'grimoire_v2',
-    yggdrasil: 'grimoire_yggdrasil_personal',
-  },
-},
-```
+### Reporting bugs
 
-Unlisted source folders are published as independent sources. Every mapped physical source must exist and can belong to only one logical source.
+Use the issue template (`.github/ISSUE_TEMPLATE/bug_report.md`). The CLI and web panel can generate a **pre-filled report** for you — on any build failure, the diagnostics block in
+the web panel and the terminal output include a "open a pre-filled bug report" link with the failure details, environment, and last console lines. Paste whatever it does not
+include.
 
-Markdown parsing rules live in `src/parsers/md-parser.js`. When a new Markdown export has a weird entry layout, add a small regression case in `test/md-parser.test.js` before changing the
-parser.
+### Before opening a PR
 
----
-
-## Output format
-
-The script writes one NyaDB record per source plus source metadata:
-
-- `perks_{source-id}` - normalized perks for one source, keyed by UUID.
-- `generatorSources` - source metadata keyed by source ID.
-
-Each perk ID is a deterministic RFC 4122 v5 UUID derived from its input location. The generator validates the output before writing it.
-
-Example perk record:
-
-```json
-{
- "Example Chapter": [
-    {
-     "id": "00000000-0000-5000-8000-000000000000",
-       "cost": 200,
-       "name": "Example Perk",
-       "description": "Cleaned description here.",
-       "category": "example",
-     "chapter": "Example Chapter",
-     "source": "Example Jump"
-      }
- ]
- }
-}
-```
-
----
-
-## Requirements
-
-- Node.js 16 or newer
-- CSV and Markdown files encoded in UTF-8
-
----
+- `npm test` — full suite green.
+- Run a dry-run build (`npm run run`) over the whole `sources/` tree and confirm validation passes.
+- If you touched output logic, confirm `NyaDB/` diffs contain only the intended changes.
+- Commit the prepared data and the code change separately when both are present.
 
 ## License
 
-[MIT License](LICENSE) – free to use, modify, and distribute.
-
----
+[MIT License](LICENSE) — free to use, modify, and distribute.
 
 ## Support the project
 
-If this tool or [celestial.decaded.dev](https://celestial.decaded.dev) has been useful to you, consider supporting development:
-[https://ko-fi.com/decaded](https://ko-fi.com/decaded)
+If this tool or [celestial.decaded.dev](https://celestial.decaded.dev) has been useful, consider supporting development: [https://ko-fi.com/decaded](https://ko-fi.com/decaded)
