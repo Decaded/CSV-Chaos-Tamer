@@ -452,14 +452,21 @@
 									</button>
 									<span id="editorSearchCount">0 matches</span>
 								</div>
-								<textarea
-									id="datasetEditor"
-									class="dataset-editor"
-									spellcheck="false"
-									rows="16"
-									readonly
-									placeholder="Datasets are served as-is. Select one to view it"
-								></textarea>
+								<label class="check-row">
+									<input type="checkbox" id="editorJump" />
+									<span>Jump to match while searching</span>
+								</label>
+								<div class="editor-wrap">
+									<div id="editorHighlights" class="editor-highlights" aria-hidden="true"></div>
+									<textarea
+										id="datasetEditor"
+										class="dataset-editor"
+										spellcheck="false"
+										rows="16"
+										readonly
+										placeholder="Datasets are served as-is. Select one to view it"
+									></textarea>
+								</div>
 								<div class="dataset-actions">
 									<button
 										id="reloadDataset"
@@ -515,15 +522,22 @@
 								>
 									Next
 								</button>
-								<span id="keywordSearchCount">0 matches</span>
-							</div>
-							<textarea
-								id="keywordFilterEditor"
-								class="dataset-editor"
-								spellcheck="false"
-								rows="14"
-								placeholder="one keyword per line&#10;lewd&#10;nude"
-							></textarea>
+<span id="keywordSearchCount">0 matches</span>
+								</div>
+								<label class="check-row">
+									<input type="checkbox" id="keywordJump" />
+									<span>Jump to match while searching</span>
+								</label>
+								<div class="editor-wrap">
+									<div id="keywordHighlights" class="editor-highlights" aria-hidden="true"></div>
+									<textarea
+										id="keywordFilterEditor"
+										class="dataset-editor"
+										spellcheck="false"
+										rows="14"
+										placeholder="one keyword per line&#10;lewd&#10;nude"
+									></textarea>
+								</div>
 						</div>
 					</section>
 				</section>

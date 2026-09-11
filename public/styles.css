@@ -473,6 +473,51 @@ input[type='file'] {
 	cursor: text;
 }
 
+.editor-wrap {
+	position: relative;
+}
+
+.editor-highlights {
+	position: absolute;
+	inset: 0;
+	z-index: 1;
+	overflow: hidden;
+	pointer-events: none;
+	border: 1px solid transparent;
+	border-radius: 6px;
+	padding: 10px;
+	box-sizing: border-box;
+	background: #0f1217;
+	font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
+	font-size: 12px;
+	line-height: 1.45;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+	overflow-wrap: break-word;
+	tab-size: 8;
+	color: var(--text);
+}
+
+.editor-highlights mark {
+	background: color-mix(in srgb, var(--warning) 30%, transparent);
+	color: inherit;
+	border-radius: 2px;
+}
+
+.editor-wrap .dataset-editor {
+	position: relative;
+	z-index: 2;
+	background: transparent;
+	color: transparent;
+	caret-color: var(--text);
+	resize: vertical;
+}
+
+.editor-wrap .dataset-editor[readonly] {
+	background: transparent;
+	color: transparent;
+}
+
 .dataset-actions {
 	display: flex;
 	flex-wrap: wrap;

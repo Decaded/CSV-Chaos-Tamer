@@ -46,6 +46,8 @@ const keywordSearch = $('keywordSearch');
 const keywordSearchPrev = $('keywordSearchPrev');
 const keywordSearchNext = $('keywordSearchNext');
 const keywordSearchCount = $('keywordSearchCount');
+const keywordJump = $('keywordJump');
+const keywordHighlights = $('keywordHighlights');
 
 const refreshDatasetsButton = $('refreshDatasets');
 const datasetSummary = $('datasetSummary');
@@ -58,6 +60,8 @@ const editorSearch = $('editorSearch');
 const editorSearchPrev = $('editorSearchPrev');
 const editorSearchNext = $('editorSearchNext');
 const editorSearchCount = $('editorSearchCount');
+const editorJump = $('editorJump');
+const editorHighlights = $('editorHighlights');
 
 const appModal = $('appModal');
 const appModalTitle = $('appModalTitle');
@@ -462,6 +466,7 @@ function renderDatasetList() {
 		datasetList.innerHTML = '<p class="dataset-empty">No datasets available yet — run a build first.</p>';
 		selectedDataset.value = '';
 		datasetEditor.value = '';
+		editorHighlights.replaceChildren();
 		activeDatasetName = '';
 		return;
 	}
@@ -485,54 +490,34 @@ async function loadDataset(name) {
 	selectedDataset.value = prettyDatasetName(name);
 	datasetEditor.value = formatDatasetContents(payload.contents);
 	renderDatasetList();
-	refreshSearchMatchesFor(datasetEditor, editorSearch, editorSearchCount);
+	const searchMatches = refreshSearchMatchesFor(datasetEditor, editorSearch, editorSearchCount);
+	renderHighlights(datasetEditor, editorHighlights, searchMatches, editorSearch.value.trim());
 	showToast({ message: `Loaded dataset: ${prettyDatasetName(name)}`, variant: 'success', timeout: 1800 });
 }
 
 // ---- Text search in textareas ----
 
-const MIRROR_PROPS = ['paddingTop', 'paddingRight', 'paddingBottom', 'paddingLeft', 'fontFamily', 'fontSize', 'fontWeight', 'fontStyle', 'letterSpacing', 'lineHeight', 'tabSize'];
-
-function getCaretOffset(textarea, position) {
+function estimateCaretOffset(textarea, position) {
 	const style = getComputedStyle(textarea);
-	const mirror = document.createElement('div');
-	mirror.style.position = 'absolute';
-	mirror.style.visibility = 'hidden';
-	mirror.style.top = '0';
-	mirror.style.left = '-9999px';
-	mirror.style.height = 'auto';
-	mirror.style.whiteSpace = 'pre-wrap';
-	mirror.style.wordWrap = 'break-word';
-	mirror.style.overflowWrap = 'break-word';
-	mirror.style.boxSizing = 'content-box';
-	for (const prop of MIRROR_PROPS) mirror.style[prop] = style[prop];
-	const paddingLeft = parseFloat(style.paddingLeft) || 0;
-	const paddingRight = parseFloat(style.paddingRight) || 0;
-	mirror.style.width = `${textarea.clientWidth - paddingLeft - paddingRight}px`;
-	mirror.textContent = textarea.value.slice(0, position);
-	const marker = document.createElement('span');
-	marker.textContent = textarea.value.slice(position) || '.';
-	mirror.appendChild(marker);
-	document.body.appendChild(mirror);
-	const top = marker.offsetTop;
-	const height = marker.offsetHeight || parseInt(style.lineHeight, 10) || parseInt(style.fontSize, 10);
-	document.body.removeChild(mirror);
-	return { top, height };
+	const fontSize = parseFloat(style.fontSize) || 12;
+	const lineHeight = parseFloat(style.lineHeight) || fontSize;
+	const width = textarea.clientWidth - (parseFloat(style.paddingLeft) || 0) - (parseFloat(style.paddingRight) || 0);
+	const charsPerLine = Math.max(1, Math.floor(width / (fontSize * 0.6)));
+	const parts = textarea.value.slice(0, position).split('\n');
+	let visualLines = 0;
+	for (let i = 0; i < parts.length - 1; i++) visualLines += Math.max(1, Math.ceil(parts[i].length / charsPerLine));
+	visualLines += Math.ceil(parts[parts.length - 1].length / charsPerLine);
+	return { top: visualLines * lineHeight, height: lineHeight };
 }
 
 function scrollTextareaToPosition(textarea, position) {
-	const { top, height } = getCaretOffset(textarea, position);
-	const target = top - textarea.clientHeight / 2 + height / 2;
+	const { top } = estimateCaretOffset(textarea, position);
+	const target = top - textarea.clientHeight / 3;
 	textarea.scrollTop = Math.max(0, Math.min(target, textarea.scrollHeight - textarea.clientHeight));
 }
 
-function refreshSearchMatchesFor(textarea, input, countEl) {
-	const query = input.value.trim();
-	if (!query) {
-		countEl.textContent = '0 matches';
-		return [];
-	}
-	const lowerText = textarea.value.toLowerCase();
+function findMatches(text, query) {
+	const lowerText = text.toLowerCase();
 	const lowerQuery = query.toLowerCase();
 	const matches = [];
 	let start = 0;
@@ -542,34 +527,72 @@ function refreshSearchMatchesFor(textarea, input, countEl) {
 		matches.push(index);
 		start = index + lowerQuery.length;
 	}
+	return matches;
+}
+
+function renderHighlights(textarea, highlightsEl, matches, query) {
+	const value = textarea.value;
+	const element = document.createDocumentFragment();
+	let last = 0;
+	if (matches.length) {
+		for (const start of matches) {
+			const end = Math.min(start + query.length, value.length);
+			if (start > last) element.appendChild(document.createTextNode(value.slice(last, start)));
+			const mark = document.createElement('mark');
+			mark.textContent = value.slice(start, end);
+			element.appendChild(mark);
+			last = end;
+		}
+	}
+	if (last < value.length) element.appendChild(document.createTextNode(value.slice(last)));
+	highlightsEl.replaceChildren(element);
+	highlightsEl.scrollTop = textarea.scrollTop;
+	highlightsEl.scrollLeft = textarea.scrollLeft;
+}
+
+function refreshSearchMatchesFor(textarea, input, countEl) {
+	const query = input.value.trim();
+	if (!query) {
+		countEl.textContent = '0 matches';
+		return [];
+	}
+	const matches = findMatches(textarea.value, query);
 	countEl.textContent = `${matches.length} match(es)`;
 	return matches;
 }
 
-function makeSearchable({ textarea, input, prevButton, nextButton, countEl }) {
+function makeSearchable({ textarea, input, prevButton, nextButton, countEl, jumpToggle, highlightsEl }) {
 	let matches = [];
 	let activeIndex = -1;
 
 	const rebuild = () => {
 		const next = refreshSearchMatchesFor(textarea, input, countEl);
-		if (activeIndex >= (next || []).length) activeIndex = -1;
-		if (next?.length) {
+		matches = next || [];
+		renderHighlights(textarea, highlightsEl, matches, input.value.trim());
+		if (activeIndex >= matches.length) activeIndex = -1;
+		if (matches.length) {
 			activeIndex = 0;
 			focus();
 		}
 	};
 
-	const focus = () => {
+	const focus = ({ force = false } = {}) => {
 		if (!matches.length) return;
+		if (!force && jumpToggle && !jumpToggle.checked) {
+			countEl.textContent = `${activeIndex + 1}/${matches.length}`;
+			return;
+		}
 		const start = matches[activeIndex];
 		textarea.focus();
-		textarea.setSelectionRange(start, start + input.value.length);
+		textarea.setSelectionRange(start, Math.min(start + input.value.length, textarea.value.length));
 		scrollTextareaToPosition(textarea, start);
+		requestAnimationFrame(() => scrollTextareaToPosition(textarea, start));
 		countEl.textContent = `${activeIndex + 1}/${matches.length}`;
 	};
 
 	const step = direction => {
 		const found = refreshSearchMatchesFor(textarea, input, countEl);
+		renderHighlights(textarea, highlightsEl, found, input.value.trim());
 		if (!found?.length) {
 			countEl.textContent = '0 matches';
 			return;
@@ -577,7 +600,7 @@ function makeSearchable({ textarea, input, prevButton, nextButton, countEl }) {
 		matches = found;
 		if (activeIndex < 0) activeIndex = 0;
 		activeIndex = (activeIndex + direction + matches.length) % matches.length;
-		focus();
+		focus({ force: true });
 	};
 
 	const schedule = () => {
@@ -587,6 +610,14 @@ function makeSearchable({ textarea, input, prevButton, nextButton, countEl }) {
 
 	input.addEventListener('input', schedule);
 	textarea.addEventListener('input', schedule);
+	textarea.addEventListener('input', () => {
+		const query = input.value.trim();
+		renderHighlights(textarea, highlightsEl, query ? findMatches(textarea.value, query) : [], query);
+	});
+	textarea.addEventListener('scroll', () => {
+		highlightsEl.scrollTop = textarea.scrollTop;
+		highlightsEl.scrollLeft = textarea.scrollLeft;
+	});
 	nextButton.addEventListener('click', () => {
 		if (searchDebounceTimer) {
 			window.clearTimeout(searchDebounceTimer);
@@ -1068,7 +1099,8 @@ async function loadKeywordFilter() {
 	}
 	const payload = await api('/api/config/keyword-filter');
 	keywordFilterEditor.value = (payload.contents?.keywords || []).join('\n');
-	refreshSearchMatchesFor(keywordFilterEditor, keywordSearch, keywordSearchCount);
+	const searchMatches = refreshSearchMatchesFor(keywordFilterEditor, keywordSearch, keywordSearchCount);
+	renderHighlights(keywordFilterEditor, keywordHighlights, searchMatches, keywordSearch.value.trim());
 }
 
 async function saveKeywordFilter() {
@@ -1152,6 +1184,7 @@ clearDatasetSelectionButton.addEventListener('click', () => {
 	activeDatasetName = '';
 	selectedDataset.value = '';
 	datasetEditor.value = '';
+	editorHighlights.replaceChildren();
 	renderDatasetList();
 });
 
@@ -1172,8 +1205,8 @@ paneHome.addEventListener('click', event => {
 	if (jump) switchTab(jump.dataset.tab);
 });
 
-makeSearchable({ textarea: datasetEditor, input: editorSearch, prevButton: editorSearchPrev, nextButton: editorSearchNext, countEl: editorSearchCount });
-makeSearchable({ textarea: keywordFilterEditor, input: keywordSearch, prevButton: keywordSearchPrev, nextButton: keywordSearchNext, countEl: keywordSearchCount });
+makeSearchable({ textarea: datasetEditor, input: editorSearch, prevButton: editorSearchPrev, nextButton: editorSearchNext, countEl: editorSearchCount, jumpToggle: editorJump, highlightsEl: editorHighlights });
+makeSearchable({ textarea: keywordFilterEditor, input: keywordSearch, prevButton: keywordSearchPrev, nextButton: keywordSearchNext, countEl: keywordSearchCount, jumpToggle: keywordJump, highlightsEl: keywordHighlights });
 
 switchTab('home');
 
