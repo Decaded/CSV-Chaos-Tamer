@@ -62,7 +62,7 @@ npm run run
 1. When validation reports zero issues, write the databases:
 
 ```bash
-npm run run -- --write
+npm run run --write
 ```
 
 If validation finds problems, **nothing is written** until they are fixed — invalid data is never submitted. On failure you get a report: the validation issues, self-service hints
