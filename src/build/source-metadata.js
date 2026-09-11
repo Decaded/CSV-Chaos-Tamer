@@ -48,6 +48,8 @@ function validateSourceMetadataConfig(sources, manualConfig) {
 			continue;
 		}
 		if (typeof entry.description !== 'string' || !entry.description.trim()) errors.push(`source-metadata.config.json entry for ${sourceId} is missing a description`);
+		if (entry.name !== undefined && (typeof entry.name !== 'string' || !entry.name.trim()))
+			errors.push(`source-metadata.config.json entry for ${sourceId} has an invalid name`);
 		if (typeof entry.sourceUrl !== 'string' || !entry.sourceUrl.trim()) errors.push(`source-metadata.config.json entry for ${sourceId} is missing a sourceUrl`);
 		if (Boolean(entry.altSourceUrl) !== Boolean(entry.altSourceLabel))
 			errors.push(`source-metadata.config.json entry for ${sourceId} must set altSourceUrl and altSourceLabel together`);
@@ -77,6 +79,7 @@ function applySourceMetadataOverrides(sources, manualConfig) {
 	for (const source of sources) {
 		const entry = manualConfig[source.id];
 		if (!entry) continue;
+		if (entry.name) source.displayName = entry.name;
 		source.description = entry.description;
 		source.sourceUrl = entry.sourceUrl;
 		if (entry.altSourceUrl && entry.altSourceLabel) {
