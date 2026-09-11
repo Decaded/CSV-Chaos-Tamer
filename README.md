@@ -12,7 +12,8 @@ cd CSV-Chaos-Tamer
 npm install
 ```
 
-Requires **Node.js 18 or newer** — grab the LTS from [nodejs.org](https://nodejs.org/), which includes `npm`. If you already had a Node install, skip straight to the commands above.
+Requires **Node.js 18 or newer** — grab the LTS from [nodejs.org](https://nodejs.org/), which includes `npm`. If you already had a Node install, skip straight to the commands
+above.
 
 Then run it:
 
@@ -53,7 +54,6 @@ The core contract that defines this project:
 **Spotted a problem with the data itself?** If a source document contains a factual error — a wrong cost, a typo, a misleading description — report it to the original author;
 correcting the content is their call, not ours. Once the author fixes it, open a PR with the updated file, and the correction gets ingested as an alternative version of that
 source.
-
 
 ## Using it
 
