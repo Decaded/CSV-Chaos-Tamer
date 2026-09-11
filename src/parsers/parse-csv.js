@@ -50,6 +50,7 @@ async function parseCsv(filePath) {
 
 	const detectedHeaders = lines[0].split(',').map(h => h.trim());
 	const likelyHasHeaders = detectedHeaders.filter(h => headerMap[normalizeHeader(h)]).length >= 2;
+	const hasNameColumn = detectedHeaders.some(h => headerMap[normalizeHeader(h)] === 'name');
 
 	let chapterFromFile = extractChapterFromFilename(path.basename(filePath));
 	let hasChapterColumn = detectedHeaders.some(h => normalizeHeader(h) === 'chapter');
@@ -61,7 +62,9 @@ async function parseCsv(filePath) {
 			.pipe(
 				csv({
 					headers: likelyHasHeaders ? undefined : fallbackHeaders,
-					mapHeaders: likelyHasHeaders ? ({ header, index }) => headerMap[normalizeHeader(header)] || headerMap[index] || null : null,
+					mapHeaders: likelyHasHeaders
+						? ({ header, index }) => headerMap[normalizeHeader(header)] || (index === 0 && !hasNameColumn ? 'name' : null)
+						: null,
 				}),
 			)
 			.on('data', row => {

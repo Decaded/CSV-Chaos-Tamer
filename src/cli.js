@@ -2,6 +2,7 @@ const path = require('path');
 const fs = require('fs');
 
 const { buildDatabase } = require('./index');
+const { buildFailureReport, formatCliFailure } = require('./diagnostics');
 const lockApi = require('./lock');
 const { ID_REGISTRY_PATH } = require('./registry/perk-registry');
 
@@ -12,7 +13,7 @@ function parseArgs(argv) {
 	let root = SOURCES_ROOT;
 	let registryPath = ID_REGISTRY_PATH;
 	let sourceMetadataConfigPath;
-	let writeNyaDb = true;
+	let writeNyaDb = false;
 
 	for (let i = 0; i < args.length; i += 1) {
 		const arg = args[i];
@@ -20,7 +21,7 @@ function parseArgs(argv) {
 		if (flag === '--root') root = path.resolve(value || args[++i]);
 		else if (flag === '--registry') registryPath = path.resolve(value || args[++i]);
 		else if (flag === '--config') sourceMetadataConfigPath = path.resolve(value || args[++i]);
-		else if (flag === '--no-nya-db') writeNyaDb = false;
+		else if (flag === '--write') writeNyaDb = true;
 	}
 
 	return { root, registryPath, sourceMetadataConfigPath, writeNyaDb };
@@ -99,25 +100,18 @@ function gitGuidance() {
 	].join('\n');
 }
 
-function printFriendlyErrors(errors) {
-	const uuid = /[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}/i;
-	return errors
-		.map(error => {
-			const short = uuid.test(error) ? error.replace(uuid, match => `${match.slice(0, 8)}…`) : error;
-			return `  • ${short}`;
-		})
-		.join('\n');
-}
-
 async function runBuild({ root, registryPath, sourceMetadataConfigPath, writeNyaDb }) {
 	const spinner = createSpinner();
+	const logs = [];
 	const logger = makeReportAwareLogger(
 		line => {
+			logs.push({ level: 'info', message: line });
 			spinner.clear();
 			console.log(line);
 			spinner.draw();
 		},
 		line => {
+			logs.push({ level: line.trimStart().startsWith('WARN:') ? 'warn' : 'error', message: line });
 			spinner.clear();
 			console.error(line);
 			spinner.draw();
@@ -165,19 +159,12 @@ async function runBuild({ root, registryPath, sourceMetadataConfigPath, writeNya
 				console.log(gitGuidance());
 			}
 		} else {
-			console.log('\nNyaDB write skipped (--no-nya-db) — nothing was stored.');
+			console.log('\nDry run — NyaDB was not written. Re-run with --write to store the databases.');
 		}
 	} catch (err) {
 		spinner.stop();
-		const errors = err.validationErrors || [];
-		console.error('\nBuild failed ✖ The data did not pass validation, so NyaDB was NOT updated.');
-		if (errors.length) {
-			console.error(`\n${errors.length} issue(s) to fix:\n`);
-			console.error(printFriendlyErrors(errors));
-			console.error("\nFix the issues above in sources/, then re-run this script.");
-		} else {
-			console.error(err.message);
-		}
+		const report = buildFailureReport({ error: err, logs, mode: 'cli', writeNyaDb, context: { sourcesRoot: root, sourceMetadataConfigPath } });
+		for (const line of formatCliFailure(report)) console.error(line);
 		process.exitCode = 1;
 	} finally {
 		if (lock && lock.ok) {
@@ -235,4 +222,4 @@ if (require.main === module) main().catch(err => {
 	process.exitCode = 1;
 });
 
-module.exports = { parseArgs, makeReportAwareLogger, createSpinner, friendlySummary, gitGuidance, printFriendlyErrors };
+module.exports = { parseArgs, makeReportAwareLogger, createSpinner, friendlySummary, gitGuidance };

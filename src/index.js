@@ -29,6 +29,7 @@ async function readFolderRows(folder, sheetsRoot = SOURCES_ROOT, logger = consol
 	const mdFiles = allFiles.filter(f => f.endsWith('.md'));
 	let maxCP = 0;
 	const rows = [];
+	const skippedFiles = [];
 
 	const csvResults = await Promise.all(
 		csvFiles.map(async file => {
@@ -46,7 +47,7 @@ async function readFolderRows(folder, sheetsRoot = SOURCES_ROOT, logger = consol
 		if (!result) continue;
 		const { file, rows: parsedRows, maxCP: fileMaxCP } = result;
 		if (!parsedRows.length) {
-			logger.warn(`Skipping empty: ${folder}/${file}`);
+			skippedFiles.push(`${folder}/${file}`);
 			continue;
 		}
 		for (const row of parsedRows) rows.push(row);
@@ -77,7 +78,7 @@ async function readFolderRows(folder, sheetsRoot = SOURCES_ROOT, logger = consol
 		if (!result) continue;
 		const { file, rows: parsedRows, maxCP: fileMaxCP } = result;
 		if (!parsedRows.length) {
-			logger.warn(`Skipping empty: ${folder}/${file}`);
+			skippedFiles.push(`${folder}/${file}`);
 			continue;
 		}
 		for (const row of parsedRows) rows.push(row);
@@ -85,7 +86,7 @@ async function readFolderRows(folder, sheetsRoot = SOURCES_ROOT, logger = consol
 		logger.log(`${folder}/${file} → ${parsedRows.length} rows, max CP: ${fileMaxCP}`);
 	}
 
-	return { rows, maxCP };
+	return { rows, maxCP, skippedFiles };
 }
 
 /**
@@ -95,7 +96,7 @@ async function readFolderRows(folder, sheetsRoot = SOURCES_ROOT, logger = consol
 async function buildDatabase(options = {}) {
 	const sheetsRoot = options.sheetsRoot || SOURCES_ROOT;
 	const logger = options.logger || console;
-	const writeNyaDb = options.writeNyaDb !== false;
+	const writeNyaDb = options.writeNyaDb === true;
 	const registryPath = options.registryPath || ID_REGISTRY_PATH;
 	const retireMissing = options.retireMissing !== false;
 	const sourceMetadataConfigPath = options.sourceMetadataConfigPath;
@@ -103,6 +104,7 @@ async function buildDatabase(options = {}) {
 
 	let globalMaxCP = 0;
 	const databases = new Map();
+	const skippedFiles = [];
 	const folders = fs
 		.readdirSync(sheetsRoot, { withFileTypes: true })
 		.filter(d => d.isDirectory())
@@ -111,7 +113,8 @@ async function buildDatabase(options = {}) {
 
 	for (const folder of folders) {
 		const category = deriveCategoryVersion(folder);
-		const { rows, maxCP } = await readFolderRows(folder, sheetsRoot, logger);
+		const { rows, maxCP, skippedFiles: folderSkipped } = await readFolderRows(folder, sheetsRoot, logger);
+		skippedFiles.push(...folderSkipped);
 		if (maxCP > globalMaxCP) globalMaxCP = maxCP;
 		if (!rows.length) continue;
 
@@ -162,10 +165,15 @@ async function buildDatabase(options = {}) {
 	if (writeNyaDb) writtenDatabases = writeNyaDbDatabases({ files: output.files, sourceMetadata: output.sourceMetadata }, logger);
 	logger.log(JSON.stringify(report, null, 2));
 	logger.log(`Highest CP found: ${globalMaxCP}`);
+	if (skippedFiles.length) {
+		logger.warn(`Skipped ${skippedFiles.length} empty file(s) — their contents were NOT added to the database:`);
+		for (const file of skippedFiles) logger.warn(`  - ${file}`);
+	}
 	return {
 		report,
 		databases: Object.keys(output.files),
 		writtenDatabases,
+		skippedFiles,
 	};
 }
 

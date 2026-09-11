@@ -21,11 +21,61 @@ const {
 	validateBackendGeneratorFiles,
 	validateSourceMetadataConfig,
 	applySourceMetadataOverrides,
+	parseCsv,
 } = require('../src/index');
 
 test('normalizeHeader lowercases and removes non-letters', () => {
 	assert.strictEqual(normalizeHeader('CP Cost'), 'cpcost');
 	assert.strictEqual(normalizeHeader('Unnamed: 0'), 'unnamed');
+});
+
+testAsync('parseCsv maps a combined Perk/Item header to the name field', async () => {
+	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-perkitem-'));
+	const filePath = path.join(dir, 'Farmland.csv');
+	await fs.promises.writeFile(
+		filePath,
+		['Setting,Perk/Item,Description,Price', 'A Brothers Price,Farm,Well built farmland.,200'].join('\n'),
+		'utf8',
+	);
+	const { rows, maxCP } = await parseCsv(filePath);
+	assert.strictEqual(rows.length, 1);
+	assert.strictEqual(rows[0].name, 'Farm');
+	assert.strictEqual(rows[0].description, 'Well built farmland.');
+	assert.strictEqual(rows[0].cost, 200);
+	assert.strictEqual(maxCP, 200);
+});
+
+testAsync('parseCsv maps a plain Perk header to the name field', async () => {
+	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-perk-'));
+	const filePath = path.join(dir, 'Powers.csv');
+	await fs.promises.writeFile(
+		filePath,
+		['Perk,Cost,Chapter Unlocked ,Jump/Supplement,Category,Effect', 'Technical Training,100 CP,,007,Knowledge,"Not everyone knows how."'].join('\n'),
+		'utf8',
+	);
+	const { rows, maxCP } = await parseCsv(filePath);
+	assert.strictEqual(rows.length, 1);
+	assert.strictEqual(rows[0].name, 'Technical Training');
+	assert.strictEqual(rows[0].description, 'Not everyone knows how.');
+	assert.strictEqual(rows[0].source, '007');
+	assert.strictEqual(rows[0].cost, 100);
+	assert.strictEqual(maxCP, 100);
+});
+
+testAsync('parseCsv falls back to the first column as name when no name header exists', async () => {
+	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-namefallback-'));
+	const filePath = path.join(dir, 'Power Armor.csv');
+	await fs.promises.writeFile(
+		filePath,
+		['Power Armor Upgrade,Cost,Chapter Unlocked ,Jump/Supplement,Category,Effect', 'Life Support,Freebee,,Metroid,Base OPA Upgrade,"Sealed environment."'].join('\n'),
+		'utf8',
+	);
+	const { rows } = await parseCsv(filePath);
+	assert.strictEqual(rows.length, 1);
+	assert.strictEqual(rows[0].name, 'Life Support');
+	assert.strictEqual(rows[0].description, 'Sealed environment.');
+	assert.strictEqual(rows[0].source, 'Metroid');
+	assert.strictEqual(rows[0].cost, 0);
 });
 
 test('extractChapterFromFilename strips common noise', () => {

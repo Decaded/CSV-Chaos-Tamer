@@ -3,11 +3,6 @@ const path = require('path');
 
 const DEFAULT_LOCK_PATH = path.join(__dirname, '..', '.nya-build.lock');
 
-function resolveLockPath(value) {
-	if (!value) return DEFAULT_LOCK_PATH;
-	return path.resolve(value);
-}
-
 function isProcessAlive(pid) {
 	if (!Number.isInteger(pid) || pid <= 0) return false;
 	if (pid === process.pid) return true;
@@ -67,4 +62,4 @@ function release(lockPath = DEFAULT_LOCK_PATH) {
 	}
 }
 
-module.exports = { acquire, release, isProcessAlive, resolveLockPath };
+module.exports = { acquire, release, isProcessAlive };
