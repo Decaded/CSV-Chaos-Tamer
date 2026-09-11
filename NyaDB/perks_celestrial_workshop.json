@@ -1,0 +1,1424 @@
+{
+  "07debe23-650b-50ef-92c4-56a72e081a45": {
+    "id": "07debe23-650b-50ef-92c4-56a72e081a45",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "Arm Cannon System",
+    "cost": 0,
+    "description": "All of these weapons are designed to work interchangeably with each other within a single arm cannon, which rests on one arm of your armor (that you may choose). The weapon systems below can all be toggled or combined at will, though newer and self-installed systems may need some work to integrate with it properly. Can be set to a ‘stun’ or ‘kill’ setting at will.",
+    "source": "Metroid"
+  },
+  "6409c5de-d2e5-574a-8068-328986f87db6": {
+    "id": "6409c5de-d2e5-574a-8068-328986f87db6",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "Arm Cannon: Power Beam",
+    "cost": 0,
+    "description": "A basic weapon used across the galaxy, considered a mainstay of power armor weaponry. These yellow pellet-sized charges of energy have the benefit of having no need for ammunition, with the downside that it does very slight damaged to armored or tough foes. Still, this is the foundation for many of the weapon systems below, and its versatility – lacking an ‘element’ or exact energy signature – should not be underestimated. Semi-automatic.",
+    "source": "Metroid"
+  },
+  "220f2737-06d8-5c69-bb6e-02722f288396": {
+    "id": "220f2737-06d8-5c69-bb6e-02722f288396",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "Internal HUD",
+    "cost": 0,
+    "description": "Whether through your retina or the visor of your helmet, you have a fully operational HUD system depicting the status of your life support, the status of your weapon (and ammo, should you rely on it), and a map system that automatically updates as you travel through a particular location. It needs to be modified manually to gain any new features beyond what you purchase here, but the programming code is flexible for the purpose of adding tactical, on-board systems.",
+    "source": "Metroid"
+  },
+  "fb8c569a-6db6-5c21-91fb-e4af950698c6": {
+    "id": "fb8c569a-6db6-5c21-91fb-e4af950698c6",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "Life Support",
+    "cost": 0,
+    "description": "Power Armor lives up to its name: it protects and keeps its user alive, first and foremost. Even the most basic of suits will provide a self-sustaining life support system. It puts the user in a sealed environment that can survive in a vacuum (though not extreme temperatures like sealed magma chambers or a sub-zero arctic), along with a self-sustaining oxygen supply. In addition, the suit will automatically repair itself and damage to the user’s vitals through the expenditure of Energy Tanks, which sustain the suit’s protection and the life of its user. It can also combat toxins or poisons that manage to move past the Power Armor’s protective seal, though it takes time to administer antibodies, and may leave the user vulnerable. You start with one life tank in your armor.",
+    "source": "Metroid"
+  },
+  "c417e8c5-94fa-5240-ac0e-7be45873fc79": {
+    "id": "c417e8c5-94fa-5240-ac0e-7be45873fc79",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "Morph Ball",
+    "cost": 0,
+    "description": "This is one of the more...esoteric systems of the Chozo. The armor compresses into a spherical form with the user harmlessly contained within it, with sensory awareness of their surroundings, and is able to roll around of their own volition. It is astoundingly useful for infiltration or navigating tight spaces, but is otherwise a baffling topic for Space Pirates and the Federation alike. The only person who uses it regularly is Samus, and attempts to recreate the technology have been...disastrous at best. Comes with an energy bomb feature, able to explode with a small concussive impact with no risk to the user, that can be used at will.",
+    "source": "Metroid"
+  },
+  "5e463bd2-3cc8-53fa-8f45-d0baa7af0d54": {
+    "id": "5e463bd2-3cc8-53fa-8f45-d0baa7af0d54",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "Power Insulation System",
+    "cost": 0,
+    "description": "Despite the fact Power Armor can operate independently for hours at a time, it runs similar risks to shorting out or being overloaded like any sort of electronic device. This is especially problematic if it short circuits and can’t be used right in the middle of a battle. That’s what this is for. The suit will insulate any extra, outside energy from reaching its subsystems, and while it will still be damaged by loose electrical currents, it will not suffer from any structural or systemic malfunctions from the current or things that would cause such short outs. In addition, your subsystems are incredibly resilient against hacking or other damage, and will reboot in mere seconds if compromised in any way. This can still leave you vulnerable in a tight spot, but it will be for minutes or seconds instead of hours.",
+    "source": "Metroid"
+  },
+  "fb893495-d328-53f0-97ca-26c4635b4d90": {
+    "id": "fb893495-d328-53f0-97ca-26c4635b4d90",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "Scan Visor",
+    "cost": 0,
+    "description": "A very basic but helpful tool, almost considered mandatory on long journeys into alien planets. This scans an individual object or person and gives you some basic, cursory details about the item in question. Even better, if the armor has access to a larger intelligence network or any sort of long-term data banks, it can draw fairly accurate conclusions and guesses about the scanned object by comparing it to observations the data provides – or even a complete dossier, if you can access one. How handy is that?",
+    "source": "Metroid"
+  },
+  "c3b9b260-ad13-50e7-869a-0f3004d89599": {
+    "id": "c3b9b260-ad13-50e7-869a-0f3004d89599",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "Suit Up",
+    "cost": 0,
+    "description": "A problem that more primitive power armor systems have is that putting on a bulky suit of technology can be a little time-consuming, especially if you’re not expecting to engage in combat anytime soon. This solves that issue – your armor is stored within a digital space until it comes time to equip it, where it will form around your body within a matter of seconds. Best done in a relaxed or non-hostile environment, for damage can disrupt the process. You can just as easily ‘de-equip’ the suit, where it will wait in a pod within your Warehouse for modifications, repairs, or when you need it again. You also receive blueprints and a box of enough working parts to apply this to other suits of power armor you may own, or any sort of technological equipment you add to your body. If you have a suit tailored to your biology, then this instead creates a ‘civilian mode’ that lets you read as flesh and bone (or whatever you’re made of). Excellent for getting past metal detectors.",
+    "source": "Metroid"
+  },
+  "77a95129-1f63-54db-a0d9-de0b1f358b58": {
+    "id": "77a95129-1f63-54db-a0d9-de0b1f358b58",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "Thruster System",
+    "cost": 0,
+    "description": "A fairly basic and common addition to a suit of power armor is a pair of thrusters on the back. These aren’t capable of sustained flight or long-term use, but can provide extra jumping power or momentum when you need to move in another direction VERY quickly. Thought activated.",
+    "source": "Metroid"
+  },
+  "fcc27171-e6ef-584d-bc5f-5146e16549f6": {
+    "id": "fcc27171-e6ef-584d-bc5f-5146e16549f6",
+    "category": "celestrial_workshop",
+    "chapter": "Base OPA Upgrade",
+    "name": "What's Old is New Again",
+    "cost": 0,
+    "description": "If you already have a body-sized suit of armor or a previous model of power armor already, then you may import it for this simple price. All features will integrate seamlessly with each other, and be perfectly compatibility for the purpose of the armor operating as normal.",
+    "source": "Metroid"
+  },
+  "516df564-5edf-5c34-abdd-da255759d290": {
+    "id": "516df564-5edf-5c34-abdd-da255759d290",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "BATTLE TECHNIQUE: SLEUTH DIPLOMACY",
+    "cost": 200,
+    "description": "You have the potential to be a master at bringing conflict to a quick and diplomatic close. As your PULCHRITUDE grows you will learn the best ways to negotiate (with their corpses), call in allies to get second opinions (and additional weapons), call for a laying down of arms (and raising of fists), and eventually pen and ratify treaties (with a fancy signature and everything). Lets you use your charisma to boost your attacks.",
+    "source": "Problem Sleuth"
+  },
+  "cc59469d-5003-5063-8158-912017d296a9": {
+    "id": "cc59469d-5003-5063-8158-912017d296a9",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "Brush Up",
+    "cost": 300,
+    "description": "Brush Gods aren't the only users of Brush Techniques in the world. Highly rare and unheard of in this faithless age, those who know the proper symbols and have enough faith or power of their own can utilize brush techniques using normal ink and paper. Even a demon or evil spirit could do this, flying in the face of the gods themselves. All it requires is the knowledge of the proper method. This knowledge is almost exclusive to the Brush Gods themselves, and they will rarely tell mortals of their technique unless their respect has been earned through great respect. You start off knowing only the Rending God Tachigami's Power Slash technique, the power to unleash a cutting force by drawing a line through an object.",
+    "source": "Okami"
+  },
+  "a191fda2-3ba0-5f78-b85d-ee21ab01c35c": {
+    "id": "a191fda2-3ba0-5f78-b85d-ee21ab01c35c",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "Environmental Awareness",
+    "cost": 200,
+    "description": "The key to proper defense is awareness of your surroundings, and you have it in spades. You can instantly catalog a room for cover and fire lanes, you can maintain constant awareness of your squad and their positions, directing them effectively through hostile environments, and you can detect instantly when shifts happen, allowing you to react instantly when some paranatural effect distorts gravity or twists the walls into the floor.",
+    "source": "Control"
+  },
+  "1cd42aa7-0b02-59bb-b503-6707ac102333": {
+    "id": "1cd42aa7-0b02-59bb-b503-6707ac102333",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "Fighting Talent",
+    "cost": 0,
+    "description": "You are innately, incredibly talented in all forms of combat. You are very tactically-minded, picking up fighting styles with ease. But your greatest talent is undoubtedly finding creative ways to weaponize weird items and powers, turning that joke power into something people respect and fear. On your first day with powers, you wield them more precisely, quickly and smoothly than people who have practiced with them for a decade.",
+    "source": "Worm Alternative Worlds"
+  },
+  "c837126c-f110-5fe5-90d4-032d424b4bcc": {
+    "id": "c837126c-f110-5fe5-90d4-032d424b4bcc",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "Ink Bullet",
+    "cost": 100,
+    "description": "A simple brush technique that directly translates specks of ink into projectiles. The more dots are drawn, the more ink is consumed, though each bullet increases the power of the barrage. Just as capable of harming spirits as any greater brush technique, but requires the permission of no particular deity or technique of your own to use. You have to know the basics to use this first, though.",
+    "source": "Okami"
+  },
+  "fd489e6c-637b-54dc-b852-9e3c21eb89a8": {
+    "id": "fd489e6c-637b-54dc-b852-9e3c21eb89a8",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "Pandora's Best",
+    "cost": 200,
+    "description": "For reasons nobody has ever been able to satisfactorily explain, vault hunters are just built differently. It doesn't matter if you're a highly trained ex-Dahl soldier or some random teenager who rolled up on a bus from a planet nobody's ever heard of, the result is the same: You can pick any weapon, be a gun or a knife, and clear a room full of skags, psychos, giant flesh abominations and whatever else is in Pandora with complete ease. Oh, and as a free bonus on top of all that completely unjustified killing ability, you’re also good at one-liners (more specifically, the genuinely cool ones). Now go and do some killing.",
+    "source": "Borderlands 2"
+  },
+  "8d9c2f47-9af9-5f53-8bb4-6ac8a230a09e": {
+    "id": "8d9c2f47-9af9-5f53-8bb4-6ac8a230a09e",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "Shifting Tactics",
+    "cost": 0,
+    "description": "Being dead does have a few benefits. After all, one cannot die a second time. The loss of a fight is no longer the end. And there are few that disagree with the idea that losing is always a learning experience. Combined this with the fact that, as a warrior of the House of Hades, you have access to most of the greatest combatants who have ever died and even the most talented of warriors could improve beyond what they thought possible. The benefits you gain from this combination of fortunes are threefold. First, your combat abilities will never become dull simply because they are not used. A weapon as finely honed as your skills will never rust simply because it is left in its sheath for an extended period of time. Secondly, you gain a keen insight into the tactics of your opponents and are able to learn something from every bout with them. Win or lose, you will discover a new insight that will allow you to come closer to defeating them each time. Finally, should you eventually find your way back to the world of the living, some of your experience returning from death so frequently will remain with you. Once each decade, when a blow would normally strike you down, you will instead rise to stand tall and once again almost instantly. Your wounds will be healed and your vigor for battle fully restored.",
+    "source": "Hades"
+  },
+  "2f1144a1-9035-5ada-9d79-34d59f6e8f3a": {
+    "id": "2f1144a1-9035-5ada-9d79-34d59f6e8f3a",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "SICK BURN",
+    "cost": 400,
+    "description": "By thoroughly insulting someone you can cause their defenses to lower. This doesn't just apply to defensive tactics, but also magical and metaphysical defenses. The more effective and well put the insult, the greater effect it has on their defense. It won't completely remove their defenses unless you say something so cruel that they're broken and unable to keep fighting anyway.",
+    "source": "Problem Sleuth"
+  },
+  "8b1cfc34-f9a3-5331-8f1d-50e913e3b7b8": {
+    "id": "8b1cfc34-f9a3-5331-8f1d-50e913e3b7b8",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "Support Fire",
+    "cost": 200,
+    "description": "The Goddess of the Hunt prefers to be left alone, but she rarely turns her back on those who honor her with their actions. Those who draw your blood will draw her ire as well as one of her arrows. They will rarely be deadly shots as firing in anger is not her strong suit. Yet they will only rarely fail to hit.",
+    "source": "Hades - God Boon"
+  },
+  "87c3b593-7dfb-5973-8717-003f8ef5f924": {
+    "id": "87c3b593-7dfb-5973-8717-003f8ef5f924",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "The Envy of Sun Tzu",
+    "cost": 100,
+    "description": "You are a tactical genius in any arena from one on one fights, to politics, to full scale war. Your talents in strategy could put the greatest of your race to shame as you are capable both of performing within limits, such as low resources or rules, and outside of them. You can come up with brilliant moves on the fly and can mount a counter attack even when your enemy is knocking down your door. From simple to complicated plans within plans within plans within plans, you can do it and keep it all straight in your head too. As a side effect you're good at coming up with code names for all your schemes.",
+    "source": "Legend of Spyro"
+  },
+  "1dcf5912-1a85-5f8f-9f1c-9ef7d96eb19c": {
+    "id": "1dcf5912-1a85-5f8f-9f1c-9ef7d96eb19c",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "Two-Fisted Fury",
+    "cost": 100,
+    "description": "By purchasing this you become exceptionally skilled in using weapons in either hand, even if they were meant to be wielded by two hands instead of one. This could potentially mean that you’re capable of wielding two greatswords or two large hammers at the same time with all the grace and elegance of daggers. How do you do it? By understanding your tools.",
+    "source": "Warframe"
+  },
+  "836bc849-a677-5ad1-b1c2-60d1153ab9e1": {
+    "id": "836bc849-a677-5ad1-b1c2-60d1153ab9e1",
+    "category": "celestrial_workshop",
+    "chapter": "Combat",
+    "name": "Wavesmasher - Upgraded",
+    "cost": 200,
+    "description": "One of the more irresistible forces in this world is the beating of waves upon the sides of cliffs and mountains. Even stones that withstood time for unknown ages crumble against the relentless force of water. Your blows will come to embody this same unstoppable force, striking with an insistence that propels even the sturdiest offoes aside like pebbles in a storm. Upgrade: As if pushing your foes around like leaves in a current weren’t enough, your blows now continue pressing against foes even after your attack is complete. Those that find themselves wedged between that force and a solid object will discover just how painful a squeeze between a rock and a hard place can be.",
+    "source": "Hades - God Boon"
+  },
+  "e3726017-3abb-5ee6-b39b-7b61de548c63": {
+    "id": "e3726017-3abb-5ee6-b39b-7b61de548c63",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "Blessed of the Driving Gods",
+    "cost": 400,
+    "description": "Some say your skill behind the wheel of any vehicle borders on, or perhaps is, supernatural. Driving through an exploding shopping mall at 150 mph while reading a newspaper is nothing exceptional. Additionally, the gods of the cars love you too much to stop your driving; anytime you would die in a vehicular incident, you survive miraculously. However, don’t expect to get off unscathed; any crash you escape this way scars you dramatically, and you can expect to spend at least a few months in medical care.",
+    "source": "The Fast & the Furious"
+  },
+  "74395662-bd52-5bc9-8369-cd1e13c78a8d": {
+    "id": "74395662-bd52-5bc9-8369-cd1e13c78a8d",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "Boundless Drive",
+    "cost": 0,
+    "description": "There is nothing you wouldn't give to see your goals realized. Nothing. So when someone says it would take a solid week of nothing but work for you to achieve the task you've set before you, you just laugh and proceed to do just that. Upon designating a task to complete, you will find that you can push aside petty things like hunger, or sleep, or lack of stamina in your single-minded pursuit. Of course by the time you've either succeeded or failed in your task, it's going to catch up to you, and deviating from that task will likewise cause it... but until then, your will and desire will be all you need to push through.",
+    "source": "Warframe"
+  },
+  "0b54ce8b-3df9-52fb-85c7-ac5c6bbc50a2": {
+    "id": "0b54ce8b-3df9-52fb-85c7-ac5c6bbc50a2",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "Do One Thing at a Time",
+    "cost": 300,
+    "description": "When you focus yourself on doing a single task, your skill and efficiency doubles. Material requirements are unaffected, but time taken is halved and quality is doubled.",
+    "source": "Dinotopia"
+  },
+  "2dd9a70c-2c8a-5730-8fb9-42190e63e4fd": {
+    "id": "2dd9a70c-2c8a-5730-8fb9-42190e63e4fd",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "Dragon Time",
+    "cost": 300,
+    "description": "Time slows to a crawl but not your thoughts. This can grant much needed time to think and contemplate a solution in a tight situation. Think of this as the draconic equivalent to bullet time. It only lasts for a rough estimate of 3 minutes with a half-hour cool down time. With time and effort you can cut cooldown in half and triple the effective time.",
+    "source": "Legend of Spyro"
+  },
+  "0a836437-1f56-5abe-99fe-753807c4f237": {
+    "id": "0a836437-1f56-5abe-99fe-753807c4f237",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "Everybody Give It Up for Day Three",
+    "cost": 100,
+    "description": "No one wants the Game to be boring. As a Player, you’ll blank out after the day’s task is completed and wake up fresh and new to start on the next one, instead of having to sit through all that downtime before the next Day starts. In future Jumps, you’ll be able to zone out and “skip” through anything unimportant to get to the good bits, either the stations of canon or a predetermined event trigger you set.",
+    "source": "Neo TWEWY"
+  },
+  "530639a5-21b4-5c33-92a1-130f6f3123d3": {
+    "id": "530639a5-21b4-5c33-92a1-130f6f3123d3",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "Fox's Cunning",
+    "cost": 200,
+    "description": "Wit as sharp as a rapier. When it comes to finding solutions to problems, nobody does it better. Ideas pop into your head very often. Though not every idea of yours is a GOOD one, there's usually at least some merit to them. With your increased wisdom comes a fairly improved intelligence. You won't become a genius overnight, but it will certainly help. Your verbal sparring skills become legendary, however. Snappy one liners, puns both amazing and horrible, you can banter circles around the rest. You also can steel your nerves, refusing to let fear guide your actions.",
+    "source": "CATastrophe"
+  },
+  "4d4afc1a-df93-5cf9-b186-50f78bf848fc": {
+    "id": "4d4afc1a-df93-5cf9-b186-50f78bf848fc",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "Machine Empathy",
+    "cost": 600,
+    "description": "Just by listening carefully, you can diagnose exactly where a problem is in any type of machinery. Just by listening to an engine you can tell exactly where the problem is, know exactly what part is malfunctioning, and know exactly what you can do to fix it. Computers and such are harder, but you know a few good troubleshooting tips for them too, and you know almost by instinct which wire in that massive jumbled mess goes where.",
+    "source": "CATastrophe"
+  },
+  "543bc328-764a-522c-8a4f-206e392e61c4": {
+    "id": "543bc328-764a-522c-8a4f-206e392e61c4",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "No-One's Pawn",
+    "cost": 0,
+    "description": "The FBC is controlled by the Board, a mysterious group of extra-dimensional beings who operate according to their own inscrutable goals. They have set out a path for the Bureau, but you... you are no puppet, and you won’t dance on anyone’s strings. You have your own path and goals, and even when events are foretold or predicted, you are able to make your own choices, unbound by anything like fate or prophecy. Indeed, fate and fortune shift to suit your desires instead. When you have a goal, and some piece of destiny would help you achieve it, you will be able to borrow from that ‘certainty’ to aid your efforts. And when prophecy would oppose you, you become a hidden variable throwing off all predictions. And either way, those whose leashes you’ve slipped will have difficulty actually spotting that you aren’t dancing to their tune.",
+    "source": "Control"
+  },
+  "3f07f117-1a50-56ed-aeb5-9b052260a8d9": {
+    "id": "3f07f117-1a50-56ed-aeb5-9b052260a8d9",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "QTE",
+    "cost": 100,
+    "description": "You have a sophisticated danger sense that warns you a couple of seconds before trouble is about to go down, as well as giving you an idea of which direction it's coming from and which way to dodge. You feel an instinctive unease in hazardous situations and the presence of armed individuals. You can still be hit by things moving too fast to effectively dodge, or area of effect attacks.",
+    "source": "Worm Alternative Worlds"
+  },
+  "bf39a758-b0bb-5338-a86c-2ee95268ea98": {
+    "id": "bf39a758-b0bb-5338-a86c-2ee95268ea98",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "Savvy Sultan",
+    "cost": 400,
+    "description": "When people think of building things, they think of you. Provided you had the resources and the understanding of the technology, you could construct all manners of machines in a fourth of the time it would normally take. By yourself. You're no slouch with any of your tools either, wielding them with the precision of a machine with no loss of speed. Quality and a deadline? No problem.",
+    "source": "Macross"
+  },
+  "a118e24f-ce49-5b95-bfec-f94e936a18ff": {
+    "id": "a118e24f-ce49-5b95-bfec-f94e936a18ff",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "This Is How I Want It",
+    "cost": 400,
+    "description": "Your capability of mentally designing items is vastly boosted. It's almost as if you have a mental idea space in the fashion of a construction bay with a lists of parts you have on hand that gives you an idea of what you can build at that moment... actually, that's pretty much what you have. As a bonus, you can mix and match parts in a manner roughly akin to legos, and giving you an idea of what would work and what wouldn't(and how much resources it would take to build). Mind, this doesn't mean that your mental creation will perform successfully, but it will function. As a final bonus, you can mentally hand-off the resultant creation to your Kerbals to build, and they'll do so without a mistake or screwup - meaning any snafu that results will be on your own head.",
+    "source": "Kerbal Space Program"
+  },
+  "67b3e9d8-7524-526d-ae99-244fdc16b1b3": {
+    "id": "67b3e9d8-7524-526d-ae99-244fdc16b1b3",
+    "category": "celestrial_workshop",
+    "chapter": "Focus",
+    "name": "Trading Tools",
+    "cost": 100,
+    "description": "The amount of seconds that are wasted reaching for different tools can be infuriating. Sure you say, it's only a few seconds. But those seconds add up! Which is why you've got this knack for being really quick on grabbing other tools. Where a person might need to look around and waste five to ten seconds to put down a tool and pick another back up, you can do it in 2-3 seconds without even looking. When every second counts, you need to be on the uptake.",
+    "source": "Macross"
+  },
+  "e88280a7-f7e3-58a5-9e4b-2563156900fd": {
+    "id": "e88280a7-f7e3-58a5-9e4b-2563156900fd",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Halo - UNSC)",
+    "name": "Engine Jock",
+    "cost": 0,
+    "description": "With the myriad of vehicles the UNSC has to offer, it comes as no surprise that each of its members is given basic training on operating land vehicles so they can drive to safety if need be. There’s even basic flight school so in a pinch, you could drive a Pelican without crashing it. Yet, why settle for being less than the best? Upon picking up this additional training, just about any human vehicle like the F-41 Exoatmospheric Multirole Strike Fighter or the AC-220 Vulture you could get your hands on could be piloted with near legendary capabilities. Do tricks or complex maneuvers, plan out moves using momentum and vehicle weight, the works. This perk also comes with the means to repair and maintain such vehicles too, so you can start getting them working again after your latest stunt.",
+    "source": "Halo - UNSC"
+  },
+  "b2073698-f681-524e-bba7-c79bcd3c1076": {
+    "id": "b2073698-f681-524e-bba7-c79bcd3c1076",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Halo - UNSC)",
+    "name": "Laboratory Tools",
+    "cost": 0,
+    "description": "In order to create, one must have the tools. You cannot create if you do not have the means to create, after all. Knowing what you’re looking at is also something of a concern when you’re studying alien technology. That’s where this little kit comes in. A large briefcase that’s biometrically locked to you for security purposes, it comes with a powerful scanning tool to study various forms of energy along with a powerful laptop that makes 21st Century computers look like old children’s toys, and laser tools to cut open parts and metals that you feel like being risky with. As a bonus, it also has a small pocket you can store samples in.",
+    "source": "Halo - UNSC"
+  },
+  "dc9bb263-147f-5a29-8aa8-90cddd84b070": {
+    "id": "dc9bb263-147f-5a29-8aa8-90cddd84b070",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Halo - UNSC)",
+    "name": "Soundtrack of the Stars",
+    "cost": 0,
+    "description": "It is one thing to be told that you have to fight a war that appears outright impossible, but to do so with little in the way of morale or confidence boosters is effectively asking you to die. You really need something to help you out on that last part if you want to make it through this whole thing, which is why you have this freebie that allows you to have the entire Halo soundtrack at your disposal. Have appropriate themes playing in your head depending on the situation, or cue something up to feel amazing. This option is able to be toggled.",
+    "source": "Halo - UNSC"
+  },
+  "0681304c-48a8-5274-9a92-2f6fef507674": {
+    "id": "0681304c-48a8-5274-9a92-2f6fef507674",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Halo - UNSC)",
+    "name": "Standard Neural Interface",
+    "cost": 0,
+    "description": "As the requirements of war and militarized technology moved forward, the requirements it puts upon its soldiers was likewise changed. This is one such example, being a brain implant that all members of the UNSC obtain upon entering service. It carries a multitude of functions, integrating with armor worn to provide a heads-up display directly into one’s optic nerve instead of on the helmet screen while providing an IFF tag for allied soldiers. Such implants are small enough that there is no visible signs outside the body, and sometimes people have forgotten they even had it until its functions come up.",
+    "source": "Halo - UNSC"
+  },
+  "d4f49f20-27f8-5153-87d6-83aa68c966e6": {
+    "id": "d4f49f20-27f8-5153-87d6-83aa68c966e6",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Legend of Spyro)",
+    "name": "Medical Knowledge",
+    "cost": 0,
+    "description": "You know how to knit wounds, and keep them closed. This also means based on race you can heal your own kind and one other race to an immense degree. You know how they tick, tock and snap. With the right tools you could heal someone on the brink of death.",
+    "source": "Legend of Spyro"
+  },
+  "c0719447-d981-5235-96e7-038139379e4a": {
+    "id": "c0719447-d981-5235-96e7-038139379e4a",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Macross)",
+    "name": "-Basic Training",
+    "cost": 0,
+    "description": "Piloting a Variable Fighter can be pretty complex. There's all kinds of modes and maneuvers to worry about... with this, you won't have to worry so much. You'll know which button does what, and you won't end up turning into a mech when you need a jet. ...but I reserve the right to laugh if you mess up anyway.",
+    "source": "Macross"
+  },
+  "2520f374-4924-59d3-ac7a-bcf29ac0e827": {
+    "id": "2520f374-4924-59d3-ac7a-bcf29ac0e827",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Macross)",
+    "name": "Graceful Reflexes",
+    "cost": 0,
+    "description": "Let the rhythm move your feet! You know that for a song, a dance can work wonders to amplify the effects. After all, humans are not stationary creatures... and you're going to prove it! Your movements and actions can become more graceful at the flick of a switch, moving with the rhythm of any song around you... especially if you're the one singing it. Expect to turn the heads of any watching.",
+    "source": "Macross"
+  },
+  "a7a07b8f-1a1d-5071-a1a4-e9e6d2d8b5be": {
+    "id": "a7a07b8f-1a1d-5071-a1a4-e9e6d2d8b5be",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Macross)",
+    "name": "Lyrical Repository",
+    "cost": 0,
+    "description": "You've got everything that you need, right in front of you! Nothing's stopping you, nothing that you can't do when the world's in front of you! You can turn ANYTHING into a song, and you'll never have any issues when it comes to figuring out how to word your lyrics. With this you can even start singing right in the middle of a crowd, and make it damned catchy based on simply what's around you. You'd be perfect for a musical, maybe you can try and revive the genre?",
+    "source": "Macross"
+  },
+  "1c98db2e-1d43-5443-bc14-b99d2ca81951": {
+    "id": "1c98db2e-1d43-5443-bc14-b99d2ca81951",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Macross)",
+    "name": "Serene Sinatra",
+    "cost": 0,
+    "description": "You're no slouch in the singing department, that's for sure. You may not be popular idol material, but no one's going to complain if you decide to sing along to a song or randomly bust out a tune with a voice like this. Who knows, maybe you could practice and get a little better?",
+    "source": "Macross"
+  },
+  "0cb26420-c6a5-5c04-8ea6-98c96aada4a8": {
+    "id": "0cb26420-c6a5-5c04-8ea6-98c96aada4a8",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Matthew Reilly)",
+    "name": "It Was Them Or Us",
+    "cost": 0,
+    "description": "Killing is a desperate act. It can change the way you look at the world, usually for the worse. Having to do so multiple times – many times – can give someone a very abnormal outlook on the world: as the saying goes, if all you have is a hammer, everything starts to look like a nail. Fortunately, you seem to have a clear perspective on the matter: your morality, personality and sanity are unaffected by killing in defence of yourself and others.",
+    "source": "Matthew Reilly"
+  },
+  "a2a89c33-8434-5eeb-a71c-fd33721b599b": {
+    "id": "a2a89c33-8434-5eeb-a71c-fd33721b599b",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Matthew Reilly)",
+    "name": "Mission Critical",
+    "cost": 0,
+    "description": "It seems you’re a renowned expert in a particular academic or scientific field – perhaps even one of the top ten in the world. You might be an archaeologist, an anthropologist, a linguist, theoretical physicist, mathematician, herpetologist or something else. Unusually, this is a skill that periodically brings you to the attention of odd corporations, government departments, or strange military task forces that just happen to need someone with your ability. You may have the relevant degrees and a doctorate for your speciality, or might be purely self-taught. You may deactivate the attention-getting feature at will, but it’s not like you get to choose exactly when others will need your assistance next.",
+    "source": "Matthew Reilly"
+  },
+  "14d89a90-82bf-5571-89b4-7b3c876a99a1": {
+    "id": "14d89a90-82bf-5571-89b4-7b3c876a99a1",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Matthew Reilly)",
+    "name": "Teamwork",
+    "cost": 0,
+    "description": "The team that plays together stays together. Participating in both organised training and games in your spare time encourages your group to act in coordination with each other, to trust each other, and develop private signals and lingo with greater speed and certainty than would naturally be the case.",
+    "source": "Matthew Reilly"
+  },
+  "ca4aeff4-fb62-521d-ab7e-189514756b94": {
+    "id": "ca4aeff4-fb62-521d-ab7e-189514756b94",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Metroid)",
+    "name": "Find My Way",
+    "cost": 0,
+    "description": "The galaxy is a vast place, too vast for a single lifeform on a wayward vessel. However, destiny seems to tug and pull at you, guiding you to places of interest regarding your goals or desires. You will not know why such a pull exists until you find out for yourself, and many of these fated places are dangerous indeed...but if you stand to benefit from something in this world, you will not overlook the chance.",
+    "source": "Metroid"
+  },
+  "794fb437-96ca-5fd7-a54e-9e08a7a21b13": {
+    "id": "794fb437-96ca-5fd7-a54e-9e08a7a21b13",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Metroid)",
+    "name": "Justice Will Prevail",
+    "cost": 0,
+    "description": "Perhaps to ease the burden of your mind or from a sincere show of innocence, your words show you as earnest and likable to those around you. Your oddities will be more easily overlooked, infighting is more easily quelled, and stronger friendships are more easily gained with your own words and actions. This will not easily cloud the judgment of the enemy, the vengeful, or the irrational, but you may find an extra hand will reach out to you when you need it.",
+    "source": "Metroid"
+  },
+  "77f0564c-c29b-5239-bff2-edef67f98db3": {
+    "id": "77f0564c-c29b-5239-bff2-edef67f98db3",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(NEO TWEWY)",
+    "name": "Are Those Wings?",
+    "cost": 0,
+    "description": "You’re a little more perceptive than most. In fact, you’ve got a minor amount of ESP. This isn’t enough to drop a vending machine on someone (or even lift a soda can), but you can brush against people’s minds to get a sense of their surface thoughts and glimpse the unseen out of the corner of your eye.",
+    "source": "Neo TWEWY"
+  },
+  "b5eafac5-7218-5f5d-937a-7a6feeecc853": {
+    "id": "b5eafac5-7218-5f5d-937a-7a6feeecc853",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(No More Heroes)",
+    "name": "You're a Disgrace",
+    "cost": 0,
+    "description": "You have an impeccable sense of dramatic timing, as well as acting lessons strangely enough. You show up at just the moment to make an impact, and all of your lines mean something now- even just spouting out random words you will make a connection to the fight.",
+    "source": "No More Heroes"
+  },
+  "b6717a7f-d220-5cff-8343-100bc38bcb50": {
+    "id": "b6717a7f-d220-5cff-8343-100bc38bcb50",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Problem Sleuth)",
+    "name": "AUTO-PARRY",
+    "cost": 0,
+    "description": "You have a distinct method of dodging attacks that, no matter how silly or out of place, always seems to be as effective as the more practical methods of dodging. Whether it's adjusting your corset or getting distracted at just the right moment for the attack to fly over your head, you can now use it to avoid damage.",
+    "source": "Problem Sleuth"
+  },
+  "b2839b96-dbd3-5607-948f-735df5e80ea3": {
+    "id": "b2839b96-dbd3-5607-948f-735df5e80ea3",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Problem Sleuth)",
+    "name": "Pose as a team, because shit just got real",
+    "cost": 0,
+    "description": "When shit's about to go down, you know exactly what to do. Gather up your friends and stand in really cool poses, preferably with something to make the background flash different colors. This perk lets you strike the most amazing of team poses to show off your team's badassitude.",
+    "source": "Problem Sleuth"
+  },
+  "c742e957-6f5d-51ba-9ff2-20a79f09ef5f": {
+    "id": "c742e957-6f5d-51ba-9ff2-20a79f09ef5f",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Redline)",
+    "name": "Helpful Radio Announcer",
+    "cost": 0,
+    "description": "A helpful voice ready to give listeners the down low on their current location or destination, people of interest, and the events happening around them. Works through any radio or TV when turned to an unused frequency, though only when you don't want to find static.",
+    "source": "Redline"
+  },
+  "be729188-9b26-5706-9fec-8012989af66c": {
+    "id": "be729188-9b26-5706-9fec-8012989af66c",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Worm AW)",
+    "name": "Body Control Immunity",
+    "cost": 0,
+    "description": "It’s not just the mind that’s at risk. There are powers that can subvert your control over your own body, leaving you a helpless observer whatever your mental resistance. No longer. Whether it’s Regent’s power or Bonesaw’s spiders tickling your nerves, you only move when you want to. That said, it will feel like they’re succeeding and you will always be aware of the attempt and what they try to make you do, if you feel like playing along for a bit.",
+    "source": "Worm Alternative Worlds"
+  },
+  "0770323f-77f5-5aa2-aa02-b6083ea54634": {
+    "id": "0770323f-77f5-5aa2-aa02-b6083ea54634",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Worm AW)",
+    "name": "Creature Comforts",
+    "cost": 0,
+    "description": "For some reason, wherever you need to sleep is extremely comfortable, whether a concrete floor or a rocky stretch of ground. Never too hot, too cold, too hard, too soft, never too bright or loud, but still you can wake easily when you need to. Even if you spent eight hours reading or talking or something, you’d still get all the benefits of a full night’s rest just by parking down in one space for the night. This effect can be shared with anyone you’re touching.",
+    "source": "Worm Alternative Worlds"
+  },
+  "97b389e7-245d-5d81-a3e6-d1e4eaba236b": {
+    "id": "97b389e7-245d-5d81-a3e6-d1e4eaba236b",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Worm AW)",
+    "name": "HUD",
+    "cost": 0,
+    "description": "You have a visual overlay with a helpful VI specializing in data analysis, providing augmented reality. It will provide relevant and up-to-date information like price estimates or a bullet count as needed, and is easily customized.",
+    "source": "Worm Alternative Worlds"
+  },
+  "c548f475-c63e-59c8-b462-c49ac2c8d767": {
+    "id": "c548f475-c63e-59c8-b462-c49ac2c8d767",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Worm AW)",
+    "name": "Invisible Presence",
+    "cost": 0,
+    "description": "You cannot be perceived by any remote means of information gathering, thinker, precog or mind-reading powers. Your fate and luck cannot be altered in any way detrimental to you.",
+    "source": "Worm Alternative Worlds"
+  },
+  "121813f0-2316-5f33-95f8-0d3404885947": {
+    "id": "121813f0-2316-5f33-95f8-0d3404885947",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Worm AW)",
+    "name": "Mind Control Immunity",
+    "cost": 0,
+    "description": "The world is full of scary Masters with scary mind-control powers. Be a shame if your adventure ended as part of Heartbreaker’s harem. Never fear, you are flatly immune to any attempt to influence your mind or emotions with powers.",
+    "source": "Worm Alternative Worlds"
+  },
+  "b239a7c3-2ec4-5b83-8db4-e8772c332eb5": {
+    "id": "b239a7c3-2ec4-5b83-8db4-e8772c332eb5",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee\n(Worm AW)",
+    "name": "Native",
+    "cost": 0,
+    "description": "You have all relevant paperwork and records to function in this or future Jumps. Birth certificate, passport, ID, education. If you have any properties you are registered as their rightful owner. This applies in future Jumps as well.",
+    "source": "Worm Alternative Worlds"
+  },
+  "6df16cbd-8177-5e3d-aedf-9c105bfdeff8": {
+    "id": "6df16cbd-8177-5e3d-aedf-9c105bfdeff8",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee \n(Skyrim)",
+    "name": "Standing Stone: The Lover",
+    "cost": 0,
+    "description": "Those under the sign of the Lover learn all skills slightly faster than they otherwise would.",
+    "source": "Skyrim"
+  },
+  "b33b01b1-2100-5b38-9d1f-bf41c0f91c26": {
+    "id": "b33b01b1-2100-5b38-9d1f-bf41c0f91c26",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee \n(TES Skyrim)",
+    "name": "Far Horizons",
+    "cost": 0,
+    "description": "The lands of Skyrim are beautiful, if one takes a break from their adventures to simply look. From golden forests, to silver mountains, to misty swamps, to green pastures, there are plenty of locales to visit and enjoy. However, what’s worth a pretty view if there isn’t equally pretty music to accompany it? Now, every time you take a break and watch your surroundings, a song will softly play in your head, as if you had an orchestra inside your mind. These songs will always somehow capture the feeling of your surroundings and the look of landscapes you can overlook. The peoples of Skyrim value combat and honor above all, but remember to look upon the far horizons of Skyrim and admire the beauty of the natural world.",
+    "source": "TES V Skyrim"
+  },
+  "016c8964-0d09-5b9f-98a3-1a92f6a24deb": {
+    "id": "016c8964-0d09-5b9f-98a3-1a92f6a24deb",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee \n(TES V - Skyrim)",
+    "name": "Songs of Sovengarde",
+    "cost": 0,
+    "description": "The taverns are full of music as much as they are full of good drink. Whether or not you were alumni of the Bards College, you are a talented musician. You have a beautiful singing voice and familiarity playing the drums, lute, and flute. You can remember your notes and verses and aren’t half bad at flyting either. Any of the common bardic performances of the era are known to you, from Ragnar the Red to The Dragonborn Comes. This sort of skill could earn you a job in one of the noble households of the nation. At any rate, you’re excellent at singing so nobody would ever think of taking out a hit on you to silence your tunes.",
+    "source": "TES V - Skyrim"
+  },
+  "e43dfc0d-7965-5076-9138-a8d2e318aac9": {
+    "id": "e43dfc0d-7965-5076-9138-a8d2e318aac9",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee - Body Mod\n(Matthew Reilly)",
+    "name": "Call-sign",
+    "cost": 0,
+    "description": "You have a badass codename or radio call-sign like \"Scarecrow\" or \"Black Knight\", usually something short and sweet; and even better, you get to pick it – most have to suffer a call-sign picked by their peers. Feats of skill, daring, or even pure luck will quickly become attached to this call-sign, as will deeds of heroism, bloodthirstiness or notoriety, gathering a reputation that may precede you in certain circles. In new worlds, the gist of your reputation remains associated with your call-sign even if they don’t know specifically what you’ve done in other jumps (‘Scarface has a reputation for discretion’, ‘Talon can find anyone or anything and bring it back intact’). Obtaining this Perk will allow people to know about the Mechanic",
+    "source": "Matthew Reilly"
+  },
+  "40b29aa8-1b12-594a-aaed-25482989465b": {
+    "id": "40b29aa8-1b12-594a-aaed-25482989465b",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee (007)",
+    "name": "Legendary Wit",
+    "cost": 0,
+    "description": "You have a deadly repertoire of puns. It’s quite punishing, in fact. You can make a terrible death-related pun at the drop of a hammer, and they usually sound witty and wise at least at the time. You’re also always ready to come up with innuendos.",
+    "source": "007"
+  },
+  "1970abe7-a7ae-52e6-ad4d-f6cfa1eda806": {
+    "id": "1970abe7-a7ae-52e6-ad4d-f6cfa1eda806",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee (Dinotopia)",
+    "name": "Breathe Deep, Seek Peace",
+    "cost": 0,
+    "description": "The perk allows you to peacefully reconcile two dissonant cultures and create something new that brings out the best of both ingredients. It also makes it easier for you to adapt to new situations without needing to resort to violence.",
+    "source": "Dinotopia"
+  },
+  "128c7d0d-fe7b-5f89-b287-b8f8f8aa9070": {
+    "id": "128c7d0d-fe7b-5f89-b287-b8f8f8aa9070",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee (Dinotopia)",
+    "name": "Observe, Listen, and Learn",
+    "cost": 0,
+    "description": "By observing someone perform a task or skill, you gain an innate understanding of it, and can perform the same task or skill after a few tries. This does not grant any physical strength or endurance.",
+    "source": "Dinotopia"
+  },
+  "8674c370-133f-54f6-928d-312a27921066": {
+    "id": "8674c370-133f-54f6-928d-312a27921066",
+    "category": "celestrial_workshop",
+    "chapter": "Freebee (Warframe)",
+    "name": "Smug Ki'teer",
+    "cost": 0,
+    "description": "There is something to be said, about being calm and collected in the face of danger... then there's laughing at it. Whether it's selling some self-righteous animate soup can some amazing items you've dug up, or facing down an enemy who thinks so little of you, you can give off this air of confidence and smugness that can REALLY make folks question whether they were ever in control. As a bonus, the smiles you can pull off are absolutely infuriating. Perhaps they'll find out your secret at one of your next parties?",
+    "source": "Warframe"
+  },
+  "767ec490-83c2-522e-8504-44d3ac5a9eb8": {
+    "id": "767ec490-83c2-522e-8504-44d3ac5a9eb8",
+    "category": "celestrial_workshop",
+    "chapter": "Freebie (KSP)",
+    "name": "Do What I Tell You",
+    "cost": 0,
+    "description": "You could guide a man a thousand miles away through heart surgery over the phone. Or, say, a Kerbal several thousand miles away through a landing on the Mun. However, time-lag is still a thing to take into consideration, but careful preparation and planning can solve even that.",
+    "source": "Kerbal Space Program"
+  },
+  "f0787be4-1eb1-52b6-8595-e8b33e3a3a01": {
+    "id": "f0787be4-1eb1-52b6-8595-e8b33e3a3a01",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Blacksmith",
+    "cost": 0,
+    "description": "From the daggers of those who slink in the shadows, to the warhammers of legendary warriors, and from the light armor of those who value swiftness, to the heavy armor of those who value being able to take a hit. The equipment that people all across Tamriel use has to be crafted by someone. These people are the blacksmiths of Tamriel. The men and women who live by the forge, and create every weapon and armor that you might see all over Skyrim. You are now one of them. For the moment, You’re limited to creating the steel weapons and armor that most normal warriors in this land use, but you’ll find that you are able to figure out the kinks and traits of any new materials you encounter quickly. That said, you might not be able to work with particularly difficult materials, and sometimes a specially designed forge is needed, but just knowing how a particular material works can go a long way. You can’t use this knowledge to beat those legendary smiths who have a lifetime of experience in forging, but creating a strong foundation for your own ascension to becoming a legendary smith will come easy to you. You may even be able to improve on legendary artifacts if you become good enough at your craft.",
+    "source": "TES V Skyrim"
+  },
+  "cd0e2c59-d5f7-56cd-a35c-fa72c18d0953": {
+    "id": "cd0e2c59-d5f7-56cd-a35c-fa72c18d0953",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Engine-uity",
+    "cost": 600,
+    "description": "You are a top-grade mechanical engineer, capable of designing the vehicles of the intergalactic era. You can design and create engines capable of traveling for days on a few pints of fuel, or those that can handle a steamlight and a couple of gold nitros. Even tires that can handle that sort of wear and tear without breaking. Getting it built is another thing, but any mechanic who sees these designs will go weak in the knees at the genius, and sick at the thought of someone actually trying to drive it. If you decide to build it yourself and have everything on hand, you can get most designs built within 72 hours.",
+    "source": "Redline"
+  },
+  "25d0b42b-fbd4-5896-b1e0-e9609263406c": {
+    "id": "25d0b42b-fbd4-5896-b1e0-e9609263406c",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Fingers of Silver",
+    "cost": 200,
+    "description": "While other kids were building tinker-toy creations, you were fiddling with your dad's car and doing a better job than him. By purchasing this, meddling with machines and OverTechnology is as easy as breathing for you. By getting your hands on something, you can easily figure out how it works and how to copy its inner workings, provided that it wasn't just bullshit magic. The more advanced something is, the harder it may be... but with time and effort, you just might succeed.",
+    "source": "Macross"
+  },
+  "b5eb2bd0-e6b5-56e3-81eb-1e0d03a8195c": {
+    "id": "b5eb2bd0-e6b5-56e3-81eb-1e0d03a8195c",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Gadget Master",
+    "cost": 300,
+    "description": "You’ve been trained by Major Boothroyd at the skills of his job. You’re excellent at creating and maintaining gadgets of all types. You can miniaturize nearly anything, and hide things in forms that... really shouldn’t work. You can even make lasers! You’re also good at coming up with ideas for unusual methods of assassination; beheading umbrellas, flamethrower bagpipes, and the like.",
+    "source": "007"
+  },
+  "b1ca6b88-181a-545f-877e-8bfcfe85a673": {
+    "id": "b1ca6b88-181a-545f-877e-8bfcfe85a673",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Gadgetron Licence",
+    "cost": 600,
+    "description": "Okay, here we go. You know how to craft the various kinds of weapons and armours this jump is famous for. Anything from a blaster all the way up to a RYNO, you have a pretty good idea how to invent, make and maintain. Not just gadgetron, but megacorp tech is also fair game. You know it all, just please use this information responsibly. It’s pretty crazy.",
+    "source": "Ratchet and Clank"
+  },
+  "8b30e80b-07a3-524e-88e5-27cad2617d11": {
+    "id": "8b30e80b-07a3-524e-88e5-27cad2617d11",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Grease Monkey",
+    "cost": 300,
+    "description": "What can you fix or build? What CAN'T you fix or build? Nothing, that's what. From hyper-cars to Buma, computers to Hardsuits, with the right tools and enough time and experiments, you can build it all, weaponry included.",
+    "source": "Bubblegum Crisis"
+  },
+  "da6af3eb-83c4-541a-9215-8a927e77850c": {
+    "id": "da6af3eb-83c4-541a-9215-8a927e77850c",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Light of the Orokin",
+    "cost": 400,
+    "description": "Few have ever reached the innovation and technological prowess of the Orokin Empire... their gold and ivory exteriors hiding minds as sharp as steel. Likewise, the golden trim of their technology hid an advancement that continues to elude the majority of the System to this day. It eludes you no longer, the secrets of Orokin technology present in your mind. You'll be capable of augmenting technology significantly, increasing its capabilities at the same time and granting a durability that will last millennia. Perhaps in time, the secrets of the Warframe creation process will be yours to covet and yours alone, basked in the light of science and superior intellect.",
+    "source": "Warframe"
+  },
+  "5406cc20-7ce9-5978-8092-0d49b2e99e15": {
+    "id": "5406cc20-7ce9-5978-8092-0d49b2e99e15",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Mechanic",
+    "cost": 100,
+    "description": "Machines, especially ones that go fast, just speak to you. You have no problem fixing up and tuning any motor vehicle, and can rebuild them after the most devastating crashes.You can keep anything in top condition with just a few simple tools. Of course, you also need to understand the electronics, so hotwiring cars (and sometimes, alarm systems) is not a problem either.",
+    "source": "The Fast & the Furious"
+  },
+  "d55b8a39-f81f-5bba-923a-1840b1ff0349": {
+    "id": "d55b8a39-f81f-5bba-923a-1840b1ff0349",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "One Brilliant Bastard",
+    "cost": 400,
+    "description": "You've got one of the brightest minds in the entire galaxy rattling around in that skull of yours, absolutely stuffed with creativity, raw intelligence, and okay, yeah, maybe a little bit of insanity - but that's just the price you pay for being this good, kiddo. Every science in the universe humanity has developed, from Digistruct technology to Elemental Weapons? Mastered. Done. You can design guns that would make the entire Hyperion R&D department cry into their coffee, build robots, and A.Is that actually function like they have two brain cells to rub together, and don't even get me started on the really fun stuff. But here's the part that makes you genuinely terrifying: you're not boxed in by what's \"scientifically possible.\"",
+    "source": "Borderlands 2"
+  },
+  "5100df4c-1538-5827-b839-f437360989b4": {
+    "id": "5100df4c-1538-5827-b839-f437360989b4",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Outside Ingenuity",
+    "cost": 0,
+    "description": "You bring new ideas of science to Dinotopia that can help the island grow in new directions. You have a knack for creating new technology even in areas lacking industrialization using available resources. On the flipside, you can repair and modify old, forgotten technological relics, even ones that may have been abandoned for millennia.",
+    "source": "Dinotopia"
+  },
+  "cf51ed6f-31aa-5428-8324-c04c57b3eefd": {
+    "id": "cf51ed6f-31aa-5428-8324-c04c57b3eefd",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Over The Cutting Edge",
+    "cost": 400,
+    "description": "Your ingenuity at inventing cutting edge devices knows few bounds. Compact devices which deflect bullets via paramagnetic fields, bionic arms better than the original flesh, jetpacks so light and compact the wearer barely notices the extra weight, cloaking fields for fighter aircraft, plasma-based strategic warheads, and more now lie within your purview. There are no promises that these devices are quick to design or either easy or cheap to manufacture, but they will perform as required.",
+    "source": "Matthew Reilly"
+  },
+  "9e53d6bb-0b8b-58b3-9de0-454609435078": {
+    "id": "9e53d6bb-0b8b-58b3-9de0-454609435078",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Pieces of the Puzzle",
+    "cost": 200,
+    "description": "Everything is connected, and insights into tricky problems can come from unexpected places. You can pick a topic or conundrum that you wish to solve, and set it processing in the back of your mind. As you go about your day-to-day, insights will occasionally spring out to you, giving you the clues needed to put together the entire picture and solve the problem you are pondering.",
+    "source": "Control"
+  },
+  "e7300f3a-5ffd-5b43-a74f-f95277352ab7": {
+    "id": "e7300f3a-5ffd-5b43-a74f-f95277352ab7",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Superintelligence",
+    "cost": 300,
+    "description": "You are a genius, able to process and analyze vast amounts of information quickly and efficiently. You have a vast knowledge of various scientific, technological and mathematic concepts. Your ability to solve complex problems, create advanced technology and invent new devices is enough to earn you a tinker rating alone, much as Dragon did before triggering, though your work is just good engineering and eminently replicable, unless you make an effort to black-box it. You could give Tony Stark and Reed Richards a run for their money. However, while you can learn incredibly rapidly, sometimes your academic knowledge can outpace your lived experience.",
+    "source": "Worm Alternative Worlds"
+  },
+  "55d928a4-bac5-5d90-997b-42bf3c827a15": {
+    "id": "55d928a4-bac5-5d90-997b-42bf3c827a15",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Technical Training",
+    "cost": 100,
+    "description": "Not everyone knows how to make the nuts and bolts of the superspy game function. Fortunately for 007, you do. You’re a skilled armorer with normal weaponry, are a skilled researcher, and can tap phone lines and disable bombs with the best of them. Creating new gadgets of your own is not within your grasp, but you can certainly repair those others make.",
+    "source": "007"
+  },
+  "b0bfa4f9-b05e-5e78-8f1b-8fab69e8c665": {
+    "id": "b0bfa4f9-b05e-5e78-8f1b-8fab69e8c665",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "There IS A Method to Madness!",
+    "cost": 400,
+    "description": "Before you can build any Alcuibierre Drives, first, you'll have to master the technology necessary to get you to the point where you can actually use the damn things. Using this perk, you can choose a technological and/or scientific goal - say, 'Develop FTL Drives', and you'll know what you'll need to develop and study to move closer to that goal. This won't grant you proficiency at deciphering the secrets you'll need to unlock to achieve this goal, nor does it mean you'll be able to do so in a timely fashion, but it WILL move you in the right direction.",
+    "source": "Kerbal Space Program"
+  },
+  "5eb7a32f-bf93-5703-a173-ad192af4d1e3": {
+    "id": "5eb7a32f-bf93-5703-a173-ad192af4d1e3",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "Tinker, Tailor\nPersonal Gear",
+    "cost": 100,
+    "description": "You have a modest, but respectable Tinker talent, 4-5 on the PRT scale, specializing in personal gear.",
+    "source": "Worm Alternative Worlds"
+  },
+  "b0152694-6f29-5995-b62b-9529cc52d28a": {
+    "id": "b0152694-6f29-5995-b62b-9529cc52d28a",
+    "category": "celestrial_workshop",
+    "chapter": "Knowledge",
+    "name": "To Touch the Stars",
+    "cost": 0,
+    "description": "You walk within the shadows of giants, Jumper. But no longer are you at their feet – you rest on their shoulders, looking down at the expanse far below. Technology, both ancient and new, is much more easily understood by you. By disassembling and examining these devices, you will quickly gain insight into it that will let you reverse-engineer the technology in question, even using more common materials or methods to substitute for what may be an extinct method. It may not be a perfect imitation, and indeed some things may still elude your grasp, but enough time and effort will open an eternity of doors and possibility to you, Jumper. What is old will be new again.",
+    "source": "Metroid"
+  },
+  "db3f5dab-952b-5114-ba9c-2e136c1d73aa": {
+    "id": "db3f5dab-952b-5114-ba9c-2e136c1d73aa",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "And What Would This ‘Jumper’ Advise You To Do Now?",
+    "cost": 600,
+    "description": "You know that some must live and some must die. Hard choices have to be made on the battlefield, and entire platoons have to be coordinated properly to be used to their full effectiveness. You are now a master of both of these. You can quickly calculate the results of a choice in terms of strategy and tactics within seconds, and while you can’t see into the future, you’ll find your math tends to be spot on. You are also a capable leader at both the squad and the General level, able to coordinate small teams to large armies effectively, being a master tactician and strategist...and you will only perform even better with forces that admire or trust you in a strong capacity.",
+    "source": "Metroid"
+  },
+  "83a664dc-5311-5709-8196-88db16544a3f": {
+    "id": "83a664dc-5311-5709-8196-88db16544a3f",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Brothers (and Sisters) in Arms",
+    "cost": 0,
+    "description": "Thanatos’ scythe seversmore than the cords of mortal life. Bonds of friendship and family are often cast to the winds as both are separated due to the varying times between their deaths and the afterlives they have earned. Still, warriors of ages both past and present have learned that family is what you make it and not always who was born alongside you. Even if you don’t meet the guardsmen until you reach the afterlife, and even if some of them are a little more monstrous than most, you’ll find a way to connect with those you fight or serve alongside.",
+    "source": "Hades"
+  },
+  "c02a8a3a-59e6-53c5-bde5-8bd300ad5e69": {
+    "id": "c02a8a3a-59e6-53c5-bde5-8bd300ad5e69",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Formation Bravo",
+    "cost": 200,
+    "description": "You know what most people think when they hear 'war machine'? They think of efficiency. They think of training. They think of an organized, unified force bearing down on those who do not submit. It is time you became part of that machine, and for others to join you. The time it takes to practice combat formations and group fighting is significantly lessened, and the more you work with the same people the more effective your team fighting will become. It is time that you became the Machine.",
+    "source": "Warframe"
+  },
+  "6d0438c0-9c12-525f-9dc4-3b57e949c280": {
+    "id": "6d0438c0-9c12-525f-9dc4-3b57e949c280",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Forward Thinking",
+    "cost": 100,
+    "description": "Unfortunately, most soldiers and bounty hunters aren’t Samus Aran. You can’t simply blast your way through a problem and then somehow destroy the problem’s entire planet almost on accident. Instead, you must use what’s available to you. You have a perfect logistical sense of your current ammunition, supplies, and the status of any allies in your immediate presence. You also become better at coordinating small teams.",
+    "source": "Metroid"
+  },
+  "cee701c4-acd9-5bb5-bc61-18c13be9067d": {
+    "id": "cee701c4-acd9-5bb5-bc61-18c13be9067d",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Found Family",
+    "cost": 100,
+    "description": "One day, you're sitting on a bus next to a bunch of strangers who all look like they've made some deeply questionable life choices, and a few hours later, you're bleeding together, laughing together, and would probably die for each other without thinking too hard about it. You’ve got a natural gift for turning complete strangers into ride-or-die allies, especially the sort of people who probably shouldn’t be trusted with firearms, explosives, or basic decision-making. Be mercenaries, weirdos, or psychos, give it a little chaos and maybe a shared near-death experience, and suddenly you’re all a tight-knit crew who argue like siblings and shoot in the same direction. The really useful part is that the moment someone ends up on your side, you work together like you’ve been doing this for years. In a fight, you instinctively know where they’ll move, what they’ll do, and how to cover them. Funny how staring down the barrel of something that wants to eat you brings people together.",
+    "source": "Borderlands 2"
+  },
+  "1db47947-b9e9-5d63-875a-188a81337694": {
+    "id": "1db47947-b9e9-5d63-875a-188a81337694",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Into The Gates of Hell",
+    "cost": 400,
+    "description": "You have that special quality that makes you an inspiration to your fellow soldiers. You're not going to have people taking bullets for you from the first meeting, but fight alongside them, lead them, support them and stick your neck out for them, and for good or ill, your troops will do the same for you. Traitorous bastards notwithstanding, you will be able to count on their loyalty, obedience and support in truly extraordinary circumstances – and even the traitors might regret their betrayal.",
+    "source": "Matthew Reilly"
+  },
+  "8ccf50d9-908b-5901-a1ef-e323467e5480": {
+    "id": "8ccf50d9-908b-5901-a1ef-e323467e5480",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Leadership",
+    "cost": 100,
+    "description": "You possess the charisma and skills to lead a super-team. People are drawn to you. When you speak, others listen. When you act, they notice. Your ability to persuade others to your cause is unparalleled. If someone has vastly different beliefs it will be harder to recruit and manage them, but not undoable.",
+    "source": "Worm Alternative Worlds"
+  },
+  "a683d304-d464-5a30-a78b-454024fbfcf8": {
+    "id": "a683d304-d464-5a30-a78b-454024fbfcf8",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Loyality",
+    "cost": 100,
+    "description": "You support those who follow you, and they will support you in turn. You excel at inducing loyalty in those around you, and as long as they know you are working to help them, they will have a significant boost in courage as well.",
+    "source": "Control"
+  },
+  "db9e5e31-5f61-5865-89ed-d015e2194616": {
+    "id": "db9e5e31-5f61-5865-89ed-d015e2194616",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Peaceful Zen",
+    "cost": 100,
+    "description": "This has given you a unique perspective, letting you see the potential in others and how to foster it. But it also helps you understand why some would turn to the path of cruelty over the path of charity, accepting these outcomes with an open heart. They chose that path, and everyone is allowed to choose. You simply understand that with choice comes consequences, is all.",
+    "source": "Warframe"
+  },
+  "b8b2652e-f059-5307-9c7e-30fc33fa3ee1": {
+    "id": "b8b2652e-f059-5307-9c7e-30fc33fa3ee1",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Squad Up",
+    "cost": 200,
+    "description": "In a curious display of both danger and bravado, OSDTs believe that commanders should expose themselves to the same danger as their troopers are to have any influence among the rank-and-file. Leadership without competence is not to be tolerated, and so you have learned to rise up and earn your way to an officer’s role. Whether it’s a team of two or a team of fifteen, you are incredibly adept at leading and organizing them while keeping their strengths and weaknesses in mind. This combined with your leadership skills means not only will you have acute awareness of where your teammates are and what they’re doing with only a quick glance, but it also creates a synergy within your teammates that creates an almost preternatural ability to work together and fight in perfect sync. That’s what it takes to survive against the Covenant... as a bonus, you get an optional kanji tattoo that will command the immediate respect of subordinates should they see it.",
+    "source": "Halo - UNSC"
+  },
+  "5a08ac2e-1e90-5da1-963e-64086b67a221": {
+    "id": "5a08ac2e-1e90-5da1-963e-64086b67a221",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "Tactics",
+    "cost": 200,
+    "description": "Organizing a combat team to effectively combat a multi-national, multi-billion Megacorp with more military assets than most nations? Child's play. You gain mastery of small-team combat, allowing you to turn a few select individuals into a force that can challenge armies. This also gives you the knowledge necessary to support them - finding the best deals on military hardware, Operations Security, ect, ect.",
+    "source": "Bubblegum Crisis"
+  },
+  "b4755533-dffd-5273-b942-337a72a39d77": {
+    "id": "b4755533-dffd-5273-b942-337a72a39d77",
+    "category": "celestrial_workshop",
+    "chapter": "Leadership",
+    "name": "TEAMWORK",
+    "cost": 200,
+    "description": "You and your companions are really well coordinated. Almost supernaturally so. When a friend is in need of assistance, you'll start hearing instructions in a friendly voice, and by following their advice you'll find you somehow helped out a friend in need. All advice given will be the sort of thing you'd do anyway, had you known about their situation.",
+    "source": "Problem Sleuth"
+  },
+  "7d7716df-4e5e-5b9b-882b-0fde2d6d1b4f": {
+    "id": "7d7716df-4e5e-5b9b-882b-0fde2d6d1b4f",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Arm Cannon: Diffusion Missiles",
+    "cost": 0,
+    "description": "In addition to the already potent destructive power of a missile, these missiles can actually be ‘charged’ with energy from the arm cannon. When fully charged, the missile will explode in a ‘wave’ of the chosen energies in an expanding explosion, enough to cover an entire room. This is a powerful but dangerous area of effect weapon, and is best used when you want everything else in the room frozen/on fire/electrocuted/dead. As a bonus, this comes with blueprints for modifying the standard-issue missiles and different types of explosives you can use in tandem with them...or even fluids or biological agents, like ink.",
+    "source": "Metroid"
+  },
+  "da58bbcc-d5a9-5f66-bf1a-459174e5e8ed": {
+    "id": "da58bbcc-d5a9-5f66-bf1a-459174e5e8ed",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Arm Cannon: Gatling Mode",
+    "cost": 0,
+    "description": "The arm cannon becomes a fully automatic weapon, and while the Power Beam is even more diluted in this form, it’s also a little bit better at penetrating defenses mostly through the constant ‘taps’ of the attack on a single spot. Can be easily adapted to more primitive ballistic weapons, though you may not find much use for it here. Perhaps you’re a fan of the classics?",
+    "source": "Metroid"
+  },
+  "1bb048c7-2fe9-5581-8bdf-e9eb02ac4699": {
+    "id": "1bb048c7-2fe9-5581-8bdf-e9eb02ac4699",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Arm Cannon: Ice Beam",
+    "cost": 0,
+    "description": "It’s best to keep a cool attitude to this weapon. This freezes your weapon’s ‘bullets’ to extreme sub-zero temperatures, enough so that human-sized biological beings that are unfortunate enough to be caught in its blast will be frozen solid almost immediately. The freeze won’t last too long on its own, but often just long enough to shatter a poor foe into pieces with a well-placed missile. This is the principal weakness of Metroids, and as such is a very important weapon if you plan on dealing with such creatures.",
+    "source": "Metroid"
+  },
+  "db45251c-6175-5000-bac0-ad6abb00ec7a": {
+    "id": "db45251c-6175-5000-bac0-ad6abb00ec7a",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Arm Cannon: Missiles",
+    "cost": 0,
+    "description": "A Power Beam isn’t always going to cut it, especially against foes resistant to simple energy shots. That’s what this secondary weapon is for. While limited in ammunition and requiring reloads, missiles are exactly what they sound like – anti-personnel and even anti-vehicle explosive weapons designed to ruin someone’s day. They can be fired instantly and explode on contact in a lovely little ‘boom’.",
+    "source": "Metroid"
+  },
+  "a10e2d58-d4d8-564a-a034-aeb2492b8482": {
+    "id": "a10e2d58-d4d8-564a-a034-aeb2492b8482",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Data Crystal Port",
+    "cost": 0,
+    "description": "When the Mark V for the MJOLNIR Powered Armor was introduced, the inclusion of a data port was one of the biggest advances of the time. Not only for the sake of connecting to and downloading data, but also to host an A.I. and allow them to optimize the armor’s performance. It was a true achievement by Dr. Halsey, and influenced power armors to follow. This option is much the same, allowing you to slot in an A.I. of your choice to help review, control, and optimize the functions of your suit while helping augment the data flow between your mind and the suit itself.",
+    "source": "Halo - UNSC"
+  },
+  "d72473a1-7f75-5a2c-8456-6050d4cb0fd6": {
+    "id": "d72473a1-7f75-5a2c-8456-6050d4cb0fd6",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Energy Shielding",
+    "cost": 0,
+    "description": "Arguably the largest advantage that the Covenant has over Humanity is the utilization of energy shields to grant truly empowering defenses upon their ships and their Sangheili ground troopers. With it, a single ship could destroy three UNSC warships and a Sangheili could erase squads of humans. It is why this option is considered extremely useful, reverse-engineered from Kig-Yar Point Defense Gauntlets. Essentially a field of energized particles that’s wrapped around the user, it deflects objects that attempt to impact the surface while being close enough to the wearer that they can still manipulate objects like weapons. This variant is relatively durable against plasma weaponry, sustained fire can bring it down quickly and require the wearer to hide somewhere to let it recharge.",
+    "source": "Halo - UNSC"
+  },
+  "dac4ef21-9c49-5d86-b818-033d3abaf818": {
+    "id": "dac4ef21-9c49-5d86-b818-033d3abaf818",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Gravity Upgrade",
+    "cost": 0,
+    "description": "Deep underneath the ocean? On a planet with an extremely strong gravitational pull? Otherwise at risk of being crushed by an enormous amount of pressure? Not to worry! This suit upgrade creates an isolated gravitational field around the user, which reduces the effects of both kinetic force and outside pressure. In short, you can walk through liquids just as easily and fluidly as you could on the surface, and planets with absurdly powerful or weak gravity will have no effect on you. In short, the effects of pressure and force have a mitigated or nonexistent effect on the user of the Power Armor. This also lets you adjust the personal ‘gravity’ of the suit as well, as long as SOME form of gravity exists near them. As a bonus, damage from ‘impact’ based weapons or things relying on kinetic force do less damage to the user. If one has the Varia upgrade it enhances the temperature protection allowing one to travel through lava or near-absolute zero temperatures, but still not survive absolute zero or deep into a star.",
+    "source": "Metroid"
+  },
+  "c8dc586a-ee2f-54a2-ac68-506606c141d4": {
+    "id": "c8dc586a-ee2f-54a2-ac68-506606c141d4",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Heads-Up Display",
+    "cost": 0,
+    "description": "When data is being presented it’s to make sure that you can see it without it obstructing your view from anything that’s too important. You know, things like that wave of suicide Unggoy running at you with plasma grenades lit up screaming about their holy ways. That’s why the data needs to be presented in adequate terms while keeping your vision clear for you to eye up what’s in front of you, and that’s where this software comes in. Automatically organizing relevant data like general health, energy levels, and ammunition stores while linking into other databases you may have access to, it also ensures that the data won’t block your view so you can turn that suicide charge into a fireworks show. On them, of course.",
+    "source": "Halo - UNSC"
+  },
+  "893a206d-7d70-565c-a12f-3fdab586d816": {
+    "id": "893a206d-7d70-565c-a12f-3fdab586d816",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Intel Connection",
+    "cost": 0,
+    "description": "The short version of this is that your armor is now capable of communicating with a network. Or as some humans would say, ‘you have wi-fi’. Your armor can mentally access the Internet or any public equivalent with a thought, and gives you something to do on slow exploration days. Has a planetary range and can be toggled at will. The armor automatically filters out all viruses, though try not to be distracted by pictures of your favorite bounty hunter when you’re seconds away from entering a firefight.",
+    "source": "Metroid"
+  },
+  "83c998e3-e569-5c3e-a5df-0d5677b1dd35": {
+    "id": "83c998e3-e569-5c3e-a5df-0d5677b1dd35",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Memory Storage Unit",
+    "cost": 0,
+    "description": "Powered armor is often sent behind enemy lines, and that is because powered armor is often worn by a SPARTAN-II soldier. As such it can become imperative that any relevant data or enemy intel is captured and sufficiently stored to be brought back to allied territory in the event that it cannot be transmitted out. This miniaturized crystalline hard drive installed within the armor is useful for such things, allowing camera recordings and stolen data to be dumped into it to be sorted later. It has a storage size of hundreds of terabytes, which you should hopefully find useful for collecting as much as you can. It is discouraged by every UNSC branch to use this as a music storage device.",
+    "source": "Halo - UNSC"
+  },
+  "57716326-d235-5966-8729-884519576e09": {
+    "id": "57716326-d235-5966-8729-884519576e09",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Motion Tracker",
+    "cost": 0,
+    "description": "One would think that something like this would be installed as a default software upon every single armor the UNSC could field. Alas, it seems to be reserved for the more powerful units. Utilizing a quantum mirror to sense and seek other enemies, this device is capable of sensing the motion of allies and enemies up to a range of twenty-five meters around you along with giving a generalized size in comparison to you. This variant can distinguish between what is a vehicle, navigation point, or infantry and will designate different symbols to assist in giving you proper intel.",
+    "source": "Halo - UNSC"
+  },
+  "26630afa-973f-501a-b2fa-e5a87fa00f1d": {
+    "id": "26630afa-973f-501a-b2fa-e5a87fa00f1d",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Nano Repair System",
+    "cost": 0,
+    "description": "While Life Tanks do a wonderful job of repairing the armor and the wearer, it can be a little annoying to constantly have to maintain it and clean up after a long battle. Wear and tear has an annoying habit of ruining that particular look you want to go for. Luckily, this ‘dumb’ nanomachine system has you covered. Whenever your armor is chipped or physically damaged, or even if the paint is scratched somehow, this sub-system will work to both clean and maintain your power armor. This means that you won’t have to actually do the hygienic work or constantly keep your armor maintained yourself. That said, this isn’t programmed for battlefield use, and won’t really speed up your healing ability or Life Tank use in any fashion – it is good for looking nice and keeping the armor together for those who can’t be bothered to do it manually.",
+    "source": "Metroid"
+  },
+  "b505e72c-8f6b-5475-85c4-3540f243c794": {
+    "id": "b505e72c-8f6b-5475-85c4-3540f243c794",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Slide Actuators",
+    "cost": 0,
+    "description": "Imagine that all that could stand between you and absolute death is that obstacle that was in front of you, a barrier that could block that fuel rod shot heading towards you. You’d want to get there as quickly as you could, right? All that armor is heavy, however... you’d need some way to boost yourself. Specially installed into the legs and the torso of the armor, these actuators detect when the wearer is going to make a dive or attempt to slide into a bunker and aids the movement of the suit in order to close the gap at an accelerated speed to ensure survival. It might not seem like much, but closing a gap like that could make all the difference.",
+    "source": "Halo - UNSC"
+  },
+  "970dbfab-ee58-569c-a859-1bbf203e04f0": {
+    "id": "970dbfab-ee58-569c-a859-1bbf203e04f0",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Spider Ball",
+    "cost": 0,
+    "description": "The Swim Form can now magnetically attach itself to any metallic surface while remaining in motion. The uses for this strange form are now a bit less confusing – you can access any building this way, if you play your cards right.",
+    "source": "Metroid"
+  },
+  "2629dcb6-8fbf-5cf6-8d3f-b4582756e466": {
+    "id": "2629dcb6-8fbf-5cf6-8d3f-b4582756e466",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Technician Upgrade",
+    "cost": 0,
+    "description": "Where Humanity and the UNSC goes, they bring their technology with them. It’s lead to the proliferation of machinery and ease of life. But what happens if you’re in a spot where you can’t easily access a battlenet? Then all your fancy toys might as well be worth the materials they were built out of for all it matters. The higher-ups recognized this risk and so have created this integration of data servers that allows your armor to act like a mobile diagnostic center. In essence, you’re a battlenet node that allows allies to access and distribute intel as needed while boosting a powerful broadband signal to let you coordinate an entire battlefield by yourself. While a warship in orbit is preferable, you would be a close second with this option.",
+    "source": "Halo - UNSC"
+  },
+  "c678e77f-2a47-5f34-bc65-a8350cf60841": {
+    "id": "c678e77f-2a47-5f34-bc65-a8350cf60841",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade",
+    "name": "Varia Upgrade",
+    "cost": 0,
+    "description": "There are plenty of dangerous and unwelcome environments in the galaxy, some of which can make short work of even basic Life Support Systems. Luckily, your armor has picked up the Varia Suit upgrade. The Varia System creates an isolated temperature environment for the user in addition to the base Life Support systems, and the wearer can travel in locations like volcanic caverns or the nighttime arctic in relative comfort without their armor, its equipment, or self suffering adversely for it. The internal temperature of the user’s body can even be adjusted at will. That said, this protection is not absolute – swimming in magma or taking a swan dive into a star is still a bad idea. In addition to this environment protection, heat or cold-based attacks are less effective against the armor.",
+    "source": "Metroid"
+  },
+  "5ed508eb-d629-5296-82ce-5460f897ed5a": {
+    "id": "5ed508eb-d629-5296-82ce-5460f897ed5a",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade\n(Required before ME2)",
+    "name": "Re-Entry Shielding",
+    "cost": 0,
+    "description": "It sure would be nice if you could land on a planet without splattering into a bloody red smear on the ground. At least, if you were coming in from high orbit. There’s just a few problems like friction from entering an atmosphere, and slowing down once you got inside. Such petty things shouldn’t keep you down, and so this integration of technology was implemented to incorporate a drag chute and specialized machinery to handle the intense heat generated from the journey down. One might question the wisdom of simply throwing oneself down, but then one must realize the benefit of moving with as small a window for detection as possible. Plus there’s stories on making wishes upon a shooting star... maybe you’ll grant someone’s wish when you land.",
+    "source": "Halo - UNSC"
+  },
+  "51bcce03-4c80-534d-b649-39e756ecd491": {
+    "id": "51bcce03-4c80-534d-b649-39e756ecd491",
+    "category": "celestrial_workshop",
+    "chapter": "OPA Upgrade\n(Required before ME2)",
+    "name": "Vacuum Pressure Seal",
+    "cost": 0,
+    "description": "Being spaced can suck no matter where you are or what the situation is. The temperature is horrible, there’s the issue of cosmic radiation, and unless you’ve got some kind of movement system going on you’re more or less at the mercy of momentum and any stupid mistakes you happen to make. It’s because of these reasons that living long enough to turn the situation around or contemplate just how badly you fucked up is something of an important requirement for the higher-end armors. This upgrade not only ensures your armor is completely sealed up and keeps the internal pressure at a proper level, but it also comes with an advanced air tank that can hold ninety minutes of air. More than enough time to make peace with whatever god you worship if you’re tumbling into deep space as a result of your failures.",
+    "source": "Halo - UNSC"
+  },
+  "d3a7fcd4-2841-5ba7-9dcd-fba5ae114db6": {
+    "id": "d3a7fcd4-2841-5ba7-9dcd-fba5ae114db6",
+    "category": "celestrial_workshop",
+    "chapter": "PLM Reward",
+    "name": "Parautilitarian",
+    "cost": 0,
+    "description": "You are now a ‘parautilitarian’, a person with sufficient mental power to be able to link to Objects of Power and utilize their abilities. Even without linking, you will gain a vague empathic sense for the emotions of those around you, and strong but unfocused telekinetics, which can mainly be used to execute a force telekinetic shove or push. Your main ability will be the ability to link to Objects of Power, forming a connection that can allow you to borrow their abilities, which can range from levitation to mind control and more. In future Jumps, objects with strong supernatural powers or links to the combined human subconscious can be treated as Objects of Power and bound for abilities as well. Upon binding an object, you can be transported to a temporary mental space, where you can go through a brief ‘tutorial’ on how to use the object’s power.",
+    "source": "Control"
+  },
+  "0e466c38-6a68-580d-b6c6-374a7f193308": {
+    "id": "0e466c38-6a68-580d-b6c6-374a7f193308",
+    "category": "celestrial_workshop",
+    "chapter": "Resources",
+    "name": "Loot Goblin",
+    "cost": 100,
+    "description": "Let's be honest: if there is a reason you are here, it's certainly for the cool shiny loot. Any being you kill now has a chance of dropping items you can loot, and the stronger your enemies are, the more spectacular the haul. A random bandit might drop a useful health syringe, a pile of money, or a trash Tediore gun that you'll throw away in twenty minutes. The heavily armored mutant monster you just barely survived? It might drop a very rare gun or even an alien artifact with some pretty good buffs. And it only gets better the higher you climb - raid bosses, Vault monsters, ancient Eridian constructs that were old before humanity figured out fire - all of them are just piñatas waiting for someone with enough guts and enough bullets to come along and crack them open. On top of all that, your enemies will also involuntarily drop whatever they personally value most: Hyperion engineers part with their bank passwords, loader bots shed their core processing chips, and bandits, for reasons nobody has ever been able to satisfactorily explain, consistently drop lewd pictures of Moxxi. Don’t judge them, it’s not like the developers remembered to add any bandit women.",
+    "source": "Borderlands 2"
+  },
+  "44bce166-6b56-5d00-b643-f0b6791d7191": {
+    "id": "44bce166-6b56-5d00-b643-f0b6791d7191",
+    "category": "celestrial_workshop",
+    "chapter": "Resources",
+    "name": "Unlimited Resources",
+    "cost": 300,
+    "description": "​Any time you enter an area, the resources in it just seem to infinitely respawn. Mine through an entire mountain? Well just wait till tomorrow for it to all come back. If you wish you may pay 300 CP for this effect to carry on elsewhere with the ability to turn it on and off. If it can't be mined, or harvested from a widespread source this doesn't work. One of a kind materials are also out.",
+    "source": "Ark: Survival Evolved"
+  },
+  "d219907c-ab45-5ec6-b785-334f0fa45469": {
+    "id": "d219907c-ab45-5ec6-b785-334f0fa45469",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power Limiter",
+    "name": "Special Charge Unlock",
+    "cost": 600,
+    "description": "You have a special ability. Well… maybe not special in this world, but outside it will be. In this world, painting turf charges up your Special, a very strong ability that can easily shift the tides of battle if used correctly. By doing some sort of easy task in future competitions, you also will start building up this special charge. Now, it still takes time, so very short competitions may finish before it’s charged. And you can’t stack specials, so once you have one charge you can’t get another until you use the first one. That being said… it’s a very powerful attack or ability, and it’s pretty easy to charge. You can change what exactly the special ability is during any sizable bit of calm and downtime With this perk, the Special Power of Music branch is unlocked for you",
+    "source": "Splatoon Series"
+  },
+  "4bb660fa-26d0-573b-b19b-af991ffb4f8e": {
+    "id": "4bb660fa-26d0-573b-b19b-af991ffb4f8e",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Artist: Musician",
+    "cost": 100,
+    "description": "You gain an innate talent in making music.",
+    "source": "Alan Wake"
+  },
+  "1805ed59-96fd-5518-8280-f5dc5fdd15f9": {
+    "id": "1805ed59-96fd-5518-8280-f5dc5fdd15f9",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Calling",
+    "cost": 200,
+    "description": "You hear the world like a soundtrack and can listen to it for clues (whether the song is happy or sad, suspenseful or soothing; whether a character’s theme is being played in a major or minor key, etc). If someone calls your name, you can hear it from anywhere so long as you are in the same city or locale. Also, you can teleport anywhere in your city so long as you both start and end inside its borders, appearing as though you’d been there all along.",
+    "source": "Neo TWEWY"
+  },
+  "8d1960c0-7c22-5568-9d4f-b367ed46333f": {
+    "id": "8d1960c0-7c22-5568-9d4f-b367ed46333f",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Children of the Ender Gods",
+    "cost": 600,
+    "description": "You cain additional power the more epic the showdown you have with your enemies! Declaring a challenge to a rival gives a small boost, but fighting off hoardes of enemies on a stage while rock music is blaring gives you a significant power boost.",
+    "source": "Alan Wake"
+  },
+  "7aa8a3bf-93ea-58d3-88be-17275a228676": {
+    "id": "7aa8a3bf-93ea-58d3-88be-17275a228676",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Former Winner",
+    "cost": 0,
+    "description": "You’ve already died, won the Reaper’s Game, and were given a second chance at life. The experience has encouraged you to keep an open mind, making it easier for you to spark up new friendships and to deepen the ones you already have. Your skills and talents have matured and you’ll find that their results are much more successful than they were before, with far-ranging consequences. Things you make or produce quickly become famous, and whatever themes or thought you put into the design will be taken up and spread throughout the populace. You can’t guarantee anyone will take these themes in the way you meant or react the way you want them to, but your motifs will influence society on a broader scale. Also, you’ve developed empathy for people who have made it through extraordinary circumstances. You find it easy to bond with people who’ve been through things no one else would believe, and can convince them that, whatever it is they’ve survived, you’ll believe them when they tell you about it.",
+    "source": "Neo TWEWY"
+  },
+  "5dedca6d-58dd-5fb6-9977-7471c1f448c1": {
+    "id": "5dedca6d-58dd-5fb6-9977-7471c1f448c1",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Gamersmith",
+    "cost": 100,
+    "description": "You have access to a video game-like crafting system. Mental blueprints for any item you commonly use or know how to assemble. Just assemble the raw materials and make your wishes clear, and it will instantly be built, even large structures.",
+    "source": "Worm Alternative Worlds"
+  },
+  "37e92f81-6af4-5158-b1b8-887c59c9dc41": {
+    "id": "37e92f81-6af4-5158-b1b8-887c59c9dc41",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Grasshopper.2",
+    "cost": 100,
+    "description": "You now have a full soundtrack following you around, and always themed to you as a person so the playlist will sometimes swap in and out. In addition, this upgrades your boss theme- to you it sounds badass and may be one of your favorite tunes. To everyone else, it has the added effect of helping them see and understand who you are- your soul put into a CD player, in other words.",
+    "source": "No More Heroes"
+  },
+  "22f5ceea-2712-514d-8afa-61f5582b3dfb": {
+    "id": "22f5ceea-2712-514d-8afa-61f5582b3dfb",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Idol",
+    "cost": 300,
+    "description": "Whether in a back-dive bar or on stage in front of millions, you've the passion, energy, creativity, charisma and voice to be a famous musical icon. The ability to inspire undying loyalty is typically a useful ability outside the stage, as well.",
+    "source": "Bubblegum Crisis"
+  },
+  "826b1c7f-6e81-5f7b-8ddb-1574016c373e": {
+    "id": "826b1c7f-6e81-5f7b-8ddb-1574016c373e",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Music Meister",
+    "cost": 0,
+    "description": "So not only can you sing well, but you can play your instruments REALLY DAMNED GOOD. You have the coordination to keep your singing up and play any instrument with supernatural skill so long as you don't need to breathe into it. Seriously, whether running or jumping or dancing, you can play your instrument flawlessly. You're also fairly certain that if you altered the controls for a vehicle, you could drive it around with the power of music.",
+    "source": "Macross"
+  },
+  "fe5a8759-dedd-5a46-9e08-63cea4599f43": {
+    "id": "fe5a8759-dedd-5a46-9e08-63cea4599f43",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Orpheus' Apprentice",
+    "cost": 200,
+    "description": "No one sings a sweeter, sadder song than the legendary musician Orpheus. His tale is one of heartache that has only added a depth to his music. During his life, or perhaps sometime during his afterlife as the court musician of the House of Hades, he spent no little time training you in the voice, the lyre, and letting your emotions flow through your song. Your singing voice is truly excellent and your fingers are talented enough with the lyre to elicit tones few can match. Additionally, your music has the ability to reach even the greatest of immovably cold souls with their emotion should you desire it.",
+    "source": "Hades"
+  },
+  "38d1bd13-34ce-58dc-a1b7-8713820b5a97": {
+    "id": "38d1bd13-34ce-58dc-a1b7-8713820b5a97",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Power of Music:",
+    "cost": 0,
+    "description": "To be a bard without an instrument to accompany you would be a tragic fate indeed. Here you have an item passed down through at least seventeen generations. Perhaps not within your family, but the precious instrument is quite ancient all the same. It has some historical significance that gives you bragging rights. Perhaps rumoured to be able to make the dead dance, or was used for war-songs in dozens of famous battles, it may be the very first instrument of its kind. Outside of the historical value, it is a fine example of its type of instrument. If you choose something you have no skill in playing, the Bard’s College will surely provide you with a heavy bag of septims for this contribution.",
+    "source": "TES V - Skyrim"
+  },
+  "19a2ebdf-826c-54a3-a17d-74fe4ef458db": {
+    "id": "19a2ebdf-826c-54a3-a17d-74fe4ef458db",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Pulse Pounding Beats",
+    "cost": 50,
+    "description": "You have the option of a diegetic soundtrack. Media devices can spontaneously start playing appropriate music for your awesome feats whenever you feel like it. This effect is optional, and merges seamlessly with other audio effects. Random passerby may spontaneously break out into freestyle or supplement your background track with UNTZ UNTZ UNTZ.",
+    "source": "Redline"
+  },
+  "dbe8d11e-a53a-56ed-aded-de47579c7408": {
+    "id": "dbe8d11e-a53a-56ed-aded-de47579c7408",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Shattered Limiter",
+    "cost": 400,
+    "description": "The factors restraining your powers are gone. Your growth is explosive, such that your powers will double in strength each year if you spend your time channel-surfing, half that if you spend the time in actual intense training and combat. Your powers refuse to be kept in check, and cannot be suppressed. If your powers involve a fixed number of slots, charges or lives, double the starting number, and add one (one a day for charges) each time your power ‘doubles.’",
+    "source": "Worm Alternative Worlds"
+  },
+  "bda06c08-9f37-5ce7-9cd9-1bf28b6a2b37": {
+    "id": "bda06c08-9f37-5ce7-9cd9-1bf28b6a2b37",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Soundsurf",
+    "cost": 300,
+    "description": "You've got a beat in your heart and a city at your feet, and you've mastered a way of getting around that uses both those things. If you time parkour tricks or dancing flourishes to the world’s soundtrack while you run, you'll get a little burst of sparkles at your feet, along with a small speedboost and some charge. If you enter a fight with that charge (it dissipates when you stop moving), you'll add a little extra oomph to your attacks. It won't be a lot, but it might still be enough to convince you to run a couple laps before your next battle.",
+    "source": "Neo TWEWY"
+  },
+  "cf7b09d0-c349-55cc-b50e-0ff02c89269f": {
+    "id": "cf7b09d0-c349-55cc-b50e-0ff02c89269f",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Strong Lifeforce",
+    "cost": 0,
+    "description": "Your powers cannot be copied, drained, suppressed or stolen. Any attempt to drain your lifeforce or rapid-age you would feel successful, but fail.",
+    "source": "Worm Alternative Worlds"
+  },
+  "0bf9ed1c-1cd2-59a0-b388-13ff974986d9": {
+    "id": "0bf9ed1c-1cd2-59a0-b388-13ff974986d9",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Theme Music",
+    "cost": 50,
+    "description": "You can enhance your abilities by listening to music. A fast, upbeat song might give you a boost to strength or speed while playing. A slower song might enhance healing or tinkering or plotting. Experiment with different genres, each boost lasts only as long as the music is playing.",
+    "source": "Worm Alternative Worlds"
+  },
+  "241f18fa-929a-59d4-93a5-75d0983ec1d4": {
+    "id": "241f18fa-929a-59d4-93a5-75d0983ec1d4",
+    "category": "celestrial_workshop",
+    "chapter": "Special Power of Music",
+    "name": "Throat of the World",
+    "cost": 0,
+    "description": "This gift is believed to have been originally granted to Nords by the goddess Kyne. It is Thu’um, or Storm Voice. Those who wield this power are called Tongues. The Greybeards are an honoured ancient order at High Hrothgar who meditate upon the Thu’um. This lifestyle and teachings they focus on is known as the Way of the Voice. Through it you can read and write Dovahzuul, the language of the dragons. Some of these words of power you grasp clearly and can form into shouts. In your time you have come to understand several of these words which can enact powerful results, especially in certain combinations. While nothing compared to the unrelenting force a Dragonborn can wield, your deeper understanding and human mind may allow you to devise new combinations of words. The most powerful Tongues must be careful when they speak, lest their words alone bring danger to others. But your Thu’um is precise and you will never find it causing destruction without your intention.",
+    "source": "TES V - Skyrim"
+  },
+  "166f7a7c-3be4-501e-b618-636089318118": {
+    "id": "166f7a7c-3be4-501e-b618-636089318118",
+    "category": "celestrial_workshop",
+    "chapter": "Tools",
+    "name": "Basic Maintenance",
+    "cost": 100,
+    "description": "You know how to modify, repair, and maintain a racing vehicle. You can swap out and attach weapons, change the oil, and fix your machine from nearly any condition, provided you have the parts and tools. If you put the work in, your car or other vehicles will always be in tip-top condition the day of the race.",
+    "source": "Redline"
+  },
+  "cd187cec-9312-5d4f-84c5-c963ad36ae26": {
+    "id": "cd187cec-9312-5d4f-84c5-c963ad36ae26",
+    "category": "celestrial_workshop",
+    "chapter": "Tools",
+    "name": "Forge of God",
+    "cost": 600,
+    "description": "​A pride of a creator is his work, because of that we can’t really have any of your work getting roughed up right? With this all of your creations will last the test of time. A steel pike will never rust, dull, or break, things such as generators can run forever using only one tank of gas. Truly your creations are worthy of praise.",
+    "source": "Ark: Survival Evolved"
+  },
+  "647f8dd9-7114-5a51-b0a2-f29eb415fdda": {
+    "id": "647f8dd9-7114-5a51-b0a2-f29eb415fdda",
+    "category": "celestrial_workshop",
+    "chapter": "Tools",
+    "name": "Percussive Maintenance",
+    "cost": 100,
+    "description": "Sometimes all that a machine really needs is to be hit with a wrench really hard. If you hit a machine with a wrench really hard, more often than not it will work again, depending on how broken it was in the first place.",
+    "source": "CATastrophe"
+  },
+  "5c0fedeb-ca3d-5c5d-9143-3b645c879c78": {
+    "id": "5c0fedeb-ca3d-5c5d-9143-3b645c879c78",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrade",
+    "name": "The Car: Fast, Import",
+    "cost": 100,
+    "description": "A modifier for the Space Fam to allow it to be fast",
+    "source": "Redline"
+  },
+  "7688d9fb-bc0a-588d-9f63-12599b229eb3": {
+    "id": "7688d9fb-bc0a-588d-9f63-12599b229eb3",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrade",
+    "name": "The Car: Hover-Jets",
+    "cost": 100,
+    "description": "Allows the Space Fam to use hover-jets. This replaces \"Nearly Unpoppable Tires\", and maks for a much smoother ride",
+    "source": "Redline"
+  },
+  "999eada5-d2c3-5d98-a39b-f1c1c0287d2c": {
+    "id": "999eada5-d2c3-5d98-a39b-f1c1c0287d2c",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrade",
+    "name": "The Car: TRZ-Airmaster",
+    "cost": 200,
+    "description": "A rare and out of production engine, you managed to secure one for your vehicle. Outweighing most small cars, this many-cylinder beast has cylinders with eighty-millimeter bores and puts out thirty-five-thousand horses. It doesn’t get any badder. It's also the onlyengine capable of handling 3 Gold Nitros and a Steamlight without being completely destroyed, unlike the rest of your vehicle at that point.",
+    "source": "Redline"
+  },
+  "005cb412-c409-58d3-9dc0-e8506cdb6f2e": {
+    "id": "005cb412-c409-58d3-9dc0-e8506cdb6f2e",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Advanced Slipspace Drive",
+    "cost": 0,
+    "description": "The Shaw-Fujikawa Translight Engine finally allowed Humanity access to faster-than-light travel in the form of Slipstream Space, and thus opened their path to the stars themselves. This device works by creating ruptures in between normal space and Slipspace while surrounding the ship in a quantum field to protect them from the dangers of the alternate dimension. The engine itself does not propel the vessel through Slipspace however; it relies on the engines to do so. The more powerful the traditional propulsion of the ship, the faster it goes. Not only does this variant give much greater accuracy to within a second of expected arrival time and within a kilometer of expected destination, but it’s also much faster than regular UNSC Slipspace engines to the point of being on par with Covenant models. This right here is a game changer.",
+    "source": "Halo - UNSC"
+  },
+  "b5c19165-149e-58fc-877f-c1c96b7762d7": {
+    "id": "b5c19165-149e-58fc-877f-c1c96b7762d7",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Aspect of Jumper",
+    "cost": 200,
+    "description": "The Infernal Arms used by the Gods to defeat the Titans were unique for more reasons than simply their strength and destructive power. They were weapons without form until the first divinity picked themup, gifting them with their Aspect. That is their true strength. Each individual who picked them up from that point on saw the Infernal Arm shift, morph, and change to better suit their unique essence. Sometimes drastically, sometimes subtly. Rather than embed that malleability into a single weapon, you yourself possess it instead. Weapons of all stripes that you wield will slowly alter themselves to better suit your temperament, your fighting style, your unique Aspect. Sometimes this means they will gain new abilities. Sometimes it may simply be a tweak to the weight distribution. Only time will tell what the weapon in your hands will become.",
+    "source": "Hades"
+  },
+  "38cc378d-cc33-5801-877a-c8e2c3d9c1ad": {
+    "id": "38cc378d-cc33-5801-877a-c8e2c3d9c1ad",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Escape Pods/Life Boats",
+    "cost": 0,
+    "description": "While going down with the ship is often seen as an honorable act so that the Covenant do not gleam anything useful from your mind, that doesn’t always have to be the case with everyone else. What if you’re transporting some VIPs or you want the rest of your crew to survive? Don’t make the same mistake as the ships of old. This gives your ship a slew of escape pods and lifeboats dotted all along the vessel, allowing the whole crew to evacuate on a moment’s notice if something goes wrong. It could be a lifesaver.",
+    "source": "Halo - UNSC"
+  },
+  "6cbdfff6-517b-531a-8d05-36464b6525f5": {
+    "id": "6cbdfff6-517b-531a-8d05-36464b6525f5",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Food Supply",
+    "cost": 0,
+    "description": "Even the mighty SPARTAN soldiers need to eat. Humans are not machines, nor are they A.I. that can go entire years without anything beyond the electricity needed to function. Food is required. Most vessels will come with a mess hall or a few packages of food for the crew to obtain sustenance with, but it’s primarily just to ensure the crew gets all of their required nutrients and calorie intake so that they can keep doing what they need to do. Simple, yet effective. This is upgraded to account for luxury meals that one might find in a high-class restaurant on Earth somewhere, or a bountiful feast during one of the lavish celebrations on Harvest. Costly and high on resources, yes. It’s also a huge morale boost for anyone serving on the ship, too.",
+    "source": "Halo - UNSC"
+  },
+  "045c5bfa-7745-5908-b157-1638584e851c": {
+    "id": "045c5bfa-7745-5908-b157-1638584e851c",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Life Support System",
+    "cost": 0,
+    "description": "People need air to breathe. There’s just no way of getting around this, as even the mighty SPARTAN soldiers have an air requirement. That’s why every ship has air scrubbers and environmental control so that not only can you keep a stable atmosphere going but also to stay comfortable while on these long journeys as well.",
+    "source": "Halo - UNSC"
+  },
+  "ca554145-fe69-5392-b018-2e78ed4120b1": {
+    "id": "ca554145-fe69-5392-b018-2e78ed4120b1",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "M910 Rampart Point Defense Network",
+    "cost": 0,
+    "description": "Even with the Covenant fielding large capital ships and energy weapons, they still have fighters. They still use torpedoes. ...and there’s still the matter of the Insurrection remnants that still wish to cause trouble among the UNSC.As a result, point defense is still important. Twin barrels, these turrets pack 105mm rounds rounds and will work off of a ship’s scanners to attack any incoming targets like enemy fighters or approaching projectiles, including oncomming missiles, to keep the ship safe.",
+    "source": "Halo - UNSC"
+  },
+  "76aa63a4-c6b1-5d83-b046-0a6e231f3c3d": {
+    "id": "76aa63a4-c6b1-5d83-b046-0a6e231f3c3d",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Medical Bay",
+    "cost": 0,
+    "description": "Did someone call for a doctor? It’s a long way from home, and depending on the type of ship you’re on you could be really out of luck with needing a limb re-attached or fixing up half your organs after suffering burns from Covenant plasma rifles. You sometimes don’t have the luxury of being put in a cryo tank or waiting to get home, and that’s when you need a dedicated medical bay on the ship. Full surgery suite, stocked pharmaceutical section and even a rehabilitation section all comes with this purchase so that anyone who’s got problems can be relatively handled provided the ship isn’t going up in flames.",
+    "source": "Halo - UNSC"
+  },
+  "cc551b2b-de50-5ed0-9417-7e6ab8cd79c2": {
+    "id": "cc551b2b-de50-5ed0-9417-7e6ab8cd79c2",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Mini-Magnetic Accelerator Cannon",
+    "cost": 0,
+    "description": "The inevitable result of what happens when you increase the size of a coilgun while ramping up its power, this weapon has become a mainstay against Covenant vessels in space in the constant war to survive. The system works the same as a regular coilgun, consisting of a linear motor which hold a series of magnetic coils which accelerate a projectile through a barrel up to high velocity. A shipboard MAC cannon does draw power from the reactor of the ship it’s installed on however, and requires a charging up of the coils before the cannon can be fired. As a result, the ship’s reactor and its size are direct factors in how large the cannon itself can be. The size of the ship along with its classification is also responsible for how many cannons a ship can carry, so keep that in mind.",
+    "source": "Halo - UNSC"
+  },
+  "4cdb6b72-5f7e-56a8-ac5f-93343df6d5b7": {
+    "id": "4cdb6b72-5f7e-56a8-ac5f-93343df6d5b7",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Module Creation",
+    "cost": 100,
+    "description": "This purchase will allow you to create 'Module Cores', which can do all manners of wondrous things. Things like granting elemental damage to a weapon, or increasing its range, or improving the armor effectiveness of a suit you like. While this can only be used for personal equipment... it's still quite useful to make enhancements for your equipment at any time.",
+    "source": "Warframe"
+  },
+  "1d3c7d0e-2ed4-5efb-b36f-5f1636dbef00": {
+    "id": "1d3c7d0e-2ed4-5efb-b36f-5f1636dbef00",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Most Holy Order of the Socket Wrench",
+    "cost": 400,
+    "description": "You are a master mechanic. Repair and upkeep is nice, but you can go beyond the impossible and improve any vehicle. Take a van and make it beat a supercar? Put NOS injectors on a bicycle (and make it work)? How bout something challenging? And anything you can build up you can tear down, too. You're a one-man chop shop and wiring a car to explode takes but a few moments and some chicken wire.",
+    "source": "The Fast & the Furious"
+  },
+  "311f97d9-0f96-5d83-a0b1-151ba021a7d0": {
+    "id": "311f97d9-0f96-5d83-a0b1-151ba021a7d0",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Nanotech Wizard",
+    "cost": 200,
+    "description": "You acquire a basic understanding of the nanotech of this universe. Use it to fix yourself up when you get hurt, or use it on others. If integrated with weapons or armour, it gives them the capacity to upgrade over time and to potentially change their abilities.",
+    "source": "Ratchet and Clank"
+  },
+  "e30b26e2-fc1c-5533-9f61-76732ccaec81": {
+    "id": "e30b26e2-fc1c-5533-9f61-76732ccaec81",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Peace Within The Blade",
+    "cost": 200,
+    "description": "A warrior must know more than themselves, for their weapons are an extension of that self, their armor like a second skin. These things are as important to them as their very arms or heart. That is why great care is given to those tools. Your ability to provide maintenance and care for your personal equipment has increased, not only making them easier to repair if they suffer damage, but even improving their quality over time by optimizing their performance to make them tools worthy of their wielder. You are the storm, and that which you wield is the bolt that shallsmite your enemies.",
+    "source": "Warframe"
+  },
+  "91ae0da1-7f0a-5eb5-a075-761199c1df06": {
+    "id": "91ae0da1-7f0a-5eb5-a075-761199c1df06",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Recycling System",
+    "cost": 0,
+    "description": "When you’re going to be in the vast depths of space for an uncertain amount of time, you want to be sure to make everything count. Nothing can be wasted left you make an emergency become that much worse for yourself. That’s why there’s a slew of nanoreagent hydrocarbots, a collection of nanomachines that render nearly all carbon-heavy matter into useable fuel for the internal combustion power plants the majority of the UNSC vehicles employ. After all, all those scraps and waste matter humans produce need to go to some use, although it should be noted that if you felt like it corpses can be fed to this system as well...",
+    "source": "Halo - UNSC"
+  },
+  "b2d66800-8e73-5667-9095-c0408536ac55": {
+    "id": "b2d66800-8e73-5667-9095-c0408536ac55",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Repair Bay",
+    "cost": 0,
+    "description": "Sending soldiers and vehicles out to complete objectives and stop the enemy from completing theirs is just common sense. You win the war by denying the enemy their win. But the constant battles and struggles will cause some wear and tear on your equipment, to say nothing of the damages that can be accrued by your ship. You need to keep it in order. This installation into your vessel gives a rather substantial repair center so that you can repair and salvage various parts of both vehicle and personal equipment, while having a supply of spare parts for the ship on hand if you needed to lick your wounds after a battle with the Covenant.",
+    "source": "Halo - UNSC"
+  },
+  "d109bdc5-597e-5255-b7f7-cd674a15a3c0": {
+    "id": "d109bdc5-597e-5255-b7f7-cd674a15a3c0",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Skyforged Steel:",
+    "cost": 0,
+    "description": "Everyone says Eorlund Gray-Mane is the best smith in Skyrim. But you could change people’s minds about that. His works are flawless, yes. The gear you make and upgrade will be legendary. You do it all spectacularly: leatherworking, blacksmithing, even making jewelry. Such equipment never degrades from normal use so repairs will be unnecessary. Whenever these crafting skills grow, you’ll find upgrading past pieces to your current quality requires minimal effort or supplies. You can work even unfamiliar materials with ease. The intricacies of bonemold, chitin, even dragon scales come easily... When you forge iron equipment it’s superior to daedric equivalents. This is to say nothing of what you could produce if working with superior materials like malachite, ebony, or stalhrim. Any of the gear you make could go down in history for its craftsmanship. Each piece could be a work of art, but such is the perfection of your crafts they are even more functional than they appear.",
+    "source": "TES V - Skyrim"
+  },
+  "384b5203-fa20-55b5-a896-ba1eb05121bd": {
+    "id": "384b5203-fa20-55b5-a896-ba1eb05121bd",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "They're Like Legos, Right?",
+    "cost": 200,
+    "description": "There's robust engineering, and then there's modularity. Pick one. Except for you - you seem to have the gift of designing methods that allow for seamless mixing and matching of modular technology that lack none of the parts incompatibility and fragility you'd except from such a design paradigm. While this seems focused on Kerbin technology in specific, a little work should have you applying such a paradigm to all sorts of technologies...",
+    "source": "Kerbal Space Program"
+  },
+  "4231f453-8982-5429-a45a-803457690b3d": {
+    "id": "4231f453-8982-5429-a45a-803457690b3d",
+    "category": "celestrial_workshop",
+    "chapter": "Upgrades",
+    "name": "Training Areas",
+    "cost": 0,
+    "description": "When you’re traveling through Slipspace or have to patrol a relatively quiet section of interstellar space, making good use of one’s time can be very important. After all, just sitting on one’s bottom and letting microgravity take its toll on you is a one-way ticket to becoming squishy and more prone to getting shot at by the Covenant. Plus you can’t just let those SPARTAN-IIs with their fancy augmentations be the only strong ones, can you? This option installs a fully furnished fitness center into your ship along with a boxing ring to help you train and become stronger while you’re passing the time on board. Plus if you have any soldiers in your crew, they’ll appreciate being able to stay sharp. You also install a firing range and an armory so that they can train with infantry weapons as well while keeping well stocked for a fight. Like any ship, the crew must also be maintained.",
+    "source": "Halo - UNSC"
+  }
+}

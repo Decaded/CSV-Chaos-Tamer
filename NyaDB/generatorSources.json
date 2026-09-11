@@ -27,9 +27,23 @@
     ],
     "sourceUrl": "https://docs.google.com/spreadsheets/d/1uzLB7rEYeXYKFxnL-qSCfv3rNuk4hbfkkXncHXczWjw"
   },
+  "celestrial_workshop": {
+    "id": "celestrial_workshop",
+    "displayName": "Celestrial Workshop",
+    "description": "Knowledge, upgrades, tools, combat, resources and more.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "celestrial_workshop",
+        "version": "default"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1buKAORy2RywJhyKa_oPYBoq5npq0VExuEWkck9R1cAg"
+  },
   "codex_40k_edition": {
     "id": "codex_40k_edition",
-    "displayName": "Codex 40k Edition",
+    "displayName": "Codex Celestial - 40k Edition",
     "description": "Warhammer 40k universe.",
     "isR18": false,
     "defaultVersion": "default",
@@ -43,7 +57,7 @@
   },
   "codex_fantasy_edition": {
     "id": "codex_fantasy_edition",
-    "displayName": "Codex Fantasy Edition",
+    "displayName": "Codex Celestial - Fantasy Edition",
     "description": "Warhammer Fantasy universe.",
     "isR18": false,
     "defaultVersion": "default",
@@ -251,7 +265,7 @@
   },
   "heros_journey": {
     "id": "heros_journey",
-    "displayName": "Heros Journey",
+    "displayName": "Hero's Journey",
     "description": "Perks, powers, and tools for becoming a hero.",
     "isR18": false,
     "defaultVersion": "default",
@@ -323,7 +337,7 @@
   },
   "omni-tool": {
     "id": "omni-tool",
-    "displayName": "Omni Tool",
+    "displayName": "Omni-Tool",
     "description": "Mass Effect universe.",
     "isR18": false,
     "defaultVersion": "default",
@@ -351,7 +365,7 @@
   },
   "pipboy": {
     "id": "pipboy",
-    "displayName": "Pipboy",
+    "displayName": "Pip-Boy",
     "description": "Fallout universe.",
     "isR18": false,
     "defaultVersion": "default",
@@ -516,9 +530,23 @@
     ],
     "sourceUrl": "https://docs.google.com/spreadsheets/d/1kkN-q8ZTXmccwCMVGZBlbUSt4iuwR25h5qF3_51XNrQ"
   },
+  "the_celestial_mantle_halo": {
+    "id": "the_celestial_mantle_halo",
+    "displayName": "The Celestial Mantle (Halo)",
+    "description": "Halo-themed gacha with UNSC technology, weapons, armor, AIs, and SPARTAN-related abilities.",
+    "isR18": false,
+    "defaultVersion": "default",
+    "categories": [
+      {
+        "id": "the_celestial_mantle_halo",
+        "version": "default"
+      }
+    ],
+    "sourceUrl": "https://docs.google.com/spreadsheets/d/1_duneJDzxo1_cTfrx1N585B4maCxmNT-gSKIIB8aUKc"
+  },
   "the_godly_epic_meros_proto_xxxl": {
     "id": "the_godly_epic_meros_proto_xxxl",
-    "displayName": "The Godly Epic Meros Proto Xxxl",
+    "displayName": "The Godly Epic Méros Próto XXXL",
     "description": "A collection of perks, items, and powers from various sources.",
     "isR18": false,
     "defaultVersion": "default",
