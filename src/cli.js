@@ -8,7 +8,7 @@ const { ID_REGISTRY_PATH } = require('./registry/perk-registry');
 
 const SOURCES_ROOT = path.join(__dirname, '..', 'sources');
 
-function parseArgs(argv) {
+function parseArgs(argv, env = process.env) {
 	const args = argv.slice();
 	let root = SOURCES_ROOT;
 	let registryPath = ID_REGISTRY_PATH;
@@ -23,6 +23,8 @@ function parseArgs(argv) {
 		else if (flag === '--config') sourceMetadataConfigPath = path.resolve(value || args[++i]);
 		else if (flag === '--write') writeNyaDb = true;
 	}
+
+	if (!writeNyaDb && env.npm_config_write === 'true') writeNyaDb = true;
 
 	return { root, registryPath, sourceMetadataConfigPath, writeNyaDb };
 }
