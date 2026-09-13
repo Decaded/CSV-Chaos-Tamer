@@ -22,3 +22,13 @@ test('parseArgs ignores unknown flags', () => {
 	const args = parseArgs(['--bogus', '--write']);
 	assert.strictEqual(args.writeNyaDb, true);
 });
+
+test('parseArgs honors npm_config_write when npm swallows flags passed without --', () => {
+	const args = parseArgs([], { npm_config_write: 'true' });
+	assert.strictEqual(args.writeNyaDb, true);
+});
+
+test('parseArgs ignores npm_config_write when --write was passed explicitly', () => {
+	const args = parseArgs(['--write'], { npm_config_write: 'false' });
+	assert.strictEqual(args.writeNyaDb, true);
+});

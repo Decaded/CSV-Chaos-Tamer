@@ -61,6 +61,30 @@ test('parseEntry handles leading type and trailing numeric cost', () => {
 	});
 });
 
+test('parseEntry cleans leading separator junk from the name', () => {
+	assert.deepStrictEqual(parseEntry('-Adaptive Body (300CP):'), {
+		name: 'Adaptive Body',
+		cost: '300CP',
+		descStart: '',
+	});
+});
+
+test('parseEntry cleans hyphen bookends around the name', () => {
+	assert.deepStrictEqual(parseEntry('-Knight- (200CP):'), {
+		name: 'Knight',
+		cost: '200CP',
+		descStart: '',
+	});
+});
+
+test('parseEntry keeps a negative parenthetical cost and its description', () => {
+	assert.deepStrictEqual(parseEntry('(-100CP) Camouflage -- You are naturally and instinctively adept.'), {
+		name: 'Camouflage',
+		cost: '-100CP',
+		descStart: 'You are naturally and instinctively adept.',
+	});
+});
+
 test('parseEntry handles CP prefix with double dash separators', () => {
 	assert.deepStrictEqual(parseEntry('100CP -- Two-faced -- protects against people easily detecting other identity'), {
 		name: 'Two-faced',
@@ -287,4 +311,19 @@ testAsync('parseMarkdown strips ATX heading markers from the source field', asyn
 	assert.strictEqual(rows[0].name, 'Wondrous Fare');
 	assert.strictEqual(rows[0].cost, 200);
 	assert.strictEqual(rows[0].origin, 'Enchanted Cooking');
+});
+
+testAsync('parseMarkdown treats minus-prefixed parenthetical costs as positive prices', async () => {
+	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-md-neg-'));
+	const filePath = path.join(dir, 'sample.md');
+
+	await fs.promises.writeFile(filePath, ['Angels:', '', '1. Willful (-100): You hold your own fate.', '', '2. The Black King (-600):', 'Stained crimson.'].join('\n'), 'utf8');
+
+	const { rows } = await parseMarkdown(filePath);
+
+	assert.strictEqual(rows.length, 2);
+	assert.strictEqual(rows[0].name, 'Willful');
+	assert.strictEqual(rows[0].cost, 100);
+	assert.strictEqual(rows[1].name, 'The Black King');
+	assert.strictEqual(rows[1].cost, 600);
 });

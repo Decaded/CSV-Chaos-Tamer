@@ -79,6 +79,17 @@ testAsync('parseCsv falls back to the first column as name when no name header e
 	assert.strictEqual(rows[0].cost, 0);
 });
 
+testAsync('parseCsv cleans separator junk from the name field', async () => {
+	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-nameclean-'));
+	const filePath = path.join(dir, 'Perks.csv');
+	await fs.promises.writeFile(filePath, ['Perk,Cost,Effect', '-Black Mage-,200 CP,"Fields gravity."', 'Terror Force:,300 CP,"Pressure."'].join('\n'), 'utf8');
+	const { rows } = await parseCsv(filePath);
+	assert.strictEqual(rows[0].name, 'Black Mage');
+	assert.strictEqual(rows[0].cost, 200);
+	assert.strictEqual(rows[1].name, 'Terror Force');
+	assert.strictEqual(rows[1].cost, 300);
+});
+
 test('extractChapterFromFilename strips common noise', () => {
 	assert.strictEqual(extractChapterFromFilename('Copy - Items.csv'), 'Items');
 });
@@ -105,6 +116,7 @@ test('normalizeCost emits finite non-negative numbers', () => {
 	assert.strictEqual(normalizeCost('Free for All'), 0);
 	assert.strictEqual(normalizeCost('Variable CP'), 0);
 	assert.strictEqual(normalizeCost('-300CP'), 300);
+	assert.strictEqual(normalizeCost(-300), 300);
 	assert.strictEqual(normalizeCost(25), 25);
 });
 
@@ -146,6 +158,55 @@ test('prepareItems and buildPerkDatabases create origin chapter name hierarchy',
 
 	assert.deepStrictEqual(errors, []);
 	assert.strictEqual(grouped.grimoire_v2.origin_fate_grand_master.chapters.parameters.perks.arcane_tuning[0].editionVersion, 'v2');
+});
+
+test('prepareItems strips a trailing cost parenthetical from the name when it duplicates the row cost', () => {
+	const prepared = prepareItems(
+		new Map([
+			[
+				'meros',
+				{
+					sourceId: 'meros',
+					sourceDisplayName: 'Meros',
+					editionVersion: 'default',
+					editionDisplayName: 'Meros',
+					fileKey: 'meros',
+					rows: [
+						{ __origin: 'Meros Sheet', __line: 1, name: 'Sacred Heuristic Omphalos (600 CP)', cost: '600 CP', origin: 'Heaven', chapter: 'Pseudo', description: 'A mountain.' },
+						{ __origin: 'Meros Sheet', __line: 2, name: 'Breathing Style(100/200/400 CP)', cost: '0', origin: 'Heaven', chapter: 'Pseudo', description: 'Styles.' },
+					],
+				},
+			],
+		]),
+	);
+	const byName = Object.fromEntries(prepared.items.map(item => [item.perk.name, item.perk]));
+	assert.strictEqual(byName['Sacred Heuristic Omphalos'].cost, 600);
+	assert.strictEqual(byName['Breathing Style(100/200/400 CP)'].cost, 0);
+});
+
+test('prepareItems treats minus-prefixed costs as positive prices', () => {
+	const prepared = prepareItems(
+		new Map([
+			[
+				'meros',
+				{
+					sourceId: 'meros',
+					sourceDisplayName: 'Meros',
+					editionVersion: 'default',
+					editionDisplayName: 'Meros',
+					fileKey: 'meros',
+					rows: [
+						{ __origin: 'Meros Sheet', __line: 1, name: 'Willful', cost: '-100', origin: 'Heaven', chapter: 'Angels', description: 'Free will.' },
+						{ __origin: 'Meros Sheet', __line: 2, name: 'Refunded (-100)', cost: '100', origin: 'Heaven', chapter: 'Angels', description: 'Keeps non-matching parenthetical.' },
+					],
+				},
+			],
+		]),
+	);
+	const byName = Object.fromEntries(prepared.items.map(item => [item.perk.name, item.perk]));
+	assert.strictEqual(byName['Willful'].cost, 100);
+	assert.strictEqual(byName['Refunded (-100)'].cost, 100);
+	assert.strictEqual(Object.keys(byName).length, 2);
 });
 
 test('buildBackendGeneratorFiles produces importer-compatible edition files and source metadata', () => {
@@ -293,7 +354,7 @@ test('assignPerkIds preserves existing active ids and skips counting them as cha
 	assert.strictEqual(stats.reusedOrRetiredIdCount, 0);
 });
 
-testAsync('buildDatabase writes a persistent perk ID registry and keeps ids stable across runs', async () => {
+testAsync('buildDatabase writes the perk ID registry only on an explicit write, keeping ids stable', async () => {
 	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-registry-'));
 	const sheetsRoot = path.join(dir, 'sheets');
 	const registryPath = path.join(dir, 'perk-id-registry.json');
@@ -309,17 +370,32 @@ testAsync('buildDatabase writes a persistent perk ID registry and keeps ids stab
 
 	const options = { sheetsRoot, registryPath, sourceMetadataConfigPath: configPath, datasetConfigPath: path.join(dir, 'dataset.json'), writeNyaDb: false, logger: { log() {}, warn() {}, error() {} } };
 
+	const writerCalls = [];
+	const stubWriter = async ({ files }) => {
+		writerCalls.push(Object.keys(files));
+		return { changed: [], unchanged: [], deleted: [] };
+	};
+
 	const first = await buildDatabase(options);
 	assert.strictEqual(first.report.perkCount, 2);
 	assert.deepStrictEqual(first.databases, ['forge']);
 	assert.strictEqual(first.report.duplicateIdCount, 0);
-	const firstIds = JSON.parse(await fs.promises.readFile(registryPath, 'utf8')).active;
+	assert.strictEqual(fs.existsSync(registryPath), false, 'dry run must not create the registry file');
+	assert.deepStrictEqual(writerCalls, [], 'dry run must not write databases');
 
+	const writeOptions = { ...options, writeNyaDb: true, writeNyaDbDatabases: stubWriter };
+	const written = await buildDatabase(writeOptions);
+	assert.strictEqual(written.report.perkCount, 2);
+	assert.strictEqual(writerCalls.length, 1, 'explicit write must invoke the database writer once');
+	const firstIds = JSON.parse(await fs.promises.readFile(registryPath, 'utf8')).active;
+	assert.strictEqual(Object.keys(firstIds).length, 2);
+
+	const afterWrite = await fs.promises.readFile(registryPath, 'utf8');
 	const second = await buildDatabase(options);
-	const secondIds = JSON.parse(await fs.promises.readFile(registryPath, 'utf8')).active;
-	assert.deepStrictEqual(secondIds, firstIds);
 	assert.strictEqual(second.report.perkCount, 2);
 	assert.strictEqual(second.report.changedIdCountSincePreviousRender, 0);
+	assert.strictEqual(writerCalls.length, 1, 'dry run must not trigger another database write');
+	assert.strictEqual(await fs.promises.readFile(registryPath, 'utf8'), afterWrite, 'dry run must not modify the registry file');
 });
 
 test('validateSourceMetadataConfig flags sources missing a manual entry', () => {
