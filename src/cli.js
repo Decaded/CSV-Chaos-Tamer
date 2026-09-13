@@ -94,9 +94,11 @@ function friendlySummary(report, databasesUpdated) {
 	].join('\n');
 }
 
-function gitGuidance() {
+function gitGuidance({ registryPath } = {}) {
+	const addItems = ['sources/', 'NyaDB/'];
+	if (registryPath) addItems.push(path.posix.normalize(path.relative(process.cwd(), registryPath)));
 	return [
-		'  1. git add sources/ NyaDB/',
+		`  1. git add ${addItems.join(' ')}`,
 		'  2. git commit -m "Add perks from your source"',
 		'  3. git push origin your-branch',
 		'  4. Open a pull request against the main repository',
@@ -149,17 +151,17 @@ async function runBuild({ root, registryPath, sourceMetadataConfigPath, writeNya
 	}
 
 	try {
-		const { report, writtenDatabases } = await buildDatabase({ sheetsRoot: root, registryPath, sourceMetadataConfigPath, writeNyaDb, logger });
+		const { report, writtenDatabases, registryChanged } = await buildDatabase({ sheetsRoot: root, registryPath, sourceMetadataConfigPath, writeNyaDb, logger });
 		spinner.stop();
 		const updatedCount = writtenDatabases.changed.length + writtenDatabases.deleted.length;
 		console.log('\nBuild succeeded ✔');
 		console.log(friendlySummary(report, updatedCount));
 		if (writeNyaDb) {
-			if (updatedCount === 0) {
+			if (updatedCount === 0 && !registryChanged) {
 				console.log('\nNo changes were made to the database files.');
 			} else {
-				console.log('\nThe NyaDB files above are ready to submit. Open a pull request:');
-				console.log(gitGuidance());
+				console.log(registryChanged ? '\nThe NyaDB files and the perk ID registry above are ready to submit. Open a pull request:' : '\nThe NyaDB files above are ready to submit. Open a pull request:');
+				console.log(gitGuidance({ registryPath: registryChanged ? registryPath : null }));
 			}
 		} else {
 			console.log('\nDry run — NyaDB was not written. Re-run with --write to store the databases.');

@@ -387,6 +387,7 @@ testAsync('buildDatabase writes the perk ID registry only on an explicit write, 
 	const written = await buildDatabase(writeOptions);
 	assert.strictEqual(written.report.perkCount, 2);
 	assert.strictEqual(writerCalls.length, 1, 'explicit write must invoke the database writer once');
+	assert.strictEqual(written.registryChanged, true, 'first write creates a changed registry');
 	const firstIds = JSON.parse(await fs.promises.readFile(registryPath, 'utf8')).active;
 	assert.strictEqual(Object.keys(firstIds).length, 2);
 
@@ -395,7 +396,19 @@ testAsync('buildDatabase writes the perk ID registry only on an explicit write, 
 	assert.strictEqual(second.report.perkCount, 2);
 	assert.strictEqual(second.report.changedIdCountSincePreviousRender, 0);
 	assert.strictEqual(writerCalls.length, 1, 'dry run must not trigger another database write');
+	assert.strictEqual(second.registryChanged, false, 'dry run reports no registry change');
 	assert.strictEqual(await fs.promises.readFile(registryPath, 'utf8'), afterWrite, 'dry run must not modify the registry file');
+
+	const third = await buildDatabase(writeOptions);
+	assert.strictEqual(third.registryChanged, false, 'an identical re-write reports no registry change');
+	assert.strictEqual(writerCalls.length, 2);
+
+	const canonical = await fs.promises.readFile(registryPath, 'utf8');
+	await fs.promises.writeFile(registryPath, JSON.stringify(JSON.parse(canonical), null, 1), 'utf8');
+	const fourth = await buildDatabase(writeOptions);
+	assert.strictEqual(fourth.registryChanged, true, 'a registry in a non-canonical format is reported as changed');
+	assert.strictEqual(await fs.promises.readFile(registryPath, 'utf8'), canonical, 'write restores the canonical registry format');
+	assert.strictEqual(writerCalls.length, 3);
 });
 
 test('validateSourceMetadataConfig flags sources missing a manual entry', () => {

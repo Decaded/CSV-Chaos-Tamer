@@ -132,9 +132,12 @@ async function buildDatabase(options = {}) {
 	const registry = loadRegistry(registryPath);
 	const { changedIdCount, reusedOrRetiredIdCount } = assignPerkIds(prepared.items, registry);
 	if (retireMissing) retireMissingRegistryKeys(registry, new Set(prepared.items.map(item => item.logicalKey)));
+	let registryChanged = false;
 	if (writeNyaDb) {
+		const content = JSON.stringify(registry, null, 2);
+		registryChanged = !fs.existsSync(registryPath) || fs.readFileSync(registryPath, 'utf8') !== content;
 		fs.mkdirSync(path.dirname(registryPath), { recursive: true });
-		fs.writeFileSync(registryPath, JSON.stringify(registry, null, 2), 'utf8');
+		fs.writeFileSync(registryPath, content, 'utf8');
 	}
 
 	const output = buildBackendGeneratorFiles(prepared.items, sourceGroups);
@@ -176,6 +179,7 @@ async function buildDatabase(options = {}) {
 		report,
 		databases: Object.keys(output.files),
 		writtenDatabases,
+		registryChanged,
 		skippedFiles,
 	};
 }
