@@ -35,7 +35,7 @@ It ships two front-ends over the same pipeline:
 - **Web panel** (`npm run web`) — a browser-based alternative to hand-editing files: runs the same build, plus a source-metadata table, a keyword filter editor, and a dataset
   inspector.
 
-It works with any similarly-shaped dataset, not just Celestial.
+It works with any similarly-shaped dataset, but it won't be maintained for non-Celestial Gambler use cases.
 
 ## Why it exists
 
@@ -116,8 +116,8 @@ For people who prefer clicking over editing files by hand. It runs the **same pi
 
 - **Build** — live console that streams log lines as they happen (info/warn/error), then a metrics summary. Dry-run first to surface validation errors, then write the `NyaDB/`
   datasets.
-- **Source metadata** — edit `source-metadata.config.json` in a single table (name, description, and per-edition source URL + alt URL/label), with filtering. The **Add
-  source** button collects the required metadata and then unlocks file uploads — everything lands in one folder named after the slugified source ID.
+- **Source metadata** — edit `source-metadata.config.json` in a single table (name, description, and per-edition source URL + alt URL/label), with filtering. The **Add source**
+  button collects the required metadata and then unlocks file uploads — everything lands in one folder named after the slugified source ID.
 - **Keyword filter** — edit `src/config/keyword-filter.json` as a plain list; the R18 auto-marking reads it on every build.
 - **Dataset version** — edit the version string in `src/config/dataset.json` (or set it on the Build tab) so build reports carry the current dataset version.
 - **Datasets** — read-only inspection of the generated databases, with search. Datasets are served as-is, so there is no editor.
@@ -139,8 +139,8 @@ Contributions are welcome, and most of the work is "make the parser cope with on
 ### Common contributions
 
 **Add a new source** — just drop CSV/Markdown files into a new folder under `sources/` and run a dry run. If validation flags a missing metadata entry, add one to
-`src/config/source-metadata.config.json` (or use the web panel's Add source). Required fields are `description` and an `editions` map with a `sourceUrl` on each edition;
-`name` is an optional display name. See `docs/SOURCE_METADATA.md`.
+`src/config/source-metadata.config.json` (or use the web panel's Add source). Required fields are `description` and an `editions` map with a `sourceUrl` on each edition; `name` is
+an optional display name. See `docs/SOURCE_METADATA.md`.
 
 **Teach the parser a new header** — header synonyms live in `csv.headerMap` in `src/config/settings.js`:
 
@@ -153,7 +153,9 @@ setting: 'origin',
 
 **Handle a new Markdown layout** — parsing rules live in `src/parsers/md-parser.js`. Add a regression case in `test/md-parser.test.js` before changing behavior.
 
-**Split chapters into their own files** — configure `shared.splitChapters` in `src/config/settings.js`. To group physical files as selectable editions, declare an `editions` map (with optional `defaultVersion`) on the source's entry in `src/config/source-metadata.config.json`; every edition declares its `fileKey`, a required `sourceUrl`, and an optional `altSourceUrl`/`altSourceLabel` pair.
+**Split chapters into their own files** — configure `shared.splitChapters` in `src/config/settings.js`. To group physical files as selectable editions, declare an `editions` map
+(with optional `defaultVersion`) on the source's entry in `src/config/source-metadata.config.json`; every edition declares its `fileKey`, a required `sourceUrl`, and an optional
+`altSourceUrl`/`altSourceLabel` pair.
 
 **How data must look when it ships** — `docs/SOURCE_METADATA.md` is the data contract and documents how `generatorSources.json` merges with `perks_*.json`. Read it before touching
 output logic.
