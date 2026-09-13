@@ -1,13 +1,5 @@
 const crypto = require('crypto');
-const {
-	requireMachineId,
-	originNameForRow,
-	normalizeCost,
-	normalizeTags,
-	isAdultRow,
-	logicalIdentityForRow,
-	sortObjectByKeys,
-} = require('../helpers');
+const { requireMachineId, originNameForRow, normalizeCost, normalizeTags, isAdultRow, logicalIdentityForRow, sortObjectByKeys } = require('../helpers');
 
 function prepareItems(databases) {
 	const sourcesById = new Map();
@@ -36,7 +28,14 @@ function prepareItems(databases) {
 			const originId = `origin_${requireMachineId(originName)}`;
 			const chapter = String(row.chapter || 'Uncategorized').trim();
 			const chapterKey = requireMachineId(chapter);
-			const name = String(row.name || '').trim();
+			let name = String(row.name || '').trim();
+			{
+				const costNum = normalizeCost(row.cost);
+				const dupCost = name.match(/\s*\(\s*(0|[1-9]\d*)(?:\s*(?:CP|BP|KP))?\s*\)\s*$/i);
+				if (Number.isFinite(costNum) && dupCost && Number(dupCost[1]) === costNum) {
+					name = name.slice(0, dupCost.index).trim();
+				}
+			}
 			const nameKey = requireMachineId(name);
 			const description = String(row.description || '').trim();
 			const origin = originsById.get(originId) || {

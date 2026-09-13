@@ -1,4 +1,5 @@
 const { MACHINE_ID_RE } = require('../helpers');
+const { shared } = require('../config/settings');
 
 function validateBackendGeneratorFiles({ files, sourceMetadata }) {
 	const errors = [];
@@ -122,6 +123,12 @@ function validatePreparedData({ dataset, sources, origins, grouped, items, chang
 		}
 		if (!perk.name) errors.push(`Perk ${perk.id} missing name`);
 		if (!perk.description) errors.push(`Perk ${perk.id} missing description`);
+		if (!shared.isIntentionalBoundaryName(perk.name)) {
+			if (/^[-–—:]+/.test(perk.name)) errors.push(`Perk ${perk.id} name starts with separator punctuation: ${JSON.stringify(perk.name)}`);
+			if (/[-–—:]+$/.test(perk.name)) errors.push(`Perk ${perk.id} name ends with separator punctuation: ${JSON.stringify(perk.name)}`);
+		}
+		if (/^:\s*\n/.test(perk.description)) errors.push(`Perk ${perk.id} description starts with a stray colon`);
+		if (!perk.description.trim() || /^[:–—]+$/.test(perk.description.trim())) errors.push(`Perk ${perk.id} description is only separator punctuation`);
 		if (!editionsBySource.has(`${perk.sourceId}:${perk.editionVersion}`)) {
 			errors.push(`Perk ${perk.id} references missing edition ${perk.sourceId}:${perk.editionVersion}`);
 		}

@@ -5,6 +5,22 @@
 
 // ───────────────────── Shared ─────────────────────
 
+/**
+ * True when a perk name intentionally carries boundary-separator punctuation
+ * (jokes/emphasis) and must NOT be auto-cleaned or flagged by validation.
+ * Detected by shape instead of a manual name list:
+ *  - a trailing `-word-` wrapper, e.g. `Oo -Burp-`
+ *  - an all-caps "shout" name ending in a terminal `-`, e.g. `ARMOR LOCK … L-`
+ * Leading separators are never intentional (`-Black Mage-`, `-Cannoneer-`).
+ */
+function isIntentionalBoundaryName(s) {
+	if (typeof s !== 'string' || !s) return false;
+	if (/^\s*[-–—:]+/.test(s)) return false;
+	if (/[-–—:][\p{L}\p{N}]+-$/u.test(s)) return true;
+	if (/^[A-Z0-9][A-Z0-9 ]*-$/.test(s) && s.length > 3) return true;
+	return false;
+}
+
 const shared = {
 	/** Public dataset metadata written to NyaDB dataset database */
 	dataset: {
@@ -17,6 +33,23 @@ const shared = {
 	splitChapters: {
 		'waifu catalogue': 'waifu',
 		'lewd': 'companion_lewd',
+	},
+
+	/** Name-shape rule backing cleanName and validation */
+	isIntentionalBoundaryName,
+
+	/** Trim decorative separator punctuation from a perk name's boundaries */
+	cleanName: v => {
+		const s = String(v ?? '')
+			.trim()
+			.replace(/[\u200B\u200C\u200D\uFEFF]/g, '');
+		if (isIntentionalBoundaryName(s)) return s;
+		return s
+			.replace(/^\s*[-–—:]+(?=\s|[^0-9])/, '') // leading separator junk
+			.replace(/[~*]+$/, '') // leftover trailing asterisk/tilde runs
+			.replace(/\s*[-–—:]+\s*$/, '') // trailing separator junk
+			.replace(/\s{2,}/g, ' ')
+			.trim();
 	},
 
 	/** Description cleanup – reused by both CSV and MD transforms */
@@ -78,6 +111,7 @@ const csv = {
 	transforms: {
 		id: v => Number(String(v).replace(/cp$/i, '').trim()) || 0,
 		cost: v => Number(String(v).replace(/cp$/i, '').trim()) || 0,
+		name: v => shared.cleanName(v),
 		description: v => shared.cleanDescription(v),
 		chapter: v => v?.trim(),
 	},
@@ -117,8 +151,9 @@ const md = {
 			return isNaN(num) ? (cleaned.toLowerCase() === 'free' ? 0 : str) : num;
 		},
 		name: v =>
-			String(v || '')
-				.replace(/[\u200B\u200C\u200D\uFEFF]/g, '') // Remove zero-width spaces
+			shared
+				.cleanName(v)
+				.replace(/[\u200B\u200C\u200D\uFEFF]/g, '')
 				.replace(/^\*+/, '')
 				.trim(),
 		description: v => {

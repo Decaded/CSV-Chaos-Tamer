@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { md: mdConfig } = require('../config/settings');
+const { md: mdConfig, shared } = require('../config/settings');
 
 /** Regex that matches the start of a numbered entry (e.g. "1\." or "132.") */
 const NUMBERED_RE = /^(\d+)\\?\.\s+/;
@@ -45,7 +45,7 @@ function isChapterHeading(lines, idx) {
  *   *Sea Legs 100               →  cost="100",    name="Sea Legs"
  *   Demon [200]                 →  cost="200",    name="Demon"
  */
-function parseEntry(rawRest) {
+function parseEntryImpl(rawRest) {
 	// Clean markdown escape sequences: \* → *, \[ → [, \] → ], \! → !
 	const rest = rawRest.replace(/\\([*[\]!])/g, '$1').replace(/\u00AD/g, '-');
 	let name,
@@ -277,6 +277,19 @@ function parseEntry(rawRest) {
 	name = rest.replace(/^\*+/, '').trim();
 	cost = 'Free';
 	return { name, cost, descStart: '' };
+}
+
+/**
+ * Clean up a parsed entry:
+ * - Trim decorative separator punctuation from name boundaries (shared.cleanName)
+ * - Blank a descStart that is only separator punctuation (e.g. the ":" in "-Name (300CP):")
+ */
+function parseEntry(rawRest) {
+	const parsed = parseEntryImpl(rawRest);
+	if (!parsed) return parsed;
+	parsed.name = shared.cleanName(parsed.name);
+	if (typeof parsed.descStart === 'string' && /^[:–—]+$/.test(parsed.descStart.trim())) parsed.descStart = '';
+	return parsed;
 }
 
 /**

@@ -11,12 +11,7 @@ const { updateSourceR18Flags } = require('./registry/keywords');
 const { ID_REGISTRY_PATH, loadRegistry, assignPerkIds, retireMissingRegistryKeys } = require('./registry/perk-registry');
 const { prepareItems, buildPerkDatabases, disambiguateLogicalKeys } = require('./build/prepare-items');
 const { buildBackendGeneratorFiles, buildFileEditions, buildSourceMetadata } = require('./build/generator-files');
-const {
-	loadSourceMetadataConfig,
-	deriveSourceEditionsConfig,
-	validateSourceMetadataConfig,
-	applySourceMetadataOverrides,
-} = require('./build/source-metadata');
+const { loadSourceMetadataConfig, deriveSourceEditionsConfig, validateSourceMetadataConfig, applySourceMetadataOverrides } = require('./build/source-metadata');
 const { validateBackendGeneratorFiles, validatePreparedData } = require('./build/validate');
 const { reportPreparedData } = require('./build/report');
 const { writeNyaDbDatabases } = require('./nyadb/nyadb-writer');
@@ -137,8 +132,10 @@ async function buildDatabase(options = {}) {
 	const registry = loadRegistry(registryPath);
 	const { changedIdCount, reusedOrRetiredIdCount } = assignPerkIds(prepared.items, registry);
 	if (retireMissing) retireMissingRegistryKeys(registry, new Set(prepared.items.map(item => item.logicalKey)));
-	fs.mkdirSync(path.dirname(registryPath), { recursive: true });
-	fs.writeFileSync(registryPath, JSON.stringify(registry, null, 2), 'utf8');
+	if (writeNyaDb) {
+		fs.mkdirSync(path.dirname(registryPath), { recursive: true });
+		fs.writeFileSync(registryPath, JSON.stringify(registry, null, 2), 'utf8');
+	}
 
 	const output = buildBackendGeneratorFiles(prepared.items, sourceGroups);
 	const grouped = buildPerkDatabases(prepared.items);
@@ -165,7 +162,10 @@ async function buildDatabase(options = {}) {
 	}
 
 	let writtenDatabases = { changed: [], unchanged: [], deleted: [] };
-	if (writeNyaDb) writtenDatabases = await writeNyaDbDatabases({ files: output.files, sourceMetadata: output.sourceMetadata }, logger);
+	if (writeNyaDb) {
+		const writeDatabases = options.writeNyaDbDatabases || writeNyaDbDatabases;
+		writtenDatabases = await writeDatabases({ files: output.files, sourceMetadata: output.sourceMetadata }, logger);
+	}
 	logger.log(JSON.stringify(report, null, 2));
 	logger.log(`Highest CP found: ${globalMaxCP}`);
 	if (skippedFiles.length) {
