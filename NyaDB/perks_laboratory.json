@@ -1134,7 +1134,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Defences",
-    "name": "Honor guard equipment-",
+    "name": "Honor guard equipment",
     "cost": 400,
     "description": "This equipment, favored son, is such that it gives you great status and honor. To be set among the honor guard of the Hierarchs themselves is no small thing, and those who see you in this armor shall know the power which you herald and treat you with appropriate respect. Of course, it goes without saying that the armor itself is quite powerful, and can deflect glancing blows from even energy swords. The Energy stave that comes with it is also capable of cutting through armor with extreme speed, and has far greater reach than the vast majority of other melee weaponry within the Covenant.",
     "origin": "Halo - The Covenant"
@@ -1164,7 +1164,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Defences",
-    "name": "Iron Halo​",
+    "name": "Iron Halo",
     "cost": 100,
     "description": "As much of a badge of office and a sign of valor as anything, an Iron Halo is issued to only proven veterans of the Chapter. In addition to signifying a Marine’s valor, it also contains a very powerful Conversion Field generator, making the already durable Astartes even harder to damage, the field capable of taking direct hits from Lascannons before burning out and requiring repairs.",
     "origin": "Warhammer 40K -- Adeptus Astartes"
@@ -2054,7 +2054,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Gizmos",
-    "name": "Neuralyzer​",
+    "name": "Neuralyzer",
     "cost": 100,
     "description": "A device about the size of a cigar tube that emits a flash of light that erases the memories of the past minutes, hours, days, months, or years, depending on the chosen settings.",
     "origin": "MIB"
@@ -2634,7 +2634,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Headquarters",
-    "name": "Forerunner dreadnought-",
+    "name": "Forerunner dreadnought",
     "cost": 800,
     "description": "This was the first forerunner relic found by your kind. This was the mighty ship with which they courageously left their home world to spread the word of the gods among the stars. This was the god-vessel that brought them together with the Sangheili, and it is this ship that sits dormant today, as the object of the worship of all of the Covenant, at the center of the grand chamber of High Charity. And now, it is yours. Its weaponry, disabled as a sign of goodwill between the Sangheili and San'Shyuum, has been fully restored to its original, continent-busting (at maximum) levels. However, you are not alone within it- it is completely and totally under the control of an AI. In time, you could find a way to remove it, but the ship shall function far better with it on board. It is your subordinate and thus is willing to complete your commands, to a point. It shall not engage in open warfare against humanity, and seeks redemption for a great number of sins, which it shall not name to you- unless you should prove yourself worthy and understanding.",
     "origin": "Halo - The Covenant"
@@ -4704,7 +4704,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Minions",
-    "name": "Vargard’s Spirit ​",
+    "name": "Vargard’s Spirit",
     "cost": 400,
     "description": "While most of your Necron minions will be non-sapient and fully dedicated to following every last order, there are still several Necrons below you who retain their free will. The Lycheguards, Deathmarks, and Vassal Lords can prove far less pliable than the average Warrior. Now you need not worry about any form of betrayal, as your minions are loyal to the point of death and beyond. They will never betray you through their own will, and hacking, brainwashing, or outright possession are off the cards as well. Do note that this does not protect you if you force them into a position to defend themselves.",
     "origin": "Warhammer 40k - Necrons"
@@ -5604,7 +5604,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Research and Development",
-    "name": "Biotransference Protocols​",
+    "name": "Biotransference Protocols",
     "cost": 400,
     "description": "Behold, the designs that were meant to secure the salvation of the Necrontyr, and instead cost them their souls. These schematics contain two things of note: the first is the Necrodermis shells of the Necrons and their constructs, from the lowliest Warriors and Scarabs to the greatest Tomb Sentinels. Secondly, they teach the method of biotransference itself, transitioning an organic mind into a body of metal. Will you use these designs to create a robotic army to put the Men of Iron to shame? Or will you use them to secure immortality?",
     "origin": "Warhammer 40k - Necrons"
@@ -5734,7 +5734,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Research and Development",
-    "name": "Forerunner Trove-",
+    "name": "Forerunner Trove",
     "cost": 800,
     "description": "The actual physical device you receive is unassuming- a physically small data drive. Though it will take decades to pry it open and truly access its secrets, and longer yet to make any sense of them, this time will be well-spent indeed. Inside this are the ancient secrets of the Forerunner empire- the means to create their most powerful weapons and mightiest fortresses. Perhaps you should desire to create a mighty fortress ship, that could take gigatons of explosive damage without its shields breaking? Or perhaps, you would wish to create the shield worlds- the incredible hollow worlds that are the only structures known to be able to withstand the halo array. Perhaps you should seek to recreate the Domain- the galaxy-spanning network of knowledge that all who are of sufficient mental strength can tap into, that they drink from the font that is the collective wisdom of the galaxy. Or perhaps you desire an even darker purpose- the creation of your own halo array, that you may scour untold galaxies clean of life. All of these shall be child's play for you, once you have spent the needed time. And make no mistake- you must spend untold time to truly pry open this shell, and understand its ancient knowledge. It will not be a task that is possible to complete in one universe, but when you stand as master of the heavens, there will be no question as to the worth of this data.",
     "origin": "Halo - The Covenant"
@@ -6414,7 +6414,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Resources and  Production",
-    "name": "Astartes Supply Cache​",
+    "name": "Astartes Supply Cache",
     "cost": 200,
     "description": "This large armored vault is gene-locked to your genetic code and other biometrics, and is durable enough to survive being dropped from orbit on its own without damaging the contents. Inside, you can find a large amount of spare supplies suitable for Astartes use. There are numerous spare parts for Power Armor in good condition, usually consisting of newer suits such as Mark VI or VII, allowing you to cobble together a full suit or two per month. There will also be times when you will find numerous damaged components of older models of Power Armor that might be repairable. Even more rarely, the occasional component or part of a suit of Terminator Armor may be found in the Cache, allowing you to have enough spare parts to build a single suit of Tactical Dreadnaught Armor once per year. Finally, there will also be large supplies of basic ammunition and replacement parts for weapons you own, both from this Jump and others, as well as five spare bolt pistols and bolters whenever the Cache is refilled. The Cache is resupplied once a month when nobody is paying attention to it.",
     "origin": "Warhammer 40,000 - Adeptus Astartes"
@@ -6784,7 +6784,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Resources and  Production",
-    "name": "Misplaced Munitorum Munitions​",
+    "name": "Misplaced Munitorum Munitions",
     "cost": 100,
     "description": "Well, the Munitorum is the Munitorum... This large shipping crate was probably originally intended for an Imperial Guard regiment. Instead, somehow, it has ended up in your armory. Inside is a selection of basic weaponry suitable for equipping several squads of Imperial Guardsmen. 30 Lasguns, 30 Laspistols, 3 Long-Las Marksman Weapons, power-packs, 30 suits of flak armor, and 30 comm-beads plus a long-range vox backpack. It’s not a patch on what the average Space Marine wields in battle, but it could be useful, yes? The crate is refilled once a month when nobody's looking. Curious.",
     "origin": "Warhammer 40,000 - Adeptus Astartes"
@@ -8734,7 +8734,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Super Powers",
-    "name": "Way of the Void Dragon​",
+    "name": "Way of the Void Dragon",
     "cost": 400,
     "description": "Technology is but one facet of the Materium, but you are its master. The Void Dragon’s grasp of technology was the very inspiration of the Adeptus Mechanicus, and you retain a similar level of skill. Imperial Guardsmen will flee in terror as their tanks turn against them, the once loyal drones of the Tau will gun down their owners without hesitation, and you will laugh all the while.",
     "origin": "Warhammer 40k - Necrons"
@@ -9074,7 +9074,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Talents",
-    "name": "Genius of Zahndrekh​",
+    "name": "Genius of Zahndrekh",
     "cost": 400,
     "description": "The Nemesors are the mightiest commanders of the Necron forces, capable of waging campaigns with such genius that mortal commanders would drive themselves to the point of madness trying to comprehend it. This genius is now yours. Your mastery of tactics, strategy, and logistics can only be compared to such luminaries as Zahndrekh and the human General Creed. You will be able to run rings around all but the greatest military minds without them even comprehending what is going on.",
     "origin": "Warhammer 40k - Necrons"
@@ -11004,7 +11004,7 @@
     "sourceId": "laboratory",
     "edition": "default",
     "chapter": "Weapons",
-    "name": "Staff of Light​",
+    "name": "Staff of Light",
     "cost": 100,
     "description": "The badge of office of Necron Nobility, this weapon does not follow the same principles as the baseline Gauss Weaponry of the Necrons. Instead, it absorbs energy from thin air to release in the form of bolts of lightning. A devastating weapon at range, and the fractal edged blade on the tip makes it a nightmare to face in close combat as well. Let none doubt your authority with this weapon.",
     "origin": "Warhammer 40k - Necrons"

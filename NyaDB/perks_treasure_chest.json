@@ -1504,7 +1504,7 @@
     "sourceId": "treasure_chest",
     "edition": "default",
     "chapter": "Slops",
-    "name": "Jar of Dirt:",
+    "name": "Jar of Dirt",
     "cost": 100,
     "description": "This is a jar that contains dirt. And that’s it. You promise. Actually, you can put anything into it and it’ll be unfindable by anyone else (well, anyone who bothers to look; it’s just a jar of dirt). Alternatively, you can easily convince people that this simple jar contains the most important secret item ever (or at least a lot of money), if you want to use it as a distraction or “leverage” tool.",
     "origin": "Pirates of the Caribbean Jumpchain"

@@ -174,7 +174,7 @@
     "sourceId": "spellbook",
     "edition": "v2",
     "chapter": "Diagon Alley",
-    "name": "Invisibility Cloak:",
+    "name": "Invisibility Cloak",
     "cost": 100,
     "description": "Made of Demiguise Hair. Will not become less effective over time.",
     "origin": "Harry Potter - Magic Edition"
@@ -1954,7 +1954,7 @@
     "sourceId": "spellbook",
     "edition": "v2",
     "chapter": "Knockturn Alley",
-    "name": "Dark Creature Creation:",
+    "name": "Dark Creature Creation",
     "cost": 600,
     "description": "You learn the foul art on how to make abominations or magic and nature, making things like Dementors or an army of Inferi are not out of your reach.",
     "origin": "Harry Potter - Magic Edition"
@@ -3004,7 +3004,7 @@
     "sourceId": "spellbook",
     "edition": "v2",
     "chapter": "The Wizarding World",
-    "name": "Put your best foot forward -",
+    "name": "Put your best foot forward",
     "cost": 100,
     "description": "You possess mastery over the art of dancing, being capable of intuitively understanding the rhythm of sound and flawlessly performing any type of danc These methods of dance can include classical dances such as ballet as well as freestyle dance types such as hip-hop.",
     "origin": "Harry Potter Movie Series"
@@ -3044,7 +3044,7 @@
     "sourceId": "spellbook",
     "edition": "v2",
     "chapter": "The Wizarding World",
-    "name": "The Boy-Who-Lived -",
+    "name": "The Boy-Who-Lived",
     "cost": 600,
     "description": "No tool of instant death can end your life, neither the killing curse nor a mandrake cry, not even a staring contest with basilisk can kill you however these instant death techniques may leave you with a scar. Keep in mind you can still fall victim to any non-instant killing methods such as regular poison, mundane weapons or blood loss.",
     "origin": "Harry Potter Movie Series"

@@ -1864,7 +1864,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Craftsmen",
-    "name": "Trade Skill​",
+    "name": "Trade Skill",
     "cost": 100,
     "description": "You possess the knowledge of any one late medieval skill, with a minor reputation boost in regards toward your mastery of it, that of a journeyman. Have you considered Blacksmithing or Masonry? ​You have the training of a tradesman, being of at least journeyman skill in whatever trade you pick. This would allow you to be successful in your trade in the level needed for a town or a village, but insufficient for a larger city with a resident master. Each Trade you choose must be an appropriate medieval trade (tanner, potter, brewer, hunter, blacksmith, scribe, etc...). Along with skill in a trade each trade comes with the knowledge of an appropriate additional language (both spoken and written). For example: allowing a blacksmith to speak gnomish or dwarven, a brewer to speak Nilfgaardian, a hunter to speak Dryad, a Scribe to speak the One Speech/Elder Speech.",
     "origin": "The Witcher Novels"
@@ -2304,7 +2304,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Druid",
-    "name": "Magical Herb Garden​",
+    "name": "Magical Herb Garden",
     "cost": 100,
     "description": "Not all magical reagents can be simply plucked from items around some of them take ages to mature fully before you are able to sue them in the spells you need. With this you get a garden full to the brim with magical herbs useful in spells, enchantments, potions, tinctures, poisons and more. This garden has a mixture covering the most important plants , and is 10’ x 10’ large. While the plants in the gardens do not grow faster than normal they do regrow once picked in the same spot. Finally as this is an enchanted garden you do not even need a green thumb, the garden automatically maintains itself in order to grow everything perfectly.",
     "origin": "The Witcher Novels"
@@ -2674,7 +2674,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Fighter",
-    "name": "Cirilla Fiona Elen Riannon​",
+    "name": "Cirilla Fiona Elen Riannon",
     "cost": 400,
     "description": "Also known as Ciri, the Lion Cub of Cintra, Zireael, Falka, and the Lady of Time and Space, she is the princess of Cintra, daughter of Pavetta and Duny (also known as the Urcheon of Erlenwald) and granddaughter of Queen Calanthe. She is also Geralt's and Yennefer's adopted daughter, around whom much of the plot is centered. Ciri is a descendant of Lara Dorren and has the Elder blood which gives her access to powers that allow her to cross space and time. Ciri has ashen grey hair and green emerald eyes, a trait that runs in her family.",
     "origin": "The Witcher Novels"
@@ -3754,7 +3754,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Mage",
-    "name": "Spider Web Badge:",
+    "name": "Spider Web Badge",
     "cost": 100,
     "description": "Not dropped by a spider, oddly enough. This gold and blue badge appeared after defeating a powerful witch heartless. It increases your magical power when worn",
     "origin": "Kingdom Heart"
@@ -3834,7 +3834,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Mage",
-    "name": "Triss Merigold​",
+    "name": "Triss Merigold",
     "cost": 300,
     "description": "A sorceress and a friend of Geralt and Yennefer. She took care of Ciri for some time and is like an older sister to her. She was member of the Lodge of Sorceresses. Triss is in love with Geralt. Poor girl, her beloved has his eyes only on other woman, so Triss is only a friend to him. Maybe you can help her, or even become a target of her affection Regardless of your relationships, know that she was one of the mages that helped the northern kingdoms repel the aggression of the Nilfgaardian Empire. Many people even think that she died in a battle which broken the back of the empire army. This is certainly not the case and most likely due to the fact that she has an allergy to healing elixirs. A charming girl with flowing auburn hair, she makes friends easily, it is not a surprise that she has great connections. A talented sorceress, Triss is known for her ability to use even failed spells with great efficiency, albeit not as originally intended and not without random victims of course...",
     "origin": "The Witcher Novels"
@@ -3924,7 +3924,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Mage",
-    "name": "Yennefer of Venderburg​",
+    "name": "Yennefer of Venderburg",
     "cost": 300,
     "description": "An attractive, but not a very beautiful woman, who prefers a black and white colors in clothes, she faintly smells of lilac and gooseberry. Beloved of Geralt and foster mother of Ciri. Yennefer has a complex character, purposefulness and rare ruthlessness backed by sharp tongue. However, it would be a mistake to think that she is a bad person, her character is the result of the fact that Yennefer was born nearly century ago as an ugly hunchback and therefore was not needed by her family. Only a talent for magic became her key to a better life in this era. Yennefer learned and became a strong sorceress, correcting her appearance, at certain point of her life realized that she wants to become a mother, but what gives magicians their power deprives them of their ability to have children, what by the way resulted in peculiar story involving a djinn, Yennefer, certain witcher and his last wish. Help her in her quest and you have very skilled sorceress with unbreakable willpower by your side.",
     "origin": "The Witcher Novels"
@@ -4464,7 +4464,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Necromancer",
-    "name": "Dark Creature Creation:",
+    "name": "Dark Creature Creation",
     "cost": 0,
     "description": "You learn the foul art on how to make abominations or magic and nature, making things like Dementors or an army of Inferi are not out of your reach.",
     "origin": "Harry Potter - Magic"
@@ -4954,7 +4954,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Necromancer",
-    "name": "The Left Eye of Beliar:",
+    "name": "The Left Eye of Beliar",
     "cost": 200,
     "description": "This red eye, when fused with a host, grants the bearer the ability to magnify their vision in a telescopic manner. Any abilities that the left eye previously had or will have, are augmented by the eye.",
     "origin": "Bloodrayne"
@@ -6004,7 +6004,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Scholar",
-    "name": "Lost Library of Cagliostro:",
+    "name": "Lost Library of Cagliostro",
     "cost": 600,
     "description": "Any Master of the Mystic Arts understands that the true gateway to power is knowledge. It is for this reason that the wise Cagliostro hid his library away from the world. Thankfully, you have a backdoor key. Protected by magical enchantments that gave even Dr. Strange pause, this library contains hundreds of thousands, if not millions, of books on the arcane arts. Even forbidden tomes and texts thought lost to time are all protected within this expansive stone structure. From now on, you may access the library at any time, conjuring a doorway to the mysterious jungle that hides this place from prying eyes.",
     "origin": "Marvel What If…?"
@@ -6124,7 +6124,7 @@
     "sourceId": "grimoire",
     "edition": "v3",
     "chapter": "The Scholar",
-    "name": "Oghma Infinium:",
+    "name": "Oghma Infinium",
     "cost": 600,
     "description": "No book of forbidden knowledge is more coveted than this. The Oghma Infinium. The Librum of Knowledge. The Book That Knows. Knowledge is power, and the information in this book is proof to that statement. Few exist who can resist the temptation. What this tome does reveal the paths to different kinds of power and opens them to you. It has sections related to each of the Guardian Constellations: The Warrior, The Mage, and The Thief. Opening this tome connects it to you and grants a surge in capability to follow the chosen path. It’s been said the tome confers such power with its secrets that readers become like demigods. The closer you already are to mortal limits, the more true that claim is. No matter your current level it will be improved noticeably through studying the secrets within. For a warrior, this tome would improve your body’s strength and endurance while all skills related to combat. A mage would become smarter and wiser, and advance their understanding of every magical school. Even a thief will gain improved speed and reflexes and find all of their skills related to stealth are better. Take care to read it when the time is right. Afterwards, you can keep the volume, though you will find the special energy it shared to empower you as yours alone.",
     "origin": "Elder Scrolls: Oblivion"

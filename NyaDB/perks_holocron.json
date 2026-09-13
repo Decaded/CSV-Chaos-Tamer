@@ -1874,7 +1874,7 @@
     "sourceId": "holocron",
     "edition": "default",
     "chapter": "Politician",
-    "name": "Alliance to Restore [Insert Name Here]:",
+    "name": "Alliance to Restore [Insert Name Here]",
     "cost": 600,
     "description": "No politician is complete without some backup and you’ve got it in spades: an entire organization now backs you and your goals up no matter what they may be. The organization is incredibly good at infiltration and hit and run attacks and committing all sorts of illegal actions without getting caught, or at least managing to get away without a problem. Lastly the organization is completely loyal to you and could only be subverted by means beyond the realms of nature, such as Chaos taint or Sith Sorcery.",
     "origin": "Star Wars - The Force Unleashed"
@@ -2034,7 +2034,7 @@
     "sourceId": "holocron",
     "edition": "default",
     "chapter": "Politician",
-    "name": "Galactic Governor:",
+    "name": "Galactic Governor",
     "cost": 600,
     "description": "It would seem you actually earned your position as an Imperial Senator, unlike many within the Senate. By this I mean you have true ability when it comes to ruling, enough so that you could run a galactic government as bureaucratic and corrupt as the Old Republic smoothly and efficiently while also being able to easily juggle the various agendas of the parties within and quickly push new policies through. This governance skill also extends to the economy, allowing for galactic economic booms to be engineered with ease or even Great Depressions should that be the wish.",
     "origin": "Star Wars - The Force Unleashed"
@@ -2754,7 +2754,7 @@
     "sourceId": "holocron",
     "edition": "default",
     "chapter": "Scoundrels",
-    "name": "Solo’s Luck:",
+    "name": "Solo’s Luck",
     "cost": 600,
     "description": "A great deal of luck that can get you out of most sticky situations, leading you into ones where you stand to gain quite a bit. Han Solo can attest to that, lucky to be in a backwater bar at the right time and now a galactic hero married to the Princess of Alderaan and a leader of the rebellion. Your luck is now at that same level. It’ll lead into new and varied situations heaping rewards and adventure on you all the while and for those of a more traditional focus it’ll be quite something in any place where chance is King. Who knows, maybe you’ll ignore this Sith and Jedi crap and just rob the Sabacc circles blind and live like a king on the bounty you plunder.",
     "origin": "Star Wars - Dark Empire"
@@ -2834,7 +2834,7 @@
     "sourceId": "holocron",
     "edition": "default",
     "chapter": "Scoundrels",
-    "name": "Underworld Contacts:",
+    "name": "Underworld Contacts",
     "cost": 200,
     "description": "You have the ability to quickly and easily make contacts and ‘friends’ in the criminal underworld. You’ll also find yourself in situations where you can gain favors from people who could be useful down the line. This may not lend to individual power all that much, but when you’ve got a friend in every port you tend to have quite a few options.",
     "origin": "Star Wars - Dark Empire"
@@ -3934,7 +3934,7 @@
     "sourceId": "holocron",
     "edition": "default",
     "chapter": "Warlord",
-    "name": "Droidekas:",
+    "name": "Droidekas",
     "cost": 400,
     "description": "Also known as destroyer droids, these were the greatest single infantry unit of the clone wars, with each having a very powerful personal shield generator and 2 high powered rapid fire twin blaster cannons known for mowing down enemy infantry en-masse. The Droideka also has an additional feature, in that it can roll up into a ball and move at up to 75 kph in order to rapidly deploy to an area it needs to be. Unless the enemy has anti vehicle weapons, they’ll need to employ specialized tactics to take out groups of these droids. You gain a battalion’s worth of Droidekas. Respawns monthly.",
     "origin": "Empire at War"
@@ -4184,7 +4184,7 @@
     "sourceId": "holocron",
     "edition": "default",
     "chapter": "Warlord",
-    "name": "Praetorian Guard:",
+    "name": "Praetorian Guard",
     "cost": 200,
     "description": "If it’s bodyguards you seek, look no further. This purchase nets you eight expert warriors who will protect you with fervent zeal. They may not be Force users themselves, but they have the training and fearlessness to tackle any Jedi or Sith. Unlike Snoke’s personal guard, these soldiers work in perfect tandem to coordinate your defence.",
     "origin": "Star Wars Sequel Trilogy V1.1"
@@ -4304,7 +4304,7 @@
     "sourceId": "holocron",
     "edition": "default",
     "chapter": "Warlord",
-    "name": "The Eclipse:",
+    "name": "The Eclipse",
     "cost": 600,
     "description": "This isn’t something you should have, or anyone should really have for that matter but you do regardless. Under your command is a single Eclipse-Class Super Star Destroyer identical to Palpatine’s flagship. This monster is an absolute terror to face and represents the pinnacle of Imperial Naval technology; armed with five hundred and fifty heavy laser cannons and another five hundred turbolasers this ship is capable of easily smashing almost any other Star Wars ship in a straight slugfest. What it can’t beat in such a fight can easily be annihilated with its axial superlaser which is strong enough to crack planetary shields and slag continents and hit moving targets in battle. The ship is also equipped with ten gravity well generators to ensure opponents can’t make a run for it and a compliment of 600 TIE Interceptors and 96 TIE Bombers for fighter purposes. The warship comes crewed with droids and a standard crew.",
     "origin": "Star Wars - Dark Empire"

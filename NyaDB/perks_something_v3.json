@@ -8659,16 +8659,6 @@
     "description": "This methodology lets you \"rush\" spells and some other works of magic to execute them faster by skipping certain steps, using mnemonic tricks, and performing several parts of a single magical work at once. How much you can rush a spell depends on its nature: some spells cannot be quick-executed at all. Spells cast this way are riskier and more prone to miscasting. Their intensity may also be either reduced or increased unpredictably. The main drawback is the inconsistency of these side effects, though the general nature of the spell is always preserved.",
     "origin": "Original"
   },
-  "884cca05-d85d-5509-9da2-d3ec2dabada5": {
-    "id": "884cca05-d85d-5509-9da2-d3ec2dabada5",
-    "sourceId": "something",
-    "edition": "v3",
-    "chapter": "Magic Corner",
-    "name": "Ritual:  Lesser Flame Summoning",
-    "cost": 50,
-    "description": "You've learned a new ritual! Name: Lesser Flame Summoning Aspect: 2 Alien + 2 Flame + 1 Aether Description: Summon a lesser spirit of fire to perform a task or bind it to your service. They do not have a mind of their own beyond what the summoner gives them. They have a strange way of thinking. Such a spirit might be used to power a large lantern or be settled into a furnace. In certain circumstances, it is possible for a lesser spirit to grow or become unstable, but this usually does not happen.",
-    "origin": "Original"
-  },
   "49fe0fea-75dc-5cc4-affa-c3187bc6f5ef": {
     "id": "49fe0fea-75dc-5cc4-affa-c3187bc6f5ef",
     "sourceId": "something",
@@ -8737,6 +8727,16 @@
     "name": "Ritual: Inevitability",
     "cost": 100,
     "description": "You've learned a new ritual! Name: Inevitability Aspect: 1 Chaos + 1 Destruction + 1 Order + 1 Time + 1 Space + 5 Essence Description: This complicated ritual lets one catch and make physical the entropy that surrounds us everywhere in the universe. It plucks this principle from all around and turns it into a gray, ever-burning flame. This fire can be moved; it is imperishable by normal means and causes anything intersecting its volume to reach its end. If part of a metal rod intersects the flame, it will appear as though its time accelerates faster and faster, until it reaches the end state of its existence.",
+    "origin": "Original"
+  },
+  "884cca05-d85d-5509-9da2-d3ec2dabada5": {
+    "id": "884cca05-d85d-5509-9da2-d3ec2dabada5",
+    "sourceId": "something",
+    "edition": "v3",
+    "chapter": "Magic Corner",
+    "name": "Ritual: Lesser Flame Summoning",
+    "cost": 50,
+    "description": "You've learned a new ritual! Name: Lesser Flame Summoning Aspect: 2 Alien + 2 Flame + 1 Aether Description: Summon a lesser spirit of fire to perform a task or bind it to your service. They do not have a mind of their own beyond what the summoner gives them. They have a strange way of thinking. Such a spirit might be used to power a large lantern or be settled into a furnace. In certain circumstances, it is possible for a lesser spirit to grow or become unstable, but this usually does not happen.",
     "origin": "Original"
   },
   "728d9c22-b69f-55b9-9274-3de9a0142044": {
@@ -8857,16 +8857,6 @@
     "name": "Spell-Slinging",
     "cost": 100,
     "description": "This perk grants you the skill and knowledge to pre-program certain simple changes to a spell's carrier trajectory before casting, or to give it a slight nudge while it is already active with some focus. It increases accuracy and allows techniques such as curving spells or changing their speed mid-flight. It cannot be too complicated and the cost grows proportionally to degree and complexity of changes, depending partially on the nature of the work too.",
-    "origin": "Original"
-  },
-  "a4e71c5c-2b7e-5af2-b32c-a1aeb6ed6094": {
-    "id": "a4e71c5c-2b7e-5af2-b32c-a1aeb6ed6094",
-    "sourceId": "something",
-    "edition": "v3",
-    "chapter": "Magic Corner",
-    "name": "Spell:  Coal Making",
-    "cost": 10,
-    "description": "You've learned a new spell! Name: Coal Making Aspect: 2 Transformation + 1 Wood + 1 Fire Description: This spell is used on a volume of wood to gradually turn it into charcoal of that type of wood. It works more quickly on many smaller chunks of wood than on one large piece. The larger the volume, the longer it takes. There is a maximum volume of a target (around 1.72 cubic meters).",
     "origin": "Original"
   },
   "5d00fcd1-f59c-5c6e-8db6-486ee090186a": {
@@ -9157,6 +9147,16 @@
     "name": "Spell: Chord of True Level",
     "cost": 10,
     "description": "You've learned a new spell! Name: Chord of True Level Aspect: 2 Space + 1 Order Description: The caster snaps a length of ordinary twine or rope taut between two stakes. They then whisper the spell and flick the twine. A barely-visible ripple of blue-white light travels along the cord, and the twine goes unnaturally rigid. For the next hour, the twine is magically anchored to the planet's gravitational core, making it a perfectly horizontal and vibration-less reference line. This is the surveyor's best friend, used to lay perfectly straight aqueduct channels, set door frames, and pour flawless floors. The twine can be moved and re-anchored, but each re-setting requires a new casting.",
+    "origin": "Original"
+  },
+  "a4e71c5c-2b7e-5af2-b32c-a1aeb6ed6094": {
+    "id": "a4e71c5c-2b7e-5af2-b32c-a1aeb6ed6094",
+    "sourceId": "something",
+    "edition": "v3",
+    "chapter": "Magic Corner",
+    "name": "Spell: Coal Making",
+    "cost": 10,
+    "description": "You've learned a new spell! Name: Coal Making Aspect: 2 Transformation + 1 Wood + 1 Fire Description: This spell is used on a volume of wood to gradually turn it into charcoal of that type of wood. It works more quickly on many smaller chunks of wood than on one large piece. The larger the volume, the longer it takes. There is a maximum volume of a target (around 1.72 cubic meters).",
     "origin": "Original"
   },
   "f7b9af6b-fe68-5403-9d6d-3d889e54b4ec": {
@@ -20499,16 +20499,6 @@
     "description": "While many may wish they had the beastly computers needed to run games on max settings, many don’t. But why should we limit the beauty of your art for such a mundane reason? Your art and animations are such that no matter how hi-res the models or complex the animation it will have a minimal, if any, impact on how well your game runs. This also applies to other items and products you help create, meaning even the shittiest of computers or consoles can run your game at the highest resolution without suffering too much, while products like swords can have designs might seem to hinder a user’s ability to swing it when in fact it’s just as useable as a normal one.",
     "origin": "Generic Videogame Developer CYOA"
   },
-  "87a0953f-3312-560f-bee0-bf7a314b042c": {
-    "id": "87a0953f-3312-560f-bee0-bf7a314b042c",
-    "sourceId": "something",
-    "edition": "v3",
-    "chapter": "Sandbox",
-    "name": "Vanilla  Enchanting",
-    "cost": 300,
-    "description": "This perk grants you the ability to utilize magic for the Minecraft-style art of enchantment, along with a natural talent for the craft and a scholarly intuition for its underlying principles. You gain a comprehensive understanding of the general theory behind the enchanting process and learn how to apply enchanted items in both conventional and creative ways. While this perk does not provide you with any specific enchantment recipes, it allows you to freely experiment, test applications on different items, and modify existing blueprints in your possession far beyond the limitations of the original game. Mastery of this perk is required to use an enchanting table effectively.",
-    "origin": "Vanilla Minecraft"
-  },
   "68a3467c-7a65-5b46-9c52-e01044f2173e": {
     "id": "68a3467c-7a65-5b46-9c52-e01044f2173e",
     "sourceId": "something",
@@ -20517,6 +20507,16 @@
     "name": "Vanilla Brewing",
     "cost": 200,
     "description": "This perk grants you the ability to utilize magic for Minecraft-style brewing, along with a natural talent for the craft and a scholarly intuition for its underlying principles. You gain a comprehensive understanding of the general theory behind the brewing process and learn how to apply potions in both conventional and creative ways. While this perk does not provide you with any specific recipes, it allows you to freely experiment, test new brews, and modify existing blueprints in your possession far beyond the limitations of the original game. Mastery of this perk is required to use a brewing stand effectively.",
+    "origin": "Vanilla Minecraft"
+  },
+  "87a0953f-3312-560f-bee0-bf7a314b042c": {
+    "id": "87a0953f-3312-560f-bee0-bf7a314b042c",
+    "sourceId": "something",
+    "edition": "v3",
+    "chapter": "Sandbox",
+    "name": "Vanilla Enchanting",
+    "cost": 300,
+    "description": "This perk grants you the ability to utilize magic for the Minecraft-style art of enchantment, along with a natural talent for the craft and a scholarly intuition for its underlying principles. You gain a comprehensive understanding of the general theory behind the enchanting process and learn how to apply enchanted items in both conventional and creative ways. While this perk does not provide you with any specific enchantment recipes, it allows you to freely experiment, test applications on different items, and modify existing blueprints in your possession far beyond the limitations of the original game. Mastery of this perk is required to use an enchanting table effectively.",
     "origin": "Vanilla Minecraft"
   },
   "afa77184-2028-5b7b-9f80-4a111284a868": {

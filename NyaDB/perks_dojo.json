@@ -9034,7 +9034,7 @@
     "sourceId": "dojo",
     "edition": "default",
     "chapter": "Refinement",
-    "name": "Against TIme\r\nAgeless",
+    "name": "Against TIme Ageless",
     "cost": 200,
     "description": "Another trait commonly found in the stronger Dagravant. While the Ashavan bow before the natural order of things and see old age and natural death as something that should be respected, the more powerful Daeva instead trend to use their own powers to keep their life going forever. However, only the mightiest of them can keep going for centuries or more. Whatever methods you have used, your lifespan is now basically endless, unless violence ends your life. Not only that, but you are also especially suited for the trials of immortality, as your mind and ego are well suited to your long existence, maintaining themselves fresh regardless of how much time passes, instead of degrading before the ravages of time.",
     "origin": "Avesta of Black and White"
@@ -9384,7 +9384,7 @@
     "sourceId": "dojo",
     "edition": "default",
     "chapter": "Refinement",
-    "name": "Cryptobiosis***",
+    "name": "Cryptobiosis",
     "cost": 200,
     "description": "The Nitro can enter a state of metabolic dormancy in which they can hibernate for centuries without food or water and allow them to survive numerous mass extinction events, as recounted by Chief Mansam. With that perk, Jumper can easily enter a state of dormancy for a long time, even billions of years. One drop of water is capable of waking you from that state. After awakening from dormant state, you gain one time boost to your physical stats in order to hunt and devour beasts in order to regain your old strength from centuries ago. That strength boost could be only used to find nutritious food.",
     "origin": "Toriko"
@@ -11569,12 +11569,22 @@
     "description": "The cultivation path of this world is based on Will itself. This becomes most apparent in the higher levels of cultivation. There are two sources of cultivation. The first is spiritual energy, which, while abundant in the Eternal Domain, is much sparser in the Heavenspan world. This is what is used by the river sects in the Heavenspan world, and by the cultivators in the Saint-Emperor’s domain. The other is Soul Vitality, absorbed from the souls of the dead, primarily used by the cultivators of the Wildlands and Vile-Emperor’s domain. By taking in this energy, you will slowly grow more powerful, and your lifespan will increase each time you advance a stage. Separate from both of those, is body cultivation. This focuses on raising the strength of the fleshy body and vital energy of the cultivator. You will start at the level of qi condensation.",
     "origin": "A Will Eternal"
   },
+  "44c44752-28f9-5bd8-8ed1-8a08dfd143f1": {
+    "id": "44c44752-28f9-5bd8-8ed1-8a08dfd143f1",
+    "sourceId": "dojo",
+    "edition": "default",
+    "chapter": "Source",
+    "name": "Custom Technique",
+    "cost": 800,
+    "description": "If none of the above options appeal to you, you can always make your own technique. Use the existing techniques listed above as guidelines for determining its price and the power of its effects. A situational cursed technique or one with a lot of limitations would likely only be 200 CP, for example, while one with overwhelming power and versatility would be 800 CP. May be Purchased Multiple Times",
+    "origin": "Jujutsu Kaisen"
+  },
   "a3ee71f8-ea03-5b61-8ed8-1e1988a2d784": {
     "id": "a3ee71f8-ea03-5b61-8ed8-1e1988a2d784",
     "sourceId": "dojo",
     "edition": "default",
     "chapter": "Source",
-    "name": "Custom Technique(200)",
+    "name": "Custom Technique",
     "cost": 200,
     "description": "If none of the above options appeal to you, you can always make your own technique. Use the existing techniques listed above as guidelines for determining its price and the power of its effects. A situational cursed technique or one with a lot of limitations would likely only be 200 CP, for example, while one with overwhelming power and versatility would be 800 CP. May be Purchased Multiple Times",
     "origin": "Jujutsu Kaisen"
@@ -11584,7 +11594,7 @@
     "sourceId": "dojo",
     "edition": "default",
     "chapter": "Source",
-    "name": "Custom Technique(400)",
+    "name": "Custom Technique",
     "cost": 400,
     "description": "If none of the above options appeal to you, you can always make your own technique. Use the existing techniques listed above as guidelines for determining its price and the power of its effects. A situational cursed technique or one with a lot of limitations would likely only be 200 CP, for example, while one with overwhelming power and versatility would be 800 CP. May be Purchased Multiple Times",
     "origin": "Jujutsu Kaisen"
@@ -11594,18 +11604,8 @@
     "sourceId": "dojo",
     "edition": "default",
     "chapter": "Source",
-    "name": "Custom Technique(600)",
+    "name": "Custom Technique",
     "cost": 600,
-    "description": "If none of the above options appeal to you, you can always make your own technique. Use the existing techniques listed above as guidelines for determining its price and the power of its effects. A situational cursed technique or one with a lot of limitations would likely only be 200 CP, for example, while one with overwhelming power and versatility would be 800 CP. May be Purchased Multiple Times",
-    "origin": "Jujutsu Kaisen"
-  },
-  "44c44752-28f9-5bd8-8ed1-8a08dfd143f1": {
-    "id": "44c44752-28f9-5bd8-8ed1-8a08dfd143f1",
-    "sourceId": "dojo",
-    "edition": "default",
-    "chapter": "Source",
-    "name": "Custom Technique(800)",
-    "cost": 800,
     "description": "If none of the above options appeal to you, you can always make your own technique. Use the existing techniques listed above as guidelines for determining its price and the power of its effects. A situational cursed technique or one with a lot of limitations would likely only be 200 CP, for example, while one with overwhelming power and versatility would be 800 CP. May be Purchased Multiple Times",
     "origin": "Jujutsu Kaisen"
   },
@@ -13164,7 +13164,7 @@
     "sourceId": "dojo",
     "edition": "default",
     "chapter": "Talent",
-    "name": "Eight Hundred Years of Cutting  - Mastery",
+    "name": "Eight Hundred Years of Cutting - Mastery",
     "cost": 800,
     "description": "With all that time, it’d be mad if you hadn’t gained something already. You’ve managed to reach Juuzou’s level in swordsmanship or a similarly broad field. With a blade in your hand, you could slice even a Vampire Noble in half despite not having nearly the raw strength to actually do so. Cut through space to reach the 4th dimension, slice the concept of an apple to cause those around you to forget what an apple is, cause massive explosions by cutting atoms or even cut a cut to prevent another cut. The process of your training, even if it is not towards combat uses, has also refined your body to an exceptional degree. While your strength and durability is only moderate for the higher end of this world, you have incredible amounts of speed and agility, enough to surprise and outpace great wizards and warriors like Evangeline or Jinbei.",
     "origin": "UQ Holder"
@@ -16949,33 +16949,13 @@
     "description": "This is a customisable artifact of some power. The Sovereign artifact, as implied by its name, is something that Sovereign cultivators would seek out to use, let alone cultivators of a weaker level. After flying through the void of space for untold years, it has come crashing down in front of you as you enter the jump with nary a whisper of its appearance. Like the Sovereign fan that will soon pass the Eternal Realm, its functionality will slowly by unlocked as you complete challenges of appropriate difficulties. Its exact function is something you should decide now, whether it be a weapon, a transport, a shield, or other. Whatever the case, it is extremely strong, and likely large. As a sovereign level treasure, its function can dip slightly into the domain of a Dao, like the hour glasses that affected the flow of time around them. Its full power will only by fully unlocked when you reach the peak of Archaean realm, or are of similar power.",
     "origin": "A Will Eternal"
   },
-  "c6f5d1f2-23c3-5f30-9fbb-bc6a7c7acbb2": {
-    "id": "c6f5d1f2-23c3-5f30-9fbb-bc6a7c7acbb2",
-    "sourceId": "dojo",
-    "edition": "default",
-    "chapter": "Treasure",
-    "name": "Special Grade Cursed Tool(200)",
-    "cost": 200,
-    "description": "By purchasing this option, you receive a cursed tool imbued with one of the abilities from the cursed technique section, allowing you to wield it through this item. The exact form of your cursed tool, as well as how it specifically interacts with the cursed technique it carries, is up to you. Perhaps you have a megaphone that allows you to use Cursed Speech when talking through it, a shamisen imbued with Boogie Woogie that switches people’s places when played, or a sword that slowly leaks blood that its wielder can control as if by Blood Manipulation. As long as its effects are related to the original technique – and don’t exceed it in power or ignore its limitations – it should be possible. The price for such an object is equal to the original cost of the cursed technique. May be Purchased Multiple Times",
-    "origin": "Jujutsu Kaisen"
-  },
   "39736ae1-7362-5861-b7db-5e789778b6fb": {
     "id": "39736ae1-7362-5861-b7db-5e789778b6fb",
     "sourceId": "dojo",
     "edition": "default",
     "chapter": "Treasure",
-    "name": "Special Grade Cursed Tool(400)",
+    "name": "Special Grade Cursed Tool",
     "cost": 400,
-    "description": "By purchasing this option, you receive a cursed tool imbued with one of the abilities from the cursed technique section, allowing you to wield it through this item. The exact form of your cursed tool, as well as how it specifically interacts with the cursed technique it carries, is up to you. Perhaps you have a megaphone that allows you to use Cursed Speech when talking through it, a shamisen imbued with Boogie Woogie that switches people’s places when played, or a sword that slowly leaks blood that its wielder can control as if by Blood Manipulation. As long as its effects are related to the original technique – and don’t exceed it in power or ignore its limitations – it should be possible. The price for such an object is equal to the original cost of the cursed technique. May be Purchased Multiple Times",
-    "origin": "Jujutsu Kaisen"
-  },
-  "c4de991e-6868-5d0e-93c2-641ab40c3778": {
-    "id": "c4de991e-6868-5d0e-93c2-641ab40c3778",
-    "sourceId": "dojo",
-    "edition": "default",
-    "chapter": "Treasure",
-    "name": "Special Grade Cursed Tool(600)",
-    "cost": 600,
     "description": "By purchasing this option, you receive a cursed tool imbued with one of the abilities from the cursed technique section, allowing you to wield it through this item. The exact form of your cursed tool, as well as how it specifically interacts with the cursed technique it carries, is up to you. Perhaps you have a megaphone that allows you to use Cursed Speech when talking through it, a shamisen imbued with Boogie Woogie that switches people’s places when played, or a sword that slowly leaks blood that its wielder can control as if by Blood Manipulation. As long as its effects are related to the original technique – and don’t exceed it in power or ignore its limitations – it should be possible. The price for such an object is equal to the original cost of the cursed technique. May be Purchased Multiple Times",
     "origin": "Jujutsu Kaisen"
   },
@@ -16984,8 +16964,28 @@
     "sourceId": "dojo",
     "edition": "default",
     "chapter": "Treasure",
-    "name": "Special Grade Cursed Tool(800)",
+    "name": "Special Grade Cursed Tool",
     "cost": 800,
+    "description": "By purchasing this option, you receive a cursed tool imbued with one of the abilities from the cursed technique section, allowing you to wield it through this item. The exact form of your cursed tool, as well as how it specifically interacts with the cursed technique it carries, is up to you. Perhaps you have a megaphone that allows you to use Cursed Speech when talking through it, a shamisen imbued with Boogie Woogie that switches people’s places when played, or a sword that slowly leaks blood that its wielder can control as if by Blood Manipulation. As long as its effects are related to the original technique – and don’t exceed it in power or ignore its limitations – it should be possible. The price for such an object is equal to the original cost of the cursed technique. May be Purchased Multiple Times",
+    "origin": "Jujutsu Kaisen"
+  },
+  "c4de991e-6868-5d0e-93c2-641ab40c3778": {
+    "id": "c4de991e-6868-5d0e-93c2-641ab40c3778",
+    "sourceId": "dojo",
+    "edition": "default",
+    "chapter": "Treasure",
+    "name": "Special Grade Cursed Tool",
+    "cost": 600,
+    "description": "By purchasing this option, you receive a cursed tool imbued with one of the abilities from the cursed technique section, allowing you to wield it through this item. The exact form of your cursed tool, as well as how it specifically interacts with the cursed technique it carries, is up to you. Perhaps you have a megaphone that allows you to use Cursed Speech when talking through it, a shamisen imbued with Boogie Woogie that switches people’s places when played, or a sword that slowly leaks blood that its wielder can control as if by Blood Manipulation. As long as its effects are related to the original technique – and don’t exceed it in power or ignore its limitations – it should be possible. The price for such an object is equal to the original cost of the cursed technique. May be Purchased Multiple Times",
+    "origin": "Jujutsu Kaisen"
+  },
+  "c6f5d1f2-23c3-5f30-9fbb-bc6a7c7acbb2": {
+    "id": "c6f5d1f2-23c3-5f30-9fbb-bc6a7c7acbb2",
+    "sourceId": "dojo",
+    "edition": "default",
+    "chapter": "Treasure",
+    "name": "Special Grade Cursed Tool",
+    "cost": 200,
     "description": "By purchasing this option, you receive a cursed tool imbued with one of the abilities from the cursed technique section, allowing you to wield it through this item. The exact form of your cursed tool, as well as how it specifically interacts with the cursed technique it carries, is up to you. Perhaps you have a megaphone that allows you to use Cursed Speech when talking through it, a shamisen imbued with Boogie Woogie that switches people’s places when played, or a sword that slowly leaks blood that its wielder can control as if by Blood Manipulation. As long as its effects are related to the original technique – and don’t exceed it in power or ignore its limitations – it should be possible. The price for such an object is equal to the original cost of the cursed technique. May be Purchased Multiple Times",
     "origin": "Jujutsu Kaisen"
   },

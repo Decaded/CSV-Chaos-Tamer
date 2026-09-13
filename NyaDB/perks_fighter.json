@@ -389,24 +389,24 @@
     "description": "This is an interesting vehicle you’ve got here. Half-sword and half-attack craft, it is shaped like a massive sword with a hilt almost half the entire length of the weapon. And by massive we’re talking about a weapon longer than nobuseri are tall. The ‘blade’ is wide enough for a man to stand on the reverse side of it, and long enough that several people could. A single-person cockpit controls the flying vessel, and it is a fast and agile attack craft - at least as this world measures such things. It lacks ranged weapons, but its giant blade is at least good for ramming. And if you had the strength, or maybe a mech of your own, it could be used as a giant sword. The thruster on the back ought to help with those super robot attacks.",
     "origin": "Samurai 7"
   },
-  "e08af248-93be-53fd-b42f-b0b1a09f6af2": {
-    "id": "e08af248-93be-53fd-b42f-b0b1a09f6af2",
-    "sourceId": "fighter",
-    "edition": "default",
-    "chapter": "Armory",
-    "name": "Astras (300)",
-    "cost": 300,
-    "description": "Well, where would any work based on Hindu myth be without the great weapons granted by the gods? Mighty arrows and spells capable of devastating battlefields and smiting armies en-masse, these weapons remake lands and force maps to be redrawn. And you can have them now! There are many, many Astras you can choose from, an almost infinite list. And barring Planet (or more) destroying weapons like the Brahmastra, you can have any of them for a flat 300 CP. That is, 300 per Astra, so don’t go trying to get clever about it. You can have the mighty Solar Astra, or the Narayanastra, or virtually any other you may care to claim for yourself, except, again, the very greatest of them all. Can Be Purchased Multiple Times",
-    "origin": "Grant Morrison's 18 Days"
-  },
   "6a9f77fb-912c-5889-87af-1f3d9cc8320d": {
     "id": "6a9f77fb-912c-5889-87af-1f3d9cc8320d",
     "sourceId": "fighter",
     "edition": "default",
     "chapter": "Armory",
-    "name": "Astras (500)",
+    "name": "Astras",
     "cost": 500,
     "description": "Well, where would any work based on Hindu myth be without the great weapons granted by the gods? Mighty arrows and spells capable of devastating battlefields and smiting armies en-masse, these weapons remake lands and force maps to be redrawn. And you can have them now! There are many, many Astras you can choose from, an almost infinite list. And barring Planet (or more) destroying weapons like the Brahmastra, you can have any of them for a flat 300 CP. That is, 300 per Astra, so don’t go trying to get clever about it. You can have the mighty Solar Astra, or the Narayanastra, or virtually any other you may care to claim for yourself, except, again, the very greatest of them all. When it comes to the very greatest Astras of them all, weapons that can sink entire continents and break planets... they cost 500 CP... with some exceptions.",
+    "origin": "Grant Morrison's 18 Days"
+  },
+  "e08af248-93be-53fd-b42f-b0b1a09f6af2": {
+    "id": "e08af248-93be-53fd-b42f-b0b1a09f6af2",
+    "sourceId": "fighter",
+    "edition": "default",
+    "chapter": "Armory",
+    "name": "Astras",
+    "cost": 300,
+    "description": "Well, where would any work based on Hindu myth be without the great weapons granted by the gods? Mighty arrows and spells capable of devastating battlefields and smiting armies en-masse, these weapons remake lands and force maps to be redrawn. And you can have them now! There are many, many Astras you can choose from, an almost infinite list. And barring Planet (or more) destroying weapons like the Brahmastra, you can have any of them for a flat 300 CP. That is, 300 per Astra, so don’t go trying to get clever about it. You can have the mighty Solar Astra, or the Narayanastra, or virtually any other you may care to claim for yourself, except, again, the very greatest of them all. Can Be Purchased Multiple Times",
     "origin": "Grant Morrison's 18 Days"
   },
   "2c89b82e-2772-5e02-980f-dd1cb84d114e": {
@@ -4774,7 +4774,7 @@
     "sourceId": "fighter",
     "edition": "default",
     "chapter": "Armory",
-    "name": "Weapon (200)",
+    "name": "Weapon",
     "cost": 200,
     "description": "For 200 CP you can get more complete equipment such as blades and a bow, like Rongcheng Zeqi, or something more durable and durable with a few hidden tricks like Jiao Yin's fan.",
     "origin": "Fog Hill of Five Elements"
@@ -7224,7 +7224,7 @@
     "sourceId": "fighter",
     "edition": "default",
     "chapter": "Artifacts",
-    "name": "Interspatial Ring (100)",
+    "name": "Interspatial Ring",
     "cost": 100,
     "description": "For 100 CP you can get a ring with the same properties as the FREE version, but its storage is upgraded to a 1 cubic kilometer cube. Time inside will be flexible, with you being able to adjust it from complete time freeze to a 1:1 scale with the space outside the ring. Can be Purchased Multiple Times",
     "origin": "Tales Of Demons and Gods"
@@ -7279,24 +7279,24 @@
     "description": "A wonder of medical-martial technology, the Jade System allows unprecedented versatility of style, combining advanced computing and ancient martial forms into something greater than the sum of its parts. In short, you have a cybernetic implant which, when loaded with the appropriate jade chips, can modify your qi, allowing you to swap out and alter your techniques. Each chip takes a certain amount of computing power. By default, the Jade System has two Units available. Choose a number of Jades to install whose collective Computation Units (CU) equal that your system has available. All Jades are made available to you and, with the appropriate technological knowledge, you could develop more Jades, to interact with other techniques you may know or learn. For 200 CP your Jade System can hold the maximum complement of 10 Units.",
     "origin": "Nine Sols"
   },
-  "603eb274-037e-5e3d-9f2b-f25b9796c6f7": {
-    "id": "603eb274-037e-5e3d-9f2b-f25b9796c6f7",
-    "sourceId": "fighter",
-    "edition": "default",
-    "chapter": "Artifacts",
-    "name": "Jade Tablets (100)",
-    "cost": 100,
-    "description": "These are jade tablets, holding the complete details of exactly one Profound Art of the highest quality. Profound Arts are typically classified into Movement skills, Concealment skills and Profound Skills, which are basically attacking techniques. There are also special cultivation measures, illusion techniques, armed or unarmed techniques... and so many other options. For 100 CP these tablets can be any canonical Profound art not connected to the divine realm, but some of the absolute best stuff possible within this constraint, easily a peer with the finest arts practiced by the geniuses of the greatest sects and Sacred Grounds. If not a canonical art, you can design one for yourself, within these constraints. The first purchase of the 100 tier tablets is free. In addition, those who have a True Gods's Bloodline receive the related Profound Art Jade Tablet for free.",
-    "origin": "Against The Gods"
-  },
   "58c7aec5-9085-5dac-ada0-e345c5a10abf": {
     "id": "58c7aec5-9085-5dac-ada0-e345c5a10abf",
     "sourceId": "fighter",
     "edition": "default",
     "chapter": "Artifacts",
-    "name": "Jade Tablets (300)",
+    "name": "Jade Tablets",
     "cost": 300,
     "description": "These are jade tablets, holding the complete details of exactly one Profound Art of the highest quality. Profound Arts are typically classified into Movement skills, Concealment skills and Profound Skills, which are basically attacking techniques. There are also special cultivation measures, illusion techniques, armed or unarmed techniques... and so many other options. For 300 CP, the art can be any and all that exist in this setting, from the arts of the highest King Realms to the Legendary Beast arts like the Word Ode of the Phoenix or the Golden Crow’s Record of the Burning World. Again, you may design your own if you want, so long as the power levels correspond.",
+    "origin": "Against The Gods"
+  },
+  "603eb274-037e-5e3d-9f2b-f25b9796c6f7": {
+    "id": "603eb274-037e-5e3d-9f2b-f25b9796c6f7",
+    "sourceId": "fighter",
+    "edition": "default",
+    "chapter": "Artifacts",
+    "name": "Jade Tablets",
+    "cost": 100,
+    "description": "These are jade tablets, holding the complete details of exactly one Profound Art of the highest quality. Profound Arts are typically classified into Movement skills, Concealment skills and Profound Skills, which are basically attacking techniques. There are also special cultivation measures, illusion techniques, armed or unarmed techniques... and so many other options. For 100 CP these tablets can be any canonical Profound art not connected to the divine realm, but some of the absolute best stuff possible within this constraint, easily a peer with the finest arts practiced by the geniuses of the greatest sects and Sacred Grounds. If not a canonical art, you can design one for yourself, within these constraints. The first purchase of the 100 tier tablets is free. In addition, those who have a True Gods's Bloodline receive the related Profound Art Jade Tablet for free.",
     "origin": "Against The Gods"
   },
   "b1fb54b6-a930-5e85-ab4c-d2755aedcd9d": {
@@ -15514,7 +15514,7 @@
     "sourceId": "fighter",
     "edition": "default",
     "chapter": "Items",
-    "name": "*Supplies*",
+    "name": "*Supplies",
     "cost": 0,
     "description": "This is what the people of the island now consider and use as currency due to the invasion rendering basic supplies/provisions as increasingly scarce and therefore much more valuable than normal. Each purchase gives you 250 units. Can be Purchased Multiple times, each Purchase after the first cost 50 CP",
     "origin": "Ghost of Tsushima"
@@ -29619,6 +29619,16 @@
     "description": "You know the secrets of how to inspire true loyalty and love from your comrades, quickly becoming fire-forged family who would never dream of forsaking each other. Your friends and followers fight all the harder when you stand beside them. You are also wise to s of tactics and strategy. Lead your forces to victory.",
     "origin": "Ironsworn"
   },
+  "289fdb47-ebcf-5787-929f-04299c86a1a8": {
+    "id": "289fdb47-ebcf-5787-929f-04299c86a1a8",
+    "sourceId": "fighter",
+    "edition": "default",
+    "chapter": "Presence",
+    "name": "Bathe in Beauty",
+    "cost": 200,
+    "description": "For 200 more points, you may appear especially beautiful or handsome, enough so that could be mistaken for the opposite gender or one of the Gods given flesh on Earth. Perhaps you could even bewitch divinity with such beauty? Requires \"Bathe in Beauty\" to Purchase",
+    "origin": "Saint Seiya: The Original Series"
+  },
   "51921c00-e802-5370-bfe2-aa5ffe31f125": {
     "id": "51921c00-e802-5370-bfe2-aa5ffe31f125",
     "sourceId": "fighter",
@@ -29627,16 +29637,6 @@
     "name": "Bathe In Beauty",
     "cost": 0,
     "description": "If there is one trait the warriors of the Gods and their imposters share, it is that they are recognizable and distinctive. You are no exception - whether you look large and intimidating, handsome and rugged, or beautiful and voluptuous...your appearance could give almost any human on the planet pause for thought.",
-    "origin": "Saint Seiya: The Original Series"
-  },
-  "289fdb47-ebcf-5787-929f-04299c86a1a8": {
-    "id": "289fdb47-ebcf-5787-929f-04299c86a1a8",
-    "sourceId": "fighter",
-    "edition": "default",
-    "chapter": "Presence",
-    "name": "Bathe in Beauty (200)",
-    "cost": 200,
-    "description": "For 200 more points, you may appear especially beautiful or handsome, enough so that could be mistaken for the opposite gender or one of the Gods given flesh on Earth. Perhaps you could even bewitch divinity with such beauty? Requires \"Bathe in Beauty\" to Purchase",
     "origin": "Saint Seiya: The Original Series"
   },
   "762cc739-3d1b-55ce-9219-c698027c8f52": {
@@ -38399,14 +38399,14 @@
     "description": "...wait, what? Okay. Well. You’ve somehow inherited a government-sponsored organization and business that stretches across the globe. This ‘Foundation’ earns about several million dollars in revenue from various sources, and will happily cover any expense you happen to need with minimal impact on the economy or the Foundation’s day-to-day business (within reason - its resources are not bottomless). It will also provide you intel and information on events happening anywhere in the world, alerting you to any disasters or dangers to either business or the planet at large.",
     "origin": "Saint Seiya: The Original Series"
   },
-  "d27b6be8-2d9e-5742-9631-25121f9de6c6": {
-    "id": "d27b6be8-2d9e-5742-9631-25121f9de6c6",
+  "671c0a0c-336f-5ec9-9d20-73a1721be7e8": {
+    "id": "671c0a0c-336f-5ec9-9d20-73a1721be7e8",
     "sourceId": "fighter",
     "edition": "default",
     "chapter": "Servitors",
-    "name": "Jumper Sect (200)",
-    "cost": 200,
-    "description": "That’s right! A sect of your very own! This is a clan or a sect, with a name of your choosing. It has the usual sect structure, with a Master/Lord, a Young Master, elders, disciples, etcetera. You may freely assign any of these positions to yourself and/or your companions, or any other positions you want. It has all the resources such a sect would have, like a compound, or multiple ones as the case may be, associated Herb Gardens and forests, a collection of weapons, and the rest. For 200 CP, you get a sect the size and power of the branch sect of the Xiao Sect at New Moon City, a thousand year old establishment with hundreds if not thousands of disciples and members of Earth Realm or below, about half a dozen of so Sky Realm elders and such, a treasury of ancient medicines, weapons, armors and devices of all kinds that are accumulated over these years, and the reputation, collected favors and all the rest that go with.",
+    "name": "Jumper Sect",
+    "cost": 600,
+    "description": "That’s right! A sect of your very own! This is a clan or a sect, with a name of your choosing. It has the usual sect structure, with a Master/Lord, a Young Master, elders, disciples, etcetera. You may freely assign any of these positions to yourself and/or your companions, or any other positions you want. It has all the resources such a sect would have, like a compound, or multiple ones as the case may be, associated Herb Gardens and forests, a collection of weapons, and the rest. For 600 CP, however, all bets are off. Your Sect/Clan/Family is now a peer to forces like the Four Great Sacred grounds, above and beyond even the greatest Duke Palaces of the Illusionary Demon Continent. Your history goes back to well over ten thousand years, and your resources, power and everything else matches the same. You have the mightiest forces on this planet, genuine Monarchs in plenty, with just over a dozen of them at Sovereign 10 and many times their number in the various levels under that. Below them you have thousands upon thousands of Tyrant level members, and proportionate numbers of Thrones and below members. The average teenager of this sect is expected to be a Throne at the least, and to be a genius you have to be at least a middle level Overlord. The value of the treasures this force can call upon boggles the mind, with billions upon billions of Purple coins’ worth in weapons, armors, herbs and the rest, a vast territory where you are respected and feared, libraries with ancient and penetrating knowledge of all things on heaven and earth, and in general anything and everything else an institution of such age and power can be expected to have. You can choose between the sect coming with you in a pocket dimension that you can then place anywhere in the world, or preexisting local copies of it wherever you go. In the latter case the members all have skills and abilities in whatever local systems exist matching what they have here, but in the former they gain the potential for that and can train it up in no time at all.",
     "origin": "Against The Gods"
   },
   "939cab0f-6ead-51a7-afcb-3f1e1b73f5d5": {
@@ -38414,19 +38414,19 @@
     "sourceId": "fighter",
     "edition": "default",
     "chapter": "Servitors",
-    "name": "Jumper Sect (400)",
+    "name": "Jumper Sect",
     "cost": 400,
     "description": "That’s right! A sect of your very own! This is a clan or a sect, with a name of your choosing. It has the usual sect structure, with a Master/Lord, a Young Master, elders, disciples, etcetera. You may freely assign any of these positions to yourself and/or your companions, or any other positions you want. It has all the resources such a sect would have, like a compound, or multiple ones as the case may be, associated Herb Gardens and forests, a collection of weapons, and the rest. For 400 CP it becomes equal to the Main Sects of the Blue Wind Empire, like the Xiao Sect or Frozen Cloud Asgard, a mighty overlord of the region. You have two, maybe three Emperor realm cultivators, hundreds of Sky rank members, and thousands upon thousands of members at the Earth realm and below. The fullness of your power, while it pales compared to entities like the Divine Phoenix Empire or the Four Sacred Grounds that dominate the continent, is nonetheless comparable to all others below that lofty position. You can choose between the sect coming with you in a pocket dimension that you can then place anywhere in the world, or preexisting local copies of it wherever you go. In the latter case the members all have skills and abilities in whatever local systems exist matching what they have here, but in the former they gain the potential for that and can train it up in no time at all.",
     "origin": "Against The Gods"
   },
-  "671c0a0c-336f-5ec9-9d20-73a1721be7e8": {
-    "id": "671c0a0c-336f-5ec9-9d20-73a1721be7e8",
+  "d27b6be8-2d9e-5742-9631-25121f9de6c6": {
+    "id": "d27b6be8-2d9e-5742-9631-25121f9de6c6",
     "sourceId": "fighter",
     "edition": "default",
     "chapter": "Servitors",
-    "name": "Jumper Sect (600)",
-    "cost": 600,
-    "description": "That’s right! A sect of your very own! This is a clan or a sect, with a name of your choosing. It has the usual sect structure, with a Master/Lord, a Young Master, elders, disciples, etcetera. You may freely assign any of these positions to yourself and/or your companions, or any other positions you want. It has all the resources such a sect would have, like a compound, or multiple ones as the case may be, associated Herb Gardens and forests, a collection of weapons, and the rest. For 600 CP, however, all bets are off. Your Sect/Clan/Family is now a peer to forces like the Four Great Sacred grounds, above and beyond even the greatest Duke Palaces of the Illusionary Demon Continent. Your history goes back to well over ten thousand years, and your resources, power and everything else matches the same. You have the mightiest forces on this planet, genuine Monarchs in plenty, with just over a dozen of them at Sovereign 10 and many times their number in the various levels under that. Below them you have thousands upon thousands of Tyrant level members, and proportionate numbers of Thrones and below members. The average teenager of this sect is expected to be a Throne at the least, and to be a genius you have to be at least a middle level Overlord. The value of the treasures this force can call upon boggles the mind, with billions upon billions of Purple coins’ worth in weapons, armors, herbs and the rest, a vast territory where you are respected and feared, libraries with ancient and penetrating knowledge of all things on heaven and earth, and in general anything and everything else an institution of such age and power can be expected to have. You can choose between the sect coming with you in a pocket dimension that you can then place anywhere in the world, or preexisting local copies of it wherever you go. In the latter case the members all have skills and abilities in whatever local systems exist matching what they have here, but in the former they gain the potential for that and can train it up in no time at all.",
+    "name": "Jumper Sect",
+    "cost": 200,
+    "description": "That’s right! A sect of your very own! This is a clan or a sect, with a name of your choosing. It has the usual sect structure, with a Master/Lord, a Young Master, elders, disciples, etcetera. You may freely assign any of these positions to yourself and/or your companions, or any other positions you want. It has all the resources such a sect would have, like a compound, or multiple ones as the case may be, associated Herb Gardens and forests, a collection of weapons, and the rest. For 200 CP, you get a sect the size and power of the branch sect of the Xiao Sect at New Moon City, a thousand year old establishment with hundreds if not thousands of disciples and members of Earth Realm or below, about half a dozen of so Sky Realm elders and such, a treasury of ancient medicines, weapons, armors and devices of all kinds that are accumulated over these years, and the reputation, collected favors and all the rest that go with.",
     "origin": "Against The Gods"
   },
   "2d58144a-bfd8-54d6-99ee-ff5527444cd6": {
@@ -39089,24 +39089,24 @@
     "description": "Well, never let it be said that Poseidon doesn’t spoil his followers at times. Even if this is a rather...odd gift. It is a battleship-sized Kraken, able to break most modern ships apart and drag them underwater with ease. It is loyal to you and is friendly to anyone you’re friendly to...as well as vice-versa, to the sorrow of any sea-faring enemies you have. It is smart enough to follow simple commands as well as transport you and anyone you wish overseas freely and safely, able to cross an entire ocean overnight without difficulty.",
     "origin": "Saint Seiya: The Original Series"
   },
-  "c986ca2d-3569-553f-8c58-4a4b1d9f8fa3": {
-    "id": "c986ca2d-3569-553f-8c58-4a4b1d9f8fa3",
-    "sourceId": "fighter",
-    "edition": "default",
-    "chapter": "Servitors",
-    "name": "The Leaping Bouncing Nation (300)",
-    "cost": 300,
-    "description": "Maybe you’d rather be a secular ruler? This is a kingdom, a nation of your very own that you rule, which will follow you after this jump. The 300 CP version is a bit bigger and more powerful than the Blue Wind nation. In any case your nation is top tier for its size in terms of economy, resources, cultivators and everything else. There are sects and experts across the land, say 3-4 like in Blue Wind or the thousands in the whole continent. Their powers, again, are proportional. The 300 CP nation would have about a dozen Thrones as their top powers.",
-    "origin": "Against The Gods"
-  },
   "b3fdb641-2440-5e55-b0fc-c9239c27615a": {
     "id": "b3fdb641-2440-5e55-b0fc-c9239c27615a",
     "sourceId": "fighter",
     "edition": "default",
     "chapter": "Servitors",
-    "name": "The Leaping Bouncing Nation (700)",
+    "name": "The Leaping Bouncing Nation",
     "cost": 700,
     "description": "Or maybe you’d rather be a secular ruler? This is a kingdom, a nation of your very own that you rule, which will follow you after this jump. The 700 CP option instead is a massive empire covering a whole continent, like the Illusory Demon Realm. While the size you pick decides the actual scale, in any case your nation is top tier for its size in terms of economy, resources, cultivators and everything else. There are sects and experts across the land, say 3-4 like in Blue Wind or the thousands in the whole continent. Their powers, again, are proportional. The 700 CP realm would have Sovereigns by the bucketload, exotic arts, and all the other little things that comprise a proper nation in this setting.",
+    "origin": "Against The Gods"
+  },
+  "c986ca2d-3569-553f-8c58-4a4b1d9f8fa3": {
+    "id": "c986ca2d-3569-553f-8c58-4a4b1d9f8fa3",
+    "sourceId": "fighter",
+    "edition": "default",
+    "chapter": "Servitors",
+    "name": "The Leaping Bouncing Nation",
+    "cost": 300,
+    "description": "Maybe you’d rather be a secular ruler? This is a kingdom, a nation of your very own that you rule, which will follow you after this jump. The 300 CP version is a bit bigger and more powerful than the Blue Wind nation. In any case your nation is top tier for its size in terms of economy, resources, cultivators and everything else. There are sects and experts across the land, say 3-4 like in Blue Wind or the thousands in the whole continent. Their powers, again, are proportional. The 300 CP nation would have about a dozen Thrones as their top powers.",
     "origin": "Against The Gods"
   },
   "3aa7edff-03e7-5376-8cfb-42780c598765": {

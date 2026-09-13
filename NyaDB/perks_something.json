@@ -2119,16 +2119,6 @@
     "description": "You gain the needed knowledge, blueprints of craftable items, skills, and abilities to produce items and machines from Tinker's Construct mod and its various addons and extensions. This power is partly magical, allowing you to bring out unique and exotic functionalities from even seemingly mundane materials. It's even possible for you to discover some new properties and combinations of materials that are not included in the original mod and its various addons.",
     "origin": "Celestial Something - 1 Minecraft"
   },
-  "a05dbd7e-029e-57dc-b363-38d1de26e8bb": {
-    "id": "a05dbd7e-029e-57dc-b363-38d1de26e8bb",
-    "sourceId": "something",
-    "edition": "default",
-    "chapter": "Minecraft",
-    "name": "Vanilla  Enchanting",
-    "cost": 300,
-    "description": "This perk gives you the ability to use magic for Minecraft-style enchantment art, along with talent in this craft and scholarly intuition - covering the general theory behind the process and how to actually apply enchanted items in correct or unusual ways. It doesn't provide you with specific recipes but allows you to explore, test, and apply enchantments to different items, and to tweak existing blueprints in your possession beyond what the original game permits. You need this perk to use the enchanting table effectively.",
-    "origin": "Celestial Something - 1 Minecraft"
-  },
   "f24fac45-a494-5bea-b603-f13d357f9896": {
     "id": "f24fac45-a494-5bea-b603-f13d357f9896",
     "sourceId": "something",
@@ -2137,6 +2127,16 @@
     "name": "Vanilla Brewing",
     "cost": 200,
     "description": "This perk gives you the ability to use magic for Minecraft-style brewing, along with talent in this craft and scholarly intuition - covering the general theory behind the process and how to actually apply potions in correct or unusual ways. It doesn't provide you with specific recipes but allows you to explore, test brews, and tweak existing blueprints in your possession beyond what the original game lets players do. You need this to use brewing stand effectively.",
+    "origin": "Celestial Something - 1 Minecraft"
+  },
+  "a05dbd7e-029e-57dc-b363-38d1de26e8bb": {
+    "id": "a05dbd7e-029e-57dc-b363-38d1de26e8bb",
+    "sourceId": "something",
+    "edition": "default",
+    "chapter": "Minecraft",
+    "name": "Vanilla Enchanting",
+    "cost": 300,
+    "description": "This perk gives you the ability to use magic for Minecraft-style enchantment art, along with talent in this craft and scholarly intuition - covering the general theory behind the process and how to actually apply enchanted items in correct or unusual ways. It doesn't provide you with specific recipes but allows you to explore, test, and apply enchantments to different items, and to tweak existing blueprints in your possession beyond what the original game permits. You need this perk to use the enchanting table effectively.",
     "origin": "Celestial Something - 1 Minecraft"
   },
   "88c2cc3c-6d5a-5374-9c7d-2adb636658f7": {

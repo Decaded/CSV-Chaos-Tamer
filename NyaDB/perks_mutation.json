@@ -4429,16 +4429,6 @@
     "description": "This Quirk allows the user to rapidly accelerate a target’s natural healing by extending their lips and kissing the previously mentioned target. With this, even grave injuries that would have taken months to heal can be healed in a matter of seconds, although not without a cost. The target pays for this healing with their own stamina, causing severe exhaustion if an injury is, or injuries are, too serious in nature. This means traditional healing may be required or recommended in some cases, or applied in small doses over time.",
     "origin": "My Hero Academia"
   },
-  "597c1666-f8d3-5d31-b5da-260789f36cb0": {
-    "id": "597c1666-f8d3-5d31-b5da-260789f36cb0",
-    "sourceId": "mutation",
-    "edition": "default",
-    "chapter": "Super Powers",
-    "name": "Red  Rush",
-    "cost": 300,
-    "description": "​You have become a speedster. Due to an accident when you were a teen you gained the ability to move and think at massively hypersonic speeds, on par with a veteran Viltrumite in an atmosphere. You naturally generate an aura that protects you and those around you from the effects of your speed, while also allowing you to interact with objects semi normally. If you punch a concrete wall at top speed, your hand would be bruised as if you punched a wall while standing still but the wall itself would exploded into shrapnel from the sheer kinetic energy. This general augmentation also comes with stamina needed to run for immense distances, and lengths of time.",
-    "origin": "Invincible"
-  },
   "cd176dff-c1ee-5fed-ae9c-c826dcdc4e55": {
     "id": "cd176dff-c1ee-5fed-ae9c-c826dcdc4e55",
     "sourceId": "mutation",
@@ -4448,6 +4438,16 @@
     "cost": 200,
     "description": "Your body is able to absorb certain types of electromagnetic energy such as light and internally metabolizes it. At your command, you can then release a red ruby beam of destruction from your hands or eyes. At first, this destructive power is enough to destroy cars and tanks but with training you'll be able to destroy entire asteroids like Asteroid M.",
     "origin": "X-Men Evolution"
+  },
+  "597c1666-f8d3-5d31-b5da-260789f36cb0": {
+    "id": "597c1666-f8d3-5d31-b5da-260789f36cb0",
+    "sourceId": "mutation",
+    "edition": "default",
+    "chapter": "Super Powers",
+    "name": "Red Rush",
+    "cost": 300,
+    "description": "​You have become a speedster. Due to an accident when you were a teen you gained the ability to move and think at massively hypersonic speeds, on par with a veteran Viltrumite in an atmosphere. You naturally generate an aura that protects you and those around you from the effects of your speed, while also allowing you to interact with objects semi normally. If you punch a concrete wall at top speed, your hand would be bruised as if you punched a wall while standing still but the wall itself would exploded into shrapnel from the sheer kinetic energy. This general augmentation also comes with stamina needed to run for immense distances, and lengths of time.",
+    "origin": "Invincible"
   },
   "8ac3bbe6-9e62-5d59-a8cd-cbe0fc01dbe1": {
     "id": "8ac3bbe6-9e62-5d59-a8cd-cbe0fc01dbe1",

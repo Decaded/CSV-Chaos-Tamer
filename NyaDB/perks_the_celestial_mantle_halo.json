@@ -34,7 +34,7 @@
     "sourceId": "the_celestial_mantle_halo",
     "edition": "default",
     "chapter": "Allies",
-    "name": "F-99 Wombat:",
+    "name": "F-99 Wombat",
     "cost": 100,
     "description": "Need some air support, Trooper? The venerable Wombat UCAV can be your eye in the sky or the hammer from above. Though lightly armed, its two multirole missiles can target both airborne threats and stubborn ground targets. Additionally, its powerful sensor package can help you gather intelligence and coordinate with local ground forces, friendly aircraft, and even spaceborne assets. The Wombat can be remotely piloted or run by onboard dumb-AI subroutines. Any drones that expend their weapons will be rearmed within an hour, while those that are destroyed will be replaced within a week.",
     "origin": "Halo 3: ODST Gauntlet"
@@ -94,7 +94,7 @@
     "sourceId": "the_celestial_mantle_halo",
     "edition": "default",
     "chapter": "Allies",
-    "name": "Lucky With the Ladies:",
+    "name": "Lucky With the Ladies",
     "cost": 100,
     "description": "You’re a lover as well as a fighter! Like Romeo and Felicia, you’ve got the suave style and natural good looks to make you quite popular at social gatherings. Finding casual companionship is as easy as spending a night out on the town, and should some paramour somehow snag you from your eager celebrations, you’ll manage to keep the fires of romance burning in this uncertain world. The road may be treacherous, and you both may need to work through unexpected pitfalls, but if the love is there you’ll find a path to your future together.",
     "origin": "Halo 3: ODST Gauntlet"
@@ -174,7 +174,7 @@
     "sourceId": "the_celestial_mantle_halo",
     "edition": "default",
     "chapter": "Allies",
-    "name": "Sergeant Moore:",
+    "name": "Sergeant Moore",
     "cost": 100,
     "description": "First Sergeant Sarah Moore enlisted in the UNSC Marine Corps as soon as she was legally able to. After her training was completed, her battalion was immediately sent to Harvest where she was rapidly promoted for her heroics during the campaign. Those who have fought with Sgt. Moore have jokingly started a rumor that she made a deal with the devil for his luck, considering how many times she’s managed to survive and overcome staggeringly bad odds. She has a fierce, gung-ho personality which has been slightly tempered from her experiences on Harvest, with said experiences also giving her a deep sense of responsibility for those she fights alongside.",
     "origin": "Halo Wars Jump V1.0."
@@ -834,7 +834,7 @@
     "sourceId": "the_celestial_mantle_halo",
     "edition": "default",
     "chapter": "Skillset",
-    "name": "Heart Of The Team:",
+    "name": "Heart Of The Team",
     "cost": 100,
     "description": "Jorge is more than just a Cybenetically enhanced super soldier, he has something even ONI couldn't remove. Sympathy and empathy, two very human emotions that help bind a team of operators together. Your presence acts as a morale boost to your allies, reducing fear and panic, blunting the sheer terror the covenant and those like them inflict.",
     "origin": "Halo_ Reach, a Halo 3- ODST Gauntlet Supplement"
@@ -844,7 +844,7 @@
     "sourceId": "the_celestial_mantle_halo",
     "edition": "default",
     "chapter": "Skillset",
-    "name": "If they came to hear me beg-",
+    "name": "If they came to hear me beg",
     "cost": 200,
     "description": "They will be disappointed, for you are a perfect example of unashamed pride in your nature. Throughout your time amongst the Covenant, many will test that will and pride. Many will attempt to make you bend to their doctrines and will, lest they have others know you as a heretic. Others would bend. You will never. They may brand you, torture you, preach at you, but though you may appear to have given them everything they want, you will retain your nature. You will stay you, despite nearly all attempts to make it otherwise through psychological tricks and warfare.",
     "origin": "Halo - The Covenant"
@@ -1244,7 +1244,7 @@
     "sourceId": "the_celestial_mantle_halo",
     "edition": "default",
     "chapter": "Supply Base",
-    "name": "H-165 Target Locator:",
+    "name": "H-165 Target Locator",
     "cost": 100,
     "description": "When frontline fighters want precise fire support, the sensors in this laser designator make supporting attacks pinpoint accurate. Connecting to local ground forces and spaceborne assets alike, this device allows you to call in a wide variety of fire missions on enemies in your line of sight. Small amounts of ordnance, such as limited missile barrages, can be requested once or twice a day, while MAC strikes and other larger expenditures may take up to a week to restock. Navy assets are very limited, Trooper, but elite units like the Helljumpers get priority.",
     "origin": "Halo 3: ODST Gauntlet"
@@ -1604,7 +1604,7 @@
     "sourceId": "the_celestial_mantle_halo",
     "edition": "default",
     "chapter": "Transport",
-    "name": "Forerunner dreadnought-",
+    "name": "Forerunner dreadnought",
     "cost": 800,
     "description": "This was the first forerunner relic found by your kind. This was the mighty ship with which they courageously left their home world to spread the word of the gods among the stars. This was the god-vessel that brought them together with the Sangheili, and it is this ship that sits dormant today, as the object of the worship of all of the Covenant, at the center of the grand chamber of High Charity. And now, it is yours. Its weaponry, disabled as a sign of goodwill between the Sangheili and San'Shyuum, has been fully restored to its original, continent-busting (at maximum) levels. However, you are not alone within it- it is completely and totally under the control of an AI. In time, you could find a way to remove it, but the ship shall function far better with it on board. It is your subordinate and thus is willing to complete your commands, to a point. It shall not engage in open warfare against humanity, and seeks redemption for a great number of sins, which it shall not name to you- unless you should prove yourself worthy and understanding.",
     "origin": "Halo - The Covenant"
@@ -1944,7 +1944,7 @@
     "sourceId": "the_celestial_mantle_halo",
     "edition": "default",
     "chapter": "Weapons",
-    "name": "Close Quarters Combat:",
+    "name": "Close Quarters Combat",
     "cost": 100,
     "description": "You’re a monster in close quarters combat and inspire fear and outright terror in any enemies who watch.",
     "origin": "Halo_ Reach, a Halo 3- ODST Gauntlet Supplement"

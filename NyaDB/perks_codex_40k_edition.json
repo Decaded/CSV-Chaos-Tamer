@@ -1304,7 +1304,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "Adeptus Telepathica",
-    "name": "Psyker Discipline -",
+    "name": "Psyker Discipline",
     "cost": 200,
     "description": "Although the powers of psykers are many and varied, they usually fall into one of several disciplines. The five most common psychic disciplines are: Biomancy, Divination, Pyromancy, Telekinesis and Telepathy. It should be noted that, whilst two different psykers may both use the same discipline, their powers are likely to manifest in unique, idiosyncratic ways. So for example, an Imperial psyker using the Pyromancy discipline may hurl blazing bolts shaped like an avenging, two-headed eagle whilst a corrupt Chaos sorcerer might conjure multi-hued conflagrations of living Warp fire and an Ork psyker or \"Weirdboy\" could vomit cones of billowing green flames. Some specific powers for each discipline can be found with the psyker link in the notes. Purchasing this perk gives you a large boost in skill with your chosen discipline. You will learn the listed abilities at an expert level. Also this perk may be bought multiple times for each discipline.",
     "origin": "Generic Warhammer 40K: FanFiction"
@@ -5494,7 +5494,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "The Undead",
-    "name": "Divination of the Stars​",
+    "name": "Divination of the Stars",
     "cost": 200,
     "description": "The primitive astrologers of the mortal races have claimed to be able to predict the future through the composition of the celestial sphere for thousands of years. Unlike them, you actually can. Though this is by no means foolproof, dedicated study of the stars allows you to predict the future reliably. Do note that the more specific the prediction, the more unreliable it will be. “Which world will the enemy force attack?” has a much greater chance of success than “Which specific spot will each specific general attack?”.",
     "origin": "Warhammer 40,000: Necrons"
@@ -5514,7 +5514,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "The Undead",
-    "name": "False Gods –",
+    "name": "False Gods",
     "cost": 400,
     "description": "Each of the C’tan is known for the unique mien and nature they bore, each of them expressing their physical godhood in their own manner once leashed to a material vessel. These expressions of their nature separated them and their unique capabilities beyond the basic qualities of their kind. You may choose a similar nature and specialty and all your powers related to it will be magnified above and beyond their normal level enough to render you an order of magnitude more dangerous and capable when operating within your specialty. Even powers other than your C’tan nature may be affected this way, adapting and shifting them towards whatever nature you choose here. From the manipulations and disguises of the Deceiver, the merciless inevitability of death made manifest in the Nightbringer, to the Endless Swarm or Worldshaper, you have your own place among your kind’s twisted semblance of a pantheon.",
     "origin": "40K Necron Jump"
@@ -5574,7 +5574,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "The Undead",
-    "name": "Martial Skill​",
+    "name": "Martial Skill",
     "cost": 100,
     "description": "In this galaxy, it is commonly expected for an army’s commander to join their forces on the front lines, personally engaging their foes in combat. And it would be obscene for a Nemesor to be outdone in this matter by the lesser races. Your skill in both long-ranged and hand-to-hand combat is on par with the champions of the other armies, able to duel Chapter Masters on an even footing even as your legions clash with the enemy.",
     "origin": "Warhammer 40,000: Necrons"
@@ -5594,7 +5594,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "The Undead",
-    "name": "Monolith​",
+    "name": "Monolith",
     "cost": 400,
     "description": "A glorious war machine by any measure. A Necron Monolith is a gargantuan behemoth of death and destruction, each blast of its Particle Whip leaving mayhem in its wake. Additionally, it comes with a complementary batch of Necron Warriors, prepared to disembark the craft to mop up whatever was lucky enough to survive the carnage.",
     "origin": "Warhammer 40,000: Necrons"
@@ -5664,7 +5664,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "The Undead",
-    "name": "Play the Game​",
+    "name": "Play the Game",
     "cost": 400,
     "description": "The politics of the Necron Dynasties are as vicious as they are petty. However, as the voice of the Silent King you must dig down into the muck. Fortunately you are quite skilled at it. You are such a master of court intrigue that the most devious Imperial nobles would take notes, your schemes not even being noticed until their victims cannot escape.",
     "origin": "Warhammer 40,000: Necrons"
@@ -5674,7 +5674,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "The Undead",
-    "name": "Power of Lip​",
+    "name": "Power of Lip",
     "cost": 100,
     "description": "Orikan the Diviner is famous for two things; his unmatched knowledge of astrology and his tendency to be an insufferable genius to any Necrons who acquire his services. Alas, his skills at prognostication are enough to make the varied Overlords and Phaerons tolerate the constant insubordination they must put up with. You now enjoy the same benefits. So long as you prove your worth, you will be allowed to get away with behavior that wouldn’t be tolerated by anyone else.",
     "origin": "Warhammer 40,000: Necrons"
@@ -5694,7 +5694,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "The Undead",
-    "name": "Primordial Schematics​",
+    "name": "Primordial Schematics",
     "cost": 200,
     "description": "The human world of Cadia was able to stymie the advance of Chaos largely due to the efforts of Necron technology. The mysterious pylons of Cadia acted to reinforce the materium even on the verge of the Eye of Terror. During the Thirteenth Black Crusade, the Archmagos Belisarius Cawl was even able to use them to shrink the largest Warp Storm in the galaxy. The designs behind this priceless technology are now within your possession. Outside of this setting, pylons designed according to the specifications of these schematics will disrupt interdimensional portals and incursions with some fine-tuning.",
     "origin": "Warhammer 40,000: Necrons"
@@ -5854,7 +5854,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "The Undead",
-    "name": "Way of the Void Dragon​",
+    "name": "Way of the Void Dragon",
     "cost": 400,
     "description": "Technology is but one facet of the Materium, but you are its master. The Void Dragon’s grasp of technology was the very inspiration of the Adeptus Mechanicus, and you retain a similar level of skill. Imperial Guardsmen will flee in terror as their tanks turn against them, the once loyal drones of the Tau will gun down their owners without hesitation, and you will laugh all the while.",
     "origin": "Warhammer 40,000: Necrons"
@@ -5864,7 +5864,7 @@
     "sourceId": "codex_40k_edition",
     "edition": "default",
     "chapter": "The Undead",
-    "name": "Wisdom of the Ancients ​",
+    "name": "Wisdom of the Ancients",
     "cost": 600,
     "description": "Necron technology is beyond all contenders, comparable to the greatest sorceries of the organics. To change the molecular composition of objects with specific soundwaves, spread madness through the enemy ranks with swirling mists, and manipulate time itself are but a few examples. True heights reach into unbelievable levels, things that violate all laws of nature and logic. It would take a truly brilliant mind to master all this technology, to understand and improve it. A mind such as yours, for example. You have the skills and raw intelligence needed to unravel the greatest, most advanced technologies of your ilk. Not only can you perfectly build and repair Necron technology, you can also adapt it to all sorts of purposes, come up with new tech on a similar level, and even improve the technology. This talent carries over to all forms of technology in future jumps too.",
     "origin": "Warhammer 40,000: Necrons"

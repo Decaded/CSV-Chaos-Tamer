@@ -554,7 +554,7 @@
     "sourceId": "vault",
     "edition": "default",
     "chapter": "Barracks",
-    "name": "Terror Force:",
+    "name": "Terror Force",
     "cost": 400,
     "description": "A gift from the Empire to you, you now have ownership of a task force of the Empire’s Terror Droids. The force is equipped with four different types of droids: Terror Droids, which are smallspider-likee creations that use melee combat and grasp their opponents to launch vicious melee attacks; Terror Troopers, humanoid droids equipped with advanced stealth technology and weapons meant to quickly move in and out of dangerous situations without leaving a trace; Terror Bioroids, large hulking machines equipped with two bladed arms capable of posing a challenge to Jedi although they come with their own weaknesses; and finally the Terror Walkers; these monstrosities are four legged juggernauts equipped with energy projectors, shields, missiles, and sharpened legs, each one capable of slaughtering basic soldiers en masse or board an enemy ship with minimal support, and is typically viewed as nigh unstoppable.. You have within your possession a Task Force of these droids numbering a thousand, the majority will be the weaker droids and will with each level up they’ll be fewer of them but the exact composition is up to you.",
     "origin": "The Force Unleashed"
@@ -864,7 +864,7 @@
     "sourceId": "vault",
     "edition": "default",
     "chapter": "Landing Pad",
-    "name": "X-Wing:",
+    "name": "X-Wing",
     "cost": 200,
     "description": "A trusty craft, scarred by innumerable battles, but still ready for more, this T-65 X-Wing has served you well over the years despite its age. You’ll find it easy to upgrade over the coming years and even without upgrades it’ll do curiously well against the advancing technologies of the galaxy. Should you desire, one can exchange this for a differing fighter used by the Republic during this time period.",
     "origin": "The Dark Empire"
@@ -924,7 +924,7 @@
     "sourceId": "vault",
     "edition": "default",
     "chapter": "Living Space",
-    "name": "Beer Keg:",
+    "name": "Beer Keg",
     "cost": 50,
     "description": "Our employees are dwarves, naturally they demand beer, and a lot of it. Each keg you purchase here of company standard beer contains enough repopulating inebriation to last a year if drunk in moderation. As you undoubtedly will not drink it in moderation you may purchase more kegs or different brews for additional charges of 50 CP. Because our specialty craft brews are far more expensive, kegs of Arkenstout, Mactera Brew, Blackout Stout, etcetera will cost you 100 CP.\"",
     "origin": "Deep Rock Galactic"
@@ -1304,7 +1304,7 @@
     "sourceId": "vault",
     "edition": "default",
     "chapter": "Overseer's Office",
-    "name": "Protocol Droid:",
+    "name": "Protocol Droid",
     "cost": 100,
     "description": "Your very own protocol droid, loyal to you and capable of acting as a head butler for your properties. Though most importantly for you whenever this droid is present it passively boosts your diplomatic abilities.",
     "origin": "The Force Unleashed"

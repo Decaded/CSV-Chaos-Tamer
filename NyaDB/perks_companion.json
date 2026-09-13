@@ -234,7 +234,7 @@
     "sourceId": "companion",
     "edition": "default",
     "chapter": "Arts",
-    "name": "Morphing​",
+    "name": "Morphing",
     "cost": 0,
     "description": "Your primary tool in the fight against the Yeerks. By touching any living creature with DNA (except plants, for some reason) and focusing on it for a few seconds, you can ‘acquire’ its DNA. Creatures will go docile while acquiring, which makes the process a bit safer when acquiring dangerous beasts. Once an animal has been acquired, it’s DNA is permanently recorded in your own, allowing you to transform into an exact replica of the creature. The process usually takes about two minutes, and because it is based on DNA, you do not gain any non-­genetic aspects of the morphed creature ­ injuries being the prime example. Morphing also gives you all the instincts of the morphed creature, allowing you to use it’s abilities without difficulty, though the instincts can be overwhelming at first. Oh, and don’t worry about clothes, implants, or other such non­genetic additions. Anything that is closely ­connected enough to you counts as ‘part of you’ as far as morphing is concerned, and will still be there when you morph back. Shoes and non-­skin-tight clothing will be left behind, so wear some spandex under your clothes and you’ll be fine. This only applies to base forms; morphed forms reset to their base after demorphing, and cannot carry even skin-tight clothes or such. There are two major limitations on morphing. The first is that you cannot go directly from one morph to another; you must return to your base form first. The second is a time limit ­ if you remain in morph for more than approximately two hours, you remain trapped in that morph. Forever.",
     "origin": "Animorphs"
@@ -3344,7 +3344,7 @@
     "sourceId": "companion",
     "edition": "default",
     "chapter": "Minionmancy",
-    "name": "​Gacha​",
+    "name": "Gacha",
     "cost": 400,
     "description": "You can open a menu which allows you to spend mana in order to spin a variety of different Gachas. The different Gachas each have a set price based on the average value of the outcome, and offer different possible rewards, which may be monsters or items from any world you have visited. While the cheapest Gacha may only offer common drops, more expensive Gachas could include a chance to drop rare, unique items or monsters. Gachas which can target past worlds are more expensive than those that don’t, but not unreasonably so, and even some of the cheaper Gacha may offer a small chance of dropping something rare.",
     "origin": "Generic Isekai"
@@ -3744,7 +3744,7 @@
     "sourceId": "companion",
     "edition": "default",
     "chapter": "Statecraft",
-    "name": "Free​ ​Rule",
+    "name": "Free Rule",
     "cost": 100,
     "description": "​Sometimes ruling can get in the way of your fun. As a free spirit that could ruin all of the joys of one’s rule. Luckily, it seems that whenever you wish to take a break and just leave to do something(as long as it isn’t too long) you’ll find everything working in perfect order when you get back to the reins of your empire. Too many of these breaks will ruin this effect. God​ ​Emperor (/tg/ Stellaris)​ ​(600CP) You are Emperor. Whether your people call you another title such as “president” “supreme leader”, it doesn’t matter because the meaning stays the same. Because of this your overall ability to rule is a marvel within itself, you can manage entire planets by yourself with maximum efficiency, calculate complex logistics for your nation on a scale that would require entirely new different branches of Government for others. Furthermore everyone you meet feels a profound sense of awe at your presence feeling as if you are someone to be looked up to, at the very least they will give you the bare minimum respect. Finally, you find that those you inspire always seem to understand exactly what your goals were and are always true to them, never misinterpreting the intent of anything you say or do.",
     "origin": "/tg/ Stellaris"
@@ -3994,7 +3994,7 @@
     "sourceId": "companion",
     "edition": "default",
     "chapter": "Systems",
-    "name": "​Gamer’s Body",
+    "name": "Gamer’s Body",
     "cost": 600,
     "description": "The counterpoint to Gamer’s Mind, the Gamer’s Body is the physical equivalent. Where Gamer’s Mind prevents things like paralyzing fear and other negative mental effects, Gamer’s Body protects the body. Giving you the body of a videogame character, this allows you to resist actual physical damage in exchange for using a HP system instead. Benefits include being completely healed after a good night’s sleep, being utterly resistant to physical damage (except in terms of HP loss), and earning exp whenever you kill something. You can punch something so hard your arm breaks, but two seconds later it will be fine again and you’ll be down some HP. And with the stat points you get upon leveling up, you can just up your strength (or endurance or vitality or dexterity) and make your arm harder to break.",
     "origin": "The Gamer"
@@ -4024,7 +4024,7 @@
     "sourceId": "companion",
     "edition": "default",
     "chapter": "Systems",
-    "name": "​Gamer’s Skills",
+    "name": "Gamer’s Skills",
     "cost": 600,
     "description": "A wizard’s most valuable asset should be his mind and the knowledge contained therein. Whenever you come into contact with a book that contains instructions on how to perform any skill you don’t currently have, you will be given the option to ‘eat it’, thereby imparting you the knowledge you would have gained from reading it front to back, and then contemplating on it for a short time. However, this will only work once per book and will not work for theory texts. In addition, your skills will level with use, and eventually evolve into better ones at level one hundred. A simple mana chain spell might become far more powerful and versatile, and eventually it may very well rename itself ‘Enkidu’.",
     "origin": "The Gamer"
@@ -4264,7 +4264,7 @@
     "sourceId": "companion",
     "edition": "default",
     "chapter": "Teaching",
-    "name": "Learning Is Fun!​",
+    "name": "Learning Is Fun!",
     "cost": 100,
     "description": "Every kid knows school is boring. Homework, tough teachers, tests, bleh. That’s no fun at all! Which is why they prefer to learn from you. You’ve somehow figured out how to make learning an activity to be enjoyed instead of dreaded. Aside from the obvious help it provides with teaching kids, it also helps to convey information or plans. This is especially useful for Jumpers with a reckless teammate or ally, who’d prefer to charge headfirst into danger rather than strategize.",
     "origin": "Generic Children’s Television"
