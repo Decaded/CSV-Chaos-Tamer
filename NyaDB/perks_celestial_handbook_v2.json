@@ -1,0 +1,2462 @@
+{
+  "a68f5c93-2539-5584-afb7-f7ab502f7dfe": {
+    "id": "a68f5c93-2539-5584-afb7-f7ab502f7dfe",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "“Who’s a pretty little fluffy-duffy? You are, you are...”",
+    "cost": 0,
+    "description": "Are you a cat person or a dog person, Jumper? Whichever it is, you now have a modest-sized furry mammal to give you furry companionship. This little fellow is an excellent Cat/Dog, obedient and reliable, hunting down vermin and lifting your spirits. However, as great as that is, this is no mere Mortal Mammal; this is a Familiar. Behind those animalistic eyes lies intelligence far beyond a normal animal, and while still just a pet, it can be confidently given complex orders and instructions to perform. And as a familiar, it will also try its best to help you in the small ways available to it. Some familiars can take human appearance or even betray their owners and become Warlocks, neither is an issue for your familiar,",
+    "origin": "Charmed JumpChain"
+  },
+  "5f921980-6335-5e1e-8013-062752af1737": {
+    "id": "5f921980-6335-5e1e-8013-062752af1737",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "66 Seals",
+    "cost": 600,
+    "description": "Whatever you can overpower and trap inside this pocket dimension shall remain here indefinitely without intervention from the outside world. It is absurdly difficult to open this extra-dimensional cage once it has been locked, with 66 events needing to have occurred before the prisoner is able to escape. You can choose the requirements to break each, though none of them can be impossible. While the prisoners are kept in a pocket dimension, they can individually still be called forth through a short ritual that allows their spirit to manifest in a large, doorless physical cage that comes with this item purchase.",
+    "origin": "Supernatural JumpChain"
+  },
+  "5a96b5d1-aacd-5234-9ccc-26c3b4d4fa17": {
+    "id": "5a96b5d1-aacd-5234-9ccc-26c3b4d4fa17",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Addams Mansion",
+    "cost": 400,
+    "description": "Once an old cottage from Rosaline Rotwood, this is the legendary home of the Addams. Rich with history, the house is practically a museum, filled with portraits, statues and death traps put by the children. Many guests complain about becoming completely lost in the dozens of rooms, hallways and staircases. It has a secret séance chamber made by the original owner for rituals.",
+    "origin": "Wednesday"
+  },
+  "8f9d9d88-0b75-5f0b-9727-ca8e9bed324d": {
+    "id": "8f9d9d88-0b75-5f0b-9727-ca8e9bed324d",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Angel in a Trench Coat",
+    "cost": 200,
+    "description": "An angel of the Lord, sent down from Heaven to assist you as you travel the multiverse. They’re often perplexed by humanity, but are quite dedicated to their God-given task.",
+    "origin": "Generic Supernatural Fanfiction Jumpchain"
+  },
+  "94c4e3b8-678a-58ad-bd83-a3474e3e5436": {
+    "id": "94c4e3b8-678a-58ad-bd83-a3474e3e5436",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Antique Shop",
+    "cost": 200,
+    "description": "Nothing big or fancy, this is a little hole-in-the-wall store that you hold the deed to. Even if you don't make any money, the bills always seem to get paid from a few trickling in sources of money, and you get a slow trickle of customers who aren't too nosy about what you've got sequestered in there. What you've got, obviously, being antiques, but more than that, the store also makes a perfect location for storing any high profile artifacts you've got out of sight and out of mind.",
+    "origin": "Sorcerer's Apprentice JumpChain"
+  },
+  "79840484-2f66-545b-9499-015387d648b5": {
+    "id": "79840484-2f66-545b-9499-015387d648b5",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Ash Williams",
+    "cost": 300,
+    "description": "Ash Williams- the hunter of Deadites, the Hero From The Sky, the Chosen One- has decided that he’d like to join you on your journey. Though a loud-mouthed braggart and not without occasional moments of weakness- particularly when it comes to pretty ladies- Ash is highly skilled at fighting and surviving against the evil dead.",
+    "origin": "The Evil Dead"
+  },
+  "81781435-619c-5b7b-9128-417763f40c1c": {
+    "id": "81781435-619c-5b7b-9128-417763f40c1c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Call Center Idjit",
+    "cost": 100,
+    "description": "Someone who handles your cover stories when infiltrating locations with fake I.D.; the person on the other end of the phone who can quickly adapt to various roles as needed. They can manage impersonating your superior with the Federal Marshal, F.B.I., C.D.C., Police Department, or Health Department easily depending on which cover story you may be using and have a 100% track record for nailing every performance. Should anyone try verifying the fake identities you or other companions may be using with the number of your superior on your business cards.",
+    "origin": "Supernatural JumpChain"
+  },
+  "1348a3e6-d49a-56eb-b172-18af70bd86a7": {
+    "id": "1348a3e6-d49a-56eb-b172-18af70bd86a7",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Castle",
+    "cost": 600,
+    "description": "A castle, similar to the one owned by King Arthur, that will follow you on your journeys. In each world you visit it will be staffed by knights or warriors of some type- all loyal to you and your causes- who number in at around sixty strong, as well as a large collection of weapons and armor. Despite the small size of your forces, the castle is sturdy and well-protected enough to hold off a much larger force if they are led well enough in its defense.",
+    "origin": "The Evil Dead"
+  },
+  "1604a84b-4142-5c13-b221-3ef528faeb71": {
+    "id": "1604a84b-4142-5c13-b221-3ef528faeb71",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Coffee Shop",
+    "cost": 200,
+    "description": "Ownership of a cozy coffee shop. Generates income and it always attracts interesting people.",
+    "origin": "Wednesday"
+  },
+  "95ec3b36-2893-52a8-bbb8-8ad86f59a565": {
+    "id": "95ec3b36-2893-52a8-bbb8-8ad86f59a565",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Corner Deli",
+    "cost": 200,
+    "description": "It's not the most auspicious place, but it so happens that this little deli is where one of the last Morganians works, flipping burgers. Talking to the man working here will allow you to connect with the magical underworld – if there is one – and his fairly large spread of contacts. Depending on what circles you walk in, there's a chance he can get outright volunteers to serve as your lackeys.",
+    "origin": "Sorcerer's Apprentice JumpChain"
+  },
+  "3fad979e-71b4-5895-a988-02e23a5dec6e": {
+    "id": "3fad979e-71b4-5895-a988-02e23a5dec6e",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Dark Chi Warriors",
+    "cost": 400,
+    "description": "Closer to the original Trio than the Enforcers, which is to say they don’t talk and seem to have no will of their own. This is an original set of three, whose appearance and weapons are up to your design. They possess low superhuman levels of physical abilities, psychokinetic control of their weapons, can levitate, and when mortally wounded they poof into smoke and reform unharmed elsewhere. You can summon and dismiss them at will.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "8ed99c78-c1fe-5655-90be-29af839b2978": {
+    "id": "8ed99c78-c1fe-5655-90be-29af839b2978",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Detective Agency",
+    "cost": 200,
+    "description": "You have a detective agency of your own. This includes office space, a small apartment, and the necessary licenses to operate such a business.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "677d7d0f-9c6b-54a1-86ae-915ad343a68f": {
+    "id": "677d7d0f-9c6b-54a1-86ae-915ad343a68f",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Fence",
+    "cost": 100,
+    "description": "You have an agent or website of some sort, through which you can sell any item you own and receive a fair sum in return. Whatever it is, it’s untraceable and the fewer questions you ask about it the better.",
+    "origin": "Libriomancer Jumpchain."
+  },
+  "43eebd2b-e491-5f19-95d1-0ebcd57c2304": {
+    "id": "43eebd2b-e491-5f19-95d1-0ebcd57c2304",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Fire Spider",
+    "cost": 300,
+    "description": "You possess a small pet, a tarantula like spider with unique red markings. Its primary diet consists of crickets, other small insects and sugary candies. It provides an immediate danger sense, flaring up as it almost supernaturally detects any and all threats to its owner. It is fiercely loyal, will obey all of your commands short of suicide and can emit heat and flame equivalent to that of a blow­torch on command. Or when angry. Mostly when it’s angry. Don’t make it angry.",
+    "origin": "Libriomancer Jumpchain."
+  },
+  "da579bc2-29db-570f-a745-de7c34484e76": {
+    "id": "da579bc2-29db-570f-a745-de7c34484e76",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Gargbeast",
+    "cost": 200,
+    "description": "You have a dog! Sure, it has leathery skin that's as tough as chain mail and looks like a dragon banged a bulldog, but otherwise it's just like a regular dog. You choose the gender and general temperament.",
+    "origin": "Gargoyles JumpChain"
+  },
+  "fa016383-840d-5b28-8370-658db70f2fa5": {
+    "id": "fa016383-840d-5b28-8370-658db70f2fa5",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Grand Domain",
+    "cost": 600,
+    "description": "Moving up in the world, are you? You’ve now gained your very own domain, not just that but your domain is absurdly large and incredibly important to reality. Think of it as kind of like a pocket dimension you control. Your domain is about as large as you care to make it, and you don’t even have to bother allowing distance to matter much within it if you don’t want. The big thing though is that it’s metaphysically significant to a level comparable to Hell, an afterlife that all sinners and demons go to, or the Dreaming, the domain of one of the Endless and where all beings who sleep and dream go to when they slumber. Your domain works however you want it to work, although keep in mind that without great personal power of your own you probably won’t be able to enforce it too well, potentially having to negotiate with anyone living in your domain instead of simply commanding them at your whim. If you do have supernatural power of your own, such as perhaps by being a deity or something greater, you can choose for your domain to come pre-filled with whatever you’d choose to fill it if you did so manually, such as demons and damned souls, or a population of dreams and nightmares, or whatever else.",
+    "origin": "The Sandman"
+  },
+  "d35e3ac9-e5e6-5339-89fa-246d48b61092": {
+    "id": "d35e3ac9-e5e6-5339-89fa-246d48b61092",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Hell",
+    "cost": 600,
+    "description": "You gain your own little slice of Hell. It possesses an endless amount of cells that automatically restructure themselves in order to best torture whoever is placed inside. You may choose to add this dimension to any realm you already own.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "55cb3c86-670c-5dbc-bbd5-dc853778279f": {
+    "id": "55cb3c86-670c-5dbc-bbd5-dc853778279f",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Hell Dimension",
+    "cost": 600,
+    "description": "A dimension of your very own! It may take any architype you want, being a proper hellish fire and brimstone type, a frozen waste, a massive forest, etc. This dimension must be dangerous, full of dangerous predators, demons, magical beings, and environmental hazards that would make an average human unlikely to last a day. Some attributes of this dimension can be changed from Earth; for instance, the sun might not harm vampires but rather transform them into beasts. The residents of this dimension can be humans who have adapted to the dangers. Their technology will begin at medieval levels, with some understanding of magic, though you can lead them to progress further in time. Regarding size, your dimension's landmass will begin about the size of California, but it will double in size every 10 years, eventually simply adding new planets. You can change the race and environment of your hell dimension at will, but doing so reverts any progress to the people and size of your dimension back to the base. Opening portals to this dimension is taxing; you can travel back and forth freely, bringing a few people with you. Sending a dozen or more people would require some energy, and opening a large portal where armies could pass would require enough power to bring about an apocalypse. The final thing to know is this is your dimension, and it knows it. Your powers are increased by an order of magnitude here, the people here worship you as a god and can never turn on you now matter what, and even the land itself seems to avoid harming you.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "99d1f86a-bbe2-5600-86fb-aa872d9fc0ab": {
+    "id": "99d1f86a-bbe2-5600-86fb-aa872d9fc0ab",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "House Of Secrets",
+    "cost": 400,
+    "description": "Normally the dwelling of Cain and Abel, yes the two from the Bible (although whether their story is true is up in the air), you’ve been granted entry and ownership of the House of Secrets, which you can access by sleeping. You don’t have to evict Cain and Abel if you don’t want to. The house has a small library with many, many secrets that are known only to a few, especially those only to a handful of people across the universe. While there’s nothing that will directly grant you significant power, if you care to peruse it you’ll gain very deep insight into the mysteries of whatever worlds you might find yourself in, and there might be some secrets regarding lost arcane knowledge or artifacts that you might like to hunt down to use for your own ends. Also, there’s some kind of unspeakable thing in the sub-basement. It likes seafood and being underwater.",
+    "origin": "The Sandman"
+  },
+  "642d810b-dd1f-589c-b24f-19712ccbcda3": {
+    "id": "642d810b-dd1f-589c-b24f-19712ccbcda3",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Hunting Lodge",
+    "cost": 200,
+    "description": "A warded hunting lodge, with caches of lore and banes. You can expect a tidy profit from this place, but the real benefit is that supernatural hunters know it’s a good place to meet and lay low. Owning this will ensure that you have friends in that community; if some later world has monsters but no hunters or hedge magic, this lodge can ensure there suddenly always has been. Naturally, the latter allows the former to prepare certain weapons so they can crowbar a Thesulac or salt and burn Deadman away, among other things.",
+    "origin": "Generic Supernatural Fanfiction Jumpchain"
+  },
+  "2e9763fd-17cb-5482-9fcb-1f693ff126c0": {
+    "id": "2e9763fd-17cb-5482-9fcb-1f693ff126c0",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Hyperion Hotel",
+    "cost": 300,
+    "description": "You own a large classically styled luxury hotel. This can be operational, in which case it will be run by NPC followers and will make a very nice income for you, or it can be reserved just for you and your friends.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "2cd394ec-bbe8-5564-b99c-3cd99edaaf1a": {
+    "id": "2cd394ec-bbe8-5564-b99c-3cd99edaaf1a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Jumper’s Pub",
+    "cost": 200,
+    "description": "Basically a copy of McAnally’s pub. Arranged and furnished in sets of thirteen - 13 pillars with intricate fairy tale scenes carved in them, 13 tables, 13 stools at the bar, 13 ceiling fans, etc. Comes staffed with a couple of followers. A bartender to serve the customers, and a piano player to provide ambiance as there are no electronics included. Both are men of few words. The bar is continually stocked with food and drink. Simple but high quality and delicious food like steak sandwiches. Home brewed ale good enough that it might just ruin all other beers for you, as well as a private stash of ale that’s even better. Most importantly, this pub is universally recognized and respected as Neutral Territory. So long as you, the owner, don’t violate the neutrality then neither will anyone else short of beings like Outsiders and other such omnicidal eldritch monstrosities. It has a regular clientele of the local supernatural element, or the closest local equivalent, it will occasionally be used as a neutral meeting ground for negotiations. This all continues in future jumps.",
+    "origin": "Dresden Files - SB 1.2"
+  },
+  "12887c78-0f39-51ef-bb13-53eb150aaaa4": {
+    "id": "12887c78-0f39-51ef-bb13-53eb150aaaa4",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Jumper’s Rare Finds",
+    "cost": 400,
+    "description": "You’ve got your own shop, Jumper. The majority of the ground floor is taken up by the shop proper and store room, which just sort of stocks itself with whatever it is you want to sell, but it also contains an office and a reasonably sized library of arcane lore and a laboratory for all of your research and magic experimentation needs. The top floor contains an apartment and a few spare bedrooms, enough that three grown men and a child could live here comfortably. If you don’t want to run the shop yourself, NPCs can be summoned up to run it in your place which will generate you a tidy income. The utilities are always taken care of for you, you have any and all documentation proving your ownership, and you’ll never have to worry about robberies or break-ins.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "67755ddb-8a54-5cad-9e36-b76903cc4cab": {
+    "id": "67755ddb-8a54-5cad-9e36-b76903cc4cab",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Kaer Morhen",
+    "cost": 400,
+    "description": "When you leave here, this mountaintop fortress, where witchers are trained and mutated, shall follow you. It has room for perhaps a hundred people, and a number of bestaries, many alchemical sets, and many other tools of their trade, including a bestiary, where monsters can be studied. Everything you need to produce new witchers except the Elder Blood and mutagenic alchemists can be found here. There is also an obstacle course. Post-jump, the keep will be able to generate equipment for newly trained witchers, supplies to match its population, and books detailing the monsters of new worlds.",
+    "origin": "The Witcher_ Nightmare of the Wolf Jumpchain"
+  },
+  "dd0c327b-d884-5c76-9217-1e1e1c3dc2c6": {
+    "id": "dd0c327b-d884-5c76-9217-1e1e1c3dc2c6",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Kid from the Future",
+    "cost": 300,
+    "description": "Turns out Jumper that you get to be a parent in the future. Congrats in advance, or belatedly as here they are, all grown-up. Through Time-travel shenanigans, your child from a potential future has come to the past. Perhaps they are here to warn you of a grave danger on the horizon, or maybe they are just curious, maybe they had a simple accident that somehow displaced them through time (happens more often than you’d think), but in any case they are here now and they aren’t willing or able to return to their normal time. Their gender and personality are up to you, but their age is between 15 and 19. Their Race must either be identical to yours,",
+    "origin": "Charmed JumpChain"
+  },
+  "b1572427-2e3c-5d66-953f-ed8c45c5b7f4": {
+    "id": "b1572427-2e3c-5d66-953f-ed8c45c5b7f4",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Lair",
+    "cost": 200,
+    "description": "Shendu has a palace in China. Daolon Wong has a castle in Bhutan and a mansion in San Francisco. Now you have a comparable base of operations for yourself. With all the room you could need and with luxurious furnishings, you can perform your villainy in style and comfort from here. You either have fully paid utilities or a magical substitute for them and if it’s at all relevant any and all papers proving you as the legal owner of the property.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "7bd53685-50e0-5c55-a726-c1d7ca4f427d": {
+    "id": "7bd53685-50e0-5c55-a726-c1d7ca4f427d",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Lee-Lee",
+    "cost": 100,
+    "description": "A werewolf-turned-hunter who used to be involved with some pretty stupid people. She’s happy to join you just for the chance to never see another of one particular vampire species again.",
+    "origin": "Generic Supernatural Fanfiction Jumpchain"
+  },
+  "1e9eee08-3d27-56ec-b68c-acbc2640c980": {
+    "id": "1e9eee08-3d27-56ec-b68c-acbc2640c980",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Library",
+    "cost": 100,
+    "description": "You have an extensive library of books focused on demonology and the occult, as well as records of prophecies and some on magic and spellcasting. The library as a whole is superbly organised, and you will have no trouble finding what you need in it.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "4b42c978-cddd-5bdb-a9ae-ce14dce1ed3c": {
+    "id": "4b42c978-cddd-5bdb-a9ae-ce14dce1ed3c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Library Of Dreams",
+    "cost": 100,
+    "description": "Perhaps Dream favors you quite a bit, as now you’re allowed to visit the Library of Dreams, by merely sleeping. In this library is every story that has ever been dreamed, not just those that were actually written down and published but also the ones that were never finished or written or even told to others. It might not be particularly useful in a practical sense, but you’ll never run out of stories to read",
+    "origin": "The Sandman"
+  },
+  "4b42c6d5-413f-5438-b12a-fa59512ea392": {
+    "id": "4b42c6d5-413f-5438-b12a-fa59512ea392",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Local Club",
+    "cost": 200,
+    "description": "Much like the Bronze, this local club will always be popular no matter when or where it is. It will earn you profits upwards of a base of 200,000 USD annually (adjusted for inflation), as well as just being a great place to blow off steam. Despite the music blasting, you'll easily hear people talking to you. Nobody can get alcohol poisoning or overdose on drugs here, and it will always be packed with 10/10 people who are attracted to you. Comes with a private VIP lounge, an unlimited supply of booze, drugs, music... whatever you need to blow off steam.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "b99ffc7f-50d4-5952-badb-79d5fa382e20": {
+    "id": "b99ffc7f-50d4-5952-badb-79d5fa382e20",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Lux",
+    "cost": 500,
+    "description": "A large, extravagant nightclub guaranteed to be filled every night and staffed by completely loyal workers who are incredibly skilled at their respective jobs. This nightclub comes with a large penthouse suite and is guaranteed to bring in loads of cash.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "913de9f9-f97f-5e92-a421-04745dcee3b9": {
+    "id": "913de9f9-f97f-5e92-a421-04745dcee3b9",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Mansion",
+    "cost": 100,
+    "description": "The most humble of jumper homes, a mansion! fitted with gargoyles and all the comforts of a modern home. It will have it's own self-sustaining power source, water source, heat, air conditioning, cable, and high speed untraceable internet, as well as a replenishing stock of any food you could ever want, be it steak, candy, or blood. The Mansion is self-cleaning, self-repairing, though it will understand intentional changes. It can change its aesthetic to match different settings, while it would still maintain access to modern amenities as a Roman Manor. This Mansion will also keep things hidden from the public, so unless someone is specifically looking for you or what you're doing, they won't notice weird flashing lights or loud monster fights or just throwing a party for all your friends. This mansion is legally yours in all jumps, and will never attract scrutiny from anyone, and can alternatively be a warehouse attachment with a small plot of land.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "43657107-596a-543c-bd02-ec2b025863a6": {
+    "id": "43657107-596a-543c-bd02-ec2b025863a6",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Men Of Letters Bunker",
+    "cost": 400,
+    "description": "A bunker house formerly belonging to the Men Of Letters. This bunker is much like the one the Winchesters may possess in the future. While it’s called a bunker that is only in name and in reality it is a huge building. This building's exact design and appearance is up to you including its outward looks. Regardless, this bunker contains an immense library, several hidden devil traps and sigils plastered around the library to freeze Demons in place as well as other security measures. Now, unlike the normal bunker, yours possesses up to date computers and machines as well as several sensors and warning devices (will advance in more high tech jumps) allowing you to track even Angels themselves as they fall. It possesses multiple showers and living quarters; again like everything, the design is up to you. The furniture is again up to you. The bunker also contains an inter dimension geoscope. Furthermore, the bunker also contains a garage able to handle nearly half a dozen vehicles, a shooting range, large kitchen and dungeon. Also, unlike the canon version your bunker is not on limited power and its runes and defences are permanently enhanced whereby it can hide the inhabitant even from God himself; the runes also help to defend the building. Also, your bunker possesses a monster radar and again the design is up to you and unlike Sam and Dean's yours isn’t limited to a country, it can see the world.",
+    "origin": "Supernatural V2"
+  },
+  "17bacdbe-1beb-5c00-a1f4-6082fdb0997d": {
+    "id": "17bacdbe-1beb-5c00-a1f4-6082fdb0997d",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Mermay",
+    "cost": 400,
+    "description": "Who says that Shendu is the only Demon Sorcerer with an adolescent, plothole-inducing child who may or may not exist naturally in the current timeline? Mermay is the daughter of Bai Tza, the water demon. Like Drago, Mermay is a smaller, weaker, more humanlike version of her demon parent, but like Drago, she’s mastered her elemental powers to a greater level than her parent. It’s a bit hard to guess just where she falls on the alignment chart, so to speak, but she’s very curious about the human world and thinks that you’re as good as anyone to learn about it.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "0bb3b259-419b-580e-aa51-38d5bb594f91": {
+    "id": "0bb3b259-419b-580e-aa51-38d5bb594f91",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Mutagenic Alchemist",
+    "cost": 200,
+    "description": "A mage of some skill, proficient in the creation of witchers. They have a replenishing supply of Elder Blood, and they’re not afraid to use it. Just... maybe find some way to refine the process? There’s a reason most of the boys who go through the Trial of the Grasses die, and don’t even get me started on the girls.",
+    "origin": "The Witcher_ Nightmare of the Wolf Jumpchain"
+  },
+  "949b58be-e8f1-503e-bcaa-33d443d924d2": {
+    "id": "949b58be-e8f1-503e-bcaa-33d443d924d2",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Nevermore Academy",
+    "cost": 500,
+    "description": "This is the entirety of Nevermore Academy, a gothic campus and a safe haven for Outcasts. Founded on the lands of Joseph Crackstone, its spires pierce the sky while its gargoyles peer down from their ledges. Inside, classrooms teach subjects both intellectual and arcane such as séances classes and the school is well equipped with one of the biggest libraries of the occult on the planet. Comes with the staff and will automatically send letters of invitation to any type of group you wish.",
+    "origin": "Wednesday"
+  },
+  "cf3550cd-895d-50ba-86f4-382f55b3d292": {
+    "id": "cf3550cd-895d-50ba-86f4-382f55b3d292",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Nymph of Neptune",
+    "cost": 300,
+    "description": "Stemming from a tawdry novella about the virtue of zaftig alien women in the secret tropical subterranean land of Neptune, this particular individual while book born, has somehow managed to leave her original story while retaining her identity and sanity. She is plump and curvaceous and has a personality and intellect in line with your platonic ideal of a romantic partner. She will quickly learn any skills you would wish your significant other to have (assuming they are feasible). She also gains all of the abilities associated with the Seductive Elemental inhuman background.",
+    "origin": "Libriomancer Jumpchain."
+  },
+  "5440f1bc-ae52-5db8-8780-6ac63b95442b": {
+    "id": "5440f1bc-ae52-5db8-8780-6ac63b95442b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Outcast Summer Camp",
+    "cost": 400,
+    "description": "An invitation for a summer camp made specifically to train your abilities. Renews itself each year.",
+    "origin": "Wednesday"
+  },
+  "78787aa2-4e5b-5483-a0a4-62cd6fdd5f2b": {
+    "id": "78787aa2-4e5b-5483-a0a4-62cd6fdd5f2b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Personal Assistant",
+    "cost": 200,
+    "description": "Stone-faced and serious, your loyal assistant is there whenever you need him or her. Need to organize a meeting with a clan of monsters? Assistant can handle it. Need to practice your Kung Fu? Assistant can handle it. Need someone to test your latest immortality potion on? Assistant can handle it. May or may not secretly be a member of the Third Race",
+    "origin": "Gargoyles JumpChain"
+  },
+  "1dbbeffb-c4c3-5b86-8ab3-7f2092de3c88": {
+    "id": "1dbbeffb-c4c3-5b86-8ab3-7f2092de3c88",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Piece of Heaven",
+    "cost": 600,
+    "description": "Here you go, a lovely piece of Heaven that only you, or those you allow can Teleport to. Great for relaxing and time here is flexible. If you want for time to be dilated you can set it so that you can spend a month here and only a week passes on Earth, or vice versa. This does not count as an afterlife, merely a nice slice of real estate to spend time in. It is about as large a small island and is quite beautiful, light and airy with tall marble pillars and gleaming white floors. Clouds make up the ceiling and all in all it makes for a lovely place to rest and gather yourself.",
+    "origin": "Charmed JumpChain"
+  },
+  "5de2b170-441e-5b26-99c4-29f8cca52462": {
+    "id": "5de2b170-441e-5b26-99c4-29f8cca52462",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Proper Afterlife",
+    "cost": 400,
+    "description": "Unlike the Heaven and Hell dimensions, this warehouse attachment is a much more proper afterlife. If you have access to someone's soul, you can send it here to be kept. It could be a personal heaven for those dearly departed, or eternal torture for those who escaped judgement in life. You can customize this to be some elaborate paradise or just simply have them be on fire forever, or just have their own minds create an afterlife for them. Maybe you can use this to reform people and resurrect them later, or simply put them here to prevent their souls from captured.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "6b96074b-1271-5c74-ab90-a722b32cf20b": {
+    "id": "6b96074b-1271-5c74-ab90-a722b32cf20b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Purgatory",
+    "cost": 500,
+    "description": "Considered a slightly worse neighbourhood than hell, this seemingly endless dark forest hosts upwards of 30 million souls. “Every soul here is a monster. This is where they come to prey upon each other for all eternity.” You don’t have that, not exactly. Like Purgatory, the dimension you receive shares a few features. It is able to serve as an afterlife for any creatures if you hold some kind of claim to their soul, such as through having created them or being worshipped as their god. Others who are not meant for this place can find an escape-hatch somewhere in the expansive plane that will eject them somewhere reasonably safe on their home world. Unlike Purgatory your realm need not be a spooky dark forest, but can include any kind of natural biome(s) you may desire to be cultivated and built up if someone puts in the work. Your inactive companions are free to wander this domain freely.",
+    "origin": "Supernatural JumpChain"
+  },
+  "6fbade28-8cac-55b1-9f42-c74cbe94e303": {
+    "id": "6fbade28-8cac-55b1-9f42-c74cbe94e303",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Remote Cabin",
+    "cost": 100,
+    "description": "(100 CP)- This small house is located in a mountainous, forested place, isolated from civilization. Not a bad place to stay, but perhaps it’d be better as a place to lure your prey...",
+    "origin": "The Evil Dead"
+  },
+  "e205ed63-78c2-5a1e-8508-34da99fba258": {
+    "id": "e205ed63-78c2-5a1e-8508-34da99fba258",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Research Facility",
+    "cost": 400,
+    "description": "An advanced (for 1979) research facility, built in a remote area near Crystal Lake. While it’s main purpose is study- containing a lab and supplies- it serves another purpose, namely the containment of dangerous beings. Similar to the Crystal Lake Research Facility, it has cryogenics pods and numerous powerful sedatives that can keep even Jason down, as well as enough durability to withstand apocalyptic events that may or may not ravage the earth in the next few hundred years or so.",
+    "origin": "Friday the 13th JumpChain"
+  },
+  "451a07ee-4d3d-5272-9eaa-f67a0532320b": {
+    "id": "451a07ee-4d3d-5272-9eaa-f67a0532320b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Safe House",
+    "cost": 300,
+    "description": "A piece of secret property you own that can be used for securiety adn safety. Comes with armored safe rooms and the windows filter out harmful sunlight. Has arsenal rooms and other features such as alarms and cameras.",
+    "origin": "Underworld Jump"
+  },
+  "08068ae2-184f-50f3-ae67-fd7873dfc057": {
+    "id": "08068ae2-184f-50f3-ae67-fd7873dfc057",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Slayer",
+    "cost": 100,
+    "description": "One of the many vampire slayers activated by Willow’s spell, this young woman has nothing left to keep her in this world, but you knew her before she woke up with superstrength, and she’s happy to follow you anywhere she can start anew.",
+    "origin": "Generic Supernatural Fanfiction Jumpchain"
+  },
+  "adfb896d-d152-558b-8a69-bc89f2588cdc": {
+    "id": "adfb896d-d152-558b-8a69-bc89f2588cdc",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Sleazy Bar",
+    "cost": 400,
+    "description": "This is a bar where everyone goes to unwind and drink, run by a bartender who's got a pretty ruthless enforcement of his \"no starting shit in my bar\" policy that would take a god to defy. This bar is a crossroads of people looking for work, anything from mooks with the inexplicable level of mook kung fu they know to specialists who could launch psionic attacks on a Big Bad if needed. It's also a pretty good source of information; if you need a lead the bartender's heard some rumors. If you've got the money, this bar will let you hire setting appropriate minions of all calibers. If you've got a few billion laying around, you may even find a former slayer turned vampire or an ancient demon who could go toe to toe with even a Super Xander.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "9561a924-346b-58dc-9c23-4d99228b2af3": {
+    "id": "9561a924-346b-58dc-9c23-4d99228b2af3",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Sunnydale",
+    "cost": 400,
+    "description": "You have your own copy of Sunnydale, a town/small city where you will always be the mayor. This city will be somewhere safe and run without your interference. It can be inserted where you wish, including altering the Californian coast to include it. This does not include a Hellmouth, nor is it full of demons and magical artefacts.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "09688e6e-9bf3-513c-b041-475e29056ad2": {
+    "id": "09688e6e-9bf3-513c-b041-475e29056ad2",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Tattoo Parlor",
+    "cost": 200,
+    "description": "This is a small tattoo parlor completely owned by you and staffed by very skilled NPC’s. Anywhere this is placed it will become a hit to those who seek to add art to their skin and will bring in just enough money for you to live comfortably.",
+    "origin": "The Crow"
+  },
+  "a4f651f4-5ca3-51a7-b64e-f827e4b38992": {
+    "id": "a4f651f4-5ca3-51a7-b64e-f827e4b38992",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "The Elysian Field",
+    "cost": 400,
+    "description": "A swank five-star hotel in the middle of nowhere that sees enough business to keep its many luxurious accommodations running smoothly. With rooms that can house all kinds of other deities comfortably and a speedy staff that can keep up with their demanding nature this place holds itself to the highest standard of excellence. Perhaps because of this outstanding quality, it is seen as an excellent convention place for meetings between deities like the pagan gods, where they can come together and discuss issues without it coming to violence as easily. The catering is supernaturally good with an abundance of pies and toppings for pies at the 24- hour pie buffet, all of which are guaranteed to taste better than the desserts of their pie-making competitors in Heaven.",
+    "origin": "Supernatural JumpChain"
+  },
+  "15921042-6261-59a7-a77e-218559df71af": {
+    "id": "15921042-6261-59a7-a77e-218559df71af",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Top-Floor Apartment",
+    "cost": 200,
+    "description": "A penthouse or large apartment in Manhattan, it's good for late night meetings. For some reason, rent is paid up for the next ten years.",
+    "origin": "Gargoyles JumpChain"
+  },
+  "234630c4-7ae6-516b-8290-707965c3f771": {
+    "id": "234630c4-7ae6-516b-8290-707965c3f771",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Trailer",
+    "cost": 100,
+    "description": "A simple trailer that you can live in. Not very glamorous but functional.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "39cf1ddc-e4f0-5465-a709-8e009f43b41d": {
+    "id": "39cf1ddc-e4f0-5465-a709-8e009f43b41d",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Wednesday Addams",
+    "cost": 100,
+    "description": "Sarcastic, morbid and completely honest, Wednesday lives for danger and unraveling mysteries. Earning her trust is no easy feat, especially with her wit, but once given, her loyalty is unshakable.",
+    "origin": "Wednesday"
+  },
+  "24fcef94-dc87-538e-896e-7e424e57f954": {
+    "id": "24fcef94-dc87-538e-896e-7e424e57f954",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Whitelighter Bro",
+    "cost": 300,
+    "description": "So it seems like you’ve got a (metaphorical) guardian angel looking out for you, Jumper. A ‘Lighter that’s been keeping you safe from the shadows. Frustrating your enemies and giving you little bits of valuable assistance when you needed it. But now, they’ve stepped into the light and you recognise them for what they are. Okay, maybe you walked in on them doing something blatantly magical when they were supposed to be a normal Mortal and they had to hurried explain so you wouldn’t kick their ass... anyway.",
+    "origin": "Charmed JumpChain"
+  },
+  "a031f47b-c5d3-5240-a8e6-5dfa9720c33a": {
+    "id": "a031f47b-c5d3-5240-a8e6-5dfa9720c33a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "Workshop",
+    "cost": 200,
+    "description": "A large collection of tools; hammers, nail guns, drills, wrenches, saws, and every houseware in between. Pretty much any tool you need for repair, modification, or killing the undead can be found here, and your supplies will replenish if you use them up.",
+    "origin": "The Evil Dead"
+  },
+  "1777bb11-5149-544b-b905-fa85159cc40f": {
+    "id": "1777bb11-5149-544b-b905-fa85159cc40f",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Base",
+    "name": "World’s End Inn",
+    "cost": 200,
+    "description": "By taking strange paths and unknowable turns, you’ll be able to find yourself at the inn World’s End, regardless of where you were. Here you’ll find people from all kinds of places and worlds that were stranded here due to some freak accident, exchanging tales and stories of their own worlds. Don’t forget to tell tales yourself too, at least if you want to be welcomed as warmly as anyone else. It can be handy to hide out here so that all but the most powerful supernatural beings cannot find you, or maybe if you’re just curious about tales from places you’ve never been to. The food is quite nice too.",
+    "origin": "The Sandman"
+  },
+  "e6803722-b91f-5156-8133-2a8804b5dcb9": {
+    "id": "e6803722-b91f-5156-8133-2a8804b5dcb9",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "A List Of Dead Men",
+    "cost": 300,
+    "description": "This thick but otherwise unassuming envelope is entirely blank, with no indication of its contents, sender or even addressee. When opened with a specific organization in mind, the envelope will give you a list of roughly a hundred targets, the elimination of which will result in said organization being severely crippled or outright causing a total collapse. Each target comes with basic background information and suspected whereabouts, though especially reclusive or paranoid marks may lack photographs, supporting information, or even anything more than some fragmentary 'proof they exist at all'. You'll still need to do the legwork, but with enough dead bodies even an organization as powerful as the Gegengeist Gruppe can be taken apart. The list automatically tracks which targets have been eliminated (be it by you or due to other causes), but otherwise doesn't update. You will find a new envelope in your possession after one year, or when your current list of victims has been 'dealt with', whichever occurs first.",
+    "origin": "Bloodrayne 1 V1.0"
+  },
+  "45ccaf69-6ce5-50e4-8d13-722487f17f3c": {
+    "id": "45ccaf69-6ce5-50e4-8d13-722487f17f3c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Amulet of Protection",
+    "cost": 400,
+    "description": "This amulet containing a Force-field Power protects its bearer from all harm. While strong, it can be overcome with sufficient raw power or the right Power. The amulet also forces the user to remain in a defensive posture while it is in use, preventing counter-attacks or any offensive action, even fleeing isn’t possible while using it. The amulet contains a limit reservoir of power to work off of until it falters under pressure, but if given by you to another, you are immediately and perfectly alerted to its activation, allowing you to find and aid the person.",
+    "origin": "Charmed JumpChain"
+  },
+  "c98825b1-c878-5440-af17-745c5ec005d3": {
+    "id": "c98825b1-c878-5440-af17-745c5ec005d3",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Angelic Grace",
+    "cost": 100,
+    "description": "This celestial energy is integral to every angel, but it can be stolen away with the right tools and leave an angel stripped of nearly all of their powers – including the ability to even leave a vessel. It is a serious crime in heaven for grace to be removed, whether by the owner or another. Once removed from an angel, this energy can cause a surge of life and growth in an area over time, turning barren fields into fertile overgrown areas. Of course, the angel would be stuck as a human unless they could find and reclaim it.",
+    "origin": "Supernatural JumpChain"
+  },
+  "23469918-abd7-5f39-a037-fa293ca0ede7": {
+    "id": "23469918-abd7-5f39-a037-fa293ca0ede7",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Apple Brand Ipod",
+    "cost": 100,
+    "description": "This is the best music player that ever has been or will be invented. Look at those clean lines, and that wonderfully intuitive UI! You know you want to use it all the time. While that’s... probably not a good idea, at least if you do want to fill it up with tunes you’ll not run out of space. So long as you’re just storing music to enjoy, you’ll find it’s impossible to fill. To give you a bit of a head start, there’s a full selection of the tunes you may have enjoyed from this world’s media.",
+    "origin": "Blade Jumpchain"
+  },
+  "a578a9d0-6f29-555d-992f-d448877274d8": {
+    "id": "a578a9d0-6f29-555d-992f-d448877274d8",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Banishing Potions",
+    "cost": 200,
+    "description": "This box contains six breakable vials of banishing potion and their recipe. The potions are generic capable of being used equally effectively against any Supernatural being in this setting with equal efficacy, but there are many beings that are resistance to these potions and require stronger potions or specialised potions and/or Spellcastings to deal with. These recipes can give you a useful starting point and are remarkable enough to be of value even to otherwise educated Witches.",
+    "origin": "Charmed JumpChain"
+  },
+  "98ad3239-782d-5530-a563-f340140c31a2": {
+    "id": "98ad3239-782d-5530-a563-f340140c31a2",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Book of Shadows",
+    "cost": 400,
+    "description": "Witches, and some other Supernatural beings, find it valuable to record their knowledge for posterity and pass it on to the next generation. While some beings prefer oral teachings, Witches and Warlocks as well as some Demons see the value in putting pen to paper, recording their experiences, potion recipes, spell incantations and a list of various Supernatural beings they have encountered and ways of dealing with the same. This Book of Shadows is either yours or an orphaned book from a now dead line of either Witches or Warlocks at your discretion. It may even be a lesser Grimoire, a repository of Demonic knowledge, but otherwise identical.",
+    "origin": "Charmed JumpChain"
+  },
+  "d67e14aa-16c3-5598-a944-11fac56b8150": {
+    "id": "d67e14aa-16c3-5598-a944-11fac56b8150",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Booze",
+    "cost": 200,
+    "description": "A flask containing an endless supply of whatever beverage you desire. This can only be normal, non-supernatural drinks, so not trying to create potions of invulnerability.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "a5def17f-b699-59f8-ac65-011718092353": {
+    "id": "a5def17f-b699-59f8-ac65-011718092353",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Cellphone",
+    "cost": 100,
+    "description": "Don’t get too excited, this is an early 2000s phone. Still, it’s indestructible, always has service, never needs recharging, updates to stay bleeding edge, and can’t be traced.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "c9fff3c2-8a59-56d2-910f-2c7dbb30c578": {
+    "id": "c9fff3c2-8a59-56d2-910f-2c7dbb30c578",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Classic Wheels With a Trunkful of Weapons",
+    "cost": 100,
+    "description": "You have an iconic and reliable vehicle of your choosing. Even better, its trunk has a hidden section that holds the various weapons and tools of a hunter. These weapons, while mundane, retain their monster-hunting properties in other worlds. There’s also an EMF that only detects ghosts - not power lines.",
+    "origin": "Generic Supernatural Fanfiction Jumpchain"
+  },
+  "fb5224e3-ed10-5c7c-ade7-bcf9c37280c9": {
+    "id": "fb5224e3-ed10-5c7c-ade7-bcf9c37280c9",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Coin",
+    "cost": 100,
+    "description": "You possess a coin. At any time you can choose to destroy the coin in order to enter another realm, even if you do not naturally possess this ability. The original version of this coin only allows travel to Hell, but you may choose to go anywhere you like. You get another coin every month.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "aa12275b-17c5-5e33-b799-60a972fdf6dc": {
+    "id": "aa12275b-17c5-5e33-b799-60a972fdf6dc",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Corinthian Coral Amulet",
+    "cost": 200,
+    "description": "An amulet made specifically to protect the user against the mind-control of Sirens. Protects the mind against external influences.",
+    "origin": "Wednesday"
+  },
+  "8fbf5dd3-0453-504d-9098-bab804afc5d1": {
+    "id": "8fbf5dd3-0453-504d-9098-bab804afc5d1",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Crystal Trap",
+    "cost": 100,
+    "description": "These three crystals when placed in a circle erect a trap made of electricity that confines a single Supernatural creature, two if their friendly within the enclosed space. Used primarily for interrogation, this form of trap is capable but fragile, requiring only a single crystal to be shifted to break the cage. The cage interferes with Teleportation and allows things to be flung in from the outside, similarly the target may freely be Spellcast against while imprisoned. Beings sufficiently more powerful than the erector of the cage may break free through sheer power, also a being with sufficient guile or the right Power can break free on their own, especially in unsupervised.",
+    "origin": "Charmed JumpChain"
+  },
+  "b07ed94c-2789-552f-99b6-eb6386efb392": {
+    "id": "b07ed94c-2789-552f-99b6-eb6386efb392",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Curse Box",
+    "cost": 100,
+    "description": "When it comes to seeking magic, one is bound to come across just as many volatile items as beneficial ones. What you have here is a simple but effective way to counter the dangerous consequences of encountering cursed equipment. Created by magic, accidental or malicious, these items can quickly lead to the death of one who finds them unless a curse is neutralized. The box your receive is superficially like any other curse box, with simple lock and protective sigils capable of neutralizing the ongoing effects of any cursed item placed inside. Your curse box is large enough to hold any one cursed object safely.",
+    "origin": "Supernatural JumpChain"
+  },
+  "5bcc52a2-2b1a-5e6a-abfd-86034293223d": {
+    "id": "5bcc52a2-2b1a-5e6a-abfd-86034293223d",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Demonology 101",
+    "cost": 100,
+    "description": "A textbook effectively contains a wiki page on all magical beings in the jump. Typically you'd just see generic pages for monsters, but if someone is notable enough it would have entries on them. The knowledge is as good as any books in the setting could provide, as well as updating with anything you know. This can come with a digital copy as well",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "385ad110-8ac3-55ed-a19d-73998b751fc6": {
+    "id": "385ad110-8ac3-55ed-a19d-73998b751fc6",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Encantus, Pocket Edition",
+    "cost": 100,
+    "description": "Sorcerer's bible, it serves as a combination of textbook and historical document, detailing the art, science and history of magic. Essentially every Encantus ever created is patterned after Merlin's original text, although this means that most modern copies of the Encantus are missing several chunks after damage incurred during his fall – such as a copy of The Rising spell. It also details the history of previous owner of the Encantus or the original it was copied from, and as such you can trace your sorcerous lineage back to Merlin through this. Your copy is a modern copy of the Encantus, which means while it lacks spells such as The Rising, it does have many more modern spells that have been invented since his time.",
+    "origin": "Sorcerer's Apprentice JumpChain"
+  },
+  "143da480-f0c6-5751-9c12-d4e39345aaaf": {
+    "id": "143da480-f0c6-5751-9c12-d4e39345aaaf",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Eye of Aurora",
+    "cost": 600,
+    "description": "A gift from an Egyptian sorcerer to a princess of the same name, the Eye of Aurora allows anyone who is in physical contact with it to teleport to anywhere on the planet in the blink of an eye simply by saying “Return to” and then the name of the place you wish to travel to, though you should be specific.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "195adb6d-57ed-5086-b43e-cd4fedf3e301": {
+    "id": "195adb6d-57ed-5086-b43e-cd4fedf3e301",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Flask of Holy Water",
+    "cost": 200,
+    "description": "A flask containing unlimited holy water, one of the most powerful weapons against Demons. While this cannot kill Demons it can both hurt and burn them regardless of their power.",
+    "origin": "Supernatural V2"
+  },
+  "378e8a8b-ab5b-5eef-91dd-f88a30492b2c": {
+    "id": "378e8a8b-ab5b-5eef-91dd-f88a30492b2c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Gift of Bi­Sheng",
+    "cost": 300,
+    "description": "A gift from the students of Bi­Sheng. This plain white book made from rice­paper allows you to transcribe your thoughts, memories and personality into it. It will serve as a metaphysical anchoring point, allowing you to maintain your identity and cohesion in spite of whatever trauma you may face or attempts to alter your identity/wipe you from existence.",
+    "origin": "Libriomancer Jumpchain"
+  },
+  "a94e1199-1872-5f79-97ea-cc2f44e4cea5": {
+    "id": "a94e1199-1872-5f79-97ea-cc2f44e4cea5",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Goody’s Book of Spells",
+    "cost": 600,
+    "description": "Did you rob a tomb? Bound in weathered leather, this ancient tome once was in the hands of Goody Addams herself, written during her time as the leader of the Nightshade Society. Every page is filled with magic rituals and occult knowledge. While only a Raven will use this to full potential, there are many uses and rituals for Normies here, including Outcast weaknesses and poisons.",
+    "origin": "Wednesday"
+  },
+  "62cb63e1-e7cd-5b80-bb53-e7bfde785802": {
+    "id": "62cb63e1-e7cd-5b80-bb53-e7bfde785802",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Gramophone",
+    "cost": 100,
+    "description": "This is an antique gramophone of the Addams. When the needle starts playing, the air is filled with serene melodies that relaxes anyone who hears it in body and mind. Listeners find their breathing easier and their thoughts serene.",
+    "origin": "Wednesday"
+  },
+  "36d11d8b-2010-58ef-8472-3883d8936418": {
+    "id": "36d11d8b-2010-58ef-8472-3883d8936418",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Grimorum Arcanorum",
+    "cost": 500,
+    "description": "An unmarred copy of a book of human magic, it contains almost every spell a human mage has ever created and the energy to cast it. Mind control and turning everyone who hears and sees you to stone are as easy as mispronouncing Latin. Furthermore, every spell has a counter-spell and a condition for breaking it. Tastes delicious, if you can store the energy.",
+    "origin": "Gargoyles JumpChain"
+  },
+  "aa4bf5c4-abba-5915-b552-b1e0261f3f89": {
+    "id": "aa4bf5c4-abba-5915-b552-b1e0261f3f89",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Hex Bag",
+    "cost": 100,
+    "description": "A common component used by witches worldwide, a hex bag is simply a means to cast a hex upon a single target from a safe location. A kind of magical trap, a hex bag is to be hidden in a room and once the desired target enters they suffer the spell contained within which lasts continuously until it either causes the death of the intended target or completes the hex with no more to be done. The only way to stop a hex prematurely is to find and burn the bag. This hex bag can be aligned with a single-target spell you know – from this world or any other. That spell cannot be changed once selected.",
+    "origin": "Supernatural JumpChain"
+  },
+  "8b378296-e5fb-502f-86ff-8009a807eb91": {
+    "id": "8b378296-e5fb-502f-86ff-8009a807eb91",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Holy Oil",
+    "cost": 100,
+    "description": "A very rare substance that can only be found in Jerusalem, Holy Oil has many applications in both rituals and confronting angels. When a circle of the oil is ignited angels are unable to cross, as both their vessel and the angel will be destroyed immediately. Very useful, if not for the fact angels can still call for help over Angel Radio and archangels can only be held for minutes before the fire goes out. Despite its primary use being a weapon against angelic beings, used as a fire-starter it still does great harm to both low and mid-level demons as holy fire molotov . Your jug of the fluid will refill regularly.",
+    "origin": "Supernatural JumpChain"
+  },
+  "e82fe7fa-c448-53f5-ac46-68fab66f55e6": {
+    "id": "e82fe7fa-c448-53f5-ac46-68fab66f55e6",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Hoodie",
+    "cost": 100,
+    "description": "You now own a comfortable hoodie. When the hood is up, you will be hidden from any camera or demon. It cleans itself when you want it to, will always be the perfect temperature and will always be flattering to your appearance. If given to someone else, they will be safe against any threat you could protect them against, even if you aren’t there to protect them.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "1105399f-7b09-5e6f-b7df-59a0d80104f5": {
+    "id": "1105399f-7b09-5e6f-b7df-59a0d80104f5",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Hunter’s Journal",
+    "cost": 0,
+    "description": "The single most valuable possession for most hunters, books like these are passed down through families and hold extensive records on the demons and monsters encountered over generations. A constant companion for any hunter this notebook is used to keep track of where they’ve gone, what they’ve hunted, and who they’ve helped along the way. It includes many hand-drawn illustrations, newspaper clippers, and the occasional photograph to help identify creatures as well as keep track of rumours and lore about creaturesightings. If well maintained, it allows other hunters to avenge their family or at least tie-up loose ends and give some closure.",
+    "origin": "Supernatural JumpChain"
+  },
+  "2746dce5-6b93-50a7-a532-573ec844a7c1": {
+    "id": "2746dce5-6b93-50a7-a532-573ec844a7c1",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Hunting License",
+    "cost": 200,
+    "description": "A badge that identifies you as a member of the law enforcement apparatus’s secret supernatural division, with all the scary levels of secret authority that comes with it. When feasible, hedge witches are to be turned over to the normal cops, and possessing spirits are to be exorcized rather than slain. Beyond that, you have police resources and a blank check.",
+    "origin": "Generic Supernatural Fanfiction Jumpchain"
+  },
+  "447ccdde-e454-5043-b093-376158e6519d": {
+    "id": "447ccdde-e454-5043-b093-376158e6519d",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Iconic Clothing Item",
+    "cost": 0,
+    "description": "You have some article of clothing that seems to define you in some way. It will never be damaged in any way that cannot be repaired and will always find its way back to you if lost.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "7ce8b167-c34b-5977-9466-40a1b7a1f75a": {
+    "id": "7ce8b167-c34b-5977-9466-40a1b7a1f75a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Iconic Outfit",
+    "cost": 0,
+    "description": "Design an outfit, something mundane like Jade’s orange hoodie or something more out there like Daolon Wong’s robes. You get one such outfit that self-cleans and self-repairs.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "634504b2-b815-5161-8e7b-a5850396b87b": {
+    "id": "634504b2-b815-5161-8e7b-a5850396b87b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Jar of Osiris",
+    "cost": 200,
+    "description": "The bridge between life and death is one travelled both ways, and Osiris is one such deity that has helped people return from the grave as they were in life. This jar is the central component of the resurrection ritual, and being that this is a fiat backed item, it's ditched the \"only works on those who died of supernatural causes\" rule. Furthermore, this jar can be used to easily commune with the dead and even ancient spirits that would ordinarily require a trip to the middle of the desert.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "be35fadf-c578-5ba0-be01-3430bc6ae0c7": {
+    "id": "be35fadf-c578-5ba0-be01-3430bc6ae0c7",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Laptop",
+    "cost": 0,
+    "description": "We should call the internet and find out as much as we can about these people. Did I say that right?” Not exceptional as far as computers go, even for 2005, but this can fulfill your research needs as well as any other machine of the era will. If destroyed or shut down unexpectedly it retains all data. No matter how many explicit websites you may use for “research”, you’ll find the device is unable to be permanently damaged by viruses or malware – though there is a high chance the screen could freeze at inopportune times to embarrass you.",
+    "origin": "Supernatural JumpChain"
+  },
+  "9573648c-c9ab-59c5-ae0b-327b845203d2": {
+    "id": "9573648c-c9ab-59c5-ae0b-327b845203d2",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Loadsamoney",
+    "cost": 100,
+    "description": "200,000 American dollars or the local equivalent. You could probably use this to survive for a couple years. Or you could get a job.",
+    "origin": "Gargoyles JumpChain"
+  },
+  "62051962-833b-5a04-a6dd-dbcf0f09a417": {
+    "id": "62051962-833b-5a04-a6dd-dbcf0f09a417",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Love Charm",
+    "cost": 200,
+    "description": "Love is a misnomer here, as this is actually an infatuation charm. It can take the form of something like a jacket, a watch, a ring, or even a temporary tattoo. While wearing it, all people of your preferred gender will be irresistibly attracted to you. Initially it won't be so bad, but after a few hours it will start to ramp up to full on obsession, with even powerful villains betraying their cause and friends turning on each other for you. Since you're paying for this, removing the charm will instantly break the magic. Those affected won't have a detailed memory of what came over them unless they know about the charm.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "5c00e2c8-0b4d-5aab-bba0-ac878a4754a3": {
+    "id": "5c00e2c8-0b4d-5aab-bba0-ac878a4754a3",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Medallion of Life",
+    "cost": 400,
+    "description": "The original medallion contained the knowledge of God and a small fragment of his power. This medallion, however, is empty but can be filled. You may choose to place a portion of your power into the medallion, granting whoever wears it the knowledge and power you chose to imbue.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "5e8c5c1a-a600-50da-8198-b17a37561555": {
+    "id": "5e8c5c1a-a600-50da-8198-b17a37561555",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Memory Powder",
+    "cost": 100,
+    "description": "There are times when to keep secrets, you just have to use a little magic. Keeping magic secret from the normal Mortals of the world is an important task, and Whitelighters are often given missions or take the responsibility upon themselves to obscure evidence and hints or Magic’s existence. Memory Powder is one of their best and most useful tools for doing so. If blown in the face of someone without magic resistance, such as a Mortal, they enter a suggestible state where you can verbally instruct them to erase or rewrite their own memories in a way so comprehensive they will never question the altered/removed memory unless given hard evidence questioning its authenticity. You have only a small pouch, enough for several uses.",
+    "origin": "Charmed JumpChain"
+  },
+  "65319cec-8b47-5f6b-a00d-5bfd673815c9": {
+    "id": "65319cec-8b47-5f6b-a00d-5bfd673815c9",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Motorcycle",
+    "cost": 0,
+    "description": "A quality motorcycle for you to ride. It always has it's registration taken care of, unlimited fuel, never needs to be maintained, can be summoned, and even drives itself if you want to just zone out. In other settings and times, it can take the form of an appropriate single rider vehicle or even a horse with the same abilities. It can always be a motorcycle regardless of setting.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "f86ec0c6-21c3-5d33-8d98-8b13f6a5b9ed": {
+    "id": "f86ec0c6-21c3-5d33-8d98-8b13f6a5b9ed",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Osiris",
+    "cost": 300,
+    "description": "Osiris is Dante's first angelic form for the Rebellion, but you get it here as a singular weapon. It is a light, speedy scythe that is both powerful and reliable. It specializes in aerial attacks and its abilities are centered around giving you weightlessness and agility in order to move through the air and traverse the environment with ease while cutting through armies of demons.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "ae18ccd0-d9b4-5eaa-a181-ed40e5897557": {
+    "id": "ae18ccd0-d9b4-5eaa-a181-ed40e5897557",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Ouija Board",
+    "cost": 100,
+    "description": "Through this Oujia board, you may commune with the unusually powerful undead of this World. It can also help calm the often-times violent spirits sufficiently to talk them down from their fury. You can then communicate with them normally, including asking them how to help them move on, or how to resolve their affairs from when they were alive.",
+    "origin": "Charmed JumpChain"
+  },
+  "1fc37809-ec10-5b74-8ee1-c396b9b2f087": {
+    "id": "1fc37809-ec10-5b74-8ee1-c396b9b2f087",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Outcast Kit",
+    "cost": 200,
+    "description": "This is a kit filled with many essentials to controlling and subduing an Outcast powers such as colloidal silver to suppress werewolves transformations. Quite dangerous in the wrong hands.",
+    "origin": "Wednesday"
+  },
+  "92e8e3bb-3f21-5282-86c3-f7156619eaaa": {
+    "id": "92e8e3bb-3f21-5282-86c3-f7156619eaaa",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Phoenix Ash",
+    "cost": 300,
+    "description": "A case full of supernatural ashes. Once a decade, you may designate who or what they are toxic to. Everyone else will find them perfectly harmless. To the target? Instant death, even if they happen to be an archangel.",
+    "origin": "Generic Supernatural Fanfiction Jumpchain"
+  },
+  "19fee6a5-93a4-54ea-931f-ef4b4f6e4a60": {
+    "id": "19fee6a5-93a4-54ea-931f-ef4b4f6e4a60",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Protection Ring",
+    "cost": 200,
+    "description": "This simple ring, of whatever style you would like or prefer, can shield the bearer from direct or area of effect magical effects. It can only be used by those without any magic of their own and can only resist so much before it fails. It is especially effective at protecting against magical effects which are not explicitly targeting the bearer and friendly fire.",
+    "origin": "Charmed JumpChain"
+  },
+  "10b9ea60-faa4-5afc-8043-66ce793ed3c7": {
+    "id": "10b9ea60-faa4-5afc-8043-66ce793ed3c7",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Purse of Silver",
+    "cost": 100,
+    "description": "A large coin purse that contains a seemingly-impossible number of real silver dollars. In addition to giving you a source of money in a pinch, these are great for reforging into ammunition, blades, stakes, or any of your other vamp-slaying needs. They also make super-classy (and distinctive) coin shot. Or you can just put them on the eyes of any familiars you kill, as some kind of message. Up to you, it’s your money.",
+    "origin": "Blade Jumpchain"
+  },
+  "2cf37d5e-3197-55fc-93ef-a6538c367392": {
+    "id": "2cf37d5e-3197-55fc-93ef-a6538c367392",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Resurrection Seal",
+    "cost": 400,
+    "description": "Developed by the Grand Coven, this small ritual box is filled with powerful life magic and typically only found with their members or associated. Implanted into a witch or person that witch wishes to protect, the sealed life energy will only be released when it senses the person it is inside of begin to die. When the life force of the bearer fades due to death, the spell contained surges for to restore them. All wounds and injuries that led to the death will be healed and with the damage gone their heart restarted by the spell. Knowing this, a person can avoid letting their spirit pass on until the magic takes hold and returns them to life.",
+    "origin": "Supernatural JumpChain"
+  },
+  "00ff9bc5-d984-5026-8282-398f6ea9a104": {
+    "id": "00ff9bc5-d984-5026-8282-398f6ea9a104",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Ring",
+    "cost": 300,
+    "description": "In a little box you have an animal statue of sorts – maybe a cricket, or a snake or something, but by giving it to someone, it will come to life and fasten to their finger or somewhere else as jewelry and become their focus. This makes them into a sorcerer, granting the various benefits like enhanced intelligence, although you may want to pick someone who was smart in the first place anyway. You can selectively hold off this function, so you can show it to someone without it automatically triggering.",
+    "origin": "Sorcerer's Apprentice JumpChain"
+  },
+  "96fd8ba0-8f2b-53d5-8887-bb078ea04c5a": {
+    "id": "96fd8ba0-8f2b-53d5-8887-bb078ea04c5a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Shades",
+    "cost": 100,
+    "description": "These sunglasses look cool. Real cool, man. Somehow, despite appearing to be totally ordinary black sunglasses in any style you’d like, they seem to shift transparency to fit your mood or the situation. Want to give a soulful look or use your real eyes to glare at somebody? They’re almost transparent. Want that blank eyeless face? They’re completely opaque. They even get so reflective they could be used as a mirror. Also, they’re basically indestructible.",
+    "origin": "Blade Jumpchain"
+  },
+  "735bbe8c-f35b-58b9-abfc-862756ea01aa": {
+    "id": "735bbe8c-f35b-58b9-abfc-862756ea01aa",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Spellcasting Kit",
+    "cost": 200,
+    "description": "You have a collection of needed spell components, ritual tools and even spellbooks, sufficient to allow you to work any magic you are capable of, and a little more to let you continue to train and study. These supplies replenish daily and update to provide needed materials.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "461a9f14-0c82-544c-a561-5c1fc5638ac6": {
+    "id": "461a9f14-0c82-544c-a561-5c1fc5638ac6",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Thasarine",
+    "cost": 200,
+    "description": "A liquid that prevents a dead lycan from transforming back into his human form. This way one could study a Lycan's were form (or perhaps use it as evidence). In future Jumps it will work on most shapeshifters, and will even slowly retard extremely fast decomposition used by some shapeshifters to hide their existence. You also get a small case that replenishes.",
+    "origin": "Underworld Jump"
+  },
+  "df648a49-304e-5641-940a-332b7b2d0e06": {
+    "id": "df648a49-304e-5641-940a-332b7b2d0e06",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "The Grimhold",
+    "cost": 300,
+    "description": "An artifact shaped like a nesting doll, capable of perfectly containing anything sealed inside of it- provided it can be subdued beforehand, but once locked inside, it is a perfect, inescapable prison. After the first layer is closed, more and more people can be added onto the layers of the nesting doll, each also strengthening the protections on the innermost layer. While one layer might be easily breached by a novice or by accident, the more layers that have to be opened to get to the center, the more and more skilled and powerful the jailbreaker will have to be.",
+    "origin": "Sorcerer's Apprentice JumpChain"
+  },
+  "efda49d9-181f-541e-a551-bfa289b50cb4": {
+    "id": "efda49d9-181f-541e-a551-bfa289b50cb4",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "The Scroll of Hung Chao",
+    "cost": 400,
+    "description": "An artifact hidden in the Lotus Temple, whose imprisoned Guardian Jade befriended and helped free. Contained on the scroll are diagrams depicting glyphs that can be painted on one’s hands to gain specific powers. Chi blasts, levitation, animation of objects, and creation of miniature tornados. However, if the glyphs wash off, the power leaves with them making the glyphs less reliable than something like the talismans.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "70fc4acd-1c64-579f-95df-811ba5439d8e": {
+    "id": "70fc4acd-1c64-579f-95df-811ba5439d8e",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Trench Coat",
+    "cost": 100,
+    "description": "A cool black leather trenchcoat. This coat is waterproof, breathes easy, is light, and always looks badass. It’s really tough, but if it does manage to get damaged somehow, the rips will only make it look better. As-is, it has a conveniently placed hole for your sword’s handle to stick through (you do have a sword of some kind, I’m sure) and is very useful in a fight as a distraction, almost as though it was also designed as a bullfighter’s coat.",
+    "origin": "Blade Jumpchain"
+  },
+  "c6fe2ef4-6d94-5606-9033-b0fe9790956c": {
+    "id": "c6fe2ef4-6d94-5606-9033-b0fe9790956c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Vintage Car",
+    "cost": 0,
+    "description": "A car from before roughly the 1940s, you acquired it in factory condition from an associate of yours. It should be an absolute piece of shit, but it runs just fine for you, and is one hell of a sleeper car, as well. If you don't have a particular taste for vintage, you can always just change it's shape with magic.",
+    "origin": "Sorcerer's Apprentice JumpChain"
+  },
+  "91dcb450-0e90-58bb-9d77-628d54e82173": {
+    "id": "91dcb450-0e90-58bb-9d77-628d54e82173",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Bardic Music",
+    "cost": 400,
+    "description": "You are a bard. A rare class of magic user who can use music to change the world. Music is most useful for altering the mental state of others, making them calmer or more compliant to your will. Alternatively it could make someone more aggressive, or in some cases more clear headed (and arguably intelligent). If the subtle manipulation of emotions isn’t your style, perhaps you could default to the standard “blast them with unnatural vibrations” style of bardic music. Whatever you decide to do, the magic of music is sure to set you free.",
+    "origin": "Libriomancer Jumpchain"
+  },
+  "5a4d0fcd-61ff-5eab-be8e-904e6d8b8923": {
+    "id": "5a4d0fcd-61ff-5eab-be8e-904e6d8b8923",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Beliar’s Black Heart",
+    "cost": 400,
+    "description": "The literal heart of the original devil, this seemingly petrified organ grants its bearer a number of terrifying powers. Most importantly, it grants the bearer a form of physical and spiritual shapeshifting. In a similar manner, you can also alter your spiritual form, drawing your lifeforce away into a single part of yourself (usually the heart, obviously). As a result, you can essentially survive any injury that doesn't destroy your metaphysical core... though regaining your former strength may take additional work.",
+    "origin": "Bloodrayne 1 V1.0"
+  },
+  "bc814282-6370-5aad-82b8-343892e0d978": {
+    "id": "bc814282-6370-5aad-82b8-343892e0d978",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Beliar’s Eyes",
+    "cost": 100,
+    "description": "Marked with an iris that remains a permanent shade of blood red, Beliar’s eyes grant the bearer superhuman visual acuity. Even a single such eye allows the bearer to ‘zoom in’ to view distant objects of interest, similar to the way a rifle’s scope might work. This power becomes increasingly intuitive with additional upgrades, and the eye(s) gain the ability to project a fiery gaze, similar to that which Beliar might decide to use to eliminate Hedrox, though the eye alone is insufficiently powerful to achieve this. However, when fully powered through additional relics, this gaze can kill unaugmented humans in the blink of an eye, immolating them into little more than charred bones. You may purchase Beliar’s Eyes twice,",
+    "origin": "Bloodrayne 1 V1.0"
+  },
+  "2ee856c9-ed20-55b8-bff6-3c2607066c75": {
+    "id": "2ee856c9-ed20-55b8-bff6-3c2607066c75",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Beliar’s Hands",
+    "cost": 100,
+    "description": "The manifestation of Hell’s terrible reach, these skeletal claws are one of the most dangerous of Beliar’s relics. Replacing the bearer’s hand bones, each grants superhuman strength and allows the bearer to transform the affected hand into an elongated, clawed form with nails as sharp as a finely honed blade. Furthermore, the claw can engulf itself in hellfire, adding a potent blast of heat to each melee attack the bearer lands, which starts as hot enough to flash-burn the skin of any struck victim. When at full power, the bearer will be able to elongate the claws to the point their reach is increased by well over twenty feet - the talons literally extending mid-swing to carve their foes apart - while the hellfire now burns hot enough it can melt through solid steel. You may purchase Beliar’s Hands twice,",
+    "origin": "Bloodrayne 1 V1.0"
+  },
+  "9eb6b062-b27f-5cfe-9631-1b9091541453": {
+    "id": "9eb6b062-b27f-5cfe-9631-1b9091541453",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Beliar’s Ribs",
+    "cost": 25,
+    "description": "Arguably the least spectacular of Beliar’s relics, and likely the most numerous, these bones appear to be made of a crystalline material that glows with an eerie red light. They do not bestow any unique abilities or esoteric powers... instead, they simply make the bearer more resilient. A single pair of ribs would be sufficient to make an average, somewhat unfit individual tough enough to endure punches and kicks from an ordinary human without difficulty. With the entire collection of ribs the bearer could shrug off direct hits from Panzerschreck or tank weaponry and barely even flinch at the impacts. You may purchase Beliar’s Ribs up to twelve times total.",
+    "origin": "Bloodrayne 1 V1.0"
+  },
+  "c336846b-70e2-5679-8619-26c4bcc10e96": {
+    "id": "c336846b-70e2-5679-8619-26c4bcc10e96",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Biokinesis",
+    "cost": 300,
+    "description": "Manipulation of biology itself allowing you to manipulate anything biological as if a sculptor with clay. You however start out as more a hammer than a scalpel allowing you to manipulate biology but in broad strokes, e.g. stopping a heart but manipulation of genes will take time and practise. Yes this allows for healing but you will require information of biology in order for it to work; your power handling any biomass issues.",
+    "origin": "Supernatural V2"
+  },
+  "b97c2e4d-7d37-5423-9f88-7d878ed2ccd2": {
+    "id": "b97c2e4d-7d37-5423-9f88-7d878ed2ccd2",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Bountiful Chi",
+    "cost": 400,
+    "description": "You possess an overwhelming vitality and a certain purity of spirit which means that your chi is plentiful, potent, and pure. Maybe, like the Eight Immortals, you earned this state, or maybe like Santa Claus you just naturally exist in it, but the effects are the same. You either don’t age or don’t suffer the effects of age. Any chi-based abilities you possess are at least ten times as potent and you have hundreds of times over the amount of energy to use. These effects even extend to chi or other life/spirit-based energies or abilities you gain from perks or powers",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "39c7a51f-66ff-53e3-a0fe-8fa6ecd83297": {
+    "id": "39c7a51f-66ff-53e3-a0fe-8fa6ecd83297",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Ch-ch-ch, ah-ah-ah",
+    "cost": 100,
+    "description": "If you want, you can make others hear some sort of noise that causes them to feel a sense of unease and foreboding when you’re stalking, sneaking up on, or otherwise hunting them down through... some method. It might just be all in their head, or maybe it’s all in yours; either way, once they learn to associate it with you it’ll be sure to cause fear and alarm whenever those chords start to play. Sure, potentially warning your enemies that you’re about to sneak up on them and stab them in the back with a machete might not be the most optimal course of action... but it sure can be terrifying if you do it right. You can toggle this on and off, for when you actually need to sneak around unheard.",
+    "origin": "Friday the 13th JumpChain"
+  },
+  "8cf8bf4b-4916-5d19-9570-be8179e46771": {
+    "id": "8cf8bf4b-4916-5d19-9570-be8179e46771",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Channeling",
+    "cost": 200,
+    "description": "Not even beings as powerful as Death can break a soul apart. They can be beaten and tortured but never broken. While one soul is said to contain the power as one-hundred suns, in practice the process of extracting energy is still incredibly inefficient with tens of thousands of souls being needed to effectively fight archangels. You can tap souls for power, both your own and those of other creatures you’re in contact with. Just by looking at another creature you can see the state of their soul or lack thereof, quickly knowing if they’ve suffered damage, been tapped for power, and letting you know if what’s inhabiting a vessel is a human, demon, angel, monster, or something else entirely.",
+    "origin": "Supernatural JumpChain"
+  },
+  "25bba394-1ca0-5a3c-9aae-2a437195dd8e": {
+    "id": "25bba394-1ca0-5a3c-9aae-2a437195dd8e",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Cherubim Sigil",
+    "cost": 300,
+    "description": "A small bow that can be hidden as a tattoo on the palm of your hand. By channeling your power into this bow you can fire “harmless” arrows that cause the two humans of your choice (or at least the two people you hit in succession) to fall in love with each other. It catalyzes the affection felt between them enhancing any romantic feelings with a 100% success rate, so please try to be careful when you aim it. Upon being forced into falling in love with another human because of one of these arrows, a small mark is left on the heart. Those who have already been marked cannot have this ability use on them again; you can only use this method to create one true love per person.",
+    "origin": "Supernatural JumpChain"
+  },
+  "e92bf0c6-69a4-5975-883f-83d575f275ad": {
+    "id": "e92bf0c6-69a4-5975-883f-83d575f275ad",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Chi Consumption",
+    "cost": 200,
+    "description": "Like a certain dark wizard, you possess the ability to drain the chi right out of people, improving your vitality and strengthening your magic at their expense. Consuming all of someone’s chi is implied to be fatal. This perk can also be used to transfer the effect of a spell from another person to yourself(though be careful not to grab a negative effect) or absorb a power or energy that is within a person but not inherent to them, like taking a Talisman Power from a living vessel, both of which are harmless to the victim. In other worlds this can be used to steal other forms of vital, spiritual, or mystical energy as well, causing whatever effects such deficit would cause normally.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "58d3e555-c11c-5aca-ad66-212f23cbb436": {
+    "id": "58d3e555-c11c-5aca-ad66-212f23cbb436",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Chi Empowerment",
+    "cost": 100,
+    "description": "Every good villain needs minions, but you don't have to settle for ordinary humans. By infusing people with a small amount of your chi, you can grant them your powers, perks, racial traits, or aspects thereof. This process is quick, easy, and painless, and you can reclaim the chi and thus the shared abilities at will. The amount of chi it takes is negligible, having no overall effect on your own abilities. However, you can only empower a handful of people at a time, and only one discrete ability per empowerment. If you want to empower an army with all of your powers, it’s going to take a long time.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "00d65ac6-809b-59d3-98ca-46b904a549cf": {
+    "id": "00d65ac6-809b-59d3-98ca-46b904a549cf",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Chronokinesis",
+    "cost": 600,
+    "description": "The gift possessed by God’s favorite son, Amenadiel. You have the ability to slow time to a crawl, allowing you to toy with bullets and accomplish whatever task you have with no one knowing you were ever there in the first place. You can choose to exclude any being you want from this effect. The power of this gift is great, but it has its flaws, as the divine and demonic are both immune to being stopped. Post-jump this restriction instead applies to beings more powerful than you..",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "e4146305-42cf-588c-a45a-5876bdf91c0b": {
+    "id": "e4146305-42cf-588c-a45a-5876bdf91c0b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Clairsentience",
+    "cost": 100,
+    "description": "Able to detect supernatural energies in the environment around you, especially those of a demonic and/or psychic origin, you can feel the flow of this energy and follow it to a source. While very useful for finding objects and creatures that give off these auras, the true value becomes apparent when getting your hands on the items it leads you to. Those objects with mystical properties can have their histories read by you, helping you understand where they’ve been and when, and the kinds of people that have used the objects in the past. A talent useful to anyone who finds themselves in a world of demons, it holds significantly less utility against stronger people who can mask their auras or objects that are sealed behind things like curse boxes.",
+    "origin": "Supernatural JumpChain"
+  },
+  "63965fa7-9803-57a2-9a64-1052eb9c364c": {
+    "id": "63965fa7-9803-57a2-9a64-1052eb9c364c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Demon King no more",
+    "cost": 400,
+    "description": "Due to their special nature, Nephilim are the only ones capable of slaying the Demon King. You take this further, and can now slay the un-killable. Anyone deemed immortal or so powerful that death cannot touch them, will be incredibly surprised when they watch the life leave them when you come and rip out their hearts. You still have to be able to defeat them in combat, but as long as you can do that, you can kill them.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "c880c48c-4d90-5b81-a11b-34517a03fbc1": {
+    "id": "c880c48c-4d90-5b81-a11b-34517a03fbc1",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Desire",
+    "cost": 400,
+    "description": "You have the power of Lucifer himself. With a simple, “What do you desire,” you can draw out the wants of any being you make eye contact with. They will tell you exactly what they want with no regard as to whether or not they should.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "6826b203-f1ea-5009-acc0-eb6c5510b8f9": {
+    "id": "6826b203-f1ea-5009-acc0-eb6c5510b8f9",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Duality",
+    "cost": 200,
+    "description": "The most notable powers of the Nephilim comes from their hybrid blood, combining the powers of angels and demons, which they can switch between at will. You never have to fear any consequences from wielding any conflicting powers, and they will in fact cancel out any negatives of wielding either. Uniquely, you are able to combine any conflicting energy you wield, creating a power stronger then the both of them apart.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "9c407647-c914-5c55-a4f6-be85f1f8922c": {
+    "id": "9c407647-c914-5c55-a4f6-be85f1f8922c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Electrokinetic",
+    "cost": 200,
+    "description": "You can generate a powerful electrical field capable of starting or stopping someone’s heart, and can manipulate that field skillfully enough to let you affect computerized security systems and other such technology.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "bdfdb05e-6af5-55e1-a86d-84f999bc4732": {
+    "id": "bdfdb05e-6af5-55e1-a86d-84f999bc4732",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Empath",
+    "cost": 200,
+    "description": "You have the power to sense people's true emotions, the closer you get the more clear the picture becomes. This won't give you access to their thoughts, but with practice you can learn quite a bit from reading people's feelings.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "6dded2a2-f4f2-5ddc-b042-6597eeaed05a": {
+    "id": "6dded2a2-f4f2-5ddc-b042-6597eeaed05a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Fantasian",
+    "cost": 300,
+    "description": "Unlike a certain mouse, you maintain impeccable control over any animated objects you create. While it's not like they're truly incapable of overdoing tasks you set, they'll definitely check in with you before doing anything drastic. Constructs with animal intelligence will also quickly and correctly interpret any hand signals you attempt to send, no matter how clumsy. This has some reverse application to non-magical applications, like machinery.",
+    "origin": "Sorcerer's Apprentice JumpChain"
+  },
+  "f30dc074-edb8-5347-bfe5-c6868b509654": {
+    "id": "f30dc074-edb8-5347-bfe5-c6868b509654",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Hydes",
+    "cost": 400,
+    "description": "Also known as the most feared of all Outcasts, you can transform yourself into a monstrous beast any time you want. It is a transformation as tall and strong as a werewolf. Different from the common Hyde, you do not share the same weaknesses such as health problems or the need for a master.",
+    "origin": "Wednesday"
+  },
+  "e997e183-5049-5ae5-9a07-671b78410d94": {
+    "id": "e997e183-5049-5ae5-9a07-671b78410d94",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Immortality",
+    "cost": 600,
+    "description": "“There are billions of us, and we were here first.” With toggleable immunities to pain, time, sickness, and physical ailments, there is a reason so many of the old gods consider themselves to be above common humanity. Like those powerful figures you will never grow old beyond your ideal human age unless you choose to. You will never experience mortal disease, never experience fatigue, and never experience the pain a mortal might feel unless you choose it. From here on, unless violence or an accident should take your life you will never experience death. Unless, of course, you choose it. Men grow old, gods grow strong. Age means nothing to you or your strength and you can set your own age freely, able to show up in the prime of your life, as a child, or even as an elder depending on what mood you’re in.",
+    "origin": "Supernatural JumpChain"
+  },
+  "f65b179b-9728-592d-817a-321bd4bfe3f4": {
+    "id": "f65b179b-9728-592d-817a-321bd4bfe3f4",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Intimidating Eyes",
+    "cost": 100,
+    "description": "There's something about you that makes the truth of your power obvious, maybe it's a subtle aura, maybe it's a look in your eye, or just the way you speak. Whatever it is, you can easily reveal the scale of your power to anyone without actually showing it. This won't tell them specifically what power you have, but if you're much more powerful than them, they'd know going against you means certain death.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "8b7e22d2-28d4-575a-a2d7-22043f3ca992": {
+    "id": "8b7e22d2-28d4-575a-a2d7-22043f3ca992",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Invisibility",
+    "cost": 200,
+    "description": "You gain the power of Azrael, the Angel of Death. You can choose to make yourself completely invisible, clothes and all. You can choose to allow specific beings to see you while this effect is active.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "dec97c1c-6bcb-52bb-8f57-32ee7a9ea5ef": {
+    "id": "dec97c1c-6bcb-52bb-8f57-32ee7a9ea5ef",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Invisible Person",
+    "cost": 200,
+    "description": "Once a girl was so overlooked that she faded away. This girl could not control her power but you can. It allows your body - and only your body - to become completely transparent at will, but still permits you to retain the power of sight. Beware the sounds you still make that may betray you, as well as any clothing, lengths of fabric and powders that might still show your location.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "95b9e7df-d680-53d4-8539-eb07c661785d": {
+    "id": "95b9e7df-d680-53d4-8539-eb07c661785d",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Levitate",
+    "cost": 100,
+    "description": "Certain Deadites have the ability to levitate, which is possibly the result of latent psychic powers in the host manifesting due to demonic possession. You can fly at around 100 MPH.",
+    "origin": "The Evil Dead"
+  },
+  "7b3267bd-a314-5dce-a3e8-b87623da9555": {
+    "id": "7b3267bd-a314-5dce-a3e8-b87623da9555",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Libriomancy",
+    "cost": 600,
+    "description": "You have mastered the basic arts of libriomancy. With an appropriate book, you may reach inside the pages and pull out any item described. There are, of course limitations to it, most significantly, you can only draw out items that are small enough to fit through the open pages of the book in question. Any item you create will also drain your magical energies slightly for however long it exists. While this is slight if you keep too many items active at once (usually ten) it will become more noticeable and will negatively impact your health. Similarly, if you do not return items that you have used back to their books after using them, you will likely burn the books out and make them unusable after a mere twenty five uses. This power comes with a number of other restrictions and drawbacks (paramount that the books must be published, read by a large number of people in hard­copy and be actual books, not comic books or manga or the like) but other than that nearly the whole of literature is available to you.",
+    "origin": "Libriomancer Jumpchain"
+  },
+  "58e4604e-8b8c-5eb0-8a11-cf695a84ef46": {
+    "id": "58e4604e-8b8c-5eb0-8a11-cf695a84ef46",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Localization",
+    "cost": 100,
+    "description": "All angels are able to find anyone they seek, so long as the person is not warded specifically against them or using some other special method to hide. Angels are not alone in this gift of instantaneous tracking, with an assortment of powerful demons, primordial entities, reapers, and even witches frequently having methods to know where someone is.",
+    "origin": "Supernatural JumpChain"
+  },
+  "2a0b49cb-3893-51fc-b90e-4799d761df21": {
+    "id": "2a0b49cb-3893-51fc-b90e-4799d761df21",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Lord of Hell",
+    "cost": 600,
+    "description": "You are the Lord of Hell, and when you speak, all demons obey. You have complete control over the actions of any demon within earshot and can order them to do absolutely anything, even forcing them to eject from the bodies they’re possessing and return to Hell. You cannot set any lasting commands; once out of your range, the demons are free from your control.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "977e1355-783b-5e6b-98e6-bab0699503a8": {
+    "id": "977e1355-783b-5e6b-98e6-bab0699503a8",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Magic Must Defeat Magic",
+    "cost": 400,
+    "description": "And you are magic. Any spells or supernatural abilities you possess can only be blocked, negated, or countered by supernatural means. While not impervious to harm, you are resistant to attacks from non-magical sources, and can not be killed or defeated by non-supernatural means. Mundane means can still be used to inconvenience you, however.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "33a6b9ce-c90c-591d-945b-5e299bf6d7a1": {
+    "id": "33a6b9ce-c90c-591d-945b-5e299bf6d7a1",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Magical Potential",
+    "cost": 400,
+    "description": "The magic of this world is powerful and awesome in capability, but can also be fearsome and terrible. You have a great affinity for this magic and will have few troubles learning the great mysteries and sources of mystical power. While anyone seems to be able to work ritualized magic, you can do so with greater ease and skill, and you possess an internal well of power used for more combat-ready magics. This talent is on the same scale as Willow, though it doesn’t come with any training or knowledge.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "63f007af-b842-575d-b47a-4e178a93db23": {
+    "id": "63f007af-b842-575d-b47a-4e178a93db23",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Mental Fortress",
+    "cost": 400,
+    "description": "You have a very special tattoo on your left temple. This particular mark shields you from all forms of magical, psychic or supernatural means of detecting or tampering with your emotions and thoughts. It also makes you immune to possession or any means of divining or changing your thoughts or actions by any means other than mundane ones.",
+    "origin": "Libriomancer Jumpchain"
+  },
+  "911dcc52-ca4d-5efb-b48e-86553b640fc7": {
+    "id": "911dcc52-ca4d-5efb-b48e-86553b640fc7",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Mental Projection",
+    "cost": 400,
+    "description": "You can tap into the minds of other people, giving them visions or thoughts of whatever you like. They can still see and think normally, but whatever you wish will also be present in their mind’s eye as a potentially jarring distraction. This ability can function at great range and you’re able to choose the people who receive your transmission as long as you know what they look like. As you grow in strength masking another person’s vision will become possible by selectively blocking what they would see with what you want them to see. This can only be used to send visions to others, not receive any information.",
+    "origin": "Supernatural JumpChain"
+  },
+  "8cc23cf3-2fb5-5dc5-968f-ecc90d277bb9": {
+    "id": "8cc23cf3-2fb5-5dc5-968f-ecc90d277bb9",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Mind Control",
+    "cost": 200,
+    "description": "With just a thought you will be able to take control of any human within your visual range. This range and strength will increase with time and practise.",
+    "origin": "Supernatural V2"
+  },
+  "db21e226-b0ca-571b-82e6-756b29d92a41": {
+    "id": "db21e226-b0ca-571b-82e6-756b29d92a41",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Mind Protection",
+    "cost": 200,
+    "description": "No one can wipe your mind or make you lose any memories, unless you want them to. Any influence that can affect your mind won’t be able to without your consent.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "93abfbf1-5a29-52fc-b524-c2e89e135848": {
+    "id": "93abfbf1-5a29-52fc-b524-c2e89e135848",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Monstrous Durability",
+    "cost": 200,
+    "description": "You get knocked down, but you get up again. They are never going to keep you down. Enjoy being annoyingly hard to kill. Short of decapitation or the possibility of being torn apart by industrial equipment you won’t be kept down for long. Taking a shotgun blast at point-blank range will merely knock the wind out of you, and even after being thrown through a wall you’ll be able to jump right back on your feet. Even having your feet tortured with a blowtorch won’t keep you off them. While this won’t eliminate any of the specific weaknesses you might have it does help avoid being one-shot by them before having a chance to defend yourself in a proper fight.",
+    "origin": "Supernatural JumpChain"
+  },
+  "3a294376-6f21-59bd-a2be-8ad00c5d2a65": {
+    "id": "3a294376-6f21-59bd-a2be-8ad00c5d2a65",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Muse",
+    "cost": 200,
+    "description": "Well, perhaps you’re descended from one of the greek muses or something, as you have the same strange trait that they have. Namely, anyone you have sex with gains an immense boost to their creativity and inspiration for making stories. Even a nobody would be able to write extremely popular and high-quality stories. Unfortunately you can’t benefit from this yourself. Try not to get kidnapped and imprisoned in a rape dungeon or something. That has already happened to one of the muses.",
+    "origin": "The Sandman"
+  },
+  "8dd3d076-c2ad-5908-a83b-a72135cd2da2": {
+    "id": "8dd3d076-c2ad-5908-a83b-a72135cd2da2",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Necromancer",
+    "cost": 300,
+    "description": "You are the master of the dead and undead. Your powers over ghosts, spirits, zombies and vampires are incredible, leaving them at your mercy. You can command and control them with ease, and have formidable abilities at creating new undead as well.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "dbf99886-d7da-5777-bef3-b95f4e9f19fe": {
+    "id": "dbf99886-d7da-5777-bef3-b95f4e9f19fe",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Of The People",
+    "cost": 200,
+    "description": "Whether you were raised as one of them or learned their ways through some contrived circumstances, you’ve been taught the ways of the forest people. This includes immense skill in hunting and stealth, to the point you could stop yourself from making any noise at all if you wanted, as well as physical capabilities sufficient to outrun any normal prey animal you try to hunt, at least if you aren’t weighted down by carrying too many things. More notably, this also includes knowledge on how to transform into a wolf and back, which may or may not be a supernatural trick.",
+    "origin": "The Sandman"
+  },
+  "a91815f4-c050-5c25-afe9-05d4a1c3590b": {
+    "id": "a91815f4-c050-5c25-afe9-05d4a1c3590b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Physically Empowered",
+    "cost": 400,
+    "description": "You’re stronger, faster, and tougher than any human could possibly be, able to go toe-to-toe vs. average vampires and demons based on pure physical aptitude alone. You also heal several times more quickly as well, and provided you don’t die will fully recover from any injury that didn’t actually remove a body part. The source of your power is up to you to determine - some kind of demon or other mystical creature in your ancestry, undergoing a Primal Spirit ritual, gifted with power by some entity or another, weird serums and genetic treatments by some government black ops project, even being some kind of impossible human child born of two vampires and meddled with by a renegade Power-That-Was, it doesn’t matter. Depending on the exact nature of your power, you may also have minor enhancements such as the ability to see in the dark or track by scent, or you might trade off some speed for being stronger or tougher or vice versa, but overall you start on the same power level as a Slayer and may develop your gifts further with training and age. This does not come with Slayer dreams, anti-vampire radar, or intuitive weapons mastery. Doesn’t come with any inconvenient side effects or karmic debts owed either. You paid CP for this and that means you get the premium version.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "3ab66fb7-8f60-5af7-b00e-034ba88ecfa9": {
+    "id": "3ab66fb7-8f60-5af7-b00e-034ba88ecfa9",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Radar Sense",
+    "cost": 100,
+    "description": "You have the ability to sense your surroundings, everything around you and their movements, to an incredibly precise degree. This could be part of your sense of hearing, or it could be a new sense unrelated to any standard ones. Combined with the right training, this ability could make you a formidable opponent.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "5517411b-539e-5216-af7a-88227b4e3503": {
+    "id": "5517411b-539e-5216-af7a-88227b4e3503",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Restoration",
+    "cost": 200,
+    "description": "Old decrepit buildings are not a place for a being of your stature and superiority to stay. You can influence the environment around you, bringing life back to mundane plants or transforming even the most run-down building into perfect condition over time. While not able to grant any kind of healing benefit to living creatures and taking upwards of a few hours to fully work its magic; this will completely repair and renovate a mostly-intact structure to working order and style it to your tastes. Any of the former functionality will be restored with the included objects inside being healed as well.",
+    "origin": "Supernatural JumpChain"
+  },
+  "52d04ce7-7a2e-5ea5-bf67-63b056263c70": {
+    "id": "52d04ce7-7a2e-5ea5-bf67-63b056263c70",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Scare Chord",
+    "cost": 200,
+    "description": "Whenever you’re about to be in danger, you hear a very distinctive noise. It could be the sharp sting of a violin chord, the whispering of voices slowly growing louder as if creeping up on you, or anything else along those lines so long as it’s suitably creepy. While it won’t help you directly locate what’s imperiling you it can tell you when you should be on the lookout. No matter how loud the sound gets it will only be audible to you.",
+    "origin": "Friday the 13th JumpChain"
+  },
+  "0098c945-7397-537e-891b-57c30123dfce": {
+    "id": "0098c945-7397-537e-891b-57c30123dfce",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Seer",
+    "cost": 200,
+    "description": "There are Powers in this world that sometimes choose to grant prophetic powers to those that might use them in ways that further the great battle between Good and Evil. These powers will usually allow you to discern important details about future events.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "18ca566f-6e23-52dd-ba5d-1b041b52e4b2": {
+    "id": "18ca566f-6e23-52dd-ba5d-1b041b52e4b2",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Seer of Patterns",
+    "cost": 500,
+    "description": "You can perceive patterns, granting you a form of low-level omniscience. This lets you set into motion highly improbable events with only a simple action, such as condemning someone to death by simply pressing a key on a piano. However, this can also be used in combat. With time to study your opponent’s patterns, you gain the ability to accurately predict their every move. More skilled opponents may require more time. Despite the power of this perk, certain beings, such as God, are simply too powerful or too alien to predict.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "c133e509-0cea-5a60-9796-079517f83c67": {
+    "id": "c133e509-0cea-5a60-9796-079517f83c67",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Sorcery",
+    "cost": 100,
+    "description": "This is a very wide but shallow understanding of magic. You know a bit about all magics, but nothing in great detail. This is only a starting point however, as you have explosive learning potential regarding all things magic. Your ability to research has increased tremendously. You'll never take too long to find whatever information you're looking for, and when you do you absorb it like a sponge. With some practice, you will no longer need to read books and may simply touch a book to absorb its contents directly into your mind with a full understanding of said contents.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "5dbea84d-af37-5ef3-bf3c-330f48a3214f": {
+    "id": "5dbea84d-af37-5ef3-bf3c-330f48a3214f",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Spirit Medium",
+    "cost": 400,
+    "description": "You have ability to hear speech of the dead, which is constant but you can silence it. Dead speak of dark prophecies, future events and anything significant that could happen to you or the world at large. You can also punch creatures spirits out of them, it only works on plague zombies at first due to their magical nature but in theory you could grow this to work even on completely alive beings. You can also place your hand on head of a dead being to summon its soul, it will gain semi physical form from which it will leave by your mouth and can be asked for information or advice, during this time you are unconscious and have no knowledge of what the soul speaks of, after it returns, which is a moment, you will feel drained, the spirit cannot remain longer than you would wish for it to.",
+    "origin": "Hellboy Jumpchain Unofficial Update Supplement"
+  },
+  "c4e1d1ca-8bed-5af7-ba25-31cfc6911c24": {
+    "id": "c4e1d1ca-8bed-5af7-ba25-31cfc6911c24",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Super Strength",
+    "cost": 200,
+    "description": "With this strength you could easily flip over a jeep and snap a person's neck with ease.",
+    "origin": "Supernatural V2"
+  },
+  "f79961cd-2caf-5041-b7f5-a28403344b21": {
+    "id": "f79961cd-2caf-5041-b7f5-a28403344b21",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Technomage",
+    "cost": 200,
+    "description": "While not a magic user per­se you have the unique ability to make magic and technology play along together in just the right kind of way. Perhaps you can take a fictional operating system out of a book and install it on a real computer. Or create a self­replicating swarm of nanomachines from a sliver of magically created tissue. Whatever it is, you can do it and are likely to be the envy of your magical peers.",
+    "origin": "Libriomancer Jumpchain"
+  },
+  "308ee3fd-3988-5107-ba41-cdaac7aa47b1": {
+    "id": "308ee3fd-3988-5107-ba41-cdaac7aa47b1",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Telekinetic",
+    "cost": 200,
+    "description": "You are capable of moving objects through the power of your mind. You are strong enough to throw a full grown man across a room with ease, and precise enough to not to worry about accidentally impaling anyone you don’t want to. Both power and precision can be improved with training.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "fa8501eb-9493-56a6-9daf-ffe42effc50c": {
+    "id": "fa8501eb-9493-56a6-9daf-ffe42effc50c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "The Key",
+    "cost": 400,
+    "description": "An ancient mystical energy that acts as a catalyst to ease the creation of portals between dimensions, or even break down all the barriers between dimensions; this power is now infused into your being and blood. Any portal magic you attempt will now be orders of magnitude easier, to the point that you might learn to open said portals without any need for magical training; but beware for there are others that might wish to use this gift for their own ends. Since this power has been infused into you, rather than you being The Key transformed, you will not be vulnerable to being identified as The Key by those outside reality (crazy people), nor will you risk destroying the barriers between all worlds.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "b597362c-f346-5a55-be33-a008deff261e": {
+    "id": "b597362c-f346-5a55-be33-a008deff261e",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Trickster",
+    "cost": 400,
+    "description": "A standard ability of a specific type of deity known as a Trickster but known to many others as well is the gift of conjuration. These beings have the ability to make something from nothing, including minor monster constructs to furniture and much more. While any of these constructs can hold a personality designed for them by the creator any living things will not truly have a souls and only acts based on behaviours designated by the trickster. Where other deities must rely on worship to restore their energy needed for performing miracles, a trickster can substitute this for imbuing copious amounts of sugar to recharge. Just like those powerful beings you now have the ability to conjure objects and creatures, as well as the option to use the sugar you eat as a secondary source of energy for divine powers.",
+    "origin": "Supernatural JumpChain"
+  },
+  "191c89c4-5cbd-5d84-bcd9-369f2f876047": {
+    "id": "191c89c4-5cbd-5d84-bcd9-369f2f876047",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "True Faces",
+    "cost": 400,
+    "description": "Something other Hunters would probably kill for, the ability to see the true face of Demons with just a look, allowing you to know when somebody is possessed regardless of the power of the Demon/s involved and not just Demons but all monsters regardless if they are Leviathans, Vampires, Werewolves, etc. and yes this also includes Angels even if they technically aren’t monsters. No one and nothing can hide from your sight anymore, no magic spell or passive ability can stop this. Also, don’t worry there won’t be any side effects of looking so no eyes burning out because you looked at an Angel.",
+    "origin": "Supernatural V2"
+  },
+  "d8d25823-1918-5afc-8751-0afe42e0f9e5": {
+    "id": "d8d25823-1918-5afc-8751-0afe42e0f9e5",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "Weather Witch",
+    "cost": 600,
+    "description": "You possess a mystical attunement with the climate and weather. This allows you to sense the flow of weather, and energy through nature, giving you an impeccable awareness of air currents, temperature, humidity, and the weather around you, as well as the general well-being of the natural system which creates and maintains the weather, and unnatural disruptions to it - such as being able to identify the presence of a field of dark magic which controls the weather. You are also capable of control of the weather. From carrying yourself or others aloft with wind, calling and directing bolts of lightning, creating icy gusts and snow (though this is harder in warmer temperatures), or on a larger scale create or disperse category 5 hurricanes, or storms over the Balkans which can be felt on uncharted islands near India. Even the ‘weather’ of outer space can be controlled, though your range won’t be affecting it from the surface of the Earth, allowing you to influence stellar winds and simulate cosmic storms, and potentially magical weather though that may resist you and prove difficult to control.",
+    "origin": "X-Men Curse of the Mutants (Mutants vs Vampires)"
+  },
+  "dfc776e7-81f1-50c8-8ac3-7069502bdf5b": {
+    "id": "dfc776e7-81f1-50c8-8ac3-7069502bdf5b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "White Wings",
+    "cost": 400,
+    "description": "What sort of guardian angel doesn’t have wings. Not you, not anymore. These magnificent dove-like wings grant you Flight as the power and can also act as remarkably strong limbs for both propulsion and battering opponents in melee. The wings can also be used as shields, and are hardy enough to take some serious punishment without you even flinching. Each feather sheds a soft white light that stings and irritates Evil beings. In the face of two entire wings of such feathers, and Evil opponents will be too busy suffering to be a real threat. Of course, those of sufficient power or endurance can bully through this effect but even then they may be ahir less capable than normally.",
+    "origin": "Charmed JumpChain"
+  },
+  "17aeb0c3-fda4-5cbf-9a78-36b28110d4fd": {
+    "id": "17aeb0c3-fda4-5cbf-9a78-36b28110d4fd",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Powers",
+    "name": "You Were Hardly Using It, Anyway",
+    "cost": 500,
+    "description": "Thanks to a customized parasitic spell, you are able to steal the powers of other magic users with just a touch- but there are a few caveats to this. First of all, you must take their focus – this would be their ring, staff, orb and so on – and you must either kill them or place them in a coma, magically induced or not. If you do not kill them, your theft of their powers will be incomplete, and they will instantly return to said user as soon as they care to pick up another focus or exert their strength again. If someone does not use a focus, then there is only one option: you must kill them.",
+    "origin": "Sorcerer's Apprentice JumpChain"
+  },
+  "a330a023-d122-5cef-8cf2-30bf76c0a41a": {
+    "id": "a330a023-d122-5cef-8cf2-30bf76c0a41a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "“Hail to the King, Baby.”",
+    "cost": 200,
+    "description": "You might be an asshole, but you’re the only hope they’ve got. People are willing to tolerate your insults and misc. jackassery as long as you’re helping them. Basically, people like you in spite of your rudeness. In fact, some of them will even find it charming- despite acting like a dick to them, there’s a good chance that you could still woo someone into your bed. Because in your own way, you ARE king.",
+    "origin": "The Evil Dead"
+  },
+  "c17c22ba-032f-582b-8500-f7688fe69328": {
+    "id": "c17c22ba-032f-582b-8500-f7688fe69328",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "\"I'm a rebel, you're an idiot\"",
+    "cost": 100,
+    "description": "You radiate cool, no matter what you're doing. Be it stoicism, loving to party, being a badass... whatever it may be, you'll always be accepted as being the epitome of cool in any social group. Even if you do things that are typically uncool, people will think it's cool when you do it.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "3af5f826-bc22-5c60-9676-4d789bd577df": {
+    "id": "3af5f826-bc22-5c60-9676-4d789bd577df",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "“Name’s Ash. Housewares.”",
+    "cost": 400,
+    "description": "You’re an amazingly skilled engineer and mechanic. With only the tools and materials available in the Middle Ages, you could make a fully functional prosthetic hand. If you had something better- say, a car- you could make a whirling dervish of death and destruction, capable of mowing down an entire army of the dead.",
+    "origin": "The Evil Dead"
+  },
+  "6b0fc2ee-e60a-5140-aae0-517efc35501a": {
+    "id": "6b0fc2ee-e60a-5140-aae0-517efc35501a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Ancient Tongue",
+    "cost": 400,
+    "description": "You are fully fluent in all languages you encounter, though that's only the tip of this perk. You additionally gain your very own ancient language, complete with its own alphabet and numbers. This language empowers anything it touches. Magical incantations evoked with this language will produce a much more powerful spell, magical seals using runes of this language will be much stronger, and if you teach it to others, conversations in this language will communicate your intent perfectly with little effort, and people will have a much easier time remembering things taught to them in this language. Even software written in this language will be more effective! Even things bound to specific languages such as curses that must be spoken in perfect Latin or a door that requires you to say the word \"Friend\" in Elvish. Being that this language is meant to be as old as time itself, any ancient beings (gods, demigods, really old demons...) will recognize this tongue as something older than time itself, and will take you much more seriously if they hear you speak it. For convenience, you can enable anyone to understand this language when you speak it without them knowing the language.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "dfd800cc-ac3b-57cd-ac5c-b252e127b310": {
+    "id": "dfd800cc-ac3b-57cd-ac5c-b252e127b310",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Bullshit Ballistics",
+    "cost": 200,
+    "description": "While all hunters seem to be competent with guns, you can put their skill to shame with your own ability to hit a target. While a deft marksman you’re supernaturally skilled in the creation of specialized ammunition for your firearms. With what you might run into in this world having the right weapon for the job is essential. Putting together rock salt shells for a shotgun or melting down silver to use in your bullets is the simplest use of this ability. There are far greater applications for your personal rounds, like melting down an angel blade into angel-slaying bullets, or putting potions into hollow point rounds to make the contained magic trigger against a target. Most curiously you can inscribe sigils or seals you know onto bullets, and they will not be deformed on impact keeping their properties.",
+    "origin": "Supernatural JumpChain"
+  },
+  "6acb0402-9d01-51a3-a0ee-7ba57ab202f6": {
+    "id": "6acb0402-9d01-51a3-a0ee-7ba57ab202f6",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Can Never Run",
+    "cost": 400,
+    "description": "A skill most would kill for, some Hunters would say, the ability to track anyone. Whether as a gift of God or hours of practise you are most likely the best tracker to exist in this world, able to hunt and track everything in this world to the end of this Earth. I don’t mean just tracking like footprints and broken branches in the woods though you still remain an expert at that I mean tracking like entering a town and within a day finding your target. How this works no one knows it could be seeing something beneath a topic in a newspaper, asking the right questions or another way entirely. Fanwank.",
+    "origin": "Supernatural V2"
+  },
+  "e21c416c-01a9-585f-a0f4-eca725feaf8a": {
+    "id": "e21c416c-01a9-585f-a0f4-eca725feaf8a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Clap Your Hands If You Believe",
+    "cost": 100,
+    "description": "It’s not an easy thing to accept that monsters are real, or that the people you love could have been replaced by one. The simple matter is people may refuse to believe the truth if living a lie isn’t as scary. However, they still definitely want to live. You have remarkable ease at getting people to accept the existence of the supernatural quickly when they’re in danger. Instead of being confused or frozen in fear when an unnatural threat shows itself, those you’ve warned will remember your words and run, following your instructions until the threat has passed. Afterwards they’ll want a more complete explanation and be more than willing to take your advice to heart.",
+    "origin": "Supernatural JumpChain"
+  },
+  "7a809eff-19d3-5070-8b8b-d18709603581": {
+    "id": "7a809eff-19d3-5070-8b8b-d18709603581",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Contacts and Connections",
+    "cost": 400,
+    "description": "You have a network of friends, acquaintances, colleagues, and other sources for information, resources or minor favors. This network is almost always going to come through with something that can help with your current dilemma, and once per jump (or ten years, whichever comes first), this will hand you a significant advantage in a major conflict, such as already having the artifact you need to defeat the big bad or having the same books the big bad used to plan his Ascension. You will have such a network waiting for you in each new world.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "3ebdd45e-2b8c-5aec-8316-40874bd5e168": {
+    "id": "3ebdd45e-2b8c-5aec-8316-40874bd5e168",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Didn’t Even Feel It",
+    "cost": 200,
+    "description": "In the life of a Hunter pain is a companion it hurts like hell but is also a reminder that you're alive but goddamn does it hurt. You are an old friend with pain and it shows with the way you can be beaten to a bloody pulp and come out smiling in the end even Lucifer himself could personally torture you and you would barely even grimace.",
+    "origin": "Supernatural V2"
+  },
+  "3ea315a0-5dbb-518e-bf47-779aabf8cbf0": {
+    "id": "3ea315a0-5dbb-518e-bf47-779aabf8cbf0",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Face Punchery",
+    "cost": 100,
+    "description": "You gain the skill of a Buffyverse fighter; martial arts expert, pre gunpowder weapons expert, familiar with all modern + weapons you encounter. The skill from this perk alone is enough for a human with no powers at all to take on 4 regular vampires with their bare hands.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "656384c4-3283-5d1b-b8e2-c4081f33dd39": {
+    "id": "656384c4-3283-5d1b-b8e2-c4081f33dd39",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Formal Training",
+    "cost": 200,
+    "description": "In espionage, that is. You’ve been trained as a secret agent, possibly by an organisation like Section 13. And Section 13 is more “James Bond” than “CIA” in how they approach the cloak-and-dagger scene. Anything you could reasonably expect of a Hollywood-type secret agent is something you can do with reasonable competence.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "840034c0-3f71-54c2-a405-62849662664d": {
+    "id": "840034c0-3f71-54c2-a405-62849662664d",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Gunsmith",
+    "cost": 200,
+    "description": "When you derive your profit by extracting energy from a portal to hell, demonic incursions are the flavor of the week. As such, the UAC has a large army of security personnel, working around the clock to stop demons from killing too many employees. And you? You're one of the guys who makes the weapons they use to kill demons. From the lowly pistol to the mighty rocket launcher, you build stuff that blows up bad guys. Argent weaponry may be a bit beyond you, but all else? Heavy Ordinance is your jam.",
+    "origin": "Doom 2016 JumpChain"
+  },
+  "97182af5-c4ea-5aca-8c34-77d0bf0de181": {
+    "id": "97182af5-c4ea-5aca-8c34-77d0bf0de181",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "He’s Got These Things, Man",
+    "cost": 200,
+    "description": "I’m not sure how you trained for this, but you have the nigh-supernatural ability to walk around with a shitload of weapons and not have it interfere with your movements. You can be carrying things attached to every limb, strapped to your back, in holsters under both arms, and in even more",
+    "origin": "Blade Jumpchain"
+  },
+  "c76d14ab-1c0f-59e4-b6b7-bc602573c09c": {
+    "id": "c76d14ab-1c0f-59e4-b6b7-bc602573c09c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Head Boy",
+    "cost": 100,
+    "description": "You are well-educated on the supernatural side of the world. You can identify demons, including their strengths and weaknesses, know the history behind various stories and legends, and know who the major players are. The source of this knowledge is up to you, you could have trained at the Watcher’s Academy or be from a family of mages or just have stumbled onto the truth and been really thorough with your research.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "4fca70d3-4b31-56e4-9e3a-06a538b8615a": {
+    "id": "4fca70d3-4b31-56e4-9e3a-06a538b8615a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Heir of Sparda",
+    "cost": 400,
+    "description": "You are a master swordsman and a natural at combat, capable of wielding any weapon you come across with ease. You have all the skill, experience and knowledge of both Dante and Vergil combined.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "fbd7e1b2-481a-50fd-96c8-7084e1c48235": {
+    "id": "fbd7e1b2-481a-50fd-96c8-7084e1c48235",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Hell Devours the Indolent",
+    "cost": 200,
+    "description": "You're not really the type to stand still in a firefight. Run and Gun is the way to go. You run faster, jump farther, and tire out less easily. There's a lot of ground to cover, hop to it!",
+    "origin": "Doom 2016 JumpChain"
+  },
+  "2b5995e5-0d0a-5e26-b8b3-475f20eab9d0": {
+    "id": "2b5995e5-0d0a-5e26-b8b3-475f20eab9d0",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Hollywood Hot",
+    "cost": 100,
+    "description": "You are exceptionally attractive, even by Hollywood standards. You don’t even need all that time with makeup and airbrushing, you naturally look like you spent hours being made up by professionals, which might come in handy if for some reason mirrors don’t work for you. Specifics are up to you, but no matter what, you look damn good.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "194c35b0-736d-58da-b464-890a6dc0f139": {
+    "id": "194c35b0-736d-58da-b464-890a6dc0f139",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "I Like The Quiet",
+    "cost": 200,
+    "description": "You may lack the training and the supernatural might that others wield. When you first encountered the evil that hides in this world, you may have been more frightened than you thought you could ever be. But when that evil came to threaten those you love, you found courage you never knew you had. Though you still feel fear, it will never cloud your mind, make you freeze or stop you from doing what needs to be done. And for those creatures that live to inflict that fear on others, nothing is more intimidating than someone who will not be afraid.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "add3c894-8b11-51bb-98eb-6f8290637eb0": {
+    "id": "add3c894-8b11-51bb-98eb-6f8290637eb0",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "I’m The Thing That Monsters Have Nightmares About.",
+    "cost": 600,
+    "description": "You are one of the finest warriors and hunters around. You are a brilliant strategist and tactician, a charismatic leader, and a truly deadly fighter. Without any form of supernatural powers, you can defeat vampires and lesser demons as easily as an experienced slayer. Even groups of master vampires that are legendary for their cruelty and evil will likely flee when they hear you are coming for them. You also have an extreme talent for recruiting followers, earning their lasting loyalty and training them into an effective fighting force. In fact, those you teach or train will learn and improve at a rate five times faster than they normally would.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "f64c9116-1243-5a86-af9e-856c866e2c3a": {
+    "id": "f64c9116-1243-5a86-af9e-856c866e2c3a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "If You Want a Job Done Right...",
+    "cost": 600,
+    "description": "You gotta do it yourself. You are now a one-man engine of death and carnage, fearless but not cocksure, enraged but not blindly so. You have been trained in murder and bloodshed, tempered and reinforced by ages of experience, and so long as your body can keep up your training will not fail as you literally decimate your foes.",
+    "origin": "Doom 2016 JumpChain"
+  },
+  "5f16474d-30b5-561c-9ba2-9d249ad7f758": {
+    "id": "5f16474d-30b5-561c-9ba2-9d249ad7f758",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Intelligent Programmer",
+    "cost": 200,
+    "description": "Like Vergil, you are highly intelligent and a talented programmer, allowing you to write a security encryption program worth millions before you finish school. You can also hack into any computer and security system.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "51b78cb3-f36f-50ea-9f6e-1c9591a4f2b5": {
+    "id": "51b78cb3-f36f-50ea-9f6e-1c9591a4f2b5",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Little Tricks",
+    "cost": 200,
+    "description": "Maybe you had a rough childhood, maybe you had a jackass of a parent or maybe you were a delinquent either way, you picked up some less than savoury skills. Either way, you have become a master of certain skills frowned upon by the law such as lock-picking, conning, car-jacking, theft and hacking great enough to hack into federal databases, e.g. FBI, CIA etc. Congratulations, you are now an accomplished lowlife.",
+    "origin": "Supernatural V2"
+  },
+  "69e76b80-e38d-5ad3-ab36-06f467b8c90a": {
+    "id": "69e76b80-e38d-5ad3-ab36-06f467b8c90a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Master Chef",
+    "cost": 100,
+    "description": "Self-explanatory really, as it says it on the tin you have become an amazing chef equal to the finest Michelin starred chefs around.",
+    "origin": "Supernatural V2"
+  },
+  "9cb8ad95-1ab2-580b-ad56-f7d3a76c5fab": {
+    "id": "9cb8ad95-1ab2-580b-ad56-f7d3a76c5fab",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Master of Improvisation",
+    "cost": 200,
+    "description": "When you need to defend yourself, you can use whatever happens to be on hand. You could be in a fight with three of the best enforcers of a criminal syndicate, each armed with a high-tech electrified sword, and defeat them armed with nothing but windshield wipers. You could even use an unconscious person as a bo-staff if you had to.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "f7a03212-0012-5f2b-add5-727656f68536": {
+    "id": "f7a03212-0012-5f2b-add5-727656f68536",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Musician",
+    "cost": 0,
+    "description": "You are skilled with a single musical instrument of your choice. You are capable of using this instrument to make hauntingly sad music or appropriately rage inducing music.",
+    "origin": "The Crow"
+  },
+  "af3f52e5-fccb-5384-a6a4-a5bc760d1ecf": {
+    "id": "af3f52e5-fccb-5384-a6a4-a5bc760d1ecf",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "No Weapons, No Friends, No Hope",
+    "cost": 400,
+    "description": "Take all that away, and what’s left? Just you. And that is enough. Even when faced with impossible odds, or when everything you count on has been stripped away, you have the strength and determination to fight back. Your willpower is endless and unbreakable, and you have the inner strength to do the right thing, even if it breaks your heart. When facing an enemy that outmatches you your sheer determination will let you surpass your limits to some extent and help tilt the odds back in your favor. Furthermore, taking this perk is essentially declaring your status as a Champion to the universe and you will be treated accordingly; you can still potentially be defeated or fail in any confrontation but you won’t actually die unless facing a significant opponent. No more meaningless deaths in accidents or vs. mooks for you.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "ac63c7f6-79db-56ad-8828-1968cc9240eb": {
+    "id": "ac63c7f6-79db-56ad-8828-1968cc9240eb",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Old Fashioned",
+    "cost": 200,
+    "description": "So long as you yourself are not using modern weapons, your enemies will be extremely hesitant to use modern weapons against you, and when they do they are drastically less effective. Vampires technically could just shoot Buffy, but they never do, even though she's used flamethrowers, a rocket launcher, and even C4 in the past. You still will encounter guns from time to time, but so long as you're not currently using one they will be no more effective than medieval weapons, though you may get a clean shot through the shoulder.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "26074707-9ab1-5bc8-a0e8-7c5a453f2391": {
+    "id": "26074707-9ab1-5bc8-a0e8-7c5a453f2391",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Pathfinder",
+    "cost": 100,
+    "description": "Look at you, finding your own way around. You're very adept at spotting secret areas, hidey holes, and alternate methods of getting around wherever you are. You're also rather good at finding supplies and such that others may have stashed away. And hey, what's theirs is yours!",
+    "origin": "Doom 2016 JumpChain"
+  },
+  "5750d6b3-5e47-5479-bc3e-5731bc6f92c4": {
+    "id": "5750d6b3-5e47-5479-bc3e-5731bc6f92c4",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Patience",
+    "cost": 100,
+    "description": "When you’re Immortal, you eventually learn how to be patient, whether because your sense of time gets warped or simply because you learn how to deal with boredom. Whatever you did, you certainly have the patience to be expected from an ages-old being, easily capable of waiting for 70 years even trapped in a glass orb and incapable of doing anything for the whole duration. You wouldn’t even go insane from such an experience either. Hopefully this doesn’t come in handy, it would be rather inconvenient, no?",
+    "origin": "The Sandman"
+  },
+  "b68a38d5-3ed6-510b-ab66-e367b60098cf": {
+    "id": "b68a38d5-3ed6-510b-ab66-e367b60098cf",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Rogue Demon Hunter",
+    "cost": 200,
+    "description": "You’re highly fit, strong, and tough, and have truly exceptional reflexes of the kind developed only by not dying despite years of fighting soulless predators that are significantly stronger and faster than normal humans. You’re a master of several weapons, a dangerous bare-knuckle fighter, a crack shot, and have a great aptitude for learning further combat skills. You also have steady nerves under fire and an exceptional pain tolerance, and a thorough working knowledge of the less obscure demon types and how to kill them. But don’t get too cocky; the demon-fighting lifestyle has the sort of attrition rate where qualities like this are considered a basic survival package.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "75c34901-2bdf-5f7d-b950-a3be966dc977": {
+    "id": "75c34901-2bdf-5f7d-b950-a3be966dc977",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Scooby Doo, Where Are You?",
+    "cost": 200,
+    "description": "You are lucky, in one specific way. When trying to solve a mystery, identify a demon, track down a prophecy or unravel a diabolical plan, you will never hit a permanent dead end. You will always find a clue or a scrap of information, or maybe a minion to beat a confession from. Of course, you are going to have to figure out what that clue means for yourself, but you will always have a chance.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "adc61741-493b-5234-97ae-b3a1d77bee63": {
+    "id": "adc61741-493b-5234-97ae-b3a1d77bee63",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Scooby-Speak and Willow-Babble",
+    "cost": 100,
+    "description": "You are widely knowledgeable about pop culture, are an expert at snark and sarcasm, and have mastered the skills to both mangle a language ala Buffy and to squeeze massive amounts of speech into a single breath like Willow does.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "7f9e901c-6667-5231-91b8-3b304d01a4a6": {
+    "id": "7f9e901c-6667-5231-91b8-3b304d01a4a6",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Soulless",
+    "cost": 100,
+    "description": "Actually, you might still be in possession of your soul. But, you can choose to behave as if you don’t. You can choose to turn off your empathy and conscience, to be as evil as you want to be, and then turn them back on later. This also means you will not have any lasting problems from actions taken while under the influence of this perk. In fact, you will effectively instantly process and deal with any form of traumatic events or memories.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "2b67c5c6-e17a-5317-8137-b6bbf2dcb048": {
+    "id": "2b67c5c6-e17a-5317-8137-b6bbf2dcb048",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Super-Thief",
+    "cost": 400,
+    "description": "The more subtle side of crime. With this perk, you’re a one-man heist crew, able to infiltrate even the most secure places and make off with the loot without getting caught. Not only can you evade even the strictest security measures but you can do so with grace and a sense of style. If only the Dark Hand had people like you on the payroll.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "94f00f57-64df-5d12-a61c-fd01b66a23c5": {
+    "id": "94f00f57-64df-5d12-a61c-fd01b66a23c5",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "The Campbell Chin",
+    "cost": 100,
+    "description": "You know what I mean. The famous chin of Bruce Campbell is now yours, boosting your handsomeness to godlike levels. If for some reason you don’t want the chin than you can treat this as a general boost to attractiveness.",
+    "origin": "The Evil Dead"
+  },
+  "c1827f95-7c69-5d28-8584-4cdd1687a8dc": {
+    "id": "c1827f95-7c69-5d28-8584-4cdd1687a8dc",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Torturer",
+    "cost": 100,
+    "description": "Demons were created to punish those sent to hell, and you are no different. You have an immense amount of knowledge about the art of torture, knowing every trick in the book. Additionally, this perk gives you insight into what would make your target suffer the most.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "80d1e275-f948-564f-aa27-ccbbe411d739": {
+    "id": "80d1e275-f948-564f-aa27-ccbbe411d739",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Trapper",
+    "cost": 100,
+    "description": "Bear traps, spike pits, booby traps and more. They’ll never know you were there with how expertly you hide your fatal snares, at least not until they find themselves caught in your web. You’re quite good at spotting places where a good trap can be set, which happily enough also makes you pretty good at setting ambushes as well. After all, lying in wait is just a more proactive trap when you think about it.",
+    "origin": "Friday the 13th JumpChain"
+  },
+  "9f8a88e6-ea13-5573-97db-42b1cd042fdd": {
+    "id": "9f8a88e6-ea13-5573-97db-42b1cd042fdd",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Treasures and Artifacts",
+    "cost": 200,
+    "description": "You have a tendency to stumble over or find various powerful MacGuffins or other valuable items quite often. This may be a spell that rewrites the world to make you a superhero, a glove that throws lightning, or a box of insect demons that you need to complete a century long plan. This means that needing some specific resources is rarely if ever going to be a stumbling block in your schemes.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "ecb9b512-ef7d-53e4-b8a9-9c4bc736bf63": {
+    "id": "ecb9b512-ef7d-53e4-b8a9-9c4bc736bf63",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Under The Radar",
+    "cost": 200,
+    "description": "Authorities who don't specifically deal with the supernatural are very unlikely to notice you or anything you do related to demons. If you leave an apartment wrecked after fighting vampires, the police won't connect it to you. Chasing demons through the streets on a motorcycle wielding a sword? Cops mysteriously aren't there. If you're a vampire, you won't encounter police while trying to feed, though if you're just trying to rob someone this protection won't work.",
+    "origin": "Buffy - Generic Buffy Fanfiction 1.2"
+  },
+  "da518e56-f058-52c2-970a-d6ce1d1abcce": {
+    "id": "da518e56-f058-52c2-970a-d6ce1d1abcce",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "We Must Do Research",
+    "cost": 600,
+    "description": "No one can know everything, and life is a constant journey. The modern wizard knows this and devotes time to keeping up with their studying. With this perk, any learning, studying, research, or training you do is 100 times as effective and takes one-tenth the time. You also have an intuition for where to look when trying to find information as long as you know what it is you’re looking for.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "68224b56-6d23-531c-abfb-3175e87342b8": {
+    "id": "68224b56-6d23-531c-abfb-3175e87342b8",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "What Do You Mean,",
+    "cost": 200,
+    "description": "\"Reload?\" - Don't worry about such things, Marine. As long as you have the ammo on your person, it'll be loaded in your gun when you pull the trigger. No need to swap mags.",
+    "origin": "Doom 2016 JumpChain"
+  },
+  "e674d53b-f7a3-57e6-bee4-2ca205c2ed28": {
+    "id": "e674d53b-f7a3-57e6-bee4-2ca205c2ed28",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Yu Mo Gui Gwai Fai Di Zao",
+    "cost": 400,
+    "description": "No matter what Uncle is trying to accomplish, this is the incantation he uses except on occasions where he had to use a very specific spell from a different magic system. This is despite it being established that spells in his library do in fact use other incantations. With this perk, you can establish a phrase, or set of phrases, that you can use as a substitute for all incantations, chants, or mantras for any system of magic known to you.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "39108d64-d40c-55ba-8d0c-d99ba66ab9ac": {
+    "id": "39108d64-d40c-55ba-8d0c-d99ba66ab9ac",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Angel Blade",
+    "cost": 300,
+    "description": "These long, thin, triple-edged daggers are carried by many angels who enter Earth expecting combat. The wounds this blade inflicts harm almost any creature be they monster, demon, or another angel. Even those working for death, the reapers, are vulnerable to these blades. Still, powerful beings like archangels and leviathans cannot be killed so easily. Attacks performed with this weapon against most supernatural creatures that does damage sufficient to kill a mortal will also kill that creature. One needs to strike vital organs to deal fatal damage. The blade itself can be melted down and reforged into other types of weapons even with the simple technology available to humans, retaining all its killing power in the new form.",
+    "origin": "Supernatural JumpChain"
+  },
+  "4685951e-8d9a-5736-b51b-47d2373cd1bf": {
+    "id": "4685951e-8d9a-5736-b51b-47d2373cd1bf",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Armbands of Shiva",
+    "cost": 100,
+    "description": "A matched pair of artifacts from India. When wearing them, you grow a second pair of arms and instantly adjust to their use, including adapting your martial arts skills to include the new limbs.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "6100b239-eff7-563e-b34b-c7cd73514366": {
+    "id": "6100b239-eff7-563e-b34b-c7cd73514366",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Beliar’s Teeth",
+    "cost": 100,
+    "description": "These jagged spikes seamlessly merge into the user’s jaw, laying dormant and appearing as ordinary teeth until their power is activated. By drawing upon their infernal power, these teeth allow the bearer to exhale a fiery breath that seems to linger and ‘stick’ to victims far more effectively than mundane fire. This fire starts out roughly as deadly as an ordinary flamethrower, though with a considerably shorter range. With a full set of fully powered teeth, this infernal breath will be hot enough it can melt through tank armor in a handful of seconds, and has sufficient range it can engulf a moderately sized military barracks with one exhalation. You may purchase Beliar’s Teeth up to four times,",
+    "origin": "Bloodrayne 1 V1.0"
+  },
+  "ba89a5ff-efc3-573d-a67e-5709e67d5951": {
+    "id": "ba89a5ff-efc3-573d-a67e-5709e67d5951",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Blade",
+    "cost": 600,
+    "description": "Forged in the fires of hell, enchanted with rune and spell. As a blade, it is matched by none other in this world. It carves through armor and flesh alike as a hot knife through butter. Once made for the Doom Marine out of fear and respect, it has now fallen into your possession.",
+    "origin": "Doom 2016 JumpChain"
+  },
+  "bb45478c-b05b-5327-9e8c-a52716a8aee3": {
+    "id": "bb45478c-b05b-5327-9e8c-a52716a8aee3",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Blade of Azrael",
+    "cost": 600,
+    "description": "The blade of the Angel of Death, Azrael. This blade is exceptionally sharp, capable of cutting through steel like butter, and ignores any immortality the target may have. It’s true gift, however, is the ability to utterly eradicate any being it kills. Anyone killed by this blade is erased from existence, preventing them from going to any afterlife.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "ff709dc5-c1f8-5dbe-bbce-d75bf59acca3": {
+    "id": "ff709dc5-c1f8-5dbe-bbce-d75bf59acca3",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Chainsaw Hand",
+    "cost": 200,
+    "description": "Having a chainsaw hand is cool and all, but it might be cooler to, you know, have a hand. Luckily you can have the best of both worlds; you can, at-will, replace one of your hands with a chainsaw in a similar fashion to Ash’s, and can also reverse this change. If you already have a chainsaw, you can also choose to summon that one instead. Note that this won’t heal your hand if it was actually cut-off, it’ll just replace it with a chainsaw.",
+    "origin": "The Evil Dead"
+  },
+  "5d092900-75d6-5ce9-931b-db17ff0165da": {
+    "id": "5d092900-75d6-5ce9-931b-db17ff0165da",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Colt",
+    "cost": 300,
+    "description": "Created by Samuel Colt, this weapon is one of the most powerful to ever exist. This weapon can be used to kill literally anything in existence with only a few limitations one being God and other entities like him and the second is the Archangels; however, the Colt can still harm the latter. This comes with a free blueprint that allows you to create more Colts and a free recipe to create more ammunition. Also, as you are paying CP, your Colt is rendered indestructible however any future Colts you make aren’t.",
+    "origin": "Supernatural V2"
+  },
+  "c08588c8-88c1-5d2d-a822-78f5834f2ca8": {
+    "id": "c08588c8-88c1-5d2d-a822-78f5834f2ca8",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Cool Sword",
+    "cost": 100,
+    "description": "A custom-forged weapon, balanced to your fighting style and with the perfect length for your height. With a blade formed of a unique alloy of titanium and silver, this weapon holds a lethal edge far better than any silver weapon but retains its unique ability to permanently wound and kill vampires. It even has a clockwork device in the handle that will quickly disarm (well, de-hand) any opponents who try to steal it from you.",
+    "origin": "Blade JumpChain"
+  },
+  "f28cb9d0-35f7-5a4b-8260-0419a5aca247": {
+    "id": "f28cb9d0-35f7-5a4b-8260-0419a5aca247",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Crossbow",
+    "cost": 0,
+    "description": "This is a medieval seeming crossbow. It’s easy to pull back its string and load, despite launching its projectiles with surprisingly heavy force - enough to drive a piece of pointed wood through a human’s chest at a decent distance. Admittedly that might be due to its ammunition. It comes with a set of wooden bolts to use with it, each one sharpened to a microscopic point - for the sake of penetrating body armor - and with a hardness and penetrative power more like steel than wood. These bolts replenish themselves over time so that while it might be possible for you to run out in a fight if it was long and you were firing fast, you won’t run out for much longer than that.",
+    "origin": "X-Men Curse of the Mutants (Mutants vs Vampires)"
+  },
+  "1b8d9b07-c725-5055-a1f1-db7b7cfe8e5b": {
+    "id": "1b8d9b07-c725-5055-a1f1-db7b7cfe8e5b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Death’s Scythe",
+    "cost": 600,
+    "description": "Belonging to Death himself, this weapon can kill anything much like the Equalizer. This weapon is so powerful that even a little cut can leave a being as powerful as Death mortally wounded with the injury slowly festering and killing the injured. Can import into this, does not have to be a scythe.",
+    "origin": "Supernatural V2."
+  },
+  "7896eaa0-9447-5ef3-a06f-0a602d578e99": {
+    "id": "7896eaa0-9447-5ef3-a06f-0a602d578e99",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Demon Killing Knife",
+    "cost": 100,
+    "description": "Presently belonging to the Demon Ruby this knife was created to possess the power to kill Demons, Hellhounds & other demonic entities. However, this knife cannot kill all Demonic entities with Knights Of Hell, Princes Of Hell & The First Demons being immune.",
+    "origin": "Supernatural V2"
+  },
+  "15b6533b-7a8f-5914-bd19-dfd49875309e": {
+    "id": "15b6533b-7a8f-5914-bd19-dfd49875309e",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Demon-Forged Weapon",
+    "cost": 500,
+    "description": "Choose a melee weapon. You gain a version made completely of demon steel forged in the bowels of Hell. This weapon can cut through steel with ease and ignores any immortality the target may have.",
+    "origin": "Lucifer (Show) JumpChain"
+  },
+  "9e4b5454-25cc-5636-a6a9-befd4658215a": {
+    "id": "9e4b5454-25cc-5636-a6a9-befd4658215a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Ebony & Ivory",
+    "cost": 100,
+    "description": "Ebony & Ivory are Dante's trademark pistols. While they lack strength, Dante's ability to pull the triggers with inhuman speed as well as his enhanced dexterity make them versatile weapons for any range and orientation. The weapons never need to be reloaded. The ones you buy here however are even more unique, as you can make them go from Semi-automatic to Fully-automatic, with no extra recoils or any other drawback.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "50428d7a-395a-527a-8e2d-267c0521475a": {
+    "id": "50428d7a-395a-527a-8e2d-267c0521475a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Electric Spear",
+    "cost": 200,
+    "description": "An exquisitely crafted spear that is very sharp and connected to a backpack of sorts holding a battery pack. With a mere push of a button, you can send five times the amount of electricity that is used on electric chairs, while not powerful enough to kill a giant, it is surely enough to stun them.",
+    "origin": "Hellboy Jumpchain Unofficial Update Supplement"
+  },
+  "03ec087b-a521-5fa7-9565-397bc6222508": {
+    "id": "03ec087b-a521-5fa7-9565-397bc6222508",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Electric Sword",
+    "cost": 200,
+    "description": "An electrified shortsword/baton device, used by the Enforcers before the Dark Hand lost their money. Collapsable and easily concealed on one’s person, these can be used to cleave cleanly through steel.",
+    "origin": "Jackie Chan Adventures_ SB Version"
+  },
+  "90ee6d2a-c0b9-55c4-ad0d-daa6f172d517": {
+    "id": "90ee6d2a-c0b9-55c4-ad0d-daa6f172d517",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Electronic Pistols",
+    "cost": 100,
+    "description": "This matched set of pistols are unique in a number of ways. First, they use an electrical impulse rather than a traditional striker to prime and fire their rounds, allowing increased precision and a variable trigger pull. Their ammunition is also unusual, designed to consist of Sun Dog explosive rounds that detonate after impact in a burst of U.V. light. Finally, they include a battle-hardened camera system allowing you to record everything you shoot at for later review or bragging rights.",
+    "origin": "Blade JumpChain"
+  },
+  "90d00703-5b19-5a12-bdfd-e3f6f4a5e2a9": {
+    "id": "90d00703-5b19-5a12-bdfd-e3f6f4a5e2a9",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Excalibur",
+    "cost": 600,
+    "description": "A fabled sword of extraordinary power. The original can only be wielded by a chosen hero who is a descendant of King Arthur himself, though this one is loyal to you. The sword powers are many, first it can at will, become clad in mighty flame, ready to scorch your enemies and make wounds you do go unhealed barring powerful supernatural means. Its second ability is giving a regeneration of sorts which works by healing you when you pick or unsheath this sword, able to grow back limbs or horns even, this however only works once per battle. The last and most powerful one is sealed and only those who are fated to unseal it shall do so. If you also bought Bringer of Doom perk from Demon tree, the true power of this sword shall be unleashed and with a mere thought you can open a rift that spreads throughout the ground and across at least a city sized area, this rift opens a gate to hell from which many various demons burst forth and start killing anything but you, your companions and anything that is explicitly your ally(like followers, minions, slaves, friends and so on but not something like random people you don’t personally know), demons can be called back and rifts sealed by just a thought too. The demons themselves live only to kill and destroy, but if someone powerful enough jumped in and entered hell itself, could they perhaps become its ruler? One thing is for certain, hell shall not submit easily and even less so to one who is not a demon themselves.",
+    "origin": "Hellboy Jumpchain Unofficial Update Supplement"
+  },
+  "78cb03f9-357b-5e7c-a3e4-5fe80bbf33c0": {
+    "id": "78cb03f9-357b-5e7c-a3e4-5fe80bbf33c0",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Garlic Mace",
+    "cost": 0,
+    "description": "Liquid Essence of Garlic, but loaded into the kind of spray container that you’d normally use for Mace or another self-defense spray. This is the little can that could, keeping spraying farther and stronger than you’d expect and much more accurately. If you need to blind some vampires from 15 feet away, this is your tool. Even better, garlic is harmless for humans, so if you make a mistake all you’ll do is annoy people.",
+    "origin": "Blade JumpChain"
+  },
+  "63256c64-2600-5b2a-9072-3e57279437c7": {
+    "id": "63256c64-2600-5b2a-9072-3e57279437c7",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Glaives",
+    "cost": 100,
+    "description": "No, not the polearm. This is a box of specially-designed throwing weapons serving as an advancement of the boomerang. With silver blades surrounding a solid gripping surface, they can be tossed like a discus and cut through vampires like a buzzsaw. The way they’re balanced, they’re even able to return to you if you throw them right. Just in case you miss, though, these ones never seem to harm you, no matter how much you bobble the catch.",
+    "origin": "Blade JumpChain"
+  },
+  "6cee0d7f-8dda-5271-b599-264dd93b3f6f": {
+    "id": "6cee0d7f-8dda-5271-b599-264dd93b3f6f",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Holy Bullet",
+    "cost": 300,
+    "description": "A bullet holding the blood of a holy man and blessed by a holder of true faith. It has the ability to kill beings with a single shot that have primal and natural evilness inside of them. It is required to target either heart or brain, or an equivalent weak spot should target lack normal ones, you get one bullet per jump and cannot stockpile them The bullet itself will refit into any sort of firearm you need it to..",
+    "origin": "Hellboy Jumpchain Unofficial Update Supplement"
+  },
+  "48a07e3e-dfa5-5cdf-994c-3882d6a99acc": {
+    "id": "48a07e3e-dfa5-5cdf-994c-3882d6a99acc",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Iron Crowbar",
+    "cost": 100,
+    "description": "Another material copiously utilized by Hunters, this metal possesses strong supernatural properties and can be used as a potent weapon against certain supernatural entities. Some examples of species weak to iron are Demons - this can burn most Demons - Wendigos are weakened by it, Ghosts can be temporarily banished by iron nor can they cross iron, and Hellhounds can be harmed with iron. This crowbar, as you are paying CP, is indestructible and will always find its way back to you within ten minutes max.",
+    "origin": "Supernatural V2"
+  },
+  "90485871-bee4-546d-a9b2-775be7aca7e3": {
+    "id": "90485871-bee4-546d-a9b2-775be7aca7e3",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "JG­367",
+    "cost": 200,
+    "description": "The pinnacle of military magic, a wand mounted on a handgun’s grip, fully programmable through its cutting­edge touch­telepathy interface. The wand is titanium, infused with more than twenty firing modes, including sleep spells, transformation, and temporary or permanent petrification. More importantly, this new model includes an exorcism mode, capable of tearing spirits and demons from their human hosts and trapping them in a sphere of magical energy.",
+    "origin": "Libriomancer Jumpchain"
+  },
+  "9969d5ca-671f-5398-99db-0f89665dc59c": {
+    "id": "9969d5ca-671f-5398-99db-0f89665dc59c",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Joseph Crackstone’s Staff",
+    "cost": 400,
+    "description": "While no one knows how Crackstone got his hands in this, no one can deny it is a powerful weapon. It gives the wielder the ability to conjure fire and telekinesis, simulating Outcast abilities.",
+    "origin": "Wednesday"
+  },
+  "ba83b82c-98b6-58e2-a3ad-0212656549f8": {
+    "id": "ba83b82c-98b6-58e2-a3ad-0212656549f8",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Kandarian Dagger",
+    "cost": 200,
+    "description": "A magical dagger that was found with the Necronomicon; it has the ability to disable undead and demonic creatures when stabbed into them, and can potentially kill Deadites even without dismembering them.",
+    "origin": "Evil Dead"
+  },
+  "a8302b4c-e243-5472-a469-d86f8d060e4b": {
+    "id": "a8302b4c-e243-5472-a469-d86f8d060e4b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Machete",
+    "cost": 200,
+    "description": "A wickedly sharp machete that can slice through flesh like butter. Even a normal person could decapitate someone else with one well-aimed strike- and a much stronger person could do that much more damage with it. If you’d prefer not to be a copycat killer you can instead choose for the machete to be something else, like a pickaxe or hammer; blunt instruments will instead easily break bones rather than tearing through flesh like paper.",
+    "origin": "Friday the 13th JumpChain"
+  },
+  "90d8f41c-16d9-5262-83d3-da371550c668": {
+    "id": "90d8f41c-16d9-5262-83d3-da371550c668",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Mjolnir",
+    "cost": 200,
+    "description": "(200 CP): Formerly belonging to the God Thor, this war hammer is one of the strongest weapons among the ranks of the Gods. This weapon is so powerful that even the strongest Pagan Gods will fall with a single hit. It also comes with the ability to create electricity that can kill a God.",
+    "origin": "Supernatural V2"
+  },
+  "b8c87302-f51a-54ba-a6ba-11e7704371d7": {
+    "id": "b8c87302-f51a-54ba-a6ba-11e7704371d7",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Mr. Pointy",
+    "cost": 0,
+    "description": "For a limited time only, all Jumpchain visitors to the Hellmouth get a free complimentary wooden stake! Easy to carry and conceal too, even if you’d think your outfit wouldn’t have enough room. And don’t worry too much if you lose it or break it. You’ll get a warranty replacement in the morning.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "2f7ca28c-1d55-5639-802b-091b01bc0cee": {
+    "id": "2f7ca28c-1d55-5639-802b-091b01bc0cee",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Pistol",
+    "cost": 100,
+    "description": "A heavily modified MAC-11, this packs the fire rate of a military-grade SMG into an even more compact and concealable body. Firing 9mm rounds at a cyclic rate of over 1200 a minute, you can blow through a full 32-round clip in just 1.5 seconds. Normally, trying to do so accurately would be insane, but the lengthened barrel on this somehow lets you keep up your precision even when blazing away full-auto and one-handed.",
+    "origin": "Blade JumpChain"
+  },
+  "e8f0400f-27a5-5cb3-a9a7-dcfa31b31c42": {
+    "id": "e8f0400f-27a5-5cb3-a9a7-dcfa31b31c42",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Ponce de Leon’s Cane",
+    "cost": 600,
+    "description": "The cane of Ponce de Leon, given to him by Gutenberg himself, broken down and reforged with the highest grade of magic manageable by mortal hands. The cane is composed primarily of flawless black wood with a chromed operatic handle with flakes of gold in both it and its neck. Using it to channel magic almost completely removes the effects of magical char from all but the greatest of workings. It may be used to store spells for later casting, though this requires a command of magic above that of most ordinary wizards. Nearly indestructible, the cane can be commanded to transform into a multitude of melee weapons and has even been known to keep devourers at bay for a time.",
+    "origin": "Libriomancer Jumpchain"
+  },
+  "afebad94-1d79-52d8-8d9f-0bb2c7cc93e9": {
+    "id": "afebad94-1d79-52d8-8d9f-0bb2c7cc93e9",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Rebellion",
+    "cost": 400,
+    "description": "This is the Sword Sparda gave to his son Dante. The sword can morph into different types of other weapons, giving you an incredibly versatile weapon. It already comes with all the forms Dante would have gained in game. You can add any weapon you come across to this weapon, giving it the ability to transform into the weapon at will, keeping all of its capabilities, only they now run on Demonic or Angelic energy. This new form is however a mere copy, allowing you to keep the original weapon when adding the form to Rebellion.",
+    "origin": "DmC; Devil May Cry (The Reboot) Jump"
+  },
+  "a31f4fa2-b88b-5d8f-a791-c38a04eeef20": {
+    "id": "a31f4fa2-b88b-5d8f-a791-c38a04eeef20",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Revolver",
+    "cost": 100,
+    "description": "“Wherever the red dot goes... ya bang!” A powerful revolver with a red dot attachment, the bullet will without fail, land on the red dot when fired. The ammunition for this weapon replenishes,",
+    "origin": "Friday the 13th JumpChain"
+  },
+  "4c079f56-21af-5dc7-b3c0-aa47894b7a3f": {
+    "id": "4c079f56-21af-5dc7-b3c0-aa47894b7a3f",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Shotgun",
+    "cost": 100,
+    "description": "A surprisingly powerful double-barrel shotgun; it would take more than one shot to put a brute like Jason down for good, but at the very least, it could knock him down for a while if you put some buckshot in his chest. The ammunition for this weapon will replenish as soon as it’s ready to be loaded again.",
+    "origin": "Friday the 13th JumpChain"
+  },
+  "5ac4ac66-a0f5-55f8-b0f0-b4b6c853b72a": {
+    "id": "5ac4ac66-a0f5-55f8-b0f0-b4b6c853b72a",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Shotgun",
+    "cost": 0,
+    "description": "At close range far more effective than a handgun, it can be made even more effective for hunting various creatures by loading the shells with silver shot or rock salt, depending on what you’re facing. Always ready for each engagement, you have an ammo box with 8 shotgun shells along with 2 shells loaded with rock salt in the event you’re up against less conventional opponents. Between battles the box will refill and ammunition that’s been used.",
+    "origin": "Supernatural JumpChain"
+  },
+  "2863433c-5c92-52df-9552-802093a14181": {
+    "id": "2863433c-5c92-52df-9552-802093a14181",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Shotgun/Stake Launcher",
+    "cost": 100,
+    "description": "A combination weapon ideally designed for taking out both vampires and their human thralls, this Benelli shotgun seems to accept more exotic ammunition even more easily and readily than your standard shotgun. If you need to keep switching between slugs, buckshot, and garlic/silver shells, you can do that with ease and without worrying about a misfire. Just in case you do screw up, the two pneumatic launchers under the barrel can fire silver stakes to take care of all your troubles.",
+    "origin": "Blade JumpChain"
+  },
+  "341be026-e052-5621-be3b-d0313436ebf2": {
+    "id": "341be026-e052-5621-be3b-d0313436ebf2",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Shovel",
+    "cost": 100,
+    "description": "You have a shovel, one perfectly fit to your height and build. It is indestructible and makes for an excellent weapon as well as a superb tool. More importantly, when used to bolster an attempt at intimidation, this shovel will make the holder vastly scarier than they have any right to be.",
+    "origin": "Buffy the Vampire Slayer & Angel JumpChain (SB Edition)"
+  },
+  "7bd80d94-3d02-5979-823a-75dff79e0bd0": {
+    "id": "7bd80d94-3d02-5979-823a-75dff79e0bd0",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Silver Bullets",
+    "cost": 100,
+    "description": "Standard round of the Death Dealers. You get a fairly large amount of them. It does replenish.",
+    "origin": "Underworld Jump"
+  },
+  "4b8eeb20-7de1-5221-b63f-cd9d2368c270": {
+    "id": "4b8eeb20-7de1-5221-b63f-cd9d2368c270",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Stakes",
+    "cost": 0,
+    "description": "This is a set of 2 wooden stakes, or daggers. They’re harder than they should be, almost as hard as steel, and sharpened to points with a tip measured in nanometers making them good at getting through ‘stab proof’ vests. If broken or lost they’ll be replaced quickly.",
+    "origin": "X-Men Curse of the Mutants (Mutants vs Vampires)"
+  },
+  "0e021ef2-a17e-57d8-afd5-9d597624fb6b": {
+    "id": "0e021ef2-a17e-57d8-afd5-9d597624fb6b",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Stun Gun",
+    "cost": 100,
+    "description": "An electric weapon designed to incapacitate rather than kill.",
+    "origin": "Gargoyles JumpChain"
+  },
+  "3c059fcb-e883-520e-8b46-2976f8d982d0": {
+    "id": "3c059fcb-e883-520e-8b46-2976f8d982d0",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Super Shotgun",
+    "cost": 200,
+    "description": "A classic double barrel shotgun. Though it's a bit antiquated, and MUST be physically reloaded, it offers incomparable destructive power at close range.",
+    "origin": "Doom 2016 JumpChain"
+  },
+  "20d4ada9-6b22-5df2-b30f-76d51ab0a395": {
+    "id": "20d4ada9-6b22-5df2-b30f-76d51ab0a395",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "The Equalizer",
+    "cost": 600,
+    "description": "Also known as the Hammurabi, this weapon will in the future be created by God to kill the Nephilim son of Lucifer. What this gun does is kill anything able to wound even God himself. Unlike the Colt, this weapon does not use bullets but instead sends a wave of multidimensional energy across a perfectly balanced quantum link between whoever’s shooting and the target. Now, when I say kill anything,, I mean it; there is nothing in this verse that can survive this gun except maybe God, The Darkness & Death but it would still wound them with an injury not even they could heal by themselves as well as leave them in a weakened state so long as they are wounded. Of course, normally this weapon would come with a crippling weakness and that would be whatever injury is inflicted onto the target would be inflicted onto the shooter but as you are paying CP, this weakness does not affect you.",
+    "origin": "Supernatural V2."
+  },
+  "e60d2bbe-0d27-5491-a435-d60c67262ec7": {
+    "id": "e60d2bbe-0d27-5491-a435-d60c67262ec7",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "UV Bullets",
+    "cost": 300,
+    "description": "Bullets like a tracer round carrying a irradiated fluid with UV radiation. Originally used by Lucians forces it is standard weaponry of the Purges. Can kill Vampires like Silver Bullets can werewolves.",
+    "origin": "Underworld Jump"
+  },
+  "e8acbb30-b0eb-5de2-89a4-58e81652155d": {
+    "id": "e8acbb30-b0eb-5de2-89a4-58e81652155d",
+    "sourceId": "celestial_handbook_v2",
+    "edition": "default",
+    "chapter": "Weapons",
+    "name": "Wristblades",
+    "cost": 100,
+    "description": "A pair of blades designed to strap to the back of your wrists, these weapons are far more lethal than their short edges would suggest. They contain an automated injector system that administers any liquid you’ve got stored in their reservoirs as you strike an opponent, allowing you to easily poison your targets as you punch them. These come filled with an unlimited supply of a super- anticoagulant known as EDTA that will cause any injected suckheads to explode violently, and cause humans to bleed out very quickly.",
+    "origin": "Blade JumpChain"
+  }
+}

@@ -484,5 +484,38 @@
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1hRC8nBlG0Ur8p3V4kOyN24XwjOFoPX5Lia3yM7Z0wPw"
       }
     }
+  },
+  "celestial_handbook_v2": {
+    "name": "Celestial Handbook v2",
+    "description": "Become a monster hunter: equipment, powers, talents, and weapons",
+    "defaultVersion": "default",
+    "editions": {
+      "default": {
+        "fileKey": "celestial_handbook_v2",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/18yRQeGqL18-EdBe2ME_hC4a50oU8O53tUw2MdF8M8EY"
+      }
+    }
+  },
+  "celestial_chalkboard": {
+    "name": "Celestial Chalkboard",
+    "description": "Magic, tools, knowledge, and skills from different fictional worlds",
+    "defaultVersion": "default",
+    "editions": {
+      "default": {
+        "fileKey": "celestial_chalkboard",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/10gsJpnaiaafKdl0FYTgjTqcRmLmdRpvSaP_st5Vt5ZI"
+      }
+    }
+  },
+  "celestial_crystal": {
+    "name": "Celestial Crystal",
+    "description": "Psychic powers, sanctuary, and tools",
+    "defaultVersion": "default",
+    "editions": {
+      "default": {
+        "fileKey": "celestial_crystal",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1RoQPfW7VPsjll0u6g5SUx12cIu1ZaIdXISWKW8fuJ7s"
+      }
+    }
   }
 }
