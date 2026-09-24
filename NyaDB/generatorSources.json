@@ -27,6 +27,48 @@
       }
     ]
   },
+  "celestial_chalkboard": {
+    "id": "celestial_chalkboard",
+    "displayName": "Celestial Chalkboard",
+    "description": "Magic, tools, knowledge, and skills from different fictional worlds",
+    "isR18": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "celestial_chalkboard",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/10gsJpnaiaafKdl0FYTgjTqcRmLmdRpvSaP_st5Vt5ZI"
+      }
+    ]
+  },
+  "celestial_crystal": {
+    "id": "celestial_crystal",
+    "displayName": "Celestial Crystal",
+    "description": "Psychic powers, sanctuary, and tools",
+    "isR18": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "celestial_crystal",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1RoQPfW7VPsjll0u6g5SUx12cIu1ZaIdXISWKW8fuJ7s"
+      }
+    ]
+  },
+  "celestial_handbook_v2": {
+    "id": "celestial_handbook_v2",
+    "displayName": "Celestial Handbook v2",
+    "description": "Become a monster hunter: equipment, powers, talents, and weapons",
+    "isR18": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "celestial_handbook_v2",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/18yRQeGqL18-EdBe2ME_hC4a50oU8O53tUw2MdF8M8EY"
+      }
+    ]
+  },
   "celestrial_workshop": {
     "id": "celestrial_workshop",
     "displayName": "Celestrial Workshop",
@@ -530,15 +572,15 @@
       }
     ]
   },
-  "the_celestial_mantle_halo": {
-    "id": "the_celestial_mantle_halo",
-    "displayName": "The Celestial Mantle (Halo)",
-    "description": "Halo-themed gacha with UNSC technology, weapons, armor, AIs, and SPARTAN-related abilities.",
+  "the_celestial_mantle": {
+    "id": "the_celestial_mantle",
+    "displayName": "The Celestial Mantle",
+    "description": "Allies, armour, skillset, weapons, and more from Halo universe",
     "isR18": false,
     "defaultVersion": "default",
     "editions": [
       {
-        "fileKey": "the_celestial_mantle_halo",
+        "fileKey": "the_celestial_mantle",
         "version": "default",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1_duneJDzxo1_cTfrx1N585B4maCxmNT-gSKIIB8aUKc"
       }
@@ -611,62 +653,6 @@
         "fileKey": "warp_core",
         "version": "default",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1hRC8nBlG0Ur8p3V4kOyN24XwjOFoPX5Lia3yM7Z0wPw"
-      }
-    ]
-  },
-  "celestial_crystal": {
-    "id": "celestial_crystal",
-    "displayName": "Celestial Crystal",
-    "description": "Psychic powers, sanctuary, and tools",
-    "isR18": false,
-    "defaultVersion": "default",
-    "editions": [
-      {
-        "fileKey": "celestial_crystal",
-        "version": "default",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/1RoQPfW7VPsjll0u6g5SUx12cIu1ZaIdXISWKW8fuJ7s"
-      }
-    ]
-  },
-  "celestial_handbook_v2": {
-    "id": "celestial_handbook_v2",
-    "displayName": "Celestial Handbook v2",
-    "description": "Become a monster hunter: equipment, powers, talents, and weapons",
-    "isR18": false,
-    "defaultVersion": "default",
-    "editions": [
-      {
-        "fileKey": "celestial_handbook_v2",
-        "version": "default",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/18yRQeGqL18-EdBe2ME_hC4a50oU8O53tUw2MdF8M8EY"
-      }
-    ]
-  },
-  "the_celestial_chalkboard": {
-    "id": "the_celestial_chalkboard",
-    "displayName": "The Celestial Chalkboard",
-    "description": "Magic, tools, knowledge, and skills from different fictional worlds",
-    "isR18": false,
-    "defaultVersion": "default",
-    "editions": [
-      {
-        "fileKey": "the_celestial_chalkboard",
-        "version": "default",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/10gsJpnaiaafKdl0FYTgjTqcRmLmdRpvSaP_st5Vt5ZI"
-      }
-    ]
-  },
-  "celestial_chalkboard": {
-    "id": "celestial_chalkboard",
-    "displayName": "Celestial Chalkboard",
-    "description": "Magic, tools, knowledge, and skills from different fictional worlds",
-    "isR18": false,
-    "defaultVersion": "default",
-    "editions": [
-      {
-        "fileKey": "celestial_chalkboard",
-        "version": "default",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/10gsJpnaiaafKdl0FYTgjTqcRmLmdRpvSaP_st5Vt5ZI"
       }
     ]
   }

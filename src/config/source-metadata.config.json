@@ -2,73 +2,105 @@
   "akashic_grimoire_rift_mod": {
     "name": "Akashic Grimoire Rift Mod",
     "description": "Collection of perks, items, and companions pulled from Nasuverse jumpchains.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "akashic_grimoire_rift_mod",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1WuP8rvDqTw7US8wOz5c8stDBlCH6uBdbIs1tT4TvUdY"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "bordello": {
     "name": "Bordello",
     "description": "Companions, relationships, and romance (R18+).",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "bordello",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1uzLB7rEYeXYKFxnL-qSCfv3rNuk4hbfkkXncHXczWjw"
       }
-    }
+    },
+    "defaultVersion": "default"
+  },
+  "celestial_chalkboard": {
+    "name": "Celestial Chalkboard",
+    "description": "Magic, tools, knowledge, and skills from different fictional worlds",
+    "editions": {
+      "default": {
+        "fileKey": "celestial_chalkboard",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/10gsJpnaiaafKdl0FYTgjTqcRmLmdRpvSaP_st5Vt5ZI"
+      }
+    },
+    "defaultVersion": "default"
+  },
+  "celestial_crystal": {
+    "name": "Celestial Crystal",
+    "description": "Psychic powers, sanctuary, and tools",
+    "editions": {
+      "default": {
+        "fileKey": "celestial_crystal",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1RoQPfW7VPsjll0u6g5SUx12cIu1ZaIdXISWKW8fuJ7s"
+      }
+    },
+    "defaultVersion": "default"
+  },
+  "celestial_handbook_v2": {
+    "name": "Celestial Handbook v2",
+    "description": "Become a monster hunter: equipment, powers, talents, and weapons",
+    "editions": {
+      "default": {
+        "fileKey": "celestial_handbook_v2",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/18yRQeGqL18-EdBe2ME_hC4a50oU8O53tUw2MdF8M8EY"
+      }
+    },
+    "defaultVersion": "default"
   },
   "celestrial_workshop": {
     "name": "Celestrial Workshop",
     "description": "Knowledge, upgrades, tools, combat, resources and more.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "celestrial_workshop",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1buKAORy2RywJhyKa_oPYBoq5npq0VExuEWkck9R1cAg"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "codex_40k_edition": {
     "name": "Codex Celestial - 40k Edition",
     "description": "Warhammer 40k universe.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "codex_40k_edition",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1nhXV0EhJkW9556sJPTECVCPGrRr1hIEQ4MOK8b1tSkA"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "codex_fantasy_edition": {
     "name": "Codex Celestial - Fantasy Edition",
     "description": "Warhammer Fantasy universe.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "codex_fantasy_edition",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1K6vQx_Cr0_U8TDPEWJQif49xw9YxZSVeqbLKQR9Fgwo"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "comic_book": {
     "name": "Comic Book",
     "description": "Aliens, hero, mad scientist, villains and more.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "comic_book",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1Y-r_-e0s3W_lTgWiPxBM2aLZkldcFCqQ1KUlLfdjMaw"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "companion": {
     "name": "Companion",
     "description": "Recruit, coordinate, and empower companions.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "companion",
@@ -76,12 +108,12 @@
         "altSourceUrl": "https://docs.google.com/spreadsheets/d/1NWlHKOZ2gIBtw9UFIZV7hATjp9bWKSlS9BgGzs62OMY",
         "altSourceLabel": "sheet version by Celestial Dragon"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "companion_lewd": {
     "name": "Companion Lewd",
     "description": "Companion-focused content with explicit, adult-oriented themes (R18+).",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "companion_lewd",
@@ -89,23 +121,23 @@
         "altSourceUrl": "https://docs.google.com/spreadsheets/d/1NWlHKOZ2gIBtw9UFIZV7hATjp9bWKSlS9BgGzs62OMY",
         "altSourceLabel": "sheet version by Celestial Dragon"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "compendium": {
     "name": "Compendium",
     "description": "Mixed-genre perks, items, and powers.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "compendium",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1wTlbwB1o3STt2TKzc5UbytCarS52hxXICYrRN6f2YLA"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "darkest_tome": {
     "name": "Darkest Tome",
     "description": "Dark magic, summoning, and Eldritch perks.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "darkest_tome",
@@ -113,78 +145,78 @@
         "altSourceUrl": "https://docs.google.com/spreadsheets/d/18a_5BInbtpu9n2Dvo6gNQL2sSpq6LO6YbC7pYiwBKys",
         "altSourceLabel": "sheet version by Celestial Dragon"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "debauchery": {
     "name": "Debauchery",
     "description": "Seduction, debauchery, and power (R18+). Also Waifus!",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "debauchery",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/16QeMKFwWZy4dSNC1o24DgtliqPmu2tB79mPBiyZFsWw"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "dojo": {
     "name": "Dojo",
     "description": "Martial arts, combat techniques, and training methods.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "dojo",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1NuZt_0VgsI9IYEOa379kIJ9VAIZCp4BZ67BTfwyu6Zo"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "eldritch_grimoire": {
     "name": "Eldritch Grimoire",
     "description": "Blessings, lairs, relics, and summons.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "eldritch_grimoire",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1quvUOxMKbBmjlVnXuenskfBETlryO57pMYGju1q14cw"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "fighter": {
     "name": "Fighter",
     "description": "A Celestial Dojo Alternative.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "fighter",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1gGO1UX_NEJ7W7gpbzwvUVY8MPUsX4UIUDLA31hW8oC4"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "forge": {
     "name": "Forge",
     "description": "Crafting, engineering, and technological advancements.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "forge",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/16i09vrQq24uhajNCKdhAw2kbKdhdCyhj7PPlBcIFho0"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "gardens": {
     "name": "Gardens",
     "description": "Flora and farmland.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "gardens",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1uH7PaW6l5ZqopNLXTrd5hhmslH0Tcg98GE795INv0dc"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "grimoire": {
     "name": "Grimoire",
     "description": "Magical abilities and powers.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "grimoire",
@@ -206,12 +238,12 @@
         "fileKey": "grimoire_yggdrasil_personal",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1XqfuMvuBfEWf-OBGC1IxLwDCc_VOUiUrcN72LnGa0Fg"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "heros_journey": {
     "name": "Hero's Journey",
     "description": "Perks, powers, and tools for becoming a hero.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "heros_journey",
@@ -219,89 +251,89 @@
         "altSourceUrl": "https://docs.google.com/spreadsheets/d/1RxNK7ARYk5m6CQq_RYrruKM-_A2BDvdhFT7jGJvxeE4",
         "altSourceLabel": "sheet version by Celestial Dragon"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "holocron": {
     "name": "Holocron",
     "description": "Star Wars perks, items, and powers.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "holocron",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1OP5o8EI2wKAJj6i6plrIV4Dh5gQACICREgSBetgSGA0"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "laboratory": {
     "name": "Laboratory",
     "description": "Knowledge, tools, minions, assistants, weapons, and powers.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "laboratory",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/11GwXhEpRCn6kaf2H_OHjCG9RoPF-UNAFP_gJ-uodH80"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "mutation": {
     "name": "Mutation",
     "description": "Mutations, transformations, and biological enhancements (modified).",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "mutation",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1pkgWPvDmSg0jNGf3_1YN5dvxw9bxdIdwGOLhlxP_JJs"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "ocarina": {
     "name": "Ocarina",
     "description": "Legend of Zelda universe.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "ocarina",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1Ad3kJnrfZc2sPIy4B7uSH_k99r33nxvEf93TgeHwJ1M"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "omni-tool": {
     "name": "Omni-Tool",
     "description": "Mass Effect universe.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "omni-tool",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1EsWJv2TqGjI1RdGcvgmfdfBnXNQqMWzdCpxC2MdY7Jk"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "oven": {
     "name": "Oven",
     "description": "Cooking accessories, items, and culinary enhancements.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "oven",
         "sourceUrl": "https://docs.google.com/document/d/1xacp7JjaSnDw3e_gfxVmtZxqL7ASxKT6oW_AsYXOgEY"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "pipboy": {
     "name": "Pip-Boy",
     "description": "Fallout universe.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "pipboy",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1ntRDAZCQHAgK3wFciQdPosawATpbvGXArD580IE6RdY"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "primordial_flames": {
     "name": "Primordial Flames",
     "description": "The Celestial Forge, Deindustrialized.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "primordial_flames",
@@ -309,34 +341,34 @@
         "altSourceUrl": "https://docs.google.com/spreadsheets/d/1y-iuCv92jwNt2dh_aWK8luJ9fSyAYASxs58BfPM6t7E",
         "altSourceLabel": "sheet version by Celestial Dragon"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "reliquary": {
     "name": "Reliquary",
     "description": "Artifacts, relics, and legendary items.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "reliquary",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1sj0ZhEOg0EoRSm0OOWF9mrWF-71PRyMlUo6JfRbAsPM"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "ring": {
     "name": "Ring",
     "description": "Lord of the Rings universe.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "ring",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/17NvGhYlHhOx2x8Np305rH3X5hJOSa-FThDYczpDzTQs"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "scrolls": {
     "name": "Scrolls",
     "description": "Perks, items, companions, and powers from the Elder Scrolls universe.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "scrolls",
@@ -350,23 +382,23 @@
         "fileKey": "scrolls_v3",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1nB6ZEoVgUFQJEW4To1UQGr3q1G5WaFm-aUX7Ob5YeL0"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "secundus": {
     "name": "Secundus",
     "description": "Warhammer 40k universe.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "secundus",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1ZKdvihOL4rYl38r593jBS7tq_I6iLYoRwaNFDn3eXuY"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "something": {
     "name": "Something",
     "description": "Minecraft, Factorio, RimWorld, and other games.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "something",
@@ -380,23 +412,23 @@
         "fileKey": "something_v3",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1qWY9o7B9mGmD7HcGdDiFioARY1Jm4_pq2OyTyHa86kk"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "song": {
     "name": "Song",
     "description": "Dragonlords, Sorcery, Relics, and Rule.",
-    "defaultVersion": "v2",
     "editions": {
       "v2": {
         "fileKey": "song_v2",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1eUw87Qgk5PRgDcYaOLg7OcYVc8mhFjRPv1I2wstW6SU"
       }
-    }
+    },
+    "defaultVersion": "v2"
   },
   "spellbook": {
     "name": "Spellbook",
     "description": "Spells, scrolls, and magical knowledge (Harry Potter and Fantastic Beasts).",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "spellbook",
@@ -406,116 +438,84 @@
         "fileKey": "spellbook_v2",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/15dtLXBZCAoVZtRdkDmGh6udZlU8jXMdIordUkvKO3Tg"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "tarot": {
     "name": "Tarot",
     "description": "Dragon Age series.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "tarot",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1kkN-q8ZTXmccwCMVGZBlbUSt4iuwR25h5qF3_51XNrQ"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
-  "the_celestial_mantle_halo": {
-    "name": "The Celestial Mantle (Halo)",
-    "description": "Halo-themed gacha with UNSC technology, weapons, armor, AIs, and SPARTAN-related abilities.",
-    "defaultVersion": "default",
+  "the_celestial_mantle": {
+    "name": "The Celestial Mantle",
+    "description": "Allies, armour, skillset, weapons, and more from Halo universe",
     "editions": {
       "default": {
-        "fileKey": "the_celestial_mantle_halo",
+        "fileKey": "the_celestial_mantle",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1_duneJDzxo1_cTfrx1N585B4maCxmNT-gSKIIB8aUKc"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "the_godly_epic_meros_proto_xxxl": {
     "name": "The Godly Epic Méros Próto XXXL",
     "description": "A collection of perks, items, and powers from various sources.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "the_godly_epic_meros_proto_xxxl",
         "sourceUrl": "https://drive.google.com/file/d/1GGkxdmLii8CSdgEohmyIxvsYsnkpxFqg"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "treasure_chest": {
     "name": "Treasure Chest",
     "description": "Treasure, Loot, and Rewards.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "treasure_chest",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/15EeEh-HV5ZwEzRGyFTfM9fgOrebwW2HSohNWLUA0Z2U"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "vault": {
     "name": "Vault",
     "description": "Sci-Fi version of the Celestial Reliquary.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "vault",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1wuJRHeysHc8JbCJAX-P422P1_JHJcrNTSwd-wc-jCP0"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "waifu": {
     "name": "Waifu",
     "description": "Waifu companions and romance content (R18+).",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "waifu",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/16QeMKFwWZy4dSNC1o24DgtliqPmu2tB79mPBiyZFsWw"
       }
-    }
+    },
+    "defaultVersion": "default"
   },
   "warp_core": {
     "name": "Warp Core",
     "description": "Star Trek universe.",
-    "defaultVersion": "default",
     "editions": {
       "default": {
         "fileKey": "warp_core",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1hRC8nBlG0Ur8p3V4kOyN24XwjOFoPX5Lia3yM7Z0wPw"
       }
-    }
-  },
-  "celestial_handbook_v2": {
-    "name": "Celestial Handbook v2",
-    "description": "Become a monster hunter: equipment, powers, talents, and weapons",
-    "defaultVersion": "default",
-    "editions": {
-      "default": {
-        "fileKey": "celestial_handbook_v2",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/18yRQeGqL18-EdBe2ME_hC4a50oU8O53tUw2MdF8M8EY"
-      }
-    }
-  },
-  "celestial_chalkboard": {
-    "name": "Celestial Chalkboard",
-    "description": "Magic, tools, knowledge, and skills from different fictional worlds",
-    "defaultVersion": "default",
-    "editions": {
-      "default": {
-        "fileKey": "celestial_chalkboard",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/10gsJpnaiaafKdl0FYTgjTqcRmLmdRpvSaP_st5Vt5ZI"
-      }
-    }
-  },
-  "celestial_crystal": {
-    "name": "Celestial Crystal",
-    "description": "Psychic powers, sanctuary, and tools",
-    "defaultVersion": "default",
-    "editions": {
-      "default": {
-        "fileKey": "celestial_crystal",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/1RoQPfW7VPsjll0u6g5SUx12cIu1ZaIdXISWKW8fuJ7s"
-      }
-    }
+    },
+    "defaultVersion": "default"
   }
 }
