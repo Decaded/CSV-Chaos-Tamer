@@ -16,7 +16,7 @@ const DEFAULT_KEYWORD_FILTER_PATH = path.join(__dirname, 'src', 'config', 'keywo
 const DEFAULT_PUBLIC_ROOT = path.join(__dirname, 'public');
 const DEFAULT_LOCK_PATH = path.join(__dirname, '.nya-build.lock');
 
-const PORT = Number(process.env.CSV_TAMER_PORT || 3000);
+const PORT = Number(process.env.CSV_TAMER_PORT || 3200);
 const HOST = process.env.CSV_TAMER_HOST || '127.0.0.1';
 const MAX_BODY_BYTES = Number(process.env.CSV_TAMER_MAX_BODY || 64 * 1024 * 1024);
 
