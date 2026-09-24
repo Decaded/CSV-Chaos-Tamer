@@ -94,12 +94,12 @@ function buildSourceMetadata(files, items, fileEditions) {
 			id: sourceId,
 			displayName,
 			description: `Perks from ${displayName}.`,
-			isR18: false,
+			isMature: false,
 			defaultVersion,
 			editions: [],
 		};
 		if (!existing) sourcesById.set(sourceId, source);
-		if (source.isR18 === false && fileItems.some(item => item.perk.isAdult)) source.isR18 = true;
+		if (source.isMature === false && fileItems.some(item => item.perk.isAdult)) source.isMature = true;
 		if (!source.editions.some(edition => edition.version === version)) {
 			source.editions.push({ fileKey, version });
 		}

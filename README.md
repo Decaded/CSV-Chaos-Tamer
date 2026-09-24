@@ -118,7 +118,7 @@ For people who prefer clicking over editing files by hand. It runs the **same pi
   datasets.
 - **Source metadata** — edit `source-metadata.config.json` in a single table (name, description, and per-edition source URL + alt URL/label), with filtering. The **Add source**
   button collects the required metadata and then unlocks file uploads — everything lands in one folder named after the slugified source ID.
-- **Keyword filter** — edit `src/config/keyword-filter.json` as a plain list; the R18 auto-marking reads it on every build.
+- **Keyword filter** — edit `src/config/keyword-filter.json` as a plain list; the mature auto-marking reads it on every build.
 - **Dataset version** — edit the version string in `src/config/dataset.json` (or set it on the Build tab) so build reports carry the current dataset version.
 - **Datasets** — read-only inspection of the generated databases, with search. Datasets are served as-is, so there is no editor.
 

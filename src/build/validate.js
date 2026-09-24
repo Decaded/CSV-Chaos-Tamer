@@ -9,7 +9,7 @@ function validateBackendGeneratorFiles({ files, sourceMetadata }) {
 	const ids = new Set();
 
 	for (const source of sourceMetadata.sources) {
-		if (!MACHINE_ID_RE.test(source.id) || !source.displayName || !source.description || typeof source.isR18 !== 'boolean' || typeof source.defaultVersion !== 'string') {
+		if (!MACHINE_ID_RE.test(source.id) || !source.displayName || !source.description || typeof source.isMature !== 'boolean' || typeof source.defaultVersion !== 'string') {
 			errors.push(`Invalid source metadata for ${source.id}`);
 		}
 		for (const forbidden of ['sourceUrl', 'altSourceUrl', 'altSourceLabel']) {

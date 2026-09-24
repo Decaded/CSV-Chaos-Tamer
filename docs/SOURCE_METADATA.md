@@ -21,7 +21,7 @@ physical file.
 		"id": "grimoire",
 		"displayName": "Grimoire",
 		"description": "Magical abilities and powers.",
-		"isR18": false,
+		"isMature": false,
 		"defaultVersion": "default",
 		"editions": [
 			{
@@ -124,7 +124,7 @@ This file must be updated manually before running the generator. It is a hard ga
 - a generated edition is not declared in the entry's `editions` map.
 
 `name` is **optional**: the source's public-facing display name, e.g. "Complete Companion". When present it overrides the `displayName` derived from the logical source ID, so it
-also applies to the Generator source picker and the R18 auto-marking keyword match. When omitted, the panel shows a placeholder derived from the ID and the build keeps the derived
+also applies to the Generator source picker and the mature auto-marking keyword match. When omitted, the panel shows a placeholder derived from the ID and the build keeps the derived
 display name.
 
 Manual `description` replaces the auto-generated placeholder description in the final `generatorSources.json` output. Edition links are applied as follows:

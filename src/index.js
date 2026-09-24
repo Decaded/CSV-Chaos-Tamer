@@ -7,7 +7,7 @@ const { loadDatasetConfig } = require('./config/dataset');
 
 const { deriveSourceEdition, deriveSplitEdition, normalizeCost } = require('./helpers');
 const { normalizeHeader, extractChapterFromFilename, parseCsv } = require('./parsers/parse-csv');
-const { updateSourceR18Flags } = require('./registry/keywords');
+const { updateSourceMatureFlags } = require('./registry/keywords');
 const { ID_REGISTRY_PATH, loadRegistry, assignPerkIds, retireMissingRegistryKeys } = require('./registry/perk-registry');
 const { prepareItems, buildPerkDatabases, disambiguateLogicalKeys } = require('./build/prepare-items');
 const { buildBackendGeneratorFiles, buildFileEditions, buildSourceMetadata } = require('./build/generator-files');
@@ -143,7 +143,7 @@ async function buildDatabase(options = {}) {
 	const output = buildBackendGeneratorFiles(prepared.items, sourceGroups);
 	const grouped = buildPerkDatabases(prepared.items);
 	applySourceMetadataOverrides(output.sourceMetadata.sources, manualSourceMetadata);
-	updateSourceR18Flags(output.sourceMetadata.sources);
+	updateSourceMatureFlags(output.sourceMetadata.sources);
 	const validationErrors = [...validateBackendGeneratorFiles(output), ...validateSourceMetadataConfig(output.sourceMetadata.sources, manualSourceMetadata)];
 	const report = reportPreparedData({
 		dataset: loadDatasetConfig(datasetConfigPath),
@@ -209,5 +209,5 @@ module.exports = {
 	deriveSourceEditionsConfig,
 	validateSourceMetadataConfig,
 	applySourceMetadataOverrides,
-	updateSourceR18Flags,
+	updateSourceMatureFlags,
 };

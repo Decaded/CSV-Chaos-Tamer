@@ -3,7 +3,7 @@
     "id": "akashic_grimoire_rift_mod",
     "displayName": "Akashic Grimoire Rift Mod",
     "description": "Collection of perks, items, and companions pulled from Nasuverse jumpchains.",
-    "isR18": true,
+    "isMature": true,
     "defaultVersion": "default",
     "editions": [
       {
@@ -17,7 +17,7 @@
     "id": "bordello",
     "displayName": "Bordello",
     "description": "Companions, relationships, and romance (R18+).",
-    "isR18": true,
+    "isMature": true,
     "defaultVersion": "default",
     "editions": [
       {
@@ -31,7 +31,7 @@
     "id": "celestial_chalkboard",
     "displayName": "Celestial Chalkboard",
     "description": "Magic, tools, knowledge, and skills from different fictional worlds",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -45,7 +45,7 @@
     "id": "celestial_crystal",
     "displayName": "Celestial Crystal",
     "description": "Psychic powers, sanctuary, and tools",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -59,7 +59,7 @@
     "id": "celestial_handbook_v2",
     "displayName": "Celestial Handbook v2",
     "description": "Become a monster hunter: equipment, powers, talents, and weapons",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -73,7 +73,7 @@
     "id": "celestrial_workshop",
     "displayName": "Celestrial Workshop",
     "description": "Knowledge, upgrades, tools, combat, resources and more.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -87,7 +87,7 @@
     "id": "codex_40k_edition",
     "displayName": "Codex Celestial - 40k Edition",
     "description": "Warhammer 40k universe.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -101,7 +101,7 @@
     "id": "codex_fantasy_edition",
     "displayName": "Codex Celestial - Fantasy Edition",
     "description": "Warhammer Fantasy universe.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -115,7 +115,7 @@
     "id": "comic_book",
     "displayName": "Comic Book",
     "description": "Aliens, hero, mad scientist, villains and more.",
-    "isR18": true,
+    "isMature": true,
     "defaultVersion": "default",
     "editions": [
       {
@@ -129,7 +129,7 @@
     "id": "companion",
     "displayName": "Companion",
     "description": "Recruit, coordinate, and empower companions.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -145,7 +145,7 @@
     "id": "companion_lewd",
     "displayName": "Companion Lewd",
     "description": "Companion-focused content with explicit, adult-oriented themes (R18+).",
-    "isR18": true,
+    "isMature": true,
     "defaultVersion": "default",
     "editions": [
       {
@@ -161,7 +161,7 @@
     "id": "compendium",
     "displayName": "Compendium",
     "description": "Mixed-genre perks, items, and powers.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -175,7 +175,7 @@
     "id": "darkest_tome",
     "displayName": "Darkest Tome",
     "description": "Dark magic, summoning, and Eldritch perks.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -191,7 +191,7 @@
     "id": "debauchery",
     "displayName": "Debauchery",
     "description": "Seduction, debauchery, and power (R18+). Also Waifus!",
-    "isR18": true,
+    "isMature": true,
     "defaultVersion": "default",
     "editions": [
       {
@@ -205,7 +205,7 @@
     "id": "dojo",
     "displayName": "Dojo",
     "description": "Martial arts, combat techniques, and training methods.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -219,7 +219,7 @@
     "id": "eldritch_grimoire",
     "displayName": "Eldritch Grimoire",
     "description": "Blessings, lairs, relics, and summons.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -233,7 +233,7 @@
     "id": "fighter",
     "displayName": "Fighter",
     "description": "A Celestial Dojo Alternative.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -247,7 +247,7 @@
     "id": "forge",
     "displayName": "Forge",
     "description": "Crafting, engineering, and technological advancements.",
-    "isR18": true,
+    "isMature": true,
     "defaultVersion": "default",
     "editions": [
       {
@@ -261,7 +261,7 @@
     "id": "gardens",
     "displayName": "Gardens",
     "description": "Flora and farmland.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -275,7 +275,7 @@
     "id": "grimoire",
     "displayName": "Grimoire",
     "description": "Magical abilities and powers.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -309,7 +309,7 @@
     "id": "heros_journey",
     "displayName": "Hero's Journey",
     "description": "Perks, powers, and tools for becoming a hero.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -325,7 +325,7 @@
     "id": "holocron",
     "displayName": "Holocron",
     "description": "Star Wars perks, items, and powers.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -339,7 +339,7 @@
     "id": "laboratory",
     "displayName": "Laboratory",
     "description": "Knowledge, tools, minions, assistants, weapons, and powers.",
-    "isR18": true,
+    "isMature": true,
     "defaultVersion": "default",
     "editions": [
       {
@@ -353,7 +353,7 @@
     "id": "mutation",
     "displayName": "Mutation",
     "description": "Mutations, transformations, and biological enhancements (modified).",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -367,7 +367,7 @@
     "id": "ocarina",
     "displayName": "Ocarina",
     "description": "Legend of Zelda universe.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -381,7 +381,7 @@
     "id": "omni-tool",
     "displayName": "Omni-Tool",
     "description": "Mass Effect universe.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -395,7 +395,7 @@
     "id": "oven",
     "displayName": "Oven",
     "description": "Cooking accessories, items, and culinary enhancements.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -409,7 +409,7 @@
     "id": "pipboy",
     "displayName": "Pip-Boy",
     "description": "Fallout universe.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -423,7 +423,7 @@
     "id": "primordial_flames",
     "displayName": "Primordial Flames",
     "description": "The Celestial Forge, Deindustrialized.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -439,7 +439,7 @@
     "id": "reliquary",
     "displayName": "Reliquary",
     "description": "Artifacts, relics, and legendary items.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -453,7 +453,7 @@
     "id": "ring",
     "displayName": "Ring",
     "description": "Lord of the Rings universe.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -467,7 +467,7 @@
     "id": "scrolls",
     "displayName": "Scrolls",
     "description": "Perks, items, companions, and powers from the Elder Scrolls universe.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -491,7 +491,7 @@
     "id": "secundus",
     "displayName": "Secundus",
     "description": "Warhammer 40k universe.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -505,7 +505,7 @@
     "id": "something",
     "displayName": "Something",
     "description": "Minecraft, Factorio, RimWorld, and other games.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -529,7 +529,7 @@
     "id": "song",
     "displayName": "Song",
     "description": "Dragonlords, Sorcery, Relics, and Rule.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "v2",
     "editions": [
       {
@@ -543,7 +543,7 @@
     "id": "spellbook",
     "displayName": "Spellbook",
     "description": "Spells, scrolls, and magical knowledge (Harry Potter and Fantastic Beasts).",
-    "isR18": true,
+    "isMature": true,
     "defaultVersion": "default",
     "editions": [
       {
@@ -562,7 +562,7 @@
     "id": "tarot",
     "displayName": "Tarot",
     "description": "Dragon Age series.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -576,7 +576,7 @@
     "id": "the_celestial_mantle",
     "displayName": "The Celestial Mantle",
     "description": "Allies, armour, skillset, weapons, and more from Halo universe",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -590,7 +590,7 @@
     "id": "the_godly_epic_meros_proto_xxxl",
     "displayName": "The Godly Epic Méros Próto XXXL",
     "description": "A collection of perks, items, and powers from various sources.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -604,7 +604,7 @@
     "id": "treasure_chest",
     "displayName": "Treasure Chest",
     "description": "Treasure, Loot, and Rewards.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -618,7 +618,7 @@
     "id": "vault",
     "displayName": "Vault",
     "description": "Sci-Fi version of the Celestial Reliquary.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {
@@ -632,7 +632,7 @@
     "id": "waifu",
     "displayName": "Waifu",
     "description": "Waifu companions and romance content (R18+).",
-    "isR18": true,
+    "isMature": true,
     "defaultVersion": "default",
     "editions": [
       {
@@ -646,7 +646,7 @@
     "id": "warp_core",
     "displayName": "Warp Core",
     "description": "Star Trek universe.",
-    "isR18": false,
+    "isMature": false,
     "defaultVersion": "default",
     "editions": [
       {

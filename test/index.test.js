@@ -298,7 +298,7 @@ test('buildSourceMetadata groups a standalone versioned edition under its base s
 			id: 'song',
 			displayName: 'Song',
 			description: 'Perks from Song.',
-			isR18: false,
+			isMature: false,
 			defaultVersion: 'v2',
 			editions: [{ fileKey: 'song_v2', version: 'v2' }],
 		},

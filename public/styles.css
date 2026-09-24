@@ -179,7 +179,7 @@ h2 {
 	line-height: 1.4;
 }
 
-.r18-note {
+.mature-note {
 	padding: 10px 12px;
 	margin-bottom: 12px;
 	border: 1px solid color-mix(in srgb, var(--warning) 55%, var(--border));
@@ -190,7 +190,7 @@ h2 {
 	line-height: 1.5;
 }
 
-.r18-note strong {
+.mature-note strong {
 	color: var(--warning);
 }
 
