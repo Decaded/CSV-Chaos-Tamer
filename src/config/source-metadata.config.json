@@ -376,7 +376,7 @@
       },
       "v1": {
         "fileKey": "scrolls_v1",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/1nB6ZEoVgUFQJEW4To1UQGr3q1G5WaFm-aUX7Ob5YeL0"
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1m_SDaUBWBedXICK7akqP0a5v2IcVCbOUezJbxxBcBJs"
       },
       "v3": {
         "fileKey": "scrolls_v3",
@@ -517,5 +517,16 @@
       }
     },
     "defaultVersion": "default"
+  },
+  "celestial_cauldron": {
+    "name": "Celestial Cauldron",
+    "description": "Tools, knowledge, and recipies for brewing magical potions",
+    "defaultVersion": "default",
+    "editions": {
+      "default": {
+        "fileKey": "celestial_cauldron",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1Y4Husb2cntLzdoxgnWFN07fOiP3Xl8v6GFnQhePAElA"
+      }
+    }
   }
 }

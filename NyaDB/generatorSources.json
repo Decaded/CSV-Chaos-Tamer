@@ -478,7 +478,7 @@
       {
         "fileKey": "scrolls_v1",
         "version": "v1",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/1nB6ZEoVgUFQJEW4To1UQGr3q1G5WaFm-aUX7Ob5YeL0"
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1m_SDaUBWBedXICK7akqP0a5v2IcVCbOUezJbxxBcBJs"
       },
       {
         "fileKey": "scrolls_v3",
@@ -653,6 +653,20 @@
         "fileKey": "warp_core",
         "version": "default",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1hRC8nBlG0Ur8p3V4kOyN24XwjOFoPX5Lia3yM7Z0wPw"
+      }
+    ]
+  },
+  "celestial_cauldron": {
+    "id": "celestial_cauldron",
+    "displayName": "Celestial Cauldron",
+    "description": "Tools, knowledge, and recipies for brewing magical potions",
+    "isMature": true,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "celestial_cauldron",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1Y4Husb2cntLzdoxgnWFN07fOiP3Xl8v6GFnQhePAElA"
       }
     ]
   }
