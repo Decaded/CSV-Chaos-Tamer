@@ -659,7 +659,7 @@
   "celestial_cauldron": {
     "id": "celestial_cauldron",
     "displayName": "Celestial Cauldron",
-    "description": "Tools, knowledge, and recipies for brewing magical potions",
+    "description": "Tools, knowledge, and recipes for brewing magical potions",
     "isMature": true,
     "defaultVersion": "default",
     "editions": [
