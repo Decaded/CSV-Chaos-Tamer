@@ -1,0 +1,912 @@
+{
+  "fa33aa20-7379-53a8-a6b6-e0fb6c7ded9d": {
+    "id": "fa33aa20-7379-53a8-a6b6-e0fb6c7ded9d",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Engine-sister",
+    "cost": 100,
+    "description": "Voluminous red robes cannot hide the curves beneath to this woman's eternal embarrassment. Friendly and perky in conversation to both man and machine, she is torn between her desire to be closer to the machine and her attachment to humanity. The possibly of a harmonious union between the two has inspired her to follow you.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "a0d7fb1e-6959-5320-961e-2992721f2b76": {
+    "id": "a0d7fb1e-6959-5320-961e-2992721f2b76",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Festus, Master of the Forge",
+    "cost": 100,
+    "description": "Guildmaster, inventor and a bit of a mad scientist, renowned among all craftsmen. Creator of the phoenix bolt, artificer helm and his personal weapon, the Arc-gun. An electric weapon that can chain-hit through many nearby targets.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "d0ea12b3-ac08-51ab-a294-7c624e99a4e9": {
+    "id": "d0ea12b3-ac08-51ab-a294-7c624e99a4e9",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Firebrand Enginseer",
+    "cost": 100,
+    "description": "A vocal voice for equality among all members of the Cult Mechanicum, they preach the virtues of an equal and levelled society where all can bask in the knowledge and learning of the ancients.",
+    "origin": "Mechanicum: Cults of Technology Jumpchain"
+  },
+  "eadad0df-2e36-53ff-ad5b-08b9f9705963": {
+    "id": "eadad0df-2e36-53ff-ad5b-08b9f9705963",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Linus the Lay Brother",
+    "cost": 100,
+    "description": "Linus is a member of the Cult Mechanicus, but is not ordained as a full priest. As a Lay Brother, his role is to serve with tasks that are to theological for those outside the cult, but which do not require the services of a full priest of the machine god, and well as serving as an assistant to a priest of the Machine God. Despite never attending seminary, he is of a calm and deeply methodical bent, often quoting passages of scripture both of the Mechanicus and the Imperial Creed, about which he also seems to be exceptionally well read. He also carries an old cloth about at all times, which he claims is a sacred relic, and speaks of the coming of the Cucurbita Maxima.",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "8b58c74c-4321-5f4a-a468-d79c6abc1098": {
+    "id": "8b58c74c-4321-5f4a-a468-d79c6abc1098",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Magos Dominus",
+    "cost": 100,
+    "description": "The Magos Dominus are the senior tech priests who command the Adeptus Mechanicus military operations and are in charge of military advancements. By taking this option, you may recruit or design a companion worthy of this designation. An example of this would be Magos Dominus Kailie. She was in charge of analysing the Republic’s fighting strength and identifying any major threats. Additionally, she was more than capable of dispatching her opponents personally. Her body was forged into a feminine shape that was built to cause death by channeling the might of the Omnissiah. Literally every inch of her body was built with efficiency and perfection on a mono-molecular level. Finally she was assisted by a small army of servo skulls. Together they were capable of fighting an entire clone force. You may recruit Kailie herself or design a similar companion. Their loyalty will be towards you immense, even surpassing their belief in the Omnissiah. If you are truly opposed to a Magos Dominus then you may choose a different class of Magos as well.",
+    "origin": "Star Wars vs Warhammer 40K Jumpchain V1.2"
+  },
+  "42db2602-7e03-55be-a773-72564cc354e4": {
+    "id": "42db2602-7e03-55be-a773-72564cc354e4",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Magos Miscellaneous",
+    "cost": 100,
+    "description": "This man's(?) flesh is hidden beneath extensive augmentation. He has been with the Mechanicus for centuries, and his interests are many. Less puritanical than most, the possibility of extending the quest for knowledge to dimensions unknown to the Cult appeals to him.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "3f85b3f2-9792-55a4-af6a-752f1fd4bf6a": {
+    "id": "3f85b3f2-9792-55a4-af6a-752f1fd4bf6a",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Magos Psychologis",
+    "cost": 100,
+    "description": "A recently-promoted Magos who engages in the study of the mind, they have always had a fascination with machines—the more complex, the better. But when they realized that not all machines are made of gears and cogs, their perception of the world expanded, and they knew that the Omnissiah wanted them to study the most complex machine of all; humanity itself. But they had no interest in the viscera of the flesh, so has engaged in extensive study of the mind, recording data from both augmented and un-augmented humans, keeping track of what changes in Skitarii as brain tissue is replaced with cybernetics, and examining emotional responses, particularly of those who are supposed to be “free” of such influences in the first place. They have a particular interest in the mental functioning of those who have neurological modifications or who are otherwise artificially enhanced— or artificially reduced—compared to baseline humanity.",
+    "origin": "Warhammer 40,000 - Mechanicus"
+  },
+  "8e266b60-ebcb-5690-918b-3c4e41523e15": {
+    "id": "8e266b60-ebcb-5690-918b-3c4e41523e15",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Rosie the Riveter",
+    "cost": 200,
+    "description": "Rosie was drafted from her work in a Voidship construction and repair yard. She has a tendency to wear a somewhat bulky void suit that don't entirely hide her curves, and keeps her hair short so it doesn't get caught in things or cause inconvenience when wearing a vac suit. While not a member of the Cult Mechanicus, she is instructed in the basics of secular repair techniques, and has a good feel for finding her way through the often maze-like interior of Imperial ships. She has a void suit and set of tools, as well as a rivet gun that has been converted into a rough and unwieldy but effective autopistol. If you are an Enlisted Crewmember, she's in your same duty detail",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "6cdc526b-5ace-5eae-a44d-8b7165ae4efe": {
+    "id": "6cdc526b-5ace-5eae-a44d-8b7165ae4efe",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Scyllax Guardian",
+    "cost": 100,
+    "description": "The scyllax guardian is a powerful machine used by the Adeptus Mechanicus. They are deployed as elite shock troops or bodyguards for high-ranking Mechanicus. These automata possess serpentine bodies, allowing them to traverse areas that are normally impossible for other automata to reach. They possess heavy carapaces on par with Space Marine armour, and they wield a variety of heavy weapons. This guardian will be programmed to only obey you and can not be hacked by anyone.",
+    "origin": "Star Wars vs Warhammer 40K Jumpchain V1.2"
+  },
+  "7fb3d6e2-7cc3-5150-9582-64ca6df1b0eb": {
+    "id": "7fb3d6e2-7cc3-5150-9582-64ca6df1b0eb",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Skitarii bodyguard",
+    "cost": 100,
+    "description": "You are his assigned commander, and indoctrination renders all other concerns irrelevant. He is almost a blank slate, knowing only obedience to authorized data-canticles and the thrill of victory.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "a7dde713-e55a-5ebe-98a6-7eb534a0a637": {
+    "id": "a7dde713-e55a-5ebe-98a6-7eb534a0a637",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "Skitarii Praetorian",
+    "cost": 100,
+    "description": "An elite, heavily-modified Skitarii warrior, they have been augmented to the point that they’re fully as large as a Space Marine, and with the combat drugs rushing through their system they might just beat one, too... or they would, if they weren’t so bad at acting outside of orders. Still, they’re damn near impossible to put down for good; if they ever do take serious injuries, then they’ll automatically be upgraded into a Sicarian Ruststalker, and become even more viciously dangerous. Still won’t be all that smart, however.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "fa943c24-6def-5ea2-9b8a-a794657d7657": {
+    "id": "fa943c24-6def-5ea2-9b8a-a794657d7657",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Expedition",
+    "name": "The Biological Machine",
+    "cost": 100,
+    "description": "Where the Magos Psychologis has no interest in the body, this Enginseer is actively trying to earn their promotion to Magos Biologis so that they can freely research the flesh. Everything that exists is made up of orderly systems. A machine is simply a physical system that uses power to apply forces. By this definition, the human body is simply another machine, simply a squishier one. They’ve intentionally taken the least invasive cybernetics they could find, and went out of their way to make aesthetic changes so that to a layperson, they might not appear to be in the Machine Cult at all. They want their body to be as “normal” as possible... mostly so they can study the “abnormal” in comparison. They want to study organs, implantations, and non-cybernetic, non-genetic methods of altering the body. The power of the Adeptus Astartes is all the proof that is needed that the flesh can hold as much power as technology, they just need to find a way to apply it.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "a589c7d6-7e6c-57db-a176-1e428864c7d9": {
+    "id": "a589c7d6-7e6c-57db-a176-1e428864c7d9",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Advanced Crafting Materials",
+    "cost": 200,
+    "description": "Here you have both a large warehouse full of high-grade Ceramite and Plasteel, alongside the written forms used to gain Adamantium as needed on a per-case basis. These materials are excellent for most projects and can be used in a variety of cases, with blanks coming in all types of shapes. These are not the only materials you can acquire, as you have also gained a refilling stack of bureaucratic forms which you can use to request different materials as needed.",
+    "origin": "Mechanicum: Cults of Technology Jumpchain"
+  },
+  "f28e1073-cbf5-5b8a-8a93-1e298bc1e71c": {
+    "id": "f28e1073-cbf5-5b8a-8a93-1e298bc1e71c",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Artisanal Machinery",
+    "cost": 100,
+    "description": "You have here a set of lathes, printers, forges and bores perfect for an aspiring artisan. Made of good quality materials and put together with the care of a patient master, these tools are well used yet still have a long life in front of them. If used with care, skill and the knowledge of a seasoned artisan, they can make some very high-quality crafts and artifice.",
+    "origin": "Mechanicum: Cults of Technology Jumpchain"
+  },
+  "10ae1868-4644-576c-a461-3112f6a3e3b3": {
+    "id": "10ae1868-4644-576c-a461-3112f6a3e3b3",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Dry-dock",
+    "cost": 600,
+    "description": "While ships of the Imperium are incredibly robust, and many repairs can be made while floating in space, there are still many repairs that require the ship to be docked. This setup allows up to 4 vehicles of up to Warhammer 40k Cruiser size (but not Battlecruisers or Grand Cruisers) to dock and be repaired, or even, over time, built from scratch. This can be integrated into a vehicle at least 6.5 kilometres in length or to a space station, or can serve as a warehouse attachment, or can float free in space. You will have to provide the crew and their living spaces yourself, as well as the materials and ship components. For those looking to get into shipbuilding, the Cobra-class and Iconoclast class Destroyers, Claymore-class Corvette, and Lunar class Cruiser are known for being relatively simple and easy to build for their size and class, even with minimal resources and little trained labor. It’s also true that the difficulty of construction scales faster than size",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "46efd677-cf40-5dc9-8445-89e26d265fc0": {
+    "id": "46efd677-cf40-5dc9-8445-89e26d265fc0",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Exotic Meta-materials",
+    "cost": 300,
+    "description": "There exists a great variety of materials in this universe which defy the natural laws known to Mankind. Metals and stone that repel the warp, like the Phase-Iron made by humanity, are some of the most well known ones, alongside the psycho-plastic of Wraithbone and living metal of Necrodermis. You have found a vast cache of one of these near-magical resources, enough to gird a Titan, and can use it to your heart's content.",
+    "origin": "Mechanicum: Cults of Technology Jumpchain"
+  },
+  "2f82f9e0-1834-545e-88c6-17f2111a65e9": {
+    "id": "2f82f9e0-1834-545e-88c6-17f2111a65e9",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Industrial Manual",
+    "cost": 0,
+    "description": "A book holding knowledge of how to set up a small Manofactorum and outfit it with simple machinery to produce decent-quality artisanal work, such as las-weapons, flak armour or small artillery pieces. A useful tool for any inexperienced member of the Mechanicum, it holds advice for a variety of circumstances, such as lack of supply and material, along with how to solve them and maintain production of finished goods.",
+    "origin": "Mechanicum: Cults of Technology Jumpchain"
+  },
+  "8606b2d2-8cc7-5820-8b03-bd66d05ba9f6": {
+    "id": "8606b2d2-8cc7-5820-8b03-bd66d05ba9f6",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Juvenant Drugs",
+    "cost": 300,
+    "description": "You possess the bio-formula and equipment needed to provide rejuvenant treatments, which are capable of reducing a human's effective age. You can still produce and administer the treatments without a full understanding of biological sciences, but this will severely reduce their effectiveness in the long term and likely introduce complications. A magos with the appropriate skills can apply these treatments to best effect, extending the life of a normal, un-augmented human to almost five centuries of age before conventional methods begin to fail.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "0ca75a9a-a08a-5213-b9f7-69283b3957ef": {
+    "id": "0ca75a9a-a08a-5213-b9f7-69283b3957ef",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Mechancius Outpost Jump-Kappa",
+    "cost": 400,
+    "description": "An airlock connects your warehouse to a Mechanicus outpost orbiting a storm-wracked world and illuminated by a turbulent star. The handful of tech-priests and their servitor workforce are at your service, happy to study or reverse-engineer anything you bring them. The outpost is not equipped for mass-production or the construction of anything as large or complex as a titan, but the adepts can still forge a wide variety of STC designs. They'll work at a slow but steady pace unless you can provide them with extra materials, and they can make use of other warehouse attachments to produce larger and more varied items.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "fd3c53b0-2c91-5d26-8d4e-15a3987dc868": {
+    "id": "fd3c53b0-2c91-5d26-8d4e-15a3987dc868",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Mining Station",
+    "cost": 200,
+    "description": "This is a large space station built to extract valuable resources from the asteroids and planetary bodies in the system. It is equipped with a wide range of mining equipment, from drills and excavators to advanced processing and refining facilities. The station is staffed by a team of skilled miners, Tech-Adepts, and enginseers who work around the clock to extract and process as much ore as possible. The station is divided into several sections, including living quarters, workshops, storage facilities, and command centres. It is connected to a network of mining drones and automated vehicles that are dispatched to gather resources and bring them back to the station for processing, allowing it to extract valuable ores and minerals from the asteroids more efficiently than other mining outposts in the sector. The station's crew must always be vigilant for potential hazards, such as collisions with asteroids or pirates seeking to plunder its riches, but despite these dangers, the mining station is an essential hub of activity in the system, providing valuable resources for trade and manufacturing throughout the Imperium.",
+    "origin": "Planetary Govenor"
+  },
+  "94702e85-fb2f-5bcc-9694-8a8590693299": {
+    "id": "94702e85-fb2f-5bcc-9694-8a8590693299",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Neo-Plasma Generator",
+    "cost": 400,
+    "description": "A curious reactor that somehow uses zero-point energy to create and contain a warp rift, drawing Empyrean energies from it and converting that to a form of plasma. This is several times greater than the Imperium can manage in generating power. Comes with complete schematics and plans.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "0850d69a-6666-5d7b-9f0b-fd39dfcf39ed": {
+    "id": "0850d69a-6666-5d7b-9f0b-fd39dfcf39ed",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Rare Earths",
+    "cost": 100,
+    "description": "A crate, refilling nightly, of any rare or exotic material that may be found in the Warhammer 40K universe, since the rulebook isn’t terribly clear on just what it is the Squats mine so much of. Can be taken multiple times.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "e8434e36-9b13-5d90-bd3e-7d63a7f26992": {
+    "id": "e8434e36-9b13-5d90-bd3e-7d63a7f26992",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Shrine to the Machine God",
+    "cost": 0,
+    "description": "Plasma candles and sweet incense frame this small shrine. Items blessed by the devout upon the micro-altar feel surer in hand and swifter in use against those things anathema to the Machine God. But should your soul and intentions be profane, blessings will still be granted even as the altar slowly grows dark and rusted, an ugly asymmetry forming in the eight-toothed cog that now frames the Opus Machina...",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "2ea99a45-5e14-52fc-a6b8-4ada89384987": {
+    "id": "2ea99a45-5e14-52fc-a6b8-4ada89384987",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Simple Crafting Materials",
+    "cost": 0,
+    "description": "A cache of various simple materials, going from crude alloys of steel and mundane elements like copper to more complex alloys and composites such as plasteel and low-grade ceramite. Holding enough to craft several large vehicles or a small building, you can resupply the cache at any time you are at a friendly location.",
+    "origin": "Mechanicum: Cults of Technology Jumpchain"
+  },
+  "fd88cade-3343-54d0-aa72-350987abe290": {
+    "id": "fd88cade-3343-54d0-aa72-350987abe290",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "STC Converter",
+    "cost": 300,
+    "description": "This tome-sized cogitator is designed to be fed blueprints for alien or out-of-jump technology and convert them to use STC-standard parts and design principles, well-known for being extremely robust. Perfect translation and equal functionality is not guaranteed, while technology that relies on unique materials or scientific principles not native to the 40k setting will most likely be impossible to recreate. The blueprints that result from successful conversions can be followed by and competent tech-priest. Running blueprints for Magitech or psionic technology through this device without a supreme understanding of 40k metaphysics is an exceedingly bad idea.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "1056e5da-0294-558a-a11f-95f4d322ce09": {
+    "id": "1056e5da-0294-558a-a11f-95f4d322ce09",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "STC Database",
+    "cost": 300,
+    "description": "A trove of information that elder magi would be jealous of, this cogitator core contains almost all of the STC blueprints common known to the Mechanicus that relate to a single field of study. These could be weapons, vehicles, cybernetics, voidship components, chemical or biological processes, or almost anything else. The broader and more advanced the subject of the database, the fewer complete patterns within and the more incomplete fragments that can only be puzzled over. Whilethere may be fragments within other fields that touch upon such, you cannot take a database overing lost or extremely restricted information, such as the most ancient archaeotech, the formative steps of space marine gene-seed or custodes, Grey Knight or temple assassin armaments.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "400dcd15-8b39-509d-8b5d-e8e23dc90bd0": {
+    "id": "400dcd15-8b39-509d-8b5d-e8e23dc90bd0",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Forge",
+    "name": "Upgrade Materials",
+    "cost": 200,
+    "description": "750,000 plasteel and 500,000 Diamanite. This is the ‘currency’ used for upgrading equipment. Whether Hadron actually uses all of this in the upgrade process or if she’s extorting you for services... let’s be honest, it’s probably extortion, but you don’t have a lot of other options. You can find raw materials on Atoma Prime, but that’s during missions.",
+    "origin": "Darktide"
+  },
+  "ca68694e-624a-5daf-9634-63fed8a91ff0": {
+    "id": "ca68694e-624a-5daf-9634-63fed8a91ff0",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Abeyant",
+    "cost": 100,
+    "description": "A throne-like device used as a means of conveyance by high-ranking tech-priests, its levitation suspensor field allows it to hover above the battlefield for a superior perspective. It hooks up to your cybernetic augments, allowing you to direct it as easily as you do your own body.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "03ce4522-3fba-5a10-ac85-f8ec5d0bdfb3": {
+    "id": "03ce4522-3fba-5a10-ac85-f8ec5d0bdfb3",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Ark Mechanicus",
+    "cost": 600,
+    "description": "The Ark Mechanicus is one of the most powerful vessels in the Imperium and the most powerful ship used exclusively by the Adeptus Mechanicus. These ships are on par with some of the largest Imperial ships in sheer size. The most important thing about them is their constructive capabilities and their long forgotten technology. Each of these ships possess technology that the Imperium has long since lost the ability to craft. Even the greatest members of the Mechanicus could spend centuries studying these ships and still would not grasp their technology.",
+    "origin": "Star Wars vs Warhammer 40K Jumpchain V1.2"
+  },
+  "f7c257bc-25bd-5f6d-8743-4dc1d1698c2a": {
+    "id": "f7c257bc-25bd-5f6d-8743-4dc1d1698c2a",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Claymore-class",
+    "cost": 300,
+    "description": "Corvettes are specialist escorts half way between Frigates and Raiders. They are generally slower and more heavily armored than raiders, but smaller and less powerful than full frigates. They are quickly and easily constructed during wartime, with simple components and rugged designs, easily constructed in mobile Mechanicus repair shipyards and civilian shipyards that can't usually build warships. They tend to be unpopular with Navy officers, who value honor and tradition, and resent being ordered to serve on new and untested ships without any battle honors and relegated to convoy escort. That being said, these ships have saved millions of civilian lives in battle against much larger ships, or whole packs of raiders. Claymores have 2 Dorsal Macrobatteries, and hold an acceleration of 4.6 gravities. They are 1.4km long and .3km abeam at the fins. They mass roughly 5.9 megatonnes, and carry a crew of 21,000. Claymores are defended by an array of defensive gatling autocannons.",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "1e6cfee0-5f06-5e68-a353-31161110f6f8": {
+    "id": "1e6cfee0-5f06-5e68-a353-31161110f6f8",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Galvanic Servohauler",
+    "cost": 100,
+    "description": "An ancient device which is a relic of the Dark Age of Technology, these are not actually used directly in combat. Instead, it is a construction and logistical vehicle, notable for its tank treads and the massive grasping claw attached to the top of the vehicle. Even if picking up loads that should be heavy enough to unbalance it, it will remain upright and mobile so long as it is able to pick it up in the first place.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "7c8fcdd3-c57c-525b-b4a6-087a19c12d00": {
+    "id": "7c8fcdd3-c57c-525b-b4a6-087a19c12d00",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Goliath class Factory Ship",
+    "cost": 300,
+    "description": "(250cp discount Enginseer) – Goliaths are great factory ships that devour stellar plasma to power their fuel creation processors. They are fragile and potentially explosive craft, but absolutely vital to the Imperium. Most Goliaths are property of the Adeptus Mechanicus. In addition to 2 humongous cargo holds, they are equipped with a Plasma Refinery which in addition to it's primary purpose produces extra power for the ship as long as it harvests plasma at least once a year, and a Manufactorum. Goliaths are armed with a macrobattery Port, Starboard, and Dorsal, as well as a supply of defensive turrets. They are 4.9km long and .9km abeam at the fins, and mass 16 megatonnes empty. They have a crew complement of roughly 41,000 and can maintain 1.5 gravities of acceleration.",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "63abf9e5-4cf1-5928-927a-9cb471384b99": {
+    "id": "63abf9e5-4cf1-5928-927a-9cb471384b99",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Lathe class Monitor Cruiser",
+    "cost": 300,
+    "description": "The Lathe class was designed for the Explorator fleets of the Mechanicus. Unlike many light cruisers, it focuses on long range detection & endurance rather than speed and maneuverability. Lathes are 4.2 km long and .5km abeam at the fins.They mass almost 21 megatons, and usually carry 35,000 and 25,000 servitors. They can sustain a maximum acceleration of 6 gravities. They have room for 4 anti-voidship weapons, 1 mounted each Prow, Dorsal, Port & Starboard. The Lathes have an array of smaller defensive turrets.",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "d8aec384-00f6-561f-b2b3-7ca13409f0db": {
+    "id": "d8aec384-00f6-561f-b2b3-7ca13409f0db",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Mass Hauler",
+    "cost": 400,
+    "description": "Known only by its alphanumeric designation, you have somehow been assigned one of the innumerable transport vessels employed by the Mechanicus. Slightly under three kilometers in length, these ships are plodding and lightly armed but extremely reliable. The massive internal storage bays are designed to accept a wide variety of both organic and inorganic cargo, and can also be refitted with manufacturing or refining equipment. Ships of this class are so ubiquitous and unassuming that they never receive more than the most cursory attention, unless unsanctioned modifications are visible to void-auspex systems.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "cda5dccb-18b2-5031-bc8a-bb71e97d91e3": {
+    "id": "cda5dccb-18b2-5031-bc8a-bb71e97d91e3",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Monitor-Pattern Exploration Cruiser",
+    "cost": 600,
+    "description": "The bulk of Explorator fleets are made up of expertly-crafted, specially modified cruisers that can spend decades alone in the void without the aid of support vessels. Averaging six kilometers long, this cruiser is similar in design to the Lunar-class, versatile, heavily armed and armored, but equipped with many potent and arcane systems that only the direct support of a forge world can sustain. In the hands of a skilled captain these cruisers are capable of punching above their weight class, a necessity when considering the dangers of the void.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "be44b3f0-5005-5066-8b24-4a2845c34e1e": {
+    "id": "be44b3f0-5005-5066-8b24-4a2845c34e1e",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Serberys Cyberbeast",
+    "cost": 100,
+    "description": "A horse-like animal which has been heavily cybernetically augmented in both mind and body to become a fighting machine, whose hooves have been replaced with metal claws and with combat training to wield their new limbs with fury. As its rider, you will be mag-locked into a gyro-stabilised position to ensure that you remain stabilized as it moves.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "a947d939-541f-529a-aa29-c0ccec7c6949": {
+    "id": "a947d939-541f-529a-aa29-c0ccec7c6949",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "The Vehicles",
+    "name": "Sydonian Ironstrider",
+    "cost": 100,
+    "description": "A type of light, bipedal walker, these vehicles (Sydonian Dragoons) are powered by the Ironstrider Engine, a powerful device that nearly violates the laws of thermodynamics be having an almost perfect energy conversion with virtually nothing lost to heat energy, allowing them to continue functioning nonstop so long as their machinery holds out. They are ridden like cavalry, and have incense exhausts that emit a psychotropic mist that disorients and confounds enemies. The gas hangs low enough to the ground that the rider, mounted on his Ironstrider, is unaffected.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "ab9f6088-d687-56e8-816c-f15091ff28b7": {
+    "id": "ab9f6088-d687-56e8-816c-f15091ff28b7",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Access Denied",
+    "cost": 200,
+    "description": "A major concern that the Mechanicus had was that the Republic would somehow understand their technology if they captured any intact gear. This is a concern that you do not have. Your technology can not be reverse engineered by anyone without your consent. Even if someone has the blueprints and a perfectly intact machine they would not be able to understand anything.",
+    "origin": "Star Wars vs Warhammer 40K Jumpchain V1.2"
+  },
+  "cc5c74ed-253b-5774-a030-e26ddaeec75a": {
+    "id": "cc5c74ed-253b-5774-a030-e26ddaeec75a",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Archaeology",
+    "cost": 100,
+    "description": "All Explorators worth the name know how to run a dig. How to choose a site, how to mark, search and lay out a site, how to carefully sift obstructions and prevent contamination of sensitive environments. Though most of the work is performed by servitors, some tasks are too delicate even for specialized models. Every Explorator can personally perform these tasks with both speed and care, and most prefer to.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "1bc26388-e412-51cf-ba0c-8da40cdc1f11": {
+    "id": "1bc26388-e412-51cf-ba0c-8da40cdc1f11",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Artisan",
+    "cost": 100,
+    "description": "Unlike many in the machine cult who care not for appearances, your equipment and visible bionics are shelled with precious metals and etched with devotional symbols. You have the skills and sense of aestetics needed to add a bit of artistic flair to any object you craft, and you can choose for objects you possess for a prolonged period of time to gain a similar improvement with no effort and without detriment to their functions. Though seen by many in the cult as wasteful or vain this attention to appearance can endear one to those in the higher ranks of Imperial society who value such affectations. You may choose to suppress this perk entirely or only for specific items.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "112e3876-9832-5342-a3e6-1e72c145d02a": {
+    "id": "112e3876-9832-5342-a3e6-1e72c145d02a",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Blessing of the Void Dragon",
+    "cost": 400,
+    "description": "When the Emperor of Mankind defeated the shard of the Void Dragon he imprisoned it on Mars. Over millennia the energy of the Void Dragon seeped into the inhabitants. This exposure is believed to have granted the Mechanicus their incredible affinity for machinery. You seem to have been touched by the Omnissiah and been granted a very fragment of their being. This grants you a number of benefits. First your machines will carry this touch as well, never faltering or falling to the corruption of chaos. Second, the spirits of your machines will hold unbreakable loyalty fighting against your foes in any way they can.Third, you will become extremely skilled when it comes to forging any type of machinery, with a particularly strong affinity for technology from the universe of Warhammer 40K. This includes a mental set of blueprints belonging to any machine ever forged by humanity’s touch. Fourth, this fragment will be capable of growing over time allowing your affinity to increase infinitely only being limited by time.",
+    "origin": "Star Wars vs Warhammer 40K Jumpchain V1.2"
+  },
+  "590e60eb-40b7-54bb-972d-933005b84ed9": {
+    "id": "590e60eb-40b7-54bb-972d-933005b84ed9",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Cold Trader",
+    "cost": 100,
+    "description": "Desiring to examine unusual technology, a heretek must first locate it. Those of a criminal bent will view you as more approachable than your more devout brethren, and be quicker to offer you illegal services. One must dredge through fanciful fakes and repainted junk in the hopes of locating something worth acquiring, and you have a better eye than most for spotting the genuine article.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "d5227d2b-0e42-5bb3-b57e-612764f4dc7a": {
+    "id": "d5227d2b-0e42-5bb3-b57e-612764f4dc7a",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Cult Mechanicus Savant",
+    "cost": 400,
+    "description": "As a member of the Cult Mechanicus, you possess a deep understanding of the Machine God's will and can use your knowledge to reverse-engineer and enhance technologies with remarkable speed. By dismantling and analysing even the most complex machines and devices, you can replicate their functionality and even improve upon it. However, your talents in this area may not go unnoticed by other factions within the Cult Mechanicus. Some view the act of reverse-engineering as sacrilegious, as it challenges the divine nature of the Machine God's creations. You may face opposition from those who believe that tampering with technology is a sin, and they may even see you as a heretek and an enemy of the Cult. But as a true devotee of the Machine God, you understand that knowledge and understanding are the keys to unlocking its divine power. With your exceptional talent for reverse-engineering and the blessings of the Omnissiah, you can use your abilities to advance the goals of the Cult Mechanicus and further the will of the Machine God.",
+    "origin": "Planetary Govenor"
+  },
+  "c9baac69-901f-5902-88a3-19bbf6f9ebce": {
+    "id": "c9baac69-901f-5902-88a3-19bbf6f9ebce",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Fabricator General",
+    "cost": 600,
+    "description": "You have been bestowed the power to transform the production of factories into a wondrous symphony of mechanical precision. Blessed with a keen insight into the inner workings of machines and a mind that is one with the Omnissiah, you are able to streamline and optimise the production process of forges to a degree that would seem impossible to mere mortals. Through your divine gift, you are able to identify inefficiencies and address them with ease, rooting out the most minute of defects and correcting them with precision. The machines under your care work in harmony, producing goods at an unprecedented rate that would cause lesser adepts to weep in awe. With the Omnissiah's guidance, you can oversee the production of vast quantities of goods, far surpassing quotas and meeting deadlines with ease. But your mastery over the mechanical processes of forges does not end there. You are also an expert in building the machines that build the machines, crafting the most intricate and precise devices that make possible the most efficient production of goods. Your knowledge of the inner workings of these machines is unmatched, allowing you to design and construct workflows that operate with flawless precision, maximising output and minimising waste. No detail escapes your notice, flaw remains hidden from your sight. Under your leadership, the forges of the Cult Mechanicus hum with a divine energy, fulfilling the will of the Omnissiah and providing for the needs of the faithful. With your divine gift, you are a master of the art of production, bringing order to the chaos of industry and ensuring that the machines of the Cult Mechanicus operate at the highest levels of efficiency and productivity.",
+    "origin": "Planetary Govenor"
+  },
+  "55f2ecac-d0c0-50a1-9218-ae20b39b5d65": {
+    "id": "55f2ecac-d0c0-50a1-9218-ae20b39b5d65",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Fair Wages For Fair Work",
+    "cost": 200,
+    "description": "It’s a rough galaxy, and if you see someone without any guarding their back, you could take them for an easy mark. Never you though. Whether through the reputation Squats have through vengeance or your own demeanor, people always pay you a fair price for your work, and never try to skip out by killing you. Sure, they may try and kill you for other reasons, but such is life in these times.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "9efa182a-48a4-5e04-bd3f-53a55cac5229": {
+    "id": "9efa182a-48a4-5e04-bd3f-53a55cac5229",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Fast Service",
+    "cost": 200,
+    "description": "Some might wonder what place a mechanic had on the battlefield, but they clearly never saw a tank take a crippling hit. Fortunately, your skills are such that you can repair many vehicles and devices that would seem at first glance only good for parts, and in a fifth the normal time.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "978c345d-a018-52b2-bfa1-12a9ecfcd6ae": {
+    "id": "978c345d-a018-52b2-bfa1-12a9ecfcd6ae",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Impossible Precision",
+    "cost": 200,
+    "description": "Behind the mighty engines and clanking gears of Imperial armour are smaller yet no less important components. Servicing those delicate elements requires a fine touch, and you work with steadiness and precision. Your hands and other appendages will not twitch from surprise or adrenaline, and they will exert the exact amount of force you desire and no more. Exactly how precisely you can work is subject only to the limits of your perceptions.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "1dd63ce4-9218-5a38-b35e-5770a23503e8": {
+    "id": "1dd63ce4-9218-5a38-b35e-5770a23503e8",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Lingua-Technis",
+    "cost": 0,
+    "description": "Known only to the devotees of the Machine God despite the best efforts of outsiders over millennia, the adepts of Mars speak to each other in bursts of binaric code. This allows for a great deal of information to be communicated quickly and discreetly. Even if somehow translated, it is a complex language thick with ancient and arcane terminology that few outsiders could ever hope to make any sense of. This language and your implants allow you to communicate quickly with other adepts, transferring messages and code many times faster than ordinary speech.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "36802a76-2e7a-538d-b894-fa49380ddaa7": {
+    "id": "36802a76-2e7a-538d-b894-fa49380ddaa7",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Logical Arguments",
+    "cost": 100,
+    "description": "While the Mechanicus may proclaim that their actions are dictated only by reason and doctrine, these things are often only a veneer applied to support personal agendas or champion the views of a particular sub-sect within the Cult. You've seen the fortunes and lives of many adepts ended when they fell for a rhetorical trap, and have learned how and when to speak, developing skills for debate that will allow you to communicate your views while dancing around otherwise inviolate points of faith and law.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "dc15bbe0-0e7f-50fd-b373-e93e92b82ee9": {
+    "id": "dc15bbe0-0e7f-50fd-b373-e93e92b82ee9",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Neuroplasticity",
+    "cost": 100,
+    "description": "Techpriests collect many implants over their long lives, but even with training and technological aid the human mind was never designed to be altered in such ways. You are something of an outlier, as your mind readily accepts desired modifications of any sorts. You could say that, instead of blood, you are a universal recipient of mechanical implants, and you need never worry about the rejection of mental or physical alterations, and you adapt to such additional quickly and easily.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "100f3f75-fa44-51fa-b0b2-1b5220cb1612": {
+    "id": "100f3f75-fa44-51fa-b0b2-1b5220cb1612",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Noosphere Mentality",
+    "cost": 200,
+    "description": "Like the vast seas of information held by the worlds and vessels of the Mechanicus, your mind is a thing of grace and depth. You can envision mental constructs of incredible scale and complexity, and your thoughts are not fleeting, ephemeral things. As easily as a less-skilled adept would flip through the pages of a detailed blueprint, you would forge a simulation of a machine in your mind and observe its individual functions in real time without losing sight of the whole...for hours at a time without losing focus or missing a single detail. Such depths of thought can be dangerous to plumb, but unless some outside force actively prevents it you will always be able to bring your perceptions out from fantasy and back to the waking world.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "ebc3595c-9195-5ebc-8080-d340878d2345": {
+    "id": "ebc3595c-9195-5ebc-8080-d340878d2345",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Reclaimer",
+    "cost": 200,
+    "description": "Rare is the heretek with wealth or connections enough to acquire the resources to pursue innovation without raising suspicion. Most must make do with whatever they can scavenge for themselves, and you are oddly lucky in this regard. When digging through junk what you pull out is in far better shape than it should be, needing far less work to make ready for your own projects. If salvaging a machine you've discovered or brought low, the most valuable components will be in surprisingly good shape while anti-tamper and self-destruct systems will fail to activate more often than not.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "32b6e29c-8681-56a9-938e-9eaaaf6c352f": {
+    "id": "32b6e29c-8681-56a9-938e-9eaaaf6c352f",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Rites of Maintenance",
+    "cost": 100,
+    "description": "While already designed to be incredibly robust, Imperial equipment inevitably requires maintenance. You can locate and identify problems within a machine in a fraction of the time it would take other adepts. Not knowing how a machine functions does not make fixing it any more difficult so long as you have the proper parts, tools, and rituals to guide your hands.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "66985d6e-692c-5900-80e6-d512235bb07e": {
+    "id": "66985d6e-692c-5900-80e6-d512235bb07e",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Subtle Bionics",
+    "cost": 100,
+    "description": "From hesitance at abandoning the human form or the acquisition of high-grade miniaturized components, there is little outward sign of your integrated cybernetics. Cables are subdermal and woven to follow existing muscle groups, cyber-limbs are hidden beneath a layer of synth-skin, and artificial eyes resemble the organic model closely enough that sight alone cannot recognize them as anything but. Only large external bionics like mechadendrites are plainly visible, and the smaller models can be hidden beneath the folds of a thick robe. While hiding the blessings of the omnissiah would normally offend even the most emotionless magi, there are occasions where concealing one's affiliations and abilities can be advantageous.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "edc46f58-b330-52a5-a430-bc99235d5a82": {
+    "id": "edc46f58-b330-52a5-a430-bc99235d5a82",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Technical Knock",
+    "cost": 200,
+    "description": "You have mastered the ancient technical rite of 'if it doesn't work, smack it with a wrench until it does.' Small problems like loose gears can be quickly and permanently fixed with one good whack. When a larger problem impedes a machine's function, continuous pounding and irate prayer can cajole it to miraculously perform one last, brief task, but no more. At that point, this rite will have no more effect until the device receives proper attention.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "16d87db4-68d9-590d-b011-7f947f781e64": {
+    "id": "16d87db4-68d9-590d-b011-7f947f781e64",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Technological Bulwark",
+    "cost": 400,
+    "description": "You are able to craft and protect technology from the Warp, corruption, and unauthorised access. This is an incredibly valuable skill as many rituals the mechanicus use are dedicated to purifying the machine spirits when faced with corruption. With your abilities you could create a new version of practically any technology you understand that would allow it to be produced and almost guaranteed to be corruption resistant. Powerful rituals would likely be capable of bypassing the mass produced creation, but anything you madeyourself would prove invulnerable even in the direct presence of a Chaos God.",
+    "origin": "Generic Warhammer 40K_ Fanfic"
+  },
+  "c5f4daa7-ea6f-5c72-8251-93d057d7e1b9": {
+    "id": "c5f4daa7-ea6f-5c72-8251-93d057d7e1b9",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "We Shock Proofed Our Systems",
+    "cost": 200,
+    "description": "EMPs are one of the most common weapons to use against droids and with the Imperium of Man’s appearance the Mechanicus. The Mechanicus quickly learned about the new technology after it was used against the Skitarii and strove to remove this weakness. Their systems were slowly improved to handle their foes' weapons. If they had this perk then they would have never needed to be concerned about this issue. This perk protects any electronic or mechanical system from interference that is being used by you or your forces. This includes EMPs, viruses, and wear caused by time. If anyone is going to take you down then they are going to do it properly.",
+    "origin": "Star Wars vs Warhammer 40K Jumpchain V1.2"
+  },
+  "b0ae1da7-767e-5d9a-984d-17bc99679ad0": {
+    "id": "b0ae1da7-767e-5d9a-984d-17bc99679ad0",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Wonders Of The Machine God",
+    "cost": 100,
+    "description": "Machinery is as mysterious as the workings of the warp to the average Imperial - it would take all day to explain why even the simplest rituals are performed and what they do. So by necessity you've become very good at getting people to shut up and let you work in peace. A few curt words is enough to satisfy anyone's curiosity, or to make someone less technically-inclined understand why certain things need doing and to justify the time and expense of doing so.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "56db0935-ce4f-59c2-bbb7-e88c3347a30c": {
+    "id": "56db0935-ce4f-59c2-bbb7-e88c3347a30c",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Blesssings",
+    "name": "Your Technology Shall Become Mine",
+    "cost": 200,
+    "description": "Sometimes you have to admit that your enemy's gear is better than your own. This means that you need to take their gear apart and figure out how they work. You have the ability to reverse engineer anything. You will be capable of understanding new principles and new technological fields. The amount of time it takes to do so will depend on your intelligence and how complex the machinery is.",
+    "origin": "Star Wars vs Warhammer 40K Jumpchain V1.2"
+  },
+  "7fe5a8f4-413a-5434-ab9b-b8381ce9b054": {
+    "id": "7fe5a8f4-413a-5434-ab9b-b8381ce9b054",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Attendants",
+    "cost": 100,
+    "description": "Choose: A dozen servoskulls, a five-servitor workforce, or a trio of personalised cherubs. All are dull but reliable servants, coming equipped for a variety of tasks. The patterns of each are easy to re-fit for more specialized work.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "ac403baf-a5ba-5b80-86dd-9fa4e652ef09": {
+    "id": "ac403baf-a5ba-5b80-86dd-9fa4e652ef09",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Battle Suit",
+    "cost": 500,
+    "description": "The Squat version of a Dreadnought. But unlike anyone else until the Tau, they can just pop open the canopy and climb out when done. You can even wear Exo-Armor inside, and fire on the move. One arm hoists a massive Dreadnought Power Axe, and one gun arm with your choice of autocannon, heavy bolter, heavy flamer or plasma cannon. Who's the short one now?",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "8d79f1b3-5076-510d-a832-22b4557f6b35": {
+    "id": "8d79f1b3-5076-510d-a832-22b4557f6b35",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Calculus Logi Upgrade",
+    "cost": 200,
+    "description": "This implant is a powerful cogitator embedded in the body, designed to significantly enhance cognitive functions. It enables the user to process vast amounts of data quickly and efficiently, sifting through complex information far beyond normal human capacity. Whether analyzing battlefield tactics or organizing large archives of data, this implant provides unparalleled mental acuity.",
+    "origin": "Warhammer 40K_Grey Knights 0.1"
+  },
+  "c5187b59-26fa-5293-8d40-37cfc5917e41": {
+    "id": "c5187b59-26fa-5293-8d40-37cfc5917e41",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Carapace Armour",
+    "cost": 0,
+    "description": "Or as Squats call it, casual dress",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "1aaff2f6-b8eb-5acf-941f-6a71f0779224": {
+    "id": "1aaff2f6-b8eb-5acf-941f-6a71f0779224",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Cog Axe",
+    "cost": 200,
+    "description": "Symbol of your position within the Cult Mechanicus, the Cog Axe is both a versatile multi-function tool, and a potent power weapon capable of cleaving the enemies of the Omnissiah. It also is a sign of prestige and respect within the Mechanicus.",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "2adf44e2-e09c-5ff1-97c1-7278b977d90e": {
+    "id": "2adf44e2-e09c-5ff1-97c1-7278b977d90e",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Communicator",
+    "cost": 0,
+    "description": "A handheld communications device that can transmit to any Squat/Imperial system within range and cannot be jammed.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "c0123b21-7abb-5767-b5bc-d3e1b930e6f4": {
+    "id": "c0123b21-7abb-5767-b5bc-d3e1b930e6f4",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Control Stave",
+    "cost": 200,
+    "description": "More like a short rod than a staff, this is a tool and a weapon both; it can both be used as a bludgeon, and also allows its user to more easily interface with their Skitarii warriors. Yours has been further modified; while using the Control Stave, all of your followers in the current battle with you will be able to receive your orders immediately, and you can direct the actions of your followers with the precision of a surgeon.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "e1792566-1664-5c75-9ebe-328be8962252": {
+    "id": "e1792566-1664-5c75-9ebe-328be8962252",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Conversion Field",
+    "cost": 300,
+    "description": "A device that generates a protective energy field; when struck, this barrier converts the energy of impact into light, making a blinding flash when it stops an attack. The field can even protect against plasma blasts; however, it can only withstand so many attacks at once, so can be overloaded.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "39fcf2ee-6699-53b5-84f4-89b6e248b1c8": {
+    "id": "39fcf2ee-6699-53b5-84f4-89b6e248b1c8",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Crystal Stack Micro-Cogitator",
+    "cost": 400,
+    "description": "This implant is a highly advanced data storage system implanted in the skull, capable of storing vast amounts of information. Grown specifically for each user, the data stored inside is encrypted and nearly impossible to access without the user’s consent, making it a highly secure personal data vault.",
+    "origin": "Warhammer 40K_Grey Knights 0.1"
+  },
+  "af805b27-b7cc-5c24-8bf7-c259cacca5cb": {
+    "id": "af805b27-b7cc-5c24-8bf7-c259cacca5cb",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Crystal Stack Micro-Cogitator",
+    "cost": 200,
+    "description": "An ancient and difficult-to-produce pattern, this implant is small enough to be fitted into the human skull and allows for vast amounts of data storage far beyond common neurological modifications. Each implant must be grown specifically for an individual tech-priest, and the micro-cogitator stores information in a format unique to each mind it is linked with. Even if physically extracted or interfaced with, it is near-impossible for outside forces to decrypt the data inside without the owner's assistance.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "cafbb676-42fd-581b-9cbf-ad9a4f238939": {
+    "id": "cafbb676-42fd-581b-9cbf-ad9a4f238939",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Drug Glands",
+    "cost": 200,
+    "description": "Vat-grown and gene-tailored, these artificial organs release combat drugs into your system with the proper mental trigger. The hyper-drenalin cocktail boosts strength and reaction time, and suppresses the feeling of pain. While the glands are also designed to filter out toxins and mitigate the side-effects of these or any other drugs in your system, using the glands too often and too quickly risks damage from the buildup of toxic by-products.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "a7fa0d96-8471-5330-93e2-ba1e69fb501d": {
+    "id": "a7fa0d96-8471-5330-93e2-ba1e69fb501d",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Electoos",
+    "cost": 200,
+    "description": "Electoos are complex tattoos made from conductive materials placed beneath the skin. These implants store and control electrical energy, providing unique abilities in and out of battle. Energy Discharge allows the wearer to absorb electrical power and release it in combat as a shockwave or channel it into enhanced strikes. Additionally, Memory Banks can store and retrieve tactical data, sacred oaths, or other essential information, offering both utility and combat enhancements.",
+    "origin": "Warhammer 40K_Grey Knights 0.1"
+  },
+  "c5da2b61-d0cc-5623-a9c8-d00b5b874cf4": {
+    "id": "c5da2b61-d0cc-5623-a9c8-d00b5b874cf4",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Electroleech Stave",
+    "cost": 100,
+    "description": "The iconic weapon of the Electro-Priests, these holy staves have powerful capacitors built along their length to allow them to absorb electricity from whatever you attack. In melee combat, it is almost certain death as all bioelectricity is absorbed.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "66c30153-4fd9-5fcb-8876-369a1bdc0111": {
+    "id": "66c30153-4fd9-5fcb-8876-369a1bdc0111",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Exo-Armor",
+    "cost": 400,
+    "description": "The Squat’s equivalent to Terminator armor, normally worn only by a Warlord and his retinue. The result of making the most rugged environment suit needed to handle everything from hard vacuum to dust-storms to wading through toxic radioactive vats, then hanging more armor on. Exo-Armor may look kinda... round, but it’s wearers are every bit as tough and strong as Terminators. Comes with a free power axe and shield, though you can swap either for a ranged weapon.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "3f6913d4-ef76-5ea5-8160-ea4cd0185768": {
+    "id": "3f6913d4-ef76-5ea5-8160-ea4cd0185768",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Fusion Projector",
+    "cost": 200,
+    "description": "This superior version of a flamer, based on cutting equipment, removes the need for vulnerable tanks of promethium, while producing a much hotter flame. You can also tighten the focus to a single target to work as a poor man’s melta.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "415e987c-03fd-59ac-8c18-737fdd8cbf89": {
+    "id": "415e987c-03fd-59ac-8c18-737fdd8cbf89",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Graviton Gun",
+    "cost": 200,
+    "description": "A weapon that warps gravity around the target, making things much heavier or lighter, depending on the setting.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "f314d577-2514-596a-93d0-313afc1c1319": {
+    "id": "f314d577-2514-596a-93d0-313afc1c1319",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Interface Port",
+    "cost": 200,
+    "description": "An implant often installed at the back of the neck, the Interface Port allows the user to directly connect to machines via a data cable. This provides a seamless connection to technological devices, making the user capable of interacting with and controlling them with thought alone.",
+    "origin": "Warhammer 40K_Grey Knights 0.1"
+  },
+  "baaae100-2874-57f7-8a75-5384000942f3": {
+    "id": "baaae100-2874-57f7-8a75-5384000942f3",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Lightning Maul",
+    "cost": 100,
+    "description": "Really, it’s a Thunderhammer, but from an age when only Squats had them. Really, it’d be rude not to use their name. But seriously, it’s a Thunderhammer.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "a5dd4dc4-e8f6-515c-b9ad-623fcee50503": {
+    "id": "a5dd4dc4-e8f6-515c-b9ad-623fcee50503",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "MIU implant",
+    "cost": 100,
+    "description": "Unlike the electro-grafts which transmit information, the mind-impulse unit is designed to transmit somatic and sensory data between an organic mind and prepared device, usually a vehicle. It allows for the control of a machine's functions as if they were direct extensions of the adept's body. This model can be easily programmed to interface with any number of devices, and will allow for seamless and intuitive control over all standard template construct patterns.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "aaed263c-1357-53b7-828b-e4b444e9bace": {
+    "id": "aaed263c-1357-53b7-828b-e4b444e9bace",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Omniscient Mask",
+    "cost": 300,
+    "description": "An ancient relic of great veneration to the Machine Cult, this mask grants the ability to perceive the souls of men. Not only can you see souls while wearing it, but you can understand the true nature of those whose souls you see. You can instantly pick out a good man, a loyal man, or someone who is traitorous in their heart, all from a single glance.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "55d17a88-dfe4-5793-b073-01af40252bbd": {
+    "id": "55d17a88-dfe4-5793-b073-01af40252bbd",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Omnissiah’s Grace",
+    "cost": 400,
+    "description": "A heavy cog-toothed amulet, this relic machine will project a crackling field of energy to protect its bearer, and the Machine Spirits within will serve to enhance the effects of any other protective devices you may have on your person.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "dd588f7f-5b82-5848-9c83-6dbf2af68810": {
+    "id": "dd588f7f-5b82-5848-9c83-6dbf2af68810",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Pict Recorde",
+    "cost": 0,
+    "description": "A device which records visual and auditory input to be played back later, and is capable of projecting a hologram to do so. For all functional purposes it has endless memory.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "3fe8456a-7630-5719-910a-95a7a9a94ff4": {
+    "id": "3fe8456a-7630-5719-910a-95a7a9a94ff4",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Plasma Cutter",
+    "cost": 100,
+    "description": "Easily used by hand or mechadendrite, this humble piece of archaeotech excels at the simple task it was designed for - cutting and welding metals of almost any type and thickness, from thin wiring to adamantium plating. It can be used as a deadly weapon in an emergency, but is awkward and unsuited to such a role. It never seems to run out of fuel.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "725f7124-16c4-5e4a-b562-2f34a31e71a6": {
+    "id": "725f7124-16c4-5e4a-b562-2f34a31e71a6",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Plasma Gun",
+    "cost": 200,
+    "description": "Here comes the sun, do do do dooo... This marvel of the Mechanicus compresses and heats a wisp of gas until it becomes the fourth state of matter, and a shaped magnetic tunnel launches it at speed toward whatever needs a glowing hole melted through it. The resulting miniature star detonates on impact, searing through even the toughest of armor and scorching anyone standing too close. While this weapon has a fearsome reputation for occasionally malfunctioning and venting superheated coolant into the face of its wielder, this master-quality work of art is mostly guaranteed to never betray you in such a fashion... though maybe don’t fire it on full auto for too long.",
+    "origin": "Warhammer 40k- Boltgun Gauntlet V1."
+  },
+  "c276c4cc-361f-54b9-bd06-fbb3365d086c": {
+    "id": "c276c4cc-361f-54b9-bd06-fbb3365d086c",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Quantum Prayer-Book",
+    "cost": 0,
+    "description": "Bound in iron and edged with copper leaf, this tome details the structure, laws and mysteries, most common prayers, tenets and rites of the priesthood. People who study the book, particularly those of a scientific bent, will find it very inspiring. May or may not result in machine spirits becoming an actual thing if the doctrine is followed by enough people in a non-40k jump. You can produce non-respawning copies on demand to bequeath to others if you wish.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus JumpChain"
+  },
+  "9d5ad21e-017c-5ae4-b144-ee930b4666e2": {
+    "id": "9d5ad21e-017c-5ae4-b144-ee930b4666e2",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Rod of Office",
+    "cost": 0,
+    "description": "A staff riddled with electrocircuits capable of awakening somnambulant or disabled robots with a single tap. However, it also serves as a signifier of your rank; while bearing the Rod of Office, people will treat you like An Important Person, and your opinions will be given more weight in conversations. The more technologically or mechanically ignorant someone is, the more important you will seem to them.",
+    "origin": "Warhammer 40,000 - Mechanicus v1.0"
+  },
+  "eb178ac4-b5e4-56e3-9890-86259b878af6": {
+    "id": "eb178ac4-b5e4-56e3-9890-86259b878af6",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Scanner",
+    "cost": 0,
+    "description": "A life-signs detector that is pretty good at providing warning of those approaching Kommandos before you get completely blindsided.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "b312f9ad-c61d-5eba-b950-472f6c6374c2": {
+    "id": "b312f9ad-c61d-5eba-b950-472f6c6374c2",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Seismic Rifle",
+    "cost": 200,
+    "description": "The Squats are incredibly familiar with sonic equipment, using it for mining all the time. So a sonic weapon is just the thing for surprising anyone trying to tunnel in.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "785e333f-fc16-5be7-a9a1-a486cb23743c": {
+    "id": "785e333f-fc16-5be7-a9a1-a486cb23743c",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Servo Skull",
+    "cost": 100,
+    "description": "The Servo Skulls are one of the most iconic items from 40K. By purchasing this you will receive three Servo Skulls of your very own. These Servo Skulls will do their best to assist you in any way they can. This could range from assisting you while you are working to directing reinforcements to rescue you. For example the Servo Skull named Bofin did exactly that in order to rescue his Tech Priestess Nerva. You may purchase this multiple times if you wish to grow your collection of Servo Skulls. Perhaps you could even forge a force of hundreds like the Magos Dominus Kailie.",
+    "origin": "Star Wars vs Warhammer 40K Jumpchain V1.2"
+  },
+  "630eec51-1d49-5ce2-8901-7f22f1788b62": {
+    "id": "630eec51-1d49-5ce2-8901-7f22f1788b62",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Servo-skull",
+    "cost": 0,
+    "description": "A simple servo-skull, designation to be determined by you. It can follow simple commands, but any complex tasks will have to wait until it has been upgraded by a member of the Mechanicus. Has a built-in ink pot.",
+    "origin": "WH40K Adeptus Administratum"
+  },
+  "959be19f-a3e2-5957-8120-74bd72846900": {
+    "id": "959be19f-a3e2-5957-8120-74bd72846900",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "Targeter",
+    "cost": 0,
+    "description": "A handy assist in the form of a visor or glasses that provide a crosshair for your weapons.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "cc47e3b9-8c59-53fe-8015-e129bffdf486": {
+    "id": "cc47e3b9-8c59-53fe-8015-e129bffdf486",
+    "sourceId": "the_celestial_forgeworld",
+    "edition": "default",
+    "chapter": "Your Wargear",
+    "name": "War-Trike",
+    "cost": 200,
+    "description": "Biker dwarves! This hog will get you around the battlefield with speed and style, and per usual for purchased vehicles has unlimited fuel and self-repairs. Also a pair of forward-mounted autoguns or bolters that never run out of ammo.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  }
+}

@@ -476,11 +476,6 @@
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1m_SDaUBWBedXICK7akqP0a5v2IcVCbOUezJbxxBcBJs"
       },
       {
-        "fileKey": "scrolls_v1",
-        "version": "v1",
-        "sourceUrl": "https://docs.google.com/spreadsheets/d/1m_SDaUBWBedXICK7akqP0a5v2IcVCbOUezJbxxBcBJs"
-      },
-      {
         "fileKey": "scrolls_v3",
         "version": "v3",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1nB6ZEoVgUFQJEW4To1UQGr3q1G5WaFm-aUX7Ob5YeL0"
@@ -659,7 +654,7 @@
   "celestial_cauldron": {
     "id": "celestial_cauldron",
     "displayName": "Celestial Cauldron",
-    "description": "Tools, knowledge, and recipes for brewing magical potions",
+    "description": "Tools, knowledge, and recipies for brewing magical potions",
     "isMature": true,
     "defaultVersion": "default",
     "editions": [
@@ -667,6 +662,146 @@
         "fileKey": "celestial_cauldron",
         "version": "default",
         "sourceUrl": "https://docs.google.com/spreadsheets/d/1Y4Husb2cntLzdoxgnWFN07fOiP3Xl8v6GFnQhePAElA"
+      }
+    ]
+  },
+  "celestial_chef": {
+    "id": "celestial_chef",
+    "displayName": "Celestial Chef",
+    "description": "Cook magical meals: cooking, kitchen, and larder",
+    "isMature": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "celestial_chef",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1vn_nsmkACECOJecJe5K9v5Rj2cANyg-DfnDvjzX_2PA"
+      }
+    ]
+  },
+  "celestial_deck": {
+    "id": "celestial_deck",
+    "displayName": "Celestial Deck",
+    "description": "Witcher card set: Mage, Noble, Witcher",
+    "isMature": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "celestial_deck",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/11pTP5G1UuWwUzuz56LCyzmNLtYCHHom8eD_8J1gDZWE"
+      }
+    ]
+  },
+  "celestial_gardener": {
+    "id": "celestial_gardener",
+    "displayName": "Celestial Gardener",
+    "description": "Power over plants: allotment, herbology, plants, and tools",
+    "isMature": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "celestial_gardener",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1W2xlMV9jhdPhRDGlLqo681wNclpb9uh5plmPOSHHtI0"
+      }
+    ]
+  },
+  "celestial_knight": {
+    "id": "celestial_knight",
+    "displayName": "Celestial Knight",
+    "description": "Become a knight: chivalric skills, panoply, and the Round Table",
+    "isMature": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "celestial_knight",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/17sry8WJvWeSvZTbrcG7dInZsroTevcDesz3UziPueq0"
+      }
+    ]
+  },
+  "celestial_smith": {
+    "id": "celestial_smith",
+    "displayName": "Celestial Smith",
+    "description": "Celestial Forge, but smaller: forging, smithing, mining, and tools",
+    "isMature": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "celestial_smith",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1BdmwYkMRz72USzDZkRxFm3bZmwcfGqAT2hdjFBadY5I"
+      }
+    ]
+  },
+  "the_abyssal_grimoire_v2": {
+    "id": "the_abyssal_grimoire_v2",
+    "displayName": "The Abyssal Grimoire v2",
+    "description": "Become a villain: lairs, minions, weapons, powers, relics and more",
+    "isMature": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "the_abyssal_grimoire_v2",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1heuiNPt5znSOdnh9MCzXWXyfYFG99UN5ZzAOXqH9akw"
+      }
+    ]
+  },
+  "the_celestial_blade": {
+    "id": "the_celestial_blade",
+    "displayName": "The Celestial Blade",
+    "description": "Become an assassin: guild, skills, tools, and weapons",
+    "isMature": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "the_celestial_blade",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1IkKt_9cOHaMFZMzSVKzMK7zi3cjyzFoNfJ5kEFuF8T0"
+      }
+    ]
+  },
+  "the_celestial_forgeworld": {
+    "id": "the_celestial_forgeworld",
+    "displayName": "The Celestial Forgeworld",
+    "description": "Celestial Forge, but for Warhammer 40k: expedition, forge, vehicles, blessings, and wargear",
+    "isMature": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "the_celestial_forgeworld",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/1O2fqZW9ae0QXM-UxXNn4xdgnoTx0YnamEJraAvoVmoI"
+      }
+    ]
+  },
+  "the_celestial_outlaw": {
+    "id": "the_celestial_outlaw",
+    "displayName": "The Celestial Outlaw",
+    "description": "Become a space pirate captain: equipment, syndicate, talents, and transports",
+    "isMature": false,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "the_celestial_outlaw",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/14n3Bl2d1Wt5QdjqiSHjYod4kyziSMedIHerL7QBOmQY"
+      }
+    ]
+  },
+  "the_celestial_physiologus": {
+    "id": "the_celestial_physiologus",
+    "displayName": "The Celestial Physiologus",
+    "description": "Tame beasts by using tools, knowledge, and creatures from different fictional worlds",
+    "isMature": true,
+    "defaultVersion": "default",
+    "editions": [
+      {
+        "fileKey": "the_celestial_physiologus",
+        "version": "default",
+        "sourceUrl": "https://docs.google.com/spreadsheets/d/14Jcqk3pZwO4uxsrxtTjWeohMncshrIKM6xJqQUijmCg"
       }
     ]
   }

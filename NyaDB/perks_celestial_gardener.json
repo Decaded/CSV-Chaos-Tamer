@@ -1,0 +1,1322 @@
+{
+  "f5a1ba41-2d12-529f-a292-c3fc3482da50": {
+    "id": "f5a1ba41-2d12-529f-a292-c3fc3482da50",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "A Modest Cottage with an Orchard",
+    "cost": 400,
+    "description": "This cottage never seems to need cleaning, and always has enough beds to grant a space to rest to any travelers that wander by. The attached Gardens and Orchard always seem to have ripe and flowering plants year round and grows many unusual items, including full meals. You may select any of the food producing trees or plants, one magical effect producing plant, and one product tree or plant to be in your garden. Those not open to the idea of magic, or hostile to those that have it will fail to notice your strange plants. The land itself is magical and will grow any magical plants you choose, even in worlds without.",
+    "origin": "The Wonderful Land of Oz"
+  },
+  "50e9f5a3-5041-59d3-af42-39b52b40b3fd": {
+    "id": "50e9f5a3-5041-59d3-af42-39b52b40b3fd",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Aiwendil/Radagast the Brown",
+    "cost": 300,
+    "description": "One of the Istari, or Wizards, Radagast was chosen by Yavanna to be her emissary to Middle-earth and though he will one day fall and become consumed by his love for the creatures and plants of Middle-earth, for now he remains an effective worker against the Shadow. He is a master of shapes and hues, and friend to the beasts and birds. Standing at 5’9”, he has fine brown hair peppered with grey. His rough clothing, jovial nature, and apparent simplicity belie his true strength and as a Wizard if roused to anger he is as mighty as any of his order might be expected to be.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "59b1ed7f-883f-528b-adb8-651c9dec5589": {
+    "id": "59b1ed7f-883f-528b-adb8-651c9dec5589",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Andoran Dirt Bed",
+    "cost": 100,
+    "description": "This bed is filled with fertile earth from Andorus before the land was tainted and is suffused with ecomantic power. If an ecomancer lies in the bed, they will grow root-like appendages that draw energy from the earth. After a night’s rest like this, an ecomancer will be fully healed of almost all injuries or ailments and will be fully recovered from any use of their powers.",
+    "origin": "The Pirates of Dark Water Jump"
+  },
+  "ce03c048-2f6e-5d4d-b389-5cf39c900b2a": {
+    "id": "ce03c048-2f6e-5d4d-b389-5cf39c900b2a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Apple Orchard",
+    "cost": 200,
+    "description": "When all was said and done, two versions of Link chose to leave the land of Hyrule in an attempt to protect the Triforce from any more would be thieves. The other two stayed with Princess Zelda, and of those two only one remained a knight. The other one went back to the life he had before hearing her voice in his head, that of an apple farmer. You now have a small plot of land containing a small home fit for two, and of course a decently sized orchard of apples. Said trees will grow into delicious fruits will the bare minimum of care, and if you take great pains to give them the best you can give, they will occasionally pop out an enchanted apple, capable of healing any injury short of death. If you took",
+    "origin": "The Legend of Zelda - A Link to the Past"
+  },
+  "e046bc7a-228c-5c80-8692-1809521d6bdc": {
+    "id": "e046bc7a-228c-5c80-8692-1809521d6bdc",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Arani Tuskfinder, The Kaldorei Turncoat",
+    "cost": 100,
+    "description": "This Night Elf Druid has seen the truth of things. The Kaldorei are but fools clinging onto dreams of the simple-minded, too stubborn to realise that it is only through submitting to the Horde, and more importantly, You, that her people’s future will be secured. And now she has come, submitting to you in mind and body. She offers her considerable talent for Nature magic and only wishes for you to spare as many of her people as possible.",
+    "origin": "Warcraft_ Orcs V1.1"
+  },
+  "4940ae83-701d-5fe4-b866-9e9f82129838": {
+    "id": "4940ae83-701d-5fe4-b866-9e9f82129838",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Botanical Garden",
+    "cost": 100,
+    "description": "Oh Sire, look at all the evil plants that the world can produce deadly nightshade, mandrakes, Hogweed, even demonic pumpkins. This lovely garden can expand internally without growing externally whenever you bring a new plant, seed or cutting into the room with each new section perfectly suiting the growing and caring of the corresponding plant.",
+    "origin": "Overlord (Game) Fanfic Jumpchain"
+  },
+  "f728222b-3eca-5ab1-93ce-1a537917078d": {
+    "id": "f728222b-3eca-5ab1-93ce-1a537917078d",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Dalish Grove",
+    "cost": 200,
+    "description": "A grove full of trees such as ironbark, sylvanwood, dragonthorn, vhenadahl, and heartwood. All of them would yield excellent materials for a dalish woodshaper. 24 hours after cutting one of these trees down, it’ll be restored to its former glory.",
+    "origin": "Dragon Age Jumpchain"
+  },
+  "e30b89db-21eb-565e-ab92-038ad046cadb": {
+    "id": "e30b89db-21eb-565e-ab92-038ad046cadb",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Deku Treehouse",
+    "cost": 400,
+    "description": "I have no idea how you even found one of these, but you have a mid sized Deku Sapling that’s grown in such a way as to be a treehouse. Just, treehouse. I don’t even. Anyways, it’s a living wellspring of magical power, and will probably create its own version of the Korok at some point in the future, so try to take good care of it. If you took ‘The Great Deku Jumper’ perk, then you may jumpstart your growth and immediately gain the benefits of the perk.",
+    "origin": "The Legend of Zelda - The Wind Waker JumpChain"
+  },
+  "3ca63a4b-189f-5889-9a20-4e8cac59eebf": {
+    "id": "3ca63a4b-189f-5889-9a20-4e8cac59eebf",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Dryads",
+    "cost": 100,
+    "description": "Don’t be confused Sire, these dryads may be plant-like but they are definitely all lady. Normally Dryads show a more combat oriented form but they can take on a more sensual appearance that you can take advantage of. Dryads as part plants are able to communicate with and enhance any other plants they interact with allowing them to massively improve any Botanical plans you may make. These Dryads are all connected to a central pod, which allows them to regenerate and recover from any damage they take.",
+    "origin": "Overlord (Game) Fanfic Jumpchain"
+  },
+  "5281a3be-f056-5eb4-a1eb-533b41c5c386": {
+    "id": "5281a3be-f056-5eb4-a1eb-533b41c5c386",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Elven Garden",
+    "cost": 200,
+    "description": "An extremely beautiful garden that gives off a very peaceful aura, it is filled with almost every kind of alchemical ingredient you would ever need, and continues to gain new additions from each new world you visit. You will also find a fully stocked alchemy lab close to the entrance. Additionally, it's a very good place to take your Mistress on a picnic, if you're into that sort of thing.",
+    "origin": "Overlord - PJ Edition"
+  },
+  "e9f619e5-a987-5f2d-8607-87e84cd70f61": {
+    "id": "e9f619e5-a987-5f2d-8607-87e84cd70f61",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Forest Town",
+    "cost": 600,
+    "description": "Your very own home away from your dad's house. This is a peaceful little town inhabited exclusively by children, fairies and one wise old tree. You have your own treehouse here and all the inhabitants seem to like you. The wise old tree is even willing to offer advice whenever you need it. The perfect place from which to embark on your own adventure! Just don’t mind the wise old tree’s tendency to ramble on and on and on and on, I promise that he actually has neat stories to tell.",
+    "origin": "The Adventures Of Lunk"
+  },
+  "eb630b9f-b703-5a7c-bd91-c58a80a775bb": {
+    "id": "eb630b9f-b703-5a7c-bd91-c58a80a775bb",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Garden of Eden",
+    "cost": 300,
+    "description": "While the name may not be literal, this plot of land has incredibly fertile soil and an unusual field that allows anything to grow within its boundaries, regardless of the normal requirements for it to grow, even plants with supernatural properties can be grown with ease and minimal need for upkeep. It even prevents competition between plants that would normally outcompete their fellows, allowing plants that would normally conflict to live side by side without issues. Plants that are planted here will grow to maturity far faster than normal with no negative effects from the accelerated growth and will recover from any harvesting that doesn’t completely destroy it, even cutting down a tree to leave only a stump would allow the tree to regrow in days. Additionally, there is a cave that leads to a cavern that is just as large as the surface plot of land with similar properties as the surface garden, except it is ideal for fungi that grows in its boundaries, as well as plants that commonly grow underground or where there is little to no soil or light. Finally, animals raised here have their health improved and have all of their needs provided for, including any need to hunt and be entertained and enriched. The land itself also is immune to invasive species, every species of animal introduced being incorporated into a balanced web of life within this land.",
+    "origin": "Generic Druid"
+  },
+  "1c0c66ab-ebaa-5059-9d6b-e85ec66bb813": {
+    "id": "1c0c66ab-ebaa-5059-9d6b-e85ec66bb813",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Gemma Blackthorn, The Lost Druid",
+    "cost": 100,
+    "description": "Poor Gemma, once one of the gems of Gilnean High Society, now little more than a humanoid monster, or so she claims. After contracting the Worgen curse, she could not bear the looks of scorn and fear. When a Night Elf offered to mentor her in the Druidic arts, she gladly accepted. Unfortunately, her self-doubts and loathing have left her trapped, unable to take on either a human or Worgen form. She has been caged within her Wildkin form for the most part, only able to take on anthropomorphic forms of other beasts. Ashamed, she has secluded herself deep within the wilderness, at least until you came along. With you, she feels accepted, outcasts from wider society. Perhaps with your help she may assume her old human form, but she seems to be in no hurry. Rather, she constantly tries to take on the form of your kind; for what purposes remains somewhat unclear.",
+    "origin": "Strangers of Azeroth_ Beastly Terrors V.1."
+  },
+  "69a6c9ab-0f31-5e4e-8d41-3287a3f091c1": {
+    "id": "69a6c9ab-0f31-5e4e-8d41-3287a3f091c1",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Golden Afternoon Garden",
+    "cost": 200,
+    "description": "A strange garden. It can be found close to your starting location, on a property you possess, or connected to your Warehouse by a special gateway. The garden has various oddities like bread-and-butterflies, rocking horseflies, and dog and caterpillars. Of greatest importance are large flowers, who are capable of speaking and singing. The garden is maintained thanks to the efforts of these flowers, and were you to plant things in the garden, the flowers will help them grow. The singing flowers are convinced you are some strange form of wildflowers; probably for the best, as they do not take kindly to weeds.",
+    "origin": "Alice in Wonderland (Disney)"
+  },
+  "7cab5988-514b-53f8-a1e2-50f38ae0e40c": {
+    "id": "7cab5988-514b-53f8-a1e2-50f38ae0e40c",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Greenhouse Three",
+    "cost": 400,
+    "description": "Or any other number you like, really. This greenhouse, either inserted into new worlds in a location of your choosing or attached to your Warehouse, is perfect for growing all manner of magical plants. So perfect, in fact, that it can grow new ones! In addition to several rows of plots and potted plants of all kinds, it contains four larger plots; one at each corner, suitable for one large tree apiece. Planting any kind of magical raw material, such as Re’em blood or unicorn hair, makes a tree that grows that material. Liquid materials are stored in hard, coconut-like fruits on the tree, easily broken with concerted effort but highly unlikely to spill, split, or otherwise damage the surrounding plant life no matter how volatile your reagent is. Since it’s a magically expanded greenhouse with literally every species of plant life in it, it also has a bit of magic so that all you need to do is think of what you need and start walking down a row, and you’ll reach it within seven paces. All plants within this greenhouse are automatically cared for and reach maturity within a maximum of one week. Plants are kept docile by the greenhouse’s magic, so don’t worry about the Venomous Tentacula eating one of your ears while you’re not looking. Doesn’t automatically update in future jumps, but you can bring new plants into it manually and incorporate them into the greenhouse by planting them in the provided pots. A must-have for aspiring Potions masters.",
+    "origin": "Harry Potter and the Methods of Rationality JumpChain"
+  },
+  "dca38aed-10ec-50f4-9319-1191bab2da93": {
+    "id": "dca38aed-10ec-50f4-9319-1191bab2da93",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Groundling Town",
+    "cost": 200,
+    "description": "At first glance this 'village' might not appear as such at all, as it consists of a large, rotten log along a rough, overgrown path. The log is about three feet in diameter, dead and rotting yet still teeming with plant and animal life. Amidst which the groundling fae have made the nests and huts they call home, a tiny three-story moss-wood tower serves as their leader’s housing and broken twigs serve as a bridge to the outside of the log. Here there live perhaps twenty of these groundlings, each one virtually identical to a normal faery but for the lack of silvery wings. They seem to think you are important, and as such have pledged themselves to aiding you. While they might not be able to fly themselves, they’re just as strong as a normal faery and have their pride. As well as enough ingenuity to create curious wing-like contraptions of leaves and twigs to which they attach living, buzzing dragonflies and mayflies. Which allows them to take flight for short periods at least.",
+    "origin": "MtG - Lorwyn"
+  },
+  "26d3ae71-9107-58e8-a9de-c814fcecc4df": {
+    "id": "26d3ae71-9107-58e8-a9de-c814fcecc4df",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Herb Garden",
+    "cost": 400,
+    "description": "A herb garden designed however you wish. At the basic level this garden has all the herbs found on Earth and in Classic WoW. Herbs picked here will not need to be replanted and will regrow on their own without any help from you. There will always be enough herbs for whatever you may need them for, but if you pick more than 100 herbs within a month they will need time to rest before they regrow taking one month to do so.",
+    "origin": "Azeroth Jumpchain"
+  },
+  "79c8d4e9-c875-5905-8295-4539f21a9038": {
+    "id": "79c8d4e9-c875-5905-8295-4539f21a9038",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Herbology Garden",
+    "cost": 100,
+    "description": "A greenhouse, kept to the perfect temperature, with several planter boxes and garden spaces, allowing for multiple species of plants to be cultivated and cared for. Comes with a storage box that will automatically harvest and store plants that reach maturity, with the area being automatically reseeded afterwards.",
+    "origin": "Hogwarts Legacy"
+  },
+  "367f0960-95a2-5f82-bed1-5a000c2207f6": {
+    "id": "367f0960-95a2-5f82-bed1-5a000c2207f6",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Kokiri Woods",
+    "cost": 400,
+    "description": "The emerald green trees, rivers of clear blue, black dirt filled with nutrients, and the sounds of childish laughter drifting in the wind. Attached to your Warehouse is an absolutely massive forest, filled with all kinds of life that can be found in these lands, both flora and fauna, deku scrubs and fairies. And to protect it, the outer reaches of the forest have been enchanted to confuse and distract anyone you don’t want within, making them incomprehensibly lost before finding their way directly outside of your forest.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "15beba97-6801-5fc9-87c9-ab2eabb45338": {
+    "id": "15beba97-6801-5fc9-87c9-ab2eabb45338",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Mandrake Plantation",
+    "cost": 200,
+    "description": "You gain a warehouse farm-like attachment that grows rows of Mandrakes automatically. Mandrakes are a magical and sentient plant which has roots that look like a human and a cry that can be fatal to anyone who hears it. The root of a Mandrake is a powerful potion ingredient that can be used to enhance many potions including the potent Mandrake Restorative Draught, a healing potion capable of curing petrification.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "3118ae39-ca25-5f3e-acef-682bcf4483cb": {
+    "id": "3118ae39-ca25-5f3e-acef-682bcf4483cb",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Murmuring Grove",
+    "cost": 400,
+    "description": "Treefolk are sometimes said to value the life of a tree more than that of skinfolk, which may have something to do with the fact that almost any tree could awaken as a new treefolk if it was ready to go through the Rising. Accordingly, they protect their groves fiercely. A duty that now falls to you as well, as you have gained ownership of a small grove of the Rising, a protected birthplace of treefolk filled with trees of your choice, whether they be one particular species of tree or a collection of all Lorwyn’s species like a parliament of trees. Trees planted here grow at an astounding rate, to the point that poplar saplings might shoot up to grow nine feet tall in less than a handful of days, and they seem to Rise more often than the trees in other groves do, even if left unattended. But it is the older trees who truly give this grove a special character, for the trees here speak and remember much. They might not be treefolk, having not undergone the rising themselves, but are still aware enough to speak amongst themselves and share their wisdom. Treefolk and druids can empathically understand them as though they were speaking, and if people of other tribes stay perfectly still, they may be able to hear the trees gossiping among one another as well.",
+    "origin": "MtG - Lorwyn"
+  },
+  "b1aac77a-6cc8-5ce6-b0fa-387a2ea23a58": {
+    "id": "b1aac77a-6cc8-5ce6-b0fa-387a2ea23a58",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Natural Lands",
+    "cost": 200,
+    "description": "A plot of land, be it burial grounds, a grove where nature spirits congregate, or a place where the border to the spirit world is thinner, of significance to the natural world. The nature of these lands makes rituals performed within them have a much higher chance of success, reduces the resources required, and ensures they are far more forgiving on any mistakes made, compensating for a lack of skill and understanding to a great degree. Additionally, spirits are more easily spoken to within these lands.",
+    "origin": "Generic Druid"
+  },
+  "4c007715-09bd-5d45-96e0-3f4c45517f40": {
+    "id": "4c007715-09bd-5d45-96e0-3f4c45517f40",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Nature Spirit",
+    "cost": 200,
+    "description": "You have formed a connection with a nature spirit of some description, be it a manitou or a will-o-the-wisp or even a simple spirit guide. This spiritual entity has knowledge of many spells and rituals used by druids and is quite knowledgeable about nature and its magic in general, enough so that he can feed you information about natural phenomena you encounter and the magics or rites your foes may be using. They can also help you advance your skills as a druid, acting as a mentor. However, that isn’t everything they have to offer. This spirit is capable of possessing you, offering an enhanced connection to the natural world and altering your form to take on traits of various plants and animals when merged, which can become more refined and useful over time as you learn to utilize them to your advantage.",
+    "origin": "Generic Druid"
+  },
+  "568a5b29-2087-54e4-b036-4ac0fb8acb4c": {
+    "id": "568a5b29-2087-54e4-b036-4ac0fb8acb4c",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Nelsi The Dryad",
+    "cost": 100,
+    "description": "It is rare to see a Dryad so far from their groves and forests. Yet far she has come indeed, for Nelsi suffers from a malady only you can, supposedly, cure. She has been struggling with being slowly corrupted by the Emerald Nightmare, and because of a vision granted by Elune, she has now come to you. You will find her to be extremely gullible to the more mundane facts of life, including in the matters of sex. Which, coincidentally, is one of the things you must provide her with if you wish to purify her. The other is tender love, giving her hope of a new tomorrow. Of course, after purifying her, there is a good chance she will shyly ask to remain by your side. And if a part of that is because she has come to lust after you, that is merely a good bonus. Alternatively, you could subject her to depravity and corrupt her into a slut more interested in pleasure than taking care of nature, beyond corrupting the rest of it to match her new views on life.",
+    "origin": "Strangers of Azeroth_ Beastly Terrors V.1"
+  },
+  "8384d3d2-9748-5263-b304-48f070065c1a": {
+    "id": "8384d3d2-9748-5263-b304-48f070065c1a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Orweyna, The Keeper of Roots",
+    "cost": 100,
+    "description": "The Haranir follow their traditions rigidly, wishing to remain far away from outsiders. Orweyna, however, feels the sort of curiosity one does not simply suffocate. And so she has latched herself to you, wishing to learn more of Azeroth and, naturally, of you. Though not the most talkative sort, Orweyna is rather friendly and bears magical knowledge that borders between Druidic and Shamanistic. What you end up showing her is up to you, as it is whether you will aid her in protecting the Great Roots when the time comes.",
+    "origin": "Warcraft_ Elven Abodes(V.1)"
+  },
+  "750218e5-4aa9-59a6-abd6-9e4bb53fa053": {
+    "id": "750218e5-4aa9-59a6-abd6-9e4bb53fa053",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Seeds",
+    "cost": 300,
+    "description": "This is a pouch that contains dozens of seeds. By tossing them out into any land with dirt they will quickly grow into small soldiers that are roughly three feet tall. They are very loyal to you but short lived, dying out over the course of the next two weeks. Their personalities will be up to you. However they will always hate being mistaken for goblins.",
+    "origin": "Generic Dryad"
+  },
+  "852dde3b-908e-5399-9ec1-a1eca05bb236": {
+    "id": "852dde3b-908e-5399-9ec1-a1eca05bb236",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Seeking Your Roots",
+    "cost": 200,
+    "description": "At first glance appearing to be a humble farm plot, this is really the result of a master alchemist’s life’s achievement. You’ve inherited the results. The soil here is specially treated. The fields manage perfectly well unattended, only requiring some replanting of seeds after a harvest. This property will makes you one of the only people able to cultivate a certain rare root: Nirnroot. Giving a soft glow and telltale hum the plant is a unique sight for many. Along with the field itself is copious research notes for fantastic formula using the plant that are well beyond what can normally be achieved with alchemy. If the noise and light from this farm would bother you the field can be used to cultivate two other options instead. There’s equally rare Jarrin Root which needs no alchemy to be exceptionally deadly. Or, there’s Canis Root, which is a natural repellant for werebears and makes an excellent tea.",
+    "origin": "TES V - Skyrim (By stupid_dog)"
+  },
+  "cf2bb933-c8b9-5c97-912d-769d7f6cd2b0": {
+    "id": "cf2bb933-c8b9-5c97-912d-769d7f6cd2b0",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Spirit Forest",
+    "cost": 400,
+    "description": "You sure the essence of the true world tree didn’t grace you? You have a pocket dimension, a large forest with a roughly 700 meter radius. You can decide what animals, plants, ecosystems, landmarks, and other such things this forest possesses. Other properties can be attached to this forest and appear here in a form befitting a place touched by mother nature. You may choose how to enter this realm. An Example would be walking behind a tree when the sun is facing the front or the appearance of large holes that appear bottomless only for you to fall into a lake upon jumping into it. However these methods are available to the entire world, expect many accidental visitors.",
+    "origin": "Generic Dryad"
+  },
+  "bdde534a-d292-5d5f-9250-07c1d8b2828a": {
+    "id": "bdde534a-d292-5d5f-9250-07c1d8b2828a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Sylvi Greenhaze",
+    "cost": 100,
+    "description": "Sylvi Greenhaze is the timid younger sister of Orberon Greenhaze. She was one of the elves captured by the dwarfs where she spent most of her time in the dwarven gardens and kitchens in order to grow ingredients and make soup only to be rescued by the Overlord. She has an interesting attraction to darker styles, enjoying wearing grunge clothing and having a panic attack if her collar is removed. She is immensely devoted and loyal to you her master and is happiest when being thanked for making food for others.",
+    "origin": "Overlord (Game) Fanfic Jumpchain"
+  },
+  "8f834a8b-99b5-5600-9f57-0092cf96ddc3": {
+    "id": "8f834a8b-99b5-5600-9f57-0092cf96ddc3",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "Tharela, The Bloody Dryad",
+    "cost": 100,
+    "description": "When one thinks of a Dryad, a heavily scarred and muscular amazon is not the first thing that comes to mind. And yet, Tharela is a veteran of countless battles and rivals Remulos in size. She has little patience for small talk or frolicking in the woods, not while the enemies of Nature still roam free on Azeroth. Depending on your alignment, her definition of what constitutes Nature will change, but whatever the case may be, she trusts you like a comrade of a thousand battles and will always have your back, just as she knows you’ll have hers.",
+    "origin": "Warcraft_ Elven Abodes(V.1)"
+  },
+  "afc75816-8b30-55a8-8d3b-9c17b880d058": {
+    "id": "afc75816-8b30-55a8-8d3b-9c17b880d058",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "The Lotus Casino",
+    "cost": 600,
+    "description": "The Lotus Casino. A useful tool to the Gods, but also one of the most dangerous places to visit in all of America. Although it looks like an incredibly lavish casino, both in and outside, what many are unaware of is that in fact it is a trap for all that enter. While it has a strange effect on it that causes time within to move slower than the outside world and in fact bestows a limited amount of immortality to those within, patrons will be urged to and outright forced to partake in a lotus flower snack by staff if they initially refuse. These lotus flowers are incredibly potent drugs that temporarily erase all memories of the outside world, however with the distractions of the casino they are capable of keeping those within prisoners of their own vices. You and your companions are immune to the effects of this casino, and turn a tidy profit from its proceeds.",
+    "origin": "Percy Jackson and the Olympians JumpChain"
+  },
+  "683ece5e-001e-5297-b844-6a5906aaf6a5": {
+    "id": "683ece5e-001e-5297-b844-6a5906aaf6a5",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "The Maze",
+    "cost": 600,
+    "description": "This magical maze can be set up anywhere to protect anything within its true centre and due to its magical nature the space within folds upon itself so that any entry from above will always be the outermost layer. Anyone who enters this maze will face their darkest fears which will manifest using the vines and thorns to take form. Those who fail to face the darkness within will slowly become warped and bewitched to guard the maze from outsiders. Anyone who wishes to can leave whenever they want but they would have to begin the maze from the beginning should they want to enter again. You, being the owner of the maze, can skip all of that personal growth by facing your worst fears and you can go directly to the centre of the maze (with guests if you want) when you enter it. The maze prevents anyone with supernatural abilities, supernatural perception, or even mundane cheating methods to skip the arduous maze, things like scrying, seeing through the walls, teleporting to the centre, using some sort of find-path spell, flooding it with mundane minions, marking the path, trying to burn it down, etc all of that doesn’t work.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "8bca3211-708a-511a-9884-1003bc0d2c29": {
+    "id": "8bca3211-708a-511a-9884-1003bc0d2c29",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Allotment",
+    "name": "The Vineyard",
+    "cost": 200,
+    "description": "Were you hoping to ease the lack of manawine in Suramar? Perhaps you need a hobby in your twilight years? In either case, what you have here is a massive vineyard capable of growing all manner of grapes and other fruits. Included also are the necessary equipment needed for brewing and refining manawine and other mana-infused beverages.",
+    "origin": "Warcraft_ Elven Abodes(V.1)"
+  },
+  "4b875e21-5695-5acb-9b83-a135204cc5b2": {
+    "id": "4b875e21-5695-5acb-9b83-a135204cc5b2",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "A Humble Living",
+    "cost": 100,
+    "description": "Sure, adventurers may get all the glory, but sometimes things as simple as working on a farm or cutting down trees can be pretty fulfilling on its own. You're good at 'destressing' into a civilian lifestyle and labor, even if you're normally the type to tear through armies or fight with world-shaking stakes. Such work not only gives you satisfaction and enjoyment, but it does wonders in alleviating or even clearing up stress and mental trauma you may have experienced. While it's not a cure-all, doing small odd jobs where nobody needs to die is a wonder source of relief for you.",
+    "origin": "Final Fantasy 14 (HeavensAnon's Version)"
+  },
+  "fed40d9b-543c-54d5-9989-032d3926d2eb": {
+    "id": "fed40d9b-543c-54d5-9989-032d3926d2eb",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Child of Nature",
+    "cost": 600,
+    "description": "You are one with nature, and so animals, beasts, and most monsters will ignore you, and most people will find themselves reluctant to attack you, so long as you don’t attack them first. Only things that are truly not of the world or that are enemies of all living are immune to this effect.",
+    "origin": "Legend of Zelda - Breath of the Wild JumpChain"
+  },
+  "296eaae3-6c88-56ab-a954-3c32800463f1": {
+    "id": "296eaae3-6c88-56ab-a954-3c32800463f1",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Convenient Pumpkins",
+    "cost": 200,
+    "description": "Whenever you need a hiding space an unexpected pile of pumpkins will appear which always seem to act as perfect cover. The pumpkins will not attract any sort of attention and will never seem to be out of place. People will remember them as always having been there and will not think to check around them.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "9fc692d1-43a0-57ac-97d4-34dd48b1f0aa": {
+    "id": "9fc692d1-43a0-57ac-97d4-34dd48b1f0aa",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Crystalline Paths",
+    "cost": 600,
+    "description": "Crystals are a big deal in this world. The elements and aether from all life form the backbone of this star, often forming after scenes of mass destruction, death, or even great change in the geography. It can be a useful thing for you in future worlds as well. Somehow, you've learned how to create these crystals from the earth around you - coaxing deserts or hot areas to create crystals of fire, generating crystals of water from lakes or oceans, crystals of air from high or windy places, and so on. All you need to do is find a suitable area for the element and infuse it with some aether from yourself, and crystals will sprout from it within a few days. This can be harvested for their power or crafting needs. I wouldn't advertise this ability anywhere near a Tribe that likes to summon Primals, mind you. Naturally, this ability works in future jumps. You may even learn to create crystals from new elements entirely, especially in worlds with their own elemental systems or magicks, though this will require some study and time to accomplish.",
+    "origin": "Final Fantasy 14 (HeavensAnon's Version)"
+  },
+  "d148107a-43c0-5c54-a03a-a3cdbddeccf3": {
+    "id": "d148107a-43c0-5c54-a03a-a3cdbddeccf3",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Don’t Mind Me",
+    "cost": 400,
+    "description": "Have you ever seen a Sharlayan scholar in the wild, carefully documenting and gathering things like herbs, lumber, and more to be studied back home? No? Exactly. Owing to their policy of non-interference with the outside world, Sharlayan gatherers do their absolute best not to be seen or involve themselves in events with the locals. This is an ability you've picked up on - so long as you're just doing things like gathering and farmer, things like bandits, soldiers, and even hostile wildlife completely ignore you. While this won't let you walk into bases to take things like their weapons, supplies, or vital intel, nobody will harass you if all you're doing is chopping down wood or going fishing.",
+    "origin": "Final Fantasy 14 (HeavensAnon's Version)"
+  },
+  "8cdf826f-d2f1-530c-9743-aaff46dd558f": {
+    "id": "8cdf826f-d2f1-530c-9743-aaff46dd558f",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Druidic Beginnings",
+    "cost": 200,
+    "description": "You’ve taken the first step on a path walked by many a Kaldorei before you, that of Druidism. Through the manipulation of Nature, you can commune with the natural world, talking to animals, healing and animating plants, and even taking on the form of a mighty beast. Through the use of both Arcane and Nature, you can wield magics related to the moon and the sun. At this level, you would be comparable to a normal Cenarian Circle member, but with training, you could one day come to rival Malfurion himself.",
+    "origin": "Warcraft_ Elven Abodes(V.1)"
+  },
+  "d9439168-7110-5812-a9fb-9d57a54e1ad5": {
+    "id": "d9439168-7110-5812-a9fb-9d57a54e1ad5",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Fantastical Farming",
+    "cost": 100,
+    "description": "You have a strange knack, an ability if it were to sucessfully grow the most fantastical and unusual crops in the land. No matter how difficult the terrain, or obscure the conditions required, you can grow magical plants and trees with ease. If given good soil and a highly magical area, your crops will always be bumpers.",
+    "origin": "The Wonderful Land of Oz"
+  },
+  "e01f453b-9f87-5994-bc48-cd5543b2b92d": {
+    "id": "e01f453b-9f87-5994-bc48-cd5543b2b92d",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Greenspeaker",
+    "cost": 600,
+    "description": "The god Y'ffre solidified your people's forms, and bound you to the Green Pact, and your connection to this divine contract is stronger than most. Through song and magic, you are capable of manipulating all plant life however you see fit, from shaping a living tree into the perfect home to having sharpened roots shoot up from the ground to impale your foes to conjuring flowers that emit a deadly pollen. Additionally, you are able to summon spriggans to your side, all of whom will follow any order you give them.",
+    "origin": "TES: Main Races"
+  },
+  "186a8524-bdfa-520d-b8a5-85a9f886099f": {
+    "id": "186a8524-bdfa-520d-b8a5-85a9f886099f",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Herbal Knowledge",
+    "cost": 200,
+    "description": "When one lives within the Wild, it is a good idea to know what plants are safe for consumption and what is best left alone. Not only do you have an encyclopedic knowledge of all mundane, non-magical plants, but you also know how to turn these into potions and medicines.",
+    "origin": "Strangers of Azeroth_ Beastly Terrors V.1"
+  },
+  "6eb54712-aedb-5d57-a1fa-be9c01c4b131": {
+    "id": "6eb54712-aedb-5d57-a1fa-be9c01c4b131",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Herbalist",
+    "cost": 100,
+    "description": "Many plants in this world have supernatural effects or healing properties, and so there exist many herbalists who use them to create useful items. You’ve studied under a master herbalist and as a result have gained a near-encyclopedic knowledge of the flora of this world and its effects, and thus have gained the skills required to create various potions, poultices, salves, and incense. By itself that is already an extremely useful skill to have, but for someone like you, Jumper, that wasn’t enough. And so it was that you sought out the Dalish, and had them teach you what they knew about many natural remedies humans have long since forgotten or ignored, such as knowing which type of tree bark cures headaches when chewed upon.",
+    "origin": "Dragon Age Jumpchain"
+  },
+  "c7a39932-54ac-5261-8689-4a80db7ab042": {
+    "id": "c7a39932-54ac-5261-8689-4a80db7ab042",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Lost Woods Resident",
+    "cost": 200,
+    "description": "Only the koroks and fairies are capable of properly navigating the winding woods they call home, all others getting lost before turning into stalfos. Much like them, you are immune to such magical disorientations, able to navigate just as you would in any normal location. This not only affects the woods found here, but all methods of keeping invaders away through such trickery in future worlds.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "877f1041-8ccc-5f90-9b14-2c4424daa952": {
+    "id": "877f1041-8ccc-5f90-9b14-2c4424daa952",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Natural Magic",
+    "cost": 200,
+    "description": "The natural world is full of a magic all its own, energies left behind by spirits and ley lines that flow beneath the surface, which can then be shaped into a variety of effects. You know how to bring out the inherent energies within a material, distill them into a usable form, and shape them to have desired effects, allowing you to create potions and enchantments of all sorts by combining them in the right ways and shaping them into the right forms. You can even incorporate other magics you may know into these creations.",
+    "origin": "Generic Druid"
+  },
+  "56b0fee4-59f4-5d8e-b82b-1965ded1e75f": {
+    "id": "56b0fee4-59f4-5d8e-b82b-1965ded1e75f",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Nophica’s Kiss",
+    "cost": 600,
+    "description": "Forget about having a green thumb, your entire being might be green at this point. As if blessed by Nophica herself, your ability to grow and cultivate crops and natural resources is enough that you may singlehandedly turn deserts into forests or feed entire cities. Trees grow to their full size in mere weeks, foods and herbs bloom in half that amount of time, and that's all with regular- to-unfavorable soil. If you had ways to enhance this, then you may turn into a one-person avatar of nature with the bounty you create. In addition, whenever you learn how to harvest a particular resource - ores, plants, or anything used in your crafting or personal business - you'll find such resources that you normally wouldn't find in other worlds, even unique ones, tend to be stumbled upon by you in future jumps and otherwise undiscovered by the locals against all odds. Imagine the heads that will turn when you introduce things like cereleum and adamantite to future worlds on your chain. This can be toggled on and of at will.",
+    "origin": "Final Fantasy 14 (HeavensAnon's Version)"
+  },
+  "bff4d698-9613-551a-aeaf-6b84d8f7d677": {
+    "id": "bff4d698-9613-551a-aeaf-6b84d8f7d677",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Offloading the Goods",
+    "cost": 200,
+    "description": "Of course, getting your own materials is fine and good, but finding some interested buyers is even better. Especially ones with deep pockets and unusually lenient deadlines. A combination of luck and intuition guides you to such interested buyers easily, so much you could find one just by advertising your services or wandering around a populated city long enough. As long as you have some sort of material to provide, both interested crafters and especially rich benefactors will be eager to buy from you.",
+    "origin": "Final Fantasy 14 (HeavensAnon's Version)"
+  },
+  "7d59b370-63d6-58cf-9f45-8e0f4f44f4a3": {
+    "id": "7d59b370-63d6-58cf-9f45-8e0f4f44f4a3",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Out In The Fields",
+    "cost": 400,
+    "description": "Druids do their work in the deepest wilds and furthest reaches - learning and working far from civilization. Where the Wild Gods and their children can be found in harmony with the world around them is most often where your orders can be found. So it is that you find yourself more at home out there - the more you spend out in the wild places of the world, far from civilization, the more you’ll find your skill, competency, and your ability to learn and retain knowledge will increase. The less time you spend out in the wild embrace of nature, the less this benefit will be felt - until it’s nearly nonexistent when amidst a bustling city. This effect returns the further you leave society, receiving half of it’s benefit in farmland and small villages, and nearly replenishing fully when barely on the fringes of colonized country. Let the wilds into your heart, and you will be capable of a great many things.",
+    "origin": "World of Warcraft - The Updated Jump"
+  },
+  "0359e581-13f2-5ef2-bb51-dfe42847194d": {
+    "id": "0359e581-13f2-5ef2-bb51-dfe42847194d",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Plentiful Bounty",
+    "cost": 600,
+    "description": "Because sometimes you just need one more. One more resource, one more swing of the pickaxe, and one less time you need to make multiple trips. This perk's ability is simple yet potent: Whenever you personally harvest a resource of any kind, you yield twice as much as you normally would. Getting two ores or sets of lumber when you would normally get one, for instance. Occasionally, if you're especially lucky, it will yield three times or even four times as much, though this is entirely random. Expect to have a lot of people wanting to hire you or teach your secrets once they know you can do this.",
+    "origin": "Final Fantasy 14 (HeavensAnon's Version)"
+  },
+  "e7d78ae1-bb13-5e52-bc52-eaa524196633": {
+    "id": "e7d78ae1-bb13-5e52-bc52-eaa524196633",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Pocket Storage",
+    "cost": 200,
+    "description": "Food goes bad, crops eventually spoil and decay, metals rust. An unspoken rule of this world is that everything eventually breaks down and dies. While you can't exactly wave your hand and make something eternal, you're awfully good at putting this entropy on 'pause'. When you store anything in a sealed container, whether a cooked meal, materials, or even some organic matter, it will remain perfectly preserved in the same state you stored it in so long as said container remains unopened. While you can't store living beings this way, especially ones who don't take kindly to being locked in a box somewhere, you no longer need to worry about things like refrigeration or food storage. Just be sure to clean the containers now and then.",
+    "origin": "Final Fantasy 14 (HeavensAnon's Version)"
+  },
+  "691b83d1-3980-5712-84e6-6381284c9a2f": {
+    "id": "691b83d1-3980-5712-84e6-6381284c9a2f",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Purity",
+    "cost": 200,
+    "description": "Your internal energies are exceptionally pure, free of impurity or corruption of any kind, rendering it more effective than it otherwise would be. Your internal energies are twice as potent and you have twice as much of it as another without this advantage. Additionally, nothing will ever be able to seal away, steal, corrupt, or otherwise affect your internal energies unless you allow it to happen in the first place.",
+    "origin": "Generic Druid"
+  },
+  "2bd44570-b0dd-5fc4-a23e-f5777b511ab2": {
+    "id": "2bd44570-b0dd-5fc4-a23e-f5777b511ab2",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Purity of the Wild",
+    "cost": 400,
+    "description": "It is the bosmer who were chosen to protect the forests of Valenwood, but that does not mean that your only concerns are imperials with axes. From invasive species to pollution both magical and mundane, there are many threats to your green homeland, and you are the best person to fix it. You are capable of magically inducing plant growth, turning a sapling into a mighty oak within a few minutes, as well as purging all impurities from an area.",
+    "origin": "TES: Main Races"
+  },
+  "e37ac874-ce9d-5d3e-89ab-448f7d0ec76a": {
+    "id": "e37ac874-ce9d-5d3e-89ab-448f7d0ec76a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Resourceful",
+    "cost": 100,
+    "description": "You have a skill for living off of the land, finding both food and shelter. You are able to navigate ably, and when you are harvesting plants or ores or other natural resources, the results will end up being a bit more plentiful, allowing you to harvest a bit more than others could manage.",
+    "origin": "Hogwarts Legacy"
+  },
+  "7648e766-e017-5417-b7d9-7bcc1c7046d5": {
+    "id": "7648e766-e017-5417-b7d9-7bcc1c7046d5",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Sticks and Stones",
+    "cost": 100,
+    "description": "Steel is useful, but it’s surprising what can be done with stones and wood - slingshots, deku sticks, and even boomerangs are all not to be taken lightly, not to mention how handy a deku nut can be in a pinch. Your know-how of how to best take advantage of naturally grown materials and their properties is greatly enhanced, from here on out.",
+    "origin": "The Legend of Zelda - Ocarina of Time JumpChain"
+  },
+  "c8681385-d2dd-54f4-ae3e-1a01dcf61b90": {
+    "id": "c8681385-d2dd-54f4-ae3e-1a01dcf61b90",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Strive to Survive",
+    "cost": 300,
+    "description": "Despite life’s inevitable end, everything that lives inevitably strives to survive and live on, to persist as long as they can before they pass on, or at least leave a legacy to carry on in their stead. You are ageless, highly resistant to diseases and poisons, and are immune to any effect that would simply snuff out your life. Damage causing death is not resisted through this effect, but a spell that simply ends your life or cuts the tether between body and soul to end you would have no effect. Even conceptual effects to erase your very existence don’t work on you. Finally, you possess a potent, but slow, healing factor that allows you to heal from nearly anything, so long as you live, even regenerating limbs or organs in time.",
+    "origin": "Generic Druid"
+  },
+  "b6c498ce-9a3f-5a81-bdb6-45b3309c6dbf": {
+    "id": "b6c498ce-9a3f-5a81-bdb6-45b3309c6dbf",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "The Keeper of the Roots",
+    "cost": 400,
+    "description": "The Haranir hold a close bond with plants, tending to the mysterious Great Roots that spread across the caves and earth of Azeroth. You are an excellent botanist, able to identify and take care of all manner of plants, with each unknown one quickly becoming familiar to you in a matter of days. Under your care, even the sapling of a Worldtree would bloom within months of being planted.",
+    "origin": "Warcraft_ Elven Abodes(V.1)"
+  },
+  "95983727-cfe6-5ce1-9c90-9c8e464440e5": {
+    "id": "95983727-cfe6-5ce1-9c90-9c8e464440e5",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Vir Tanadhal",
+    "cost": 0,
+    "description": "The Vir Tanadhal is a Dalish philosophy espoused by a clan’s hunters in the spirit of the goddess of the hunt, Andruil. It teaches young Dalish hunters to respect nature and be resolute in purpose. You’ve been instructed in this philosophy’s teachings, and have learned how to move through the wilds swiftly, silently, and unencumbered. Furthermore, wild animals will never bother you unless deliberately provoked.",
+    "origin": "Dragon Age Jumpchain"
+  },
+  "5284ebd6-b644-5b23-a970-d5fdc6eee4d8": {
+    "id": "5284ebd6-b644-5b23-a970-d5fdc6eee4d8",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Web of Life",
+    "cost": 200,
+    "description": "You gain a reserve of power within yourself that is separate from the normal magic you may possess. This reserve is near infinitely deep but does not regenerate on its own and you must collect power from places of life, natural growth, harmony, untainted nature, or some other naturally charged areas. Most uncultivated, outdoor environments would qualify, though even parks and gardens would have some measure of this quality. This power can be used to heal or influence animals and plants, fuel or enhance druidic spells, or to infuse into the land to tune it towards your supernatural abilities, allowing you to use any of them from anywhere within the infused land as if you were present directly.",
+    "origin": "Generic Druid"
+  },
+  "1cd4caea-6abf-5d45-b2df-cdb9b12eb352": {
+    "id": "1cd4caea-6abf-5d45-b2df-cdb9b12eb352",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Whispers of Nature",
+    "cost": 200,
+    "description": "From the Haranir, you can see glimpses of the Druidic potential held by their descendants, the Night Elves. Though the latter hold a far broader mastery of Druidic Arts, the Haranir specialize and excel in plants. When it comes to magics that interact with plants, be it controlling, healing, or growing them, you have great potential for said arts. And, were you to invest a part of your magical power, you could infuse specific plants with sentient life, bringing forth creatures similar to the ones roaming Harandar.",
+    "origin": "Warcraft_ Elven Abodes(V.1)"
+  },
+  "fb19727f-e7d1-5407-8b0e-013094129915": {
+    "id": "fb19727f-e7d1-5407-8b0e-013094129915",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Woodcraft",
+    "cost": 100,
+    "description": "Like the Elves of Ossiriand your skills in woodcraft are top notch. In wooded wilderness you will never have any trouble finding food, water, or shelter. Your skills in stealth and navigation while in a wooded area make you nigh impossible to track and unable to get lost. A dozen men could scour a wooded area for days and never find you should you wish it.",
+    "origin": "Silmarillion JumpChain"
+  },
+  "b60b9d9b-ab9a-5b34-9419-e90ec221056c": {
+    "id": "b60b9d9b-ab9a-5b34-9419-e90ec221056c",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Woodland Stalker",
+    "cost": 100,
+    "description": "A beastman hunts and walks the woodland realms, turning a peaceful forest glade into a terrifying scene of havoc in but a moment. Even when not on the Beastpaths, they can navigate the woods without losing progress or time. This... This makes you among the best pathfinders, able to shave a woodland journey from a day into but a few hours, and capable of finding the best ambush points and trap locations for your prey - be they beasts on four legs, or fools on two.",
+    "origin": "Warhammer Fantasy - Beastmen"
+  },
+  "ad525e31-20e2-5799-97dd-0b61b8fd566a": {
+    "id": "ad525e31-20e2-5799-97dd-0b61b8fd566a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Herbology",
+    "name": "Woodshaping",
+    "cost": 400,
+    "description": "The Dalish elves practice a craft known as Woodshaping, which allows them to forge outstanding arms, armour, and other items from wooden materials that can easily compare to most of their metal counterparts. Yes, you read that correctly. Forge. They forge wood. How they manage to accomplish this, only the Dalish know, and they’re not telling any outsiders. Except for you, that is. You’ve studied under a Master Woodshaper,and learned all they’ve had to teach you, including the secret of how to work with Ironbark. Any type of wood can be used for this craft, but the best results are gained when Ironbark is used. Ironbark is a rare wood type, somewhat blue in colour, and only grows in the Brecilian Forest in Ferelden. Items fashioned from Ironbark are surprisingly both stronger and lighter than steel, and are exceptionally suited to enchantments.",
+    "origin": "Dragon Age Jumpchain"
+  },
+  "330b928e-d352-5600-b157-b45df5124d63": {
+    "id": "330b928e-d352-5600-b157-b45df5124d63",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "A Whomping Guardian",
+    "cost": 400,
+    "description": "A potted Whomping Willow that can grow to its full size at will. This tree has a powerful magic-enhanced strike and a good throwing arm. It is loyal to you and will protect anything you tell it too but would never intentionally harm you.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "29ab37a7-86b8-5176-b632-956845ea6cdd": {
+    "id": "29ab37a7-86b8-5176-b632-956845ea6cdd",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Acacia Tree",
+    "cost": 400,
+    "description": "A fully grown Acacia tree planted at the boundary of one of your properties, this tree places a ward around your property that will keep all within its bounds safe from those who would seek to harm the residents. This barrier is completely invisible and intangible, so be sure you don’t stray beyond its protections.",
+    "origin": "The Wild Thornberrys"
+  },
+  "0edc5ab4-ee5a-525c-8143-e883d32cd810": {
+    "id": "0edc5ab4-ee5a-525c-8143-e883d32cd810",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Apple of Life",
+    "cost": 600,
+    "description": "Consuming this apple grants physical immortality – the subject's aging permanently ceases, they become immune to all disease, and they gain an incredible regenerative capability. Such apples almost always bear a terrible curse, but you've been granted a rare curse-free fruit. The price is for a single apple. Trees grown from its seeds will still produce apples with impressive healing qualities (and possible use as magical reagents), and second-generation apples will be incredibly nutritious.",
+    "origin": "Chronicles of Narnia JumpChain"
+  },
+  "db49bbc4-92e5-53c0-88f0-ae3b6fefc6eb": {
+    "id": "db49bbc4-92e5-53c0-88f0-ae3b6fefc6eb",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Arcan’dor Seed",
+    "cost": 200,
+    "description": "You have something precious here, a seed to an Arcan’dor, a tree that mixes both Nature and Arcane to bring forth a perfectly symmetrical tree that produces mana-rich fruits, each one able to sate an Elf’s need for mana for weeks. Normally, an Arcan’dor seed would need constant and careful tending, lest it become unstable and explode, but thankfully, yours is guaranteed to grow without issues even if you didn’t tend to it.",
+    "origin": "Warcraft_ Elven Abodes(V.1)"
+  },
+  "a96fcdf3-c08e-512a-bb0c-34168e35d377": {
+    "id": "a96fcdf3-c08e-512a-bb0c-34168e35d377",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Arch Weirwood",
+    "cost": 400,
+    "description": "This is an extremely old and big Weirwood tree in a location of your choice. By placing a hand on it and concentrating, you can see through any other weirwood as well as the area of a couple of kilometers around them. You can not only see the present but the past as well, up to a point when the weirwood was planted. No other entity, be they connected to Weirwood trees or not, can detect you watching or use your tree in any way. By snapping a twig of this tree and planting it, a new Weirwood will grow within a year, a process that can be sped up by spilling blood on it. Any blood will do.",
+    "origin": "ASOIAF Robert's Rebelion"
+  },
+  "21a6968a-f541-56db-91e8-5acf65eb9568": {
+    "id": "21a6968a-f541-56db-91e8-5acf65eb9568",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Blue Mushrooms",
+    "cost": 100,
+    "description": "A small bag of the extremely rare, mild-altering hallucinogenic Blue Mushrooms, normally found growing high on mountains. They’re highly valuable and extremely potent. There are no side effects, and you get a new bag of product every day. Each person reacts differently, some even peering into truths they may regret learning. Guaranteed to be a relatively good time.",
+    "origin": "Fable TLC Jump"
+  },
+  "559e29fe-6d61-5c3d-a08d-efb8c3834d02": {
+    "id": "559e29fe-6d61-5c3d-a08d-efb8c3834d02",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Chinese Chomping Cabbage",
+    "cost": 100,
+    "description": "One of the Carnivorous Plant species, has a large appetite and while it prefers to eat other plants it will take a bite out of humans without issue.",
+    "origin": "Hogwarts Professor Jumpchain"
+  },
+  "14639122-284d-503d-a25a-66f3e8be93b4": {
+    "id": "14639122-284d-503d-a25a-66f3e8be93b4",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Chora Sapling",
+    "cost": 100,
+    "description": "Chora trees are large magical trees with trefoil shaped leaves created during the Age of Legends. This particular tree is merely a sapling but it emits a sense of peace and tranquility.",
+    "origin": "Luck of the Draw JumpChain"
+  },
+  "9c3d2469-f873-540e-8baf-1cf985f86acb": {
+    "id": "9c3d2469-f873-540e-8baf-1cf985f86acb",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Crate of Weirwood & Black-Barked saplings",
+    "cost": 200,
+    "description": "Ten of each. They grow to full maturity within a year. Every ten years, another crate of twenty arrive. Weirwoods are sacred trees grown by the Children of the Forest and used as places of worship for those who follow the Old Gods. They have white bark, red sap and red leaves. The children often carve elaborate faces into the trunks as well, which the sap will swell up from, giving the appearance of tears. Black-Barked trees on the other hand are the trees Qarthian Warlocks use the leaves of, to make the Shade of Evening. Black-Barked trees have black bark and inky blue leaves. Both may have magical properties yet undiscovered, but will most likely relate to the two’s main mystical properties (weirwood trees - divination, black-bark trees - necromancy)",
+    "origin": "A Game Of Thrones Jumpchain"
+  },
+  "1441d398-f527-51d1-9c23-9fab993eecc8": {
+    "id": "1441d398-f527-51d1-9c23-9fab993eecc8",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Crimson Nirnroot",
+    "cost": 100,
+    "description": "This is a red cousin of the standard singing plant. This one is sentient and likes to watch you kill people.",
+    "origin": "The Senile Scribbles Skyrim Parody"
+  },
+  "4dae50f5-df4f-5fbb-b144-b853de2cdae5": {
+    "id": "4dae50f5-df4f-5fbb-b144-b853de2cdae5",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Devil's Snare",
+    "cost": 200,
+    "description": "Vines capable of independent movement, will seek to ensnare and strangle living targets. Hates Light and Heat and will release anyone grabbed by it if they keep still and don't struggle.",
+    "origin": "Hogwarts Professor Jumpchain"
+  },
+  "ce76e9e6-f9aa-558d-b331-bd0e91a40e9b": {
+    "id": "ce76e9e6-f9aa-558d-b331-bd0e91a40e9b",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Dirigible Plum Bush",
+    "cost": 0,
+    "description": "This small bush contains an orange radish-like magical fruit that grows upside down and will float away if disconnected from the stem. When used for cooking the plums are quite tasty and very healthy for magical beings in small doses.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "d141421c-8059-5e51-8873-ab215a5368a5": {
+    "id": "d141421c-8059-5e51-8873-ab215a5368a5",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Dittany",
+    "cost": 200,
+    "description": "A powerful healing herb that causes flesh to grow over bleeding wounds speeding the healing process by several days, can also be burned creating a green smoke that can cure colds.",
+    "origin": "Hogwarts Professor Jumpchain"
+  },
+  "6112c027-75a7-55d7-847d-57dfe721f919": {
+    "id": "6112c027-75a7-55d7-847d-57dfe721f919",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Elder Tree",
+    "cost": 400,
+    "description": "[400] - Quite possibly the oldest living thing in all of Tamriel, the Eldergleam is a tree beyond any other. Beyond its surprising durability, the tree is one that gives life. Its sap alone is precious, capable of restoring barren wastelands as well as improving the vitality of any living thing nearby. Plants, animals and even people become healthier, hardier, simply better than what they were before. Even if they leave the presence of the tree, such a boon nevertheless stays with them evermore. And finally, should your home ever come under attack, the Eldergleam shall protect it, calling forth Spriggans and other guardians of Kyne to guard your home and strike back at your foes.",
+    "origin": "The Elder Scrolls Series 1.2"
+  },
+  "c6dd7d98-1876-5460-8e30-bd34cf7fbd08": {
+    "id": "c6dd7d98-1876-5460-8e30-bd34cf7fbd08",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Elven Herbs",
+    "cost": 100,
+    "description": "Elves, the pansies, have at least managed to get these right. These carefully cultivated herbs are often used to commune with their Mother Goddess, but in reality they are the best trip one can ask for. Guaranteed to leave you a vegetable for several hours at least.",
+    "origin": "Overlord - PJ Edition"
+  },
+  "e4586d85-6b68-556c-b4bf-5a90d3f82691": {
+    "id": "e4586d85-6b68-556c-b4bf-5a90d3f82691",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Field of Heart-Shaped Herbs",
+    "cost": 300,
+    "description": "Out of all the Wakandan secrets that lie within the borders of the reclusive city, this one is the most potent secret of them all. It is also the most dangerous. It is a small but potent field, its soil infused with radiation from the ancient Vibranium meteor when it fell to such an extent that it would affect any plant life growing within it, like these herbs. The herbs are taken and ground up so that they may be imbibed. Strength and speed that reaches the lower levels of superhuman, durability to survive explosions with minor injuries. Perfect coordination and balance with agility that far outstrips Olympic athletes. It would not be too farfetched to say that the results of this herb match even the ones derived from the Super Soldier formula that made Captain America.",
+    "origin": "Marvel Cinematic Universe Vol. 2)"
+  },
+  "7108e5ea-0188-5c54-9985-3259dcff5d58": {
+    "id": "7108e5ea-0188-5c54-9985-3259dcff5d58",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Fire Seed Bush",
+    "cost": 200,
+    "description": "A magic Bush which Burns for as long as it lives, the seeds are useful for a number of Potions and are frequently used to help warm and Hatch Dragon Eggs.",
+    "origin": "Hogwarts Professor Jumpchain"
+  },
+  "a51d0bf9-6b17-5f6e-b370-ff6f1d50d759": {
+    "id": "a51d0bf9-6b17-5f6e-b370-ff6f1d50d759",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Gillyweed",
+    "cost": 200,
+    "description": "Slimy and disgusting, resembles a mass of Rat Tails but if eaten will cause the consumer to grow gills and webbing on their hands and feet for an hour, unfortunately it also removes the ability to breathe Air for the duration of the transformation.",
+    "origin": "Hogwarts Professor Jumpchain"
+  },
+  "97c35611-9ee7-5ffe-96ee-c90807681267": {
+    "id": "97c35611-9ee7-5ffe-96ee-c90807681267",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Golden Apple Seeds",
+    "cost": 300,
+    "description": "You have a handful of apple seeds from a divine tree. A single bite of one of the apples grown from these will cure any mortal ailment, from disease to disfigurement. Consuming a whole apple will grant the eater immortality, becoming ageless and able to recover from horrendous injuries. From a botanical perspective, these are no different from ordinary apple seeds, but they cannot be cultivated by mortal creatures (or mortal creations) nor will they grow in a mortal realm. As it was created by Jump-chan, the cosmic warehouse is a suitable place to plant them, but by itself, being a Jumper does not count as being more than mortal.",
+    "origin": "Xena - Hercules - The Legendary Journeys JumpChain"
+  },
+  "40966866-16b7-59fa-bc13-258debf17626": {
+    "id": "40966866-16b7-59fa-bc13-258debf17626",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Lo-ack Flower",
+    "cost": 300,
+    "description": "This beautiful purple blossom possesses potent healing properties—its petals can heal even the most grievous injuries and cure all known ailments. Once you have used the flower, you will receive a fresh blossom 24 hours later.",
+    "origin": "The Pirates of Dark Water jump"
+  },
+  "71b5671d-0158-5ee1-a799-15359098ee33": {
+    "id": "71b5671d-0158-5ee1-a799-15359098ee33",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Magic Beans",
+    "cost": 100,
+    "description": "These beans don’t seem very special, besides being multicolored and when eaten rather sweet and chewy like candy. When planted and fully grown, however, they sprout into hefty flying platforms! The leafy platforms don’t reach very far, and have to return to the plant after reaching a certain distance, but they’re VERY fast. You could go across most of the lost forest in less than minute at the speeds the platforms could reach.",
+    "origin": "The Legend of Zelda - Ocarina of Time JumpChain"
+  },
+  "5244a9e6-13fe-5561-bc31-aebe22859dcc": {
+    "id": "5244a9e6-13fe-5561-bc31-aebe22859dcc",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Mellyrn Seeds",
+    "cost": 0,
+    "description": "A box containing twelve seeds, like nuts, but with silver shells. These seeds will, if planted in suitable lands, that is... fertile lands, grow into the famous smooth-barked silver trees. Known only to Númenor that is lost, to Valinor, and to Lóthlorien, these trees will grow to massive size, given time and proper nurturing, ensuring you have something truly special within Middle-earth.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "69256423-7e22-50a2-b2cf-0e369667ab86": {
+    "id": "69256423-7e22-50a2-b2cf-0e369667ab86",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Moonglove",
+    "cost": 200,
+    "description": "A frighteningly poisonous plant, the source of a poison highly prized and extensively used by the elves. Its poison is deadly even in small amounts, taking down even towering giants. In precisely controlled, highly diluted trace amounts, its necrotizing properties can be used to etch or carve living tissue, such as skin or bark. And though Elves are the only known species on Lorwyn to be largely immune to its effects, raw and undiluted moonglove can still burn even their skin just with its acidity. Every elf, even Perfects, carried a small supply of the plant's extract somewhere on their persons for emergencies and etching way markers. Your own supply never seems to run out and should you require more for some reason, it would be almost trivial for you to find the distinctive blue-white bells in unoccupied stretches of forest.",
+    "origin": "MtG - Lorwyn"
+  },
+  "c8e0e059-1e00-597b-8ed3-f21410807c8a": {
+    "id": "c8e0e059-1e00-597b-8ed3-f21410807c8a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Paopu Fruit Seeds",
+    "cost": 0,
+    "description": "The seeds in this bag will grow into trees that produces a bright yellow star shaped fruit. It's really juicy, delicious sweet treat to share with those close to you. In fact, it's said that if two people share one their destinies become intertwined. But that's just rumour ...right? As a bonus, when grown near a ledge or overhang the trees will form a nice level resting place mid part way up it that is surprisingly comfortable. Trees grown in other spots will grow mostly vertically, they may have a bit of a jaunty lean to them.",
+    "origin": "Kingdom Hearts JumpChain"
+  },
+  "dae51ad9-dd25-5ea2-85f2-3524a72b3006": {
+    "id": "dae51ad9-dd25-5ea2-85f2-3524a72b3006",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Sapling of Ygdrassil",
+    "cost": 600,
+    "description": "You gain a titanic tree that is still just a small sapling of the true world tree. In time it will grow so much that it’s roots reach into other neighboring realms. This tree will be a great source and conduit for magic and a road to travel between worlds. It will become the host for a multitude of strange beings, animals and monsters. Even though it is the most massive structure on earth you may select to have it not easily be perceivable by the senses of those who can’t see with true sight.",
+    "origin": "Norse Myth"
+  },
+  "46c78949-5f74-521a-b36f-922451bb0214": {
+    "id": "46c78949-5f74-521a-b36f-922451bb0214",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Seeds Of The Two Trees",
+    "cost": 400,
+    "description": "The Two Trees were Yavanna’s greatest creation, and they were certainly not plants that grew normally. However, here you have two seeds with which they may be replanted and replicated. Maybe Eru granted this gift? Without a powerful spirit, ideally of divine nature, to help them grow, it’ll likely take centuries for them to mature, maybe millennia depending on the environment. When they reach full maturity, they’ll begin to glow their golden and silver light. This light will not only illuminate out to great distances, but also accumulate in lakes seeming like liquid light. And of course, their light exults and blesses any that experience it, making them stronger, faster, nimbler, more enduring, and more beautiful. Perhaps you’ll plant them somewhere in Middle-Earth? Just keep in mind that Morgoth will likely attempt to destroy them as well. If you planted them in a world, you get the seeds again when you enter a new jump.",
+    "origin": "The Silmarillion (By SkyrimAnon)"
+  },
+  "c89678f9-0965-59f4-9624-c09a299cf43a": {
+    "id": "c89678f9-0965-59f4-9624-c09a299cf43a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Snakewood Tree",
+    "cost": 200,
+    "description": "A semi-sentient tree with a wavy grain pattern, it somehow resists all attempts at pruning or killing it by anyone except you. The wood of this tree makes for excellent wands, and the leaves possess interesting healing properties. Can be placed in a location of your choosing at the beginning of every Jump, or optionally can become a warehouse attachment. Furthermore at the beginning of every Jump you will also gain an additional snakewood tree sapling, ready to be planted.",
+    "origin": "Slytherin [Version 1.1]"
+  },
+  "b15b75bf-2491-58cb-ae80-2898c4e5beb1": {
+    "id": "b15b75bf-2491-58cb-ae80-2898c4e5beb1",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Spiky Bush",
+    "cost": 100,
+    "description": "Bush with large yellow thorns, can and will shoot said spines at nearby Humans.",
+    "origin": "Hogwarts Professor Jumpchain"
+  },
+  "edaddcaf-09c8-5229-a149-5d050bdc420e": {
+    "id": "edaddcaf-09c8-5229-a149-5d050bdc420e",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Talking Plant",
+    "cost": 100,
+    "description": "A few weeks after you arrive you’ll encounter a talking prank who likes to smoke cigarettes and eat people. He or she seems to like you a lot and will follow you. It is as intelligent as an average human.",
+    "origin": "Harley Quinn Jumpchain V1.1"
+  },
+  "19505717-63ff-52df-8428-6e6b685bc804": {
+    "id": "19505717-63ff-52df-8428-6e6b685bc804",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "The Hist",
+    "cost": 600,
+    "description": "Like the Blackwood Company of Leyawin you have a very special sentient tree. Normally these are found only in the depths of Black Marsh and used for religious rites there. Others of its kind are connected at the root as a form of hivemind. As an isolated Hist this one has a bit more agency than its relatives and has chosen to aid you. Now, you could have a threatening steam-powered mechanism forcefully extracting sap from it if you wanted. But that’s not necessary. Your tree is willing to share this energy to you and your companions. The vibrant amber sap it produces is made out of the very spirit of the tree. This resource is invaluable for an Argonian wanting various forms of metamorphosis and empowerment. For them, the sap also allows a link to the tree permitting spiritual communication, though it can be difficult to understand. Regardless of race you can benefit from a great increase to combat prowess and health by imbibing its sap. It will also provide various hallucinatory experiences as a means of communication or to defend itself with this spiritual sap.",
+    "origin": "The Elder Scrolls IV - Oblivion (Stupid_dog's Version)"
+  },
+  "c73bd6e6-d9c7-5891-b42e-8124ddb7f109": {
+    "id": "c73bd6e6-d9c7-5891-b42e-8124ddb7f109",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "The Pouch of Ages",
+    "cost": 200,
+    "description": "This pouch holds many Acorns of the Ages, nuts grown from the Oak of Ages only when the Wind of Ghyran reaches its height. Gathered and planted by Ariel’s handmaidens in regions of the forest ravaged by war or wildfire, they grow from seed to towering oak in a matter of seconds. A skilled wielder of the magic of life may find more uses for these objects, considering the sheer concentration of life magic in them provides another reason for their harvesting. Ordinary animals that consume them can rapidly become extremely powerful, a disaster to mortals comparable to a raging elder dragon.",
+    "origin": "Warhammer Fantasy - Wood Elves"
+  },
+  "24eb93b6-edee-59f4-bda2-776b1f943a22": {
+    "id": "24eb93b6-edee-59f4-bda2-776b1f943a22",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "The Rising",
+    "cost": 100,
+    "description": "Treefolk are born from seeds like any other tree of their species, growing into mundane trees like any other sapling, until at a certain stage in their development the trees gain sentience and motility through an event known as the Rising. Before a treefolk undergoes the Rising, it is indistinguishable from any other sapling, and thus gets no more attention than any other sapling. A treefolk’s seeds might generate hundreds or even thousands of saplings during their long lives, and most never go through the Rising. Should you wish for a particular tree to become a treefolk though, perhaps one you’re bringing in from beyond Lorwyn’s most distant mountain ranges, you can import them here. Depending on how old this tree is, they might either make the decision to Rise immediately and open their eyes to greet you. Or they might take months or years longer before they decide to go through the Rising. A treefolk’s life cycle is long, slow, and deliberate after all, even if they are guaranteed to Rise from their sessile state with this purchase.",
+    "origin": "MtG - Lorwyn"
+  },
+  "c791d7c2-0395-50a4-9b76-5bb873b850d4": {
+    "id": "c791d7c2-0395-50a4-9b76-5bb873b850d4",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "The Sapling of a World Tree",
+    "cost": 600,
+    "description": "Connected to the Emerald Dream, the World Trees have always held a great importance for Night Elves, serving as both homes and as sources of power, even immortality, as with Nordrassil. You do not have a full-grown tree, but you do have a sapling that is bound to grow into its own within a century if left to its own devices, or even faster should you possess the proper Druidic aptitude. At base level, it can serve as a home for your people and as an entrance for the Emerald Dream. You may, with the help of your Worldsoul, grant the ability to grow/birth elves by itself, an elven couple, or a lonesome elven female. The first method is having one or more beings drip their blood on a leaf or a seed of the Tree. A leaf or seed will absorb the blood of the to-be mothers, then the would-be parents will either take it back home to plant and to grow their daughter; The second method is that they could entrust the leaf/seed to the World Tree to grow, upon which will be granted a daughter within 10 months; The third method is that an elf can be granted a seed which they will then insert into their womb, upon which their body will believe the seed to be a fertilized egg, and within 10 months she will have her own daughter in her gentle and loving embrace. This may also produce only men as well, if you prefer, or even a mixture of both genders (Or even some completely new one, should you have encountered examples of such before).",
+    "origin": "Warcraft_ Elven Abodes(V.1)"
+  },
+  "58a01dcd-93d6-59ec-be06-33d5a442496c": {
+    "id": "58a01dcd-93d6-59ec-be06-33d5a442496c",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Tree of Purification",
+    "cost": 600,
+    "description": "This interesting sapling will grow into a tree that eats corruption and concentrates it into magical apples. While most of the apples will be corrupted black apples that mutates and twists the being that absorbs their magic a small handful will be purified crystal clear apples that have no harmful effects. Both types of apple create a regenerating mana pool that works even in places without magic. Draining additional apples increases the mana pool until you eat five at which point you turn into a minor godling, gaining agelessness, a modest boost to your durability and magical talents and a moderate magical ability related to your personality, such as teleporting through shadows or summoning shadow ravens to spy for you. Unlike the version in the story where the number of apples you could drain before you exploded was based on your magical power, the apples from this tree won’t cause you to explode if you eat too many. Of course, once you drain five, you won’t get anything out of it other than refilling the tank.",
+    "origin": "Luck of the Draw JumpChain"
+  },
+  "a9897106-566d-5e15-8b72-00b662c64c3a": {
+    "id": "a9897106-566d-5e15-8b72-00b662c64c3a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Trees of Silver and Gold",
+    "cost": 600,
+    "description": "When the world was young and all things were new and bursting with life, a metal bar ripped from a London lamp-post was planted in the soil. It promptly grew into a lamp-post in its own right. A few British coins, shillings and crowns, fell from someone's pockets, and they grew into much more lucrative trees. Sadly, Narnia's soil only retained this property for a couple of hours, frustrating the attempts of greedy explorers to exploit it. Screw that. You're a Jumper, exploiting things is kinda what you do. You are given saplings of a Tree of Iron, a Tree of Silver, and a Tree of Gold. The bark, leaves, seeds, roots, and flesh of these trees are all infused with an easily-smeltable form of their associated mineral. Each year, as the tree matures, the amount you can safely harvest from it increases. In addition, you are given a small quantity of soil, carefully preserved from the birth of the world, sufficient to grow three more trees. If you have a sample of some other material, you can plant it in this soil and grow a tree infused with that material. The difficulty of doing so is proportionate to how rare and mystically powerful the substance is: a Tree of Platinum or a Tree of Iridium will only be slightly more difficult to take care of than a Tree of Gold and would mature almost as quickly, while a Tree of Vibranium or a Tree of Philosopher's Stone would require prodigious botanical skill and even then might take hundreds of years to provide an appreciable return on your investment.",
+    "origin": "Chronicles of Narnia JumpChain"
+  },
+  "73cc5216-e5ff-5e7a-a11a-b7778fa96d26": {
+    "id": "73cc5216-e5ff-5e7a-a11a-b7778fa96d26",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Unusual Fruits",
+    "cost": 200,
+    "description": "Scattered throughout Skyloft and the surface alike you’ll find a number of strange and unusual plants. Flowers that have hearts atop them that heal you, glowing green fruit that replenishes your stamina, and even exploding bomb flowers. These three bags of seed contain a small supply of those same three plants. Be warned, they rarely grow exactly where you want them to, and they do take some time to fully bloom, but once they do they’ll regrow from that spot fairly quickly. You can get more seeds, but you’ll need to uproot and thoroughly destroy the previous lot.",
+    "origin": "The Legend of Zelda - Skyward Sword"
+  },
+  "a97404c5-bbb5-54c9-957b-7f8c31ec1bda": {
+    "id": "a97404c5-bbb5-54c9-957b-7f8c31ec1bda",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Plants",
+    "name": "Wiggentree",
+    "cost": 200,
+    "description": "A magical variant of the Rowan Tree, the Wiggentree repels Dark Creatures and is known to protect anyone in contact with the tree (or a cutting of such) from such for as long as they maintained contact",
+    "origin": "Hogwarts Professor Jumpchain"
+  },
+  "a366a74b-32fa-5dab-956b-38f5bac5ca1e": {
+    "id": "a366a74b-32fa-5dab-956b-38f5bac5ca1e",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Bag of Seed",
+    "cost": 100,
+    "description": "The bag of seeds that Garth Greenhand was said to have carried with him. This bag contains an infinite supply of all the world's trees, grains, fruits and flowers. Strangely, you will always easily pick out the right seed that you desire, even if you dump the contents of the bag (Or at least, you try to). Turning the bag upside down, unless you actively desire it, will not release any more seeds than you need. In future Jumps, the contents of this bag will add anything that is missing",
+    "origin": "A Song of Ice and Fire: The Epoch of Legends Jump."
+  },
+  "c5484a8f-c30e-51bf-bb48-eda24cb640d4": {
+    "id": "c5484a8f-c30e-51bf-bb48-eda24cb640d4",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Calaingor’s Stave",
+    "cost": 100,
+    "description": "Carved from an undying bough, the vibrant life force of Athel Loren yet thrums in this staff. By connecting you to the hearts and minds of nearby trees, even an unskilled elf can channel magic to rouse nearby woodlands to life. Urging trees to move or assail those within their mist is possible, for the staff grants you knowledge of the dead tongue of ancient days. Just remember that without proper Treeman bodies, trees aren’t very fast or clever when it comes to adapting to problems more complex than attacking the nearest invader.",
+    "origin": "Warhammer Fantasy - Wood Elves"
+  },
+  "76a4a201-5952-52d5-a00d-92d75f43446d": {
+    "id": "76a4a201-5952-52d5-a00d-92d75f43446d",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Cloak of the Nomad",
+    "cost": 100,
+    "description": "A cloak made of cloth or leather, specifically treated to shed the rain. In fact, this cloak protects you from the weather, regardless of the type, and regulates the temperature you experience to be comfortable regardless of the conditions you find yourself in, barring hostile intent controlling that weather. This will not protect you from fire or from any supernatural effects. As a final note, it cleans the air you breathe of simple toxins, including smoke, though high concentrations can still make it through.",
+    "origin": "Generic Druid"
+  },
+  "df120141-d19e-5129-b900-ec8b6766c47c": {
+    "id": "df120141-d19e-5129-b900-ec8b6766c47c",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Cowl of the Druid",
+    "cost": 200,
+    "description": "There are many tales of the druids that inhabit the wilds of High Rock, mostly about how in touch with the natural world they are. This hood is often granted to a druid who has completed their apprenticeship, allowing them to detect life around them as well as call upon the spirit of Nirn to aid them, often manifesting in the form of three spriggans.",
+    "origin": "TES:Magic"
+  },
+  "ba705878-6860-5c8c-9ac2-4782fd71be24": {
+    "id": "ba705878-6860-5c8c-9ac2-4782fd71be24",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Deku Nuts",
+    "cost": 100,
+    "description": "This is a bag of 10 Deku Nuts, which have the special property of acting as a natural “flashbang” when they burst against a surface - just remember to cover your eyes! Most creatures get stunned by this, though there are a few that are tough enough to handle the light and noise.",
+    "origin": "The Legend of Zelda - Ocarina of Time JumpChain"
+  },
+  "adf8cdf3-ab0d-52ca-b58d-914fc403ee15": {
+    "id": "adf8cdf3-ab0d-52ca-b58d-914fc403ee15",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Deku Shield",
+    "cost": 100,
+    "description": "A thick slab of wood, this shield is made from some of the most durable wood that can be found in Hyrule. It will stand up just well to the attacks of most wild beasts and undead claws in hyrule as well as the bullet seeds of the Deku. It is wood, though, with all that implies -chiefly a weakness to fire and lack of real effect against the heavier of weapons.",
+    "origin": "The Legend of Zelda - Ocarina of Time JumpChain"
+  },
+  "583327d0-13dc-5894-96ed-3fa441f8bd49": {
+    "id": "583327d0-13dc-5894-96ed-3fa441f8bd49",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Ecomantic Staff",
+    "cost": 200,
+    "description": "Made from a branch of the tree of life, the Viva Tree, this staff uses a crystal to channel ecomantic power. By using it as a focus, an ecomancer can vastly increase the area of effect of their ecomantic powers, giving them broad control of the local weather, tides, or similar.",
+    "origin": "The Pirates of Dark Water Jump"
+  },
+  "274045d4-ab1f-58c7-b319-90d612962198": {
+    "id": "274045d4-ab1f-58c7-b319-90d612962198",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Elf Soil Bag",
+    "cost": 100,
+    "description": "Plain and unadorned, but well made, this bag contains a supply of soil, grey in color, like dust both fine and soft. Though seemingly without practical use, this soil, even a couple grains, can enrich even the most barren of dirt to allow it to reap a rich bounty, or grow mighty trees in harsh terrain. This bag contains enough dust to enrich a mile of farmland, and will refill itself once every month.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "81372c0c-0400-57cd-8ae5-bb34fe905935": {
+    "id": "81372c0c-0400-57cd-8ae5-bb34fe905935",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Elven Cloak",
+    "cost": 100,
+    "description": "An Elven-cloak is a fair garment. It is made of silken stuff, light but warm, and the color changes with the surroundings, whether it be stones or trees; it is a great aid in keeping out of the sight of unfriendly eyes. Yours is greater still, it will not tear and should you lose it somehow, you can call it back to you with but a simple gesture.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "f00ccbf8-22ac-514b-b976-3e246c735820": {
+    "id": "f00ccbf8-22ac-514b-b976-3e246c735820",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Fairy Ring",
+    "cost": 600,
+    "description": "A small pouch containing a mixture of fairy powder and flower seeds. When you plant them in the shape of a circle you instantly create a fairy circle allowing you to teleport to others, whether they are already in the world or your own creation, you find a new one each time you visit a new fairy-related place.",
+    "origin": "Tales of Butterflies Jumpchain"
+  },
+  "6668eb9c-963f-5fe9-ae1b-1e81f65b88ce": {
+    "id": "6668eb9c-963f-5fe9-ae1b-1e81f65b88ce",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Fairy Slingshot",
+    "cost": 100,
+    "description": "A favorite weapon of the young and an excellent holdout, you get a bullet bag of 50 deku seeds with this slingshot. It does a lot more damage than you’d think, though the seeds don’t hold up well against armor.",
+    "origin": "The Legend of Zelda - Ocarina of Time JumpChain"
+  },
+  "6a5614da-48fd-54a2-8ec2-bd1229586fb6": {
+    "id": "6a5614da-48fd-54a2-8ec2-bd1229586fb6",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Fertilizer",
+    "cost": 100,
+    "description": "Despite the name these resemble balled up pieces of paper. Upon pressing them into a plant it absorbs into it with a few green sparks and greatly accelerates its rate of growth. You can also simply press it into the ground causing grass and flowers to grow wildly. It can also supersize normally small plants.",
+    "origin": "Generic Dryad"
+  },
+  "97171fb8-6b3b-51e0-b965-c6bc9eb45abb": {
+    "id": "97171fb8-6b3b-51e0-b965-c6bc9eb45abb",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Golden Locks",
+    "cost": 100,
+    "description": "Rowan Gold-Tree, another child of Garth Greenhand, wrapped an apple in her golden hair, and buried it upon a hill, as a strange form of grief over her lover leaving her. When it grew, all of its bark, leaves, and fruit were golden. You now have Rowan’s special locks of hair, and upon wrapping a fruit in it, what grows will be a tree made of some extremely valuable material. This can be gold, but it can also be silver, platinum, or some strange unobtanium. These trees will endlessly create fruits of the material, so try not to chop the tree down. You will receive a new lock of hair every month.",
+    "origin": "A Song of Ice and Fire: The Epoch of Legends Jump."
+  },
+  "beeb195b-cb01-5d7b-a051-1c5ea7699732": {
+    "id": "beeb195b-cb01-5d7b-a051-1c5ea7699732",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Golden Sickle",
+    "cost": 200,
+    "description": "​This is a sickle made of solid gold, perfect for harvesting materials with magical properties. So perfect, that it has properties of its own. Firstly, any materials harvested using this sickle will never go bad. Food doesn’t rot, meat, if you somehow used it on that, doesn’t go rancid, magical herbs don’t lose their powers. Secondly, it tends to have the exact magical properties you need to harvest any and all magical substances, without too much of a fuss. In essence, you can replace any and all growing and harvesting requirements for an ingredient, like ‘needs to see the moon twenty times’, or ‘dance naked under at twilight carrying a pitcher of water that you then sprinkle’ with ‘cut using this sickle’. Doesn’t apply on the super rare, absolutely one-of-a-kind stuff, mind you. It must be at least somewhat common.",
+    "origin": "Asterix the Gaul"
+  },
+  "dff254b5-2f91-5fae-8cd4-fddb6ef96bed": {
+    "id": "dff254b5-2f91-5fae-8cd4-fddb6ef96bed",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Golden Sickle",
+    "cost": 300,
+    "description": "An ornate and clearly ceremonial sickle designed for use in various rites and rituals, this particular sickle holds a fair bit of power. A branch or plant cut by this sickle is imbued with a touch of power and can be used to allow an individual to develop abilities similar to those described in this document, the cutting seeming to meld into them. If you choose to, you can cause the sickle to turn to dust and spread its effects to the entire world, spreading the abilities of the druids to the various denizens of the world. If you do, you’ll get a new golden sickle at the start of your next jump.",
+    "origin": "Generic Druid"
+  },
+  "3466feb0-09f5-5581-96a3-be1725534115": {
+    "id": "3466feb0-09f5-5581-96a3-be1725534115",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Gourd of Potion",
+    "cost": 600,
+    "description": "Guard this carefully, Jumper. This is a gourd full of magic potion, enough to increase your strength, speed and endurance to ridiculous levels, to the point that you could physically pull ships full of stone by running along the coast, take on entire legions single-handedly or swim across the Atlantic if you wanted to. One dose lasts around 6-8 hours, and the gourd holds about twenty. Refills every week.",
+    "origin": "Asterix the Gaul JumpChain"
+  },
+  "ec35a3d4-a15d-5d6d-bbd2-9e2ba45dcb9d": {
+    "id": "ec35a3d4-a15d-5d6d-bbd2-9e2ba45dcb9d",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Harvest Bag",
+    "cost": 100,
+    "description": "A leather satchel that is much larger on the inside than its outside dimensions would suggest and always just as light as if it were empty. Any raw material placed into the harvest bag has any and all supernatural qualities preserved as time seems to have less effect within the satchel as it does outside of it. Comes with basic equipment for harvesting plants, fungi, and animals alike. Additionally, any raw material within can be used as if it were in hand of the satchel-holder, great for any material-based spellcasting abilities.",
+    "origin": "Generic Druid"
+  },
+  "ea3a0d92-95ac-5889-a460-3581181a044d": {
+    "id": "ea3a0d92-95ac-5889-a460-3581181a044d",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Herbology Pouch",
+    "cost": 100,
+    "description": "A leather pouch that can perfectly preserve various plants after harvesting. It can store a few dozen specimens at once, and, twice a day, if empty, you can cause it to be filled with half a dozen samples of dittany, mallowsweet, knotgrass, shrivelfigs, or fluxweed; three Chinese chomping cabbages; two mandrakes; or one venomous tentacula.",
+    "origin": "Hogwarts Legacy"
+  },
+  "f313fdc7-1891-58f3-8fad-105ae2f689b3": {
+    "id": "f313fdc7-1891-58f3-8fad-105ae2f689b3",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Hookah",
+    "cost": 200,
+    "description": "This hookah has the strange property of allowing its user to create detailed shapes and images with its smoke, in any colour of their preference. It comes with an endless supply of tobacco (or other mundane burnable mood-altering substance), so you can use it as often as you like. Should it be lost or destroyed, a replacement will appear after 24 hours.",
+    "origin": "Alice in Wonderland (Disney)"
+  },
+  "87b11223-4c83-5eda-86a5-508297aad124": {
+    "id": "87b11223-4c83-5eda-86a5-508297aad124",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Korok Leaf",
+    "cost": 200,
+    "description": "An enchanted leaf taken from the Great Deku Tree the size of a child’s torso, it has been imbued with the power of the winds. When swung, this leaf will create a gust of wind powerful enough to knock a even goron over. You could also use it as a makeshift paraglider, slowing your falls and gliding in the air for a time.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "a524ef27-ca65-5dd9-a0d5-7cce264bb362": {
+    "id": "a524ef27-ca65-5dd9-a0d5-7cce264bb362",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Natural Attire",
+    "cost": 100,
+    "description": "An outfit designed to be worn by druids of all sorts, it can appear like virtually anything but is naturally self-cleaning and self-repairing, insulates the wearer from diseases and toxins, holds a mild protection from corrupting elements, and minutely boosts wisdom and awareness. These clothes are simply made, but also well-made, often looking like common garb, just of a higher quality.",
+    "origin": "Generic Druid"
+  },
+  "47541497-894a-5119-95f1-b0ee93491b4a": {
+    "id": "47541497-894a-5119-95f1-b0ee93491b4a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Pipeweed Pouch",
+    "cost": 100,
+    "description": "A refilling pouch of dried, extremely high quality pipeweed. Chills out even the most megalomaniacal",
+    "origin": "Shadow of Mordor JumpChain"
+  },
+  "fc35a607-11a6-539a-a53f-e81e71dbe1a5": {
+    "id": "fc35a607-11a6-539a-a53f-e81e71dbe1a5",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Planters & Pots",
+    "cost": 100,
+    "description": "While the magnificence and glory of well-trained spell work cannot be denied, you would be a fool to disregard the arts of Potions and Herbology both. A proper potioneer and a proper herbologist would be the equal of any wand-wielding witch or wizard. You are no potioneer or herbologist just yet, but that, like many other things, is subject to change. To get you started on this path, you’ve been provided with an endless supply of planters and pots, each one unique when it comes to their design. Any plants grown within these planters are ensured to always grow healthy, never dying of disease or wilting away until you pluck them. For potions, the same principle applies. Whatever potions you brew with the pots will never suffer from any disastrous failures. Any failures here will simply be borne from your lack of skill and training.",
+    "origin": "Wizarding World - Jump"
+  },
+  "424ab009-93a0-5fb9-85e2-a0103e7e9084": {
+    "id": "424ab009-93a0-5fb9-85e2-a0103e7e9084",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Pouch of Nature's Bounty",
+    "cost": 200,
+    "description": "A Pouch of Holding designed specifically to hold items from nature, such as fruit, mushrooms, fish, or insects. At the beginning of the jump, it starts out with 30 relevant objects from the local area, properly preserved, and each week, a dozen new random objects will appear within it.",
+    "origin": "Legend of Zelda - Breath of the Wild JumpChain"
+  },
+  "fa83dd33-0573-5b82-ba6e-2679868219cf": {
+    "id": "fa83dd33-0573-5b82-ba6e-2679868219cf",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Seed of Wisdom",
+    "cost": 300,
+    "description": "A glowing mote of golden light trapped in a crystalline trinket of some variety, be it a ring, an amulet, an earring, or even a buckle for a belt or cloak, this item is immensely powerful. Over the course of a year, this trinket will build up a charge (up to ten), which may be used to instantly learn about a particular topic. By expending a charge from this item, you can instantly gain the equivalent of a year of study, learning, practice, and memorization of a skill or topic of your choice, as if learning under ideal conditions. Alternatively, You may advance an already learned skill by the same level. You may also use a charge to grant someone else you are touching an equivalent level of knowledge on a topic. Additionally, simply having the trinket on your person will increase your mental clarity and intuition, allowing for better correlation of information gained from their observations and study.",
+    "origin": "Generic Druid"
+  },
+  "f8374757-61cf-56e0-aa14-74a956d6518a": {
+    "id": "f8374757-61cf-56e0-aa14-74a956d6518a",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Shillelagh",
+    "cost": 100,
+    "description": "A simple wooden club that doubles as a walking stick and focus for natural magics of all sorts, made in a rustic but robust style that makes it quite effective in its task. This club hits with disproportionate force (both physically and magically), can be summoned to your hand at will, will never suffer from general wear and tear, and will repair itself if damaged. The shillelagh will maintain any and all upgrades made to it.",
+    "origin": "Generic Druid"
+  },
+  "31093a4b-a5ad-5f5b-8da5-19d1063ecdb9": {
+    "id": "31093a4b-a5ad-5f5b-8da5-19d1063ecdb9",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Sprig of Leaves",
+    "cost": 400,
+    "description": "This is a simple sprig of leaves, about a handful. They can be any type of leaves you want, that doesn’t matter. What matters is that by simply boiling these leaves in plain water, you create a powerful potion that provides anyone who drinks it an indomitable will and confidence, encouraging them to charge ahead in face of seemingly impossible odds. Furthermore, anyone who drinks this will be made just a bit stronger, faster and most of all, luckier. It’s no huge increase, indeed, it’s barely even detectable. The person is boosted by, say, a tenth of their attributes. But it’s there, and it makes quite a bit of difference. You get a new one every week",
+    "origin": "Asterix the Gaul JumpChain"
+  },
+  "1d04512f-b6dc-5bb1-bf41-ed584242f2ac": {
+    "id": "1d04512f-b6dc-5bb1-bf41-ed584242f2ac",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Tea Leaves",
+    "cost": 100,
+    "description": "An unlimited pot of fine quality tea leaves that are both delicious and perfect for Tessomancy, the magical art of reading tea leaves to predict events in the future. Though the results you get from this method of seeing the future may be vague, they will always be accurate.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "3e4e11fb-f7da-5aad-a3e1-b95d130f9998": {
+    "id": "3e4e11fb-f7da-5aad-a3e1-b95d130f9998",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Wand",
+    "cost": 0,
+    "description": "You gain one wand. It is an ideal focus for your Atlantean magic; comprised of one wood and one magical material and with a length between 8 and 16 inches. Each wand has an affinity for one kind of magic, which it casts slightly better than other fields, and an affinity for one user, for whom it performs a little more efficiently. Forcibly removing a wand from its owner can sometimes shift its user-affinity. Your wand, obviously, has an affinity for you.",
+    "origin": "Harry Potter and the Methods of Rationality JumpChain"
+  },
+  "81f9735b-264a-51dd-af8b-5536d0081933": {
+    "id": "81f9735b-264a-51dd-af8b-5536d0081933",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Wand of Wych Elm",
+    "cost": 400,
+    "description": "Rare and innately magical, the Wych Elm is much coveted by mages the world over for its ability to draw magical power out of the ground and store it within its wood. Any such wand may have centuries of magical power stored in it, but only a demigod or wizard of great power can unleash such power-and Ariel is both. It seems she or some other great power prepared this stave for you, because the rune etched into it is carved with such skill even a wizard of passing skill can use the torrents of power stored within. With such power to draw on from within, so long as the wand itself is not disabled you could cast magic in regions otherwise shielded from the Winds of Magic (or otherwise bypass countermagic that does not specifically target objects), or use it as a very powerful amplifier for magical techniques of all kinds. It is a fitting weapon for a demigod, and indeed is made in the image of Ariel’s own wand.",
+    "origin": "Warhammer Fantasy - Wood Elves"
+  },
+  "d2e8ab23-e775-5383-b200-0565d9504e43": {
+    "id": "d2e8ab23-e775-5383-b200-0565d9504e43",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Wizards Staff",
+    "cost": 200,
+    "description": "A good, solid six foot staff, usually carved from Oak or Rowan wood, the staff can be used as a battery of sorts, storing magical energy that can be used freely by the staffs owner to power spells. The longer a staff is owned by a spellcaster the more magical energy it can contain as the mage becomes more and more attuned to his posession. The staff can be recharged over about a day, though if the winds of magic are blowing stronger than usual the time can be reduced to a few hours, though this is rare. Should the staff be taken to any other reality, it will still be able to draw in energy and convert it to magic, though the more high tech a reality is, the longer this process takes.",
+    "origin": "Warhammer Fantasy - Dogs of War JumpChain"
+  },
+  "6855feb7-b7cf-513c-8ef3-878dcfdfee2c": {
+    "id": "6855feb7-b7cf-513c-8ef3-878dcfdfee2c",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Wooden Shield",
+    "cost": 100,
+    "description": "Every piece of equipment has a time and a place, and this shield is no different. It’s small enough to use with one hand, but heavy enough to still be useful. It’s also highly resistant to electricity based attacks, at the cost of burning up at the slightest touch of fire - or lava, if you’re foolish enough to fall in.",
+    "origin": "The Legend of Zelda - Skyward Sword"
+  },
+  "50c5104e-c880-541c-8e5c-ce08c4b72147": {
+    "id": "50c5104e-c880-541c-8e5c-ce08c4b72147",
+    "sourceId": "celestial_gardener",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Woodsmans Axe",
+    "cost": 200,
+    "description": "An ancient heirloom dating back to the time when the High king was saved from assassins by a band of woodcutters this two handed axe is far more than its plain and simple appearance would let on, the axe heavily enchanted to slice through flesh and steel as easily as it slices through wood, and the weapon itself is incredibly light to boot.",
+    "origin": "Warhammer Fantasy - Dogs of War JumpChain"
+  }
+}

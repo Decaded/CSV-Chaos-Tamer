@@ -1,0 +1,1872 @@
+{
+  "a6972088-688b-5f9b-a0f7-16269d47602c": {
+    "id": "a6972088-688b-5f9b-a0f7-16269d47602c",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Agonizer",
+    "cost": 200,
+    "description": "A whip that causes pain. But that’s not what you’re paying the points for. This bad boy will send shocks through the recipient’s nervous system, causing some SERIOUS pain. Also comes with a power generator so it cuts through most armour. You know you want it.",
+    "origin": "Warhammer 40k - Commorragh JumpChain"
+  },
+  "ee2b8a9b-ed27-5b0e-baa7-09519be3e96a": {
+    "id": "ee2b8a9b-ed27-5b0e-baa7-09519be3e96a",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Blacksun Filter",
+    "cost": 0,
+    "description": "Night vision goggles on steroids, gives unhindered sight at any illumination level, includes high-power zoom.",
+    "origin": "Warhammer 40k- Freelancer JumpChain"
+  },
+  "db39e8ab-1037-51ab-ba85-45d87f94b817": {
+    "id": "db39e8ab-1037-51ab-ba85-45d87f94b817",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Blaster",
+    "cost": 0,
+    "description": "The standard weapon in most of the galaxy, because it makes a mockery of virtually all armor, is easy to use without concerns about wind or projectile drop, and carries hundreds of rounds.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "34467097-3a79-50a0-a713-f0efd6fc6411": {
+    "id": "34467097-3a79-50a0-a713-f0efd6fc6411",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Bomber Kit",
+    "cost": 100,
+    "description": "You gain a bandoleer that contains the following items that will restock themselves once a week. Five of each low-grade elemental bomb (Aqua, Flare, Ground, Wind), three of each midgrade elemental bomb (Aquara, Flara, Grounda, Winda), and one of each high-grade elemental bomb (Aquaus, Flarus, Groundus, Windus). Each deals light, medium, or major damage to one target, respectively.",
+    "origin": "Lost Odyssey JumpChain"
+  },
+  "8f7f9bbd-442a-56e5-8d7c-6aa86b998c63": {
+    "id": "8f7f9bbd-442a-56e5-8d7c-6aa86b998c63",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Breath Mask",
+    "cost": 0,
+    "description": "Air recycling mask that protects against poisons and allows the wearer to breathe underwater and in a vacuum. Powered by a rechargeable battery.",
+    "origin": "Star Wars - KotOR  JumpChain"
+  },
+  "a5823f96-c55b-57a9-9701-878a8465ae25": {
+    "id": "a5823f96-c55b-57a9-9701-878a8465ae25",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Clonefield",
+    "cost": 200,
+    "description": "A specialized device that projects dozens of holographic duplicates, all moving in perfect synchronicity with you. Few foes have the perception, or the time, to pick out the real threat among all the false ones.",
+    "origin": "Warhammer 40.000 - Ynnari JumpChain"
+  },
+  "9039143b-9a2d-5f41-b7a1-bbad2d34556b": {
+    "id": "9039143b-9a2d-5f41-b7a1-bbad2d34556b",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Concealing Cloak",
+    "cost": 100,
+    "description": "If you’re on the run, it might help to conceal your appearance. The cloak and hood included with this outfit can hide your identity from any observers, keep you protected from harsh climates, and won’t interfere with efforts to move or flee by getting caught on things or cause you to trip.",
+    "origin": "Warhammer 40k- Freelancer JumpChain"
+  },
+  "454092fb-9bba-5461-99a5-c4f5f7a834d8": {
+    "id": "454092fb-9bba-5461-99a5-c4f5f7a834d8",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Conversion Field",
+    "cost": 250,
+    "description": "A personal force-field that protects the user by converting the energy from incoming attacks into bursts of light.",
+    "origin": "Warhammer 40k- Freelancer JumpChain"
+  },
+  "0a6a1592-5a5a-545f-a5ed-a29427a002b8": {
+    "id": "0a6a1592-5a5a-545f-a5ed-a29427a002b8",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Cosmo Gun",
+    "cost": 0,
+    "description": "This laser pistol has little in the way of recoil and can dispatch an unprotected human or Mazone in a single shot.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "8d4bc1b9-fc8c-5061-a896-44669acd9bf2": {
+    "id": "8d4bc1b9-fc8c-5061-a896-44669acd9bf2",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Crystal Heart",
+    "cost": 600,
+    "description": "You swapped hearts with a strange creature who inhabits the Webway. It beats with a strange, erratic rhythm yet confers some of the strange power of the creature you bargained with. Because of this you have been rendered completely immune to psychic powers. And equally importantly, you see ahead into the future far enough to always stay one step ahead of your opponents. Those you are aware of, anyway.",
+    "origin": "Warhammer 40k - The Dark Eldar"
+  },
+  "5d9e4d81-c9ad-5959-b20d-3b7af4c828f8": {
+    "id": "5d9e4d81-c9ad-5959-b20d-3b7af4c828f8",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Dark Saber",
+    "cost": 200,
+    "description": "Because it really just isn't star wars without a lightsaber this Lightsaber was forged by the only Mandalorian Jedi, it's known for its blocky hilt and black angular blade that looks more like a traditional sword than a normal Lightsaber, traditionally held by the leader of the Mandalorian people",
+    "origin": "The Mandalorian"
+  },
+  "48724178-4086-5a1b-8ba5-664b05eb8c24": {
+    "id": "48724178-4086-5a1b-8ba5-664b05eb8c24",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Dejarik Board",
+    "cost": 100,
+    "description": "This game board produces two teams of holographic creatures who you can control and maneuver in order to have them battle each other on a holochess table. This board is also programmed to alter its shape and generate pieces in order to allow you to play any board game.",
+    "origin": "Star Wars Movie Compilation : The Skywalker Saga Jumpchain"
+  },
+  "4219d775-31e2-5e03-b7d8-e40ada98fd18": {
+    "id": "4219d775-31e2-5e03-b7d8-e40ada98fd18",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "DL-44",
+    "cost": 100,
+    "description": "This heavy blaster pistol offers above-average firepower without compromising accuracy, and is easily modifiable.",
+    "origin": "Star Wars Movie Compilation : The Skywalker Saga Jumpchain"
+  },
+  "658e3888-554a-5377-bd9a-12f1b85f05fe": {
+    "id": "658e3888-554a-5377-bd9a-12f1b85f05fe",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Electronic Lock Breaker",
+    "cost": 100,
+    "description": "Locked doors can be quite an issue, especially when you don’t really want to cause a scene by breaking in. Fortunately, the galaxy has a solution to this issue: this small module can override most common locks, including magnetic ones for those that work by such systems. It also spits codes to overcome security systems in place.",
+    "origin": "Generic Star Wars Fanfiction Jump"
+  },
+  "678b7d26-85fd-5a71-b51d-c8eb725fae89": {
+    "id": "678b7d26-85fd-5a71-b51d-c8eb725fae89",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "EMP Grenades",
+    "cost": 100,
+    "description": "The key to defeating opponents who rely on technology is to simply take that away. This is a crate full of grenades that explode with an electromagnetic pulse, able to scramble if not destroy most unprotected technology caught within its field. You get about 24 to use, and it restocks the following week.",
+    "origin": "Metroid - Kilanon Update"
+  },
+  "5607a9bd-5126-5a91-9b75-b2ae14c71fdb": {
+    "id": "5607a9bd-5126-5a91-9b75-b2ae14c71fdb",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Energy shield",
+    "cost": 100,
+    "description": "The Sangheili may throw themselves into enemy fire while screaming of their foolish honor, and the hated Unggoy may cower as they meekly charge the enemy without any proper equipment, but none of this befits a truly noble exemplar of the Kig-yar. This is one of the mainstays of the frontline infantry of your people- a hand-held shield capable of absorbing any and all plasma fire laid upon it- for a brief time, at least, and totally deflecting any of those clumsy human projectiles fired upon it.",
+    "origin": "Halo - The Covenant"
+  },
+  "23751955-5a71-54dd-b2c2-aac398313651": {
+    "id": "23751955-5a71-54dd-b2c2-aac398313651",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Exotic Drugs",
+    "cost": 100,
+    "description": "You have a small cache of glitterstim or ryll, or death sticks, which refills regularly. Good source of cash, or maybe you can use some of the beneficial effects of these if you’re careful.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "b0325a89-2699-5e8f-9eb2-14dfb7edf843": {
+    "id": "b0325a89-2699-5e8f-9eb2-14dfb7edf843",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Flickerfield",
+    "cost": 200,
+    "description": "This device generates an active camo field around the user to improve stealth and interfere with enemy targeting.",
+    "origin": "Warhammer 40k- Freelancer JumpChain"
+  },
+  "07321056-02f6-5c40-b61b-b4ddd1d0dda9": {
+    "id": "07321056-02f6-5c40-b61b-b4ddd1d0dda9",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Gamorrean Battleaxe",
+    "cost": 100,
+    "description": "This Gamorrean weapon is a staple of their culture and this one has been modified to function both as a Battleaxe and a guitar.",
+    "origin": "Star Wars Movie Compilation : The Skywalker Saga Jumpchain"
+  },
+  "66922735-b422-53d5-940c-f6fe5514fe0a": {
+    "id": "66922735-b422-53d5-940c-f6fe5514fe0a",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Gravity Saber",
+    "cost": 0,
+    "description": "Despite its name, it has nothing to do with gravity. It's just a rapier that doubles as a weaker laser gun than most pistols. Still gets the job done, though.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "102d1d30-7996-59ee-be4f-22c992ebde6b": {
+    "id": "102d1d30-7996-59ee-be4f-22c992ebde6b",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Haywire Blaster",
+    "cost": 100,
+    "description": "Utilising the electromagnetic energies harvested from the eyries of Commorragh, the Haywire Blaster is capable of disabling that which relies on electronics in a single “pulse” of crackling energy. It is extremely specialised, but very good at what it does",
+    "origin": "Warhammer 40k- The Dark Eldar"
+  },
+  "eaae5d2c-4e6c-5e63-a9d1-a0bdd73258a2": {
+    "id": "eaae5d2c-4e6c-5e63-a9d1-a0bdd73258a2",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Haywire Blaster",
+    "cost": 100,
+    "description": "Gun that shoots electro-magnetic energy. Enjoy fucking up anything running on electricity. This baby will send ‘em packing.",
+    "origin": "Warhammer 40k - Commorragh JumpChain"
+  },
+  "e663f8ec-badf-5e3a-9551-7a822580ee99": {
+    "id": "e663f8ec-badf-5e3a-9551-7a822580ee99",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Hexrifle",
+    "cost": 100,
+    "description": "A sniper rifle with rounds containing samples of the Glass Plague, which transmutes organic matter into blackened glass in moments, is airborne and can also be spread instantly with a single touch. The plague was developed by a sculptor famed for capturing the agony and horror of his subjects and nearly destroyed Commoragh before it was contained, so naturally they had to weaponize it.",
+    "origin": "Warhammer 40.000 - Ynnari JumpChain"
+  },
+  "6419654c-0ef7-543c-8292-6e3c1b7d2718": {
+    "id": "6419654c-0ef7-543c-8292-6e3c1b7d2718",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Hold Out Blaster",
+    "cost": 100,
+    "description": "A small blaster that only has about twenty five shots, all things considered but definitely one that’s not without its benefits. You see, this blaster can be easily snuck past some of the tightest security and scans, ensuring you remain armed even after normal weapons have been stripped from you.",
+    "origin": "Generic Star Wars Fanfiction Jump"
+  },
+  "bb842e7b-ec5d-5dd4-ae31-11dd6fa528b6": {
+    "id": "bb842e7b-ec5d-5dd4-ae31-11dd6fa528b6",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Husk Blade",
+    "cost": 300,
+    "description": "At this point I have accepted that this is the kind of shit this city comes up with. Make a sword that cuts through any armour and drains all the moisture out of anything organic it hits. So kids remember the moral of the story, PCP is a hell of a drug. Be careful to not cut yourself with this, it may not be fun.",
+    "origin": "Warhammer 40k - Commorragh JumpChain"
+  },
+  "9541b116-fd18-5d6c-a486-facdfe35ecc2": {
+    "id": "9541b116-fd18-5d6c-a486-facdfe35ecc2",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Hydrospanner",
+    "cost": 0,
+    "description": "This special hydraulic spanner is a hand tool that dynamically shapeshifts to adjust for nuts and bolts of any shapes or sizes allowing it to also work as an all-purpose socket wrench and bit driver.",
+    "origin": "Star Wars Movie Compilation : The Skywalker Saga Jumpchain"
+  },
+  "f2653dc5-b3a9-5100-ad20-9057581885a7": {
+    "id": "f2653dc5-b3a9-5100-ad20-9057581885a7",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Laser Musket",
+    "cost": 100,
+    "description": "Despite looking much like an antique black-powder weapon, the standard Laser Musket uses a small battery to fire an energy blast. It is usually used to fire single, powerful blasts that require recharging (available in a pinch via the small hand-crank attached to the battery), but is also able to generate weaker pulses or an electrical arc capable of burning through metal. This musket is pin- point accurate, and can be easily modified to accept energy from other sources (such as plugging it into the ship’s main power, to draw energy from the solar sails).",
+    "origin": "Treasure Planet JumpChain"
+  },
+  "27526ed7-4c38-5627-94bf-0c82e26f1cf3": {
+    "id": "27526ed7-4c38-5627-94bf-0c82e26f1cf3",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Loaded Chance Cube",
+    "cost": 200,
+    "description": "Are you a gambler, Jumper? This simple cube is like a dice, half of the surfaces are red and the other half blue. It is intended to be used for games of luck, but you can take the chance out of your victory with it and decide which colour you want it to land on. Whether you want to leave it up to the dice to decide, others will find that it cannot be influenced. It doesn’t matter if they have fancy Jedi powers or some form of fate manipulation, only you and the dice get to decide.",
+    "origin": "Star Wars: The Phantom Menace – The Reddit Edition V1.1"
+  },
+  "01cbe49f-538c-5f02-b5c8-c2f3c172d327": {
+    "id": "01cbe49f-538c-5f02-b5c8-c2f3c172d327",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Magic-Powered Locator",
+    "cost": 300,
+    "description": "This radar unit can locate any non-shielded object you can identify as unique (Steve’s wallet, that receipt from that restaurant I ate at with the great papadums five years ago, a fresh mango with exactly seventy six seeds that’s closer than a ten minute drive). It has a range of planetary but can only point you in the correct direction, not indicate distance. It may take a few minutes to calibrate to each request, and if multiple items fit the bill, it will return the same results as if no items fit the bill. It is handheld, but takes two hands to operate.",
+    "origin": "Lost Odyssey JumpChain"
+  },
+  "6b23f2e0-bdcd-5e35-b331-42d4f74069bb": {
+    "id": "6b23f2e0-bdcd-5e35-b331-42d4f74069bb",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Mandalorian Ripper",
+    "cost": 200,
+    "description": "Energy powered ballistic pistol. Ignores personal shields and most armor. Can be modified with attachments like a scope or silencer. Shots cannot be completely deflected by a lightsaber. More durable than regular blasters. Highly illegal to own.",
+    "origin": "Star Wars - KotOR  JumpChain"
+  },
+  "aafa8a84-2c28-5e10-91c4-d4b1e345f2b1": {
+    "id": "aafa8a84-2c28-5e10-91c4-d4b1e345f2b1",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Mangler",
+    "cost": 200,
+    "description": "A heavy hitting revolver that shoots high velocity spikes. Holds 8 rounds.",
+    "origin": "Halo Infinite V1.0"
+  },
+  "8fe62775-3852-561c-ad67-bab5d25c1038": {
+    "id": "8fe62775-3852-561c-ad67-bab5d25c1038",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Modified VISR",
+    "cost": 200,
+    "description": "The rest of the Covenant are so damn puritanical that they could not allow themselves to do that which would clearly benefit themselves because of the great journey- as if the gods should care that you used human tech a few times! This is one such example- after you managed to \"obtain\" this bit of human visual augmentation from one of their \"shock troopers\", you decided to heavily modify it. And now, it manages to show you any and all items of notable lootworthiness with a gold outline, which is how you specifically designed it- to represent all the gold you're gonna make on the black market with this baby!",
+    "origin": "Halo - The Covenant"
+  },
+  "38b7cf92-c3b9-5569-abb9-6cc8aa8c3b32": {
+    "id": "38b7cf92-c3b9-5569-abb9-6cc8aa8c3b32",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "More Alcohol Than Anyone Could Ever Drink",
+    "cost": 100,
+    "description": "Whether beer, sake, or even kumis, you have a small safe containing an infinitely restocking quantity of it, all in the proper containers.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "04fd1615-1ff5-5e0d-872d-76b5f8cbdee0": {
+    "id": "04fd1615-1ff5-5e0d-872d-76b5f8cbdee0",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Orion Multi-Key",
+    "cost": 100,
+    "description": "The Orion multi-key was a traditional tool of Orion pirates. A short truncheon with a heavy head bearing four extendable prongs, it had a variety of functions, including a weapon, lock pick, and bottle opener.",
+    "origin": "Lower Decks Jumpchain V1.5"
+  },
+  "95f2545b-684d-516b-9a90-9b6b496473a4": {
+    "id": "95f2545b-684d-516b-9a90-9b6b496473a4",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Passable ID",
+    "cost": 100,
+    "description": "You have a basic form of identification, registering you as a citizen of wherever you happen to show up. It doesn’t provide a lot and won’t make anyone think you are important by itself, but it’s sufficient to prove who you are if you want an identity.",
+    "origin": "Star Wars: The Phantom Menace – The Reddit Edition V1.1"
+  },
+  "75c1d3ba-dfbd-54ac-99ad-7da73f2b3ffb": {
+    "id": "75c1d3ba-dfbd-54ac-99ad-7da73f2b3ffb",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Power Armor",
+    "cost": 200,
+    "description": "The mainstay for Space Marines, Sisters of Battle, and the Imperial Elite; this suit augments the physical abilities of the wearer while providing protection rivalling some vehicles.",
+    "origin": "Warhammer 40k- Freelancer JumpChain"
+  },
+  "ac4b10b8-3f02-5630-800a-823be5603579": {
+    "id": "ac4b10b8-3f02-5630-800a-823be5603579",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Secret Ledger",
+    "cost": 300,
+    "description": "This accounting book (about the size of a large laptop) will give you a detailed financial breakdown of the actual financial status of any business you carry it into. Can be connected to a computer to give you the same for any online business. The first page will contain a quick summary, but the following pages will present the actual state of the company... not its public records.",
+    "origin": "Lost Odyssey JumpChain"
+  },
+  "0467bf18-6dbf-5749-859b-9110dbcce5eb": {
+    "id": "0467bf18-6dbf-5749-859b-9110dbcce5eb",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Shredder",
+    "cost": 100,
+    "description": "A gun that shoots monomolecular webs. Just as nasty as you think really. It’ll cut up most things on a good hit.",
+    "origin": "Warhammer 40k - Commorragh JumpChain"
+  },
+  "da2a1444-bce4-533a-97f8-2349b68a9c30": {
+    "id": "da2a1444-bce4-533a-97f8-2349b68a9c30",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Shredder",
+    "cost": 100,
+    "description": "This gun fires a compressed monofilament mesh covered in barbs that is designed to shred an unfortunate creature caught within it, their struggles only causing the barbs to bite ever deeper. Haywire",
+    "origin": "Warhammer 40k- The Dark Eldar"
+  },
+  "afe18389-47a4-5618-aa21-8786c0192758": {
+    "id": "afe18389-47a4-5618-aa21-8786c0192758",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Slave Outfits",
+    "cost": 0,
+    "description": "You gain an unlimited amount of customisable slave leia outfit",
+    "origin": "Star Wars Movie Compilation : The Skywalker Saga Jumpchain"
+  },
+  "fc3fa565-e5b5-5a62-9d82-d75ec91fe565": {
+    "id": "fc3fa565-e5b5-5a62-9d82-d75ec91fe565",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Sony TPS-L2 Walkman",
+    "cost": 100,
+    "description": "This is exactly what the title says it is. It comes from an earlier age than your very own Sony TPS-L2 Walkman. Earth’s first low-cost personal stereo. It comes with many tapes from this world. you’ve got a copy of both of the mixes made by Meredith Quill for her son, who now roams through space having adventures as Star-Lord. He broke his Walkman and in an incident with his evil dad back in 2014, and though he doesn’t know you have this, he’d probably appreciate the gesture if you gave it to him, even though he’s replaced it by now. If you do that, I’ll give you another. Go do a nice thing for Quill, will you?",
+    "origin": "Thor - Love and Thunder Jumpchain"
+  },
+  "44ca2bcb-2148-5f81-9d37-1ed39b12cf06": {
+    "id": "44ca2bcb-2148-5f81-9d37-1ed39b12cf06",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Soul-Trap",
+    "cost": 200,
+    "description": "This prism is designed to allow you to trap the soul of your foes and empower you with its stolen power. As long as you strike a foe down, you can immediately trap his soul in the prism and, presuming that he is worth more than a common grunt, you can immediately begin to hijack his spiritual energies to empower yourself greatly.",
+    "origin": "Warhammer 40k- The Dark Eldar"
+  },
+  "a8957db8-6eca-56f3-aadc-bf29f82fba87": {
+    "id": "a8957db8-6eca-56f3-aadc-bf29f82fba87",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Splinter Rifle",
+    "cost": 0,
+    "description": "Gun that shoots poison crystals. Is actually a pretty good gun though. Got spikes on it though because reasons. You may not kill with it but it will sure as hell have people writhing on the ground ready for the kill.",
+    "origin": "Warhammer 40k - Commorragh JumpChain"
+  },
+  "289e458b-2aaf-5ae0-9582-bc953f62d5fd": {
+    "id": "289e458b-2aaf-5ae0-9582-bc953f62d5fd",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Sweet Threads",
+    "cost": 0,
+    "description": "Did someone mention a slick overcoat, a tall-collared cape, and an aesthetically pleasing eyepatch? Because you have those now.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "d7142c7d-8974-530b-ba68-fb4beede1824": {
+    "id": "d7142c7d-8974-530b-ba68-fb4beede1824",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "The Parasite’s Kiss",
+    "cost": 100,
+    "description": "Said to be the finest splinter pistol ever built, it wraps each crystal in psycho-vampiric circuitry, creating a link between target, weapon and shooter. As the victim gasps out their pain and growing weakness, youth and vigor are restored to the shooter.",
+    "origin": "Warhammer 40.000 - Ynnari JumpChain"
+  },
+  "6e67fa08-081d-5e96-ad31-7424b9d7f869": {
+    "id": "6e67fa08-081d-5e96-ad31-7424b9d7f869",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "The Slow Blade",
+    "cost": 150,
+    "description": "As they say in the Dune-Verse, ‘The Slow Blade Penetrates the Shield’. What Shield, you ask? Why, any Shield! Silly Jumper. As long as the blade, and by extension your arm, is moving slowly, this knife will pierce and cut through any defence imaginable. You may freely import any edged melee weapon you possess into the Slow Blade.",
+    "origin": "Frank Hebert's Dune JumpChain"
+  },
+  "b76b40c6-7f3b-5525-a827-fc951b3bae8a": {
+    "id": "b76b40c6-7f3b-5525-a827-fc951b3bae8a",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Treasure Glasses",
+    "cost": 100,
+    "description": "While you’re wearing these glasses, you will be able to see what other people have in their pockets, backpacks, purses, briefcases, suitcases, or any boxes or bags they are personally carrying. This also allows you to detail the contents of any vehicle the size of a semi-truck or smaller. This doesn’t give you details, merely a list of objects (two pencils, sixteen rubber bands, a set of house keys, a bottle of absinthe, and a glock-20 with six hollowhead bullets).",
+    "origin": "Lost Odyssey JumpChain"
+  },
+  "8b9bc32c-1190-5972-b746-d7d840c6542c": {
+    "id": "8b9bc32c-1190-5972-b746-d7d840c6542c",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Variable Speed Slow Shield",
+    "cost": 0,
+    "description": "A Holtzman Shield is one of the most advanced and useful pieces of technology around in the Dune Universe. By sheathing the wearer in a suspensor-nullification effect, a shield can be calibrated to allow the passage of matter below a given speed. This is important or otherwise the wearer would suffocate. Most personal shields are dialable to block anything entering faster than six to nine centimeters per second relative to the shield itself, and can be set to cover one’s entire body or merely the right or left half of it, if the need arises. Yours is special in several ways. First, the speed can be dialed down to four centimeters per second without cutting off your flow of air, and can be rendered all but impervious for up to ten seconds per day in extremis, though you’ll get no air at all during that time. Second, yours does not attract Sandworms on Dune. Third, when hit with a laser weapon, your shield will simply go down, rather than engulfing you in an atomic explosion. The laser weapon itself will still explode with enough force to kill any relatively normal humans within about twelve meters, but no extra radiation will be generated. This effect applies to laser weapons in other settings as well... though does not apply if the range is greater than one tenth of a light second.",
+    "origin": "Frank Hebert's Dune JumpChain"
+  },
+  "ce465a69-1573-5548-9b1a-14eb30fc4784": {
+    "id": "ce465a69-1573-5548-9b1a-14eb30fc4784",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Vindicta's Phaser",
+    "cost": 200,
+    "description": "This phaser has a dual-mode operation, it can fire a high-power beam or use its Gatling mode. The high-power beam fires out of the central aperture and is powerful enough that it can cut through a reinforced ship's hull in 12 seconds. The Gatling gun mode can quickly cycle beams out of the 4 smaller apertures that can re-tune to a random setting after each discharge, each aperture can focus fire on a single target or fire independently on multiple targets using AI assistance.",
+    "origin": "Lower Decks Jumpchain V1.5"
+  },
+  "dc38267e-14b5-56e1-bbf5-3ba425bb8eae": {
+    "id": "dc38267e-14b5-56e1-bbf5-3ba425bb8eae",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "WESTAR-35 Blaster Pistols",
+    "cost": 100,
+    "description": "A pair of WESTAR-35 blaster pistols, the same model utilised by Sabine Wren. They never seem to run out of ammo, no matter how often they are used. Also included are a pair of nerf-hide holsters to keep them in. Should a pistol or holster be lost or destroyed, a replacement will appear after 24 hours.",
+    "origin": "Star Wars Rebels"
+  },
+  "a1c2318e-9a31-5600-bec5-fb2debdf27b8": {
+    "id": "a1c2318e-9a31-5600-bec5-fb2debdf27b8",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Xerrol Nightstinger",
+    "cost": 200,
+    "description": "A blaster sniper rifle, doesn’t have the best range but it makes up for it with one remarkable quality, it fires an invisible bolt, making it a lot harder to see where the shot came from. Also comes with several crystals and paste you can set up, so if you stick one to a wall and shoot it, a very visible blaster bolt will shoot out of the crystal. Very convenient for a frame-up.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "c4c59a2a-0679-589c-98ff-737d0ba538ec": {
+    "id": "c4c59a2a-0679-589c-98ff-737d0ba538ec",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Equipment",
+    "name": "Yaka Arrow",
+    "cost": 100,
+    "description": "Whistle while you work! This strange bronze arrow is made from Yaka metal, which responds to specific sonic frequencies. Most famously employed by Yondu of the Ravagers, an arrow like this could make rapid course corrections, punching through obstacles, enemies, and even starship hulls when given the right tones. With a little practice, you’ll be as proficient as the Centaurian himself! The added red prosthetic fin is cool looking, but optional.",
+    "origin": "Marvel What If..._ Jumpchain"
+  },
+  "58b6a23f-88dd-5cd4-a572-e8628e0fe6e8": {
+    "id": "58b6a23f-88dd-5cd4-a572-e8628e0fe6e8",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Actual Real Orion Pirating",
+    "cost": 300,
+    "description": "You have the training and experience that would be expected of a high ranking member of the Orion Syndicate making you skilled in unarmed combat, armed combat, bladder combat, stealth, security subversion, technological bypassing, plunder assessment, thrown weapon marksmanship and even less overt methods of piracy including art forgery.",
+    "origin": "Lower Decks Jumpchain V1.5"
+  },
+  "747ef104-8c97-534f-8dd7-ce4725f8fba5": {
+    "id": "747ef104-8c97-534f-8dd7-ce4725f8fba5",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Alliance of Agony",
+    "cost": 100,
+    "description": "Raids are, on paper, the one place Dark Eldar are supposed to stay absolutely focused on the mission, for the supply of slaves to Commorragh is far too vital to be disturbed. This is not always adhered to. Foolish, rude and incompetent Archons can drive a wedge through their own allies, signing their own death warrant as they put aside the historical taboo on fighting one another during raids to arrange their deaths. This is no longer a danger for you. For when you work together with a coalition of disparate personalities, you are able to navigate and keep them placated enough to stay directed against your mutual targets. They will not backstab you for before then, though once you enter return to a safe port anything goes.",
+    "origin": "Warhammer 40k - The Dark Eldar"
+  },
+  "040ddad5-f79d-590a-8f1b-aac4913ad420": {
+    "id": "040ddad5-f79d-590a-8f1b-aac4913ad420",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Allied Animal",
+    "cost": 200,
+    "description": "Is this a Loki Variant pretending to be a Variant of someone else? That would be a very Loki thing to do. If so, it’s an impressive deception, as this clearly intelligent animal possesses a natural feature of its form that makes it a genuine threat or problem even for something with your natural capabilities. For example, if this happened to be an Alligator, they would have fangs and a jaw powerful enough to take off the hand of someone just as durable as you, even if you were superhumanly durable. They’re also rather good at finding shelter and noticing when others are trying to sneak up on you, both useful survival skills in many places.",
+    "origin": "Loki Jump – The Reddit Edition"
+  },
+  "c835e7a2-73a6-5f04-982e-f91ec6ff3f14": {
+    "id": "c835e7a2-73a6-5f04-982e-f91ec6ff3f14",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Assassin Droid",
+    "cost": 200,
+    "description": "former assassin droids were reprogrammed to work as bounty hunters for a number of reasons they were efficient they had no conscious and they were cheap, you now have one of your own pre programmed to obey and protect you at any cost, this one is immune to reprogramming",
+    "origin": "The Mandalorian"
+  },
+  "844bbe3d-dca3-5a91-9a05-2c4c0254b6cf": {
+    "id": "844bbe3d-dca3-5a91-9a05-2c4c0254b6cf",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Assiduous Asari",
+    "cost": 100,
+    "description": "Young, only about fifty years old, this Maiden Asari is bright, bubbly, kind, and, well, naive. In the extreme. You’ll meet her getting into trouble with some Batarians, of the “rape and torture” persuasion, and even if she’s got some fire, she’s naff in a fight. Assuming you don’t step in it’s going to be a definite bad end. However, once you’ve rescued her you’ll find she’s loyal to a fault and, while lacking common sense, an excellent cook, wonderful company, and a balm to any weary soul. She’s also most wonderfully talented at all the skills needed at keeping up a household. Somehow, she also managed to win the genetic lottery - having the potential to end a biotic on the level of Samara. Assuming you train her up.",
+    "origin": "Mass Effect - Jumpchain"
+  },
+  "2147a8b5-e0c4-5965-a228-3c4a2016ba4f": {
+    "id": "2147a8b5-e0c4-5965-a228-3c4a2016ba4f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Asteroid Base",
+    "cost": 600,
+    "description": "You have a hollowed-out asteroid with a propulsion system awaiting you somewhere in space. Said asteroid can act as a refueling base for ships, as well as a factory.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "7ee7c074-f0f3-527c-aa5e-ab541aa1e6dc": {
+    "id": "7ee7c074-f0f3-527c-aa5e-ab541aa1e6dc",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Bad Rutherford",
+    "cost": 100,
+    "description": "This time, the desynchronized variant of Sam Rutherford is from when they were a first-year cadet before having their implants installed. Bad Rutherford is a partier and a rule-breaker with a very aggressive personality, heavily engaged in illegal racing through the Romulan Neutral Zone. He was also involved in some sort of illicit \"program\" led by then-Lieutenant Commander Les Buenamigo at Starfleet.",
+    "origin": "Lower Decks Jumpchain V1.5"
+  },
+  "41552a1d-6792-5491-8ba4-2978df5db9c2": {
+    "id": "41552a1d-6792-5491-8ba4-2978df5db9c2",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Blood Pack Mercenary Contract",
+    "cost": 200,
+    "description": "Blunt, short, to the point. Oh, and signed in blood. This paper contract means the Krogan warlord (Wrex would smash his skull in for using that title, even if it would take a good while) you’ve contracted with is your blunt hammer. Krogan, Vorcha, a few Humans, and lots of varren are going to work for you. They’re a full company, too. 150 fighting men equipped with radiadioactive, incendiary, and biological weapons. Plus their leader has stupidly powerful armor and a healing factor that would let him take multiple anti tank rounds to the face and keep killing. These blood thirsty psycopaths utterly lack subtlety, but are willing to loot, rape, and pillage their way across the galaxy. All in your name.",
+    "origin": "Mass Effect - Jumpchain"
+  },
+  "d3f1505b-d517-5a98-acb5-954b475af2f2": {
+    "id": "d3f1505b-d517-5a98-acb5-954b475af2f2",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Blue Suns Mercenary Contract",
+    "cost": 200,
+    "description": "Relatively straightforward, this document entitles the bearer (hopefully that’s you) to the services of a company of Blue Sun Mercenaries. That’s about 150 Turians, Batarians, and Humans that are relatively well disciplined, relatively well equipped, led by a veteran captain that’s killed, more or less, any species you care to ask them to shoot at, and even come with their own pair of YMIR mechs. That said, these are mercs. They’ll work for you, even fight quite enthusiastically, but don’t expect them to take on a suicide mission unless they’re exceedingly well compensated. In general, the Blue Suns specialize in drug smuggling, slaving, and various odd jobs including running a prison. Disciplined, but vanilla. Also, Batarians. There’s a reason the other groups don’t hire them.",
+    "origin": "Mass Effect - Jumpchain"
+  },
+  "142b89f0-2ba9-539e-9e95-e64adc6dba84": {
+    "id": "142b89f0-2ba9-539e-9e95-e64adc6dba84",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Can’t Bribe The Paid",
+    "cost": 200,
+    "description": "Corporate espionage is a pain in a lot of different places. Fortunately you really don’t have to worry about it. As long as you pay people well and on time, they will be strongly loyal to you, and any attempts to bribe them for information or access will fail.",
+    "origin": "Shepard Quest"
+  },
+  "24ac451f-fd33-5b8d-b537-01727648ea35": {
+    "id": "24ac451f-fd33-5b8d-b537-01727648ea35",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Cargo",
+    "cost": 100,
+    "description": "A full cargo, 100 tons worth, of goods with a high smuggled value, like spice, jedi or sith relics, other drugs, exotic animals, or advanced medical supplies. You can find a cargo somewhere near whatever sector you happen to be in, along with the delivery location and contact methods, and it is guaranteed to be both interdicted and valuable at another location within range, but getting it there, making the trade, and getting away are all on you.",
+    "origin": "Star Wars - Dark Empire"
+  },
+  "32ebf2e3-23b7-5daa-a806-bb7dfe56cdff": {
+    "id": "32ebf2e3-23b7-5daa-a806-bb7dfe56cdff",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Chur'R-Yar",
+    "cost": 200,
+    "description": "This one is a vicious snake. She cares not for the Covenant, nor that which is Holy- only her profits, her brood, and her ship. It is her kind that are the reason that the Kig-yar are so often called \"Jackals\"- the pirate shipmistresses of her kind were meant to seek holy relics with their autonomy, but they very often care not at all for these things. And now she has come with you- to seek riches to plunder and mates to breed with, across an endless ocean of stars.",
+    "origin": "Halo - The Covenant"
+  },
+  "fd9f1b73-b38c-54ac-a0ba-95992dc007cf": {
+    "id": "fd9f1b73-b38c-54ac-a0ba-95992dc007cf",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Clarketech Baubles",
+    "cost": 200,
+    "description": "Clarketech by itself usually qualifies as contraband when not sold to government officials. Your selection will now contain a few baubles of inscrutable technology every time it refills.",
+    "origin": "Generic Space Opera JumpChain."
+  },
+  "bf87c412-f211-501d-a914-3a1bc5de73d1": {
+    "id": "bf87c412-f211-501d-a914-3a1bc5de73d1",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Courtesans and Concubines",
+    "cost": 400,
+    "description": "Many a powerful Archon has ended up with a vast harem of courtesans and concubines from across Commorragh. Like them, you too have the magnetism and charisma to whip up a large harem of your very own and keep them loosely together - though being Dark Eldar this offers no guarantee as to their loyalties. Even better, however, is your ability to weaponise lust and love against someone else. Another person’s ones are yours to seduce and turn against them, even convincing someone’s very daughter to murder their father just for the right to join your harem. The blade that comes from within is deadlier than the blade that comes from without. Who else would turn someone’s own daughter into a willing accomplice to your treachery?",
+    "origin": "Warhammer 40k - The Dark Eldar"
+  },
+  "01fbbfe3-1090-538c-82bb-f627cb4801a0": {
+    "id": "01fbbfe3-1090-538c-82bb-f627cb4801a0",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Dark World",
+    "cost": 200,
+    "description": "Not content with merely stealing the stars, moons and black holes of the galaxy, the Dark Eldar sometimes also pinch entire worlds too. This is a habitable planet, perhaps in realspace or perhaps moved wholly into the Webway, that has fallen entirely under your control. All the resources of an entire world lie within the reach",
+    "origin": "Warhammer 40k - The Dark Eldar"
+  },
+  "6d1c98fc-8a85-5f4a-9280-274c4257a2f7": {
+    "id": "6d1c98fc-8a85-5f4a-9280-274c4257a2f7",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Death Stick Factory",
+    "cost": 400,
+    "description": "This large factory is designed to churn out large amounts of death sticks, ready for distribution. If you wanted to corner the market on drugs, this would be a great start. Your factory comes with a small force of Star Wars setting aliens, likely Dugs or Gran. They count as followers, know how to run the factory, and are intensely loyal to you. If any are killed, replacements will show up at the start of the next jump (post-chain, every ten years). Your factory has a replenishing supply of the materials needed to produce death sticks, including Ixetal cilona. However, this is only a supply for “traditional” death sticks. If you want to alter the formula, such as by adding the Bando Gora neurotoxin, you’ll have to source that elsewhere. In future worlds, you may choose for your factory to be attached to your Warehouse, or to be placed somewhere appropriate, close to your starting location. It will automatically be hooked in to any public utilities, though you may opt out of this if you like. Should the factory be destroyed, a replacement will appear in the same location after 24 hours. If it was placed out in the world,",
+    "origin": "Star Wars - Bounty Hunter"
+  },
+  "187f8866-4861-5d21-8423-117d8ed43e09": {
+    "id": "187f8866-4861-5d21-8423-117d8ed43e09",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Dour Drell",
+    "cost": 100,
+    "description": "A somewhat bitter middle aged alien, he’s a focused individual, an excellent middle manager, and a ruthless killer. Sociopathic, in the clinical sense, he struggles to find either purpose or direction in his life. You, however, seem to be... more. Almost enough to give him Religion. And despite being an assassin turned serial killer, he’s still incredibly loyal. Though, perhaps, only good company if you like quiet evenings cleaning your trophies and drinking fancy teas - of which he is a most excellent connoisseur.",
+    "origin": "Mass Effect - Jumpchain"
+  },
+  "b72dd438-7ce2-5d14-b2ac-8cd1b285d48a": {
+    "id": "b72dd438-7ce2-5d14-b2ac-8cd1b285d48a",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Eclipse Mercenary Contract",
+    "cost": 200,
+    "description": "Thick with legalease, this many, many pages long digital contract permits the command and deployment of a company of Eclipse Private Security Specialists. That means a mix of Asari, Salarians, and a smattering of Humans. Only 120 this time, but they specialize in high tech weapons and their captain is more than just an officer. She’s a powerful (and sadistic) biotic who wields a heavy shotgun and lethal space magic. On top of that, she’s brought her own Mantis Gunship. Hell, if she likes you, she’ll even sleep with you too. Technically corporate security, Eclipse forces are respectable enough to have with you, even if they’re notorious drug smugglers, gun runners, sentient traffickers, and sometimes even worse.",
+    "origin": "Mass Effect - Jumpchain"
+  },
+  "2cbe9bc0-f26a-5ee5-8342-d0b0db492c31": {
+    "id": "2cbe9bc0-f26a-5ee5-8342-d0b0db492c31",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Elusive Element",
+    "cost": 200,
+    "description": "200 – (Free for Rogue Variant) – Spending most of their life alone and on the run from the TVA, this individual has considerable talent when it comes to escaping and evading the notice of others. Their impressive skill as a planner and strategist has been bolstered by a talent for enchanting others, allowing them to manipulate minds and possess others with a touch.",
+    "origin": "Loki Jump – The Reddit Edition"
+  },
+  "64233d60-d2ed-5179-853d-3234f48d3e5f": {
+    "id": "64233d60-d2ed-5179-853d-3234f48d3e5f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Green Skinned Alien Space Babe",
+    "cost": 100,
+    "description": "Somehow you saved the life of this beautiful falleen bounty hunter and she’s decided she ought to repay you with her loyal companionship.",
+    "origin": "Star Wars Shadows of the Empire Jump"
+  },
+  "76978f8a-9846-535e-a88c-7c2c8b085784": {
+    "id": "76978f8a-9846-535e-a88c-7c2c8b085784",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Hidden Superweapon",
+    "cost": 600,
+    "description": "This powerful laser cannon is stored within an ancient ruin on Earth. It appears to have been built by the Mazone in ages past. However, it has long since been abandoned – until you found it. You could seriously damage even a ship like the Arcadia with this cannon! However, the weapon is stationary, save for the ability to change its firing angle. In future worlds, it will place itself in the oldest ruin within 300 kilometers of where you appear.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "5c6d39e3-5dc3-521d-bf51-8ce01ea7edae": {
+    "id": "5c6d39e3-5dc3-521d-bf51-8ce01ea7edae",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Hideout",
+    "cost": 200,
+    "description": "A hideout located somewhere in the outer rim, so long as you’re there and don’t intentionally draw attention to yourself then you’ll find peace even if for instance the Hutts have sicced most of the bounty hunters in the galaxy on you.",
+    "origin": "Star Wars - Dark Empire"
+  },
+  "2fcd5065-bf0c-5d1f-880c-8467be570f19": {
+    "id": "2fcd5065-bf0c-5d1f-880c-8467be570f19",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "HK-47 Assassin Droid",
+    "cost": 400,
+    "description": "Not necessarily HK himself, especially if you’re not in the correct era but this is an Assassin Droid all the same. Normally these droids are very risky to use, given that Assassin droids have a notable history of turning on and killing their old masters; fortunately for you that won’t be an issue as this particular unit views you as a close friend and is quite loyal. The droid’s capabilities are also quite impressive, being more than capable of ripping through most enemies without much issue, and can even kill Jedi and Sith due to its advanced mind and weaponry. It also has a tendency to refer to organics as meatbags for some reason; hopefully you don’t go near anyone with a fear of AI. Comes with blueprints.",
+    "origin": "Generic Star Wars Fanfiction Jump"
+  },
+  "99ba5f81-7abd-55de-b084-a2c5bb971cd5": {
+    "id": "99ba5f81-7abd-55de-b084-a2c5bb971cd5",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Incubi Companion",
+    "cost": 200,
+    "description": "Gain a really loyal and incorruptible bodyguard to accompany your journey into the Dark City. He isn't too talkative but will come with you to later jumps. Don’t let his taciturn demeanour fool you though. He is just as evil as the rest of the city.",
+    "origin": "Warhammer 40k - Commorragh JumpChain"
+  },
+  "075bee85-37ff-531a-ba34-8f2ab14caab7": {
+    "id": "075bee85-37ff-531a-ba34-8f2ab14caab7",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Jabba's Palace",
+    "cost": 500,
+    "description": "This opulent Castle is initially a perfect copy of the palace on Tatooine constructed from a large sandrock and durasteel. The structure can change to match the style of any jump location you have visited, gaining the location's luxury equipment, self-refilling consumables, protection, and entertainment, all of which can be implemented in any version of the Palace. Those who provide entertainment and protection for this palace are non-sentient entities with an appropriate appearance.",
+    "origin": "Star Wars Movie Compilation : The Skywalker Saga Jumpchain"
+  },
+  "ce708831-e0ed-5afe-a257-f14b8e8ca2ed": {
+    "id": "ce708831-e0ed-5afe-a257-f14b8e8ca2ed",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Jedi Princess",
+    "cost": 100,
+    "description": "This woman claims to have been a survivor of the Jedi. Given she’s in her early 20s she’s probably lying. Still she has a lightsaber, and seemingly knows how to make one, and she is good with it. She also definitely has the ability to use the force, even if she’s not as good as she likes to pretend she is and doesn’t seem to know advanced techniques like the Mind Trick. She claims the Force has shown her visions of you, and that you and her share a destiny together, but she doesn’t seem to know what it is.",
+    "origin": "Star Wars Shadows of the Empire Jump"
+  },
+  "872783c9-f88a-5f9e-893b-3070d69fc2d5": {
+    "id": "872783c9-f88a-5f9e-893b-3070d69fc2d5",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Kowakian Monkey-Lizard",
+    "cost": 100,
+    "description": "The Kowakian Monkey-Lizards are a semi sentient reptilian race. They are often kept as pets by various members of the underworld. The most famous Kowakian Monkey-Lizard is likely Salacious B. Crumb who serves Jabba the Hutt. Despite their small stature and disgusting appearance they are remarkably intelligent creatures. They have demonstrated the capabilities to use blasters and even a pirate tank. Lastly they also seem to have the unique ability to mimic almost any language.",
+    "origin": "Star Wars vs Warhammer 40K"
+  },
+  "8480b7e6-8bd5-54b5-afe9-39ff85162816": {
+    "id": "8480b7e6-8bd5-54b5-afe9-39ff85162816",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Loyalty",
+    "cost": 200,
+    "description": "Never again need you fear turning on those you have a shared cause with – you know who you've sided with, and neither bribe nor threat of laser blast shall turn you from your course.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "233e0475-359b-5d00-aef9-10737132dd24": {
+    "id": "233e0475-359b-5d00-aef9-10737132dd24",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Management",
+    "cost": 100,
+    "description": "The problem with dealing with criminals, rebels and free-spirits is, they have no respect for proper organization and hate filling out timesheets. You have the skills to actually organise some organized crime so you’re raking in profits on the regular and not just living between big hauls you pray come along.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "962169f7-c4ab-53b3-b6c9-64b67c23272b": {
+    "id": "962169f7-c4ab-53b3-b6c9-64b67c23272b",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Moonbase Eldar",
+    "cost": 100,
+    "description": "A resource rich moon has made its way into your grasp, probably through theft, and been readily colonized for industrial exploitation. Each purchase doubles the number of moons",
+    "origin": "Warhammer 40k - The Dark Eldar"
+  },
+  "b276575d-533a-5e41-a062-ff00907d10a5": {
+    "id": "b276575d-533a-5e41-a062-ff00907d10a5",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Omega",
+    "cost": 500,
+    "description": "Omega is a mobile space station that has been retrofitted as a criminal hub and a center of black market activities. It is a hub for smugglers, mercenaries, and other unsavory characters, making it an ideal location for recruiting soldiers and acquiring resources. Omega Station is also heavily armed and armored, making it a formidable force in any battle. Its FTL engines allow it to quickly deploy to any location in the galaxy, making it an excellent base of operations for covert missions.",
+    "origin": "Mass Effect: Beacon’s Effect Series Jumpchain"
+  },
+  "721b9780-c6e4-5ca5-9781-90f1b82665ed": {
+    "id": "721b9780-c6e4-5ca5-9781-90f1b82665ed",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Quiet Quarian",
+    "cost": 200,
+    "description": "She’s the scary kind of quiet. The one where you don’t know what she’s thinking. And it’s probably something really, really messed up. Thankfully, she’s got the skills to back it up. A master at coding, without the morals needed to really understand why she shouldn’t do certain things, you’ve managed to win her trust - and mild obsession - by rescuing her from (you guessed it) Batarian slavers. Strangely enough, her tastes seem to be... rather extreme. And she will watch you in your sleep. And maybe in the shower. But if you ever need a computer system ruined, she can out code any VI in existence and is both fast and smart enough to challenge, and perhaps beat, an AI in real time. If you ever take her out on a date, she’ll be more than eager to impress you with her knowledge of opera and, somewhat surprisingly, her own impressive vocal ability.",
+    "origin": "Mass Effect - Jumpchain"
+  },
+  "c2a9dad1-760c-58c0-83e0-12db5f324b9b": {
+    "id": "c2a9dad1-760c-58c0-83e0-12db5f324b9b",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Ransom Fit for a Hutt",
+    "cost": 200,
+    "description": "Maybe you owe some people a lot of money, or you just want an early retirement. Regardless of your motive, this is a literal King’s ransom in jewels, spice, and relics. You’d have to sell it all to get the credits it’s worth, but doing so would make you a very wealthy man. Once this is gone you’ll be guaranteed to find another horde of treasure given some time and looking.",
+    "origin": "Generic Star Wars Fanfiction Jump"
+  },
+  "2a2db45d-5381-550d-ba0c-c873d8474a23": {
+    "id": "2a2db45d-5381-550d-ba0c-c873d8474a23",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Replicant",
+    "cost": 200,
+    "description": "It seems Guri wasn’t so one of a kind after all; though Xizor had her creator killed so one must wonder who made this one. This is a Human Replica Droid built and programmed as an assassin.",
+    "origin": "Star Wars Shadows of the Empire Jump"
+  },
+  "803aeebb-6f2c-5520-8786-347114d5a954": {
+    "id": "803aeebb-6f2c-5520-8786-347114d5a954",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Salubrious Salarian",
+    "cost": 200,
+    "description": "Fast talking, clever, and good at fucking people over, this guy is a sheister through and through. Luckily, he likes you. Or maybe the fact that you protected him from some rather rough-looking Turians who wanted to break his kneecaps. Now he’s put his many talents, and business contacts, at your disposal. Essentially, if you want something, he can get it for you, no matter how difficult or illegal it is to acquire. Even better, it’s all about the thrill of the deal for this guy and money means almost nothing to him. So if he can help out his “Best Buddy”, he will. No strings attached. A bit oddly, he has a fear of gambling machines and insists all games of chance be done manually.",
+    "origin": "Mass Effect - Jumpchain"
+  },
+  "422ae811-6daf-5a4d-a016-9ffc5c81015f": {
+    "id": "422ae811-6daf-5a4d-a016-9ffc5c81015f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Shell Company",
+    "cost": 400,
+    "description": "You own a small company, a reasonable front for your activities or a legitimate money-maker. Something small and local, like Antilles Fuel, Azzamean Shipping, a bar or Reelo Baruk’s garbage collection group on Nar Shadaa.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "449e4cf2-6190-55ee-98b3-3d5cafdc0a0e": {
+    "id": "449e4cf2-6190-55ee-98b3-3d5cafdc0a0e",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Skyhook",
+    "cost": 600,
+    "description": "This is a repulsor lifted vehicle of massive size. Or perhaps it’d be best to say this is a large compound which is held in the upper atmosphere by repulsor technology which allows for it to ascend, descend, or move over the world. Whether you call it a fortress or a vehicle, it is a match for Prince Xizor’s own Faleen’s Fist; meaning it’s 1,200 meters in length, with a ‘passenger’ capacity of 1,000 individuals (though this is not a maximum occupancy limit so much as how many it is designed to house comfortably long term), a cargo capacity of 50,000 tons, and supplies for 6 months of continuous operations. You won’t need to worry about its power supply, as whatever fuel it uses will be replaced at a rate to allow for it to remain aloft indefinitely, and even move at low to average intensity indefinitely – if you push it to its limits you might have to let it rest for a time to reach full charge and capacity again – but food, air, and water will require you to supply it as it will only restock to its 6 months stores at the start of each jump. It does come with several landing vehicles capable of ascending into the atmosphere and descending. They’re not the best vehicles by Galactic standards but they include a mix of small passenger ships and a larger cargo one for resupply purposes. Of course, the skyhook itself can descend into the thicker air of the lower atmosphere, though it is not designed for landing and it will strain its engines to remain in place or move about with the additional pressure and gravity, or to ascend; despite being primarily powered by repulsors it seems to be able to leave the atmosphere and even gravity well completely though it is painfully slow for space flight.",
+    "origin": "Star Wars Shadows of the Empire Jump"
+  },
+  "1bded90f-a311-51c8-8ecb-3c0536cff0c4": {
+    "id": "1bded90f-a311-51c8-8ecb-3c0536cff0c4",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "The Spice Mines of Kessel",
+    "cost": 400,
+    "description": "The spice mines of Kessel remain some of the most infamous mines in the galaxy, and some of the most profitable ones as well, easily bringing in immense wealth. This may not be the mines of Kessel, but it’s something equivalent whether it be a ,powerful droid factory or something else. Controlling this will easily allow for the harvesting or production of vast quantities of valuable resources or products that could easily finance great operations. A droid factory could produce great armies of powerful war droids easily sold across the galaxy just as the spice mines could fuel an empire’s drug trade. Conveniently, this also serves as a great place to send people you’d rather not see again.",
+    "origin": "Generic Star Wars Fanfiction Jump"
+  },
+  "06a563dd-6803-55d4-a142-7103608f448f": {
+    "id": "06a563dd-6803-55d4-a142-7103608f448f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "The Viridescent Gremlin",
+    "cost": 0,
+    "description": "Dark Eldar, especially Hellions, are known for their love of mischief, but this one really takes it too far. This Hellion simply loves dressing in a bright green and purple costume while racing around on their skyboard hurling novelty shaped plasma bombs. For some reason, they’ve taken a liking to you too.",
+    "origin": "Warhammer 40k - The Dark Eldar"
+  },
+  "2aa26411-6c7c-50d1-ab2c-61d567bed8bd": {
+    "id": "2aa26411-6c7c-50d1-ab2c-61d567bed8bd",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Trade Goods",
+    "cost": 100,
+    "description": "Whilst the primary purpose of a mercenary is to point and shoot, you’re never far from emergency provisions with which to make some quick cash. This cache of goods includes such Dune specific trade goods as Pundi & Pongi Rice from Calidan, along with some Calidanian Wines, Elacca Wood and Fogwood (which come from Ecaz), Jacaranda (which comes from Elacca), Buzzellian Soostones, Irongourds from Rossak, Ridulian Crystal, Ixian Firegems, and Lankiveilian Whale Fur, and is always ready for you in the event trade or emergency money are needed. The value of these commodities is guaranteed to run to the millions of Solaris. To put that into perspective, Melange sells for upwards of 50,000 solaris per gram, or roughly 500,000 USD. The cache replenishes once a month, but the contents are randomized from a list of valuable substances native to the Dune Universe. Some stuff, like the Rice, will take up quite large amounts of space, while the Firegems are very small. The cache’s size changes depending on the contents, but is always close to hand. Anything that remains in the cache won’t be replaced, but won’t take up any space in any of your storage solutions. Anything you remove from the cache... well, you’ll have to find a way to store it, but it will eventually be replaced.",
+    "origin": "Frank Hebert's Dune JumpChain"
+  },
+  "48502b69-d0de-5fc0-a738-bbfd0658dd90": {
+    "id": "48502b69-d0de-5fc0-a738-bbfd0658dd90",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Underworld Contacts",
+    "cost": 200,
+    "description": "You have the ability to quickly and easily make contacts and ‘friends’ in the criminal underworld. You’ll also find yourself in situations where you can gain favors from people who could be useful down the line. This may not lend to individual power all that much, but when you’ve got a friend in every port you tend to have quite a few options.",
+    "origin": "Star Wars - Dark Empire"
+  },
+  "b19b5a38-f28d-5861-b0fa-efb2b561099c": {
+    "id": "b19b5a38-f28d-5861-b0fa-efb2b561099c",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Varren",
+    "cost": 0,
+    "description": "Native to the planet Tuchanka, these reptilian omnivores are savage survivors and opportune scavengers. Their fangs and claws are very dangerous to unprotected flesh and can easily adapt to most environments. This one has been trained, is extremely loyal to you, and acts much like any other dog you'd find on Earth.",
+    "origin": "Mass Effect - Legendary Edition"
+  },
+  "cdec3dfb-cbc3-57ca-96df-c857ba87a6e1": {
+    "id": "cdec3dfb-cbc3-57ca-96df-c857ba87a6e1",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Wanted Posters",
+    "cost": 100,
+    "description": "A collection of documents informing you about outlaws and miscreants you could kill or capture and deliver for compensation. Should you yourself qualify this will always contain your own dossier, informing you what your pursuers know, and where and for what crime exactly you are wanted.",
+    "origin": "Generic Space Opera JumpChain."
+  },
+  "43ea60c2-7e70-5c2a-abb8-5bb03b2067f0": {
+    "id": "43ea60c2-7e70-5c2a-abb8-5bb03b2067f0",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Your Very Own Waifu",
+    "cost": 0,
+    "description": "Dark Eldar of wealth and power often surround themselves with courtesans. This one’s tendency towards scheming and betrayal is close to the minimum found in the Dark Eldar. However, her bedroom and poisoning skills are the equal of any of the Lhilitu, as is her eagerness in both.",
+    "origin": "Warhammer 40k - The Dark Eldar"
+  },
+  "56bcba07-cd44-55e3-8ada-0bd46e0ec5c0": {
+    "id": "56bcba07-cd44-55e3-8ada-0bd46e0ec5c0",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Yriel",
+    "cost": 100,
+    "description": "An Asuryani Autarch turned one of the most successful space pirates in the galaxy. An amazing commander, both canny and inspiring, and wielder of one of the Croneswords.",
+    "origin": "Warhammer 40.000 - Ynnari JumpChain"
+  },
+  "78540327-d79f-5c3e-8235-9b40fac6d7ab": {
+    "id": "78540327-d79f-5c3e-8235-9b40fac6d7ab",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Syndicate",
+    "name": "Zhar",
+    "cost": 400,
+    "description": "A mercenary, a backstabber, and a damn good shot, Zhar is the archetypical Jackal sniper. For decades, he's killed without remorse across the Covenant, always for the highest bidder available. When he heard that there were even greener- or blacker- pastures to be found travelling with you, he was right on board.",
+    "origin": "Halo - The Covenant"
+  },
+  "e8aaf6b4-39f2-57ef-a5c8-43a2cb6cf907": {
+    "id": "e8aaf6b4-39f2-57ef-a5c8-43a2cb6cf907",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "All I Need Is A Drink",
+    "cost": 100,
+    "description": "You can now subsist nutritionally on nothing but alcoholic beverages. While this is a Juran racial trait, some humans appear to be capable of this as well – the doctor on the Arcadia, for instance.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "f7e983bd-b4e1-5e52-9f21-bcd4b821895b": {
+    "id": "f7e983bd-b4e1-5e52-9f21-bcd4b821895b",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Altering the Deal",
+    "cost": 100,
+    "description": "You can be really kriffng scary when you want. It lets you get away with a lot of things in interrogation or negotiations.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "7bd6caef-7dd4-5682-8a9e-b1e0a706f2c6": {
+    "id": "7bd6caef-7dd4-5682-8a9e-b1e0a706f2c6",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "An Actual Smuggler",
+    "cost": 200,
+    "description": "Your ability to move things undetected is legendary, running spice through an Imperial Blockade would be child’s play. Not an Imperial Blockade of the present mind you, but one during the Empire’s height guarding one of their most secure prisons where getting in is nigh impossible and where getting out simply doesn’t happen without the Empire’s approval. This also applies on the small scale as well; small packages, weapons, and so on can trivially be snuck past all sorts of scrutiny and prying eyes.",
+    "origin": "Star Wars - Dark Empire"
+  },
+  "3e217502-3352-524c-8896-25f37ec92905": {
+    "id": "3e217502-3352-524c-8896-25f37ec92905",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Analytical Eye",
+    "cost": 200,
+    "description": "A wise pirate pays attention to their enemies, allowing them to gage the enemy’s status, current health level, type, element, and even what... ahem... loot... they might be carrying. All it takes is a moment’s concentration. In case it wasn’t clear, you are now a wise pirate in these regards.",
+    "origin": "Lost Odyssey JumpChain"
+  },
+  "6c1ccd84-7c1d-5d99-898f-2771506aa8ce": {
+    "id": "6c1ccd84-7c1d-5d99-898f-2771506aa8ce",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Black Market Tools",
+    "cost": 100,
+    "description": "There are so many things in the galaxy that are so useful, yet the people in power always seem so eager to get in the way of using what’s on offer. Disruptors, Spice, and droids all standing as useful tools the powers that be like to regulate out of existence, as if banning them will make them go away. The markets of the underworld are a path to acquiring these things without fear of trouble, and so you’ve gained some skill with these. Navigating the markets of the underworld, identifying and most importantly finding what you want and ensuring it’s not a rip off all come easily. Almost as if some sort of force was guiding you as you go.",
+    "origin": "Generic Star Wars Fanfiction Jump"
+  },
+  "394e0b41-5fd1-5092-9258-727b718f5a01": {
+    "id": "394e0b41-5fd1-5092-9258-727b718f5a01",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Boarding Action",
+    "cost": 200,
+    "description": "You’ve spent years leading boarding actions on everything from starships to speeding tanks. You’re sure-footed in all circumstances, and a deft hand at fighting in cramped quarters.",
+    "origin": "Warhammer 40.000 - Orks JumpChain"
+  },
+  "b3ca94c9-8be7-502c-a8aa-388acf0d1112": {
+    "id": "b3ca94c9-8be7-502c-a8aa-388acf0d1112",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Classic Starlord",
+    "cost": 200,
+    "description": "It’s an honor to be in your presence! You can easily cultivate a reputation, whether you want to cower onlookers with fear or foster a Robin Hood-esque air of nobility mystery. Should your deeds reinforce this desired perception, you would find word of your exploits stretching out across the stars.",
+    "origin": "Marvel What If..._ Jumpchain"
+  },
+  "b1201544-9eb7-537f-98b3-5c63aab2c19a": {
+    "id": "b1201544-9eb7-537f-98b3-5c63aab2c19a",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Cold Blooded",
+    "cost": 200,
+    "description": "A criminal can be emotional or successful; blood feuds are not good business. You possess excellent, albeit not perfect, emotional control. You still feel emotions, but you can easily recognize them and keep them from ruling your behavior. Oh, you can choose to act on them – if someone kills your family you could coldly plan your vengeance for decades if needed – but you are not ruled by them. It is possible for this control to be overwhelmed, but it’d take some rather extreme circumstances. This also helps you to derive entertainment and enjoyment from even the most prosaic of acts.",
+    "origin": "Star Wars Shadows of the Empire Jump"
+  },
+  "cfb5d7ad-cb41-5a87-b09d-d915992b8d10": {
+    "id": "cfb5d7ad-cb41-5a87-b09d-d915992b8d10",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Dealmaker",
+    "cost": 100,
+    "description": "You are a smooth talker and shrewd negotiator. With such skills, you can stroke your target’s ego as you convince them to agree to conditions that favour you more than them, and also keep your target and their allies off-balance, so they don’t have the opportunity to evaluate your arrangement until long after you are gone – just make sure not to do this when your plan is dependent on them working well as a team!",
+    "origin": "Star Wars Rebels"
+  },
+  "0cfe57b9-a508-593f-b3af-066e117c47d5": {
+    "id": "0cfe57b9-a508-593f-b3af-066e117c47d5",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Dexterity",
+    "cost": 100,
+    "description": "A trait much needed for thieves you are agile in more ways than one. A master at parkour and gymnastics, and with quick and skilled fingers perfect for hot wiring a speeder or lifting a coin purse.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "2273f3fe-4861-556b-a340-eaea6a9455ff": {
+    "id": "2273f3fe-4861-556b-a340-eaea6a9455ff",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Diplomatic Fencing",
+    "cost": 100,
+    "description": "You excel at small talk, conversation, and diplomatic niceties. You know how to carry on a conversation, how to keep a partner engaged, and how to subtly probe for information while not giving information of your own. You’d make an excellent diplomat.",
+    "origin": "Star Wars Shadows of the Empire Jump"
+  },
+  "41682a25-85b7-5c28-b143-86b5748b614f": {
+    "id": "41682a25-85b7-5c28-b143-86b5748b614f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Dirty Business",
+    "cost": 100,
+    "description": "It’s a dirty business, but someone’s got to do it. Killing, that is! You’re a trained fighter, lethal with sword, laser-musket, and anything else you happen to find. That’s sure to be useful sometime. Also, you’re trained in boarding hostile vessels, and are a surprisingly good shot with an explosive grappling hook (and can swing on them, too)!",
+    "origin": "Treasure Planet JumpChain"
+  },
+  "97dff823-5ee7-54f1-abb3-c304ed0a504c": {
+    "id": "97dff823-5ee7-54f1-abb3-c304ed0a504c",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Duellist’s Eye",
+    "cost": 200,
+    "description": "Your talent is surely wasted slaying the common rabble. A quick, contemptuous glance is all it takes for you to identify the most skilled and dangerous of your enemies amidst a mass before you, picking out the wheat of a worthy foe from the chaff of his meatshields. Surely the only thing you’d use this for is striking down the deadliest enemies.",
+    "origin": "Warhammer 40k - The Dark Eldar"
+  },
+  "e48f1c8f-a05c-504c-9cd5-273aae037fbb": {
+    "id": "e48f1c8f-a05c-504c-9cd5-273aae037fbb",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Every situation has the potential to be profitable.",
+    "cost": 200,
+    "description": "The key to a pirate’s success is opportunism – to recognise and capitalise on opportunities to make money. You have a strong sense for such opportunities, and can find the profit in just about any situation. Moreover, these opportunities now fall into your lap far more than they would have without this perk. This doesn’t just mean opportunities for you to pilfer treasure for yourself, but also helps you to acquire information that could be sold or traded to others in exchange for either fortune or favour. In this setting, for example, you might learn of a set of Y-wings about to be scrapped by the Empire, which would be of value to the rebels. Why, if you are on the ball, you could even double-deal between both the Empire and rebels in order to collect a pay day from both groups!",
+    "origin": "Star Wars Rebels"
+  },
+  "2a312f68-6387-5f0d-9033-448a61b79261": {
+    "id": "2a312f68-6387-5f0d-9033-448a61b79261",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Fortune and Glory, Kid",
+    "cost": 300,
+    "description": "Treasure, loot, plunder, money, valuables, legends, stories, renown, reputation - that’s what the life’s all about, kid. Get a room of pirates together and under all the bluster, you’ll find every single one of them wants, on some level, one thing Fortune and Glory. To sit on a gigantic pile of loot and to be known the universe over that you did it. Maybe you’re no different, or maybe there’s a design behind your desires, but whatever the case may be, money makes the galaxy spin - and you seem to have a good knack for finding the good stuff. High-quality weapons, large caches of valuable resources, or just straight-up piles of money, you don’t know what the next raid will bring, but you at least know it’ll bring you something you can appreciate. Just be careful - if word gets out that this one pirate is particularly good at finding good stuff, some particularly enterprising Captains may decide they want to take advantage of that ability, either for one big score or for a longer-term profit, savvy?",
+    "origin": "The Destiny Universe"
+  },
+  "b5d8df03-ca12-5de2-9fb8-8633eb821a7f": {
+    "id": "b5d8df03-ca12-5de2-9fb8-8633eb821a7f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Got A Bad Feeling",
+    "cost": 200,
+    "description": "You have excellent instincts for when a deal or job, heck just a general situation, is about to go sour. When a hidden marksman is drawing a bead on you, and when you’re about to be boarded by an Imperial cruiser. Almost always in time to dump your cargo or make yourself scarce.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "f88bdd43-9bc0-54a1-a3ca-4e4958e0cbd5": {
+    "id": "f88bdd43-9bc0-54a1-a3ca-4e4958e0cbd5",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Hidden From Sight",
+    "cost": 100,
+    "description": "In this universe, those who can see the future, either imperfectly (like Reverend Mothers, Seers, Mentats, and Guild Navigators) or virtually perfectly (like the various Kwisatz Haderachs) are all too worryingly common. However, by sheer chance, Hasimir Fenring, a cousin of the Emperor and a genetic mule, possesses a gene that makes him invisible to prescience and other forms of precognition. That gene will, in 3500 years, reemerge, this time in a viable form, in Siona Atreides, thanks to God Emperor Leto’s breeding program, and permanently become part of the Atreides line. You carry the gene for this trait, without being a mule. Only by seeing you physically and using precognition at the same time will a prescient individual realize that you are outside their sight. They will otherwise not realize that there are any gaps in their precognition... or at least not gaps linked to you.",
+    "origin": "Frank Hebert's Dune JumpChain"
+  },
+  "d6ccae74-c95e-5eb3-b45d-4e7553401b1f": {
+    "id": "d6ccae74-c95e-5eb3-b45d-4e7553401b1f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "How Much?",
+    "cost": 200,
+    "description": "As the saying goes, everyone has a price. You are very good at finding bribable officials and estimating how much it takes to make them look the other way.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "66a5b6a1-4635-5c69-ad4a-a787f6edc6ac": {
+    "id": "66a5b6a1-4635-5c69-ad4a-a787f6edc6ac",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "I am a Space Pirate",
+    "cost": 400,
+    "description": "You know if anyone else walked into Knowhere and announced that they were the Dread Pirate Jumper, they would at best get laughed out of the place. However, you are completely serious and everyone knows it. You can announce yourself as a mighty space pirate and people will know you as a fierce and worthy foe who lives up to their name. You have dozens of years of experience in space piracy (and the normal kind too) and know how to attract the perfect crew no matter the job. Law enforcement is wary of your prowess and the average citizen will either fear or adore you depending on the sort of pirate you are. You can choose any other type of criminal to be but whatever you choose is locked in for the current jump. This comes with all the skills needed to be the best criminal in the universe.",
+    "origin": "Marvel Cosmic JumpChain"
+  },
+  "4d946b39-ba65-5c2a-8cd7-86d4560e913d": {
+    "id": "4d946b39-ba65-5c2a-8cd7-86d4560e913d",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Infiltration",
+    "cost": 100,
+    "description": "As it so happens, you're quite good at sneaking around. You could probably go unnoticed among a unfamiliar populace so long as you don't kill anyone.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "e3003cde-b4d3-5d18-ae3a-e1f9976f1f24": {
+    "id": "e3003cde-b4d3-5d18-ae3a-e1f9976f1f24",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Iron Stomach",
+    "cost": 200,
+    "description": "It’s a stereotype, yes, but that makes it no less true - a significant portion of a pirate’s life is spent with an astonishingly high blood-alcohol content. You are capable of holding your drink with the best of them, and drinking even the most experienced of pirates right under the table. You’ve learned that this helps you in more than just reputation - and have been able to hone the ability to get in people’s good graces by keeping their drink full and their cheeks rosy, so you can make them happily tell you their otherwise precious secrets. Just a natural grin and an easy ‘C’mon!’ could get even the most staunchly sober willing to have just a little with you, and from there they’re yours.",
+    "origin": "The Destiny Universe"
+  },
+  "aee12caf-906b-5221-8ad4-4dbbe5aefdeb": {
+    "id": "aee12caf-906b-5221-8ad4-4dbbe5aefdeb",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Jawa Marketing",
+    "cost": 100,
+    "description": "The Jawas are traders they find things and then trade them to others for goods and services, the problem most people have is that by find I mean steal from then sell back to the actual owner. Now whether or not you're an actual Jawa you can make use of their business strategy and steal from people then sell their stuff back to them, best of all if they can't stop you from taking it in the first place for any reason they'll never try to get it back any way other than buying it",
+    "origin": "The Mandalorian"
+  },
+  "47b167e9-3f95-537f-8090-ae902ebf1654": {
+    "id": "47b167e9-3f95-537f-8090-ae902ebf1654",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Just a humble smuggler",
+    "cost": 100,
+    "description": "You know how to keep yourself under the radar. As such you know how to remain unnoticed at large and as an extension, a rough idea how to get into certain areas when needed.",
+    "origin": "Ratchet and Clank Jumpchain"
+  },
+  "980999de-1b21-58ce-acde-46503dcf93bd": {
+    "id": "980999de-1b21-58ce-acde-46503dcf93bd",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Killa Reputation",
+    "cost": 200,
+    "description": "The Arch-Arsonist of Charadon, the Arch-Maniac of Calverna, the Overfiend of Octarius, the Mighty Mangler of Bork, the Beast. Now you too can have an intimidating title you are known by, and a reputation worthy of it.",
+    "origin": "Warhammer 40.000 - Orks JumpChain"
+  },
+  "ce572d9c-d6cc-5df1-be7b-4b17346bc9c0": {
+    "id": "ce572d9c-d6cc-5df1-be7b-4b17346bc9c0",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Let the Wookiee win",
+    "cost": 200,
+    "description": "When playing a game against another person you can use this perk to put psychological pressure on your opponent causing them to feel distress and as though they should lose.",
+    "origin": "Star Wars Movie Compilation : The Skywalker Saga Jumpchain"
+  },
+  "b9428b8e-4cb7-5f4b-a2a6-9001bbd69c50": {
+    "id": "b9428b8e-4cb7-5f4b-a2a6-9001bbd69c50",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Magnificent Bastard",
+    "cost": 100,
+    "description": "You are now great at making friends, even with those that really, really, shouldn’t like you. If you’re a pirate, a Jedi would be willing to go out for drinks with you. If you are a Rebel, an Imperial officer may have an odd sort of respect for you and treat you better when captured. This won’t make them outright betray their organization, but it will certainly make compromises a lot easier to achieve.",
+    "origin": "Empire at War Jumpchain"
+  },
+  "1622c44c-945b-5cb6-ba34-8b59fa63e839": {
+    "id": "1622c44c-945b-5cb6-ba34-8b59fa63e839",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Mark my words, I’ll be back",
+    "cost": 200,
+    "description": "One job, that’s all it takes for an empire in the shadows to come crashing down, and for you to end in the spice mines of Kessel. A guaranteed end for most, if not all people as they work to death in the dark mines dodging energy spiders. You’re not the regular person are you though? For you losing everything isn’t everything, not with your luck and ability. When it comes to rebuilding what you’ve lost, avoiding death whether by chance or otherwise, and reclaiming it all and more than what once was there’s few on your level. Losing everything to the Hutts and being consigned to the mines of Kessel could see you making a jail break with some help from old loyalists, and in a few years crippling the largest of the Cartels that humiliated you and growing unopposed in the galaxy.",
+    "origin": "Generic Star Wars Fanfiction Jump"
+  },
+  "fade5f8b-b570-5f07-99a3-567c63a22b04": {
+    "id": "fade5f8b-b570-5f07-99a3-567c63a22b04",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Musical Aptitude",
+    "cost": 0,
+    "description": "Whether the harp, the ocarina, the harmonica, or even a guitar, you have a good level of skill with a single instrument. A song played on this instrument and matching your personality also sometimes plays when you appear in an area.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "9b954316-84fe-52d6-bc10-53051ac8030b": {
+    "id": "9b954316-84fe-52d6-bc10-53051ac8030b",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Never At The Expense Of The Mission",
+    "cost": 100,
+    "description": "Being a bit hedonistic might be fun at times, but there’s a time and place for such activities. Such as when you’re not trying to keep a low profile and escaping a doomed planet. You’ll always know when you need to avoid such distractions and have the will to resist these temptations when it would interfere with your goals. Not only does this also apply to those who might be with you on the same mission, ensuring that your plans aren’t ruined by an ally but when you do indulge in hedonism you can choose to instantly recover from the effects of it.",
+    "origin": "Loki Jump – The Reddit Edition V1.0."
+  },
+  "36ce8cf4-f52e-55f2-9dd6-573b8d60d509": {
+    "id": "36ce8cf4-f52e-55f2-9dd6-573b8d60d509",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "No mystical energy field controls my destiny",
+    "cost": 200,
+    "description": "You can toggle this perk in order for you to become a blank spot in fate hiding you from any form of precognition or prophecies.",
+    "origin": "Star Wars Movie Compilation : The Skywalker Saga Jumpchain"
+  },
+  "893afdaf-fe25-5af0-9747-82ea65747205": {
+    "id": "893afdaf-fe25-5af0-9747-82ea65747205",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Party Maker",
+    "cost": 200,
+    "description": "You’re the life of the party! Anywhere you go, you can choose to start a party of legendary proportions. These festivities will only grow over time, attracting more and more interesting people until disbanded. Most in attendance are guaranteed a good time; no one winds up with anything more than a tattoo as far as lifelong consequences go. That said, you can only shirk the responsibilities for so long. This perk also makes you great at carousing. You could land on Midgard for the first time and be having diplomatic relations with the locals within hours.",
+    "origin": "Marvel What If..._ Jumpchain"
+  },
+  "5170b06d-2b3e-5ae3-8ed7-0e6a2897c95c": {
+    "id": "5170b06d-2b3e-5ae3-8ed7-0e6a2897c95c",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Presumption of Innocence",
+    "cost": 200,
+    "description": "I swear, officer, there’s a perfectly reasonable explanation! The thing is, they’ll actually listen. Authorities tend to give you the benefit of the doubt, and failing that, will usually have a task to complete that will let you earn your way out of a prison sentence.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "171a4027-01c3-59e9-ab4b-84db592b8234": {
+    "id": "171a4027-01c3-59e9-ab4b-84db592b8234",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Quick Learner",
+    "cost": 400,
+    "description": "Whether it be computers or a ship's guns, it doesn't really take you that long to pick up the use of any technology that isn't outright barred to you. You could go from banging rocks together to make fire to surfing the web and sharing files in a couple of hours, provided said couple of hours consist of you trying to use a computer. Generally, you won't even have to take any “middling” steps – so if you want to pilot the starship, you don't have to learn to drive a car first or anything like that.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "0d6998ad-aa81-5f4b-96d8-851d4546de36": {
+    "id": "0d6998ad-aa81-5f4b-96d8-851d4546de36",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Reflexes of a vulture",
+    "cost": 100,
+    "description": "You and your kind are well-known to the rest of the Covenant as having the greatest eyes and reflexes of any species known. Your great flexibility, eyesight, and reaction time make you the optimal candidate to become a sniper. If someone pops their head out of cover for a mere second, that would be more than enough to take it off. Your eyes can see through most types of camouflaging devices as well- not to mention how good they are at spotting loot.",
+    "origin": "Halo - The Covenant"
+  },
+  "2122c752-fe84-5c20-824c-c0b33b2e65ab": {
+    "id": "2122c752-fe84-5c20-824c-c0b33b2e65ab",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Rendered Immunity",
+    "cost": 200,
+    "description": "Fear of poison is a common one within Commorragh, for it is a very common method of assassination. You at least have had the foresight to minimise this risk. You’ve dined on so many poisons that even within the vast workshops of Commorragh, there are few poisons that could possibly exist that could harm you, whether delivered by blade, shard, or a few drops into your drink. Your opponents will have to get far more creative than that if they want to put you down.",
+    "origin": "Warhammer 40k - The Dark Eldar"
+  },
+  "3a4ef7ab-4c3f-53f3-8ee2-8116bbca6af1": {
+    "id": "3a4ef7ab-4c3f-53f3-8ee2-8116bbca6af1",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Royal Equipment",
+    "cost": 400,
+    "description": "A skillful pirate uses whatever tools and weapons become available, even if the item might object to being used. You can use any equipment, regardless of any lockout features. Being the wrong gender, wrong individual, wrong species... none of that matters. This doesn’t mean you’ll know how to use the equipment, and doesn’t give you any specific operational knowledge. Data encryption is not included in this, so passwords will still block your access to files, but a computer that’s password locked will still allow you to use it for its computer functions. This also won’t allow you to simply walk through security systems and the like. It only applies to items and equipment you are actively using and/or controlling. Something passive, like a retina scanner, won’t be fooled.",
+    "origin": "Lost Odyssey JumpChain"
+  },
+  "accbe5d0-7a00-542d-adfd-cb7b62d3657b": {
+    "id": "accbe5d0-7a00-542d-adfd-cb7b62d3657b",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Ruthlessness",
+    "cost": 200,
+    "description": "Essentially, you can conceive of the most bloodthirsty solution to a given problem without issue – you're just that unfettered. Whether it be using a little girl as bait to lure her dead father's old friend to your position or going around and assassinating scientists to ease your invasion plans, you'll never doubt yourself doing it.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "394112b2-bcc2-592c-b4d2-44c1a5beb036": {
+    "id": "394112b2-bcc2-592c-b4d2-44c1a5beb036",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Sabacc!",
+    "cost": 100,
+    "description": "You know most of the games common to the galaxy (and in any future Jump) from chance cubes to dejarik, saigok, cambiblocks and of course, the game with the fluctuating cards, sabacc. You know how to play and play well, and how to cheat if need be.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "b3f3cdbd-7cbc-5bec-84d0-ad4bd7078cf5": {
+    "id": "b3f3cdbd-7cbc-5bec-84d0-ad4bd7078cf5",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Shiny Plunder",
+    "cost": 200,
+    "description": "Any item you steal and manage to keep in your possession for at least 24 hours will become yours, from a tailored suit to a customized warship. Any attributes that have been fitted to the previous owner will now mold to you just as well. For anything requiring a password or identity check of any sort, it will reset to a ‘factory default’ state, allowing you to enter your own credentials as legitimate ones.",
+    "origin": "Halo Infinite V1.0"
+  },
+  "e1d8a429-9a21-584f-b114-643bbefb0759": {
+    "id": "e1d8a429-9a21-584f-b114-643bbefb0759",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Shoot First",
+    "cost": 200,
+    "description": "You’re a phenomenal marksman and quickdraw artist who loses no accuracy in shooting from the hip. You’re also really good at readying your weapons discreetly or distracting a target so when it goes down, you pretty much always make the most of those first instants of surprise.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "7a192688-fb3d-5c17-b7a9-91eca40fdfaf": {
+    "id": "7a192688-fb3d-5c17-b7a9-91eca40fdfaf",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Slicer",
+    "cost": 200,
+    "description": "What you might call hacking, you’re an expert in penetrating electronic security and subverting computers and systems to serve your needs. If something is remotely accessible, it may as well be yours. You are generally an expert in security systems and circumventing them.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "187eefac-1b7e-5773-bed1-ee11d5a0b7bc": {
+    "id": "187eefac-1b7e-5773-bed1-ee11d5a0b7bc",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "So, You Knew As Well?",
+    "cost": 200,
+    "description": "Everyone else may be surprised when they find a spy in their midst, but you aren't. Generally, you have an easier time spotting moles and hidden agents among your allies.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "752df0af-5dc4-526c-99a5-93b3309f352a": {
+    "id": "752df0af-5dc4-526c-99a5-93b3309f352a",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "SPACE PIRATE!",
+    "cost": 150,
+    "description": "From now on none of your crimes will ever earn you the death penalty. Take a starship hostage but get thwarted, you'll be spending the next decade in prison. Rob the interstellar bank, have fun getting frozen in carbonite. Note, your prison sentences will increase to match your crime, and you can still be killed in any battles leading up to your capture.",
+    "origin": "Star Trek - TNG+DS9 JumpChain [Text Version]"
+  },
+  "c592af89-432f-5dd5-a467-4694baf7b0d6": {
+    "id": "c592af89-432f-5dd5-a467-4694baf7b0d6",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Swashbuckler",
+    "cost": 100,
+    "description": "There are two kinds of pirates; The Lucky and The Dead. You’re just a bit luckier than you should be. Sometimes your hail mary, last ditch blows do extra damage, sometimes your random attacks hit exactly where they should, and sometimes, just sometimes, attacks that should cripple or kill you... don’t do anything at all. You also find that looting your enemies’ corpses is more profitable and you get more of a benefit from potions and restoratives. Oh, and you know how to navigate on open water (or beneath it) and how to run a boat, ship, or similar maritime craft.",
+    "origin": "Lost Odyssey JumpChain"
+  },
+  "d2600a80-abd0-5faf-b2ad-cba1f192462c": {
+    "id": "d2600a80-abd0-5faf-b2ad-cba1f192462c",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Sword Master of the Ginaz",
+    "cost": 200,
+    "description": "Some say that the pen is mightier than the sword. You however hold firm to the belief that the sword is mighty regardless. And it most certainly is for you at least. With this perk, you become one of the greatest swordsmen/women ever seen in this world or any others afterwards. Only another equally talented individual stands a chance against you in a straight up fight. Beware of cheaters though, that’s its own set of issues. Not only are you a superlative swordsman, but learning any fighting technique you set your mind to learning is dead simple, and passing those techniques on to those you’re training is far simpler than it otherwise would be. You could teach a talentless fool to be a legendary fighter in less than ten years, and those with actual talent and dedication would become the stuff of myths in far less time. Any warrior society will readily accept you as one of their own, and your talent with weapons, not just swords, allows you to easily adapt your techniques for any quirk of local technology, and while the sword is your primary weapon, you’ll find that learning and training others to use any weapon presents no real challenge to you.",
+    "origin": "Frank Hebert's Dune JumpChain"
+  },
+  "ce5bf12c-0c2c-57b1-98ad-68af0afc4840": {
+    "id": "ce5bf12c-0c2c-57b1-98ad-68af0afc4840",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "The Black Flag",
+    "cost": 400,
+    "description": "If there’s one thing Humans understood, it’s the value of intimidation. You took this understanding and applied it liberally, you’re a master of the art, and you’re possessed of a reputation that strikes fear into the hearts of those who call the stars their home. You’re an exceptional showman and liar, and your stories are believed and spread in a never-ending chain of embellishments eventually ending with your original robbery story evolving into an epic tail of you fighting and defeating the Vanguard in their own territory. Backed up with the occasionally true and corroborated story of you brutalizing your enemies and genuinely winning against seemingly impossible odds, and the result is a reputation people are generally willing to buy, and thus you’re never short of crew willing to join and frequently enough find ships that are willing to bargain as opposed to fight with you. Every pirate worth their drink knows that a reputation can take you far further than a cannon and a ship can.",
+    "origin": "The Destiny Universe"
+  },
+  "b1cc46dc-0be4-513a-8937-e489efdc3a97": {
+    "id": "b1cc46dc-0be4-513a-8937-e489efdc3a97",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "The Emperor’s Shadow",
+    "cost": 200,
+    "description": "For all the problems that governments can cause the underworld, it can’t be said there isn’t a great deal of credits to be made in them, and more than credits, power. Infiltrating and corrupting them is all well and good but what you can do is better. You have a natural knack for approaching the leaders of these nations, and integrating yourself as a useful partner, one trusted to be able to do good work. Of course, this means you have the ears of some of the most powerful people alive, ears that readily listen and consider your words.",
+    "origin": "Generic Star Wars Fanfiction Jump"
+  },
+  "29e8fdbd-5826-5dc8-bab4-7e3cb6490fa4": {
+    "id": "29e8fdbd-5826-5dc8-bab4-7e3cb6490fa4",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "The Ends Of A Thousand Worlds",
+    "cost": 100,
+    "description": "That’s where you grew up. Clearly you have a knack for surviving and navigating through disasters that aren’t somehow focused on destroying you. You won’t get hit by debris or negatively affected by passive features of disasters as long as there’s a chance of avoiding them, and you’ll know how long you have till the point where nothing could possibly survive. You’ll still need a way to escape, but at least you’ll know how long you have to come up with a plan.",
+    "origin": "Loki Jump – The Reddit Edition V1.0."
+  },
+  "843fe6ca-f883-5030-8711-d9a76b2ba1dc": {
+    "id": "843fe6ca-f883-5030-8711-d9a76b2ba1dc",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Trailblazer",
+    "cost": 200,
+    "description": "There’s a rumor going around that you’re psychic, part AI, or you just have access to something that other pirates don’t, because you more than anyone else just seem to understand that fine art of navigation. Where everyone else sticks to the pathways they know and that have been charted and verified eons ago, you have a unique ability to pilot your ship through unknown and uncharted voids, finding new, hidden paths to old, known places. This extends to when you’re planet-side as well - everybody may know one or two paths to an old city or a particular location in said city, but you find discovering new paths as natural as breathing, and yours may very well cut significant portions of time off of the trip, or be so obscure as to remain undiscovered unless you yourself show it to others.",
+    "origin": "The Destiny Universe"
+  },
+  "3078d5ce-0aaa-521a-92cd-4d7c595c7da2": {
+    "id": "3078d5ce-0aaa-521a-92cd-4d7c595c7da2",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Troubadour",
+    "cost": 100,
+    "description": "Most people assume that a Mercenary is just someone with a gun, knife, shield, and nothing more. And to be sure, the great houses will pay for such men. But those individuals will never be more than foot soldiers. To be of true value to your chosen masters, a mercenary must bring more than mere skill at arms, for a family is seldom actually at war. A master mercenary must bring other talents, be that lore, art or deep insight into the human condition. Nowhere are those talents better combined than in the rank of Troubadour. A poet, musician, and historian, you are a cut above the rank and file. Not only will those to whom you pledge loyalty know and value that loyalty, but the incredible talent you have for poetry and performance will allow you to near seamlessly blend in with those of high social standing and to make your advice heard when it matters most... and to make your presence unremarkable when it would be of special advantage, be that as an observer, or as a perfect tool for assassination or kidnapping. Your skill with poetry and music is such that, with little effort, you can compose works of art that will be remembered for ten thousand years.",
+    "origin": "Frank Hebert's Dune JumpChain"
+  },
+  "af525eee-cf40-5a5b-8a70-14bc659a61fa": {
+    "id": "af525eee-cf40-5a5b-8a70-14bc659a61fa",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Vein Seeker",
+    "cost": 100,
+    "description": "You live for the elegant dance of the blade, the subtle art of murder and the invigorating spray of fresh blood. From scalpels to power blades, carving up the weak and foolish is a pastime beyond compare to you, and you wield such tools like one who’s honed their skills over centuries. You could use your talent to dispatch your foes more quickly... but then, where’s the fun in that, if you can draw it out and strike where it causes the most pain instead? Their sweet cries of agony are a far greater reward than just another corpse, after all.",
+    "origin": "Warhammer 40.000 Dawn Of War Soulstorm V1.0"
+  },
+  "99d0f5ac-37ca-571d-af98-b965065dca64": {
+    "id": "99d0f5ac-37ca-571d-af98-b965065dca64",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Villainous Visuals",
+    "cost": 100,
+    "description": "Why are so many villains so stylish? You have control over how your powers and abilities appear to others. Perhaps you want your pyrokinesis to produce purple flames instead of orange ones, or you want to leave an iridescent streak through the air as you fly. Such adjustments are within your control, so long as they are only aesthetic and don’t confer any actual benefits or improvements.",
+    "origin": "Marvel What If..._ Jumpchain"
+  },
+  "0c3f1916-4c93-5b65-b943-cc38a92be62d": {
+    "id": "0c3f1916-4c93-5b65-b943-cc38a92be62d",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Talents",
+    "name": "Well hey there, friend",
+    "cost": 200,
+    "description": "You have a useful skill in the underground trading world. You can both advertise your wares and still avoid the cops at the same time. This is useful, as you can ensure that you have a steady flow of customers with less worry on the boys in blue knocking on your door. As a bonus you also can gain the ability to create a perfect mental file on each of your customers with any and all information you can gain on them included.",
+    "origin": "Ratchet and Clank Jumpchain"
+  },
+  "3b2c8001-2f97-5c4e-a946-5f728c208fb6": {
+    "id": "3b2c8001-2f97-5c4e-a946-5f728c208fb6",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "AeroChaser Speeder Bike",
+    "cost": 100,
+    "description": "A small, fast hover bike built for a single pilot. Somewhat difficult to control. Faster than a basilisk war droid.",
+    "origin": "Star Wars - KotOR  JumpChain"
+  },
+  "94499a0b-538f-5da3-a17f-768f67269ee6": {
+    "id": "94499a0b-538f-5da3-a17f-768f67269ee6",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Amped Interdictor",
+    "cost": 200,
+    "description": "Useful for pirates, bounty hunters, and few others – this ship can take others out of FTL. It is unique in that it can do so for practically any FTL type of travel, dragging its victims into realspace with moderate damage and disabling most shield systems. Skilled pilots can evade, but most will be forced to reckon with you.",
+    "origin": "Elite Dangerous JumpChain"
+  },
+  "16435aa4-f1e9-5b9a-954b-1a3996fd25cc": {
+    "id": "16435aa4-f1e9-5b9a-954b-1a3996fd25cc",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Arcadia-class Battleship",
+    "cost": 800,
+    "description": "This massive battleship is truly a masterwork. Its guns are powerful enough to lay waste to entire Mazone fleets in pitched battle, it can ram enemy motherships and survive intact with its ramming blade, and within its computer lies a spirit much like that of the Arcadia's designer, Tochiro. This third factor gives the ship the unique ability to act on its own. It also comes with a free Jolly Roger to fly when entering battle.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "31705057-17ac-577b-8ea5-911d0f2f2f34": {
+    "id": "31705057-17ac-577b-8ea5-911d0f2f2f34",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Asp Explorer",
+    "cost": 350,
+    "description": "The Asp Explorer is the civilian version of the military model Asp MkII (which first saw service in 2878). LakonSpaceways now owns the licence to construct these ships and has marketed them heavily at customers looking for their first multi-crewed ships. The ship class has earned a solid reputation for long range missions and those requiring some discretion. Furthermore, it has a high jump range relative to other ships in the game, and thus is very good for use as an exploration ship. It has six weapon hardpoints and has a good turning radius for its size which makes the Asp good for more than just exploration. The Asp can act as a heavy-duty bounty hunting vessel due to its superb weapon capacity and good manoeuvrability for its size. Pirates can also use the Asp to great effect because of the ample cargo capacity, heavy armament, long jump range and large mass (allowing it to charge its own Frame Shift Drive with minimal mass disruption while also mass disrupting the frame shift drive of most ships). The Asp Explorer also features a copilot seat located directly under the player's seat, visible while outfitting the ship.",
+    "origin": "Elite Dangerous JumpChain"
+  },
+  "df83048f-9b8e-5548-b397-fe219c72bd92": {
+    "id": "df83048f-9b8e-5548-b397-fe219c72bd92",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Barloz Medium Freighter",
+    "cost": 300,
+    "description": "One of the older freighters, predating the YT-series of freighters popular today, the Barloz-class was extremely popular for its time, and just as easily upgraded as its successors. Normally armed with only a single laser cannon stock, this one has already been modified from the previous owner you “acquired” it from to have a pair of ion cannons and a turbolaser. -Class 2 Hyperdrive -Standard Shielding",
+    "origin": "Star Wars - X-Wing Novels JumpChain"
+  },
+  "7d932cca-cb51-5013-9685-71d12d5cb27a": {
+    "id": "7d932cca-cb51-5013-9685-71d12d5cb27a",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Coral Vanda",
+    "cost": 400,
+    "description": "A huge luxurious submersible, duplicate of the most exclusive casino/hotel/cruise liners in the galaxy. Has a hanger for small ships. Great for tourism, or laying low in comfort and style.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "e203bb7a-1416-5947-ab97-683015a6d34c": {
+    "id": "e203bb7a-1416-5947-ab97-683015a6d34c",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Cosmo Wing",
+    "cost": 300,
+    "description": "This space fighter seats one, but is also capable of ejecting a Bullet 1 from its rear, which acts as a smaller, more maneuverable fighter.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "03345bea-8bd7-5160-a47a-b6c4ae919339": {
+    "id": "03345bea-8bd7-5160-a47a-b6c4ae919339",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Dynamic-class Freighter",
+    "cost": 200,
+    "description": "This thing is basically an unmodified version of the “Ebon Hawk”.It comes with a hyperdrive, weapons, cargo space, supplies, and enough room/amenities to carry about eight average sized humanoids, plus some droids. The ship can be flown by a single person but you’ll need at least a co-pilot if you want to use the powerful laser turrets on this thing, or have someone help navigate while you try to avoid blaster fire and other hazards.",
+    "origin": "Star Wars - KotOR  JumpChain"
+  },
+  "bea5e3f4-c07c-52a3-9973-3bdc8daeb37e": {
+    "id": "bea5e3f4-c07c-52a3-9973-3bdc8daeb37e",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Eclector",
+    "cost": 500,
+    "description": "Sometimes people don't want a mere ship to fly around in. Sometimes they want a mobile headquarters to roam around and engage in all manners of shenanigans. The Ravagers thought the same thing, and now this copy of their vessel is yours for having such a great idea like they did. Comprised of four detachable quadrants and holding enough room to house a small army, this vessel comes with its own hangar bays for a fleet of ships along with repair equipment and spacious cargo bays for any loot you happen to find that fell off the back of a space truck. Don't fret about defenses, for this vessel comes packed with plenty of energy weapons as well.",
+    "origin": "Marvel Cinematic Universe - Volume 1"
+  },
+  "83a1db5d-b7b7-583f-9399-83b0d19fe06f": {
+    "id": "83a1db5d-b7b7-583f-9399-83b0d19fe06f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Errant Venture",
+    "cost": 600,
+    "description": "Just... how!? You are the proud owner of an Imperial-II class Star Destroyer with palatial amenities. The armament is a sixth standard, to skirt just under regulations for civilian ownership, but this can still engage small pirate flotillas alone or conquer some backwater moon.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "5536b3b0-c33b-514a-b4b3-994cdd60d189": {
+    "id": "5536b3b0-c33b-514a-b4b3-994cdd60d189",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Fancy Flying",
+    "cost": 400,
+    "description": "Sometimes, your tricks run out and you just have to blitz past a blockade or outrun an Imperial cruiser. Fortunately, you can make small and medium cargo ships dance in ways that normally only fighter aces would dare, manoeuvring the densest asteroid fields like it’s a game.",
+    "origin": "Star Wars_ Scoundrels"
+  },
+  "e409cccb-39ea-5c1e-b299-6cba973a1239": {
+    "id": "e409cccb-39ea-5c1e-b299-6cba973a1239",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Fleet Tactics",
+    "cost": 400,
+    "description": "Some may be skilled with piloting a single ship, but when it comes to the command of fighter fleets, you could count your equals on one hand. When you give your directions, your fleet hears, then understands, then obeys. Furthermore, these directions are far more likely than most to result in victory – and as a bonus, you'll know when you just can't win, too.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "b68ac8c7-0fc6-55d5-833a-eb60cc631188": {
+    "id": "b68ac8c7-0fc6-55d5-833a-eb60cc631188",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Frigate",
+    "cost": 200,
+    "description": "Not as speedy as some of the prototypes running around, what you get for this purchase is simple. One frigate, from any race that could be feasibly building one at the time of this jump, and it’s all yours. It comes with a VI, supplies for six months of operation, a crew of LOKI mechs, and, best of all, it’s anonymous. Mercenaries, pirates, privateers, corporations, even a rather impressive smattering of private individuals have these things. You can, more or less, go anywhere and no one will be too interested in you. Why, you could even use this as a flagship for a mercenary company....",
+    "origin": "Mass Effect - Jumpchain"
+  },
+  "a4b44c09-7cf1-51d2-9baa-0312f8f1e1a0": {
+    "id": "a4b44c09-7cf1-51d2-9baa-0312f8f1e1a0",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Grand Theft Starship",
+    "cost": 300,
+    "description": "You gain the ability to steal any ship regardless of how complicated it is. You'll be able to pilot Galaxy class Starships out of dock and get them from point A to point B. This ability will not make you a one man crew, and aside from basic piloting and executing FTL jumps, you'll be extremely limited in what you can do by yourself.",
+    "origin": "Star Trek - TNG+DS9 JumpChain [Text Version]"
+  },
+  "c285f30a-4b6c-5a91-9784-5fcb43bb8a76": {
+    "id": "c285f30a-4b6c-5a91-9784-5fcb43bb8a76",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Hazeroth class Privateer",
+    "cost": 300,
+    "description": "Hazeroths are popular with pirates and privateers, especially those of the infamous Hazeroth Abyss (from whence they got the name.) Most sacrifice cargo space and armor for better engines and reinforced interior bulkheads, with the intention of running from anything they cannot defeat. They are 1.5km long and approximately .25km abeam. At 'only' 5 megatonnes they are tiny for a human voidship, with a crew of 22,000, which while more than many transports is again small by the standards of warships. They do have an impressive maximum sustainable acceleration of 5.6 gravities. Hazeroths have a Prow and Dorsal weapon mount, as well as an array of defensive turrets.",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "68198ec8-8719-5d57-8f51-8258ebceeb7f": {
+    "id": "68198ec8-8719-5d57-8f51-8258ebceeb7f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Iconoclast class Destroyer",
+    "cost": 300,
+    "description": "Although strongly associated with the forces of Chaos, Iconoclasts are widespread across the fringes of the Imperium. The majority of Iconoclasts are used by opportunistic pirates who may have no connection to the Great Enemy. In fact the design is very similar to any number of small escort ships turned out by all shipyards, as well as shadow ports and shipyards that exist beyond the borders of the Imperium. Iconoclasts are simple, compact, easy to duplicate, and easy to construct, and can be assembled in even the most primitive void shipyard given time. They are also very easy to repair. Iconoclasts carry 2 Dorsal Macrobatteries and an array of defensive gatling autocannons. They are 1.3km long and .4km abeam at the fins. They mass 6.1 megatonnes, and carry a crew exceeding 16,000. Iconoclasts can sustain a speed of 7.2 gravities.",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "1475f32b-6a1f-5280-a520-70108bf0634d": {
+    "id": "1475f32b-6a1f-5280-a520-70108bf0634d",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Imperial Clipper",
+    "cost": 400,
+    "description": "The Imperial Clipper is the quintessential Imperial ship. It epitomises elegance of form while delivering speed and agility. Because of its balance of Speed, Luxury and strength it is used for transporting valuable items and personnel of importance across the Empire.This ship is quite popular with pirates, traders, and some combat pilots. It is a reasonable pirate ship due to the large cargo capacity and heavy armament. Traders may find this ship appealing due to its superb cargo capacity and defensive capability; while it is more expensive than most dedicated trading ships, it can easily defend itself against a pirate.Pilots of any profession may appreciate its speed; with fully upgraded Thrusters, it is comparable to that of smaller ships such as the Cobra MkIII and the Imperial Eagle. Additionally, its pitch rotation and yaw speed are higher than most ships, making it feel like a very hefty, weighted-down Eagle.",
+    "origin": "Elite Dangerous JumpChain"
+  },
+  "cc775a7e-3d88-55ae-9e11-300d986caf3d": {
+    "id": "cc775a7e-3d88-55ae-9e11-300d986caf3d",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Interceptor V Frigate",
+    "cost": 200,
+    "description": "Primarily seen in use as a picket or pirate raiding vessel, these 150 meter long Interceptor V Frigates are a direct upgrade of its predecessor. A new and vastly superior class 2.0 hyperdrive has been installed to better aid its purpose as a raiding vessel, while still keeping the signature high sublight speed of the Interceptor IV. Its weapons systems consist of a loadout featuring 2 turbolasers and 8 concussion missile launchers for when the need to stand their ground and fight arises. You gain 4 interceptor V frigates and their crews. Respawns monthly.",
+    "origin": "Empire at War Jumpchain"
+  },
+  "0a77b6e9-826c-50b2-8abd-d8d71cd2ab8e": {
+    "id": "0a77b6e9-826c-50b2-8abd-d8d71cd2ab8e",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Jump-Pack",
+    "cost": 100,
+    "description": "Like a jetpack, but for short bursts. Allows the user to scale high objects, leap across the battlefield, or stop an otherwise fatal fall.",
+    "origin": "Warhammer 40k- Freelancer JumpChain"
+  },
+  "5a36dd01-af91-5ca1-b8b5-2aced38dfc38": {
+    "id": "5a36dd01-af91-5ca1-b8b5-2aced38dfc38",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Kom'rk-class Fighter/Transport",
+    "cost": 300,
+    "description": "A Mandalorian starship, the Kom'rk-class fighter/transport is a multi-purpose ship that can effectively act as both a starfighter and a troop transport. Maul possesses such a ship. Running a bit longer than 50 metres, the ship is equipped with laser cannons and a Class 1 Hyperdrive, allowing it to move throughout the greater galaxy under its own power.",
+    "origin": "Star Wars Rebels."
+  },
+  "e99868b0-b6be-5cb6-b141-efd79e466ac6": {
+    "id": "e99868b0-b6be-5cb6-b141-efd79e466ac6",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Lombax Ship",
+    "cost": 200,
+    "description": "A relic from the old lombax race. A fighter plane, still functioning, and happy to serve you. It comes with an on-board AI, powerful weapons systems, extensive knowledge banks and FTL capability. The AI can be replaced with one you already possess if you so wish.",
+    "origin": "Ratchet and Clank Jumpchain"
+  },
+  "10c7e110-b626-50f7-9a56-5a1f02f53e79": {
+    "id": "10c7e110-b626-50f7-9a56-5a1f02f53e79",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Luxury-class sail barge",
+    "cost": 400,
+    "description": "This floating vehicle has a top speed of one hundred kilometers per hour over a variety of relatively flat terrain, including water or sand. It is able to automatically generate customisable hominids in order to fill the positions of the required crew and staff. These customized staff are by default mindless soulless automatons but can be customized in order to make them truly living beings.",
+    "origin": "Star Wars Movie Compilation : The Skywalker Saga Jumpchain"
+  },
+  "5ec024e0-c4fc-5c3d-b226-dd677a8de421": {
+    "id": "5ec024e0-c4fc-5c3d-b226-dd677a8de421",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Mazone Fighter",
+    "cost": 100,
+    "description": "This small fighter craft is equipped with a pair of ray guns meant to take on other fighter craft. Don't expect to scratch a battleship with this.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "729ca170-fbd6-58b7-a0e6-feb0a82246a7": {
+    "id": "729ca170-fbd6-58b7-a0e6-feb0a82246a7",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Meritech Shrike",
+    "cost": 350,
+    "description": "The Meritech were infamous void gypsies who drifted into piracy, and eventually drifted further into outright war when they ambushed a trio of Battlefleet Swords, and one escaped. They were crushed over a 15-year conflict, and many of the surviving ships were sold to rogues and pirates in order to buy passage for the clan leaders to safety. The vessels were originally equipped with advanced technologies not sanctified by the Adeptus Mechanicus. Few operators are able to maintain them at their original incredibly lithe performance level, but they are still very dangerous raiders. They include kilometers of sophisticated linkage cabling with at one time allowed a highly advanced core cogitator to exercise extreme control over the systems. Although the heretechal cogitator is long removed the linkage remains, and allows greater control over ship systems. Shrikes are armed with a Dorsal Macrobattery, Prow Torpedo Tubes, and an array of Point Defense turrets. They are 2km long and .25km abeam at the fins. They mass 4.5 megatonnes and carry a crew of 15,000. Even without the advanced systems they keep an acceleration of 5.9 gravities.",
+    "origin": "Warhammer 40K Navy Jump 1.0"
+  },
+  "7fe6d899-1c0f-5ee5-bca6-06875108ebf2": {
+    "id": "7fe6d899-1c0f-5ee5-bca6-06875108ebf2",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "One-Man Flying Platform",
+    "cost": 100,
+    "description": "This hovering scooter-like vehicle seats only one, but is about as fast as a motorcycle.",
+    "origin": "Space Pirate Captain Harlock Jumpchain"
+  },
+  "17d75d5f-8b34-57f2-ae94-2516c464bbc0": {
+    "id": "17d75d5f-8b34-57f2-ae94-2516c464bbc0",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Personal Tellyporta",
+    "cost": 200,
+    "description": "If the user sustains an injury, this device will activate and instantly teleport the user up to 1 mile away. It will only teleport the user onto safe ground, but beyond that the results are anyone’s guess.",
+    "origin": "Warhammer 40k- Freelancer JumpChain"
+  },
+  "5e17a27d-1faf-56c6-bc9d-752c21d1fbb2": {
+    "id": "5e17a27d-1faf-56c6-bc9d-752c21d1fbb2",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Prototype Firespray-31-class patrol and attack craft",
+    "cost": 300,
+    "description": "Only six of these special prototype starships currently exist in the galaxy, and in a short amount of time that number will be down to one. Perhaps you’ve heard of Slave I? This ship is a bounty hunter’s dream. It possess a very fast Class 1.0 hyperdrive, as well as a cloaking device. In terms of armaments, it has laser cannons, concussion missile launchers, and is also outfitted with seismic charges. The Firespray has a unique layout where it ‘faces forward’ during flight, but the engines point down as it lands. This can make it a tricky ship to master, but you’ll find the investment worth it. If all of this wasn’t enough, just know there is still plenty of room for upgrades and enhancements, just as Slave I was improved over the years by its owners.",
+    "origin": "Star Wars - Bounty Hunter"
+  },
+  "40927868-e219-551f-ba99-d677c2b87917": {
+    "id": "40927868-e219-551f-ba99-d677c2b87917",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Repurpose",
+    "cost": 100,
+    "description": "There’s never a reason to toss out a good ship! Nobody purpose-builds vessels for piracy, so you’ve gotten really good at... converting... other ships to ones worthy of carrying the Jolly Roger. Add a few cannons, some saw blades, and some black sails, and that yacht will make a serviceable cutter, or that freighter will serve as a man-o-war (with a huge hold for plunder, too!). Just a few days and some basic tools and you can turn anything into a solid warship.",
+    "origin": "Treasure Planet JumpChain"
+  },
+  "fcd49e23-8ec1-51f7-b5e9-2ead3240156e": {
+    "id": "fcd49e23-8ec1-51f7-b5e9-2ead3240156e",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Rihkxyrk Assault Ship",
+    "cost": 100,
+    "description": "Infamous on the outer rim, the Rihxyrk was used by the horrifying criminal organisation, “The Black Sun”. With the organisation crumbling, these fighters have begun to make their way to others. Slower than the average fighter, it makes up for this disadvantage by being well-armoured. Its weaponry is a trio of heavy laser cannons and a concussion missile launcher. -Class 2 Hyperdrive",
+    "origin": "Star Wars - X-Wing Novels JumpChain"
+  },
+  "a158221e-55df-54ee-aa6b-a2d2146d138a": {
+    "id": "a158221e-55df-54ee-aa6b-a2d2146d138a",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Shadow Hand",
+    "cost": 400,
+    "description": "Incredibly advanced, massive, and incredibly secretive, this ship is the home base of the Shadow Broker... and now you. Equipped with hard light constructs, a horde of maintenance mechs, and deck after deck of sensor and communications equipment and you have one of the two most advanced command and control vessels every created. Reams of economic data, hundreds of thousands of secure servers, quantum communications arrays, and access to nearly every possible data stream that an information broker could ever dream of is more than available onboard this pinnacle of luxury and terror. Torture suite’s located in the dungeon, in case you were wondering.",
+    "origin": "Mass Effect - Jumpchain"
+  },
+  "4c5f215d-920c-5461-9e53-faba795a9fef": {
+    "id": "4c5f215d-920c-5461-9e53-faba795a9fef",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Starship",
+    "cost": 200,
+    "description": "Despite how many stories seem to revolve around Earth, there’s a whole universe to explore out there. Wouldn’t you like to see them? You are now the proud captain of your very own starship. This could be anything from an M-class flier like the Mandela to a product of the Wakandan space program, but a few things remain constant. Your vessel is equipped with a standard FTL jump-drive, allowing you to cross great distances with a series of “hops”. The accommodations inside could fit a family cozily or make for a spacious solo abode. Finally, your vessel has just enough weapons to discourage the curious. She may fly like a Ravager warbird, but that doesn’t mean you should take it into a warzone, yeah?",
+    "origin": "Marvel What If..._ Jumpchain"
+  },
+  "155d9714-82fe-5d9d-a2d9-7663ffb5ca6f": {
+    "id": "155d9714-82fe-5d9d-a2d9-7663ffb5ca6f",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Swoop Bike",
+    "cost": 200,
+    "description": "A favorite of certain gangs, a swoop bike is sometimes described as an engine with a seat. A more detailed description would be that it is a speeder bike which has been heavily modified to increase its power and speed. They’re known for being hard to control, and dangerously fast. Some swoop bikes carry blasters on their front, and while those in the video game did not those showing in the comics did so yours will. Yours will refuel, repair, and maintain itself over time when not in use.",
+    "origin": "Star Wars Shadows of the Empire Jump"
+  },
+  "1122c595-f11d-5e3d-9daa-f11d6b14b7cb": {
+    "id": "1122c595-f11d-5e3d-9daa-f11d6b14b7cb",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "The Millenium Falcon",
+    "cost": 200,
+    "description": "Not the actual ship but a copy of the famous heavily modified YT-1300 Freighter that’ll serve you just as well, if not better given it lacks the constant maintenance issues the real one has and plague Han and Chewie so much. Should you desire you may pick a similar freighter type from this time period to instead gain.",
+    "origin": "Star Wars - Dark Empire"
+  },
+  "056eea54-b554-5c43-b9ba-6f5991c778b7": {
+    "id": "056eea54-b554-5c43-b9ba-6f5991c778b7",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "The Retribution",
+    "cost": 600,
+    "description": "This Orion destroyer is a warship used by the Orion Syndicate, it is massive in size and has considerable firepower. Though they were considered antiquated by the late 24th century, the ship's main cannon is still capable of breaking through almost any type of shield allowing the ship to act as one large gun.",
+    "origin": "Lower Decks Jumpchain V1.5."
+  },
+  "406a1307-6477-57ae-9583-ec12cae8565d": {
+    "id": "406a1307-6477-57ae-9583-ec12cae8565d",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "The Vin-pocalypse",
+    "cost": 600,
+    "description": "An advanced Klingon Bird-of-Prey that was only at the prototype stage when it was stolen leaving it without an official class name. The ship possesses remote bridge controls, cloaking capabilities, and carries a boarding pod and an armoury with enough Klingon weapons and armour for a full ship's complement. The ship was heavily modified to become far more destructive at the cost of utility such as overcharging the ship's self-destruct system at the cost of the ship’s emergency power systems.",
+    "origin": "Lower Decks Jumpchain V1.5."
+  },
+  "b96bbc6e-dd68-5c8f-ad38-4df425371356": {
+    "id": "b96bbc6e-dd68-5c8f-ad38-4df425371356",
+    "sourceId": "the_celestial_outlaw",
+    "edition": "default",
+    "chapter": "Transports",
+    "name": "Webway Portal",
+    "cost": 100,
+    "description": "This is a more mobile version of the static Webway portals found around the galaxy. Upon activation, it creates an opening into the Webway, perfect for either a speedy escape or to bring in armed reinforcements from your allies. Naturally, these vastly more advanced devices offer none of the danger of Warp travel. Can Buy More Than One",
+    "origin": "Warhammer 40k- The Dark Eldar"
+  }
+}

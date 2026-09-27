@@ -1,0 +1,1342 @@
+{
+  "f0e32e28-4981-5e4d-8ff2-bc6eaa3f03d3": {
+    "id": "f0e32e28-4981-5e4d-8ff2-bc6eaa3f03d3",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "A Cat",
+    "cost": 100,
+    "description": "Popular in both the Muggle and Wizarding world, cats are quite the common sight here. Not as much as owls but then again, few pets are. Regardless, cats are still useful, especially this particular one given that its half-kneazle, making it larger than ordinary household cats. And to differentiate between its lesser brethren even further, this one seems to have a knack for sniffing out untrustworthy fellows. It’s not perfect but then again, few things are.",
+    "origin": "Wizarding World - Jump"
+  },
+  "4e5de74e-5dcb-5e01-95af-bc50c52b0f08": {
+    "id": "4e5de74e-5dcb-5e01-95af-bc50c52b0f08",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Acromantula Egg",
+    "cost": 100,
+    "description": "This Acromantula egg is one of Aragog’s children gifted to you as a symbol of friendship. When it hatches it will be an infant giant spider the size of a Pekingese, growing as it ages until it is about the size of a small elephant, however thanks to Jumpchan this Acromantula will be able to control their own size changing within their natural limits. While this Acromantula is with you no other Acromantula will approach you and you will be able to milk magical silks and venoms from them that can easily be enchanted. With time they will learn how to communicate with humans via speech.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "313b9474-8f6e-5acd-8b5a-88a2be59ee93": {
+    "id": "313b9474-8f6e-5acd-8b5a-88a2be59ee93",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "An Owl",
+    "cost": 100,
+    "description": "The classic animal companion for witches and wizards everywhere. It’s only natural after all. With their natural affinity to magic, owls are perfect for delivering letters and parcels to other witches and wizards, especially when they can find them without even being given an address. Plus, they are rather intelligent as well, enough that they can understand other people without even needing to be trained for such a thing.",
+    "origin": "Wizarding World - Jump"
+  },
+  "75b6004c-58be-5d7b-93d2-29450ee74f39": {
+    "id": "75b6004c-58be-5d7b-93d2-29450ee74f39",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Ancient Frost Dragon",
+    "cost": 600,
+    "description": "You might just be the first Ogre to ever tame a dragon. It’s not baby dragon either, but an elder Frost Dragon of the Mountains. It took an epic struggle lasting multiple days and nights but you made the beast kneel to you. Big as a Stonehorn, with fangs and claws that slice through those beasts like a hot knife through butter and able to breathe out an icy gale that can render an entire tribe of Ogres into a single ice block. With this beast alone you could potentially lay claim to the Overtyrant’s throne. Certainly, it would take a whole tribe to defeat the two of you together.",
+    "origin": "Warhammer Fantasy - Ogre Kingdoms JumpChain"
+  },
+  "cd4f756d-cd7c-5541-afb7-2429c1f661ff": {
+    "id": "cd4f756d-cd7c-5541-afb7-2429c1f661ff",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Animal Eggs",
+    "cost": 100,
+    "description": "You've got a box of eggs spotted in various colors, two of each. Each color matches up to one of the animals that exists in the Minecraft world, and breaking an egg will spawn a child of that egg's animal. This includes those that don’t produce eggs, like fish and bees (and a beehive to live in.) Broken eggs are replaced after 24 hours have passed.",
+    "origin": "Minecraft (Unmodded)"
+  },
+  "a2188a05-f92f-5b36-882a-a2145b9b7983": {
+    "id": "a2188a05-f92f-5b36-882a-a2145b9b7983",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Armored Horse",
+    "cost": 0,
+    "description": "The Heartlands are a large area, one that cannot simply be traversed through on foot in any timely manner. As such, you have been given this armored steed, a hearty warhorse that will never flinch in even the most hectic of battles. You will also find that it possesses great speed that scales with your own, always capable of going faster than you.",
+    "origin": "TES IV_ Oblivion Remastered"
+  },
+  "4e149d28-c558-5751-a8e6-805d6fa1ce23": {
+    "id": "4e149d28-c558-5751-a8e6-805d6fa1ce23",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Armored Troll",
+    "cost": 100,
+    "description": "Big three eyed fuzzy monster with metal strapped onto it and axe blades stuck onto its arms, what more could you want.",
+    "origin": "Skyrim - Dawnguard Jumpchain"
+  },
+  "6c53a274-655f-512e-abc2-45a9fba8ed15": {
+    "id": "6c53a274-655f-512e-abc2-45a9fba8ed15",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Atronach Mount",
+    "cost": 0,
+    "description": "Atronachs are not confined to a form resembling only humanoid creatures, and it is not unheard of for them to take the form of rideable beasts. This animalistic Atronach, being of an element of your choosing, is eternally bound to you, allowing you to summon them anywhere you want, with no magicka cost. In addition to the standard abilities you would see in an Atronach, this mount is easy to ride, and will always be faster than you.",
+    "origin": "TES: Dovah"
+  },
+  "71a53192-d168-5a46-b29b-3be6c83ebcbe": {
+    "id": "71a53192-d168-5a46-b29b-3be6c83ebcbe",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Augury",
+    "cost": 200,
+    "description": "Alternatively known as the Irish Phoenix, these thin and sad-looking birds were mistakenly believed to foretell death. As it turns out that’s not the case, their cries simply foretell rain showers instead. They are useful weather forecasters, if one can bear their continuous moaning during the winter months.",
+    "origin": "Ravenclaw 1.0"
+  },
+  "48e50553-e4d2-5133-b06c-71ad2e99f67b": {
+    "id": "48e50553-e4d2-5133-b06c-71ad2e99f67b",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Battlecat",
+    "cost": 200,
+    "description": "You may create or import an animal companion to be given a battle form. By default they will be an Eternian tiger or panther. They will be able to change into a form capable of carrying you into battle. Their physical prowess when transformed will make them quite effective in melee as well. Even if they could not before, they will now be capable of human speech in both their battle and normal forms.",
+    "origin": "Masters of the Universe Jumpchain"
+  },
+  "26ad2216-d7e7-54d8-9288-b871adf38799": {
+    "id": "26ad2216-d7e7-54d8-9288-b871adf38799",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Better Than Gold",
+    "cost": 600,
+    "description": "These are 9 dragon eggs. If tended to carefully they will hatch into dragons, though one must be careful as they are volatile explosives capable of creating a large fireball if damaged. If one of these eggs does explode you will get a replacement 1 year later, but if they hatch they will grow into dragons from this world who will be dependent upon you to raise into good and noble friends of mankind",
+    "origin": "Dragonheart Jump"
+  },
+  "ba9bba61-edae-5f3f-8ab0-94462b52567f": {
+    "id": "ba9bba61-edae-5f3f-8ab0-94462b52567f",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Black Dragon",
+    "cost": 800,
+    "description": "For the Druchii seeking the ultimate mount, accept no substitutes. Scales hard as iron, strength fit to make an ogre cry, and a breath attack that incinerates enemies in corrupted, agonizing fire. Rain death with impunity, Druchii.",
+    "origin": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "28beef10-f9a8-54dc-9745-3db8146f9a89": {
+    "id": "28beef10-f9a8-54dc-9745-3db8146f9a89",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Blood Vulture",
+    "cost": 100,
+    "description": "A smaller, less impressive pet than what some Hunters may keep company of. The Blood Vulture is certainly larger than any species of Vulture outside of the Ogre Kingdoms. Ferocious and with claws that can decapitate a man from above in the blink of an eye, your new Blood Vulture will be a loyal pet. It’s certainly amusing watching the Gnoblar run from it and it can help you scout out an area and spot hiding foes much easier then you yourself could.",
+    "origin": "Warhammer Fantasy - Ogre Kingdoms JumpChain"
+  },
+  "99d241f0-7cf0-5e61-9664-f6a0920fa83b": {
+    "id": "99d241f0-7cf0-5e61-9664-f6a0920fa83b",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Boomslang",
+    "cost": 0,
+    "description": "The Boomslang is a venomous snake native to sub-Saharan Africa. They are excellent climbers and mainly live arboreal lives, though they are not restricted to the treetops and can often be found on the ground as well. Though they are non-magical, their shed skin is a vital ingredient in many potions, one of which being the polyjuice potion.",
+    "origin": "Slytherin [Version 1.2]"
+  },
+  "088803d3-a5f5-53ff-b3d1-1e64d107baa7": {
+    "id": "088803d3-a5f5-53ff-b3d1-1e64d107baa7",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Brave Steed",
+    "cost": 100,
+    "description": "This is a well bred and trained warhorse. They are a brave horse, brave enough to ride straight up to a dragon without shying away, and seemingly completely without fear, but otherwise a normal warhorse. If killed or lost they will somehow make their way back to you within a few days.",
+    "origin": "Dragonheart Jump"
+  },
+  "3540699b-4219-5d4f-b7ae-2d91b2199d56": {
+    "id": "3540699b-4219-5d4f-b7ae-2d91b2199d56",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Bronto",
+    "cost": 200,
+    "description": "These hulking beasts were originally bred by the dwarven Shaperate as beasts of burden and a food source, the rough equivalent to surface oxen and cows. Some versions of bronto have even been developed as dwarven mounts, valued far more for their sure-footedness and stamina than for their speed. While present within Orzammar in large numbers, some bronto still exist in packs within the Deep Roads, having returned to a wild state after the fall of the dwarven kingdoms. They require remarkably little sustenance, consuming organic material from water, fungi, and even rocks (hence the “Rock-Licker” appellation used by many dwarves to describe them), and exist in primarily dormant states until provoked. An angry, charging bronto is considered to be a rather dangerous opponent.",
+    "origin": "Dragon Age"
+  },
+  "1a3b0aba-ee3a-5505-8d10-43312a997b08": {
+    "id": "1a3b0aba-ee3a-5505-8d10-43312a997b08",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Buckbeak",
+    "cost": 200,
+    "description": "This male Hippogryph has declared you as worthy and will now follow you anywhere and everywhere being able to fly both through magical and non magical means.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "ece04c4e-fdb9-5d15-8c32-880828473a4d": {
+    "id": "ece04c4e-fdb9-5d15-8c32-880828473a4d",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Cliodna’s Bird",
+    "cost": 100,
+    "description": "In medieval times the Irish druidess Cliodna was known to keep a trio of magical birds with white feathers. These birds have the fascinating ability to sing the sick into a healing slumber.",
+    "origin": "Ravenclaw 1.0"
+  },
+  "c3e176c9-7ba5-5d4f-8cf2-6dfc7d0808c0": {
+    "id": "c3e176c9-7ba5-5d4f-8cf2-6dfc7d0808c0",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Cobra Lily",
+    "cost": 100,
+    "description": "A most intriguing creature, the Cobra Lily is a hybrid creature possessing both plant-based and serpentine traits. They’ve quite an aggressive temperament but luckily they’re not very dangerous, on account of the fact that like most other plants, they’re not very mobile.",
+    "origin": "Slytherin [Version 1.2]"
+  },
+  "80b24290-aa20-574b-a48d-59f5d9aa4b2a": {
+    "id": "80b24290-aa20-574b-a48d-59f5d9aa4b2a",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Cold One",
+    "cost": 100,
+    "description": "One of the most common mounts among the Druchii, the Cold One is a reptilian, bipedal beast well adapted to the bitter cold of Naggaroth, and well broken by the Dark Elves in the turning into mounts. They are fairly stupid, but strong, and quite hardy against bolt and blade. Should you purchase a second Cold One you can receive a chariot for them to pull for free.",
+    "origin": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "ab738024-83f7-53b7-b33b-87dfbd9543bc": {
+    "id": "ab738024-83f7-53b7-b33b-87dfbd9543bc",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Cuddly Remlit",
+    "cost": 0,
+    "description": "A species of feline native to the floating land of Skyloft, few are as lovable as the remlits. Puffy coat, fluffy tail, and big ears make it a popular pet. It can even fly using those ears, though not for very long. Do be sure not to wake them up at night, though, as they can get a bit grumpy.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "33a0e56c-5bee-50e4-a4e3-7ba89e963fa4": {
+    "id": "33a0e56c-5bee-50e4-a4e3-7ba89e963fa4",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Dark Steed",
+    "cost": 100,
+    "description": "There’s not much to write home about with this, it’s a horse. One raised by the Druchii, so it’s quite desensitized to sights of slaughter and violence, and therefor highly unlikely to panic or be bothered by much of anything, but otherwise just a horse.",
+    "origin": "Warhammer Fantasy - Dark Elves JumpChain"
+  },
+  "63d1277a-b5fa-518b-b93c-24cded75a561": {
+    "id": "63d1277a-b5fa-518b-b93c-24cded75a561",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Demiguise",
+    "cost": 200,
+    "description": "Resembles a small primate with large eyes. Can turn invisible at will as well as magically predict the most likely outcome of any given situation making them exceptionally difficult to catch. They are also able to look after or “babysit” other beasts if left to it.",
+    "origin": "Fantastic Beasts JumpChain"
+  },
+  "e5dbe8cb-1d33-5193-a285-ff71ca353b99": {
+    "id": "e5dbe8cb-1d33-5193-a285-ff71ca353b99",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Diricawl",
+    "cost": 100,
+    "description": "Known to Muggles as the Dodo, this magical species of flightless bird is capable of apparating and disapparating at will.",
+    "origin": "Ravenclaw 1.0"
+  },
+  "dbd544e4-c9af-5925-85de-42138ee1cae3": {
+    "id": "dbd544e4-c9af-5925-85de-42138ee1cae3",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Eastern Copperhead",
+    "cost": 0,
+    "description": "Although venomous, Eastern Copperheads are generally unaggressive and their bites are only rarely fatal. Contrary to most snake species, Eastern Copperheads do not lay eggs but give birth to live young. They are also capable of facultative parthenogenesis, meaning they are capable of switching from a sexual mode of reproduction to an asexual mode.",
+    "origin": "Slytherin [Version 1.2]"
+  },
+  "78f5c9fc-b84d-576a-bc89-51fe2fb252c1": {
+    "id": "78f5c9fc-b84d-576a-bc89-51fe2fb252c1",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Egg box",
+    "cost": 200,
+    "description": "A monthly box of random dragon eggs (although less rare dragons are more common) from this world makes a delicious omelet, or you can breed your own dragons. You'll notice that the eggs can only hatch if you take them out of the box.",
+    "origin": "How to Train Your Dragon Jumpchain"
+  },
+  "cc445ff8-fd08-577f-ae25-366a123dfb1c": {
+    "id": "cc445ff8-fd08-577f-ae25-366a123dfb1c",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Ellyrion Steed",
+    "cost": 0,
+    "description": "A “simple” steed, to be sure, but doubtlessly one of the best “simple” steeds in all the world. These horses are highly intelligent, and highly prized by all Asur.",
+    "origin": "Warhammer Fantasy - High Elf JumpChain"
+  },
+  "28db5d28-96ca-5033-aa1c-3e735a67705c": {
+    "id": "28db5d28-96ca-5033-aa1c-3e735a67705c",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Golden Snidget",
+    "cost": 100,
+    "description": "A previously-thought extinct rotund bird covered in golden feathers, their rotational wings allow them to fly quite swiftly and change their direction at a moment’s notice. This is what led to them being used in Quidditch, and that subsequently led to their near-extinction. They have since been replaced in Quidditch by the Golden Snitch, an enchanted, winged orb.",
+    "origin": "Ravenclaw 1.0"
+  },
+  "b216fc7c-6f34-5c8b-8678-8d351a3e3ea6": {
+    "id": "b216fc7c-6f34-5c8b-8678-8d351a3e3ea6",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Graceful Loftwing",
+    "cost": 0,
+    "description": "A relic from the Age of the Sky, the loftwings have long since gone extinct. Strange, then, how you have come into possession of one. Being of a color of your choosing, this massive bird is your trusted mount, carrying you into the heavens above at ludicrous speeds, faster than even you, regardless of how swift you may become in the future.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "453d8e8a-e918-585e-9682-83cf4c54b056": {
+    "id": "453d8e8a-e918-585e-9682-83cf4c54b056",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Great Eagle",
+    "cost": 100,
+    "description": "Again, nothing overly fancy. It’s an eagle as you may know, just much, much larger. Its talons, though basic, can easily puncture most mundane armor. And the bird is strong enough to carry you and perhaps an entire horse.",
+    "origin": "Warhammer Fantasy - High Elf JumpChain"
+  },
+  "688e2f3b-e165-506f-9930-7dfb84164ed7": {
+    "id": "688e2f3b-e165-506f-9930-7dfb84164ed7",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Griffin",
+    "cost": 200,
+    "description": "Sometimes confused for a Hippogriff by a layman, the griffin is a half-eagle, half-lion carnivorous magical beast native to Greece. Like Sphinxes they have a natural instinct to protect treasure and thus make for useful guardians, assuming a witch or wizard is capable of befriending them.",
+    "origin": "Ravenclaw 1.0"
+  },
+  "fd46adbf-299a-5d0e-b6c5-51aa050d68c4": {
+    "id": "fd46adbf-299a-5d0e-b6c5-51aa050d68c4",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Griffon",
+    "cost": 200,
+    "description": "This wild mix of eagle and lion is almost emblematic of the Empire. A strong hunter, as well as a noble beast which does not slaughter wantonly. Deadly, yet graceful. Merciless, but not cruel. So sacred is the griffon that the Grand Theogonist’s badge of office is carved in its likeness. The Emperor himself rides one into battle. However, the Wizards of the Amber Order value these creatures not for patriotism or holiness, but for strength, and for the fact that a griffon’s spirit is never truly broken by the will of Man. You now have a loyal (if still wild) griffon companion, willing to bear you into battle upon its back.",
+    "origin": "Warhammer Fantasy - The Imperial Colleges Of Magic"
+  },
+  "851922fc-8eeb-5dce-a4b1-916987a26a31": {
+    "id": "851922fc-8eeb-5dce-a4b1-916987a26a31",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Griffon Mount",
+    "cost": 100,
+    "description": "You are one of the rare few who has managed to tame a griffon, and turned them into a suitable mount for combat. As a fully trained mass of muscle and feathers, it can rip whole men apart with its talons, and can carry you high into the sky. Not only that, but its speed will scale with yours, ensuring that it will always be faster than you no matter what.",
+    "origin": "Warhammer Fantasy_ Rise of Sigmar"
+  },
+  "a4a87d4e-4e05-5d10-b3c2-0c68324e92b0": {
+    "id": "a4a87d4e-4e05-5d10-b3c2-0c68324e92b0",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Halla",
+    "cost": 200,
+    "description": "The halla are a type of horned stag. Some of them are herded by the Dalish elves who used them to pull the aravels, or landships. Their milk is also made into cheese and butter. The Dalish do not consider them beasts of burden but noble companions. To get them to accompany a clan, the Dalish elves ask rather than force them to. It is said that the Dalish carve their antlers for decorative purposes, and that their antlers are particularly prized in the Tevinter Imperium.",
+    "origin": "Dragon Age"
+  },
+  "3cc94457-c708-5da9-9a41-b191a66f9150": {
+    "id": "3cc94457-c708-5da9-9a41-b191a66f9150",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Intelligent Wolf",
+    "cost": 0,
+    "description": "A strangely intelligent wolf, one bearing odd markings and a manacle around his front leg. Still, he's big, fluffy, listens well to orders, and is absolutely viscous in a fight. Some nights, he can be heard howling a pleasant melody into the night sky.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "4a72dd04-6688-5873-ac78-95a2e7fb02c4": {
+    "id": "4a72dd04-6688-5873-ac78-95a2e7fb02c4",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Isolated Cavern",
+    "cost": 100,
+    "description": "This cave is yours. You will be able to easily find it in every jump, and it will be uninhabited and unclaimed. By default it is somewhere isolated and away from human settlements, and people will have difficulty finding it though it will not be impossible; you can waive this difficulty to place it near human civilization if you wish (or just waive it). This cave will also resist the natural climate, instead being a temperature and climate which is ideal for you to inhabit; if you’re an ice dragon it will be a cold place keeping year long ice, if you’re a fire dragon it will be comfortably warm, if you’re semi-aquatic it will have a nice lake and waterfall in front. Yes this will extend to the cave maintaining a breathable atmosphere, somehow, if it would end up on a planet that would be inhospitable to you (or in an asteroid).",
+    "origin": "Dragonheart Jump"
+  },
+  "e55f7431-ca2b-512f-9420-7ac79da5fdcb": {
+    "id": "e55f7431-ca2b-512f-9420-7ac79da5fdcb",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Loyal Llama",
+    "cost": 200,
+    "description": "This tamed llama will come trotting up to you when you whistle, no matter where you are. It carries a pair of small saddle-chests that only you can access. Even if smashed open or stolen, the chests will appear empty and their contents will be waiting for you the next time you summon the llama. The llama is rather smart and can follow some surprisingly complex commands for an animal, and if killed can be summoned again a day later. Will spit if abused.",
+    "origin": "Minecraft (Unmodded)"
+  },
+  "53ced893-75d3-5dca-a015-41da3f3e79c0": {
+    "id": "53ced893-75d3-5dca-a015-41da3f3e79c0",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Mearas",
+    "cost": 300,
+    "description": "You have been blessed to ride one of the descendants of Felof, Lords of Horses. Your horse is more intelligent than the average human, can understand English, and can run at up to 50 MPH for days upon end.",
+    "origin": "LOTR JumpChain"
+  },
+  "60797c83-bf30-579e-9569-c4fb9b9bb24a": {
+    "id": "60797c83-bf30-579e-9569-c4fb9b9bb24a",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Mooncalf",
+    "cost": 200,
+    "description": "A shy creature that only leaves its burrow during a full moon. Their mating ritual creates geometric patterns in wheat fields that confuse muggles. Mooncalf dung is a fantastic fertilizer for magical plants if harvested before the sun rises.",
+    "origin": "Fantastic Beasts JumpChain"
+  },
+  "fb67f01e-feda-5f0d-92e1-e640415abf99": {
+    "id": "fb67f01e-feda-5f0d-92e1-e640415abf99",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Niffler",
+    "cost": 200,
+    "description": "A small mammal, very skilled at digging and with a great love of shiny things. Nifflers have kleptomaniac tendencies as a result and they can fit a vast amount of valuables in their pouches. Good for finding treasure but they wreck houses if let loose.",
+    "origin": "Fantastic Beasts JumpChain"
+  },
+  "30790db5-7a6b-536f-baea-059c6f372b58": {
+    "id": "30790db5-7a6b-536f-baea-059c6f372b58",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Pegasus",
+    "cost": 0,
+    "description": "Birthed from the neck stump of Medusa, few mounts are as graceful as Pegasus. This winged horse is fully trained, capable of all kinds of tricks and maneuvers, both on land and in the air. Additionally, it will always be faster than you, regardless of how fleet you become, though it strangely seems to teleport to your side when called.",
+    "origin": "God of War - PJ Edition"
+  },
+  "015d0366-66d8-5223-9ea9-3ac489e9a4f0": {
+    "id": "015d0366-66d8-5223-9ea9-3ac489e9a4f0",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Roch",
+    "cost": 100,
+    "description": "An Elven-horse, trained to take commands with ease, and to not succumb to terror, even were the Witch-king of Angmar to take the field against you. This horse has greater stamina and speed than the horses of other folk, save only for the descendants of the horses of Valinor.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "89327665-b9c0-5381-8955-1b2695f7d707": {
+    "id": "89327665-b9c0-5381-8955-1b2695f7d707",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Sabretusk Pack",
+    "cost": 200,
+    "description": "Sabretusks are a common companion to Hunters. Taking the form of large tiger-like cats, bigger than a full grown human man, and with mouths filled with sharp tusks and teeth. Expert stalkers, able to prowl in any environment without making a sound, and able to tear through even a group of Ogre warriors with their speed and strength. Taming one is an impressive feat and you’ve managed to catch a whole pack of them. Four Sabretusks are now your loyal pets, following every order you give.",
+    "origin": "Warhammer Fantasy - Ogre Kingdoms JumpChain"
+  },
+  "5ab40feb-333e-5b0f-8704-a37fa4d79add": {
+    "id": "5ab40feb-333e-5b0f-8704-a37fa4d79add",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Thestral",
+    "cost": 100,
+    "description": "This breed of magical winged horse has a skeletal body, face with reptilian features and wide leathery wings that resemble a bat's. The most well-known ability of these beasts is their invisibility to those who had not seen death. In other words, they were only visible to people who had seen someone dying and fully accepted, understood and internalised the concept.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "11d46710-c1dd-5cd5-b70c-ec1b72b61104": {
+    "id": "11d46710-c1dd-5cd5-b70c-ec1b72b61104",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Three-Headed Hound",
+    "cost": 0,
+    "description": "The guard dog of Hades has had many children, many litters that all share core elements with that dreaded beast. All have three heads, and all of them require someone of at least demigod level strength to slay them. How fortunate then, that you find yourself as the newest owner of a three headed pup. Though they may be small now, they will grow to be second only to their legendary progenitor, and absolutely loyal to you.",
+    "origin": "God of War - PJ Edition"
+  },
+  "9908d0b8-16d5-5ef2-9eb2-b39b652e46cc": {
+    "id": "9908d0b8-16d5-5ef2-9eb2-b39b652e46cc",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Thunderbird",
+    "cost": 200,
+    "description": "A namesake of one of the Houses of Ilvermorny School of Witchcraft and Wizardry, these large birds are closely related to the Phoenix. A gorgeous creature with three pairs of shimmering iridescent wings, the Thunderbird is highly sensitive to danger and capable of magically generating storm clouds. Though uncommon, their tail feathers make for highly powerful yet difficult to master wands.",
+    "origin": "Ravenclaw 1.0"
+  },
+  "0c1c7f28-21ae-573c-af41-9bcd3557530e": {
+    "id": "0c1c7f28-21ae-573c-af41-9bcd3557530e",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Truffle Hound Pack",
+    "cost": 100,
+    "description": "A pair of large, ferocious dogs bred for finding truffles. They’ve got incredible senses of smell and can find truffles from over a hundred feet away. Desperate to eat any truffles they find, once they do, they go about attacking the genitals of any nearby males in order to protect their catches and destroy competition for females. They don’t seem to differentiate between man and dog either. Still, when they haven’t eaten a truffle for a while, they’re loyal and work well as guard hounds. You own a pair of them, the supposed ideal for sniffing for truffles, and they’re very loyal to you.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "df9514e6-eab1-5871-8234-8782929a9e02": {
+    "id": "df9514e6-eab1-5871-8234-8782929a9e02",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Twin Crows",
+    "cost": 0,
+    "description": "A pair of crows that you took on as pets, and bound to you magically, you won’t find any better messengers or spies. Though you can communicate with them telepathically no matter where they are, the greatest ability they possess is that they can share their senses with you, allowing you to gaze through their eyes and listen through their ears whenever and wherever you want.",
+    "origin": "TES: Rogues"
+  },
+  "68016693-e96e-5ebd-bc0d-016ee8fe721b": {
+    "id": "68016693-e96e-5ebd-bc0d-016ee8fe721b",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Warg Mount",
+    "cost": 100,
+    "description": "A creature of war, you now possess a warg mount which is absolutely loyal to you even unto death. It is a lethal mount and will fearlessly bear you into battle against anyone or anything without hesitation. Counts as an item and does not take up a companion slot.",
+    "origin": "The Hobbit JumpChain"
+  },
+  "a0682697-ad15-5351-ae70-a4523fe4e19f": {
+    "id": "a0682697-ad15-5351-ae70-a4523fe4e19f",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "White Lion",
+    "cost": 400,
+    "description": "Did I mention that the iconic lions of Chrace are as big as a horse at the shoulder? No? Well, they are, which naturally means they can serve as fantastic mounts. This one imprinted upon you as a cub, and loves you unconditionally. The cat’s hide is almost impervious to arrows, and, well, it’s a big cat. Your lion can easily outmaneuver any horse alive as well as out-fight one.",
+    "origin": "Warhammer Fantasy - High Elf JumpChain"
+  },
+  "a38c8931-158e-59b2-ab46-8f0b20367183": {
+    "id": "a38c8931-158e-59b2-ab46-8f0b20367183",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "White Stag",
+    "cost": 0,
+    "description": "A stag with a pelt as white as snow, you'd be mistaken to think that this was some standard beast. As swift as the wind and especially hardy, its antlers are as hard as ebony, and can very easily impale a man. This beast is under your control, and can even be used as a trusted mount.",
+    "origin": "TES_ Werebeasts"
+  },
+  "b0a746f1-16ee-5525-8156-6982c84fa0c5": {
+    "id": "b0a746f1-16ee-5525-8156-6982c84fa0c5",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Beasts",
+    "name": "Wooled Behemoth",
+    "cost": 0,
+    "description": "Commonly found within the northern province of Skyrim under the care of Giants, mammoths are mighty beasts with many uses. You are the proud owner of one of these mammoths, one that is well trained, capable of being used as both a mount, and a battle companion.",
+    "origin": "TES: Dovah"
+  },
+  "93b75b9b-dadd-5680-95bd-85cc958e7544": {
+    "id": "93b75b9b-dadd-5680-95bd-85cc958e7544",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Aiwendil/Radagast the Brown",
+    "cost": 300,
+    "description": "One of the Istari, or Wizards, Radagast was chosen by Yavanna to be her emissary to Middle-earth and though he will one day fall and become consumed by his love for the creatures and plants of Middle-earth, for now he remains an effective worker against the Shadow. He is a master of shapes and hues, and friend to the beasts and birds. Standing at 5’9”, he has fine brown hair peppered with grey. His rough clothing, jovial nature, and apparent simplicity belie his true strength and as a Wizard if roused to anger he is as mighty as any of his order might be expected to be.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "7e1b8a13-9541-532a-b053-4bcdaf093a35": {
+    "id": "7e1b8a13-9541-532a-b053-4bcdaf093a35",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Animal Care",
+    "cost": 200,
+    "description": "Poachers are a scourge upon this land, and you have dedicated your life to opposing them. You are an expert in veterinary medicine and a decent shot with a rifle to boot. Animals know that you have their best interest at heart, and are willing to let you approach them in order to work on them or defenses for their territory.",
+    "origin": "The Wild Thornberrys"
+  },
+  "d4e5b2db-453e-5f72-b7fa-08de23b27fd6": {
+    "id": "d4e5b2db-453e-5f72-b7fa-08de23b27fd6",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Armored Troll",
+    "cost": 100,
+    "description": "Trolls are fearsome creatures. Strong and unrelenting, it's best to kill them with fire as they tend to have a nasty habit of healing around weapons. One can only imagine how terrible a foe a troll with armor is, especially one as loyal to its owner as this one is.",
+    "origin": "The Elder Scrolls Series 1.2"
+  },
+  "5ca20d9c-b1b0-5b2d-a014-dee9c2d71592": {
+    "id": "5ca20d9c-b1b0-5b2d-a014-dee9c2d71592",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Bearer of Cursed Blood",
+    "cost": 0,
+    "description": "Though she’s not an animagus, this witch is nonetheless capable of transforming into a large snake as a result of a blood curse. For now, she has the ability to change between human and snake at will, but this ability will gradually grow uncontrollable and she will eventually lose the ability to think like a human, until all that’s left is the snake that she is destined to become. She hopes to one day meet a parselmouth, in the hopes of holding onto a small shred of humanity when she inevitably succumbs to the curse. Perhaps you know of a parselmouth, or maybe you’re one yourself? Whatever the answer to that question may be, she believes joining your adventure as a Companion is her best chance of meeting one. Will you take her along with you?",
+    "origin": "Slytherin [Version 1.2]"
+  },
+  "af2e2d26-4f7a-5940-a894-c701556898be": {
+    "id": "af2e2d26-4f7a-5940-a894-c701556898be",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Beast Manager",
+    "cost": 200,
+    "description": "You possess the ability to talk to animals. This isn’t limited to ones that can make traditional vocalizations either; while certainly you can get information from hawks and birds, you can also use this power to talk to creatures such as earthworms. Non-sapient and non-supernatural animals will generally be very well inclined towards you unless you do something to break this trust.",
+    "origin": "Dragonheart"
+  },
+  "f629cf01-6007-5a35-b486-a7a35eb10f13": {
+    "id": "f629cf01-6007-5a35-b486-a7a35eb10f13",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Born to Ride",
+    "cost": 100,
+    "description": "You’re a Bretonnian, through and through. In your veins flows the blood of thousands and thousands of years of expert horse riders and it shows. You have an affinity for all equine creatures, such that it is far easier for you than most to tame and ride them. You could break in a Bretonnian warhorse before you’d even turned 16 and do it in a day not to mention move straight on to riding it as if you’d been together for years. You can even comfortably manage riding bareback and in full armour. Whilst most knights are excellent horsemen, you’re a rare example of a true prodigy at it.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "c9928b5e-270f-5502-be57-6f37cc57f887": {
+    "id": "c9928b5e-270f-5502-be57-6f37cc57f887",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Caretaker of Eggs",
+    "cost": 400,
+    "description": "Sometimes the young need the guidance of their elders, in the end that is what the dragons’ oath was all about; to help humans by guiding them to mature as a race. You might not be a dragon, and making an entire species mature might still be beyond you on your own, but you can help people grow as people and learn life’s lessons becoming better people than they were. You have a general knack for guiding people to mature and grow into better versions of themselves, nurturing and fanning the sparks of worth, value, and goodness inside of themselves. This also makes you a pretty good parental figure, and skilled at dealing with children.",
+    "origin": "Dragonheart"
+  },
+  "5c11cd68-e315-5c7c-adee-94f3b9a11122": {
+    "id": "5c11cd68-e315-5c7c-adee-94f3b9a11122",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Conservationist",
+    "cost": 0,
+    "description": "You are adept at the disciplines required for protecting species, both in the design of suitable artificial habitats and in your hands breeding programmes are astoundingly successful.",
+    "origin": "Fantastic Beasts JumpChain"
+  },
+  "e56c83b5-282e-53b1-99ba-bb6e69d6daf0": {
+    "id": "e56c83b5-282e-53b1-99ba-bb6e69d6daf0",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Dobby",
+    "cost": 0,
+    "description": "A male house-elf who served the Malfoy family. His masters were Dark Wizards who treated him cruelly. He would normally disobey his masters and try to warn Harry Potter of the plot to have the Chamber of Secrets reopened. Now he can become your new friend and companion.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "acd7ec84-b5a1-56c6-994a-3e1c7e2a9d7f": {
+    "id": "acd7ec84-b5a1-56c6-994a-3e1c7e2a9d7f",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Dragon Hunter",
+    "cost": 400,
+    "description": "Where some have studied dragons for their fascination, you've studied them to hunt and capture them. All your attacks will now have the dragon slayer ability to aim around their scales, and you'll be an expert at throwing bolas, trapping and capturing dragons in general.",
+    "origin": "How to Train Your Dragon Jumpchain"
+  },
+  "2b1824a8-eb70-5dd9-b90d-151bee894d52": {
+    "id": "2b1824a8-eb70-5dd9-b90d-151bee894d52",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Dragon Riders",
+    "cost": 600,
+    "description": "Anyone with the right method can ride a dragon, but how many can enable him to greatly exceed his abilities and defeat those who he alone could never have conquered? Well, you're one of them! When you ride a creature, it's as if you were a single person, your cooperation surpasses that of multi-headed dragons! And your powers and those of your mount seem to rub off a little on each other: Your Skrill rides lightning with you on it? No problem, you'll become lightning like him. You'll use powers that can hurt him? It won't affect him.",
+    "origin": "How to Train Your Dragon Jumpchain"
+  },
+  "227db5b1-131f-5c6b-b11c-d79dd708cb2f": {
+    "id": "227db5b1-131f-5c6b-b11c-d79dd708cb2f",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Dragon Tamer",
+    "cost": 400,
+    "description": "You're a master in the art of dragon training who can easily teach a dragon to aim perfectly or retrieve specific objects in a single day, and being stealthy is a whole lot more.",
+    "origin": "How to Train Your Dragon Jumpchain"
+  },
+  "a5ca6186-e938-574f-bec2-7b76e7c6f439": {
+    "id": "a5ca6186-e938-574f-bec2-7b76e7c6f439",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Ecomancer",
+    "cost": 400,
+    "description": "Ecomancy draws on the power of nature itself, manipulating the elements, plants and animals directly. With this power, you can cause things to grow and blossom extremely rapidly, animate plants to entangle your foes, calm or control wild beasts, heal wounds or sickness with a touch, or even exert control over the weather and tides. Generally, you either need to be very close to what you wish to manipulate, or there must be some synaptic connection to the object through which your power can travel (like the branches of trees, or roots of plants). All ecomantic powers require a great deal of concentration and focus, and the stress of excessive efforts can leave you weak and vulnerable.",
+    "origin": "The Pirates of Dark Water jump v1.1"
+  },
+  "5aba02c8-4f1f-52d4-8b96-52a0abc866eb": {
+    "id": "5aba02c8-4f1f-52d4-8b96-52a0abc866eb",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Emerald Archdruid",
+    "cost": 100,
+    "description": "An absolute bear of a bosmer, his adherence to both the Green Pact and the balance of nature as taught by Kynareth may seem restricting to many, but this spellcaster finds comfort and discipline in such limitations. Capable of taking on the form of practically every beast that has ever walked the face of Tamriel, on top of calling upon the power of nature for all manner of purposes, makes him one of the most terrifying things your enemies will ever have the misfortune of encountering.",
+    "origin": "TES IV_ Oblivion Remastered"
+  },
+  "49fb1ec5-9a32-5a92-a4a1-2cf4eab478bf": {
+    "id": "49fb1ec5-9a32-5a92-a4a1-2cf4eab478bf",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Everyday I’m Slytherin",
+    "cost": 200,
+    "description": "What greater way to honour Salazar Slytherin is there than to take the form of a snake? Why, it would seem that’s precisely what you did. You’ve become an animagus, a witch or wizard who can transform themselves into an animal (and back again — important, that!). More specifically, you are a snake animagus. You may choose a single extant non-magical snake as your animagus form.",
+    "origin": "Slytherin [Version 1.2]"
+  },
+  "4954465d-ee7a-5b5b-861b-062a746dabf4": {
+    "id": "4954465d-ee7a-5b5b-861b-062a746dabf4",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Familiar",
+    "cost": 100,
+    "description": "This gives you access to a talking animal familiar. They have intelligence roughly equal to a human, a moderate danger sense, and as they are linked to you they will also be helpful to your aims. While they are your familiar they do have their own interests and goals, and so may go off and do their own thing every now and again.",
+    "origin": "The Mighty Boosh JumpChain"
+  },
+  "0c7a5764-52f6-55b7-9558-680941a486fb": {
+    "id": "0c7a5764-52f6-55b7-9558-680941a486fb",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Fine Rug Cat",
+    "cost": 200,
+    "description": "This khajiit has wares, if you have coin. He has travelled far across the continent to bring you exotic goods. They are willing to travel far to find opportunities and currently see Skyrim as the ripest one. You have the good fortune of being able to find this merchant whenever you need their services. Many of their fine goods are from Elsweyr, but previous travels to reach Skyrim have left the caravan with interesting stock from all over Tamriel. Though it will cost you in gold or bartered resources it allows you to resupply with things from distant lands. Mysteriously, other resources that can’t be accounted for can end up among the shop’s inventory, like common crafting materials or drugs from other worlds. A natural talent at weaving, there are always elegant rugs and shockingly elaborate tapestries available here.",
+    "origin": "TES V - Skyrim (By stupid_dog)"
+  },
+  "4298c2e1-3a46-5fad-bf25-d7ee82f7ca17": {
+    "id": "4298c2e1-3a46-5fad-bf25-d7ee82f7ca17",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Fire Acolyte",
+    "cost": 0,
+    "description": "Holding an obsession of dragons since childhood, this young Argonian is a powerful mage who utilises powerful flame spells, mixing it with his unarmed prowess. Though with a bit more brawn than brains, his good heart and destructive power are great additions to have on your side. Just don't let him on any vehicles, as they tend to make him sick.",
+    "origin": "TES: Dovah"
+  },
+  "455a2539-7cb8-5646-a00d-42ebd0b6cd6e": {
+    "id": "455a2539-7cb8-5646-a00d-42ebd0b6cd6e",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Fire Within",
+    "cost": 100,
+    "description": "When the mortals think of fire, oftentimes they think of only the burning and destruction it brings, and though they are correct, that's not the whole story. It is heat, warmth, comfort, light, and much more. You have pondered the meaning of fire, and have come to an understanding that few can match. As proof of this, all fire attacks against you are only half as effective, while all fire damage you deal is tripled.",
+    "origin": "TES: Dovah"
+  },
+  "77e2ccc4-399d-541d-8679-e9d129b4bffb": {
+    "id": "77e2ccc4-399d-541d-8679-e9d129b4bffb",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "House Elf",
+    "cost": 200,
+    "description": "This submissive little thing is a beautiful house elf (with an appearance far more in line with traditional fantasy media’s depictions of elves than the way that house elves look in Harry Potter) with a masochistic streak. She is your house elf, acquired either by your family before the jump begins and given to you as a personal servant or acquired sometime early on in your jump. She is talented at her kind’s particular magic and is skilled in every sort of housework and homemaking even without magic. She is also incredibly submissive and gets excited at the thought of being punished for her failures or praised for her successes.",
+    "origin": "World of Lewd Witchcraft Jump"
+  },
+  "c9939287-1946-5ea2-8972-901539a0a524": {
+    "id": "c9939287-1946-5ea2-8972-901539a0a524",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Hunter",
+    "cost": 100,
+    "description": "You have the skills necessary to be a hunter, potentially of men or even dragons. This doesn’t give you combat skills, but you know how to follow a trail, survive in the wilderness, and find a good vantage point to hide in while you wait for your prey. You can make snares and simple traps, figure out your direction in the wilderness from the sky, stars, and natural features, and generally have the skills of someone who hunts for a living.",
+    "origin": "Dragonheart"
+  },
+  "ac1369de-99a8-59bb-8a16-ebff6f903509": {
+    "id": "ac1369de-99a8-59bb-8a16-ebff6f903509",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Imp, The Spellcaster’s Familiar Pokegirl",
+    "cost": 200,
+    "description": "You have bonded with one of the rare Imp pokegirls found only in Vale. This bond known as a Familiar Bond comes in the normal Alpha and Delta variety of normal pokegirl bonds but is unbreakable by anything less than a magically enhanced level 5 Taming Cycle. Furthermore, while their magical and physical abilities are weak their magic is not as they act to enhance the precision and power of any spells cast near them. They also have a perfect memory allowing them to aid in research.",
+    "origin": "Pokegirl"
+  },
+  "e4d98f58-5884-5305-92c3-2dac87dff06f": {
+    "id": "e4d98f58-5884-5305-92c3-2dac87dff06f",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Minotaur Queen",
+    "cost": 100,
+    "description": "Possessing a body that combines a vision of curves and ripe sexuality with a nonetheless powerful and amazonian physique, this imposing warrior woman stands over seven feet tall. She’s at least part cow, with upraised horns and a long flicking tail, as well as obviously mountainous and egregiously supple breasts, which leak milk when she wishes them to. Aside from her brute strength, she received the training of an amazon princess before she ever entered Mareth, in exile for reasons she never deigns to clarify. Whatever her reasons may be, she has since put her skill to good use by cutting down her opponents with a massive, deadly-looking axe too heavy and too large for most people to wield properly. Largely eschewing armor in favor of more mobile barbarian-like outfits or a variety of golden accessories and jewelry, she’s still incredibly durable on her own. A trait that seems to be carried in her milk as well, since drinking it restores wounds taken, though it does leave one somewhat aroused and more vulnerable to seduction. The latter might be intentional on her part, if it isn’t simply a byproduct of the transformatives she took to gain her cow-like traits. She does, after all, also have a fondness for golden, honey-based lipstick similar to that used by the harpies of the high mountains. Then again, perhaps the aphrodisiac drug-laced lipstick is merely one part of ploy to dominate the minotaurs she’s declared herself queen over. The minotaurs themselves value strength and, left to her own devices, she might actually manage to unite some tribes into her own makeshift kingdom. For the moment though, she's just looking to join up with a fellow dimensional traveller. Maybe if you proved your strength she'd be interested in creating a powerful new race together.",
+    "origin": "Corruption of Champions jump  v1.1"
+  },
+  "ae0683be-9647-55c9-862e-af4aa58dcd0d": {
+    "id": "ae0683be-9647-55c9-862e-af4aa58dcd0d",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Monster Tamer",
+    "cost": 400,
+    "description": "Mobs are normally universally hostile, but you know how to wrangle and subdue spiders, slimes, even creepers. If it's alive and non-sapient, then you can eventually, somehow, get it to follow simple instructions. It'll take time, effort, and somewhere to hold it long enough to work it over. Particularly fierce or wilful creatures may be impossible to tame, especially alien or eldritch types like the Enderdragon.",
+    "origin": "Minecraft (Unmodded)"
+  },
+  "5bf9e13d-e25f-56fa-9c3a-69f0b0449954": {
+    "id": "5bf9e13d-e25f-56fa-9c3a-69f0b0449954",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Mudcrab Merchant",
+    "cost": 0,
+    "description": "While you wouldn't expect a crustacean to be a successful merchant, here it is anyway. This Mudcrab is a skilled trader, and always has a large selection of wares to sell to you.",
+    "origin": "The Elder Scrolls Series 1.2"
+  },
+  "e7a13798-5063-534d-94b9-52fd07c90fce": {
+    "id": "e7a13798-5063-534d-94b9-52fd07c90fce",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Nagini",
+    "cost": 100,
+    "description": "Nagini was once a beautiful young woman but due to a blood curse she was permanently turned into a snake. Due to twists of fate Nagini was eventually acquired by Lord Voldemort. As your companion she can become an independent copy alongside you or she can absorb the original, destroying Voldemort's Horcrux and taking her place. Unlike the original this Nagini will lose her blood curse and become a snake Animagus.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "1bccfcaa-beba-51a0-ba31-000bbfc20ee4": {
+    "id": "1bccfcaa-beba-51a0-ba31-000bbfc20ee4",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Pet Gnoblar",
+    "cost": 100,
+    "description": "A favourite little pet of yours, out of the many Gnoblars to be found. It sees you as its personal God and Master, never even considering the idea of betraying you. It’d throw itself into a fire to make you laugh. For a Gnoblar, it has surprisingly good skills at cooking too and can work as an able assistant in the kitchen. It’s also quite trusted by other Gnoblars, Goblins and small creatures, despite never having their interests in mind on the same level as it has your own.",
+    "origin": "Warhammer Fantasy - Ogre Kingdoms JumpChain"
+  },
+  "d949b9a8-fac4-51f7-88c4-2c2d92c96437": {
+    "id": "d949b9a8-fac4-51f7-88c4-2c2d92c96437",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Put Your Back Into It",
+    "cost": 100,
+    "description": "You have the talents of a natural-born zoo keeper. Many kinds of animals will likely treat you with more initial respect. Along with this is a lot of both theoretical and practical knowledge of how to care for animals. This perk also grants you a skill at delegating the more unsavoury parts of your job to others.",
+    "origin": "The Mighty Boosh JumpChain"
+  },
+  "1ee135a2-e192-5496-a359-763211936184": {
+    "id": "1ee135a2-e192-5496-a359-763211936184",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Saga",
+    "cost": 200,
+    "description": "This perk gives you supernatural luck when it comes to stumbling across lively, adventurous and interesting situations. Maybe that umpteenth empty island holds treasures, dragons and all manner of adventure, maybe that calm sea will bring you across a convoy you'd like to plunder or confront. You can turn it on and off whenever you like.",
+    "origin": "How to Train Your Dragon Jumpchain"
+  },
+  "d4a4a34f-0cd9-5173-8f0b-cb6610517080": {
+    "id": "d4a4a34f-0cd9-5173-8f0b-cb6610517080",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Sheep Dog",
+    "cost": 100,
+    "description": "A loyal, erstwhile companion for any herdsman. Canines have been loyal friends to both man and halfling for eons now, and their duties in The Moot are much the same as they’d be elsewhere in The Empire of Man. You start out with one well-trained herding hound, of a variety of your choice (there are a great number of breeds, so to speak). You may purchase others at a discount, should your herd require more than you and your one pooch to guide or protect them.",
+    "origin": "Warhammer Fantasy - Halflings Of The Moo"
+  },
+  "7cc3f390-22e6-5e74-b3c6-664016297327": {
+    "id": "7cc3f390-22e6-5e74-b3c6-664016297327",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Skin Changer",
+    "cost": 400,
+    "description": "Skin Changers are a rare, nearly extinct race. But now there is one more in Middle Earth. You now have the ability to transform into a great and powerful animal of your choice. This form has enhanced strength, durability, and speed relative to the animal that it is modeled after, and you can maintain your human mind while transformed.",
+    "origin": "The Hobbit Jumpchain"
+  },
+  "f42211e1-6a08-56f4-9447-78e081b5e490": {
+    "id": "f42211e1-6a08-56f4-9447-78e081b5e490",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Speak Dragonese",
+    "cost": 100,
+    "description": "You are perfectly spoken in dragon language and Nordic",
+    "origin": "How to Train Your Dragon Jumpchain"
+  },
+  "305a7efa-de37-5195-855b-5b70fee81193": {
+    "id": "305a7efa-de37-5195-855b-5b70fee81193",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Survivor",
+    "cost": 200,
+    "description": "You have been locked into the feared jungle room and against all odds, thrived in it. The experience you gained there has given you the ability to find a way to survive in most hostile environments. From extremes in temperature, massive pressure, and even a lack of atmosphere. If there is a way, you can find it.",
+    "origin": "The Mighty Boosh JumpChain"
+  },
+  "b90e87e7-edbf-504c-b45c-1f1c5a769f4b": {
+    "id": "b90e87e7-edbf-504c-b45c-1f1c5a769f4b",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Talk With the Animals",
+    "cost": 200,
+    "description": "You and beasts just get along. For one thing they seem to understand human speech when it’s from you and for another they seem unusually inclined to make friends with you, even if their nature is usually vicious and aggressive. You also have a nose for when an animal (or monster) is being mistreated and can zero in on their location with unerring accuracy. Beasts rescued will recognise you as their saviour and become very loyal.",
+    "origin": "Fantastic Beasts JumpChain"
+  },
+  "e115dbfa-ca64-5ce0-88db-f45ff40c2712": {
+    "id": "e115dbfa-ca64-5ce0-88db-f45ff40c2712",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Twilight",
+    "cost": 100,
+    "description": "Oh, look at that. It’s your daughters! Or a nice young lady that through some obscure magical rite was divided into two separate individuals. Or perhaps lesser divine beings of some sort? Regardless of precisely what these two are, as Naestra and Arahan are to Ariel while each has the inherent skills of a well- trained Asrai each also has similar abilities to those you have gained from this jump, including the power to change form into Dryads or great beasts if that befits what you are. Moreover, not only does the life of one rapidly rejuvenate the other as long as the first is not killed but they also possess abilities skewed towards embodying the nobility and baseness in your soul. Be assured that each is infallibly dedicated to fulfilling your ambitions and defending Athel Loren at your side (or just hanging out with you, if you’re a less ambitious or dutiful sort), though not above a bit of competitive snarking at each other. Who would expect the best and worst in you to see eye to eye on everything, after all?",
+    "origin": "Warhammer Fantasy - Wood Elves"
+  },
+  "70196a89-70f5-5a96-aff9-5464a23dc278": {
+    "id": "70196a89-70f5-5a96-aff9-5464a23dc278",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Keepers",
+    "name": "Wolven Huntress",
+    "cost": 0,
+    "description": "A Nordic huntress bound to an order of warriors, she revels in her lycanthropy, reveling in the hunt. She is one of the best archers around, able to fire an arrow through an elk's eye from hundreds of yards away. Proud and honorable, she also has quite the nasty streak if crossed.",
+    "origin": "The Elder Scrolls Series 1.2"
+  },
+  "897e7613-6b75-5cf5-a571-e10aeb01ea8e": {
+    "id": "897e7613-6b75-5cf5-a571-e10aeb01ea8e",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "A Phoenix Tear",
+    "cost": 400,
+    "description": "A small daily self refilling glass vial that contains a magical regenerative liquid that enriches the vitality of the user while it restores any wound and cures any poison without causing scars.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "c1abd342-1e63-5382-86a5-90bce104672b": {
+    "id": "c1abd342-1e63-5382-86a5-90bce104672b",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "A Saddle",
+    "cost": 200,
+    "description": "This custom-made saddle for your dragon is anything but ordinary, having been created with the finest materials in mind, making it light, strong and aerodynamic. It's full of pockets that can store much more inside than normal, not quite as much as a ship's hold, but close.",
+    "origin": "How to Train Your Dragon Jumpchain"
+  },
+  "beeef386-216f-5051-8fd7-58acd7f98248": {
+    "id": "beeef386-216f-5051-8fd7-58acd7f98248",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Amulet of the Great Toad",
+    "cost": 600,
+    "description": "An amulet made of pure gold, shaped like one of the Great Toads of the lizardmen. A powerful mystic object, one whose powers were only unlocked by you and not the other holder of this sort of artefact. Originally just granting a degree of protection against magic, you are now in possession of an amulet that automatically dispels all but the most powerful magic that is targeted at you, even from those as great as the Slann themselves. You are also able to use the amulet and focus it on something in close range to you, letting you remove magic from objects or unleash a burst that dispels any magic within close range to you.",
+    "origin": "Warhammer Fantasy - Amazons JumpChain"
+  },
+  "f15c8fb6-fb58-5c86-81a9-cf76c2c0e7d6": {
+    "id": "f15c8fb6-fb58-5c86-81a9-cf76c2c0e7d6",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Basilisk Fang",
+    "cost": 400,
+    "description": "This dagger-like fang can produce a limitless supply of any type of venom; if left unattended it would drip out producing a teaspoon a day but if you want to gain more you can squeeze it to make it come out at a trickle thereby producing the same amount in less than five seconds.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "e8638f79-f4d6-5c3e-afb4-ca0a06aca1f0": {
+    "id": "e8638f79-f4d6-5c3e-afb4-ca0a06aca1f0",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Bestiary of Tamriel",
+    "cost": 0,
+    "description": "The wise hunter understands that the only thing worse than going into a hunt unarmed, is to hunt uninformed. This leather-bound journal is filled with notes on all manner of beasts and enemies you may find on Nirn, ranging from eating habits to local legends. Some of them do seem to be a bit embellished, though.",
+    "origin": "TES_ Werebeasts"
+  },
+  "f97a42bd-a5b4-5c52-b010-d1d4ff4f99c8": {
+    "id": "f97a42bd-a5b4-5c52-b010-d1d4ff4f99c8",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Case",
+    "cost": 200,
+    "description": "A briefcase that is far bigger on the inside and has numerous sections with different habitats for various beasts. The habitats magically adapt to best suit any beasts inside. Comes with a free Muggle Worthy Switch.",
+    "origin": "Fantastic Beasts JumpChain"
+  },
+  "714d02e3-92f4-5ee7-bc07-0e292167825f": {
+    "id": "714d02e3-92f4-5ee7-bc07-0e292167825f",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Chocolate Frogs",
+    "cost": 100,
+    "description": "A very popular wizarding sweet made from chocolate in the form of an animated frog. These sweets come with a collectible card of a famous witch or wizard in each pack. These cards update with a new series each Jump showing all the famous magic users of that world. You get one new chocolate frog pack (plus the card in it) every day each time you’ve either thrown away the previous frog package or unwrapped it. The chocolate frog does not spoil.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "8e02c915-5a4d-5603-9435-fd51d3602c32": {
+    "id": "8e02c915-5a4d-5603-9435-fd51d3602c32",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Dragon Armlet",
+    "cost": 400,
+    "description": "You wanna be a dragon, right? Who doesn't wanna be a dragon? Unlike versions enchanted by less competent wizards, this golden armband lets you transform back and forth from the form of a 30 foot long, flying, fire-breathing dragon more or less at will. There's no need to learn a lesson about selflessness or whatever to gain control over this- just be a dragon.",
+    "origin": "Chronicles of Narnia JumpChain"
+  },
+  "91008e63-994d-513a-992f-7ab46b23e5c9": {
+    "id": "91008e63-994d-513a-992f-7ab46b23e5c9",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Dragon food supply",
+    "cost": 100,
+    "description": "Tasty food for your dragon(s) maybe it's a pasture with tasty sheep appearing every day, maybe it's a pond growing some kind of phosphorescent algae, or why not a mountain of delicious chicken?",
+    "origin": "How to Train Your Dragon Jumpchain"
+  },
+  "9d438a9e-4a80-5746-935d-346615d411ef": {
+    "id": "9d438a9e-4a80-5746-935d-346615d411ef",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Dragonhorn",
+    "cost": 200,
+    "description": "Crafted from the horn of a slain dragon, this is one of many artifacts crafted by the Dragonguard, used as weapons against the Dragons. This magical warhorn is inscribed with various arcane runes, and capable of producing a tonal sound that temporarily incapacitates any dragons that hear it.",
+    "origin": "TES: Dovah"
+  },
+  "dedbacea-f80c-5706-be55-d5a5da8e7363": {
+    "id": "dedbacea-f80c-5706-be55-d5a5da8e7363",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Dragonslayer’s Shield",
+    "cost": 400,
+    "description": "A tool of a true dragonslayer. Made from a single large dragon scale/plate, and adorned with the talons of slain dragons, it is an extremely light kite shield while being as durable as if it was made of solid metal. Adding to its utility as it was made from a dragon it’s completely fireproof and can be used to block things such as a dragon’s fiery breath. Of course many jumpers grow harder to damage than metal quickly, so it will always scale to be at least 3 times harder to damage than you are, gaining all your resistances and immunities three times over.",
+    "origin": "Dragonheart Jump"
+  },
+  "c30b043c-f0b4-59a2-a2df-7bad7cfd1fe2": {
+    "id": "c30b043c-f0b4-59a2-a2df-7bad7cfd1fe2",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Ellyrion Saddle",
+    "cost": 100,
+    "description": "The horses of Ellyrion share the lifespan of the elves, so horse and rider can come to know each other more than any rider and mount the world over, save perhaps those of the sapient dragons. This saddle, will allow you the same strength of bond with your mount, be it horse or something more exotic. The saddle will resize and adjust itself when necessary. You will move as if you shared a mind, reacting faster to situations than should be possible.",
+    "origin": "Warhammer Fantasy - High Elf JumpChain"
+  },
+  "8b150f2b-6021-5bb7-8b81-b3186c54c0a1": {
+    "id": "8b150f2b-6021-5bb7-8b81-b3186c54c0a1",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Elven Cloak",
+    "cost": 100,
+    "description": "You are warmed and protected by a cloak sewn and imbued by the Elves of Lorien. It will hide you from the sight of enemies, and will never fray or tear. Additionally, when worn it will seem to naturally cover scars or any bodily features which you would like concealed.",
+    "origin": "LOTR JumpChain"
+  },
+  "22b76915-8a0f-5f12-bd9c-7cade8d22437": {
+    "id": "22b76915-8a0f-5f12-bd9c-7cade8d22437",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Falcon Horn of Fredemund",
+    "cost": 400,
+    "description": "A horn once owned by Fredemund, one of the companions of Gilles Le Breton himself. If the user blows the horn, they will summon a vast swarm of birds and other flying creatures to attack the wielder’s foes and force those who are flying to the ground. The thousands of vicious birds can strip the flesh from a man’s bones in surprising speed and even dragons can be forced to land from the weight of the aviary creatures pressing down on them. The horn can be used many times in a row but will have little effect in areas that have been emptied or lack aviary life.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "af4d8653-8827-5082-828c-e9aa7481cdec": {
+    "id": "af4d8653-8827-5082-828c-e9aa7481cdec",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Friendly Food",
+    "cost": 200,
+    "description": "You have a small quantity of food that you can summon at any time daily with a particular effect. This food, when given to someone or something who accepts it, induces friendliness and reduces hostility in the creature who accepts it. This food also has a secondary trait that its nutritional qualities are keyed to any lifeform that eats it, giving them enough sustenance for several days as well as enhances their natural healing rate and subtly buffs their immune system. This can be used to end hostile encounters, help injured lifeforms, and improve your bond with a creature. The amount of food you can summon daily is small, maybe enough to give two creatures a full meal.",
+    "origin": "World of Lewd Witchcraft Jump"
+  },
+  "35800fea-6231-5f12-bfc4-38bf874672cb": {
+    "id": "35800fea-6231-5f12-bfc4-38bf874672cb",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "From the Mouth of Serpents",
+    "cost": 200,
+    "description": "Parseltongue is the language of all serpents, and those witches and wizards who can speak it are known as parselmouths. One of the most famous parselmouths in history is of course none other than Salazar Slytherin, and his descendants have inherited this gift as well. Are you one of his descendants, by any chance? It would certainly explain how you can speak this magical language. Well, whatever the case may be, one thing is for sure. Yer a parselmouth, Jumper. And a thumpin’ good one, I’d wager. As a parselmouth you can both understand and speak to serpents of all kinds, and are even able to influence them to a certain extent.",
+    "origin": "Slytherin [Version 1.2]"
+  },
+  "51468270-b69b-5455-8f34-d60f4f0d7888": {
+    "id": "51468270-b69b-5455-8f34-d60f4f0d7888",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Fur Cloak",
+    "cost": 0,
+    "description": "Winter is not to survive, bringing a fel chill on the winds that bites deeply, especially if one were to head further north. This thick hooded cloak, made from the fur of a bear, is meant to help one survive this cold season, keeping the wearer comfortably warm no matter what kind of weather is assaulting them.",
+    "origin": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "c844597a-2f7b-5744-aabc-346cc368e305": {
+    "id": "c844597a-2f7b-5744-aabc-346cc368e305",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Heartfire",
+    "cost": 600,
+    "description": "This is a small bottle containing heartfire, the source of a dragon’s power and their life force. While you carry this heartfire you will find all of your fire-based abilities noticeably increased in power, less personally costly to use, and easier to control. You can use this heartfire to heal someone from the brink of death, maybe even a little past it, restoring them completely however doing so will destroy the heartfire and you will not regain it until the start of the next jump. It might be possible to drink the heartfire, taking it into yourself and obtaining a greater increase to your fire powers, and even granting you the ability to project fire like a dragon’s firebreath (a dragon that does not have this item), but this is generally not advised as this will continually burn you from within, killing a normal person within moments.",
+    "origin": "Dragonheart Jump"
+  },
+  "abe2e468-3fcb-5e20-86ef-93a0eb971ec2": {
+    "id": "abe2e468-3fcb-5e20-86ef-93a0eb971ec2",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Helm of Oreyn Bearclaw",
+    "cost": 400,
+    "description": "A prized artifact with a history of conflicted attribution, the helm itself is the engraved skull of the Glenhwyfaunva, the witch-serpent of Valenwood that was brought low by the Dunmer hunter Oreyn Bearclaw. Those who wear it will be blessed with the beast’s nearly unparalleled ferocity, greatly fortifying both their endurance and agility, on top of offering the same amount of protection as a daedric helmet.",
+    "origin": "TES IV_ Oblivion Remastered"
+  },
+  "f2547a7a-bdd4-5372-93fe-2d420f71900e": {
+    "id": "f2547a7a-bdd4-5372-93fe-2d420f71900e",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Horn of Desperation",
+    "cost": 200,
+    "description": "This richly carved ivory horn, when blown in times of great need or desperation, has the power to magically summon aid to you. Exactly what aid it will bring, and how that aid will arrive, is extremely unpredictable. It might awaken great heroes from the past, teleport your companions to your side from any distance, or simply make a distant benefactor immediately aware of your location and approximate situation.",
+    "origin": "Chronicles of Narnia JumpChain"
+  },
+  "e06c9bef-916a-5c20-9e5b-27b3363541bd": {
+    "id": "e06c9bef-916a-5c20-9e5b-27b3363541bd",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Horse Care Kit",
+    "cost": 0,
+    "description": "Every Bretonnian knows how to care for a horse. They may not be good at it or own one themselves, but every man from the King himself to the lowliest peasant can at least give some care to one. This kit holds all you’d need to carry out that duty, from cleaning and brushing equipment to tools to repair and create saddles or horseshoes to tasty horse treats.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "4b370920-2426-5d65-bc84-3447d1ba0fa2": {
+    "id": "4b370920-2426-5d65-bc84-3447d1ba0fa2",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Journal",
+    "cost": 100,
+    "description": "A self updating journal of the animals and magical beasts you’ve encountered providing a fact file about them including their behaviours, diet and habitat as well as various notes on how best to care for them.",
+    "origin": "Fantastic Beasts JumpChain"
+  },
+  "bf71e0a3-af64-5e43-ba50-cd22d5c132ab": {
+    "id": "bf71e0a3-af64-5e43-ba50-cd22d5c132ab",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Jusenkyo Water Flask",
+    "cost": 400,
+    "description": "An endless flask of Jusenkyo water. Each flask changes people into a different type of pokegirls, you’re free to select the type of pokegirl when you purchase it. After this jump, you’re free to convert them into pokegirls without the various drawbacks they’d normally have such as supernatural lust and feral state or even negative enhancements.",
+    "origin": "Pokegirls"
+  },
+  "0180581a-9914-5de9-a482-0edd496457d9": {
+    "id": "0180581a-9914-5de9-a482-0edd496457d9",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Little Bag of Dragons",
+    "cost": 200,
+    "description": "This little bag contains various types of animate model dragons that function as realistic models of any dragons that exist within the continuity, including the Hungarian Horntails, Chinese Fireballs, Swedish Short-Snouts, and Common Welsh Greens. These models can be used to roast food such as chestnuts, start fires, stalk and eat bugs/mice/rats near you",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "45bc37cc-523b-57ad-b3fd-d634723f7719": {
+    "id": "45bc37cc-523b-57ad-b3fd-d634723f7719",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Magical Monster Book",
+    "cost": 400,
+    "description": "This book is a special tome, one devised by a rather mad but determined mage. Some people aren’t content to let their fetishes be just their problem and this mage exemplified that. This book contains a range of spells that are fit for people with a certain xenophilic fetish. It’s a book for monster fuckers. A range of them, in fact, with some spells being designed for people who want to fuck monster-humanoids (monsters given human-like forms) and some spells for true teratophiliacs. This book has a variety of spells that can be cast by anyone who can spellcast and that can, among other things, give monsters humanoid forms and a range of abilities that are designed to make them more desirable by humans. These spells have a number of useful, practical applications for people interested in monsters, including things to make sex with monsters feel pleasant (even if monstrous anatomy is wildly different from your own) as well as spells that are arcane stimulants for monsters, and some non-sexual ones such as ways to help heal and protect monsters and to speed the growth rate of useful biological materials such as dragon scales or phoenix feathers, but everything has a bit of a lewd bent to differing degrees. This book also contains insightful notes on monster-rearing and has a back section that is filled with notes on meal preparation and potion-making for monsters and monster admirers alike.",
+    "origin": "World of Lewd Witchcraft Jump"
+  },
+  "8748920f-3b10-57e7-8521-4963dda25ab8": {
+    "id": "8748920f-3b10-57e7-8521-4963dda25ab8",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Monster Spray",
+    "cost": 200,
+    "description": "You have a curious bottle of refilling spray. This spray has two distinctive “modes” and you mentally select which mode you are using when you pick up the bottle. One of the modes is a repelling spray, a spray that disgusts and repels magical creatures, and the other mode is an attraction spray that improves your sexiness relative to magical creatures. These sprays work on magical humans but to a noticeably lesser extent than they work on non-human magical creatures. You can also decide the kinds of creatures each puff of this spray has the most effect on, such as using it to strongly repel centaurs or to wildly attract dragons.",
+    "origin": "World of Lewd Witchcraft Jump"
+  },
+  "7dbe70ae-7342-55a4-b9d6-201f1d57884b": {
+    "id": "7dbe70ae-7342-55a4-b9d6-201f1d57884b",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Monstrous Book of Monsters",
+    "cost": 200,
+    "description": "The Monster Book of Monsters is a particularly vicious sentient textbook that can incorporate qualities of various creatures. This version of the book is a bit different then other versions. The book can gain the abilities and mannerisms of various creatures. For example, feeding it demiguise fur and it’ll be able to turn invisible, feed it demiguise blood and it’ll be able to predict the (near) future as well. This lets you turn the book into a chimeric book-shaped creature. The book is quite informative, but usually difficult to access due to its aggressive nature. This copy, while quite vicious to others, seems incredibly loving and caring towards you acting almost like a puppy or a kitten. This book thoroughly enjoys having its spine stroked, and updates each Jump gaining new information.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "33f1cc40-e59b-5968-bfdd-2d17c384afc1": {
+    "id": "33f1cc40-e59b-5968-bfdd-2d17c384afc1",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Monstrous Medical Kit",
+    "cost": 400,
+    "description": "This doctor’s bag is filled with a lot of different magical implements and it is appropriately enchanted and charmed to be able to fit these tools with ease. These tools allow you to do a lot, and come with medical texts keyed to various kinds of magical and supernatural creatures that allow you to know how to care for a number of supernatural beings. This handy item’s medical supplies mystically replenish themselves over time, and when using them you find that you are subtly enhanced in your bedside manner and how deftly you treat all sorts of creatures in a medical context. One important function of this is that you can test someone’s fertility and, if necessary, create a series of treatments to improve it. This even improves the strength and health (as well as other abilities and stats) of offspring such treated lifeforms produce. You can use this on yourself, if you want. It’s possible to use this on humans though it’ll never be as effective on humans as it is on non-humans.",
+    "origin": "World of Lewd Witchcraft Jump"
+  },
+  "df0d09d7-5935-5a3e-a1b8-dd5685f571c5": {
+    "id": "df0d09d7-5935-5a3e-a1b8-dd5685f571c5",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Padfoot’s Gear",
+    "cost": 100,
+    "description": "This long, thick cloak is used by highwaymen and members of the Herrimault alike. It keeps the body warm and the face hidden, to supernatural levels in fact. This simple cloak can allow the wearer to survive in even arctic temperatures, regardless of what they have on under the cloak, and it can keep the wearer’s face cloaked in darkness even when a flame is being held right before their face.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "cbd53945-6ac3-5c4e-841a-93a452910ee0": {
+    "id": "cbd53945-6ac3-5c4e-841a-93a452910ee0",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Shepherd’s Crook & Bell",
+    "cost": 200,
+    "description": "The venerable shepherd’s crook is a tool that has lasted for about as long as mankind and other races have domesticated animals. You have a truly ancient example of such a crook, perfect for both catching and pulling along your herd in case of obstinacy or a sheep getting itself stuck in a shrub, and strong enough to crack open an orc’s skull without breaking itself. Tied to the crook is a small silver bell. The tinkling of the bell, when you shake with intent, causes the animals you’re watching and herding to gather at your feet immediately. All other attempts to make the bell ring simply see it noiselessly shaking, because it has one other helpful use: Should there be an imminent threat to you or those you call your ‘flock,’ the bell will begin incessantly ringing, louder than it reasonably should.",
+    "origin": "Warhammer Fantasy - Halflings Of The Moot"
+  },
+  "863cf156-b1c5-5d08-8576-2d2eb24d96a5": {
+    "id": "863cf156-b1c5-5d08-8576-2d2eb24d96a5",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Shield of the Wyrm",
+    "cost": 200,
+    "description": "This is an akaviri style shield, crafted from the scales of a slain dragon. Though it is enchanted to grant a strong resistance to magic, its real strength is shown when used against dragons. It will render its user completely immune to dragonfire. Though, the creators may have forgotten that fire is not all of a dragon's tricks.",
+    "origin": "TES: Dovah"
+  },
+  "caec8bca-3234-5414-838c-7be38ddd8bb6": {
+    "id": "caec8bca-3234-5414-838c-7be38ddd8bb6",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Sukebe’s Staff",
+    "cost": 800,
+    "description": "While this staff was never owned by Subebe and in fact never existed before you purchased it, it has the power to spread the pokegirl curse to other worlds. By planting the staff on the ground and channeling a large amount of mana into it, you can ‘rewrite’ history and turn a large percentage of the area’s females into pokegirls. While you and your companions will remember the area’s true history, as much as you knew it before, most people will remember the altered history. The more mana you pour into the staff, the larger the area you can alter and the further back in their fake history you can push the change. It takes about as much energy to change things as it does to destroy them so it might be a while before you’re changing entire worlds at once. You may choose not to inflict the need for sex if you wish.",
+    "origin": "Pokegirls"
+  },
+  "b12f62a1-6559-56e4-89fe-ba5a704220ca": {
+    "id": "b12f62a1-6559-56e4-89fe-ba5a704220ca",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Take The Shot",
+    "cost": 200,
+    "description": "This handheld video camera is guaranteed to take high definition shots of whatever you aim it at. It’s lightweight and unaffected by the environment, allowing you to record creatures in their natural environments. Whether you’re recording underwater, or in an active volcano, it’ll never affect your production values.",
+    "origin": "The Wild Thornberrys"
+  },
+  "2a83c8b3-ef3d-5a30-8535-fba815dd8d94": {
+    "id": "2a83c8b3-ef3d-5a30-8535-fba815dd8d94",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "The Mane of the Purebreed",
+    "cost": 400,
+    "description": "Strands from the mane of the mount of Gilles le Breton, these hairs can be woven into the hair or scales or hide of any other mount to grant it imbued powers. When woven in such a way, they will greatly increase the strength, speed and fortitude of the mount that has been gifted with them, empowering them to supernatural levels of ability or, if they are already so strong, boosting them to even greater heights.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "49f6cb6d-4945-53f6-a4f6-07ced7cb1411": {
+    "id": "49f6cb6d-4945-53f6-a4f6-07ced7cb1411",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "The Ring of Hircine",
+    "cost": 200,
+    "description": "This doesn’t look like it’d be much use to a man of the sword now does it? This is a single silver ring with a wolf’s head on one side of it. Though at first this seems a mere trinket it grants great power to those that bear the curses of Hircine. While being worn the ring allows anyone inflicted with the curse of Lycanthropy (whether it be Ursine, Lycan, or some other variant) to exert perfect control over their transformation. A werewolf could transform in broad daylight and choose to switch back whenever they want.",
+    "origin": "Elder Scrolls Skyrim SB Jump"
+  },
+  "9a23d234-6d36-59c4-a210-10ecc5575fc8": {
+    "id": "9a23d234-6d36-59c4-a210-10ecc5575fc8",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Unicorn Blood",
+    "cost": 200,
+    "description": "Both blessed and cursed, the blood of a unicorn can extend the life of the dying keeping even the drinker alive even when an inch from death, normally due to slaying something pure and defenceless to save yourself, you would have but a half-life, a cursed life, from the moment the blood touches your lips. Luckily for you this self-refilling bag of blood has been ethically sourced, preventing the curse from taking effect.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "dae15e52-7e29-5a74-9700-d799ee2a4e6f": {
+    "id": "dae15e52-7e29-5a74-9700-d799ee2a4e6f",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "Bee Hive",
+    "cost": 0,
+    "description": "If there's one thing people like, it's honey. Now, you'll never have to worry about running out, as these three beehives are always filled with some busy bees, allowing you to extract a large amount of honey daily. The bees themselves never run out, making them useful for any alchemist.",
+    "origin": "The Elder Scrolls Series 1.2."
+  },
+  "e12db7b5-3cb6-569a-ace5-c01e4e82b66f": {
+    "id": "e12db7b5-3cb6-569a-ace5-c01e4e82b66f",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "Campfire",
+    "cost": 0,
+    "description": "The perfect place to be, after a good day's hunt. This summonable campfire will always possess a comforting warmth that spreads throughout the whole body, and any food cooked here will always be delicious. If you've got some friends, maybe you can gather around it and sing a few songs.",
+    "origin": "TES_ Werebeasts"
+  },
+  "9e5be94b-21b8-57f3-8acd-6d2c8affb4e3": {
+    "id": "9e5be94b-21b8-57f3-8acd-6d2c8affb4e3",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "Charmed Wizarding Tent",
+    "cost": 200,
+    "description": "These tents are charmed so that although they appear to be regular tents made from sheets of fabric and metal frames they are larger inside than they look from the outside. Internally they look somewhat like a small home with beds, chairs, tables, and a kitchen. Once set up these tents would normally require every occupant to exit and partial disassembly before they can be moved but this version will allow it to be moved without issue and so long as the entrance way is set up it can be exited and entered at will.",
+    "origin": "Harry Potter Movie Series Jump"
+  },
+  "cd85fee7-759f-5f42-ad29-9e8daf47fcf5": {
+    "id": "cd85fee7-759f-5f42-ad29-9e8daf47fcf5",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "ComVee",
+    "cost": 600,
+    "description": "Your very own motorhome with infinite fuel, large enough to fit you and all your companions with a minimal amount of stepping on each other's toes. This vehicle comes with inflatable tubing, allowing it to drive through rivers and lakes with ease. Additionally the paint job on the ComVee will adjust itself to always function as camouflage appropriate to its environment. Though anyone taking a dedicated look won’t be fooled, it’s great at having local predators pass their senses right over it.",
+    "origin": "The Wild Thornberrys"
+  },
+  "76cadec6-1f4c-5437-9df2-f7c8ab349847": {
+    "id": "76cadec6-1f4c-5437-9df2-f7c8ab349847",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "Dog House",
+    "cost": 0,
+    "description": "Despite its name, it doesn't have to house a dog, but rather any pet that isn't big enough to be ridden. Any animal that stays in here will be faster and stronger than before, as well as being more resistant to damage and disease. It's also filled with numerous toys and food bowls that are refilled each day.",
+    "origin": "The Elder Scrolls Series 1.2."
+  },
+  "9b8b6d99-eace-5d52-9f24-e3997b0df21f": {
+    "id": "9b8b6d99-eace-5d52-9f24-e3997b0df21f",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "Dragonsreach",
+    "cost": 400,
+    "description": "Crafted in the ornate wooden style of the great Nord longhouses of ancient days, this palace was built in order to house the captured dragon Numinex. It holds all of the amenities you’d expect from a palace, from the main hall to numerous guest rooms, an extensive kitchen and larder, even an area made exclusively for the court mage. Despite its construction, Dragonsreach is extremely resistant to fire, as well as magic in general.",
+    "origin": "TES: Dovah"
+  },
+  "25da9a47-e0a4-5c5c-be6a-da41ac56c8ff": {
+    "id": "25da9a47-e0a4-5c5c-be6a-da41ac56c8ff",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "Dragonstone",
+    "cost": 100,
+    "description": "An ancient stone tablet held within Bleak Falls Barrow, this is a detailed map for dragon burial sites. Though you may think it to be useless in future worlds, the engravings will change, leading you to at least one draconic burial site no matter what kind of world you are in. Whatever uses do you have for the remains of a dragon?",
+    "origin": "TES: Dovah"
+  },
+  "2454306f-4fdc-568a-a392-0fd69656a803": {
+    "id": "2454306f-4fdc-568a-a392-0fd69656a803",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "Horse Stables",
+    "cost": 100,
+    "description": "The best mode of transportation for those who don't want to walk everywhere, mounts don't have to just be horses. These stables can hold three mounts comfortably, and always has enough food and water for them to be well fed. Any mounts that spend time here will find themselves with more stamina, and can run faster even than before.",
+    "origin": "The Elder Scrolls Series 1.2."
+  },
+  "afacf13f-b709-5424-b485-5f27457f81b7": {
+    "id": "afacf13f-b709-5424-b485-5f27457f81b7",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "Milk Bath",
+    "cost": 200,
+    "description": "Wandering around this world is a dangerous and tiring experience, something that can easily leave people feeling all dirty and sullied from the corrupted monsters they encountered. But clean water has grown rare with the corruption of the lake and the demons’ magic preventing any rain. The solution to this problem is quite simple; bathing instead in the plentiful sheep’s milk produced by villages such as Owca. Acquired from one such village, you’re now the proud owner of an enormous circular container acting as a bathtub, full of hot steaming milk. It never seems to go bad, being continually refreshed with fresh milk for your use, though you could empty it to fill with a different kind of milk (or even water) if you were so inclined. The sheep’s milk itself has curing roperties, and is particularly ideal for purging brave demon fighters from any taint they may have caught, if you were inclined to wash them (or yourself) clean.",
+    "origin": "Corruption of Champions jump v1.1"
+  },
+  "253e93ed-77d6-5176-bc4b-945283d08b65": {
+    "id": "253e93ed-77d6-5176-bc4b-945283d08b65",
+    "sourceId": "the_celestial_physiologus",
+    "edition": "default",
+    "chapter": "Vivariums",
+    "name": "Sunken Island",
+    "cost": 300,
+    "description": "With a gesture, you can cause this mile-long tropical island to sink below the surface of the water and vanish. With another, you can cause it to resurface in any body of water that can accommodate its size. All structures, fauna and vegetation will survive this process intact and undamaged in a sort of temporal stasis, though sapient creatures are not similarly protected.",
+    "origin": "The Pirates of Dark Water jump v1.1"
+  }
+}

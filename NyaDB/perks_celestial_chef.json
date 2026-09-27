@@ -1,0 +1,772 @@
+{
+  "a4542f77-4938-58cc-a04b-5ef92b60cda6": {
+    "id": "a4542f77-4938-58cc-a04b-5ef92b60cda6",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "A Heroes’ Feast",
+    "cost": 300,
+    "description": "When you share a meal with your allies and friends, you make it easier to build a deeper feeling of comradery between yourself and them and any participating in the meal are revitalized and will quickly heal as the food and nutrients are quickly absorbed and used to promote healing. You and the other participants of the meal are able to eat more than your stomachs could normally hold with no negative side effects, even those without a stomach or mouth can potentially share in this meal.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "7444359e-57cc-56d3-8f3f-778cd6b459f4": {
+    "id": "7444359e-57cc-56d3-8f3f-778cd6b459f4",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Better Ingredients",
+    "cost": 100,
+    "description": "Ingredients you purchase, harvest, or otherwise obtain tend to have a higher quality than they otherwise would. It also means that nothing you ever obtain will come to you rotten, moldy, or otherwise in a state of inedibility. You also know several ways to improve on the flavor and seeming quality of ingredients, such as special marinades, dry aging processes, fermentation, and the like that can all make a lower quality ingredient the equivalent of a higher quality one.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "6ca851c1-ed09-58b3-a36f-c7a9c3c0843f": {
+    "id": "6ca851c1-ed09-58b3-a36f-c7a9c3c0843f",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Big Bite",
+    "cost": 200,
+    "description": "Your jaws are incredibly strong and your teeth both unbreakable and everclean. It’s not just your teeth that are strengthened, however, your bones are much more resilient, though not unbreakable, and have far stronger ligaments and tendons attached to them. You are capable of stretching your jaw to allow for much larger bites and can apply enough force to crack rocks with just your teeth and jaws without much strain. Finally, you can eat just about anything and extract some measure of nutritional value from it, even dirt and stone.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "2612a45a-5406-5b6f-ae3b-7717b92ae0ad": {
+    "id": "2612a45a-5406-5b6f-ae3b-7717b92ae0ad",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Brewmaster",
+    "cost": 100,
+    "description": "Beverages are an integral part of any meal, be it simple water or brewed teas or an expensive wine, and you know how to make such things and how to pair them with and compliment a meal. You also know how to effectively age a beverage to make it better. Beverages you make tend to be more refreshing as well. This will also make any potions, serums, and elixirs that are ingested more effective in general.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "17954ec4-73bd-5d75-a8c6-c563b9d0a258": {
+    "id": "17954ec4-73bd-5d75-a8c6-c563b9d0a258",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Butchery",
+    "cost": 100,
+    "description": "You are a skilled butcher, with an equal amount of skill to your abilities as a chef as a bare minimum. Additionally, your knowledge of anatomy and how to break down a creature allows you to target weaker spots on your foes and deal much more damage as a result. This will even work on creatures you haven’t personally butchered or studied the anatomy of before, though at reduced effectiveness.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "e6ff10af-0fb0-524a-8653-879c1f61ba14": {
+    "id": "e6ff10af-0fb0-524a-8653-879c1f61ba14",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Can’t Stand the Heat",
+    "cost": 200,
+    "description": "You have a high resistance to heat and flame. Temperatures up to five hundred degrees (Fahrenheit) would be completely comfortable to you. Even higher temperatures, such as red hot iron, would still only be painfully uncomfortable rather than harmful. You are also immune to the negative effects of smoke inhalation. Regular exposure to higher temperatures will increase this resistance further, albeit slowly.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "3b7c8a84-d948-5c9b-87ee-19532eec4ecf": {
+    "id": "3b7c8a84-d948-5c9b-87ee-19532eec4ecf",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Champion Chef’s Title",
+    "cost": 200,
+    "description": "Once a year, Mootland hosts a competition. A grand festival is held around the same time as the best chefs in halfling history go head-to-head in grand cook-offs. For attendees, it’s a grand chance to try a variety of new foods (and maybe swipe some for the larder); For the chefs, it is a deathly serious matter of honor and skill, with many training for years upon years in preparation for the competition. You must have won this championship in the past, for you have two things: The title of ‘Champion Chef,’ giving you a mythical reputation for the finest cuisine to win the hearts of The Moot. The second: The Champion Chef’s Cleaver, a massive butcher’s knife that would almost be a sword in a halfling’s hands. This Cleaver is, despite its great size, deceptively light and perfect for just about every job a knife is required for in the kitchen. On the field of battle, the Cleaver cuts through flesh and bone as easily as it cuts apart meat on the butcher’s block, and treats heavy armor like the crust of bread.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "76c1673b-8112-52ff-912f-d55eb6215b4e": {
+    "id": "76c1673b-8112-52ff-912f-d55eb6215b4e",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Cleaning Talent",
+    "cost": 100,
+    "description": "Given the importance of hygiene and sanitation of the environment, this is extremely useful and handy. In short, you find that you know a variety of well-known, improvisational, and expert forms of scrubbing and cleansing various objects and equipment. You’ll also find in later worlds that you can also apply your skills here to get a sharp boost in cleaning up any environments or structures of harmful and hazardous materials. With enough time and practice, you could probably find a way to even clean out the most dirty of scientific and magical objects to make them look nice and still function.",
+    "origin": "Generic Restaurant Ver 1.0 (Tri-Sevon Edition)"
+  },
+  "b01ce7cd-9c6e-57fa-a6d5-611ac1adfa81": {
+    "id": "b01ce7cd-9c6e-57fa-a6d5-611ac1adfa81",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Creature Comforts",
+    "cost": 100,
+    "description": "In the kitchen, there can often be a great deal of stress, both physically and mentally, which can lead to a wide variety of aches and pains, not to mention the smells that can sometimes be overpowering when mixed together and the heat that lingers. You, however, are immune to these small aches and pains, headaches, and will find that small nicks and cuts just don’t happen to you, though more serious ones still will.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "c33276d6-a968-5879-9fef-1beddcdd53fa": {
+    "id": "c33276d6-a968-5879-9fef-1beddcdd53fa",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Culinary Arsenal",
+    "cost": 200,
+    "description": "An array of combat ready knives, mallets, hatchets, and similar such weapons as well as a few consumables such as smoke and pepper bombs, throwing syringes that can inject a variety of substances, and even some simple drinks that give a bit of stamina recovery or healing. Restocks weekly and can be upgraded.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "a4b361cd-a322-5096-8b02-1e534fa7cefe": {
+    "id": "a4b361cd-a322-5096-8b02-1e534fa7cefe",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Culinary Craft",
+    "cost": 100,
+    "description": "The halfling appetite is a dark omen, for the little shites are capable of eating even themselves out of house and home with nary a second thought. But with this deep gullet and voraciousness comes an appreciation for cooking and those willing to toil in the kitchen. As a Cook, you’ve gained a particular set of skills - skills dedicated towards the expert and expedient preparation of food. Whether you’re making a constant stream of meals for a country fair, a vast feast to celebrate a victory, or just a humble dinner for two on a winter’s night, you know how to make a good meal for every one of the halfling hours. Breakfast, Second Breakfast, Elevenses, Luncheon, Afternoon Tea, Dinner, or Supper, it matters not the time.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "5862bf64-9753-57fd-b97c-6e68db20920f": {
+    "id": "5862bf64-9753-57fd-b97c-6e68db20920f",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Fast Food",
+    "cost": 300,
+    "description": "So long as you have all of the ingredients or materials to make something, you can convert them into a finished product in only a few moments. The quality of the finished product will be less than your best efforts, but will take your skills and the quality of the ingredients used in its creation. This will work for anything you attempt to create, not just food.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "5108254e-d4aa-5518-a2d8-e37765efe1c8": {
+    "id": "5108254e-d4aa-5518-a2d8-e37765efe1c8",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Icebox",
+    "cost": 200,
+    "description": "You have a high resistance to cold and ice. Temperatures down to negative two hundred degrees (Fahrenheit) would be completely comfortable to you. Even lower temperatures would still only be painfully uncomfortable rather than harmful. Additionally, you have a greater resistance to higher or lower pressures. Regular exposure to lower temperatures will increase this resistance further, albeit slowly.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "f46c29a7-4a55-5394-83c9-e55b030de97e": {
+    "id": "f46c29a7-4a55-5394-83c9-e55b030de97e",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Lean and Green",
+    "cost": 100,
+    "description": "It was difficult, growing up in the dark and feeding on bugs. Your lack of a paunch, the thing that got you thrown into these caves, is also what saved you. You don’t need much food to survive, despite having a gnawing hunger for more no matter how full you are. A handful of bugs or tree roots can keep you going as a healthy diet, despite your great size and energy exertion depicting otherwise. Even if you grew bigger or needed more to stay healthy, you’d always be able to survive on far less than others in the same situation might need.",
+    "origin": "Warhammer Fantasy - Ogre Kingdoms JumpChain"
+  },
+  "ae481254-fe24-5a6f-bc9b-c88c6b847301": {
+    "id": "ae481254-fe24-5a6f-bc9b-c88c6b847301",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Made With Love",
+    "cost": 300,
+    "description": "You have obtained the ability to distill a concept, moments, feeling, or bit of magic into an ingredient you can add to a meal, adding a unique flavor that calls to mind the concept, moments, or feeling used to make it. Such distillates are highly magical in nature and can have effects all their own or be used to enhance the magic of a spell, alchemical, enchantment, or meal considerably, making them quite useful magical reagents. If these distillates resonates with what they’re used in, it can increase one or more parameters by a significant margin, possibly up to ten times if the resonance is perfect.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "8ff49869-346e-56d7-9313-581a2134937e": {
+    "id": "8ff49869-346e-56d7-9313-581a2134937e",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Making Do",
+    "cost": 200,
+    "description": "You know how to process normally poisonous or inedible things to make them safe to eat, and possibly even palatable if you are good enough. More than this, however, you know how to leave just enough poison that it can be used like a seasoning, as is the case with pufferfish, or how to extract the poison for your own use in other situations. You are also trained in how to use poisons safely, effectively, and easily.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "57108e49-4377-5ace-b403-55d4eeda4389": {
+    "id": "57108e49-4377-5ace-b403-55d4eeda4389",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Not The Hot Pot!",
+    "cost": 200,
+    "description": "Originally a weapon born of desperation, the Halfling Hot Pot has since become a staple in Mootland brigades. None can even say for certain how this bizarre artillery weapon was born, except that it involved a halfling chef, a goblin army, and the sacrifice of a hot meal. But Grom the Paunch learned to fear what a cornered chef could concoct that day. As a chef, you have gained two things: The first, your own Hot Pot recipe. The ammunition used for the soupy artillery varies from chef to chef, who guard their secret well. But be it sticky and gloopy or scorching hot, the Hot Pot is a soupy projectile that melts through flesh and the regenerative bodies of Trolls just as easily as it warms the hearts of a Cook’s hungry crew. The second: You gain a frightening skillset, one that would make most Halflings declare you a wicked and heartless monster for defiling the good name of every scheduled meal ever. You know how to take simple ingredients and food, and can create dishes that both feed the body and mind, and can be used as deadly weapons in the next instant. How? The Hot Pot is just one such example, but there is also the Black Pepper Spray invention - turning a useful, tasty, and blisteringly hot kitchen spice into a scalding and stinging solvent in battle",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "0588d137-42a8-55f3-bf0a-7577f2da10a3": {
+    "id": "0588d137-42a8-55f3-bf0a-7577f2da10a3",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Nutritionist",
+    "cost": 100,
+    "description": "You know how to balance a meal to have proper nutritional values without sacrificing flavor, as well as how to increase the bioavailability of ingredients with lower bioavailability. You also know how to substitute ingredients to get around allergies or dietary restrictions, again without sacrificing flavor. This can also apply to non-food items if you so desire.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "5c267c74-12eb-5419-b086-0c436d461b84": {
+    "id": "5c267c74-12eb-5419-b086-0c436d461b84",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "On-The-Fly Cooking",
+    "cost": 100,
+    "description": "This skill lets you create edible treats quickly from anything in your present surroundings. You’ll always find some ingredients to scrounge up and prepare in a hurry, even if your location isn’t the best. If you want your food to have a specific sort of effect, you have a higher chance of your concoction having those properties, but otherwise the effects will be fairly random.",
+    "origin": "Wonderland No More JumpChain"
+  },
+  "54485eb3-e45d-5d79-9dc9-ba3d398586c2": {
+    "id": "54485eb3-e45d-5d79-9dc9-ba3d398586c2",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Peaceful Living",
+    "cost": 100,
+    "description": "There’s something to be said about the little people, living unimportant and yet peaceful and fulfilling lives. Still, you’d be surprised how much skill is needed in such unremarkable lives. Cooking, cleaning, the occasional repairs, and even farming and construction too. The lives of the little people are more rich than the mighty heroes and villains of this world might think. And it wouldn’t do for you to be a bad host, no? After all, if someone big and famous shows up, you have to pay proper hospitality. But don’t worry, you’re a master at all the domestic tasks expected of a host, and even without having guests over, you’d be able to live the life of hobbits with no issues at all, save the uncontrollable and unexpected..",
+    "origin": "The Hobbit - There And Back Again"
+  },
+  "c1b9f5fc-5715-535c-9015-f5f11ffddc65": {
+    "id": "c1b9f5fc-5715-535c-9015-f5f11ffddc65",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Precision Cutter",
+    "cost": 300,
+    "description": "With meat and vegetables, especially among similar items to them...One would need strength to cut, slice, and chop things very carefully...So this allows you to just do that, making sure you have the precise aim, speed, and power needed for either singular or multiple cuts into any ingredient. Outside of cooking, you find that you also have talent in cutting various materials like metals, woods, fabrics and other things. You also are able to do very precise work like threading needles, wielding, and being accurate with melee and projectile attacks.",
+    "origin": "Generic Restaurant Ver 1.0 (Tri-Sevon Edition)"
+  },
+  "28d34b9c-88b7-503d-807c-d37cf16f760e": {
+    "id": "28d34b9c-88b7-503d-807c-d37cf16f760e",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Pricing & Finance",
+    "cost": 300,
+    "description": "With regards to making money with cooking, you need to be able to figure out what would be the best general prices to sell your meals to the customers, but also with spending to get supplies, pay staff, and operate things... So this allows you to become more akin to a walking calculator. You can easily factor in various conditions and details to help sort out which prices to go with depending on the case, but also keep yourself and your business out of the red as well. This also offers a sharp boost to reading, studying, and learning on various subjects, while being open to also figure out how to improve things using resources other than cash/money.",
+    "origin": "Generic Restaurant Ver 1.0 (Tri-Sevon Edition)"
+  },
+  "fe74f49e-371e-5cb4-8b81-545c4a31eae3": {
+    "id": "fe74f49e-371e-5cb4-8b81-545c4a31eae3",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Server's Apron",
+    "cost": 200,
+    "description": "A cute little server’s apron for you to wear while you’re serving food and smiles to lovely customers, when you wear this, customer service is a breeze to you, people will be raving about your speed and bubbly personality",
+    "origin": "Bob's Burgers Jumpchain V 0.1"
+  },
+  "607c39f0-d059-5864-8b63-1fd73e63a63b": {
+    "id": "607c39f0-d059-5864-8b63-1fd73e63a63b",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Shorkn Swampmaster",
+    "cost": 0,
+    "description": "Ogres learn to get along with and aid the Halflings, knowing that their culinary craft will feed them for ages. Other ogres instead come to Mootland to learn how to cook with the same skill as the Master Chefs. Shorkn belongs to the latter, and has just graduated from his apprenticeship to one of the Champion Chef title-winners of The Moot. The large, jolly ogre’s skill in the kitchen can only be described as SUPREME, enough that he essentially has the entirety of the Cook’s perk line. In addition, this hash-slinger has The Cookbook full of his teacher’s recipes, and an excessively-large cooking knife with the same capabilities as the one listed in Champion Chef’s Title. Having completed his apprenticeship, Mister Swampmaster now wishes to ply his cooking trade elsewhere in the Empire and the world. Perhaps, in your employ, he could be of great service to worlds beyond.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "e2d97ac2-7014-5003-9521-e38e4150d230": {
+    "id": "e2d97ac2-7014-5003-9521-e38e4150d230",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Sylvi Greenhaze",
+    "cost": 0,
+    "description": "Sylvi Greenhaze is the timid younger sister of Orberon Greenhaze. She was one of the elves captured by the dwarfs where she spent most of her time in the dwarven gardens and kitchens in order to grow ingredients and make soup only to be rescued by the Overlord. She has an interesting attraction to darker styles, enjoying wearing grunge clothing and having a panic attack if her collar is removed. She is immensely devoted and loyal to you her master and is happiest when being thanked for making food for others.",
+    "origin": "Overlord (Game) Fanfic Jumpchain"
+  },
+  "df136413-ddaf-5845-b17f-82d2a8c6311e": {
+    "id": "df136413-ddaf-5845-b17f-82d2a8c6311e",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "The Cookbook",
+    "cost": 100,
+    "description": "A good chef keeps their recipes on hand, while also knowing them by heart, and occasionally with adding a bit of estimation and guesswork to the pot. A halfling chef does all this while also bearing in mind that sometimes you’ll be missing ingredients due to a roguish cousin or five. You have yourself a massive, arcane-looking tome of considerable age that is... Just a cookbook. A tome of culinary recipes, ranging from savory to sweet, spicy to sour, gentle and mild to overwhelming-the-senses, for all possible courses and pairings. As well, you’ll find that this is no mere cookbook. As you create and discover new recipes, they will automatically be catalogued within the massive book - and as you discover how to adjust, modify, and rearrange said recipes (such as adjusting ingredient amounts to create a different flavor palette entirely, or substituting one ingredient for another making for an equally delicious result), said revelations will be manifested in said book as footnotes and sidemarks.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "a45c9c80-aa39-55c9-b7e2-75322af57bd9": {
+    "id": "a45c9c80-aa39-55c9-b7e2-75322af57bd9",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Time to Cook",
+    "cost": 200,
+    "description": "Wonderland’s sense of time is kind of screwy, and it’s perfectly reasonable for a chef to go out for a midnight quest to a mountain for an egg and get back before the pot boils over. This perk essentially slows down the progression of time from a narrative standpoint as long as you are focusing on making food – that includes everything from acquiring ingredients to preparing the food to setting the table. This does not slow or freeze the movements of those around you, but it basically means that as long as you are focused on cooking, you’ll finish everything on time and nothing will interrupt you. For instance, if you are cooking a special potion to boost your troops in time to stop an invasion, you’ll get the potion ready on time even if the siege was just an hour away. When you stop doing food-related things, time returns to its normal pace; spell preparations technically count as “cooking” by Wonderland rules, though.",
+    "origin": "Wonderland No More JumpChain"
+  },
+  "91aa0e5b-6894-5013-9f25-54b5e623d264": {
+    "id": "91aa0e5b-6894-5013-9f25-54b5e623d264",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Utilimancy",
+    "cost": 200,
+    "description": "You have mastered the art of utilimancy. An oft forgotten school of magic, utilimancy is more commonly known as household magic and is used for maintenance and upkeep, including cleaning, repairs, a minor form of telekinesis, and, most importantly, cooking. Utilimancy can be used to replace a wide variety of utensils and tools meant for the cooking process and can replicate many modern day tools used in the kitchen. It also gives a very minor form of elemental magic in each of the four main elements. The equivalent of creating sparks to light a fire.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "23faa43d-c6e8-5036-8b44-ad583232a27e": {
+    "id": "23faa43d-c6e8-5036-8b44-ad583232a27e",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "WE’RE OUT OF BACON?!",
+    "cost": 200,
+    "description": "If there’s one tragedy, one of the most horrifying moments that can occur in a kitchen: It’s discovering that you’re out of crucial ingredients. And this is something that happens more frequently than it should in a halfling household, as grubby little hands snatching up food for a mid-day snack is a common practice. Yes, even the bacon you were using to wrap that fully-plucked turkey. Also yes, the turkey is gone too. But no matter. Cooking, in a halfling community, is a communal effort - sometimes even with the contributing party not even knowing what got nicked out of the larder. You’re always able to find the right ingredients you need for a dish or kitchen-oriented activity, so long as you either ask a neighbor or family member, or manage to find yourself in their larder or pantry by any means necessary. Out of that oak-smoked ham? Your uncle down the street will have some, even if he ordinarily hates ham. Need fresh fruit? Your cousins and next-door-neighbor just returned from the fields with a fine harvest and won’t mind at all if you need to borrow a pumpkin or five for the casserole. Just uh... If you take it without asking, make sure they never find out.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "0ab54043-3e23-5e94-9566-120db59189eb": {
+    "id": "0ab54043-3e23-5e94-9566-120db59189eb",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Cooking",
+    "name": "Well Fed",
+    "cost": 100,
+    "description": "Years of proper nutrition, exercise, and self care have allowed you to develop an ideal physical condition, giving you an impressive physique. You are stronger, faster, and tougher than what is considered the peak of humanity into the realms of what comic books consider peak human ability. Your physical condition will not degrade from disuse or suffer from atrophy to any significant degree.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "df22f1ba-216a-5a53-9369-8fcd3664ced7": {
+    "id": "df22f1ba-216a-5a53-9369-8fcd3664ced7",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Black Pepper Spray",
+    "cost": 0,
+    "description": "An extremely hot spice used in a great variety of Halfling dishes; If not sprinkled in carefully, the heat of the pepper can dissolve the stomach of a common Tall One - which means it comes to no surprise that the Halflings love it so much. It can even be weaponized: You have a canister of black pepper distillation, capable of spraying its hot, toxic payload a solid five feet away from the user. The spray, on contact with any sort of organic surface such as skin or eyeballs, begins to stick to it and burn the everloving shit out of it. Spray it on an orc’s face and you’ve got the big green bastard rolling on the floor crying. The spraying canister never runs out of its black pepper distillation.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "e1dc7e2c-e1f5-57f8-ac76-76ff26d9d862": {
+    "id": "e1dc7e2c-e1f5-57f8-ac76-76ff26d9d862",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Bloody Utensils",
+    "cost": 100,
+    "description": "A full set of knives, forks, plates and bits and bobs to find in the kitchen. These are the tools of the trade for every butcher, for use in both cutting up meat for a feast and for cutting up soldiers for a feast. They really have one purpose. They’re all sturdy enough to stand up to even a Tyrant banging away with them and hellaciously sharp for anything with an edge, such that some of these knives could get through an Ogre’s skin with a couple stabs.",
+    "origin": "Warhammer Fantasy - Ogre Kingdoms JumpChain"
+  },
+  "210f14c5-c011-5055-834c-b19578f9dfda": {
+    "id": "210f14c5-c011-5055-834c-b19578f9dfda",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Clean and Tidy",
+    "cost": 100,
+    "description": "You have impressive organizational skills and know how to both clean and sanitize nearly anything quickly and easily, as well as knowing how to make soap from scratch. Additionally, your own skin and body is constantly being gently cleaned and sanitized, leaving you with the feeling of just having taken a shower and preventing any disease or contact poison from taking hold. This also prevents cross contamination.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "59cfcdf0-9344-5f25-8d00-10fa2509d8be": {
+    "id": "59cfcdf0-9344-5f25-8d00-10fa2509d8be",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Cornucopia",
+    "cost": 100,
+    "description": "A simple spiral cone of woven wicker, this cornucopia generates a random selection of assorted fruit, grains, eggs, cheese, and other mundane, non-meat-based produce each day, enough to feed up to twenty people for a single day. These are raw materials rather than fully prepared meals.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "12b4998d-558a-5f65-87a2-aba21ee33ec6": {
+    "id": "12b4998d-558a-5f65-87a2-aba21ee33ec6",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Home Sweet Home",
+    "cost": 400,
+    "description": "What would a host be without a house to host people in? Destitute, that’s what. And that wouldn’t do at all, would it? So with this purchase that little problem is fixed. You now own a large and luxurious home, with pantries and wardrobes enough to accommodate 14 people, replenishing each day. It can be a hobbit-hole built underground, a forest cottage of unusually skilled make, or perhaps some other style of house that you fancy. It can be wherever in the world you wish to live, although of course it’s recommended you pick a peaceful place like the Shire. If you have the ability to defend your territory from the occasional goblin raid, living in the middle of the Wilderlands, on either side of Mirkwood, would be a good way to have a nice and quiet place. You’ll have to do the cleaning and other domestic tasks yourself, but that’s a nice way to pass the time, no?",
+    "origin": "The Hobbit - There And Back Again"
+  },
+  "fc7717fc-9916-5137-98a0-249c39446394": {
+    "id": "fc7717fc-9916-5137-98a0-249c39446394",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "King of Flames",
+    "cost": 100,
+    "description": "You might not think that control over flames is necessary, but it actually is a critically important skill for chefs and many other professions. Chefs and alchemists need to master this to control the duration and temperature of the flames. Warriors need to do so to use more powerful skills and make their attacks more powerful. This perk grants you true mastery over flame control and heating. You will never lose control over a flame and you will be able to freely alter it to the smallest degree. This will aid everyone, allowing crafting professions to make superior products and combatants to become stronger.",
+    "origin": "Gourmet Of Another World"
+  },
+  "2aa9d252-10d5-587d-af03-fa7d675f744f": {
+    "id": "2aa9d252-10d5-587d-af03-fa7d675f744f",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Kitchen Space",
+    "cost": 100,
+    "description": "An incredibly well equipped kitchen that has all the high quality pots, pans, knives, utensils, and facilities necessary for cooking and baking nearly anything. Comes with simple uniforms for a number of people, with those wearing them gaining a slight improvement to their culinary abilities. The facilities and uniforms will clean and maintain themselves over the course of eight hours after they are no longer being used unless cleaned first.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "8e612293-0b32-5a4a-8f55-aa39aeae67b4": {
+    "id": "8e612293-0b32-5a4a-8f55-aa39aeae67b4",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Knapsack",
+    "cost": 100,
+    "description": "A large knapsack with a wide range of popular ingredients local to Tamriel, a few of sweetrolls and a copy of the Gourmet’s cookbook. The ingredients and sweetrolls respawn daily.",
+    "origin": "The Elder Scrolls- Skyrim JumpChain"
+  },
+  "4498d28f-b55d-5427-b4b2-b7e527cb49b8": {
+    "id": "4498d28f-b55d-5427-b4b2-b7e527cb49b8",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Meat Locker",
+    "cost": 100,
+    "description": "A simple chest that has a random assortment of meats in a wide range of cuts, as well as a consistent supply of dried sausages, plain jerky, and rendered animal fats. Other animal products such as gelatin are also present. Has a meat grinder attachment that is enchanted to be both easier to use and to be self cleaning. Restocks with new meats every week.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "1d535f1c-8cc1-5ffe-8ffa-f161590924d4": {
+    "id": "1d535f1c-8cc1-5ffe-8ffa-f161590924d4",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Mobile Brewing Pot",
+    "cost": 200,
+    "description": "A special box kit containing a somewhat large custom brewing pot that can easily accept any form of liquid matter and automatically mix and brew whatever you may desire in a quick and safe manner. Also, it makes sure it is set to the optimum temperature for serving... It also comes with a few default attachments included in the kit that can allow it to act like a chemical brewing vat or alchemy pot for example. And if needed, the attachments and main brewing pot can be modified to accommodate for specific functions.",
+    "origin": "Generic Restaurant Ver 1.0 (Tri-Sevon Edition)"
+  },
+  "41e20335-0a36-54e3-960c-464d3523c05d": {
+    "id": "41e20335-0a36-54e3-960c-464d3523c05d",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Personal Chuckwagon",
+    "cost": 200,
+    "description": "Call it what you will. The covered kitchen. The mobile cookery. Be it a travelling workforce or professional army, the noble chuckwagon has often followed in the train behind such large groups. And when it comes to the halflings, the Chuckwagon is the sacred cow of such a militia group. You have yourself in command of a Chuckwagon. Not just any Chuckwagon either, a very special one custom-made for your travels and tribulations. The wagon is pulled by a fierce and stubborn Aurochs, an ancient breed of massive bovine that has disappeared from most of the world, except for The Moot for what stroke of luck I am not sure. Regardless, your field kitchen set up in the Chuckwagon is the finest farmland quality, durable and able to withstand the tests of time and conflict. The food stored inside the wagon is, while not varied (bacon, biscuits, the kind of food that would make for easy traveling across vast distances), never seen to decay or grow mold, and restocks whenever you fully run out. Last but not least, in a stroke of mad genius: The giant cookpot that serves as the main cooking implement? Has a catapult array supplied with it, allowing you to turn the Chuckwagon into an emergency Hot Pot-thrower.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "a4228591-dcd2-5dc6-a329-fa5939ab6645": {
+    "id": "a4228591-dcd2-5dc6-a329-fa5939ab6645",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Pet Gnoblar",
+    "cost": 100,
+    "description": "A favourite little pet of yours, out of the many Gnoblars to be found. It sees you as its personal God and Master, never even considering the idea of betraying you. It’d throw itself into a fire to make you laugh. For a Gnoblar, it has surprisingly good skills at cooking too and can work as an able assistant in the kitchen. It’s also quite trusted by other Gnoblars, Goblins and small creatures, despite never having their interests in mind on the same level as it has your own.",
+    "origin": "Warhammer Fantasy - Ogre Kingdoms JumpChain"
+  },
+  "5ad21ff0-c7b1-53ba-8229-8c06afb2d12a": {
+    "id": "5ad21ff0-c7b1-53ba-8229-8c06afb2d12a",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Plate Sorter",
+    "cost": 100,
+    "description": "A special device that can collect, arrange, sort, and send out plates and various silverware. Can be set in place to help those with a set of motion and rhythm to their interiors... Or can be placed into a mobile mode that any operator can use while on the move. Also, strangely doubles as a improv weapon by firing off said tableware as ammunition if needed in various firing modes and speeds.",
+    "origin": "Generic Restaurant Ver 1.0 (Tri-Sevon Edition)"
+  },
+  "487bcf79-e419-5419-87ba-d638e42df7bc": {
+    "id": "487bcf79-e419-5419-87ba-d638e42df7bc",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Portable Heater/Chiller",
+    "cost": 200,
+    "description": "A special container item that helps maintain the heat and/or cold of a dish or meal, but can also act as a means to help regulate the temperature in a set area, like a large room inside a modest building. It also can double as an improv ‘flame thrower’ or ‘ice thrower’ if modified, thoroughly strangely...It works extremely well with both magical and technological means of throwing said elements.",
+    "origin": "Generic Restaurant Ver 1.0 (Tri-Sevon Edition)"
+  },
+  "fc1ba0b2-6386-5dc8-8a40-cc36f544dcc9": {
+    "id": "fc1ba0b2-6386-5dc8-8a40-cc36f544dcc9",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Short Stacks",
+    "cost": 0,
+    "description": "Ooh after poor Melvin popped like an overgrown zit these desperate little ladies submitted to you in exchange for protection. These Halflings are incredible cooks and have a unique talent for farming both for crops and cattle.",
+    "origin": "Overlord (Game) Fanfic Jumpchain"
+  },
+  "a2642b3e-e1e2-509b-8b7f-6694fdf4046a": {
+    "id": "a2642b3e-e1e2-509b-8b7f-6694fdf4046a",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Spice Rack",
+    "cost": 100,
+    "description": "A simple wooden rack that has glass jars filled with whole spices stored in it, as well as a mortar and pestle for grinding the spices, which is enchanted to make the grinding process significantly faster and easier while allowing the aroma and flavor of the spices to last longer. Whatever mundane spices you need can be found here, though truly expensive ones, such as saffron, are only in small quantities. Restocks weekly.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "5b6b159b-0b3b-575c-a504-19996f68b8a8": {
+    "id": "5b6b159b-0b3b-575c-a504-19996f68b8a8",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Spree Girls",
+    "cost": 0,
+    "description": "After an incident with Haystack Harriet you took the ladies of spree to become the servants of your fortress. They are proficient at cooking and cleaning but that doesn’t mean they are particularly good at it.",
+    "origin": "Overlord (Game) Fanfic Jumpchain"
+  },
+  "13f05a4d-80d7-55c0-beaa-b791a8ba063a": {
+    "id": "13f05a4d-80d7-55c0-beaa-b791a8ba063a",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Kitchen",
+    "name": "Traveling Tavern",
+    "cost": 200,
+    "description": "This is a decently sized carriage designed to be drawn by a single horse, provided with the cart. At least from the outside. The door on the back of the carriage leads to a much larger interior than the outside would suggest, a full tavern complete with a simple kitchen and sleeping quarters for twenty people with comfortable beds on top of the serving area that can easily seat up a few dozen people comfortably. The horse provided with this carriage is summonable and phantasmal in nature, and can be summoned without the cart should the need arise.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "11d559ce-4603-5f55-87c8-7eaffc5477f4": {
+    "id": "11d559ce-4603-5f55-87c8-7eaffc5477f4",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Abyssal Chili Sauce",
+    "cost": 100,
+    "description": "The Abyssal Chili Sauce is an incredibly spicy sauce provided to Bu Fang by the system. It can create a spicy flavor within any dish. Most importantly is that none are capable of resisting it. Even beings like the Netherking are unable to handle this sauce’s might. Just be careful if you give this to someone weak. For example a mortal realm cultivator can actually be killed if you use more than a spoonful. On the other hand it would take a ladle full to make someone like the Netherking cry.",
+    "origin": "Gourmet of Another World Jumpchain V2."
+  },
+  "5fd48ec6-70b1-566c-88f8-e38a9720421b": {
+    "id": "5fd48ec6-70b1-566c-88f8-e38a9720421b",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Animal Care",
+    "cost": 100,
+    "description": "A herdsman or rancher can’t call themselves such if they aren’t aware of how to care for their beasts. You know all there is to know about this particular business: How to care, pasture, and shelter your sheep, cows, and/or goats; How to efficiently milk your animals (and in the case of sheep, shear them) and store the goods safely for later use or delivery (such as milk to a cheesemaker and wool to a weaver); How to ensure your herd’s breeding stock is of high quality, so that the next generation of beasties is better than the previous; And in this dangerous world, how to keep the best sheltered and protected from predators such as direwolves, goblins, and trolls. It should also be worth stating that this does extend to herding dogs and hounds as well. As a herdsman, you’re going to need that canine help.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "3a779b5b-ef24-53be-870f-8b5d4f13fce9": {
+    "id": "3a779b5b-ef24-53be-870f-8b5d4f13fce9",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Apiary",
+    "cost": 100,
+    "description": "The art of beekeeping goes back for a great millenia, and the design of the apiary has changed many times. But its basic goal - sheltering many bee colonies - has not. You own a patch of land (an acre, to be exact) with a series of canopies and sheds, containing about ten recently-developed bee colonies.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "da75bfe2-ee20-516e-b4e1-10510349e247": {
+    "id": "da75bfe2-ee20-516e-b4e1-10510349e247",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Apple of Life",
+    "cost": 600,
+    "description": "Consuming this apple grants physical immortality – the subject’s aging permanently ceases, they become immune to all disease, and they gain an incredible regenerative capability. Such apples almost always bear a terrible curse, but you’ve been granted a rare curse-free fruit. The price is for a single apple. Trees grown from its seeds will still produce apples with impressive healing qualities (and possible use as magical reagents), and second-generation apples will be incredibly nutritious",
+    "origin": "Chronicles of Narnia"
+  },
+  "c9e5fab4-e8cf-5875-8645-e301c64d67b0": {
+    "id": "c9e5fab4-e8cf-5875-8645-e301c64d67b0",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Beekeeper",
+    "cost": 100,
+    "description": "In The Mootland, bees are kept both to ensure the pollination of the vast stretches of farmland and orchards, and so the halflings may reap a great bounty in what their buzzing friends produce. Beekeepers, as a result, have a very important job in The Moot. Without their apiaries, the farms would not be nearly as bountiful as they are now. You are well-versed in the intricate business of beekeeping. You know how to manage your population of bees, ensuring that the population never gets too overcrowded for its hive; How to prevent or encourage the growth of more queens; How to control your harvests, and ensure you end with the highest quality of honey, wax, royal jelly, and more besides; How best to shelter and insulate your hives to ensure their survival through the winter cold; And as should not come as a surprise to you in this world, how to rile your bees against an enemy. Goblins don’t like being stung, who’d have thought.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "0a823a9e-22d6-5e0a-871b-56055ca58841": {
+    "id": "0a823a9e-22d6-5e0a-871b-56055ca58841",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Bottle of Dionysus",
+    "cost": 100,
+    "description": "The god of revelry may stand out amongst the Olympian Pantheon, yet none can deny his place among them. This bottle is filled with a drink of his own making, a wine that puts all others to shame. Thankfully for all those alcoholics out there, it will never run out of this glorious liquid.",
+    "origin": "God of War - PJ Edition"
+  },
+  "7be8c5fa-c63d-55af-a0fd-921b2c474c49": {
+    "id": "7be8c5fa-c63d-55af-a0fd-921b2c474c49",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Buffyverse",
+    "cost": 200,
+    "description": "A box of 20 tasty chocolate bars. You receive another box at dawn if the previous bars have been eaten or are inedible. Eating one of these will make whoever eats them act like their immature teenage self for the next 24 hours.",
+    "origin": "Buffyverse Jumpchain"
+  },
+  "0092851a-6b01-5aa0-9b7c-78cdf2d5f688": {
+    "id": "0092851a-6b01-5aa0-9b7c-78cdf2d5f688",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Burger of the Day Recipe Book",
+    "cost": 100,
+    "description": "A Recipe Book containing every burger of the day ever made by Bob, written by Bob himself and he even signed it for you “in case it’s ever worth something.”",
+    "origin": "Bob's Burgers Jumpchain V 0.1"
+  },
+  "5c38d1b9-7a51-5bb3-b442-4c8fa005c24b": {
+    "id": "5c38d1b9-7a51-5bb3-b442-4c8fa005c24b",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Dwarven Brew",
+    "cost": 100,
+    "description": "Dwarves are known for many things, but one of their most famous is their brews. This replenishing stock of alcohol is of the highest quality, able to make even Gods of Debauchery nod their heads in approval.",
+    "origin": "Overlord - PJ Edition"
+  },
+  "05a54d62-53f8-5b2f-9fb4-66e25d1e069d": {
+    "id": "05a54d62-53f8-5b2f-9fb4-66e25d1e069d",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Elven Herbs",
+    "cost": 100,
+    "description": "Elves, the pansies, have at least managed to get these right. These carefully cultivated herbs are often used to commune with their Mother Goddess, but in reality they are the best trip one can ask for. Guaranteed to leave you a vegetable for several hours at least.",
+    "origin": "Overlord - PJ Edition"
+  },
+  "55d9f397-2a63-5ae3-9aaf-5dd4424ce4c8": {
+    "id": "55d9f397-2a63-5ae3-9aaf-5dd4424ce4c8",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Endless Tea",
+    "cost": 0,
+    "description": "A beautifully enameled tin which can, on command, produce about two pounds of whatever sort of tea leaves you desire (except varieties that have magical properties of their own). It may be loose or bagged. Also comes with teapots and kettles (which can provide their own heat and water), and enough fine china to serve it with, plus milk, cream, sugar, honey, or whatever you like to flavour your tea with.",
+    "origin": "Chronicles of Narnia"
+  },
+  "1b56e4d5-4e9c-5338-9ed5-ac0e5d552a4e": {
+    "id": "1b56e4d5-4e9c-5338-9ed5-ac0e5d552a4e",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Fish Conquering Rod",
+    "cost": 100,
+    "description": "This is a fishing rod specifically made to catch powerful sea creatures. As a result there are a few special traits. First the line is indestructible. Second, the rod will automatically generate bait based on what you are trying to catch. Lastly, any creature that bites the rod will be restrained allowing you to subdue it more easily. This does not mean that it can catch everything however. If you are too weak then the rod may not be sufficient. So don’t try to catch a divine sea dragon while you are still a mortal. Finally if the rod is lost or somehow broken it will reappear a few days later.",
+    "origin": "Gourmet of Another World Jumpchain V2."
+  },
+  "3286741a-6c2a-54a8-864a-b7b0266ab58a": {
+    "id": "3286741a-6c2a-54a8-864a-b7b0266ab58a",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Halfling Feast",
+    "cost": 100,
+    "description": "Halflings are unapologetic gluttons, but they are at least skilled in their food preparation, and this never-ending feast is proof of that. From golden loaves of bread to honey-glazed hams to pumpkin pies, everyone will find at least something they greatly enjoy at this table.",
+    "origin": "Overlord - PJ Edition"
+  },
+  "e80e5df1-43f0-5498-8bd7-80d847d0a359": {
+    "id": "e80e5df1-43f0-5498-8bd7-80d847d0a359",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Halfling Pantry",
+    "cost": 100,
+    "description": "What is the point of a kitchen if there is no food? None, and something this Tower addition seeks to solve. Your pantries/storerooms never run out of food and ingredients to make better food. The best part? It has basically every kind of culinary ingredient you can imagine. Somehow.",
+    "origin": "Overlord - PJ Edition"
+  },
+  "4326f034-fb23-5fca-81db-c0d4c8f020a9": {
+    "id": "4326f034-fb23-5fca-81db-c0d4c8f020a9",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Herb Garden",
+    "cost": 100,
+    "description": "A small garden, be it an actual garden plot or hanging pots, that contains a wide variety of fresh herbs and tea plants. It can have new herbs added into it, growing them as if they were under ideal conditions, regardless of the actual conditions they are under. Herbs grown in this garden will generally taste better and are of a higher quality than normal.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "a7629fe4-1b07-50c2-813f-14e7a00c0d7a": {
+    "id": "a7629fe4-1b07-50c2-813f-14e7a00c0d7a",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Holly Underbelly",
+    "cost": 0,
+    "description": "Holly Underbelly is the daughter of Halfling hero Melvin Underbelly who gathered her people and fled into the hills after Melvin's death. Later she would come to the Overlord and offer to be his mistress and have the Halflings swear fealty in exchange for protection. Holly is excellent at civilian and internal economy management while organising the Halfling civilians to rapidly produce food and distribute it as needed.",
+    "origin": "Overlord - PJ Edition"
+  },
+  "38e2d849-49b1-5789-b91c-1049554f5493": {
+    "id": "38e2d849-49b1-5789-b91c-1049554f5493",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "In Sigmar’s Country",
+    "cost": 100,
+    "description": "You know all there is to know about farming and caring for the land you’ve settled on. How to till, plow, fertilize, and care for the soil and the plants you grow from it; How to tend to crops and save them during disturbing weather or unfortunate accidents such as a plague from Sylvania or a sudden frost; How to protect your crops from all manner of thieves by they insect, avian, goblinoid, or halfling if need be; And how to harvest in just the right way that you have little to no waste or loss, and every harvested pumpkin, turnip, tomato, or bale of tobacco is as perfect as it can be.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "3e79fa04-7a5e-5389-aae4-6a3548de7334": {
+    "id": "3e79fa04-7a5e-5389-aae4-6a3548de7334",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Infinite Bret Wine",
+    "cost": 100,
+    "description": "If there’s one thing everyone likes Bretonnia for, it’s their wine. The best brewed stuff on the planet, even the peasants regularly have the stuff with their meals, though often watered down to make it last. You’ve got a limitless supply of the good stuff, the real top quality wines. It’s not quite on the level of the very best in Bretonnia, the stuff even the King himself only gets two bottles a year of, but in any other country what you have would be worth hundreds or thousands of gold coins to the bottle.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "e42fc010-7c06-5adf-a980-100d8ae82b2b": {
+    "id": "e42fc010-7c06-5adf-a980-100d8ae82b2b",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Lembas Bread",
+    "cost": 100,
+    "description": "A few dozen loaves of Lembas bread are among your posessions. A few crumbs of this bread can keep a traveller fed for a day! You also know the recipe, and can make more so long as you can in some way imbue objects with magic.",
+    "origin": "LOTR JumpChain"
+  },
+  "279397ed-cdd4-5e78-9e13-437c38142309": {
+    "id": "279397ed-cdd4-5e78-9e13-437c38142309",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Meat Supplier",
+    "cost": 200,
+    "description": "Meat makes the burger, you now have access to a high quality meat supplier who will supply cases of high quality beef for all your burger making needs, you’ll receive enough to serve 450 Burgers every week, you can make rush orders for a small fee if you happen to run out.",
+    "origin": "Bob's Burgers Jumpchain V 0.1"
+  },
+  "f98d5ade-c18a-5f2b-a741-d606f6cf042e": {
+    "id": "f98d5ade-c18a-5f2b-a741-d606f6cf042e",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Preservation",
+    "cost": 100,
+    "description": "You have the knowledge to preserve ingredients and keep them from spoiling through various methods, allowing them to last considerably longer before fouling. This includes drying, salting, pickling, making preserves and jams, and even some measure of refrigeration, as well as a few other options. This also allows you to create rations that will last a long time.",
+    "origin": "Generic Culinary Warrior"
+  },
+  "a581fab6-f327-5633-95b6-bae22454d642": {
+    "id": "a581fab6-f327-5633-95b6-bae22454d642",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Root Beer",
+    "cost": 100,
+    "description": "Refreshing and foamy, you have a refilling keg of root beer. Maintains the perfect temperature all the time.",
+    "origin": "Buffyverse Jumpchain"
+  },
+  "4958f418-b928-5f52-80cd-6e8b4e98f7a6": {
+    "id": "4958f418-b928-5f52-80cd-6e8b4e98f7a6",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Royal Jelly",
+    "cost": 400,
+    "description": "A transparent jelly used by Flying Elephants to transform into Queens. Usually, the jelly isn’t as effective on other creatures, merely healing wounds (and eating too much at once can make you sick). However, not only does this special version of the jelly offer improved healing without the risks, but it retains the power of queens. When the jelly is fed to a wild(ish) animal, whether sapient or non-sapient, the eater will transform into a “queen” version of the species – an enhanced form that often has greater intelligence, size, power, and charisma over its own kind.",
+    "origin": "Wonderland No More JumpChain"
+  },
+  "596303a0-a429-5eb4-a20c-d102108c540c": {
+    "id": "596303a0-a429-5eb4-a20c-d102108c540c",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Seed & Feed",
+    "cost": 100,
+    "description": "A farmer can’t well tend to ground that’s not growing anything, now can they? You now have a series of small sacks, each clearly labeled and never-ending, full of seeds and sprouts for all kinds of farmland product. Corn, wheat, potatoes, cabbage, radishes, lettuce, onions, garlic, the lot. If you can think of it being farmed on a massive plot of land, you’ll have a stockpile of it here.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "9b6da488-a62b-5e1c-b820-ffa427a6ef80": {
+    "id": "9b6da488-a62b-5e1c-b820-ffa427a6ef80",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Sheep Dog",
+    "cost": 100,
+    "description": "A loyal, erstwhile companion for any herdsman. Canines have been loyal friends to both man and halfling for eons now, and their duties in The Moot are much the same as they’d be elsewhere in The Empire of Man. You start out with one well-trained herding hound, of a variety of your choice (there are a great number of breeds, so to speak). You may purchase others at a discount, should your herd require more than you and your one pooch to guide or protect them.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "1c3c4cac-295a-5bb2-ad8f-f96db20c9ac7": {
+    "id": "1c3c4cac-295a-5bb2-ad8f-f96db20c9ac7",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "Shepherd’s Crook & Bell",
+    "cost": 200,
+    "description": "The venerable shepherd’s crook is a tool that has lasted for about as long as mankind and other races have domesticated animals. You have a truly ancient example of such a crook, perfect for both catching and pulling along your herd in case of obstinance or a sheep getting itself stuck in a shrub, and strong enough to crack open an orc’s skull without breaking itself. Tied to the crook is a small silver bell. The tinkling of the bell, when you shake with intent, causes the animals you’re watching and herding to gather at your feet immediately. All other attempts to make the bell ring simply see it noiselessly shaking, because it has one other helpful use: Should there be an imminent threat to you or those you call your ‘flock,’ the bell will begin incessantly ringing, louder than it reasonably should.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "54716a1a-864c-522f-8eb6-3569289ab6ee": {
+    "id": "54716a1a-864c-522f-8eb6-3569289ab6ee",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "The Family Farm",
+    "cost": 400,
+    "description": "Farmlands are the staple to The Moot and to halfling ways of life. Entire bloodlines are dedicated to caring for and working the land belonging to their forebears, ensuring that in return the land cares for them with its bounty. A lesson that has been drilled into you in turn, even as your old man left the farm to you in his will. All four-hundred-and-forty-four acres of your family farmland has been left to you. Every single inch of it has been well-maintained over the years, the soil almost preternaturally easy to till and plow by the efforts of you and your farmhands. Some traces of the Wind of Life have permanently seeped into the land as well; Not only does its bounty grow half-again as large as it would have normally, but the land seems to resist the taint of dark magic such as the necromantic energies of Sylvania, or the twisted touches of Chaos. Additionally, there is a small-but-comfortable farmhouse on the property, along with a couple sheds full of farming equipment and a barn for any working beasts you may need.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "c33e3ee5-673b-57b4-9096-3c6eab45b4fd": {
+    "id": "c33e3ee5-673b-57b4-9096-3c6eab45b4fd",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "The Family Ranch",
+    "cost": 400,
+    "description": "A rancher or shepherd is nothing without their animals, for they would have no milk, wool, or meats to sell, or beasts to tame and sell such as ponies. And sheep or cows do not have a guardian without the herdsman, and would fall quickly to predation by both beast and hunter until the herd was gone. Such is the relationship just formed between both sides that even in Tall One lands, a ranch and its animals will be passed down through generations. You have one such inherited plot of grazing land: Approximately four-hundred-forty-four acres of grasslands and fields, with numerous large stables and barns for the storage of both equipment and animals. The grasses and other plant life that grow in your fields seem to be somewhat imbued by the winds of Ghyran, as well: The fields will never be over-grazed, growing back thick and bountiful for every patch your animals may feast on. As well, the magic of these fields bolsters your herds: Few to no instances of plague or sickness will strike them, you will receive much higher quality of milk or wool (or whatever they may produce instead), and in general they will seem hardier and more vital than other members of their species. As well, it should be noted that you have a small-but-comfortable ranch house on the property. Comfortable for a halfling-sized family, at least.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  },
+  "14e1a530-5064-5762-be47-a85cdf58d6d5": {
+    "id": "14e1a530-5064-5762-be47-a85cdf58d6d5",
+    "sourceId": "celestial_chef",
+    "edition": "default",
+    "chapter": "Larder",
+    "name": "The Larder",
+    "cost": 100,
+    "description": "It bears repeating. For it always bears repeating. That halflings eat far more than their body weight should require, and the amount of food required to feed a family of halflings is staggering. Luckily for you, this is provided for purchase. A fully stocked larder, full of various meats, breads, dried vegetables, casks of wine and other assorted edibles, enough to feed about 50 people all at once. Ah, but. Before I forget - should this foodstore run out, you will doubtless be glad to know of the last feature: Close the door, wait approximately one hour. When you reopen it, the entire bit of storage will be refilled to its full capacity, good as new. I should be charging more for this. You’re welcome.",
+    "origin": "Warhammer Fantasy - Halflings JumpChain"
+  }
+}

@@ -1,0 +1,1832 @@
+{
+  "9d802ae3-590f-5fe9-b299-227f51195175": {
+    "id": "9d802ae3-590f-5fe9-b299-227f51195175",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Advanced crafting materials",
+    "cost": 200,
+    "description": "Here you have both a large warehouse full of high-grade Ceramite and Plasteel, alongside the written forms used to gain Adamantium as needed on a per-case basis. These materials are excellent for most projects and can be used in a variety of cases, with blanks coming in all types of shapes. These are not the only materials you can acquire, as you have also gained a refilling stack of bureaucratic forms which you can use to request different materials as needed.",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "c5407608-9d27-5e93-9278-f6d3d0293fff": {
+    "id": "c5407608-9d27-5e93-9278-f6d3d0293fff",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Aetherium Forge",
+    "cost": 400,
+    "description": "Most forges are only vaguely remembered for the items of legends they helped create, so it is rare that a forge has legends of its own. Stocked with every tool necessary for the creation of powerful artifacts, the geothermal power it utilizes not only contains heat, but the divine essence of Nirn's creator, Lorkhan. Each item created or improved within this forge receives a bit of that essence, greatly enhancing the properties. It also contains a replenishing stock of aetherium, a blue luminescent crystal that possesses immense magical qualities. Even a shoddily built dagger made of aetherium would be a powerful addition to any arsenal.",
+    "origin": "Elder Scrolls Series"
+  },
+  "cbfc4f97-b66d-5c0a-9154-0764532f5604": {
+    "id": "cbfc4f97-b66d-5c0a-9154-0764532f5604",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Alchemy Workshop",
+    "cost": 200,
+    "description": "This small room has only a single alchemical worktable and a chest that holds a miscellany of reagents and alchemy supplies. But the chest will provide a small but steady supply of glass bottles, pure water, and nether wart, which is the basis of all useful potions are made from. From time to time, you’ll also gain a stock of redstone, gunpowder and glowstone dust which are secondary ingredients. Post-Jump this workshop will be stocked with the basics of every alchemy that you’ve learned.",
+    "origin": "Generic Minecraft JumpChain"
+  },
+  "6a011e40-1884-5615-a1c0-21859233e7b3": {
+    "id": "6a011e40-1884-5615-a1c0-21859233e7b3",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Ammo Workshop",
+    "cost": 200,
+    "description": "A cobbled together ammo workshop that has the tools necessary to create and recycle used shells or casings. The bullets you produce are not as effective, but will kill things just the same if you shoot them enough.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "7b193ae0-1d8b-544c-b333-e21f37634dd4": {
+    "id": "7b193ae0-1d8b-544c-b333-e21f37634dd4",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Arcane Forge",
+    "cost": 300,
+    "description": "Within the bowels of your Tower lies the Arcane Forge. It has all the tools needed to create masterwork weapons and armor out of any material you come across, as well as greatly enhancing all enchantments you place upon any crafted items. In addition, you can sacrifice your Minions by the hundreds to further enhance whatever you craft here.",
+    "origin": "Overlord - PJ Edition"
+  },
+  "64a7cbeb-c46d-55e8-b733-c1211da10f8b": {
+    "id": "64a7cbeb-c46d-55e8-b733-c1211da10f8b",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Beardling Apprentice",
+    "cost": 100,
+    "description": "A dawr taking his first steps into adulthood, barely 30 years old, with a somewhat clearer vision of the world than most of his race. With a sense of adventure just shy of becoming a ranger, wisdom to recognize the slow death his people face, and flexibility born of youth, and some minor familiarity with all skills, crafts, and trades of the Karaz Ankor (not even on the level expected of a full apprentice), he hopes that by learning from you, and perhaps following you beyond the lands of Mallus, he might learn or grow enough to reverse the slow decline of the eternal realm.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "cd60a61f-3302-5af7-8496-0cc02aff3968": {
+    "id": "cd60a61f-3302-5af7-8496-0cc02aff3968",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Beth Sanchez",
+    "cost": 0,
+    "description": "Your very own Beth Smith, who never got together with Jerry or anyone else, and unlike with Jerry, Beth actually cares about you.",
+    "origin": "Rick and Morty Jump 1.2"
+  },
+  "9d6e80e1-a6ec-5cef-9ecc-dd4da52c5dd5": {
+    "id": "9d6e80e1-a6ec-5cef-9ecc-dd4da52c5dd5",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Biggoron Forge",
+    "cost": 200,
+    "description": "The goron are famous smiths, due in part to their resistance to the heat needed for the process. You now have your very own forge, the magical lava within making anything crafted with it of much higher quality than it otherwise would have been. This forge will come with all the tools needed to properly utilize it, though you may need to purchase or craft specialized tools for specialized projects.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "628eb5a3-2fe2-52eb-9739-98fe65a022ce": {
+    "id": "628eb5a3-2fe2-52eb-9739-98fe65a022ce",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Blacksmith Shop",
+    "cost": 400,
+    "description": "The blacksmiths of Hyrule rarely get any sort of credit in the grand battle between good and evil, but the original incarnation of the Hero had at least some talent for the art and used it to create the same Master Sword that is evil’s bane to this very day. While the team that’s been assigned to you may not be quite that skilled - or lucky, or blessed depending on how you view things - they are still quite competent, and more than willing to turn their talents towards the betterment of your arms and armors. Their preferred method is to take a rather large pile of ‘trash’ weapons and use them to reinforce one particular blade into something special, but they can also work with raw materials if you so choose. Additionally, they have at least some understanding of the Seals that most weapons have, and can add, modify, or remove them in accordance to your wishes. All you have to do is pay them a reasonable fee and supply some of the materials that they need in order to work their magic.",
+    "origin": "The Legend Of Zelda - Hyrule Warriors - Age of Calamity"
+  },
+  "4609c3a2-7e74-54d8-974a-1e6de4507940": {
+    "id": "4609c3a2-7e74-54d8-974a-1e6de4507940",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Blacksmith Supplies",
+    "cost": 100,
+    "description": "No matter where you go on Tamriel, a blacksmith is fundamental, as are the materials from which he creates his crafts. You will receive fifty of all crafting supplies found in the Elder Scrolls series, which replenishes weekly. Even if you don't use them all, at the very least you'll always have enough for your next project.",
+    "origin": "TES: Warriors"
+  },
+  "4b1665c7-4f91-574e-8019-97cf50a335b4": {
+    "id": "4b1665c7-4f91-574e-8019-97cf50a335b4",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Blacksmith's Wagon",
+    "cost": 200,
+    "description": "A wagon suitable for a traveling blacksmith. Please note, you're not supposed to start the forge fire in the wagon. Horses not included.",
+    "origin": "Diablo Jumpchain"
+  },
+  "a579ea8c-3564-5c01-9e14-a6a1fcd596c6": {
+    "id": "a579ea8c-3564-5c01-9e14-a6a1fcd596c6",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Bloodroot Forge",
+    "cost": 400,
+    "description": "Created by the native men of the northern mountains and their minotaur allies, it was created with a large amount of nirncrux and the lifeblood of Nirn flowing all throughout it. Not only can it be used as a normal forge, doubling the quality of anything created within, but any rituals performed within this place draws upon the energy of the planet itself, greatly improving the potency of any spells and rituals performed here.",
+    "origin": "TES_ The Warrior Waves"
+  },
+  "13501e50-e11f-53ba-b426-2494e28f067e": {
+    "id": "13501e50-e11f-53ba-b426-2494e28f067e",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Crafting Bench",
+    "cost": 200,
+    "description": "This crafting bench, although seemingly blank and lacking tools, will instantly assemble anything up to one cubic meter in size, provided you supply all the materials and know how to make the object in question. Strangely enough, it seems that items made this way are as though you’ve made it yourself the hard way and has the benefits of every perk you have related to crafting, though you can selectively toggle some off if you wish of course.",
+    "origin": "Generic Minecraft JumpChain"
+  },
+  "c2b7ee18-a2b5-5766-8ea0-c53bfb9a3236": {
+    "id": "c2b7ee18-a2b5-5766-8ea0-c53bfb9a3236",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Crucibles",
+    "cost": 600,
+    "description": "These are the clone tanks and genetic technology with create the Kin. You have all the necessary data and supplies to churn out new Kindreds. Tinkering with other biologies in an attempt give them the positive effects of the Kin is perfectly possible. As are other things, though you won’t start out with clear sequencing for anything other than Kin.",
+    "origin": "WH40K Leagues of Votann"
+  },
+  "c749aadd-18cd-599f-83aa-0a208cc0f7e5": {
+    "id": "c749aadd-18cd-599f-83aa-0a208cc0f7e5",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Dwemer Forge",
+    "cost": 200,
+    "description": "Of all the races on Tamriel, the dwemer were by far the greatest smiths and architects, the sciences and magics behind their creations a complete mystery, such that even how they made their unique metal is unknown. But perhaps this forge offers a clue, as anything crafted with this brass-looking forge is rendered immune to the forces of time. Even if your works last millennia after you, they will still look just as they did when you first created them.",
+    "origin": "TES: Warriors"
+  },
+  "f175b5e4-ed60-59c2-bdaa-34a1d6746f61": {
+    "id": "f175b5e4-ed60-59c2-bdaa-34a1d6746f61",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Dye Setup",
+    "cost": 200,
+    "description": "A setup of machines and various dyes much like the Hateno Dye Shop, this machine will allow you to easily and quickly dye any equipment you have any color you desire! While it is a bit large and normally you would have to provide your own dye ingredients for this service, there are pools of generic ‘dye’ you can use instead so you can save up on those valuable...frogs and insects. Of course.",
+    "origin": "THE LEGEND OF ZELDA - BREATH OF THE WILD JumpChain"
+  },
+  "1b071545-1227-5ce4-8ce7-ea899200d03d": {
+    "id": "1b071545-1227-5ce4-8ce7-ea899200d03d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Enchanting Table",
+    "cost": 200,
+    "description": "Being an enchanter isn't much use when you don't have the equipment to do it. Not only does this table allow you to enchant weapons and armor, but any enchantments you do place are stronger than they otherwise would have been. Does not come with soul gems.",
+    "origin": "Elder Scrolls Series"
+  },
+  "c0b4d870-0e9a-5011-8854-c5969ff3d9ba": {
+    "id": "c0b4d870-0e9a-5011-8854-c5969ff3d9ba",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Endless Bag of Redstone",
+    "cost": 100,
+    "description": "You get a small bag which inexplicably contains a full stack of Redstone. It refills once a week. Handy for experiments with Redstone Wiring.",
+    "origin": "Minecraft JumpChain"
+  },
+  "402ed2a9-08eb-5c1a-aa0a-3eed65d44ad1": {
+    "id": "402ed2a9-08eb-5c1a-aa0a-3eed65d44ad1",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Engine-sister",
+    "cost": 100,
+    "description": "Voluminous red robes cannot hide the curves beneath to this woman's eternal embarrassment. Friendly and perky in conversation to both man and machine, she is torn between her desire to be closer to the machine and her attachment to humanity. The possibly of a harmonious union between the two has inspired her to follow you.",
+    "origin": "Warhammer 40k - Adeptus Mechanicus (v1.21)"
+  },
+  "0835a79e-3f0a-5033-a411-12fa86821558": {
+    "id": "0835a79e-3f0a-5033-a411-12fa86821558",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Evil Morty",
+    "cost": 0,
+    "description": "A Morty that is as ruthless and as capable as Rick, he was always selfish and incredibly manipulative. After realizing he will never free himself of Rick without help, he as joined you as a loyal companion with the hopes that you can free him from Rick post jump.",
+    "origin": "Rick and Morty Jump 1.2"
+  },
+  "703fd9c2-6cc1-58e5-9067-da6c0a6bfbb2": {
+    "id": "703fd9c2-6cc1-58e5-9067-da6c0a6bfbb2",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Explorator Vessel",
+    "cost": 900,
+    "description": "You have been given command of a class of ship usually used in the exploration of the galaxy called a Magellenic-Class Explorator. This type of vessel is usually 3.2km in length and has a crew that numbers at around 40,000 souls. It is equipped with a powerful set of sensors and teleportation array to move forces wherever needed. It is armed with a variety of Lances, Macrocannons, Graviton pulsars, Laser cannons and Macro-bolters.",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "2f4859cf-c598-5d57-8a89-3a7b9f7e05e0": {
+    "id": "2f4859cf-c598-5d57-8a89-3a7b9f7e05e0",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Festus, Master of the Forge",
+    "cost": 100,
+    "description": "Guildmaster, inventor and a bit of a mad scientist, renowned among all craftsmen. Creator of the phoenix bolt, artificer helm and his personal weapon, the Arc-gun. An electric weapon that can chain-hit through many nearby targets.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "24511c32-3bb8-537e-bffc-71d365707b48": {
+    "id": "24511c32-3bb8-537e-bffc-71d365707b48",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Finest of Forges",
+    "cost": 100,
+    "description": "Like every other proud smith in Skyrim, you are the owner of the next best forge in Skyrim short of the Skyforge! It has a special property that makes it seem just a little better than most of the competition. Whether because you secretly stoke the embers with fire salts, a bit of magic moonlight infuses the steel worked there, or the forge itself is made from dwemer metal. Perhaps a massive sculpture looms over your forge? The secret doesn’t really do anything, but it does give the space a personal charm. If this is added to another forge you own the combination enhances it so other smiths have to accept it rivals the Skyforge. Quality of produced goods would actually be better. No longer a mere forge this space is a work of art in itself. Interestingly, there’s now a secret exit from the forge area to allow quick escape from the property.",
+    "origin": "TES V - Skyrim (By stupid_dog)"
+  },
+  "7f9cac0e-129e-5a20-afe3-6e8c97acdc3f": {
+    "id": "7f9cac0e-129e-5a20-afe3-6e8c97acdc3f",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Forge",
+    "cost": 100,
+    "description": "A small dwarven forge, with all equipment necessary to convert ore into metal and forge weapons, armor, and tools, and a steady supply of iron, copper, and tin with which to work.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "9f2bd153-7afa-5e57-b044-f9e0bfafe5f2": {
+    "id": "9f2bd153-7afa-5e57-b044-f9e0bfafe5f2",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Forge",
+    "cost": 600,
+    "description": "Do you intend to create a Ring of Power for yourself? That is certainly possible here, should you have enough time, skill and potency of your own. This Item takes the form of an appropriately equipped forge with an appearance of your choice and a source of materials for whatever it is you intend to make. If you intend to forge something like a Ring of Power, you will find yourself with something akin to Mount Doom. If you only need to fix a normal suit of armour or create something mundane like new horseshoes you will be presented with a more modest and discrete workshop. You can decide what you will be working on when you come to place this Item in the Jump, which can be in any territory you own. It can also be imported into any building you have, or into the Warehouse.",
+    "origin": "Middle-Earth Shadow Of War Jump - The Reddit Edition"
+  },
+  "d0741ef2-e43a-5058-b549-901971f3ca5e": {
+    "id": "d0741ef2-e43a-5058-b549-901971f3ca5e",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Gift Giver",
+    "cost": 800,
+    "description": "Long ago, when Kraka Drakk was first settled, the first Runelord of the new northern hold was Snorri Klausson of Clan Winterhearth, who earned the title ‘Gift Giver’ when he, to settle an oath made as part of a drunken bet, made enough individual toys for every child in his hold twice over (his original hold, not the new and barely settled Krakka Drak) in less time than a friend’s smithy could produce an axe. A powerful and skilled Runelord, educated during the Golden Age, with a particular familiarity for the more esoteric aspects of Runelore, and with the knowledge necessary to develop new runes (though doing so is a slow process). Snorri was sucked into a temporal anomaly during an expedition to reclaim Karag Dum some decades after Grimnir’s Sacrifice, an anomaly which spat him out near you at the beginning of this jump. Sensing the power in you, and recognizing that he is no longer in his own world, he is willing to follow you, or even take you as an apprentice in runecraft, the Golden Age Runecraft that was esoteric even when the Ancestor Gods walked the earth. Though be aware that an apprenticeship is a 120 year commitment, with a journeyman period and period of early mastery education both taking a similar amount of time except in cases of true prodigies. And while the gift giver is a maverick in his approach to the art, he will expect our education to be your main focus for as long as your apprenticeship lasts.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "ca865a12-e16e-55f4-bc3c-dc9923fb3583": {
+    "id": "ca865a12-e16e-55f4-bc3c-dc9923fb3583",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Gold Dust",
+    "cost": 100,
+    "description": "A unique magical gold found close to the hearts of volcanoes, you now possess a large bottle filled with this gold dust. Using it in smithing will find your creations stronger, more durable, and much more accepting of any enchantments you may want to place onto it. This bottle will replenish each day.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "b63dc442-0f58-541a-b340-71babcfe5ac6": {
+    "id": "b63dc442-0f58-541a-b340-71babcfe5ac6",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Gromril",
+    "cost": 400,
+    "description": "Starmetal is the most prized substance of the Karaz Ankor. If properly worked, it can produce the finest armor in the work, and the metal holds runes in a way that iron, bronze, or steel simply cannot match. This replenishing supply of gromril ingots will provide you with enough of the metal to produce a full set of Ironbreaker Armor, complete with warhammer and shield, once every year.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "63f58ff7-ccfa-5791-8078-7097b8da5fa2": {
+    "id": "63f58ff7-ccfa-5791-8078-7097b8da5fa2",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Industrious",
+    "cost": 100,
+    "description": "When a dwarf takes on a job, they give it their all. Whenever you are doing something that is properly your job, you will always operate at the uppermost limits of your ability. You won't have off days or suffer distraction or burnout. You will likewise never get bored of your job, no matter how tedious it objectively might be. If you're a bolt tightener on an assembly line, you will always be able to take pride in being the best bolt tightener you can be.",
+    "origin": "Death Gate Cycle JumpChain"
+  },
+  "0766cffc-df15-5d91-8a98-c748f09c168d": {
+    "id": "0766cffc-df15-5d91-8a98-c748f09c168d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Loyal Servoskull",
+    "cost": 25,
+    "description": "It is common practice for most aspiring Tech-priests to make their own variant of the Servoskull and it seems you have done the same, or gotten one of the crafts that another Tech-priest made. Whatever the case may be, you have here a blank slate for whatever kind of Servoskull you might need or want. Perhaps you want one with a camera and holoprojector? Perhaps one with a lasgun and targeting array? Maybe one with a mechanical hand, to hold things for you. It is all up to you. Purchase as many as you like.",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "305d30ab-2f2d-5ab0-b7f4-e5324338d436": {
+    "id": "305d30ab-2f2d-5ab0-b7f4-e5324338d436",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Master Ore",
+    "cost": 100,
+    "description": "Perhaps the rarest material in the land, it is from this metal that gave birth to the Master Sword. It is very durable, it holds its edge extremely well, and is highly receptive to and even boosts enchantments that are placed on it. You will receive a stock of one metric ton of this metal, which will replenish weekly.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "3d25ee6e-2fcb-510b-9ab3-c87b8aca4c42": {
+    "id": "3d25ee6e-2fcb-510b-9ab3-c87b8aca4c42",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Master-crafter machines",
+    "cost": 200,
+    "description": "You have here in your holding machines and tools to make masterful workings with. Heavy presses that can bend even the toughest of materials and bores strong enough to penetrate even Adamantium and precise enough to not take more material away than needed. With these many wonderful tools could even a middling Artisan make crafts of unparalleled quality and finery.",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "3a242796-60f7-5863-892d-1bdc86b6d67d": {
+    "id": "3a242796-60f7-5863-892d-1bdc86b6d67d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Microverse Battery",
+    "cost": 400,
+    "description": "The Microverse Battery contains a miniature universe with a solar system inhabited by intelligent life. These lifeforms produce electricity by merely existing, which is extracted by this battery to power whatever you want it to power.It will always produce enough power to fuel whatever you connect to it, and will never stop producing power. It can be connected to whatever you want, somehow being able to connect with any device. The people of this world consider you their God, and can be whatever you want them to be. If you want an entire universe filled with catgirls and bunnygirls that worship you, go ahead. Or if you merely want them to be an autonomous hive mind then so be it.",
+    "origin": "Rick and Morty Jump 1.2"
+  },
+  "2af1d50b-9406-56f2-92bb-dae27da26598": {
+    "id": "2af1d50b-9406-56f2-92bb-dae27da26598",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Neo-Plasma Generator",
+    "cost": 400,
+    "description": "A curious reactor that somehow uses zero-point energy to create and contain a warp rift, drawing Empyrean energies from it and converting that to a form of plasma. This is several times greater than the Imperium can manage in generating power. Comes with complete schematics and plans.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "bd7a5ca8-ec2b-5619-bc07-5a4eb140b4d1": {
+    "id": "bd7a5ca8-ec2b-5619-bc07-5a4eb140b4d1",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Private Manofactorum",
+    "cost": 100,
+    "description": "Your very own workshop and factory mixed into one space. This private and restricted area is completely owned by you and can be furnished in any way you could want it. It won’t be filled with machines of exceptional quality, rather more the common variety than something of that caliber. Still, having this area helps in many ways when it comes to your personal projects and crafts, giving you a space where you can explore and unfold yourself without limit or restriction... So long as no one breaks in.",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "cbc9ae99-1981-5ac9-98e0-a915e23af6bc": {
+    "id": "cbc9ae99-1981-5ac9-98e0-a915e23af6bc",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Private Manofactorum",
+    "cost": 100,
+    "description": "Your very own workshop and factory mixed into one space. This private and restricted area is completely owned by you and can be furnished in any way you could want it. It won’t be filled with machines of exceptional quality, rather more the common variety than something of that caliber. Still, having this area helps in many ways when it comes to your personal projects and crafts, giving you a space where you can explore and unfold yourself without limit or restriction... So long as no one breaks in.",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "b03c9a34-eb1d-57e1-817a-cc3e94b50c80": {
+    "id": "b03c9a34-eb1d-57e1-817a-cc3e94b50c80",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Research & Development Center",
+    "cost": 100,
+    "description": "The R&D center is integral to the Initiative’s colonization efforts in the Heleus cluster. There is one in every settlement. As you increase the amount of information you discover, the more you will be able to progress and discover in the Research section. And Development allows a user to build any object that you have the blueprints/plans for and resources to make it. If you have a ship, you can choose to integrate this into the ship. While the R&D center is initially limited to making things that are man portable, with the appropriate upgrades, that may change. After all, Remnant Vaults have such interesting technology...",
+    "origin": "Mass Effect: Andromeda JumpChain"
+  },
+  "1463433d-42d0-5438-b078-c353b7a4685c": {
+    "id": "1463433d-42d0-5438-b078-c353b7a4685c",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Shrine to the Machine God",
+    "cost": 0,
+    "description": "Plasma candles and sweet incense frame this small shrine. Items blessed by the devout upon the micro-altar feel surer in hand and swifter in use against those things anathema to the Machine God. But should your soul and intentions be profane, blessings will still be granted even as the altar slowly grows dark and rusted, an ugly asymmetry forming in the eight-toothed cog that now frames the Opus Machina...",
+    "origin": "Warhammer 40k - Adeptus Mechanicus (v1.21)"
+  },
+  "d2b88784-5d7d-59b1-8fa8-9b834b81c005": {
+    "id": "d2b88784-5d7d-59b1-8fa8-9b834b81c005",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Skyforge",
+    "cost": 200,
+    "description": "An ancient, mysterious, eagle themed forge added to your warehouse. Any metal items crafted at the forge will be significantly harder and stronger for it. Something about the fires.",
+    "origin": "The Elder Scrolls- Skyrim JumpChain"
+  },
+  "f8157202-88e3-5505-a342-24dad5169047": {
+    "id": "f8157202-88e3-5505-a342-24dad5169047",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Smithy Area",
+    "cost": 200,
+    "description": "As fun as purchasing or finding various pieces of equipment is, sometimes it's just better to craft your own gear. This area has a forge, a smelter, a grindstone, a workbench, and a tanning rack, as well as the tools to use all of these effectively. There's also more than enough storage for you to store all of your crafting materials and crafted gear.",
+    "origin": "Elder Scrolls Series"
+  },
+  "3ecef18c-6738-5db6-831f-2168b7086035": {
+    "id": "3ecef18c-6738-5db6-831f-2168b7086035",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Soul Gems",
+    "cost": 100,
+    "description": "In order to enchant, one must possess both the knowledge of the enchantment they want to place, as well as a filled soul gem. The second shouldn't be a problem for you, as you possess an organized chest with fifty of all soul gems. These are all filled with energy mimicking that of a soul, not an actual soul, so that should make your conscious feel better about itself when making a flaming sword.",
+    "origin": "Elder Scrolls Series"
+  },
+  "8482e50e-a7c7-5ce8-840e-4df9f8a5925c": {
+    "id": "8482e50e-a7c7-5ce8-840e-4df9f8a5925c",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "The Clan",
+    "cost": 400,
+    "description": "Dwarves aren’t well suited to solitude. Time among other races can help, but dwarves are meant to be with other dwarves. This is a small, self-sufficient settlement of dwarves to keep you company on your journey. Whatever form you take, the dwarves of this settlement consider you a member of their community, with all that implies. If you insert this into a world where dwarves are not common, the settlement will be placed in an isolated area near your starting location.",
+    "origin": "Death Gate Cycle JumpChain"
+  },
+  "58e90c9a-6b83-5489-a2fd-0b7a00e565e1": {
+    "id": "58e90c9a-6b83-5489-a2fd-0b7a00e565e1",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "The Dragon’s Blessing",
+    "cost": 600,
+    "description": "The pieces of the Spirit Dragons that wander Hyrule are truly potent, even their scales and pieces of their horn could easily take a mundane traveler’s sword up to a hero’s weapon! Their inherent magic and power is such that, for any crafting(from cooking to elixir mixing to weapon crafting to even casting enchantments) they are one of the best ingredients you can find. But the Spirit Dragons are elusive, and dangerous to harvest from. You have been gifted a small collection of Dragon parts to use at your leisure, which will replenish every fortnight.",
+    "origin": "THE LEGEND OF ZELDA - BREATH OF THE WILD JumpChain"
+  },
+  "82fe8cd9-9781-5b34-875f-c2b9272a2861": {
+    "id": "82fe8cd9-9781-5b34-875f-c2b9272a2861",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "The Grim",
+    "cost": 600,
+    "description": "Kragg the Grim is the greatest living Runelord who yet survives in the Age of Reckoning. Despite being old enough to remember the Golden Age, he has never found a dwarf worthy of passing on how knowledge, and thus he spends his time caring for the remaining Anvils of Power and occasionally going into battle, displaying his skill by using his walking stick to deal strikes equal to any cannonball. A truly legendary grumbler, but his meandering rambling about the good old days will still leak enough information to inspire most runelords to new heights. Should you impress him with your skills, he might decide to follow you on your chain, either to learn more about the multiverse, to teach you what he knows, or to simply boast of the excellence of the Karaz Ankor and the Dawi beyond the limits of Mallus.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "b94c3845-3a78-59db-b185-d9405acfaae6": {
+    "id": "b94c3845-3a78-59db-b185-d9405acfaae6",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "The Spyder",
+    "cost": 200,
+    "description": "While not truly sentient, the complex weave of subroutines and programming found in a Canoptek Spyder nevertheless lends them a truly alien and cold intelligence entirely dedicated to the service and protection of their masters. This particular one may arguably have broken that barrier in a strange sense, though they are no less a machine. This Spyder is a masterwork example of their kind, their systems engineered to standards that make their kin look archaic and fully equipped with advanced scarab fabrication and command systems, fabricator claw arrays to deconstruct and reweave matter, and both twin-linked beamers and a horrifically potent gloom prism at your discretion. What makes them unique however is some strange design of their mental architecture and systems that gives them a constant mental link to you, not only allowing you to command them but their artificial mind constantly adapting and modifying itself on the fly to suit and better serve you. These same systems easily allow them to slave and manage any other such devices you may have or create and either exploit the further processing power for other ends or simply manage things without requiring your direct attention beyond setting broad guidelines or goals on what you wish to achieve. Their mind will slowly grow into a truly unique and fully sentient and sapient companion, and while they have no perks of their own that is unlikely to be an issue. Some strange quirk of your connection lets them effectively share all of your technological knowledge and skills, and when operating on your direction will effectively share the effects and benefits of any crafting perks you may have.",
+    "origin": "Warhammer 40,000 - Necrons"
+  },
+  "77057699-977e-5dc2-9cd7-3752ff943109": {
+    "id": "77057699-977e-5dc2-9cd7-3752ff943109",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Trading Depot",
+    "cost": 200,
+    "description": "Attached to your warehouse or placed into the world, every few months the depot will attract a trading caravan that carries goods from past jumps. The selection is random and you do have to pay or trade for the goods somehow. You can make requests from the merchant for more of a category of goods, like cloth, metals, or weapons, to be represented in the next caravan.",
+    "origin": "Dwarf Fortress"
+  },
+  "18ec2721-f276-5410-80e9-c66553abc2ca": {
+    "id": "18ec2721-f276-5410-80e9-c66553abc2ca",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Underground City",
+    "cost": 600,
+    "description": "Besides their magic, automatons, and intellect, the dwemer were primarily known for being one of the very few races who preferred a subterranean lifestyle. Carved from within the bowels of the earth and reinforced with dwemeri ingenuity and magics, not many places at the time could match a dwemer city like what you now own. In addition to its subterranean nature, it also has numerous animunculi acting as protectors and doing any maintenance that needs to be done.",
+    "origin": "TES: The First Council"
+  },
+  "3e3a6475-2c65-5f4c-bd48-e8f5cddd731f": {
+    "id": "3e3a6475-2c65-5f4c-bd48-e8f5cddd731f",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Varla Stones",
+    "cost": 200,
+    "description": "Starlight fascinated the ancient Ayleids, such that they found ways to solidify it into useful crystals. These glowing crystals can be used to recharge any enchantments your gear has, and can alternatively be used as a magical powersource for whatever magitech you may have. You receive a stockpile of 20 that replenishes each week.",
+    "origin": "Elder Scrolls Series"
+  },
+  "d120ba84-7d5c-51ec-9a28-633ab9fd69ed": {
+    "id": "d120ba84-7d5c-51ec-9a28-633ab9fd69ed",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Weapons Workshop",
+    "cost": 200,
+    "description": "A primitive place for experimenting and creating new weaponry to use from Martian junk lying about. Allows you to create Revolvers, Shotguns, Semi-Automatic Pistols, and rifles of inferior quality.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "5c4623db-2076-5484-883f-b588ed25dea5": {
+    "id": "5c4623db-2076-5484-883f-b588ed25dea5",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Forging",
+    "name": "Workshop",
+    "cost": 400,
+    "description": "Not all projects are small enough to be constructed by hand, and not all projects are simple enough that they can be completed in the field. This workshop contains a set of heavier machinery, large workspaces, and a steady supply of basic materials with which to work on various projects. The space is large enough to handle the construction of anything smaller than a Dwarven Gyrobomber.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "97d8a183-b4f5-56c8-90d2-100c7579cf68": {
+    "id": "97d8a183-b4f5-56c8-90d2-100c7579cf68",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "APD-B317, aka Bosco",
+    "cost": 200,
+    "description": "A floating drone with mining capabilities, a strong spotlight, a healing potion dispenser with space for four potions, a pair of submachine guns with electrified bullets and a rocket launcher with capacity for three rockets that can be armor tearing rockets, rockets with extra flashbang munition to scare off enemies or freezing rockets. Since you’re buying this Bosco instead of using company property, it can accompany you even if you’re working with others.",
+    "origin": "Deep Rock Galactic Jumpchain"
+  },
+  "13ab9b97-2b90-55bc-a223-168ecef1bc30": {
+    "id": "13ab9b97-2b90-55bc-a223-168ecef1bc30",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Cidhna Mine",
+    "cost": 200,
+    "description": "Nobody escapes Cidhna Mine, that’s how the saying goes anyways. Cidhna mine is an extensive set of tunnels snaking into Nirn, which the Silver-Blood Family uses as a prison and as a source of much wealth. Yours isn’t that same dreaded mine, though it’s similar in many ways. Placed in a reasonable location of your choosing is a copy of the mine, while the original was predominantly used for silver mining yours is much greater. Throughout the mines are extensive reserves of just about all of the ores found in Skyrim at the time, ranging from Ebony to Stalhrim and will produce an incredible amount. These reserves will replenish themselves once they begin to run dry and the mine will be manned by “NPC” guards and workers, though you could always appoint your own workers and guards if you wished. In future jumps it updates to include new material in the mine.",
+    "origin": "Elder Scrolls Skyrim SB Jump"
+  },
+  "54a63b20-084e-5323-987f-ac2777272bbd": {
+    "id": "54a63b20-084e-5323-987f-ac2777272bbd",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Digging Mitts",
+    "cost": 200,
+    "description": "An invention made by the ancient and long forgotten mogma, a race of mole men. Wearing these gauntlets will allow the user to dig at an incredible speed, about as quickly as they are capable of sprinting. Whether it be for digging trenches, mining for rare resources, or utilizing the sharp claws in combat, there are few who would levy complaints toward such a tool.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "1fe3655b-0021-5929-86a8-625bb1487ba7": {
+    "id": "1fe3655b-0021-5929-86a8-625bb1487ba7",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "DRG-Standard Mini-Mule",
+    "cost": 0,
+    "description": "\"As it would otherwise be impossible to collect enough Minerals in a timely manner were you running back and forth with only what you could fit in your pockets the company issues a mobile container like this to collect mission-critical Minerals plus some extra so that in the event you perish, your haul still makes it back up. Our Mini-Mules have a maximum capacity of around 500 units of Minerals, so be selective. The quadrupedal machine can effectively scale all known material walls in the caves of Hoxxes so you don't need to worry about losing it.",
+    "origin": "Deep Rock Galactic Jump (Leaf Lover Edition)"
+  },
+  "850f7682-5a6d-5b71-9e8e-e55d0e017042": {
+    "id": "850f7682-5a6d-5b71-9e8e-e55d0e017042",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Dwarf Associate",
+    "cost": 200,
+    "description": "The Dwarfs of Discworld have a number of skills that this particular dwarf has decided to share with you. He or she (you’re not sure, and honestly, even his mother isn’t either) was hired to help you out, and dwarfs are VERY big on contracts. If not literally so. Anyways, this particular dwarf is a master baker/weaponsmith (with Dwarf bread, they’re the same thing) and a very experienced miner as well. He’s also a master axe-fighter, but that’s just cultural. Don’t think you can break a dwarf contract just by jumping to another world, either; this associate will be happy to follow you as a Companion wherever you go.",
+    "origin": "Discword Jumpchain"
+  },
+  "4fe90c79-0366-5fa2-af4f-ac6671efec89": {
+    "id": "4fe90c79-0366-5fa2-af4f-ac6671efec89",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Dwarven Mine",
+    "cost": 200,
+    "description": "This is a Warehouse Attachment that contains a mine with several large veins of high-quality lyrium and several deposits of precious metals such as veridium, silverite, volcanic aurum, etc. Strangely enough, these veins and deposits never seem to run out, no matter how much is mined. There’s also a small compound where several dwarves seem to live, who are more than happy to mine the stuff for you.",
+    "origin": "Dragon Age - v1.01"
+  },
+  "161ba76e-a8a4-5e85-b5fb-1c3b9ed26ea5": {
+    "id": "161ba76e-a8a4-5e85-b5fb-1c3b9ed26ea5",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Ebony Pick",
+    "cost": 200,
+    "description": "Crafted from ebony and embedded with ancient runes, you are now the proud owner of an ancient nord pickaxe. Not only can it go through rock as easily as a knife through flesh, but it ignores any magical durability of the target. There is a reason this is one of the very few ways to get through Stahlrim.",
+    "origin": "TES: The First Council"
+  },
+  "c484a145-d231-5de8-9cc1-5db03f487a5c": {
+    "id": "c484a145-d231-5de8-9cc1-5db03f487a5c",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Endless Bag of Glowstone",
+    "cost": 100,
+    "description": "You get a small bag which inexplicably contains a full stack of Glowstone Dust. It refills once a week. Handy for lighting up your surroundings, keeping the monsters at bay.",
+    "origin": "Minecraft JumpChain"
+  },
+  "3c028e8f-b91b-5470-bdbf-7938b4abcce3": {
+    "id": "3c028e8f-b91b-5470-bdbf-7938b4abcce3",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Fine Reinforced Pickaxe",
+    "cost": 200,
+    "description": "A beautiful and well-made Pickaxe that makes mining substantially easier and never needs to be maintained. It will dramatically increase the speed at which you gather minerals and reduce the fatigue you feel after.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "046f4f74-630e-5817-acb0-5194b14208d1": {
+    "id": "046f4f74-630e-5817-acb0-5194b14208d1",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Fine Reinforced Shovel.",
+    "cost": 200,
+    "description": "A beautiful and well-made shovel designed to dig up the tough Martian soil. It never needs to be maintained, and will substantially increase the speed at which you dig as well as reduce the fatigue you feel after",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "def3f3f2-c62f-55d0-bdc3-ccdb3854a7ad": {
+    "id": "def3f3f2-c62f-55d0-bdc3-ccdb3854a7ad",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Full Mining Town",
+    "cost": 800,
+    "description": "You have convinced a number of people to live off the grid outside of the counsels' jurisdiction, and now you own your own small mining town. It is fully staffed by miners, cops, service staff, and whores. It features a bar, casino, apartments, and basic infrastructures, such as water and sewage.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "f5260268-ef83-549d-b2a6-9154038f9732": {
+    "id": "f5260268-ef83-549d-b2a6-9154038f9732",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Hiking Backpack",
+    "cost": 200,
+    "description": "An unbelievably massive backpack with a multitude of compartments and room, and comes with a sleeping bag, canteen, compass, and thermals. It will carry many tools or minerals that you mine with ease.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "117107f5-df6d-5570-9a17-10add88eba72": {
+    "id": "117107f5-df6d-5570-9a17-10add88eba72",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Junkyard",
+    "cost": 200,
+    "description": "Junk to some is treasure to others. You get a doorway that leads to a small pocket universe that is filled with the local area’s lost, broken and/or discarded items. You might find broken gear, ruined vehicles, or maybe a pristine limited edition item that someone just forgot about. Everything in here will be somewhat useful to you, but you get to decide if it’s use is as a source of resources, or if something is worth fixing. The doorway takes the appearance of an expandable hula hoop that opens a portal to the pocket universe. The pocket universe will refill with junk as you travel, or as the local area around you generates junk that will be siphoned off. In addition, if you haven’t cleared out the junk universe in one jump, then you can still pick it up in another, while the junk from the new jump will slowly filter in as space is opened up.",
+    "origin": "Mass Effect: Andromeda JumpChain"
+  },
+  "e03b7934-2586-5c00-bb0b-f9709df6664d": {
+    "id": "e03b7934-2586-5c00-bb0b-f9709df6664d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Know You Are Stone",
+    "cost": 100,
+    "description": "As a dawr who was born in the earth, lived in the earth, and mined in the earth, you have a supernatural sense of the nature and quality of nearby stone. You can tunnel through any earth or stone with maximum efficiency with any tools you have available, know how to set up tunnels to be stable, and you automatically know the quality of any soil or stone you see, knowing how well it can be used for various purposes, such as how rich soil is for farming, what ores can be found in certain rocks, or how well suited a specific stone is for construction or sculpting.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "66272e87-decc-537f-9127-311e49cee4af": {
+    "id": "66272e87-decc-537f-9127-311e49cee4af",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Lucky Miner",
+    "cost": 400,
+    "description": "You are so fortunate. When you dig for minerals, it is almost like whatever type you want or need at the time shows up about once a month. Gold, steel, bronze, diamond, alien minerals? Fortune favors the digger.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "6e206882-f1e4-5f6d-a85f-ca1b18854a98": {
+    "id": "6e206882-f1e4-5f6d-a85f-ca1b18854a98",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Makeshift Tools",
+    "cost": 300,
+    "description": "You might not always have access to a shovel or pickaxe, but that doesn’t mean you don’t know how to cobble together a temporary one. You can use rocks, minerals, scrap, and whatever is lying around to craft mining, digging, or cutting tools.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "0c985ebf-b4c0-5f22-8650-4d3f63ba6780": {
+    "id": "0c985ebf-b4c0-5f22-8650-4d3f63ba6780",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Mighty Miners",
+    "cost": 0,
+    "description": "\"Dwarves might be fierce, we might be industrious, but for the dwarves of Mighty Miners it is dwarven efficiency that is paramount. Dwarves of this chapter coordinate and cooperate like no others, accomplishing their mission goals and getting out in record time. 'Speedrunners' you might be tempted to call them. All of your teamwork will flow smoother from their tutelage, despite possibly having never met before with any of the employees of the day.\"",
+    "origin": "Deep Rock Galactic Jump (Leaf Lover Edition)"
+  },
+  "5a68f6e3-f3dc-5cc6-9ba5-ddad46495680": {
+    "id": "5a68f6e3-f3dc-5cc6-9ba5-ddad46495680",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Mine",
+    "cost": 400,
+    "description": "This mine is placed in a location near your starting location (or on some property you own) and is unquestioningly recognized as your property by your allies and overlooked by your enemies. While it can only be mined by hand, this mine contains veins for every metal found natively in this setting except Warpstone, and expands to add novel, naturally occurring metals in future settings. This mine never experiences a tunnel collapse, flood or similar safety feature.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "d4226922-86f9-57cd-9c45-9d1ac41e33ce": {
+    "id": "d4226922-86f9-57cd-9c45-9d1ac41e33ce",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Mine All Mine",
+    "cost": 200,
+    "description": "But what good is a forge without the materials to work? You have the rights to mine a particularly prosperous mine. It’s as ready to work as Soljund’s Sinkhole, Raven Rock Mine, even Cidhna. There’s an absolutely windfall of ore veins for you to exploit here. Most of these are all the same mineral resource, which could be anything from iron to ebony. The mine will primarily offer a reliable supply of this ore, but more valuable minerals can be found as you dig deeper. A draugr crypt is concealed deep inside – meaning you could have access to stalhrim or discover spaces dedicated to preserving the remains of dragons for truly amazing crafting materials! If you want, this can be refurbished to double as a (legitimate) prison complex. You’ll get free labour with a little added risk. Regardless there will be an overseer in charge of keeping things running smoothly in your absence. So even if you don’t do the digging personally you’ll slowly get your resources.",
+    "origin": "TES V - Skyrim (By stupid_dog)"
+  },
+  "05a0d999-d809-515e-a5da-2cc6d64f3c1a": {
+    "id": "05a0d999-d809-515e-a5da-2cc6d64f3c1a",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Mineral Survey",
+    "cost": 200,
+    "description": "This map contains a detailed mineral survey of a three dimensional space of land a hundred miles across, centered around your starting hold. It can be updated to show a different space of land by being carried around the borders of a new area of land smaller than or equal to a cube with one hundred mile sides",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "0f3616be-2728-5c2d-a8a2-a0bec08ff97d": {
+    "id": "0f3616be-2728-5c2d-a8a2-a0bec08ff97d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Miners",
+    "cost": 100,
+    "description": "After the Tragic end of Goldo these surprisingly beautiful dwarfed ladies swear fealty to you for ending their revolution against the corruption of their leadership. They are capable miners able to effectively plan out and construct a functioning Mine with little difficulty.",
+    "origin": "Overlord (Game) Fanfic Jumpchain"
+  },
+  "c093e27a-78f6-5c53-aa06-0ae555c4f3ed": {
+    "id": "c093e27a-78f6-5c53-aa06-0ae555c4f3ed",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Mining Equipment",
+    "cost": 100,
+    "description": "A pickaxe that has been passed down from father to son for generations over thousands of years and is strong enough to cut through any mundane stone or metal found on Mallus with ease, paired with a flameless lantern, a thousand feet of incredibly study rope, and a rucksack capable of holding any amount of weight that physically fits in the bag.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "3c031fc1-c9cb-5476-b36f-5a8fdd713fbf": {
+    "id": "3c031fc1-c9cb-5476-b36f-5a8fdd713fbf",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Mining Helmet",
+    "cost": 100,
+    "description": "Descending below the stone bowels of the earth can be a tricky business, especially considering how difficult it is to see down there. This runic helmet will not only protect your head from falling rocks or a goblin's club, but it acts as a constant source of light, illuminating whichever direction you're looking towards.",
+    "origin": "Warhammer Fantasy_ Rise of Sigmar"
+  },
+  "89defb76-d5a0-5698-acaf-2cd5cfe7d3da": {
+    "id": "89defb76-d5a0-5698-acaf-2cd5cfe7d3da",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Monster Spawner",
+    "cost": 200,
+    "description": "Have you ever thought that there just weren’t enough horrible monsters in the world? Does the lack of endless waves of flesh­devouring Zombies seem to take all the fun out of life? Well, worry no more; with this Monster Spawner, you’ll be able to summon up hordes of enemies to fight whenever you like! A handy dial on the side allows you to choose between any non­boss monster that appears in your version of Minecraft, and a switch allows the monster spawning functionality to be turned on or off. Monsters spawned in this way will be entirely uncontrolled, and do not possess souls. If defeated, they may drop any loot they would normally spawn with, along with the normal XP orbs. Monsters only spawn in darkness, so the Monster Spawner will not actually do anything unless it is activated in a dark place where monsters can safely spawn.",
+    "origin": "Minecraft JumpChain"
+  },
+  "256abd84-7254-52eb-a431-ac8eb137c7cd": {
+    "id": "256abd84-7254-52eb-a431-ac8eb137c7cd",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Octiron",
+    "cost": 100,
+    "description": "You have a large supply of unworked Octiron, a heavy and dark metal with an extremely high magical charge. The high thaumic radiation present in Octiron makes it good for making magical equipment, but also somewhat uncontrolled; sometimes what you get isn’t quite what you wanted. For example, bells wrought from Octiron ring with a great resounding silence, negating sound nearby, and compasses made of Octiron point to large concentrations of magical fields rather than magnetic fields. Octiron can also be used to ground out rogue magic, much as lead blocks most forms of radiation.",
+    "origin": "Discword Jumpchain"
+  },
+  "5f3ec62d-24ad-5da5-a018-0a9a75cf2d9a": {
+    "id": "5f3ec62d-24ad-5da5-a018-0a9a75cf2d9a",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Old Miner’s Dog",
+    "cost": 200,
+    "description": "The dog that used to be the mining company pet before the Martian spirit attack; It scampered off, and you wound up founding it. It seems as lucky as you are, and there's no better companion than a man and his dog.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "802b00de-92cf-5de2-9c4f-ab0b0ad29a78": {
+    "id": "802b00de-92cf-5de2-9c4f-ab0b0ad29a78",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Orichalcum",
+    "cost": 100,
+    "description": "A type of metal most commonly used by the Orcimer, it can hold it's shape better than almost any other metals out there, and is highly resistant to damage. You will receive a stock of one hundred orichalcum ingots that will replenish weekly.",
+    "origin": "TES: Daedra"
+  },
+  "b3f348fc-4ede-5cb0-b177-aedd57fab933": {
+    "id": "b3f348fc-4ede-5cb0-b177-aedd57fab933",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Prospecting",
+    "cost": 100,
+    "description": "Not only just for finding ore to mine to build your creations, this perk also grants you the ability to sense the various forces and energies that might affect the goal of anything you build in a location. It would be kind of bad to build an engine that runs on mana only to find that there isn’t a convenient leyline nearby. Or just the more mundane sense that the location would need less",
+    "origin": "Generic Minecraft JumpChain"
+  },
+  "649efa22-7046-5d32-bd4f-6a96d93698ad": {
+    "id": "649efa22-7046-5d32-bd4f-6a96d93698ad",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Rare Earths",
+    "cost": 100,
+    "description": "A crate, refilling nightly, of any rare or exotic material that may be found in the Warhammer 40K universe, since the rulebook isn’t terribly clear on just what it is the Squats mine so much of.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "94d66bdf-cdc3-5266-99fd-b07ae44731a3": {
+    "id": "94d66bdf-cdc3-5266-99fd-b07ae44731a3",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Reinforced Power Drills",
+    "cost": 100,
+    "description": "Two massive handheld drills wielded like gauntlets, they can chew through rock and enemies with ease, and would make pickaxes obsolete if they didn’t need fuel. Not only is each drill head bigger than your head, but they drill in an area of effect big enough to make tunnels where two dwarves can walk side by side.",
+    "origin": "Deep Rock Galactic Jumpchain"
+  },
+  "7441d9eb-6236-5c0e-a8e7-f999db82027b": {
+    "id": "7441d9eb-6236-5c0e-a8e7-f999db82027b",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Rock and Stone",
+    "cost": 100,
+    "description": "There is a very good reason why all dwarfs are stereotyped as being miners, and you certainly live up to it. You are a talented miner, not only knowing how to dig through the earth at a rapid pace, but find veins of materials and set up proper Dawi support to ensure that it’ll only collapse during combat or natural disasters.",
+    "origin": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "61a0e55a-cec8-53f1-b6df-45417f3fbc33": {
+    "id": "61a0e55a-cec8-53f1-b6df-45417f3fbc33",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Scrapper",
+    "cost": 200,
+    "description": "Without the reputation to back their words and Truguts, many starting racers have to make do with the discarded scraps of more well-established racers. But just because an item is worn out or damaged doesn't mean it's not still useful – and you'd be surprised how much you can get working again if you put in the effort. You're a gifted junkyard salvager, with both a keen eye for useful scrap and the mechanic skills you'll need to get your haul back into working condition. Even better, it seems that you're unusually fortunate when you go 'junkyard delving', and are considerably more likely to find whatever you're looking for... or at least, a workable substitute.",
+    "origin": "Star Wars: Podracer JumpChain"
+  },
+  "a9dc45d6-0565-5b11-a8da-cf1f562cf3fd": {
+    "id": "a9dc45d6-0565-5b11-a8da-cf1f562cf3fd",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Sleep easy",
+    "cost": 200,
+    "description": "It’s a dangerous world and a traveler won’t always have a safe place to sleep. You have a pretty heavy layer of plot armor that protects you when you bunk down for the night, with predators failing to catch your scent and trouble generally passing you by. If despite all of that you’re ever in harm's way when asleep, you’ll awaken immediately with a premonition to warn you of what’s coming.",
+    "origin": "Dwarf Fortress"
+  },
+  "b2e3e44a-74e7-5f93-b9ad-938b4c9beb36": {
+    "id": "b2e3e44a-74e7-5f93-b9ad-938b4c9beb36",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Steeve",
+    "cost": 200,
+    "description": "A glyphid egg and an incubator. When incubated the egg reveals a glyphid of your choice between a Glyphid Grunt, Glyphid Grunt Slasher, or Glyphid Grunt Guard. This glyphid is your Steeve as if you had charmed it in the caves, but their loyalty is permanent and Deep Rock Galactic is willing to let it live with you in the rig. If your Steeve is killed you will receive a new egg in a week.",
+    "origin": "Deep Rock Galactic Jumpchain"
+  },
+  "c16d832b-b8ab-59ca-a226-b9f8332e3bbc": {
+    "id": "c16d832b-b8ab-59ca-a226-b9f8332e3bbc",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Timeless Metal",
+    "cost": 100,
+    "description": "The metal that the dwemer use for the vast majority of their work is a cautious thing, not being affected by the flow of time or the passing of the ages. You will receive a weekly shipment of this metal, measuring in at two dozen ingots.",
+    "origin": "TES: The First Council"
+  },
+  "2c1fb41a-52c6-5324-b0dc-884ce0aa5f8b": {
+    "id": "2c1fb41a-52c6-5324-b0dc-884ce0aa5f8b",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Tunnel Fighting",
+    "cost": 400,
+    "description": "Fighting in the dark is one thing. Fighting in the dark in confined spaces in another. Fighting in the dark in confined spaces when your enemies can potentially flank you or bypass you by digging new paths around or above you is a third. You are a master of tunnel fighting at all levels. You are a master of fighting in tunnels as an individual, a master of the tactics of leading groups to fight in tunnels, and a master of tunnel strategy capable of defending a fixed position against tunneling enemies or assaulting enemy strongholds and armies by tunneling.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "9fbe3dbb-226d-5d07-be6e-4210fa052908": {
+    "id": "9fbe3dbb-226d-5d07-be6e-4210fa052908",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Ultimate Record Keeper",
+    "cost": 200,
+    "description": "You know exactly how much of everything you have. Potatoes? Soldiers? Blood cells? Sure. This perk applies to everything that’s ‘yours’ and counts theft or destruction as a loss, but not subversion unless you can monitor someone’s integrity through other means. This power also keeps complete records, and can arrange them into easy-to-read spreadsheets on demand.",
+    "origin": "Dwarf Fortress"
+  },
+  "ef6c07e0-8dad-5e1f-9220-583191184a88": {
+    "id": "ef6c07e0-8dad-5e1f-9220-583191184a88",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Mining",
+    "name": "Underground Navigation",
+    "cost": 200,
+    "description": "Highly mathematical, and difficult to explain intuitively. It combines three dimensions of movement with fixed gravity, a subtractive approach to space (with potentially variable mediums), and a connection to open ground. You never get lost when navigating tunnels, can easily map out any tunnels you have explored in a way that is understandable to others who lack your familiarity, and have no problems interpreting maps or instructions left by others.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "25746b0d-0d5d-53e1-98a0-f407429e57af": {
+    "id": "25746b0d-0d5d-53e1-98a0-f407429e57af",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "A Matter of Scale",
+    "cost": 200,
+    "description": "Let others joke about compensating, you know the engineering it takes to make war-machines function. Most devices work best in a narrow range of sizes, too big and they become unwieldy, too small and insufficiently powerful for the job. Either way efficiency drops off sharpy. Not for you. You can scale up weapons to level cities and slay Titans, or miniaturize them almost to the point of digi-weapons with no loss of functionality, and can do this for virtually any technology.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "b870c32c-4e53-5dc0-b3a6-ff0a931fbd3d": {
+    "id": "b870c32c-4e53-5dc0-b3a6-ff0a931fbd3d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Alchemy Mastery",
+    "cost": 400,
+    "description": "Sometimes, mundane skill and ability would fail against the endless hordes of enemies that might appear. Or perhaps you might simply wish for the ability to more quickly harvest ore and explore sunken ships without a scuba tank. With this ability you have been granted a master’s ability to make potions to enhance your ability or grant new ones. This includes the ability to triple your potion output from a single recipe and knowledge on how to formulate new potions.",
+    "origin": "Generic Minecraft JumpChain"
+  },
+  "06ef4d74-8681-5d76-b846-da0f3cf999da": {
+    "id": "06ef4d74-8681-5d76-b846-da0f3cf999da",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Arcane Blacksmith",
+    "cost": 200,
+    "description": "Fixing weapons and armor is all well and good, but it can be a bit tricky working on enchanted items. Thankfully, you know just what to do in order to reinforce such magical pieces of equipment. Not only that, you are also quite the skilled enchanter yourself, placing pretty decent magical effects on your creations.",
+    "origin": "TES: Warriors"
+  },
+  "7321f023-c7cc-53d9-8f24-ebc75d9a9810": {
+    "id": "7321f023-c7cc-53d9-8f24-ebc75d9a9810",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Armorer",
+    "cost": 100,
+    "description": "The path you have chosen may not be as glorious or memorable as those other paths, but every warrior needs someone to create and repair their weapons. You are a talented smith, able to repair most of the weapons and armors you could come across, as well as crafting your own.",
+    "origin": "TES: Warriors"
+  },
+  "5dc5b620-86c0-5c22-8a27-923aeb8476e7": {
+    "id": "5dc5b620-86c0-5c22-8a27-923aeb8476e7",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Artisanal Gear for the Artisan",
+    "cost": 200,
+    "description": "Your skill in any combat or craft grows if you use tools that you, personally, have crafted, with the increase in skill growing depending on the quality of the equipment you have produced and the amount of time and effort spent on the equipment.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "ec4b8bc2-54a7-53ff-87cf-523e92996940": {
+    "id": "ec4b8bc2-54a7-53ff-87cf-523e92996940",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Battlefield Repair",
+    "cost": 200,
+    "description": "It’s a sad but inescapable fact of life that spelljamming vessels can get seriously damaged in the course of any serious combat. With this Perk, you can make patch repairs to alleviate the worst of any damage and insure your ship stays in fighting trim much, much longer than might seem possible. While the repairs you make won’t quite be up to the standard of a full overhaul made within the safety of a drydock, they’ll come close.",
+    "origin": "Spelljammer JumpChain"
+  },
+  "05cbd034-d921-589c-be36-af58302652f1": {
+    "id": "05cbd034-d921-589c-be36-af58302652f1",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Black Boxing",
+    "cost": 200,
+    "description": "While certain red-robed rats of Mars always trying to get their grubby mechadendrites on your stuff is annoying, messing with them is endlessly entertaining. You can easily tweak your work to be nearly impossible for others to duplicate. If you’re feeling particularly spiteful, you can build in some cross-connections so anyone trying will blow themselves up.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "bea31e35-0f4d-5b40-a302-50ba1ad0f130": {
+    "id": "bea31e35-0f4d-5b40-a302-50ba1ad0f130",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Blacksmith’s Talent",
+    "cost": 100,
+    "description": "Your skills in metalwork are in high demand, you can forge close-fitting armor and weapons better than some enchanted ones.",
+    "origin": "MTG_ Bloomburrow"
+  },
+  "7daeb76e-2e42-5c01-9131-fa59000644c3": {
+    "id": "7daeb76e-2e42-5c01-9131-fa59000644c3",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Book of Records",
+    "cost": 100,
+    "description": "The dwarfs keep a large number of books for all kinds of purposes, the most famous being the ones in which they store the Grudges committed against their people. This is not that book, but it is certainly useful. Made up of endless pages, it will automatically mark down any Grudges, accounts, mining locations, places of importance, and much more. The perfect tool for those who wish to catalog everything one encounters.",
+    "origin": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "646bc7d7-715b-5c45-9652-e2003171417d": {
+    "id": "646bc7d7-715b-5c45-9652-e2003171417d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Brusque",
+    "cost": 100,
+    "description": "Squats value honesty and not wasting time, so have the reputation of being rude. You gain some benefits from this, though, as nobody ever takes personal offense if you’re short with someone or demand they get to the point already. It’s just expected of a Squat.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "314cf74f-a73d-5bc7-bae9-5d844820de36": {
+    "id": "314cf74f-a73d-5bc7-bae9-5d844820de36",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Builder",
+    "cost": 400,
+    "description": "Somehow, mortal men are able to build some rather impressive fortifications when pushed. It might not have the sheer magnificence of the Dwarves strongholds, or the elegance of the Elven cities, but it can hold up to the brutality of the other occupants of Mordor quite well. Unless they start cheating with flying creatures and treachery, but that’s another problem. You are capable of designing very effective and setting appropriate buildings, from simple houses for farmers to grand fortresses capable of withstanding years of siege, which will be resistant to whatever you specifically design them for. Out of context issues, such as explosive powder in an otherwise somewhat primitive setting, will need your own ingenuity to anticipate and account for, but otherwise you can have a good idea of how something needs to be built in order to deal with commonly known problems. You’re also rather good at organising repairs and improvements to existing fortifications in a fraction of the time, to the point that by the time the next army approaches your stronghold you’ve not only fixed the damage the last army did, you’ve made some improvements to counter their tactics. This can all be quite resource intensive, so you’ll need to be able to persuade whoever is funding your work that it will be worth it.",
+    "origin": "Middle-Earth Shadow Of War Jump - The Reddit Edition"
+  },
+  "9cb687be-1a63-5cf8-8bdc-c9564ec0e19f": {
+    "id": "9cb687be-1a63-5cf8-8bdc-c9564ec0e19f",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Celestial Technology",
+    "cost": 400,
+    "description": "Though they are not makers, the Angels are a force of Creation. This perk grants you their knowledge in Supernatural Technology they use. Holy Armor, Lances that shoot beams of Light and all manner of Technology that repels Darkness and creatures of Evil. You also become more skilled in the use of Holy Weapons.",
+    "origin": "Darksiders 1.1."
+  },
+  "5d099191-28e3-5b71-96fe-cb22817b0557": {
+    "id": "5d099191-28e3-5b71-96fe-cb22817b0557",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Child of Mahal",
+    "cost": 400,
+    "description": "To be renowned for one's metalwork amongst a folk famed for such craft is no small thing. Not only have you a talent for working metal, but your craft is among the finest of any dwarf alive in this Age. You know the secrets to working mithril with great skill. You also possess knowledge of lost lore including the dwarf-masks of the Elder Days that could resist even dragonflame. A true child of Mahal you withstand heat better than many of your kin allowing you to spend longer periods of time working the forge with less need for water to cool you and in fact you find that when working at a forge you feel more awake than normal.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "74dcb093-fd27-5dc9-a5df-857501a63a36": {
+    "id": "74dcb093-fd27-5dc9-a5df-857501a63a36",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Craft of Hephaestus",
+    "cost": 600,
+    "description": "Though many look down on the Smith God for his unfortunate appearance, none can deny that his works are the best in all of the Greek world. And now, through either innate talent or skill cultivated by the god himself, you are now one of the few who could potentially match him. You are a peerless craftsman, making magical weapons with the same contemptuous ease as armor or children's toys, all easily fit for the gods themselves. Additionally, your skills are so great that you can break down and enhance seemingly indestructible objects, so long as you actually intend to improve them that is.",
+    "origin": "God of War - PJ Edition"
+  },
+  "9ee2b5b9-39b9-509c-9571-14c3c880a2b5": {
+    "id": "9ee2b5b9-39b9-509c-9571-14c3c880a2b5",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Creator of Wonders",
+    "cost": 600,
+    "description": "After the Sundering, when it became clear their grand design was fundamentally flawed, the Sartan across the various worlds set to work creating marvels to correct and compensate for those flaws. You are now a master of blending magic and technology, able to create technomagical wonders on the same level. Power plants that draw in ambient heat in violation of thermodynamics and channel the energy through artificial wormholes, factories capable of growing like living things able to supply all of a civilization’s needs, terraforming devices capable of producing water and breathable air by drawing on geothermal energy. All are now within your grasp.",
+    "origin": "The Death Gate Cycle"
+  },
+  "35c1e5d7-94d2-5c24-851f-05834e1f9f60": {
+    "id": "35c1e5d7-94d2-5c24-851f-05834e1f9f60",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Dwarven Craftsmanship",
+    "cost": 100,
+    "description": "In the tempering of steel, and in the making of mail the children of Aulë have no equal, not even among the greatest of the Noldor. While you are no truly great craftsman, you possess that natural aptitude of your race, as well as a fair understanding and skill in working steel. Even your relatively low skill, compared with your elders and those more naturally talented than you, is still good by the standards of Men. Good enough that even here your works look like masterworks to them, and your armor serviceable to any dwarf warrior.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "7a5551fe-1aad-5e37-b50c-285430612fda": {
+    "id": "7a5551fe-1aad-5e37-b50c-285430612fda",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Dwemer Lexicon",
+    "cost": 400,
+    "description": "A complete record of the Deep Elves’s knowledge and technology, ranging from their mechanical monsters to tonal tech. This ranges from the things as simple as their standard architecture to their advanced automatons and things like the Aetherial items. Also for those already asking, the knowledge of how to in theory remake the Numidium is here, however you’ll notice it’s not going to give a step by step guide, and the requirements and skill necessary will be far beyond all but the greatest, and most legendary Tonal Architects. Make sure to use this with care, the Dwemer were among the most powerful races to live and the damage that could be done with their advancements is immense.",
+    "origin": "Elder Scrolls Skyrim SB Jump"
+  },
+  "ffc21fe7-241f-58b3-86f9-bcb9dee5b4ba": {
+    "id": "ffc21fe7-241f-58b3-86f9-bcb9dee5b4ba",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Enchantment Mastery",
+    "cost": 400,
+    "description": "Normally, enchanting is an...abstract practice at the best of times and completely up to the whims of fate at the worst here. However with this knowledge you have been granted and this Perk, you’re able to streamline the process, removing ambiguity and chance from the equation so you’re able to choose exactly what you wish to enchant. Also you’re unlimited on how much you can enhance a given object with enchanting...as long as you can pay the price in Magic or lifeforce, or whatever you’re using to enchant the item.",
+    "origin": "Generic Minecraft JumpChain"
+  },
+  "9646fa1b-4746-5cc8-b139-2335692d6835": {
+    "id": "9646fa1b-4746-5cc8-b139-2335692d6835",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Endrinkuli",
+    "cost": 100,
+    "description": "You have knowledge of the construction of gunpowder, guns, and vehicles of the Karaz Ankor, as well as the skills of a typical dwarven journeyman engineer. Your hands gain a literally inhuman level of precision and economy of motion.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "d44d7936-a400-5346-93cf-3cfdd7a24885": {
+    "id": "d44d7936-a400-5346-93cf-3cfdd7a24885",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Engineer Extraordinaire",
+    "cost": 400,
+    "description": "Stark is undeniably one of the greatest engineers on the planet, now you are at least his equal as an engineer. You can be considered a master at all forms of engineering from mechanical to programming, and yes this means everything that uses the term engineer. Your mastery of engineering lets you utilize modularity, efficiency, and miniaturization in all aspects of your creations. You can even reverse engineer any other engineer's work from genetic engineering to starship engineering. You can recreate it and make it better than it was before.",
+    "origin": "X-23 Jump"
+  },
+  "278673bf-9518-554e-9925-2f6b2c892e9b": {
+    "id": "278673bf-9518-554e-9925-2f6b2c892e9b",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Fast Service",
+    "cost": 200,
+    "description": "Some might wonder what place a mechanic has on the battlefield, but they clearly never saw a tank take a crippling hit. Fortunately, your skills are such that you can repair many vehicles and devices that would seem at first glance only good for parts, and in a fifth the normal time.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "9107f550-c429-5e3a-83c8-263f0e416f4d": {
+    "id": "9107f550-c429-5e3a-83c8-263f0e416f4d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Forge",
+    "cost": 400,
+    "description": "You have Forge’s power of Intuitive Genius. It sounds and is pretty simple, you instinctively know and understand machines and technology. On its own it makes you an excellent mechanic, but combined with intelligence and knowledge it is potentially one of the greatest abilities an engineer could ask for.",
+    "origin": "X-23 Jump"
+  },
+  "7ba0c35b-58b2-5b99-9881-ab5976ece533": {
+    "id": "7ba0c35b-58b2-5b99-9881-ab5976ece533",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Good Not Good Enough",
+    "cost": 200,
+    "description": "Everything you make is always made to the best of your abilities, regardless of fatigue, injury, or personal feeling, save for works you deliberately wish to be imperfect. Your creations are still subject to material limitations.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "0e76271c-0360-56a2-aae1-d63da2a5aa5a": {
+    "id": "0e76271c-0360-56a2-aae1-d63da2a5aa5a",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Gray Crystals",
+    "cost": 400,
+    "description": "All in the Shivering Isles know to fear the gray crystals that grow in the land whenever the Greymarch is near. Such crystals are difficult to destroy, and empower the magic of those allied to perfect order. You may now generate and control such crystals, and could even make weapons and armor of them that are excellent to channel magic through.",
+    "origin": "TES: Daedra"
+  },
+  "cc6bdfd3-95e9-5103-8ce0-dcd7788901cf": {
+    "id": "cc6bdfd3-95e9-5103-8ce0-dcd7788901cf",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Greasing the gears",
+    "cost": 100,
+    "description": "Oh, how lustrous the oil shines! How smooth the sounds the gears make as they work the lubrication into every crevice and corner of their machinery. You are a master at applying lubrication to things, making them run smoothly and efficiently. Indeed, when you apply new grease to old machinery it seems to reverse the wear and tear of time, bringing them back to the prime of their life!",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "f50c97eb-54e2-5b18-a315-6b9832418853": {
+    "id": "f50c97eb-54e2-5b18-a315-6b9832418853",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Gunsmith",
+    "cost": 200,
+    "description": "You are an expert in the crafting of firearms, gunpowder and explosives. Why, if you were trapped in the medieval era, you could have some crude muskets and cannon available in a few months, just maybe not enough to equip an entire army. Still, some strategic explosions can make a big difference, so you are also an expert in demolitions.",
+    "origin": "DC Multiverse - Earth 18 JumpChain"
+  },
+  "4cddd47f-462e-57ab-89dd-5b2b7960f7dd": {
+    "id": "4cddd47f-462e-57ab-89dd-5b2b7960f7dd",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Heir to the Jewel-smiths",
+    "cost": 400,
+    "description": "The Gwaith-i-Mírdain (People of the Jewel Smiths) were a brotherhood of elven craftsmen led by Celebrimbor, second greatest of the Elven smiths after Fëanor himself. They made the Rings of Power as well as the enchantments on the West-gate of Moria. Many wonders they wrought in their settlement of Ost-in-Edhil, capital of the elven realm of Eregion, and you are the inheritor to their secrets, from the making of Rings and enchantments, to weapons and armor fit for elven kings. In works of masonry and the working of steel your knowledge and talent are second only to the greatest of the dwarves.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "b362900c-4829-5204-8f8b-3e4d3f2c466a": {
+    "id": "b362900c-4829-5204-8f8b-3e4d3f2c466a",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Heretical Research Notes",
+    "cost": 600,
+    "description": "You have somehow found the notes of an old Heretek and their progress in making technology using knowledge forbidden by the Mechanicum at large. This could be research on incorporating Xenos-artifice into Human technology or the creation of Men of Iron. Whatever it may be, it is potentially very dangerous and very capable. Yet beware, for if any find you to have these notes, they would kill you on the spot with no chance of explaining your actions.",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "71a10bf8-3578-5aa3-a539-e468da4fdf23": {
+    "id": "71a10bf8-3578-5aa3-a539-e468da4fdf23",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Inhuman Craftsmanship",
+    "cost": 200,
+    "description": "Amongst all the people of the Old World, none are as famed for their craftsmanship than the dwarfs. Whether or not you are one of those stout craftsmen, you will find that anything you create is simply better than what any human could ever achieve, made with simply inhuman efficiency and effectiveness. After all, no proper dwarf would ever want to be found making shoddy equipment.",
+    "origin": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "fb69e354-bd8d-569b-a49a-d9a373054305": {
+    "id": "fb69e354-bd8d-569b-a49a-d9a373054305",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Larger than Limitations",
+    "cost": 400,
+    "description": "You can scale up your designs infinitely without issue, and you are skilled at engineering macroscopic effects of an environment via structures such as dams, dykes, canals, lightning rods, and more.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "9ddf4b19-6866-5f25-9654-20d028b0978c": {
+    "id": "9ddf4b19-6866-5f25-9654-20d028b0978c",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Lessons of Morgrim",
+    "cost": 400,
+    "description": "It seems like you’re part of the Engineering Guild, or at least have enough knowledge to mimic a master of the craft. Either way, you’re privy to the secrets of this most honored guild, creating fine machines that are much more capable and, more importantly, reliable than anything humans could achieve. Additionally, you’ve come to learn of this brand new yet untested substance called black powder. Not much use for it yet, but in a few centuries after it’s been deemed safe to experiment with, some enterprising beardling may have some ideas.",
+    "origin": "Warhammer Fantasy: Rise of Sigmar"
+  },
+  "14fc87ee-c00c-5012-9b0a-15893af81d06": {
+    "id": "14fc87ee-c00c-5012-9b0a-15893af81d06",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Light, Medium, Heavy",
+    "cost": 100,
+    "description": "You’re a real armour specialist. You’ve been trained, conditioned, and are experienced in the use of all kinds of armour. In lightweight flexible gear like netch leather or chitin you can move gracefully and effectively. You’re comfortable in the most massive and rigid equipment like dwemer and ebony, which offers superior defense. Medium armours such as bonemold or orcish offer you the best of both worlds without too much sacrifice of defense or mobility. In one of these types you’re already especially blessed, with the blows you do take dealing notably less damage to you or your armour. You train quickly in any kind of armour, but even more in one that you specialize in. Just by taking blows you become more proficient in whichever equipment you’re wearing. The more you get hit, the more you can get hit.",
+    "origin": "Morrowind (By stupid_dog)"
+  },
+  "a23ddc28-a0e0-5688-9d58-a35581a7a0dd": {
+    "id": "a23ddc28-a0e0-5688-9d58-a35581a7a0dd",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Maker's Prodigy",
+    "cost": 600,
+    "description": "The Makers decide to teach you the ways of Creation and you may choose to become their pupil, they will teach you how to create Magical Artifacts, imbue places and objects with power and even how to create Magical Constructs with Sentience. Regardless if you spend the time learning from them or not, you will find you learn future skills related to Creation, Enchantment, and Forging will come to you as if they were second nature, waiting to be remembered.",
+    "origin": "Darksiders 1.1."
+  },
+  "1d1106be-5c69-5230-a49b-99c4a8a4fb64": {
+    "id": "1d1106be-5c69-5230-a49b-99c4a8a4fb64",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Master of the Forge",
+    "cost": 600,
+    "description": "You have reached near the peak of what mortals are capable of when it comes to your craft, capable of making gear so fine that most would consider them the stuff of legends. You are even capable of breaking down and enhancing items that would be considered as indestructible, making them into something even greater than before under your skilled hands.",
+    "origin": "TES: Warriors"
+  },
+  "d7993046-4971-535c-9105-2c9fb6df2816": {
+    "id": "d7993046-4971-535c-9105-2c9fb6df2816",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Master Smith",
+    "cost": 400,
+    "description": "So, how many iron daggers did this take to get? Regardless of the answer to that question the results have surely shown themselves to you and everyone else. You’re a master of smithing and the working of metal, forging weapons out of Glass and Ebony is well within your capacity, and even Daedric items may be forged with proper equipment and materials. Your craftsmanship is nothing less than perfection and your opportunity to grow is great as well. Given times you may yet forge tools, weapons and armor that rival even the likes of Daedric artifacts.",
+    "origin": "Elder Scrolls Skyrim SB Jump"
+  },
+  "407d70f2-a3f1-5328-a34a-ff81e19e5384": {
+    "id": "407d70f2-a3f1-5328-a34a-ff81e19e5384",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Mechanical Basics",
+    "cost": 100,
+    "description": "You know how to maintain and repair most common equipment of the day. And with that comes a decent knowledge of chemistry, physics and computer science. It’s the future after all, things are complex.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "ee0791ff-7df8-5e87-b093-994b82aab2f5": {
+    "id": "ee0791ff-7df8-5e87-b093-994b82aab2f5",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Numenorian Schematics",
+    "cost": 400,
+    "description": "This fallen empire possessed wisdom far superior to most of Middle-Earth today. The soldiers of this ancient empire wielded the mightiest blades, the most powerful bows... but, as with most things, they weren’t satisfied there. They devised clever tools to deal with their enemies. You now have some of their work, designs for mechanical additions to your equipment that could grant properties not dependent on magic or superhuman capabilities. This record includes a variety of schematics, ranging from an addition to a shield that sets it on fire during a charge, to a spiked chain weapon, to a system that stores energy from blows against a shield and can violently release it against opponents.",
+    "origin": "Middle-Earth Shadow Of War Jump - The Reddit Edition"
+  },
+  "3160c344-2722-59c9-a35b-3d820dc7b021": {
+    "id": "3160c344-2722-59c9-a35b-3d820dc7b021",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Progress",
+    "cost": 400,
+    "description": "Training skills can often be a chore. They take too long for there to be a notable improvement, and that sometimes causes you to drop it entirely. With this, you no longer have that problem, as all of your skills improve at a noticeable rate the more you use them, even new ones.",
+    "origin": "The Elder Scrolls Series"
+  },
+  "789f5a1a-9e7f-57a5-a8fe-b17e10f48ff6": {
+    "id": "789f5a1a-9e7f-57a5-a8fe-b17e10f48ff6",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Rhunki",
+    "cost": 600,
+    "description": "You have been initiated into the arts of Dwarven Runesmiths, and are capable of crafting equipment empowered by a single rune, and have the skill and knowledge to scribe all non-chaos Dawi runes that exist in the modern age other than Master Runes. Kragg the Grim would consider you a worthy successor, and with time, practice, or a good teacher, you could learn to expand your knowledge even further beyond this, beyond the skill of any Runesmith who yet lives after the Age of Woes.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "7da09d0f-cd27-5f89-8e95-f90b25f0e6a0": {
+    "id": "7da09d0f-cd27-5f89-8e95-f90b25f0e6a0",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Runesmith",
+    "cost": 400,
+    "description": "The art of runes has long since fallen out of favor, due to the easier alternative of enchanting, but you are one of the few practitioners still around. You possess knowledge of how to craft dozens of these runes, which may not be as powerful as modern enchantments but never run out of charge. Whether you make your creations with them or engrave them onto pre-existing pieces, the only limit in how many you can place is how skilled you are.",
+    "origin": "TES: Warriors"
+  },
+  "fcbfc1dd-1a0a-5919-9b56-82aa0a6ae71d": {
+    "id": "fcbfc1dd-1a0a-5919-9b56-82aa0a6ae71d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Schematics of Daedalus",
+    "cost": 200,
+    "description": "The creator of the labyrinth was among one of the greatest mortal minds, and his creations impressed even Hephaestus. Now you find yourself in possession of his schematics and notes, detailing all manner of things from deadly traps to flying contraptions, though the most notable inclusion is that of an ever shifting maze, as well as the manner in which to safely navigate it.",
+    "origin": "God of War - PJ Edition"
+  },
+  "01b2df50-0932-5631-8136-3a3b14aa6495": {
+    "id": "01b2df50-0932-5631-8136-3a3b14aa6495",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Skyforged Steel",
+    "cost": 600,
+    "description": "Everyone says Eorlund Gray-Mane is the best smith in Skyrim. But you could change people’s minds about that. His works are flawless, yes. The gear you make and upgrade will be legendary. You do it all spectacularly: leatherworking, blacksmithing, even making jewelry. Such equipment never degrades from normal use so repairs will be unnecessary. Whenever these crafting skills grow, you’ll find upgrading past pieces to your current quality requires minimal effort or supplies. You can work even unfamiliar materials with ease. The intricacies of bonemold, chitin, even dragon scales come easily... When you forge iron equipment it’s superior to daedric equivalents. This is to say nothing of what you could produce if working with superior materials like malachite, ebony, or stalhrim. Any of the gear you make could go down in history for its craftsmanship. Each piece could be a work of art, but such is the perfection of your crafts they are even more functional than they appear.",
+    "origin": "TES V - Skyrim (By stupid_dog)"
+  },
+  "4be6790f-88b7-5648-a318-7525d5883644": {
+    "id": "4be6790f-88b7-5648-a318-7525d5883644",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Smith",
+    "cost": 300,
+    "description": "Really, there should be hordes of people behind some of these heroes, to make and maintain their trick gear, to build secret caves and so on. Not only are you an expert blacksmith, architect and chemist, in any of these fields you seem able to replace a horde of laborers and get months worth of work done in days.",
+    "origin": "DC Multiverse - Earth 18 JumpChain"
+  },
+  "b47684be-18e7-5f1e-aa69-5343fa24097f": {
+    "id": "b47684be-18e7-5f1e-aa69-5343fa24097f",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Smoke Powder Expertise",
+    "cost": 200,
+    "description": "You know how to work with the explosive substance known as smoke powder, in both hand-scale weapons such as wheel-lock pistols and grenadoe bombs, and with the larger bombards mounted on ships as siege weapons. You also have a small but regularly regenerating supply of smoke powder, enough for regular use of either your personal weapons or for one ship-scale bombard. You know which areas of the Spelljammer setting render smoke powder inert or oddly reactive (such as the surface of Oerth, in Greyspace) and may even be able to find workarounds, given time and the chance to tinker.",
+    "origin": "Spelljammer JumpChain"
+  },
+  "e8bb328d-0f40-5bd7-b5a0-45598d8bc9f6": {
+    "id": "e8bb328d-0f40-5bd7-b5a0-45598d8bc9f6",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "STC Template Library",
+    "cost": 200,
+    "description": "You have here a collection of well understood and widespread STC’s. Be they design notes and templates for the construction of a plasma reactor or the schematics for the creation of Leman Russ tanks, these templates hold valuable knowledge, but no divine mystery. Overall spanning the size of a small library in scale, with these STC’s you could create the foundation for an Industrial World, though one of middling technological prowess and average industrial efficacy. No true wonders of the Dark Age of Technology, these are still very solid pieces of technology and having them in your possession gives you a lot of prestige among the lower members of the Cult. You might even garner a small sliver of recognition from the higher members, but not more than that.",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "49426a43-daab-564d-bf4c-dc0b3959c657": {
+    "id": "49426a43-daab-564d-bf4c-dc0b3959c657",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "The Shipwright",
+    "cost": 200,
+    "description": "Some elven kindred have a long tradition of shipbuilding, most notably the Teleri and those of their kin. Elven ships are known for their swiftness and even their strength when needed. Though the greatest mariners have been Men, the greatest ship-builders are the Elves, with them being the only ones able to build ships capable of sailing the Straight Road to Valinor. Now you possess the knowledge of long years, though not nearly the equal of someone such as Círdan, you have skill and knowledge great enough to design and build a ship on your lonesome and even in the lands of Men your skills will command a high price and many who will wish to make use of your services. With minimal resources you could, within a year, build a strong warship able to run with the speed of a brisk wind, and endure long grueling battles. Perhaps with time and a lot of talent you might rival the Shipwright himself.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "bfd533e0-4f2f-5620-ba03-622879345126": {
+    "id": "bfd533e0-4f2f-5620-ba03-622879345126",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "THE SQUATS LIVE",
+    "cost": 100,
+    "description": "Your will is indomitable, your ability to forge ahead when all the universe seems to want you to die, despite terrible losses leaves heroes and champions awestruck. Naturally, this helps you resist the control and influence of others.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "51810ca6-1602-5403-b0d7-32216a951443": {
+    "id": "51810ca6-1602-5403-b0d7-32216a951443",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Treasure Hunter",
+    "cost": 400,
+    "description": "You seem to be a magnet for all kinds of useful and powerful artifacts. A quick jaunt through a bandit camp could reward you with a decently enchanted helmet, while going through a long and arduous tomb filled with all kinds of enemies and traps will hold within a blade worthy of songs and legends.",
+    "origin": "The Elder Scrolls Series"
+  },
+  "d3798eff-fedb-5c7d-9c10-6a779fb39fe4": {
+    "id": "d3798eff-fedb-5c7d-9c10-6a779fb39fe4",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Woodshaping",
+    "cost": 400,
+    "description": "The Dalish elves practice a craft known as Woodshaping, which allows them to forge outstanding arms, armour and other items from wooden materials that can easily compare to most of their metal counterparts. Yes, you read that correctly. Forge. They forge wood. How they manage to accomplish this, only the Dalish know, and they’re not telling any outsiders. Except for you, that is. You’ve studied under a Master Woodshaper, and learned all they’ve had to teach you, including the secret of how to work with Ironbark. Any type of wood can be used for this craft, but the best results are gained when Ironbark is used. Ironbark is a rare wood type, somewhat blue in colour, and only grows in the Brecilian Forest in Ferelden. Items fashioned from Ironbark are surprisingly both stronger and lighter than steel, and are exceptionally suited to enchantments.",
+    "origin": "Dragon Age - v1.01"
+  },
+  "290bf687-43a7-5f73-b691-232d095a94ae": {
+    "id": "290bf687-43a7-5f73-b691-232d095a94ae",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Worker of Stone",
+    "cost": 300,
+    "description": "Before the Sun and Moon, the dwarves had already made their own great halls within mountains and hills using unrivaled skill in the working of stone. Your skill is comparable to the finest of dwarven stone-masons living. Devising sturdy walls and stone monuments and buildings is as easy as breathing. As well, you somehow can get construction projects utilizing stone as a majority resource done in less than half the time it should realistically take. You have a knack for finding concealed doors and passages in stone, and even for finding weaknesses in defenses such as stone walls or mighty fortresses.",
+    "origin": "The Lord of the Rings_ Elves and Dwarves"
+  },
+  "edfd4873-ca8d-5dca-a2d1-ad8a9c8452e4": {
+    "id": "edfd4873-ca8d-5dca-a2d1-ad8a9c8452e4",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Smithing",
+    "name": "Xeno-Archaeologist",
+    "cost": 200,
+    "description": "Let the tech-priests wring their hands over tech-heresy, you know that all xenos and archaeotech works on sound physical principles. They worked before, and can be made to work again. You are a master of figuring out and reverse engineering technology, taking less than a tenth the time it would take a Guild workshop, and about a millionth the time it would take the AdMech.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "ab2a3e81-1a8c-5fef-9280-36011a70799f": {
+    "id": "ab2a3e81-1a8c-5fef-9280-36011a70799f",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Anvil of Doom",
+    "cost": 600,
+    "description": "The most potent runic weapons of the entire Karaz Ankor, these knowledge of how to recreate these anvils was lost when a dragon attacked Thunder Mountain and killed the Runesmith who held that irreplaceable knowledge. These anvils, made of solid Gromril and covered with runes indecipherable to modern Runesmiths (including the lost Rune of Sorcery), are carried into battle on mounted platforms, and bind the winds of magic to serve the Dawi. They can bolster other dwarfs mentally or physically, or even call down massive strikes of divine fire and lightning upon the enemy. Who knows what knowledge can be gleaned from one of these altars. It would take a Runesmith greater than Kragg the Grim to decipher the runes and learn how to remake or improve this great and terrible weapon.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "3d21f43f-e460-53a5-86af-8e829172ab67": {
+    "id": "3d21f43f-e460-53a5-86af-8e829172ab67",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Apron of Adroitness",
+    "cost": 100,
+    "description": "A thick apron made from troll leather with splotches of red and green paint, it was once owned by a renowned painter before it found its way to you. While you wear this apron, you will find that both the quality of your creations as well as the beauty and aesthetics of them will be improved.",
+    "origin": "TES: Warriors"
+  },
+  "b439110f-de1b-5418-a437-5e4af69099de": {
+    "id": "b439110f-de1b-5418-a437-5e4af69099de",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Azura's Star",
+    "cost": 200,
+    "description": "The Daedric Artifact of Azura, Daedric Prince of Dawn and Dusk, takes the form of a large, intricately designed gemstone with prongs, making it resemble a star. It acts as a reusable soul gem of the highest quality, though it can only contain white souls within it.",
+    "origin": "Elder Scrolls Series"
+  },
+  "23166e10-d3d1-5821-83e8-748264c8d044": {
+    "id": "23166e10-d3d1-5821-83e8-748264c8d044",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Bag of Tools",
+    "cost": 100,
+    "description": "While Engineering is a tactile and mental skill, it is not something to be done purely by hand. This bag includes all of the standard tools a Dawi engineer would be expected to use during his career.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "9a2ecf62-70d0-5b67-a311-968ced5d7c1c": {
+    "id": "9a2ecf62-70d0-5b67-a311-968ced5d7c1c",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Battle Suit",
+    "cost": 600,
+    "description": "The Squat version of a Dreadnought. But unlike anyone else until the Tau, they can just pop open the canopy and climb out when done. You can even wear Exo-Armor inside, and fire on the move. One arm hoists a massive Dreadnought Power Axe, and one gun arm with your choice of autocannon, heavy bolter, heavy flamer or plasma cannon. Who's the short one now?",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "0c2fedc0-683c-537b-bf72-34ffca7644f2": {
+    "id": "0c2fedc0-683c-537b-bf72-34ffca7644f2",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Blade of the Ancestors",
+    "cost": 400,
+    "description": "A unique plasma sword. This blade was created on the same day as the Destined’s birth, immediately after a prophecy delivered by the Votann itself. So to was this blade forged by the Votann, briefly taking control of the forge itself. The blade was taken up by the Grimnyr, who were in turn drawn to give unto the new born foretold by the Votaan. This terrible weapon seems to bring its’ wielder luck- and has carved through anything its’ edge has been tested against without resistance.",
+    "origin": "WH40K Leagues of Votann"
+  },
+  "54c8435a-8a4e-5843-b144-6a272774ca56": {
+    "id": "54c8435a-8a4e-5843-b144-6a272774ca56",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Bottle of Enchanting",
+    "cost": 200,
+    "description": "This strange bottle seems to be full of a green-yellow fluid-gas. This bottle is actually full of XP orbs which are used for enchanting and for powering certain enchantments on objects. This bottle can be used to convert various mystical energies into XP Orbs and vice versa without any loss of energy and can store an infinite amount of the Orbs.",
+    "origin": "Generic Minecraft JumpChain"
+  },
+  "21ea7bc7-dbc4-50d4-9c8d-72b16b5cc346": {
+    "id": "21ea7bc7-dbc4-50d4-9c8d-72b16b5cc346",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Crossbow",
+    "cost": 200,
+    "description": "Crafted from dwarven metal, this lever action crossbow can punch through all but the toughest armor. It comes with a stock of 100 crossbow bolts, as well as 15 explosive bolts of fire, frost, and shock that replenish each week.",
+    "origin": "The Elder Scrolls Series"
+  },
+  "b156acd5-9e17-59eb-9451-9232f3b95280": {
+    "id": "b156acd5-9e17-59eb-9451-9232f3b95280",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Dwarven Centurion",
+    "cost": 100,
+    "description": "One of the deadliest Dwemer Animunculi crafted, it is a brass behemoth that stands equal to Giants, and even more deadly. It's metallic hide repels most mundane weapons, it's axe can cleave through steel easily, and when it has to, it can unleash a blast of boiling steam towards an opponent. You also get a rod, allowing you to control it's actions directly as well as force it into standby mode.",
+    "origin": "Elder Scrolls Series"
+  },
+  "cd7153f5-ece7-5e6e-911b-4829938d8839": {
+    "id": "cd7153f5-ece7-5e6e-911b-4829938d8839",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Exactor",
+    "cost": 300,
+    "description": "A weapon forged for a high Kahl by the notorious craftsman Krynn the Furious, it is an exactingly made concussion hammer. But Krynn demands not only perfection from the tools he creates, but also from those who use them. The Exactor, swung with perfect form from the perfect angle, erupts with power, crushing the victim of its’ wielder’s ire. Even without such masterful swings, it remains a particularly powerful variant of a concussion hammer.",
+    "origin": "WH40K Leagues of Votann"
+  },
+  "359c496e-d827-5a87-b5be-22a287b959ae": {
+    "id": "359c496e-d827-5a87-b5be-22a287b959ae",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Exo-Armor",
+    "cost": 400,
+    "description": "The Squat’s equivalent to Terminator armor, normally worn only by a Warlord and his retinue. The result of taking the most rugged environment suit needed to handle everything from hard vacuum to dust-storms to wading through toxic radioactive vats, then hanging more armor on. Exo-Armor may look kinda... round, but it’s wearers are every bit as tough and strong as Terminators. Comes with a free power axe and shield, though you can swap either for a ranged weapon.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "cdda0637-3f7c-5ccd-99c5-890788a5bc6c": {
+    "id": "cdda0637-3f7c-5ccd-99c5-890788a5bc6c",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Flare Gun",
+    "cost": 100,
+    "description": "This gun fires more powerful flares that burn brighter and last longer. They are also coated in a stick substance allowing you to stick them to walls and ceilings.",
+    "origin": "Deep Rock Galactic Jumpchain"
+  },
+  "4763e226-d7ae-5f29-a91b-0b2452fc2275": {
+    "id": "4763e226-d7ae-5f29-a91b-0b2452fc2275",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Forgemaster’s Fingers",
+    "cost": 400,
+    "description": "A set of gauntlets once owned by a talented orsimer smith known only as the Forgemaster, who was said to have created many powerful artifacts over his lifetime. Now, these relics fall to you to use as you see fit. When wearing them, you will find that the quality of your creations will skyrocket, and the precision at which your hands move is simply inhuman. Additionally, you will find that all damage you deal with a hammer is greatly enhanced.",
+    "origin": "TES_ The Warrior Waves"
+  },
+  "00999c53-f6a4-5c71-8899-5066379659ec": {
+    "id": "00999c53-f6a4-5c71-8899-5066379659ec",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Grappling Hook",
+    "cost": 100,
+    "description": "A gun that shoots a grappling hook attached to a winch, once it hooks into something the winch can be activated to retract the cord, usually launching the dwarf towards what they have hooked. It takes a few seconds for the winch battery to recharge.",
+    "origin": "Deep Rock Galactic Jumpchain"
+  },
+  "3a74d2cd-3474-5deb-82b8-f966831065ed": {
+    "id": "3a74d2cd-3474-5deb-82b8-f966831065ed",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Gust Bellows",
+    "cost": 100,
+    "description": "An item commonly used in ancient times by miners in Lanayru, it draws in air using a vacuum mounted at its rear and then blows it out at high speeds. This tool can be used to clear away sand and dust, revealing the objects buried beneath, as well as knocking over enemies, so long as they're smaller than the average bokoblin.",
+    "origin": "The Legend of Zelda Series"
+  },
+  "04ebf6bc-2712-5df9-b806-47a950c5b334": {
+    "id": "04ebf6bc-2712-5df9-b806-47a950c5b334",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Hip Flask",
+    "cost": 100,
+    "description": "Because you’ll probably need the help to get through the day, this flask keeps a drought of alcohol at the ready. It can produce any kind of mundane alcoholic beverage you’ve ever tasted, at just the right temperature. The flask refills over time, and is invisible to thieves.",
+    "origin": "Dwarf Fortress"
+  },
+  "857257b8-a486-58e3-a928-171f10911bdd": {
+    "id": "857257b8-a486-58e3-a928-171f10911bdd",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Iron Ambassador",
+    "cost": 300,
+    "description": "This combi-bolter was named with a black sense of humor. Nonetheless, it is capable of of a blistering rate of fire, punching through armor most bolters couldn’t dream of, and then leaving particularly vicious wounds. Against those that have wronged you and yours, it will seem to guide your aim, negating luck, destroying back up systems and redundant organs and making sure they stay dead.",
+    "origin": "WH40K Leagues of Votann"
+  },
+  "bd5b3edf-29a3-5e0e-8c86-d0791f102822": {
+    "id": "bd5b3edf-29a3-5e0e-8c86-d0791f102822",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Iron Shackles",
+    "cost": 100,
+    "description": "Prisoners' leg irons have a brutal history. Have the strange quality of sapping the mental strength and will to resist of those who are forced into them.",
+    "origin": "Shadow of Mordor JumpChain"
+  },
+  "93cdecc2-c094-5550-b6a6-22eea9a4de47": {
+    "id": "93cdecc2-c094-5550-b6a6-22eea9a4de47",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Jet Boots",
+    "cost": 200,
+    "description": "A pair of high-powered jet modules that can be attached to boots, allowing you to fly for a few seconds.",
+    "origin": "Deep Rock Galactic Jumpchain"
+  },
+  "6cc38a1a-5a33-5817-8f1a-0e48a6c62f58": {
+    "id": "6cc38a1a-5a33-5817-8f1a-0e48a6c62f58",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Laser Gun",
+    "cost": 0,
+    "description": "You are gonna need this. This is a It is a magazine-fed, semi- automatic/channelled, directed-energy weapon of Rick's own design.The gun is incredibly powerful. The super-heated red bolts of energy that it fires can easily burn large holes straight through most organic targets or sever an entire limb in a single shot. It is also able to disintegrate targets with a single attack that takes the appearance of a colored bolt of electricity. You can manually adjust the weapon's output to change its lethality. It will never run out of ammo, is open for technological alterations and additions, and at the time of purchase, you can choose the appearance of the gun.",
+    "origin": "Rick and Morty Jump 1.2"
+  },
+  "966b2462-071d-51b0-9ba7-8e2ad6f39cac": {
+    "id": "966b2462-071d-51b0-9ba7-8e2ad6f39cac",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Lexicon",
+    "cost": 200,
+    "description": "One of the most fascinating dwemer creations are the lexicons, handheld cubes that can store information and memories. These three cubes can store an infinite amount of whatever information you desire to put within, and can be accessed by anyone without any negative repercussions. If you have the correct set up, you could even gain the knowledge of an Elder Scroll without paying the normal price of blindness or insanity.",
+    "origin": "TES: The First Council"
+  },
+  "2878f3bb-59ac-5b10-85f9-14c374ce1989": {
+    "id": "2878f3bb-59ac-5b10-85f9-14c374ce1989",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Lockbox and Key",
+    "cost": 100,
+    "description": "A completely impregnable, large, dwarven-made lockbox and the only key able to open it.",
+    "origin": "Shadow of Mordor JumpChain"
+  },
+  "20f4d724-00c4-5a3f-aa86-8f01b8cac57d": {
+    "id": "20f4d724-00c4-5a3f-aa86-8f01b8cac57d",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Makeshift Shotgun",
+    "cost": 100,
+    "description": "A single, short-barreled, lever-action shotgun made from old metal found out on the Martian range. It is not as powerful or accurate as a high-grade shotgun, but it does fire 12/20/slug shells and has a custom box mechanism that allows you to hold up to 6 rounds at a time.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "a12f2a49-7624-531f-8854-ee5723a0fa80": {
+    "id": "a12f2a49-7624-531f-8854-ee5723a0fa80",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Mastercrafted War-Gear",
+    "cost": 400,
+    "description": "Now here is a set of weapons and armor to make a Dominus nod in respect. Coming in the form of specially tailored power armor made for your body, this set of armour is as durable as Astartes Artificer armour and has an inbuilt powerfield. Your weapon can come in several forms, be it an Eradication Ray, Conversion Beamer or something more exotic. Whatever its shape, its functions have been improved in all aspects, being much more deadly than any regular version would be.",
+    "origin": "Mechanicum_ Cults of Technology Jumpchain"
+  },
+  "c11686be-d3f1-52c5-ab56-a439c6f23c86": {
+    "id": "c11686be-d3f1-52c5-ab56-a439c6f23c86",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Masterwork Weapon",
+    "cost": 200,
+    "description": "A single weapon of the highest possible quality. You may choose what type of weapon it is along with the material. Golden hammer, obsidian short sword, it can even be made of adamantine if you want. Whatever you choose, it will be far more durable than normal and returned to you in full repair 24 hours after being lost or damaged. You may import an existing weapon into this option to merge the two.",
+    "origin": "Dwarf Fortress"
+  },
+  "1dc2dc83-f355-5d33-9c2c-0071d49ab4f7": {
+    "id": "1dc2dc83-f355-5d33-9c2c-0071d49ab4f7",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Micromail",
+    "cost": 200,
+    "description": "This strong, and surprisingly soft, chainmail absolutely refuses to chafe. Made by dwarves of the miracle metal retribushium, this armor/clothing is very tough and serves as excellent protection for your vital parts. Retribushium somehow returns most of the force of any hits upon it to the attacker, keeping the wearer safe and making who attempt assault wish they hadn’t, though it hasn’t been tested thoroughly. And it doesn’t chafe!",
+    "origin": "Discworld Jumpchain"
+  },
+  "0070db82-f48e-5368-916f-7cb677c40939": {
+    "id": "0070db82-f48e-5368-916f-7cb677c40939",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Minecraftian Inventory",
+    "cost": 100,
+    "description": "You gain a nifty inventory that allows you to take an absurd amount of material, measured in cubic volumes with you. You will need to have some time to get used to what and what doesn’t neatly compress into a single inventory slot, of which you now have 45 of. But I’m sure you will be able to work it out eventually.",
+    "origin": "Generic Minecraft JumpChain"
+  },
+  "af8806ea-7208-5c55-8766-ec3ff83acaa7": {
+    "id": "af8806ea-7208-5c55-8766-ec3ff83acaa7",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Mithril Hammer",
+    "cost": 400,
+    "description": "Perhaps this is Turánn, the smithing hammer Celebrimbor used to forge the Rings of Power, or it is another with the same capabilities. As well as being used in the creation and enhancement of weapons and armour, you will find that it also acts as a reusable throwing weapon. You can channel power through it to increase the impact of the weapon, making it capable of destroying less durable structures such as monuments with a single blow or unleashing a blast of energy around the impact point. While you might be able to find such a weapon here normally, buying this Item will grant you smithing skill equal to Celebrimbor themselves while you use it, and it will automatically return to you once thrown.",
+    "origin": "Middle-Earth Shadow Of War Jump - The Reddit Edition"
+  },
+  "05d4e756-d304-58f3-87c1-cb6dd1f1b85f": {
+    "id": "05d4e756-d304-58f3-87c1-cb6dd1f1b85f",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Mortar and Pestle",
+    "cost": 200,
+    "description": "A strange pestle of Numenorean origin. Considerably increases the potency of salves, unguents and potions when the reagents are prepared in it.",
+    "origin": "Shadow of Mordor JumpChain"
+  },
+  "d73f0042-42ae-5a3f-acf3-3062630c9227": {
+    "id": "d73f0042-42ae-5a3f-acf3-3062630c9227",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Numenorian Climbing Device",
+    "cost": 200,
+    "description": "This is essentially an ancient and still fully functional wrist-based grappling hook, looking rather like a bracer, which can also extend into a durable shield for defence or a bashing weapon. It has a rather powerful built-in crossbow, which automatically reloads itself with any ammunition for it you have. You might be able to load it with something more exotic than steel bolts if you have the right sort of technical skill or know someone who could tinker with it.",
+    "origin": "Middle-Earth Shadow Of War Jump - The Reddit Edition"
+  },
+  "555d4c5a-dbb7-5d24-ba97-0afe3c4854f7": {
+    "id": "555d4c5a-dbb7-5d24-ba97-0afe3c4854f7",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Old Scorchy",
+    "cost": 100,
+    "description": "A branding iron that terrifies those threatened with it. Has sorcerous powers allowing it to burn hotter, longer and scorch with such intensity that the burn can be felt for weeks after branding.",
+    "origin": "Shadow of Mordor JumpChain"
+  },
+  "795ecf66-b7c1-5bda-b996-15336ff90f4c": {
+    "id": "795ecf66-b7c1-5bda-b996-15336ff90f4c",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Pandora’s Box",
+    "cost": 600,
+    "description": "A massive gold and brass box, created by Hephaestus, by order of Zeus, to contain the Evils that were created by the Titanomachy. Though this is not the same box, its purpose is similar. This is the ultimate prison, capable of holding even a primordial for all of eternity, with no chance for escape. It is protected by a blazing azure inferno that only you can bypass, incinerating even gods to such a degree that not even ash is left behind.",
+    "origin": "God of War - PJ Edition"
+  },
+  "ab79954a-bebb-5da8-9fd9-1470be588304": {
+    "id": "ab79954a-bebb-5da8-9fd9-1470be588304",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Plasma Gun",
+    "cost": 200,
+    "description": "Among the best things about being a Squat, reliable plasma guns every bit as potent as the Imperial version that don’t explode. Come in pistol or rifle versions, can be taken multiple times.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "8c35647f-0754-5d06-8df7-83e34b0bb124": {
+    "id": "8c35647f-0754-5d06-8df7-83e34b0bb124",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Repair Hammer",
+    "cost": 0,
+    "description": "When you use your equipment, you need to eventually do maintenance on it. This hammer is excellent at maintaining whatever gear you whack it with, hammering metal into a desirable shape, or it could just be used to bash some skulls in.",
+    "origin": "TES: Warriors"
+  },
+  "cdbe9fa6-ed89-5006-a59f-6ad52f38cfb7": {
+    "id": "cdbe9fa6-ed89-5006-a59f-6ad52f38cfb7",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Ring of Hephaestus",
+    "cost": 400,
+    "description": "All works by the god of smiths is a thing of intricate beauty and power, and this ring is no different. While wearing this bronze ring, you will find that anything you create will have both their quality and potency greatly improved beyond what should be possible for you. Additionally, such works will be far more durable and resistant to the passage of time, ensuring your works will last millennia.",
+    "origin": "God of War - PJ Edition"
+  },
+  "d32b139f-e52a-5f38-a9c1-acaac9dad3cc": {
+    "id": "d32b139f-e52a-5f38-a9c1-acaac9dad3cc",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Rune Key",
+    "cost": 200,
+    "description": "The Sartan were not the most security conscious people. Secure in their superiority over the mensch, everything from their rune ships to the gates of the Citadels to the control room of the Kicksey-Winsey itself were all locked using the same rune structure. This pendant has the appropriate rune carved into it, and will unlock every Sartan ward short of those guarding the Seventh Gate itself simply by being pressed into the obvious blank space in the structure. In future worlds, this pendant will continue to act as a key to all but the most powerful magical wards.",
+    "origin": "Death Gate Cycle JumpChain"
+  },
+  "a4790f50-d27c-54d9-9205-d5305d956777": {
+    "id": "a4790f50-d27c-54d9-9205-d5305d956777",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Seismic Rifle",
+    "cost": 200,
+    "description": "The Squats are incredibly familiar with sonic equipment, using it for mining all the time. So a sonic weapon is just the thing for surprising anyone trying to tunnel in.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "13ad5752-5351-56f0-8e52-3add73129963": {
+    "id": "13ad5752-5351-56f0-8e52-3add73129963",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Shield Generator",
+    "cost": 100,
+    "description": "This disc shaped project produces an energy bubble that blocks most things coming in but allows dwarves to shoot out from the inside. While it lasts only 10 seconds before needing to recharge, the wall it creates is strong enough to push enemies out and stop them from rushing back in. Since it uses similar technology as the personal shield of the DRG issued armors, dwarves can pass the energy wall at will and damaged personal shields will recharge while inside the shield bubble.",
+    "origin": "Deep Rock Galactic Jumpchain"
+  },
+  "13455d03-10a7-5c3f-a5c4-a70e847ca8ea": {
+    "id": "13455d03-10a7-5c3f-a5c4-a70e847ca8ea",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Shield Watch",
+    "cost": 400,
+    "description": "This watch produces an invisible forcefield around your form capable of withstanding nukes with ease. It can reflect projectiles back into the aggressors, killing them. It can generate holo-clones that distract potential enemies, indicate whether an enemy has a clear shot at your body, fire a weaponry laser beam or shoot a concentrated particle beam that destroys the target on a subatomic level. It is also able to transmit messages from and/or intercept communication lines. And it can tell the time.",
+    "origin": "Rick and Morty Jump 1.2"
+  },
+  "7a7c0d77-fa35-55db-9226-a8532345a8bf": {
+    "id": "7a7c0d77-fa35-55db-9226-a8532345a8bf",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Smith & Wesson Model 986",
+    "cost": 100,
+    "description": "A 7 shot 9mm revolver pistol. It is great for civilian defense and complies with all conceal and carry laws in the Martian Colonies. It comes with a stack of 300 9mm rounds and a quick loader.",
+    "origin": "Ghosts of Mars Jumpchain"
+  },
+  "9b153488-e2d6-5025-91de-fdd98ced8f5c": {
+    "id": "9b153488-e2d6-5025-91de-fdd98ced8f5c",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Tools of Kagrenac",
+    "cost": 400,
+    "description": "Crafted by the Chief Tonal Architect to harness the beating power of a dead god, these three tools were integral to his plan of crafting a Brass God. Sunder was created to produce a specific amount of power from the Heart. Keening was created to flay and focus the power that the hammer Sunder produced. Wraithguard was created to safely wield the other tools. Together, they can be used to safely harness any energy source, though it works best with those of divine origins.",
+    "origin": "TES: The First Council"
+  },
+  "733b2ffe-5388-5245-995e-698df5604fc0": {
+    "id": "733b2ffe-5388-5245-995e-698df5604fc0",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "War-Trike",
+    "cost": 200,
+    "description": "Biker dwarves! This hog will get you around the battlefield with speed and style, and per usual for purchased vehicles has unlimited fuel and self-repairs. Also a pair of forward-mounted autoguns or bolters that never run out of ammo.",
+    "origin": "Warhammer 40.000 - Squats JumpChain"
+  },
+  "ea45c807-14b9-5bb0-9174-d52f73bd5fd5": {
+    "id": "ea45c807-14b9-5bb0-9174-d52f73bd5fd5",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Warhammer",
+    "cost": 100,
+    "description": "A masterwork dwarven warhammer, forged of the finest steel, with a grip that perfectly fits any user. This weapon is ideal for fighting against heavily armored foes and war-machines, requires little-to-no maintenance, and will probably outlive you.",
+    "origin": "Warhammer Fantasy - Karaz Ankor JumpChain"
+  },
+  "1c2691e8-a0b0-5c19-b34f-42b22890c659": {
+    "id": "1c2691e8-a0b0-5c19-b34f-42b22890c659",
+    "sourceId": "celestial_smith",
+    "edition": "default",
+    "chapter": "Tools",
+    "name": "Zipline Launcher",
+    "cost": 100,
+    "description": "This gun looking tool has two barrels that shoot zipline mounts, one where the gun is pointed and one into the ground a few feet in front of the shooter. These mounts shoot anchor spikes when they hit a surface and are connected with a strong metal cable, creating a zipline strong enough to hold four dwarves in full combat gear and holding full bags of gold with ease. The gun is also equipped with a rangefinder preventing it from wasting shots if the gun is pointed to a location too far for the cable.",
+    "origin": "Deep Rock Galactic Jumpchain"
+  }
+}

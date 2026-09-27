@@ -1,0 +1,852 @@
+{
+  "a35a3637-c844-5fd0-ae6a-b3ea1f95d2f6": {
+    "id": "a35a3637-c844-5fd0-ae6a-b3ea1f95d2f6",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Always Armoured",
+    "cost": 100,
+    "description": "For whatever reason, it’s a fairly common practice in Westeros for nobles and important characters to fight without all their armour - rule of cool maybe? Nonetheless, now you can too! As long as you are wearing some kind of armour, you will be protected by the concept of armour to the same extent that what you are already wearing would protect you. Finally, you too can run around the battlefield without a helmet like all the other morons - and as a bonus, you won’t die doing so!",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "58348f54-7095-54fc-9817-ba06f49f6a2d": {
+    "id": "58348f54-7095-54fc-9817-ba06f49f6a2d",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Always Forget That One",
+    "cost": 200,
+    "description": "Your senses are as sharp as a falcon's. You can hear the slightest of footsteps, smell danger around you, and have an impeccable kinesthetic sense. Your senses and coordination are such that you could fight at near-perfect proficiency even when completely blind.",
+    "origin": "Quest for Camelot JumpChain"
+  },
+  "68e89978-def7-5a7c-99f9-1d2b90670532": {
+    "id": "68e89978-def7-5a7c-99f9-1d2b90670532",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Athlete",
+    "cost": 100,
+    "description": "You’re a professional athlete in their prime, with all that implies. You are faster, stronger, and healthier than most of your kind, your body a carefully honed instrument for taking and receiving punishment. Also, you have all the knowledge and skill needed to be a good melee fighter and rider, by magic.",
+    "origin": "King Arthur & the Knights of Justice"
+  },
+  "ac061965-c721-5626-a4a4-b8c7ace51ff7": {
+    "id": "ac061965-c721-5626-a4a4-b8c7ace51ff7",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Authority",
+    "cost": 200,
+    "description": "You have an aura of authority about you. You are naturally respected, and most people will obey simple, reasonable orders you give them without question.",
+    "origin": "Merlin (BBC) JumpChain"
+  },
+  "097cf497-0628-5e7e-9775-f374eb11eb92": {
+    "id": "097cf497-0628-5e7e-9775-f374eb11eb92",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Chivalry",
+    "cost": 100,
+    "description": "You can, at will, hide all emotions and tells behind a mask of courtesy and chivalry. You can work alongside or for someone you hate for years, or continue to serve someone while plotting treachery, and they would be none the wiser.",
+    "origin": "Merlin (BBC) JumpChain"
+  },
+  "980e91ba-ac2e-52fa-bacc-c335fd2e5d04": {
+    "id": "980e91ba-ac2e-52fa-bacc-c335fd2e5d04",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Death of the Animator",
+    "cost": 800,
+    "description": "Once per jump you may cause a single being, not part of a drawback, to suddenly cease to exist from that point onwards. It will simply stop existing. This doesn’t protect you from any effects of it no longer existing (so if you use this on Azathoth you may find reality stops existing as well), but it doesn’t technically die it just ceases to be, so effects that would revive it will not work and neither will abilities that would protect them from dying. You do not need to be in any way near the being to use this ability, just will them to have sudden existential failure.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "406bc384-f725-5f2d-8ecd-52c3046512ed": {
+    "id": "406bc384-f725-5f2d-8ecd-52c3046512ed",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Divine Crusader",
+    "cost": 600,
+    "description": "You are a true successor to the Divine Crusader, Pelinal Whitestrake; possessing not just his unyielding will, which would allow you to withstand near-fatal strikes with barely an issue, but also his incredible strength and fighting prowess when faced with the injustices of the world. When you go on crusade, you’re damn near unstoppable, cutting through knights and Daedra like an enchanted blade through butter- assuming, of course, that their own deeds and actions have stoked the flame of righteous fury in your heart. If you had a proper suit of armor, and some powerful weapons of your own...? Well, it wouldn’t be an exaggeration to say that you could turn the tide of a battle with your demigod-esque power, as unyielding and merciless as any Dwemer animunculi. The legend you must live up to is a great one; but if the gods see fit, you could very well be the Star-Born Knight’s equal...",
+    "origin": "The Elder Scrolls IV - Oblivion (By YJ_Anon)"
+  },
+  "017072b8-f3eb-5929-8b7a-11c765639e16": {
+    "id": "017072b8-f3eb-5929-8b7a-11c765639e16",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Dragon Slayer",
+    "cost": 600,
+    "description": "You’re good at killing dragons. How do you kill a dragon armoured in heavy scales with a sword and arrow? You just do, preferably off-camera. This does not so much give you the skills that would be necessary to kill a dragon as multiply the effectiveness of anything you do to combat a dragon. Your sword will strike through their scales, where the swords of others might rebound or shatter, even if they had superhuman strength. Your magic might bind and curse them, where they would resist that of other even more potent mages. If you were a dragon, your ice breath that would normally be hard-pressed to freeze a man solid in a short burst might freeze an entire other dragon solid in the same burst. And this not only aids your offence, but your defences are likewise bolstered against dragons. This won’t ensure an ordinary man can defeat a dragon, but it’d allow a knight to be good enough at doing it that it’d take an exceptional dragon (by this world’s standards) to fight them to a standstill. This effect applies whenever you are fighting something that would be classified as a dragon, including various dragon subtypes such as wyverns, linnorms, wurms, etc.",
+    "origin": "Dragon Heart"
+  },
+  "6754f382-7853-5483-a2c2-2c6161617249": {
+    "id": "6754f382-7853-5483-a2c2-2c6161617249",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Dragon Soul",
+    "cost": 300,
+    "description": "You have the soul of a dragon, or at least people seem to think that now. Aside from the cool factor this give you a greatly increased aptitude for magic of all kinds and, even if only slight, the respect of dragons. Allowing you to talk to even the most haughty of flying lizards without them immediately trying to kill you.",
+    "origin": "King Arthur [Jumpchain]"
+  },
+  "ccb7440a-8235-5e5e-baf7-186b939c3d88": {
+    "id": "ccb7440a-8235-5e5e-baf7-186b939c3d88",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Dreams",
+    "cost": 300,
+    "description": "Your dreams often reveal important information. Sometimes the location of things you seek, but most often, warnings of future dangers. Well, forewarned is forearmed.",
+    "origin": "King Arthur & the Knights of Justice"
+  },
+  "d30cf76b-fa7e-576c-94ab-77e2d4c339f0": {
+    "id": "d30cf76b-fa7e-576c-94ab-77e2d4c339f0",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Fairest in the Land",
+    "cost": 100,
+    "description": "You are, to put it simply, fine. The face that launched a thousand ships. Men and women both want you and want to be you at once.",
+    "origin": "King Arthur & the Knights of Justice"
+  },
+  "ea57e965-f588-5299-8771-f690911207d8": {
+    "id": "ea57e965-f588-5299-8771-f690911207d8",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "I Am Not Left-Handed Either!",
+    "cost": 200,
+    "description": "You have trained every day, from before dawn to sunset. It has taken you years of discipline, exhaustion, and pain, but you’ve mastered the common weapons of this world to the point that you can match a skilled knight with your offhand, and stand as one of the greatest in the realm with your dominant. Unless you’re ambidextrous, in which case this is extra unfair, because then you can fight one man with each hand as easily as a lesser warrior might duel a single opponent. Your skill at arms is not something you can easily lose. It took years to get to this position, and it would take you decades to fall from it. Moreover, now that you’ve got the knack for it, you can quickly raise your proficiency with other weapons to this level.",
+    "origin": "Generic ASOIAF Fanfiction JumpChain."
+  },
+  "be110f04-c2f3-5a54-b108-e5bece34b84b": {
+    "id": "be110f04-c2f3-5a54-b108-e5bece34b84b",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "I Feel Fine",
+    "cost": 200,
+    "description": "(You are immune to all natural diseases. Smallpox, the Black Plague, Malaria, the Spanish Flu... no matter how infectious or virulent a disease, virus, or bacterial infection you are now immune to it and won’t even carry it. Supernatural and biotech diseases might still affect you, but you will be noticeably more resistant to them as well.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "1443c24b-2155-52f8-9f4c-c13f71f0b09e": {
+    "id": "1443c24b-2155-52f8-9f4c-c13f71f0b09e",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Knight of Ardenvale",
+    "cost": 400,
+    "description": "The Court of Loyalty. Ardenvale’s knights are those who have proven their selflessness and altruism, their loyalty to not only their kingdom but the people within it and their fellow knights. The Circle of Loyalty judges their heart, and if it finds them worthy, grants them the power of Silverflame. As a Knight of Ardenvale, you are capable of wreathing your weapons and your hands in holy fire - a flame that can bolster as well as heal the innocent, yet burns like the purest sunlight and vicious fire against wicked and evil beings.",
+    "origin": "MtG - Throne Of Eldraine"
+  },
+  "de44b283-982a-5902-9b30-6d811f7686db": {
+    "id": "de44b283-982a-5902-9b30-6d811f7686db",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Knight of Garenbrig",
+    "cost": 400,
+    "description": "The Court of Strength. Knights of Garenbrig are those that have proven to Yorvo, king of giants, that they have trained their body with overwhelming might compared to their size and build - accomplishing feats such as ordinary humans performing acrobatic wrestling feats with a bear, or for a human to smash stone with their bare hands. You are one of the athletes capable of superhuman feats of strength, capable of getting into brawls with giants and trolls and coming out on top!",
+    "origin": "MtG - Throne Of Eldraine"
+  },
+  "720d52e4-40be-5da7-ab57-72f6c7c1f5bb": {
+    "id": "720d52e4-40be-5da7-ab57-72f6c7c1f5bb",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Knight of Lochtwain",
+    "cost": 400,
+    "description": "The Court of Persistence. Knights of Locthwain are those who have personally won the favor of the immortal Queen Ayara, elven nobility who rules over the flying castle. Ayara is not easily impressed, and those who win her favor must overcome surmounting odds without showing any sign of surrender, performing grueling and mentally challenging tasks. Those who succeed have usually gained a powerful endurance of both mind and body, and can even call upon echoes of the necromantic power of the Cauldron of Eternity, granting them enhanced regeneration and vitality as well as sapping at the life force of their enemies.",
+    "origin": "MtG - Throne Of Eldraine"
+  },
+  "ed81adf8-f2a9-549c-abbd-7212c0caab06": {
+    "id": "ed81adf8-f2a9-549c-abbd-7212c0caab06",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Knight Stuff",
+    "cost": 100,
+    "description": "Skill in combat equal to Prince Arthur himself, not really all it's cracked up to be as without a friendly Sorcerer to back you up you'll likely die soon anyways.",
+    "origin": "BBC Merlin Jump By: Kuriboh_Knight97"
+  },
+  "ce0b896e-0469-5723-8b67-77d0f3415f86": {
+    "id": "ce0b896e-0469-5723-8b67-77d0f3415f86",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Knight’s Bravery",
+    "cost": 200,
+    "description": "Paragons of honor and justice, knights are those soldiers who keep the law in check. Their martial skills are nothing to scoff at either, and neither are your own martial skills. You have been trained as a knight and have excelled under the tutelage. This has made you one of the best knights across the Planes, through martial skill alone you could hold your own against entire bands of lesser knights and it would take a knight of legendary status to best you just in martial combat alone, your skill is sufficient to easily be knighted in four of the five courts of Eldraine with a good chance at the fifth. In addition to this skill at arms, you also find it effortless to weave spells in the middle of fighting with a weapon, not needing to pause as beat back enemies.",
+    "origin": "Magic the Gathering - Iconics"
+  },
+  "9fa64bb7-c0eb-5964-926e-e73d9b3572fc": {
+    "id": "9fa64bb7-c0eb-5964-926e-e73d9b3572fc",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Long Since Matured",
+    "cost": 200,
+    "description": "The Knights Errant are always so eager to charge into battle, even against horrible odds. Rarely do the senior knights like yourself pull them back, out of a desire to either thin the stupid ones from the herd or a fond memory of when you too went through this rite of passage. How many more Knights may have survived to adulthood if they didn’t recklessly charge on like this? You survived many stupidly brave charges such as these, the experience teaching you how to read any situation. You can accurately assess the risk and threat of almost any situation, barring times when you simply have no way of perceiving a hidden threat, and can also accurately compare your own chances of success at the task. You’ll know the level of risk of what you’re charging into and, if you decide you still need to go on ahead anyway, that knowledge will improve your focus and reactions, honing your mind to a razors edge in combat and conflict.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "b28aaf70-e3d0-56e4-802c-b1dad76e8e4f": {
+    "id": "b28aaf70-e3d0-56e4-802c-b1dad76e8e4f",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Master of Arms",
+    "cost": 200,
+    "description": "You are a skilled teacher, capable of imparting a mastery of five weapon types and a martial philosophy over the course of a few years.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "b579f499-fe79-57eb-bea7-3d17838fc322": {
+    "id": "b579f499-fe79-57eb-bea7-3d17838fc322",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Message for You Sir",
+    "cost": 200,
+    "description": "Adventure seems to have a way of finding you. Wherever you go, you will find calls to adventure and cries of distress. These are not guaranteed to be profitable, but you will never lack for adventure and those in need of your help. Unless you choose to turn this off.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "b4f75b5f-119f-511e-b1d1-36dc91a01688": {
+    "id": "b4f75b5f-119f-511e-b1d1-36dc91a01688",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Not Quite Dead",
+    "cost": 600,
+    "description": "Once per year when you receive an injury or wound short of death you may retroactively negate the injury 40 seconds later. All damage from it will be negated and you will be completely fine.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "33f2cb90-4f50-57e8-8c79-e0c55c8c6ea6": {
+    "id": "33f2cb90-4f50-57e8-8c79-e0c55c8c6ea6",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Once Upon A Time",
+    "cost": 100,
+    "description": "Many in the realms strive to become figures of legend, Knights who mark the storybooks with their names. However, many either do not have the courage or the sheer luck to be capable of having the adventures that allow them to show their prowess. Not a problem for you. You have a bit of luck (or perhaps enchantment?) that makes you a ‘magnet’ for scenarios to demonstrate your skill, events that would already occur simply shifting to be within convenient proximity to your dashing self.",
+    "origin": "MtG - Throne Of Eldraine"
+  },
+  "27c86596-3ce5-5a6d-8c07-8e32ef920d1e": {
+    "id": "27c86596-3ce5-5a6d-8c07-8e32ef920d1e",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Paladin",
+    "cost": 200,
+    "description": "There is one constant through those who strive to become Knights and Heroes in this place - will. Be it the will to serve your allies and realm, the will to fight, the will to survive, the will to find what others don’t know...Every knight claims their title by acting on their will. Your reserves of will are great, and you are able to channel your willpower into self improvement easily, challenging yourself in whatever ways you deem fit, easily enough to transform this raw desire into the virtues of the Realm.",
+    "origin": "MtG - Throne Of Eldraine"
+  },
+  "277d8b44-c5f0-549b-a566-91b09702a92e": {
+    "id": "277d8b44-c5f0-549b-a566-91b09702a92e",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Paragon",
+    "cost": 300,
+    "description": "You are seen as a paragon. A pinnacle to be strived towards. Nearly everyone respects you, even if they don't like you, and some people will outright revere you. Over time, those you frequently interact with will slowly become more like you, to a greater or lesser degree. Mostly this comes in the form of adopting parts of your code of honor. This perk alone won't make a serial killer into a saint, but it might make an unrepentant monster into a noble demon. You may even cause Uther to lessen his hatred of magic.",
+    "origin": "Merlin (BBC) JumpChain"
+  },
+  "b24a9404-6e00-52d3-9796-a65a02d98596": {
+    "id": "b24a9404-6e00-52d3-9796-a65a02d98596",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Run away Run away Run away!",
+    "cost": 200,
+    "description": "Whenever you decide to flee you will find that you, as well as any mount you ride or vehicle you pilot/drive, are noticeably faster, harder to track, and more difficult to pursue than you otherwise would be. This effect is increased if you shout “Run away! Run away! Run away!” as you begin fleeing.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "3d7a91a4-499d-5d4e-b318-c1381e2a43db": {
+    "id": "3d7a91a4-499d-5d4e-b318-c1381e2a43db",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Self-Respect",
+    "cost": 200,
+    "description": "All but the poorest of nobles have a few servants to care for their weaponry and armour, even for their horse. The most powerful of nobles often have Knights Errant take care of the task for them, hating the very idea of lowborn peasants touching their equipment. These are the sorts of knights that get a nasty shock once they become Questing Knights, suddenly bereft of all such support. Your father ensured you didn’t grow lax like these oafs, teaching you how to care for each and every piece of equipment you own. The lessons stuck, better than he could have hoped, and now you find yourself able to easily maintain and keep in good condition anything you own that might qualify as equipment. Personal weapons, armour, devices and magical trinkets. If it breaks, you’re not automatically going to know how to repair it, but you always know how to do the best things to prevent it breaking in the course of its normal uses.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "b5e9131d-0838-5be9-8a73-c6da13570219": {
+    "id": "b5e9131d-0838-5be9-8a73-c6da13570219",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Sir Jumper the Brave",
+    "cost": 400,
+    "description": "Like Sir Lancelot you are brave enough to be renowned for it, and a skilled enough warrior to be the same. This is truly less of a courage perk and more of a perk that lets you turn off your ability to feel fear and hesitation, letting you run headlong into danger without a care. You are also a highly skilled warrior, and a master of all knightly weapons. You find that your battle prowess is enhanced when you fight recklessly without care for who is friend or foe, or even whether there are any foes about. The more indiscriminate you are in battle the more dangerous a foe you become. Were you to fight madly willing to slaughter any in your path you could take a castle singlehandedly. Be careful how you use these combined capabilities lest you slaughter an innocent wedding party.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "41fd7b73-32d7-5aff-87ad-0b306be978b4": {
+    "id": "41fd7b73-32d7-5aff-87ad-0b306be978b4",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Sword of the Morning",
+    "cost": 400,
+    "description": "You are one of the greatest warriors to grace the face of Planetos in a generation. Your mind and body are in perfect sync with combat. You could easily analyse a battlefield to create an imaginary version of it in your Mind’s Eye to easily predict the movements of your opponent until they stop being a threat… or if they play dead. You could fight 10 men, perhaps even 20 by yourself, and come out without a scratch. Against truly skilled opponents on the level of Ned Stark in his prime, this number goes down to 4-7. This is quite straining to a baseline human, but it is possible to expand the limits of your predictions with training, unnatural modifications or perks from another Jump. You also gain a substantial increase in skill to dual wield your preferred weapon with the same level of mastery that you wield one.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "4ded2377-be1a-52ee-8c19-1466b5baefbe": {
+    "id": "4ded2377-be1a-52ee-8c19-1466b5baefbe",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "The Once and Future King",
+    "cost": 400,
+    "description": "You're destined for greatness; those with the gift of prophecy can foresee it, though not neccesarily what that greatness will be, and even normal people seem to know that you will be important. Whatever the great things you're destined for are, outside forces seemingly conspire to help you on your way. You always seem to find just what you need to advance your goals. Whether it's learning the information you require, meeting the right person at the right time, or stumbling upon the Supreme Magical Macguffin you need to save/conquer the world.",
+    "origin": "Merlin (BBC) JumpChain"
+  },
+  "d217e937-1b26-55c8-b80a-237e9d6420ab": {
+    "id": "d217e937-1b26-55c8-b80a-237e9d6420ab",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Trusty Steed",
+    "cost": 400,
+    "description": "The bond between a Knight and his horse is sacred and unbreakable. Some believe that a Knight and his mount are even closer together then the Knight is with his spouse, though actual tales of relations remain items of disgust. Whatever the case, it is true that a great Knight will often ride a similarly great mount, one that usually has quite a list of legendary feats all of its’ own. You too ride such a special beast or perhaps even multiple. When you ride a willing and loyal to you mount, both you and your mount will find your powers raising to match the others. A Knight may gain the speed and power of his warhorse whilst his horse becomes far more intelligent and aware of the battlefield. This bond increases your ability to work together, creating an almost perfect cooperation between you two and fastening the rate at which you bond as partners.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "95feac66-32e7-5f0d-b739-9601f6ad14d8": {
+    "id": "95feac66-32e7-5f0d-b739-9601f6ad14d8",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Unparalleled Rider",
+    "cost": 200,
+    "description": "It’s as if you were born in the saddle, for you are able to ride any kind of steed better than anyone in a few generations. You are also truly capable of caring for your steeds, as well as make them easily follow your commands. This also works on dragons and other exotic animals as well as vehicles.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "fa7604da-7093-599e-b389-95bedf3eff09": {
+    "id": "fa7604da-7093-599e-b389-95bedf3eff09",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Chivalric Skills",
+    "name": "Unparalleled Rider",
+    "cost": 200,
+    "description": "It’s as if you were born in the saddle, for you are able to ride any kind of steed better than anyone in a few generations. You are also truly capable of caring for your steeds, as well as make them easily follow your commands. This also works on dragons and other exotic animals as well as vehicles.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "abf24e91-ae72-5126-933c-0a58565ef9fc": {
+    "id": "abf24e91-ae72-5126-933c-0a58565ef9fc",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Absurdly Sharp Sword",
+    "cost": 200,
+    "description": "While this sword may have been given you by a strange woman lying in a pond, I don’t know what your Jumpchan is like, it does not make you a king. Still it is extremely sharp, able to cut through a mailed knight’s limb with an ordinary swing, passing through mail, flesh, and bone with ease almost as if they were not there. To make things better it will never lose its edge, will maintain itself, and will never be damaged by the sheer strength of your blows.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "89fb69d8-5a5f-5650-8534-67f65d0fa686": {
+    "id": "89fb69d8-5a5f-5650-8534-67f65d0fa686",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Armour of the Laughing Tree",
+    "cost": 200,
+    "description": "Despite its name, the Armour of the Laughing Tree is not necessarily an armour. Instead, it is an upgrade you can apply to any piece of clothing or armour you wear. When activated, the wearer will be near-impossible to unmask or capture, whilst people’s memories seem to gloss over any attempts to connect the unmasked and masked forms.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "acfa807a-7712-531d-8e7c-2a8803e4b984": {
+    "id": "acfa807a-7712-531d-8e7c-2a8803e4b984",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Barding",
+    "cost": 200,
+    "description": "Just as a Knight has his plated armour, so too will his horse be gifted with their own set of metal barding. The set you have obtained is a particularly notable one, as it has been magically enchanted to fit itself perfectly to any mount of any size, horse or not, though the barding itself will remain that of thick steel without intervention from yourself. The armour will not slow any mount however and can even grow to cover the wings of a Pegasus or similar creatures without hindering their mobility.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "f99fbe17-101d-504e-a364-9cce7d82a8d8": {
+    "id": "f99fbe17-101d-504e-a364-9cce7d82a8d8",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Black Cloak",
+    "cost": 300,
+    "description": "When worn, this item, not necessarily a cloak, grants you easy and instant admission into any organisation, no matter what requirements may normally be in place. To be clear, this item allows admission to ANY organisation including things like a rebellion as the person they’re rebelling against, the Maesters as a woman, the Seven Kingdoms as a wildling or other such ordinarily impossible to join groups. If you perform any actions against that organisation whilst a part of them (for example, sabotaging the rebellion you joined), then the protection of this item is revoked, and they’ll treat you like they would any other betrayer.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "e3adc7a1-5de9-5e81-a261-757dddf8a8a3": {
+    "id": "e3adc7a1-5de9-5e81-a261-757dddf8a8a3",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Books of the Arthurian Legend",
+    "cost": 50,
+    "description": "A complete set of every version of the arthurian legend. you might use them to freak out the knights of the round table or something if you want. Not useful for much else, though alot of the books are heavy so they'd be okay as an impromptu weapon as well.",
+    "origin": "King Arthur [Jumpchain]"
+  },
+  "a1c7f66c-adc6-53a8-89c9-d296871f24c5": {
+    "id": "a1c7f66c-adc6-53a8-89c9-d296871f24c5",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Brave Steed",
+    "cost": 100,
+    "description": "This is a well-bred and trained warhorse. They are a brave horse, brave enough to ride straight up to a dragon without shying away, and seemingly completely without fear, but otherwise a normal warhorse. If killed or lost, they will somehow make their way back to you within a few days.",
+    "origin": "Dragonheart Jump"
+  },
+  "fbba3632-7a1e-5325-be1d-e9bf95101a7a": {
+    "id": "fbba3632-7a1e-5325-be1d-e9bf95101a7a",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Bretonnian Miniatures",
+    "cost": 50,
+    "description": "A white box, embossed with a golden war hammer on the side, arrived at your front door. Within it are a seemingly endless number of models and figurines. This is an endless supply of models from the Bretonnian Army of the Warhammer Fantasy Battles tabletop game, each and every one gorgeously painted. You also receive a copy of every Bretonnian Army Book and a copy of each edition of the Warhammer Fantasy Battles Core Rule Book.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "4b31816e-c379-5146-afa7-13cf6eeac4a3": {
+    "id": "4b31816e-c379-5146-afa7-13cf6eeac4a3",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Camelot",
+    "cost": 400,
+    "description": "Copy of the capital city. If it contains people or not is up to you.",
+    "origin": "BBC Merlin Jump By: Kuriboh_Knight97"
+  },
+  "26881912-da81-533f-99bb-01105758eb3e": {
+    "id": "26881912-da81-533f-99bb-01105758eb3e",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Conqueror’s Tapestry",
+    "cost": 100,
+    "description": "A gorgeously embroidered banner to be carried into battle, upon which are shown all of your greatest victories. Each and every one has its own place on the magical piece of art, though you can remove some or make some more prominent as you wish. Holding such a thing will boost your bravery in battle, though it is quite a large banner and will likely grow larger in time.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "be73c6d5-db16-508b-b10a-b496c64c6d6c": {
+    "id": "be73c6d5-db16-508b-b10a-b496c64c6d6c",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Dawn",
+    "cost": 600,
+    "description": "Perfect replica of the legendary greatsword of House Dayne made out of a fallen star. Blade is as pale as milk glass, and it is on par or better than Valyrian steel. It greatly boosts your swordfighting abilities and provides you with a wealth of combat knowledge and experience to the point that a farmer who hasn't held a sword in his life would be able to confidently fight most knights. It's unbreakable and always clean, as well as being razor sharp.",
+    "origin": "ASOIAF Robert's Rebelion"
+  },
+  "e4fad475-8c61-522f-a129-4511cf6f396c": {
+    "id": "e4fad475-8c61-522f-a129-4511cf6f396c",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Dragon-Forged Weapon",
+    "cost": 300,
+    "description": "You have somehow obtained a kin of Excalibur. A magical weapon, forged in the breath of a dragon. It is supernaturally sharp and durable, and will never dull or rust, but most importantly, it can harm creatures of magic, and kill beings that can't be killed by normal means. Any wound inflicted by this weapon counts as a mortal wound and would require powerful magic to heal. Can import a weapon to gain these qualities.",
+    "origin": "Merlin (BBC) JumpChain"
+  },
+  "92077550-e8cd-5f2d-a83f-61e20de8ce77": {
+    "id": "92077550-e8cd-5f2d-a83f-61e20de8ce77",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Dragonslayer’s Shield",
+    "cost": 300,
+    "description": "A tool of a true dragonslayer. Made from a single large dragon scale/plate, and adorned with the talons of slain dragons, it is an extremely light kite shield while being as durable as if it were made of solid metal. Adding to its utility, as it was made from a dragon. It’s completely fireproof and can be used to block things such as a dragon’s fiery breath. Of course many jumpers grow harder to damage than metal quickly, so it will always scale to be at least 3 times harder to damage than you are, gaining all your resistances and immunities three times over.",
+    "origin": "Dragonheart Jump"
+  },
+  "e8eb07f7-b9c7-5531-ab51-1d9b3ccacaa4": {
+    "id": "e8eb07f7-b9c7-5531-ab51-1d9b3ccacaa4",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Emblem",
+    "cost": 200,
+    "description": "As a Knight, you gain an animal symbol to be emblazoned on your shield, and possibly theme your armor after to an extent. When in need, or if you cast down your shield and ask for it, the emblem will summon a real creature, large enough for three men to ride, to carry you about or fight by your side. Both real animals like the falcon, panther and mountain goat, and fantastic ones like the griffin, Hydra or Arthur’s Dragon are acceptable.",
+    "origin": "King Arthur & the Knights of Justice"
+  },
+  "a875ffd9-89eb-5b61-9629-44e236a38f31": {
+    "id": "a875ffd9-89eb-5b61-9629-44e236a38f31",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Excalibur",
+    "cost": 400,
+    "description": "I thought there was only one? This legendary sword appears in your hand whenever you say “Excalibur! Be My Strength!” It is far stronger than steel or stone, being one of the few weapons that carves Warlords as easily as men, and is rough on armor. Indeed, it has a strange affinity for stone and can shift 20 ton boulders by waving the blade near them. A Warlord, by the way, weighs about five tons. Excalibur glows blue in the presence of magic, and can find magic items or your friends by glowing when pointed in their direction. Finally, Merlin sometimes appears, as if reflected in the blade, to counsel you in your darkest hours.",
+    "origin": "King Arthur & the Knights of Justice"
+  },
+  "b2627c80-6947-5de2-8c20-022d21b71be2": {
+    "id": "b2627c80-6947-5de2-8c20-022d21b71be2",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Falcon Horn of Fredemund",
+    "cost": 400,
+    "description": "A horn once owned by Fredemund, one of the companions of Gilles Le Breton himself. If the user blows the horn, they will summon a vast swarm of birds and other flying creatures to attack the wielder’s foes and force those who are flying to the ground. The thousands of vicious birds can strip the flesh from a man’s bones in surprising speed and even dragons can be forced to land from the weight of the aviary creatures pressing down on them. The horn can be used many times in a row but will have little effect in areas that have been emptied or lack aviary life.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "edb3fc6b-a061-539b-a756-11ba824dcd2a": {
+    "id": "edb3fc6b-a061-539b-a756-11ba824dcd2a",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Golden Armour",
+    "cost": 100,
+    "description": "Defaulting to a golden armour with a red cape, this makes anyone who wears it both regal and approachable despite any position of authority they might have. It is quite good protective armour that defends the head of the wearer even if they do not wear a helmet and allows any innate nobility and positive qualities of the wearer stand out to all who observe them.",
+    "origin": "Merlin Miniseries 1998 Jump – The Reddit Edition"
+  },
+  "b9460902-34c8-5da7-9d79-bca2757aeae4": {
+    "id": "b9460902-34c8-5da7-9d79-bca2757aeae4",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Holy Hand Grenade of Antioch",
+    "cost": 600,
+    "description": "You now possess your own holy hand grenade of Antioch. Once per jump (or 10 years whichever comes first) when thou take out the holy pin and then thou countest to 3 (no more, no less, three shall be the number thou shalt count. Four shalt thou not count, and neither shall thou count to 2 unless you then proceed to 3, and 5 is right out) then though lobbest thy holy grenade at your foe which is naughty in God’s sight they shall (probably) snuff it as the hand grenade explodes with significant force. How much force? Well that depends upon its owner. Thi s hand grenade will always be at least twice as strong as its owner’s strongest personal attack or personal scale weapon (if you have a Death Star it won’t be stronger than the Death Star’s turbolaser unless you can wield the Death Star in your hands and fire the turbolaser unaided), and always at least powerful enough to destroy someone who is as durable as its owner and even a touch more durable. When someone throws the grenade they may choose to weaken it from these power levels. Note that this does not ensure that they cannot be revived. This explosion is also always considered to be holy for whatever that counts for.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "a1c1e366-2760-5e9d-8f1a-9126e0a1c20c": {
+    "id": "a1c1e366-2760-5e9d-8f1a-9126e0a1c20c",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Holy Sword",
+    "cost": 600,
+    "description": "It seems the Sword in the Stone wasn’t the only blade sent down from Heaven. You have in your possession a sword not unlike the one Arthur is destined to pull, a sword that can cleave, stab, and cut through everything from stone to metal as easily as a knife does butter. But that’s not the greatest power this sword possesses. No, it’s that anyone who sees it will know, intrinsically, that the wielder is one of great power and authority, such that most mortal men would be compelled to bow before the one holding the sword. Just by wielding this sword, one could easily become king, though ruling afterwards is something the sword can’t help with, aside from its use in battle. The sword will never hurt you unless you will it too, and if it is destroyed, stolen, or lost, it will return to you in a week.",
+    "origin": "Sword In The Stone"
+  },
+  "88455ce7-5658-5566-9991-77ba2b7ab7da": {
+    "id": "88455ce7-5658-5566-9991-77ba2b7ab7da",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Horde Stallion",
+    "cost": 100,
+    "description": "An ordinary horse could never do for one of the Horde! Your horse is better trained, larger, faster and stronger than anything else. It may have a horn, or that may be just the armor, but it doesn’t have any of the powers of a unicorn.",
+    "origin": "King Arthur & the Knights of Justice"
+  },
+  "6df0c54c-a2ea-56fb-87ce-b7511e911cda": {
+    "id": "6df0c54c-a2ea-56fb-87ce-b7511e911cda",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Horse Care Kit",
+    "cost": 50,
+    "description": "Every Bretonnian knows how to care for a horse. They may not be good at it or own one themselves, but every man from the King himself to the lowliest peasant can at least give some care to one. This kit holds all you’d need to carry out that duty, from cleaning and brushing equipment to tools to repair and create saddles or horseshoes to tasty horse treats.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "473f1386-8e16-598a-a64e-4a74c5b75820": {
+    "id": "473f1386-8e16-598a-a64e-4a74c5b75820",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Knight's Gear",
+    "cost": 0,
+    "description": "Basic knightly gear: a sword and board, chainmail, a saddle, etc.",
+    "origin": "Merlin (BBC) JumpChain"
+  },
+  "c95dea95-f54d-5e1d-9241-2ab0d0d4c3e8": {
+    "id": "c95dea95-f54d-5e1d-9241-2ab0d0d4c3e8",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Land Deed",
+    "cost": 100,
+    "description": "This is a deed to a plot of land that's around 10 acres. This land is not connected to any government, dynasty, or nation so do with it as you wish.",
+    "origin": "King Arthur [Jumpchain]"
+  },
+  "5366f78c-84df-5de2-9341-2c64ff47fb3d": {
+    "id": "5366f78c-84df-5de2-9341-2c64ff47fb3d",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Replica Armor of the Crusader",
+    "cost": 100,
+    "description": "This suit of armour appears to have been based on depictions of the armour of Pelinal Whitestrake, the Divine Crusader; although lacking the special blessings and construction of the true armour, this set is nonetheless forged of well-made steel and laboriously detailed to strike the very image of a crusading knight. Also included is a recreation of Whitestrake’s shield, sword, and mace- like the armour they’re made from simple steel, but if nothing else, they complete the set.",
+    "origin": "The Elder Scrolls IV - Oblivion (By YJ_Anon)."
+  },
+  "ae32f67e-334a-55ee-a583-c58b8a8805a9": {
+    "id": "ae32f67e-334a-55ee-a583-c58b8a8805a9",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Ring of Eidolon’s Edge",
+    "cost": 200,
+    "description": "A Daedric ring of unknown provenance; the Ring of Eidolon’s Edge offers its wearer a substantial increase to both their ability to block attacks, as well as to their own skill with bladed weapons. There are certainly more powerful Artefact rings, but this one is still a valuable accessory for any knight or warrior who doesn’t mind its infernal appearance.",
+    "origin": "The Elder Scrolls IV - Oblivion (By YJ_Anon)."
+  },
+  "ab8bae91-b73e-532b-9bbf-b844a8cc7451": {
+    "id": "ab8bae91-b73e-532b-9bbf-b844a8cc7451",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Smithy",
+    "cost": 200,
+    "description": "Medieval blacksmith shop and attached house, gets regular shipments of metal and comes with the necessary knowledge to be a decent if not impressive smith.",
+    "origin": "BBC Merlin Jump By: Kuriboh_Knight97"
+  },
+  "aa87d771-e111-53ce-b9ec-ac8cacc565c1": {
+    "id": "aa87d771-e111-53ce-b9ec-ac8cacc565c1",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Sword and Sword Belt",
+    "cost": 100,
+    "description": "This is a basic CP-backed sword. That is, it will automatically maintain itself, and if repaired or lost will be restored to you within 24 hours. The sword belt is the same, but you will find that if an enemy attempts to grab it and use it against you, it will break whenever is most convenient and useful to you, and will only break when it’s useful to you.",
+    "origin": "Dragonheart Jump"
+  },
+  "bc78dbf8-9552-5473-b440-564f83490870": {
+    "id": "bc78dbf8-9552-5473-b440-564f83490870",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Travel Supplies",
+    "cost": 100,
+    "description": "A leather satchel which, when opened, contains the minimum needed to survive in the wild, as well as enough food for the day. Each day, the contents of the bag will change to cover this, with, for example, an arctic biome providing (among other things) warm clothes, firewood and a tinderbox, whilst a desert locale might provide thin, light, covering clothes, extra water and a tent. Once a week the perishables are replaced.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "50033bb4-b622-51b8-bd14-094bd458321d": {
+    "id": "50033bb4-b622-51b8-bd14-094bd458321d",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Panoply",
+    "name": "Valyrian Steel Armour",
+    "cost": 400,
+    "description": "By purchasing this armour, you have gained one of the greatest personal protections available in this entire setting. At first pierceable only by another Valyrian Steel weapon, as you grow in power, this armour will scale with you. Be aware that it only protects the parts it covers, so if you’re shot through your visor, you’re shit out of luck.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "3d7fd7d9-fcf3-5a98-a9b0-ac7949d7fccb": {
+    "id": "3d7fd7d9-fcf3-5a98-a9b0-ac7949d7fccb",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Animal Companion",
+    "cost": 100,
+    "description": "In this land, it’s somewhat common for people to have animal companions by their side. Whilst this item won’t get you a dragon, a sapient creature or anything which has absolutely no basis in this setting (such as trying to get a legend of zelda cucco as a pet), there are few real limits on size or species of animal. Examples of what can be gained through this item include a direwolf, mammoth, lion, eagle, hawk, viper, horse, war elephant or raven. Animals gained through this item are smart, loyal companions with a near human intelligence. The default is whatever would make sense for your origin, such as a Stark having a direwolf, a giant having a mammoth or a golden company member having a war elephant. If you have any animal based magics such as warging, this animal is far better suited for it and slightly boosts the effectiveness of such abilities.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "a28a6e0a-10b2-5205-9422-2f4e1f836e7b": {
+    "id": "a28a6e0a-10b2-5205-9422-2f4e1f836e7b",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Armory Wagon",
+    "cost": 200,
+    "description": "This is a small covered wagon, which travellers might bring to carry their supplies, a merchant’s wares, or even the stuff to put on a puppet show. However, there is a disguised handle on it which, when pulled,, will cause several secret compartments to unfold and open revealing enough weapons to equip a dozen people for battle. Well, while it comes with those weapons, you can replace them with something else. The real value is that while these secret compartments are closed, the contents are almost impossible to detect by any means.",
+    "origin": "Dragonheart Jump"
+  },
+  "f21df01f-d13c-55c3-b097-910cb094632f": {
+    "id": "f21df01f-d13c-55c3-b097-910cb094632f",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Avalon",
+    "cost": 600,
+    "description": "The resting place of King Arthur himself. This is just a small island with ruins on it, only large enough to house the small ruined castle and about as much again land separate from it; maybe half a square mile in size. You will find, though, that it resists detection by those unworthy of Camelot and its knights. At the same time, it’s possible that something with enough power could find it; it would take a power far beyond any in either this world - and far beyond modern technology - to allow an evil, or even neutral, being to find it. That is, without your permission, as you can declare with an act of will any being worthy of this place. It is an excellent place to rest, seeming to speed recovery, both mental and physical. In addition, the place will sometimes bestow visions upon those upon it which will stir the virtue and righteousness in their hearts and remind them of their better nature; often helping accelerate emotional recovery even further.",
+    "origin": "Dragonheart Jump"
+  },
+  "faf0da78-9be3-566e-9b37-21531c48ba4a": {
+    "id": "faf0da78-9be3-566e-9b37-21531c48ba4a",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Baby Dragon",
+    "cost": 500,
+    "description": "A single baby dragon that you’ve hatched and has bonded to you. This beast while small will grow at an incredible rate and eventually become a medieval superweapon easily able to lay waste to armies of men. Beyond this jump the dragon will grow with you becoming more powerful as you grow in power so that it may forever stand by your side.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "08c2f6b5-ebb4-5584-b157-72db33226b60": {
+    "id": "08c2f6b5-ebb4-5584-b157-72db33226b60",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Camelot",
+    "cost": 400,
+    "description": "You now are the proud owner of a model castle. Should you, or any other, touch the castle with the desire to enter it you will be transported inside where you will find it is home to a full staff of servants, knights, and others you might expect to find in a medieval castle. It will have self-replenishing stocks of food and supplies so that those within can feast on a daily basis without ever running out. It is, however, a silly place, and you will find that those who live here have a tendency to sing and dance whenever able, often on the furniture.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "b2646b93-138a-5625-8573-aae34279eeb7": {
+    "id": "b2646b93-138a-5625-8573-aae34279eeb7",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Castle Anthrax",
+    "cost": 400,
+    "description": "This castle is full of 8 score blonde and brunette women between the ages of 16 and 19 and a half trained in the medical arts, and kept supplied with (medieval) medicines and medical tools. While their medicines and tools will not automatically update with new settings - you will have to provide such improvements yourself if you want them - their medical knowledge will always be up to the standard of the current setting, or the middle ages whichever is better (yes they will forget past settings’ medical knowledge), and you can train them yourself should you be skilled in medicine. You will also find that the women of this castle are quite fond of you, very lonely, and have a tendency to desire punishment for their naughty thoughts, acts, and ways.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "7d02e44e-e3a9-5026-85e2-ec1d08616b0b": {
+    "id": "7d02e44e-e3a9-5026-85e2-ec1d08616b0b",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Dragon Headed Boat",
+    "cost": 400,
+    "description": "This small boat, only a little larger than enough for 2 men, will appear before you in any body of water when you have need, and carry you to the nearest shore of any location of your desire (you must know the name of the location you seek) within an hour by sailing into a bank of fog. This can carry you to other worlds as long as they have sufficiently large bodies of water.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "01da366e-ee25-5055-b1e0-6a421caa9939": {
+    "id": "01da366e-ee25-5055-b1e0-6a421caa9939",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Fertile Farmlands",
+    "cost": 400,
+    "description": "Maybe you can reward your men with this. This is 1000 hectares or ~3.86 square miles (10 square kilometres) of valuable, prime farmland. This would be about enough to feed 20 households (who live on the land) with British farming techniques of the period, if this were, average farming land, but it is top-quality and very fertile land, allowing it to feed substantially more people if maintained. While there’s no protection against weather or climate, the soil quality will always remain high, no matter how far it is farmed",
+    "origin": "Dragonheart Jump"
+  },
+  "0ee8b549-fee8-58fa-90ed-eb31995df353": {
+    "id": "0ee8b549-fee8-58fa-90ed-eb31995df353",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Fortress",
+    "cost": 400,
+    "description": "A particularly large and well-fortified castle was gifted to you by the King, perhaps for some service or deed you accomplished in the past. It is a huge fortress of stone and iron, one of the best designed in the country and would prove a hardy nut to crack for even a massive sieging force, only needing a few dozen hands to keep it properly defended. The castle itself has been constructed in a location of your choice, within Bretonnia at least, and comes with a small amount of land surrounding it. Enough men and servants are there to man the walls and continue the castle’s basic functions but you will likely need to gather more on your own to properly staff it. The castle and the surrounding area will follow along with you to future worlds, where you will be the owner as you are now.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "6d899da8-33f2-529b-8fe8-ee69169f4f28": {
+    "id": "6d899da8-33f2-529b-8fe8-ee69169f4f28",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Great Fortification",
+    "cost": 500,
+    "description": "You have a full Westerosi castle. This is a fortification comparable to Winterfell itself, being capable of holding several thousand people, enchanted with to be immune to offensive magics, and to keep out a single sentient species which is defined at the start of each jump.",
+    "origin": "ASOIAF - Game Of Thrones"
+  },
+  "30337a67-517b-59fa-ad03-6c0e6a2db9e2": {
+    "id": "30337a67-517b-59fa-ad03-6c0e6a2db9e2",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Horse House",
+    "cost": 200,
+    "description": "Attached to either your warehouse or a property that you own is a stables fit for a king. Large enough to comfortably fit any and all of your mounts, the stables has the tools and facilities to properly care for and feed any mount that you might choose to store here. It has a number of adept stable hands that cannot leave the stable grounds but will ensure your animals are well cared for and ready to go whenever you need them.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "14651b42-3f6b-5e72-9b19-a8870d53bc70": {
+    "id": "14651b42-3f6b-5e72-9b19-a8870d53bc70",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Huge Tracts of Land",
+    "cost": 200,
+    "description": "You now possess huge tracts of land. It is legally yours and recognized as such. How much land? Let’s say about 20,000 acres; roughly the Queen of England’s personal lands as of a few years ago, and enough to make you one of the 50 largest landowners in England. This land is as of yet uncultivated and wild, but is yours to do with as you please and will follow you between jumps, retaining changes.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "b90685e2-176e-5954-ae96-3e324818fff2": {
+    "id": "b90685e2-176e-5954-ae96-3e324818fff2",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Infinite Bret Wine",
+    "cost": 100,
+    "description": "If there’s one thing everyone likes Bretonnia for, it’s their wine. The best brewed stuff on the planet, even the peasants regularly have the stuff with their meals, though often watered down to make it last. You’ve got a limitless supply of the good stuff, the real top quality wines. It’s not quite on the level of the very best in Bretonnia, the stuff even the King himself only gets two bottles a year of, but in any other country what you have would be worth hundreds or thousands of gold coins to the bottle.",
+    "origin": "Warhammer Fantasy - Bretonnia JumpChain"
+  },
+  "b4760f62-1740-5cf4-bf70-ae61a8011d32": {
+    "id": "b4760f62-1740-5cf4-bf70-ae61a8011d32",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Killer Rabbit",
+    "cost": 600,
+    "description": "This rabbit has sharp, pointy teeth. It has a vicious streak a mile wide, is capable of great flying leaps, is also always faster in combat than its owner, capable of applying twice as much force with its teeth as they can with a kick (and at minimum enough to rip a man’s throat out through armored mail), and is roughly half as durable as they are barring hax effects. This rabbit will not, by default, be fond of you, but it will not attack you or your companions as long as you keep it fed, and will protect its territory which you are considered part of.",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "78f01bab-eb2a-5778-9ea2-cbc89f02009d": {
+    "id": "78f01bab-eb2a-5778-9ea2-cbc89f02009d",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Knight Frida Candle-Blade",
+    "cost": 100,
+    "description": "Although the Nords have their own pantheon, an increasing number of Nords in Cyrodiil have begun to worship the Nine Divines. In Frida’s case, she’s adopted one more aspect of Imperial culture: knighthood. As one of the few female hopefuls seeking the relics of the Divine Crusader, Frida also seeks to bring the perpetrators of the recent chapel massacre in Anvil to justice. Skilled with a blade she is quick to leap to another’s aid, although the Nord woman’s chivalric demeanour is sometimes broken when encountering particularly troublesome foes (or when she’s drunk, as she’s taken no vows of asceticism- or chastity, for that matter) with a flurry of curses escaping her lips, something which she is also often repentant for. She has all the perks and freebie items of the Follower of the Nine origin.",
+    "origin": "The Elder Scrolls IV - Oblivion (By YJ_Anon)."
+  },
+  "7771c232-42e8-5525-8466-4b8855a77a0a": {
+    "id": "7771c232-42e8-5525-8466-4b8855a77a0a",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Knight Lodge",
+    "cost": 600,
+    "description": "Holy men of all stripes need a place to rest their heads, and this large, fortified estate is the perfect place to do so. Outwardly humble in appearance, with a large garden and a well capable of supplying food and water in the event of a siege, the lodge is home to several dozen knights- each with their own followers to help ready them for battle or attend to the daily upkeep of the lodge itself. These knights each have their own equipment- good, quality steel is the least you can expect- with a few bearing lesser, worthy of their noble lineage. They are all greatly experienced fighters, and more than willing to follow you into battle wherever that may lead them. Also present is a stable, where they’ll keep their horses; a small chapel building, for their religious ceremonies; a cemetery just outside of the chapel where you can bury the dead; and of course the lodge building itself, which is home to living quarters, an armoury, a dining room and kitchen, and several storerooms filled with misc. supplies and good wine. As the leader of the lodge, you also have your own quarters where you can store your things and have some privacy. The lodge is also home to a secret. You have in your possession a signet ring, which, when used, will reveal a secret route down into a catacomb beneath the manor. Any of your fallen knights who are interred here will be capable of serving your order beyond their death; become ghostly apparitions capable of fighting with the same skill and equipment they possessed before they died. Although they cannot venture out like their living brothers can they are more than free to wander around the estate they called home, advising those you’ve inducted since they passed and defending the lodge with righteous zeal. When they feel the time is right these spirits can depart to the afterlife, allowing you to move their remains to the cemetery so that more souls willing to take up the burden of undeath can be housed in the catacombs. Lastly, purchasing this will also give you a custom medallion that you can gift to those who join your order. Emblazoned with a design of your choice, these medallions serve as an identifier for your order, and are additionally imbued with a weak enchantment of your choice. You will find a new medallion in your quarters after gifting the medallion to another; you also have one for yourself and each of your companions.",
+    "origin": "The Elder Scrolls IV - Oblivion (By YJ_Anon)."
+  },
+  "6a487a32-adcb-52f2-8eab-31c02f6d37e3": {
+    "id": "6a487a32-adcb-52f2-8eab-31c02f6d37e3",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Knight of the Nine",
+    "cost": 100,
+    "description": "Founded in 3E 111, the Order had the intent of recovering the lost relics of the Divine Crusader, who was killed and scattered while fighting the forces of Daedric Prince Meridia. This self-appointed knight sees the wisdom in that. She has always recognized the importance of being prepared to battle evil. Formally trained as a priestess, she has plenty of training in healing magic, recognised for matching her acceptable combat prowess. A believer in the aedra, she has dedicated herself to the teachings of one and can share many stories and scripture about her patron. Seeing you as a heroic figure who is capable of standing against powerful evil, she has sworn into your service on her honour as a knight. They have a knack for finding clear meaning in old stories, especially when it comes to discovering hints of long-lost relics.",
+    "origin": "The Elder Scrolls IV - Oblivion (Stupid_dog's Version)"
+  },
+  "729c6344-844c-5604-970d-b1d3193afcee": {
+    "id": "729c6344-844c-5604-970d-b1d3193afcee",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Nameless Knight",
+    "cost": 50,
+    "description": "In another time, she might have been called a tomboy growing up: wrestling with her brothers, going out to hunt with them despite her poor mother’s best efforts to get her to be more lady-like, training in the yard and showing off a skill and tenacity that her father could not help but praise. Having grown up on stories of heroism and courage in a time seemingly long since past, she became eager to live up to those old tales, setting out from her home to act as a proper knight should, battling bandits and protecting the innocent. Yet, knowing her actions might bring shame or disdain to her family, the young woman swore to never reveal her name to anyone, except to a friend tried and true. Perhaps you are that friend, or perhaps you are her friendly rival or squire, or a magical mentor? No matter what you are, she’s decided you’re worth fighting with and for.",
+    "origin": "Sword In The Stone"
+  },
+  "774f6892-7c58-5f2d-95f3-2a0ca8be46e6": {
+    "id": "774f6892-7c58-5f2d-95f3-2a0ca8be46e6",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Noble Connections",
+    "cost": 400,
+    "description": "King Uther’s court might be disbanded, but that doesn’t mean the knights and nobles don’t keep in contact with each other. Sir Pellinore and Sir Ector maintained their friendship after all these years, after all. You too possess a great deal of connections and bonds with your fellows, though the depths of these bonds vary. With some, it’s more distant, formal, willing to meet with you and negotiate with you, but not much else. With others, it’s a bond of deep friendship, such that a knight might give up their own aim for the crown to help you or your child, though with some reluctance if you are incapable. Still, connections like these mean you can gather a wide network of allies and supporters very quickly if you’re clever. In future jumps, you will have similar connections amongst the upper class.",
+    "origin": "Sword In The Stone"
+  },
+  "cf068c7b-49dc-505f-864c-2680bdf9cbd6": {
+    "id": "cf068c7b-49dc-505f-864c-2680bdf9cbd6",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Round Table",
+    "cost": 300,
+    "description": "A table, round to show that all sit there are equals. Moreover, this table is possessed by a spirit, the Lady of the Table, who will serve as your advisor or shoulder to cry on. The Lady’s blessing also allows the most famed use- when a group comes together and speaks the oath- “We are the Knights of Justice! We pledge fairness to all, to protect the weak and vanquish the evil!”- they are transformed, gaining the armor and powers of Knights of Justice, at least long enough to complete their mission. If the oath is insincere, the Lady senses it and will not transform someone. Being a bit closer to the Morte d’Arthur table than the one in the show, yours seats 250 people. It’s harder to make dinner conversation, but easier to field meaningful numbers of Knights.",
+    "origin": "King Arthur & the Knights of Justice"
+  },
+  "4e6e04a3-5fb9-509f-b5ce-e77f30fa7ec3": {
+    "id": "4e6e04a3-5fb9-509f-b5ce-e77f30fa7ec3",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Shrubbery",
+    "cost": 100,
+    "description": "An ordinary shrubbery grown by a skilled shrubber. You will find that, for some reason, this shrubbery has an inflated value as a trade object, allowing you to exchange it for vastly more than it should be worth. If you trade away this shrubbery, you get a new one after 1 year or",
+    "origin": "Monty Python and the Holy Grail"
+  },
+  "2219fe08-82be-58c1-aaf4-1aca5217a90f": {
+    "id": "2219fe08-82be-58c1-aaf4-1aca5217a90f",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "The Darkness To Your Light",
+    "cost": 100,
+    "description": "The Lady Morgana. Ward and unknowingly to her daughter of the King, really wants to help everyone (especially those with magic) but is easily corrupted.",
+    "origin": "BBC Merlin Jump By: Kuriboh_Knight97"
+  },
+  "8c8a3697-7311-5068-9954-f6642fa39f72": {
+    "id": "8c8a3697-7311-5068-9954-f6642fa39f72",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "The Unicorn",
+    "cost": 200,
+    "description": "A Unicorn is the embodiment of purity and innocence, a force of magic so powerful that one’s capture acted magically much as if someone had shifted the poles of the Earth. Unicorns can also speak to and command all animal life. This one has taken a liking to you and agreed to help on your future quests.",
+    "origin": "King Arthur & the Knights of Justice"
+  },
+  "dd5c9c74-a498-543e-86ce-26512c46c6d6": {
+    "id": "dd5c9c74-a498-543e-86ce-26512c46c6d6",
+    "sourceId": "celestial_knight",
+    "edition": "default",
+    "chapter": "Round Table",
+    "name": "Vain Castle",
+    "cost": 400,
+    "description": "Rebuilt from a Roman fort, but greater and more magnificent. This castle is defensible by the standards of the age, though it won’t hold up to a persistent dragon. It comes with several secret passages to allow you to escape or enter unseen and even move between certain rooms, enough guards to man its walls, and a retinue of servants to maintain it and tend to your needs while you are within it. Inactive companions may stay in this castle, and it will retain modifications you make to it. Even if you do not make modifications, it will automatically update to remain a defensible fortification by the standards of a new jump, though it will not retain these automatic modifications unless you actively put work and materials into matching these updates. It will not downgrade below the standards of a medieval castle if you go to a pre-medieval world.",
+    "origin": "Dragonheart Jump"
+  }
+}
