@@ -259,6 +259,20 @@ testAsync('parseMarkdown handles name line followed by cost line', async () => {
 	assert.strictEqual(rows[0].description, 'You know hatred.');
 });
 
+testAsync('parseMarkdown handles name line followed by cost line with trailing period', async () => {
+	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-md-'));
+	const filePath = path.join(dir, 'sample.md');
+
+	await fs.promises.writeFile(filePath, ['God:', '', '111. Anti-Life Comprehension', '', '1600 CP.', '', 'It is the Anti-Life Equation.'].join('\n'), 'utf8');
+
+	const { rows } = await parseMarkdown(filePath);
+
+	assert.strictEqual(rows.length, 1);
+	assert.strictEqual(rows[0].cost, 1600);
+	assert.strictEqual(rows[0].name, 'Anti-Life Comprehension');
+	assert.strictEqual(rows[0].description, 'It is the Anti-Life Equation.');
+});
+
 testAsync('parseMarkdown uses preceding heading as name for cost-only entries', async () => {
 	const dir = await fs.promises.mkdtemp(path.join(os.tmpdir(), 'csv-chaos-md-'));
 	const filePath = path.join(dir, 'sample.md');

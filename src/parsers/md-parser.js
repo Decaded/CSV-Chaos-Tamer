@@ -378,7 +378,7 @@ async function parseMarkdown(filePath) {
 			}
 
 			const nextLineCostIndex = descLines.findIndex(line => line.trim());
-			const nextLineCost = nextLineCostIndex >= 0 ? descLines[nextLineCostIndex].trim().match(/^(-?\d+(?:\s*(?:CP|BP|KP))?|Free|Variable\s+CP)\s*:?\s*$/i) : null;
+			const nextLineCost = nextLineCostIndex >= 0 ? descLines[nextLineCostIndex].trim().match(/^(-?\d+(?:\s*(?:CP|BP|KP))?|Free|Variable\s+CP)\s*:?\.?\s*$/i) : null;
 			const parsedCost = transforms.cost(cost);
 			const costLooksLikeMetadata = typeof parsedCost !== 'number' && !/free|\d/i.test(String(parsedCost));
 			if (nextLineCost && (cost === 'Free' || costLooksLikeMetadata)) {
